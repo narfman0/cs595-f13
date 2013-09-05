@@ -20,10 +20,12 @@ school=sys.argv[0]
 sleepTime=sys.argv[1]
 uriScores=sys.argv[2]
 
-response = urllib.request.urlopen(uriScores)
-soup = BeautifulSoup(response.read())
-
 while 1:
+    #get html
+    response = urllib.request.urlopen(uriScores)
+    soup = BeautifulSoup(response.read())
+    response.close()
+
     #iterate over each university matching. don't know if there are any similar schools but why not.
     for university in soup.findAll('a',{'title':school}):
         game = university.findParent().findParent().findParent().findParent().findParent()
