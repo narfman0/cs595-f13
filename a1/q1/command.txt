@@ -1,0 +1,26 @@
+#found a great little tutorial on http://curl.haxx.se/docs/httpscripting.html
+narfman0@fx3850 ~
+$ curl "http://www.w3schools.com/html/html_form_action.asp?name=jrobison"
+<html>
+<head>
+
+<title>Forms action page</title>
+</head>
+<body bgcolor="#e5eecc">
+<h3>Your input was received as:</h3>
+<h3>
+name=jrobison
+</h3>
+<p>
+This page was returned to you from the server.
+The server has processed your input and returned this answer.
+It is not a part of the HTML tutorial to teach you how the server is processing this input.
+If you want to learn more about
+processing form input, you can study it in our ASP tutorial.
+</p>
+
+<p>Use the back button in your browser to return to your example.</p>
+
+</body>
+</html>
+
