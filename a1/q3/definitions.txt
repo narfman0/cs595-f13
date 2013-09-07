@@ -1,0 +1,6 @@
+IN consists of pages that can reach the SCC, but cannot be reached from it
+SCC a set of nodes (pages) such that for any pair of nodes u and v in the set there is a path from u to v
+OUT consists of pages that are accessible from the SCC, but do not link back to it
+TENDRILS contain pages that cannot reach the SCC, and cannot be reached from the SCC
+TUBE a TENDRIL hanging off from IN to be hooked into a TENDRIL leading into OUT; a passage from a portion of IN to a portion of OUT without touching SCC
+DISCONNECTED Fits none of the above
