@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 #url manipulation: http://docs.python.org/3.1/howto/urllib2.html
 #arguments: http://www.diveintopython.net/scripts_and_streams/command_line_arguments.html
 #initial bs: http://www.crummy.com/software/BeautifulSoup/
@@ -9,16 +10,16 @@ import urllib.request
 from bs4 import BeautifulSoup
 
 if len(sys.argv) != 4:
-    print('Usage: python3 ScoreScanner.py teamName waitTime uri')
+    print('Usage: ./ScoreScanner.py teamName waitTime uri')
     print('  Where teamName is your favorite team, e.g. South Carolina')
     print('    waitTime is a timeout between refreshing the scores, e.g. 5')
     print('    uri is the scores.espn.go.com child representing the database from which to draw, e.g. http://scores.espn.go.com/ncf/scoreboard?confId=80&seasonYear=2013&seasonType=2&weekNumber=1')
     print('Since you left these arguments blank, assuming defaults')
-    sys.argv=["South Carolina",5,"http://scores.espn.go.com/ncf/scoreboard?confId=80&seasonYear=2013&seasonType=2&weekNumber=1"]
+    sys.argv=['script','South Carolina','5','http://scores.espn.go.com/ncf/scoreboard?confId=80&seasonYear=2013&seasonType=2&weekNumber=1']
 
-school=sys.argv[0]
-sleepTime=sys.argv[1]
-uriScores=sys.argv[2]
+school=sys.argv[1]
+sleepTime=int(sys.argv[2])
+uriScores=sys.argv[3]
 
 while 1:
     #get html
