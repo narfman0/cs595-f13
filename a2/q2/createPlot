@@ -1,0 +1,30 @@
+#!/bin/bash
+#This script takes as an argument the path to a file. This file contains a
+#newline delimited list of links to be counted for a histogram. The contents
+#will then be used to create a histogram using gnuplot.
+export DATA_FILE=$1
+export MEMENTO_COUNT_FILE="mementoCount.txt"
+export BIN_COUNT=50
+echo "Using DATA_FILE=$DATA_FILE"
+
+function initializeBins{
+	for i in {0..$BIN_COUNT};do
+		bins[$i]=0
+	done
+}
+
+function getCount{
+	for link in `cat $DATA_FILE`; do
+		export CURL_TARGET="http://mementoproxy.cs.odu.edu/aggr/timemap/link/$link"
+		curl $CURL_TARGET > curl.current
+		export MEMENTO_COUNT=`cat curl.current | grep "rel=\"memento\"" | wc -l`
+		export BIN=$MEMENTO_COUNT/$BIN_COUNT
+		bins[$BIN]++
+		rm curl.current
+		echo "Memento count for $link: $MEMENTO_COUNT"
+		echo $link $MEMENTO_COUNT >> $MEMENTO_COUNT_FILE
+	done
+}
+
+initializeBins
+#getCount
