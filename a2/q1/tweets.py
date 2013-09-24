@@ -2,6 +2,7 @@
 from __future__ import unicode_literals
 import requests
 from requests_oauthlib import OAuth1
+import urllib
 from urllib.parse import urlparse
 
 CONSUMER_KEY = "dbr6Ce0ahKsr4QMyIxElQ"
@@ -28,8 +29,22 @@ def twitter_search(oauth, uri_list, suffix):
         r = requests.get(url='https://api.twitter.com/1.1/search/tweets.json?q=' + suffix + term + '&filter%3Alinks&count=1000', auth=oauth)
         for status in r.json()['statuses']:
             for url in status['entities']['urls']:
+                if len(uri_list) == 1000:
+                    return
                 if 'expanded_url' in url:
-                    uri_list.add((urlparse(url['expanded_url']).netloc))
+                    uri = url['expanded_url']
+                    try:
+                        r=requests.get(uri)
+                        if r.status_code == 200 and not r.url in uri_list:
+                            uri_list.add(r.url)
+                            print('Added uri: ' + r.url + ' #' + str(len(uri_list)))
+                    except requests.exceptions.ConnectionError as e:
+                        continue
+                    except UnicodeEncodeError as e:
+                        continue
+                    except IOError as e:
+                        continue
+
 
 if __name__ == "__main__":
     oauth = get_oauth()
