@@ -18,12 +18,11 @@ if __name__ == "__main__":
 	with open(input, 'r') as f:
 		with open('gnuplot.dat', 'w') as o:
 			for line in f:
-				mementoCount = int(line.split(' ')[1])
+				mementoCount = int(line.split(' ')[1].strip())
+				uri = line.split(' ')[0].strip()
 				if not mementoCount == 0:
-					uri = line.split(' ')[0]
 					earliest = carbonDate(uri)
 					days = getDays(earliest)
 					o.write(str(mementoCount) + " " + str(days) + '\n')
-					exit
 				else:
-					print('Skipping uri ' + line.split(' ')[0])
+					print('Skipping uri ' + uri)
