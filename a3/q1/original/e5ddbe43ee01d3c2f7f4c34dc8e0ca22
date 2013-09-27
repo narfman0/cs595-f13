@@ -1,0 +1,1905 @@
+
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+    <link type="text/css" href="http://www.recital.cl/menu/menu.css" rel="stylesheet" />
+    <style type="text/css">
+    @import url("webfonts/futura_condensed_0/stylesheet.css"");
+@import url("webfonts/futura_condensed_0/stylesheet.css");
+body,td,th {
+	font-family: "futura condensed 0";
+}
+    a {
+	font-family: "futura condensed 0";
+}
+    #apDiv1 {
+	position: absolute;
+	width: 75px;
+	height: 34px;
+	z-index: 10000;
+	left: 0px;
+        top: 0px;
+        background-color: black;
+}
+    </style>
+    <script type="text/javascript" src="http://www.recital.cl/menu/jquery.js"></script>
+    <script type="text/javascript" src="http://www.recital.cl/menu/menu.js"></script>
+
+<style type="text/css" mm_ta_background="menu">
+ { margin: 0;
+    padding: 0;
+}
+body { background:rgb(0,0,0); }
+div#menu { margin:0px 0px 0px -11px; }
+div#copyright {
+    font:40px '"futura condensed 0"';
+    color:#255;
+    text-indent:30px;
+    padding:40px 0 0 0;
+}
+div#copyright a { color:#aaa; }
+div#copyright a:hover { color:#255; }
+</style>
+
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" lang="es-ES">
+
+
+<head profile="http://gmpg.org/xfn/11">
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+
+
+
+<! Dynamic Title Tag Optimized for Search Engine Visibility -->
+
+<title>Gana entrada doble para One Direction en Chile | Recital.cl</title>
+
+
+
+
+
+<!-- CSS para Grilla 960 -->
+
+<link rel="stylesheet" type="text/css" media="all" href="http://www.recital.cl/wax/wp-content/themes/recital_2012/css/reset.css" />
+
+<link rel="stylesheet" type="text/css" media="all" href="http://www.recital.cl/wax/wp-content/themes/recital_2012/css/960.css" />
+
+<link rel="shortcut icon" href="http://www.recital.cl/wax/favicon.ico">
+
+<link href="http://fonts.googleapis.com/css?family=PT+Serif|Share|Oswald:400,700,300" rel="stylesheet" type="text/css">
+
+
+
+<link rel="stylesheet" href="http://www.recital.cl/wax/wp-content/themes/recital_2012/style.css" type="text/css" media="screen" />
+
+<link rel="alternate" type="application/rss+xml" title="Recital.cl RSS Feed" href="http://www.recital.cl/feed/" />
+
+<link rel="alternate" type="application/atom+xml" title="Recital.cl Atom Feed" href="http://www.recital.cl/feed/atom/" />
+
+<link rel="pingback" href="http://www.recital.cl/wax/xmlrpc.php" />
+
+
+
+
+<!-- NIVO LOLA -->
+
+<!--<link rel="stylesheet" type="text/css" href="http://www.recital.cl/wax/wp-content/themes/recital_2012/scripts/nivo-slider.css" media="screen" />
+
+<link rel="stylesheet" href="http://www.recital.cl/wax/wp-content/themes/recital_2012/scripts/themes/default/default.css" type="text/css" media="screen" />-->
+
+<!-- CIERRE NIVO LOLA -->
+
+
+
+
+
+
+	<!--[if IE 7]>
+
+	<style type="text/css" media="screen">
+
+		@import url( http://www.recital.cl/wax/wp-content/themes/recital_2012/ie7.css );
+
+	</style>
+
+	<![endif]-->	
+
+	<!--[if IE 6]>
+
+	<style type="text/css" media="screen">
+
+		@import url( http://www.recital.cl/wax/wp-content/themes/recital_2012/ie6.css );
+
+	</style>
+
+	<![endif]-->	
+
+	
+
+<!--Dejar entre comentarios este codigo para borrar grilla 	<style type="text/css" media="all">
+
+	.container_12
+
+	{
+
+		background: #fff url(http://www.recital.cl/wax/wp-content/themes/recital_2012/images/12_col.gif) repeat-y;
+
+	}
+
+	.container_16
+
+	{
+
+		background: #fff url(http://www.recital.cl/wax/wp-content/themes/recital_2012/images/16_col.gif) repeat-y;
+
+	}
+
+	</style>matriz-->
+
+
+
+	<script src="http://www.recital.cl/wax/wp-content/plugins/nextgen-gallery/shutter/shutter-reloaded.js?ver=1.3.3" defer></script>
+
+	<script src="http://www.recital.cl/wax/wp-content/plugins/nextgen-gallery/js/jquery.cycle.all.min.js?ver=2.9995" defer></script>
+    
+    
+    
+    
+    
+    
+    
+    <style type="text/css">
+@import "jquery.countdown.css";
+
+#defaultCountdown { width: 240px; height: 45px; }
+</style>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+<script type="text/javascript" src="jquery.countdown.js"></script>
+<script type="text/javascript">
+$(function () {
+	var austDay = new Date();
+	austDay = new Date(austDay.getFullYear() + 1, 1 - 1, 26);
+	$('#defaultCountdown').countdown({until: austDay});
+	$('#year').text(austDay.getFullYear());
+});
+</script>
+    
+    
+    
+    
+    
+    
+    
+    
+    <!-- LINEUP -->
+    
+    <script language="javascript">
+		function showLightbox() {
+    		document.getElementById('over').style.display='block';
+    		document.getElementById('fade').style.display='block';
+		}
+		function hideLightbox() {
+    		document.getElementById('over').style.display='none';
+    		document.getElementById('fade').style.display='none';
+		}
+	</script>
+    
+    <!-- FIN LINEUP -->
+    
+    
+    
+    
+    
+
+            <script type="text/javascript">//<![CDATA[
+            // Google Analytics for WordPress by Yoast v4.3.3 | http://yoast.com/wordpress/google-analytics/
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-25383557-1']);
+				            _gaq.push(['_setCustomVar',1,'post_type','post',3],['_setCustomVar',2,'tags','1-de-mayo-de-2014-one-direction concurso-entradas-one-direct',3],['_setCustomVar',3,'year','2013',3],['_setCustomVar',4,'category','concursos',3],['_setCustomVar',5,'categories','concursos destacados',3],['_trackPageview']);
+            (function () {
+                var ga = document.createElement('script');
+                ga.type = 'text/javascript';
+                ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+
+                var s = document.getElementsByTagName('script')[0];
+                s.parentNode.insertBefore(ga, s);
+            })();
+            //]]></script>
+			<link rel="alternate" type="application/rss+xml" title="Recital.cl &raquo; Concurso por entrada doble para One Direction en Chile RSS de los comentarios" href="http://www.recital.cl/2013/08/concurso-por-entrada-doble-para-one-direction-en-chile/feed/" />
+<link rel='stylesheet' id='jquery-plugins-slider-style-css'  href='http://www.recital.cl/wax/wp-content/plugins/nextgen-nivoslider/stylesheets/nivo-slider.css?ver=3.6' type='text/css' media='all' />
+<link rel='stylesheet' id='ngg-nivoslider-theme-css'  href='http://www.recital.cl/wax/wp-content/plugins/nextgen-nivoslider/themes/light/light.css?ver=3.6' type='text/css' media='all' />
+<link rel='stylesheet' id='tubepress-css'  href='http://www.recital.cl/wax/wp-content/plugins/tubepress/src/main/web/css/tubepress.css?ver=3.6' type='text/css' media='all' />
+<link rel='stylesheet' id='nrelate-style-common-0-52-4-css'  href='http://www.recital.cl/wax/wp-content/plugins/nrelate-most-popular/admin/styles/nrelate-panels-common.min.css?ver=0.52.4' type='text/css' media='all' />
+<link rel='stylesheet' id='wordpress-popular-posts-css'  href='http://www.recital.cl/wax/wp-content/plugins/wordpress-popular-posts/style/wpp.css?ver=2.3.7' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='http://www.recital.cl/wax/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=3.5.2' type='text/css' media='all' />
+<!--[if IE 6]>
+<link rel='stylesheet' id='nrelate-ie6-0-52-4-css'  href='http://www.recital.cl/wax/wp-content/plugins/nrelate-most-popular/admin/styles/ie6-panels.min.css?ver=0.52.4' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='nrelate-style-huf-0-52-4-css'  href='http://www.recital.cl/wax/wp-content/plugins/nrelate-most-popular/admin/styles/nrelate-panels-huf.min.css?ver=0.52.4' type='text/css' media='all' />
+<link rel='stylesheet' id='nrelate-style-default-0-52-4-css'  href='http://www.recital.cl/wax/wp-content/plugins/nrelate-most-popular/admin/styles/nrelate-panels-default.min.css?ver=0.52.4' type='text/css' media='all' />
+<link rel='stylesheet' id='wpns-style-css'  href='http://www.recital.cl/wax/wp-content/plugins/wp-nivo-slider/nivo-slider.css?ver=3.6' type='text/css' media='all' />
+<link rel='stylesheet' id='wpns-style-theme-css'  href='http://www.recital.cl/wax/wp-content/plugins/wp-nivo-slider/themes/dark/dark.css?ver=3.6' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-polls-css'  href='http://www.recital.cl/wax/wp-content/plugins/wp-polls/polls-css.css?ver=2.63' type='text/css' media='all' />
+<link rel='stylesheet' id='easymedia_styles-css'  href='http://www.recital.cl/wax/wp-content/plugins/easy-media-gallery-pro/css/frontend.css?ver=3.6' type='text/css' media='all' />
+<link rel='stylesheet' id='socialize-css'  href='http://www.recital.cl/wax/wp-content/plugins/socialize/frontend/css/socialize.css?ver=3.6' type='text/css' media='all' />
+<link rel='stylesheet' id='nivo_theme_style-css'  href='http://www.recital.cl/wax/wp-content/themes/recital_2012/themes/default/default.css?ver=3.6' type='text/css' media='all' />
+<link rel='stylesheet' id='nivo_main_style-css'  href='http://www.recital.cl/wax/wp-content/themes/recital_2012/js/nivo-slider.css?ver=3.6' type='text/css' media='all' />
+  <script type="text/javascript">var nr_domain = "www.recital.cl", nr_is_home = 0, nr_pageurl = 'http://www.recital.cl/2013/08/concurso-por-entrada-doble-para-one-direction-en-chile/';</script>
+  <script async type="text/javascript" id="nrelate_loader_script" data-nrelate-options="{&quot;plugins&quot;:{&quot;related&quot;:{&quot;cssstyle&quot;:&quot;default&quot;,&quot;thumbsize&quot;:100,&quot;widgetstyle&quot;:1},&quot;popular&quot;:{&quot;cssstyle&quot;:&quot;huf&quot;,&quot;thumbsize&quot;:80,&quot;widgetstyle&quot;:1,&quot;maxageposts&quot;:1051200}}}" src="http://www.recital.cl/wax/wp-content/plugins/nrelate-most-popular/admin/nrelate_js.min.js?ver=0.52.4"></script><script type='text/javascript' src='http://ajax.googleapis.com/ajax/libs/jquery/1.6/jquery.min.js?ver=3.6'></script>
+<script type='text/javascript' src='http://www.recital.cl/wax/wp-content/plugins/tubepress/src/main/web/js/tubepress.js?ver=3.6'></script>
+<script type='text/javascript' src='http://www.recital.cl/wax/wp-content/plugins/easy-media-gallery-pro/includes/js/jquery/jquery.fittext.js?ver=3.6'></script>
+<script type='text/javascript' src='http://www.recital.cl/wax/wp-content/plugins/easy-media-gallery-pro/includes/js/mootools/mootools-core-1.4.5-min.js?ver=3.6'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var EasyM = {"nblaswf":"http:\/\/www.recital.cl\/wax\/wp-content\/plugins\/easy-media-gallery-pro\/includes\/swf\/NonverBlaster.swf","audiovol":"75","audioautoplay":"true","audioloop":"true","vidautopa":"&autoplay=1","vidautopb":"?autoplay=1","vidautopc":"1","vidautopd":"true","mediaswf":"http:\/\/www.recital.cl\/wax\/wp-content\/plugins\/easy-media-gallery-pro\/includes\/addons\/mediaelement\/flashmediaelement.swf","ajaxpth":"http:\/\/www.recital.cl\/wax\/wp-content\/plugins\/easy-media-gallery-pro\/includes\/ajax.php","ovrlayop":"0.8","closepos":"0","sospos":"0"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.recital.cl/wax/wp-content/plugins/easy-media-gallery-pro/includes/js/mootools/easymedia.js?ver=3.6'></script>
+<script type='text/javascript' src='http://www.recital.cl/wax/wp-content/plugins/easy-media-gallery-pro/includes/js/jquery/jquery.isotope.min.js?ver=3.6'></script>
+<script type='text/javascript' src='http://www.recital.cl/wax/wp-content/plugins/easy-media-gallery-pro/includes/js/func/frontend.js?ver=3.6'></script>
+<script type='text/javascript' src='http://www.recital.cl/wax/wp-content/plugins/easy-media-gallery-pro/includes/js/func/ajax-frontend.js?ver=3.6'></script>
+<script type='text/javascript' src='http://www.recital.cl/wax/wp-content/plugins/shoutcast-icecast-html5-radio-player/html5/jscolor.js?ver=3.6'></script>
+<script type='text/javascript' src='http://www.recital.cl/wax/wp-content/plugins/wp-nivo-slider/jquery.nivo.slider.pack.js?ver=3.2'></script>
+<script type='text/javascript' src='http://www.recital.cl/wax/wp-content/themes/recital_2012/js/jquery.nivo.slider.pack.js?ver=3.6'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.recital.cl/wax/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.recital.cl/wax/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 3.6" />
+<link rel='shortlink' href='http://www.recital.cl/?p=30214' />
+<link rel="alternate stylesheet" title="Dark" type="text/css" media="screen,projection" href="http://www.recital.cl/wax/wp-content/plugins/easy-media-gallery-pro/css/styles/mediabox/Dark.css" />
+<link rel="alternate stylesheet" title="Light" type="text/css" media="screen,projection" href="http://www.recital.cl/wax/wp-content/plugins/easy-media-gallery-pro/css/styles/mediabox/Light.css" />
+<link rel="alternate stylesheet" title="Transparent" type="text/css" media="screen,projection" href="http://www.recital.cl/wax/wp-content/plugins/easy-media-gallery-pro/css/styles/mediabox/Transparent.css" />
+
+<script src="http://www.recital.cl/wax/wp-content/plugins/easy-media-gallery-pro/includes/js/func/styleswitcher.js"></script>
+<script src="http://www.recital.cl/wax/wp-content/plugins/easy-media-gallery-pro/includes/addons/mediaelement/mediaelement-and-player.min.js"></script>
+<link href="http://www.recital.cl/wax/wp-content/plugins/easy-media-gallery-pro/includes/addons/mediaelement/mediaelementplayer-skin-yellow.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="http://www.recital.cl/wax/wp-content/plugins/easy-media-gallery-pro/includes/dynamic-style.php" type="text/css" media="screen" />    
+
+<!-- Easy Media Gallery PRO START (version 1.3.1.3)-->       
+    
+    <script type="text/javascript">
+	/*<![CDATA[*/
+	/* Easy Media Gallery */
+    jQuery(document).ready(function($) {
+		/* Mediabox init */
+			var add = "easymedia";
+			jQuery('.da-thumbs emgpro a[rel!="easymedia"]').attr('rel', function (i, old) {
+				return old ? old + ' ' + add : add; });	
+		});
+		
+	easyActiveStyleSheet('Dark');
+	var fend = [];
+	fend[0] = 'http://www.recital.cl/wax/wp-content/plugins/easy-media-gallery-pro/css/images/89.gif'; 
+	fend[1] = '#content';			
+    /*]]>*/</script>	
+
+ <!--[if lt IE 9]>
+<script src="http://www.recital.cl/wax/wp-content/plugins/easy-media-gallery-pro/includes/js/func/html5.js" type="text/javascript"></script>
+<![endif]-->   
+
+ <!--[if lt IE 9]>
+<script src="http://www.recital.cl/wax/wp-content/plugins/easy-media-gallery-pro/includes/js/func/html5shiv.js" type="text/javascript"></script>
+<![endif]-->  
+
+<!-- Easy Media Gallery PRO END  -->  
+    
+	<meta property="og:title" content="Concurso por entrada doble para One Direction en Chile"/>
+<meta property="og:type" content="article"/>
+<meta property="og:url" content="http://www.recital.cl/2013/08/concurso-por-entrada-doble-para-one-direction-en-chile/"/>
+<meta property="og:image" content="http://www.recital.cl/wax/wp-content/uploads/2013/05/one-direction2.jpg"/>
+<meta property="og:site_name" content="Recital.cl"/>
+<meta property="fb:page_id" content="on"/>
+<script type="text/javascript">var TubePressJsConfig = {"urls":{"base":"http:\/\/www.recital.cl\/wax\/wp-content\/plugins\/tubepress"}};</script>
+<style type="text/css">
+.wp-polls .pollbar {
+	margin: 1px;
+	font-size: 8px;
+	line-height: 10px;
+	height: 10px;
+	background-image: url('http://www.recital.cl/wax/wp-content/plugins/wp-polls/images/default_gradient/pollbg.gif');
+	border: 1px solid #c8c8c8;
+}
+</style>
+  <script type="text/javascript">var nr_domain = "www.recital.cl", nr_is_home = 0, nr_pageurl = 'http://www.recital.cl/2013/08/concurso-por-entrada-doble-para-one-direction-en-chile/';</script>
+  <script async type="text/javascript" id="nrelate_loader_script" data-nrelate-options="{&quot;plugins&quot;:{&quot;related&quot;:{&quot;cssstyle&quot;:&quot;default&quot;,&quot;thumbsize&quot;:100,&quot;widgetstyle&quot;:1},&quot;popular&quot;:{&quot;cssstyle&quot;:&quot;huf&quot;,&quot;thumbsize&quot;:80,&quot;widgetstyle&quot;:1,&quot;maxageposts&quot;:1051200}}}" src="http://www.recital.cl/wax/wp-content/plugins/nrelate-most-popular/admin/nrelate_js.min.js?ver=0.52.4"></script>
+<!-- All in One SEO Pack 2.0.3.1 by Michael Torbert of Semper Fi Web Design[1528,1610] -->
+<link rel="author" href="https://plus.google.com/u/0/b/114649441875862774593/114649441875862774593/" />
+<meta name="description" content="Estos son los requisitos." />
+
+<meta name="keywords" content="one direction, one direction en chile, one direction en estadio nacional, concurso entradas one direction, entradas one direction chile, harry styles, zayn malik, liam payne, niall horan, louis tomlinson, entradas gratis one direction, 1 de mayo de 2014 one direction,1 de mayo de 2014 one direction,concurso entradas one direction,entradas gratis one direction,entradas one direction chile,harry styles,liam payne,louis tomlinson,niall horan,one direction en chile,one direction en estadio nacional,zayn malik" />
+
+<link rel="canonical" href="http://www.recital.cl/2013/08/concurso-por-entrada-doble-para-one-direction-en-chile/" />
+		<script type="text/javascript">
+
+		  var _gaq = _gaq || [];
+		  _gaq.push(['_setAccount', 'UA-25383557-1']);
+		  _gaq.push(['_trackPageview']);
+		  (function() {
+		    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		  })();
+
+		</script>
+<!-- /all in one seo pack -->
+<meta property="og:site_name" content="Recital.cl" />
+<meta property="og:title" content="Concurso por entrada doble para One Direction en Chile" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://www.recital.cl/2013/08/concurso-por-entrada-doble-para-one-direction-en-chile/" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://www.recital.cl/2013/08/concurso-por-entrada-doble-para-one-direction-en-chile/" />
+<meta property="og:title" content="Concurso por entrada doble para One Direction en Chile" />
+<meta property="og:site_name" content="Recital.cl" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:description" content="Estos son los requisitos." />
+<meta property="og:image" content="http://www.recital.cl/wax/wp-content/uploads/2013/06/mapa-one-direction.jpg" />
+<meta property="fb:app_id" content="209090629177582" />
+<!-- Vipers Video Quicktags v6.4.5 | http://www.viper007bond.com/wordpress-plugins/vipers-video-quicktags/ -->
+<style type="text/css">
+.vvqbox { display: block; max-width: 100%; visibility: visible !important; margin: 10px auto; } .vvqbox img { max-width: 100%; height: 100%; } .vvqbox object { max-width: 100%; } 
+</style>
+<script type="text/javascript">
+// <![CDATA[
+	var vvqflashvars = {};
+	var vvqparams = { wmode: "opaque", allowfullscreen: "true", allowscriptaccess: "always" };
+	var vvqattributes = {};
+	var vvqexpressinstall = "http://www.recital.cl/wax/wp-content/plugins/vipers-video-quicktags/resources/expressinstall.swf";
+// ]]>
+</script>
+
+</head>
+
+<body onload="hideLightbox()"
+
+
+
+
+
+		>
+
+<div id="apDiv1"></div>
+<div id="page">
+
+			<div class="container_12">
+
+			<div id="header" class="grid_12 alpha"><!--Comienzo del Header-->
+
+				<div id="logorecital" class="grid_3 alpha"><!--Logo-->
+
+					<h1>Recital.cl</h1>
+
+					<a href="http://www.recital.cl/">
+                    <img src="http://www.recital.cl/wax/wp-content/themes/recital_2012/images/corporativo/logo2012.png" />
+                    </a>
+
+					<p class="description">::Recital.cl:: Todos tus recitales aquí&#8230;</p>
+
+				</div><!--fin Logo-->
+
+				<div id="bannerheader" class="grid_9 omega"><!--AD 728x90-->
+
+                	<!--/* OpenX Javascript Tag v2.8.10 */-->
+
+<!--/*
+  * The backup image section of this tag has been generated for use on a
+  * non-SSL page. If this tag is to be placed on an SSL page, change the
+  *   'http://www.cdcomp.cl/banner/www/delivery/...'
+  * to
+  *   'https://www.cdcomp.cl/banner/www/delivery/...'
+  *
+  * This noscript section of this tag only shows image banners. There
+  * is no width or height in these banners, so if you want these tags to
+  * allocate space for the ad before it shows, you will need to add this
+  * information to the <img> tag.
+  *
+  * If you do not want to deal with the intricities of the noscript
+  * section, delete the tag (from <noscript>... to </noscript>). On
+  * average, the noscript tag is called from less than 1% of internet
+  * users.
+  */-->
+
+<script type='text/javascript'><!--//<![CDATA[
+   var m3_u = (location.protocol=='https:'?'https://www.cdcomp.cl/banner/www/delivery/ajs.php':'http://www.cdcomp.cl/banner/www/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=1");
+   document.write ('&cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&exclude=" + document.MAX_used);
+   document.write (document.charset ? '&charset='+document.charset : (document.characterSet ? '&charset='+document.characterSet : ''));
+   document.write ("&loc=" + escape(window.location));
+   if (document.referrer) document.write ("&referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if (document.mmm_fo) document.write ("&mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script><noscript><a href='http://www.cdcomp.cl/banner/www/delivery/ck.php?n=a9061a58&cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://www.cdcomp.cl/banner/www/delivery/avw.php?zoneid=1&cb=INSERT_RANDOM_NUMBER_HERE&n=a9061a58' border='0' alt='' /></a></noscript>
+
+
+                </div><!--Fin AD 728x90-->
+
+			
+
+            	<div id="navigation" class="grid_9 omega"><!--Menu Navegacion-->
+
+            	
+
+				<div id="menu">
+  <ul class="menu">
+     <li><a href="http://www.recital.cl/" class="parent"><span>HOME</span></a></li>
+       
+      </li>
+                       
+        </li>
+        <li><a href="http://www.recital.cl/events/event/" class="parent"><span>RECITALES</span></a></li>
+    <li><a href="#" class="parent"><span>NOTICIAS</span></a>
+            <ul>
+                <li><a href="http://www.recital.cl/notas/noticias/" class="parent"><span>NOTICIAS</span></a>
+              <li><a href="#" class="parent"><span>REVISTAS</span></a>
+            </ul>
+        <li><a href="http://www.recital.cl/reviews/"><span>REVIEWS</span></a></li>
+        <li><a href="#" class="parent"><span>FOTOS&VIDEOS</span></a>
+            <ul>
+                <li><a href="http://www.recital.cl/bandas/" class="parent"><span>FOTOS</span></a>
+		<li><a href="http://www.recital.cl/videos_youtube/" class="parent"><span>ENTREVISTAS</span></a>
+              <li><a href="http://www.recital.cl/galeria-videos/" class="parent"><span>VIDEOS</span></a>
+              <li><a href="http://www.recital.cl/documentales/" class="parent"><span>DOCUMENTALES</span></a>
+          </ul>
+         <li><a href="#" class="parent"><span>CONCURSOS</span></a>
+            <ul>
+                <li><a href="http://www.recital.cl/concursos/" class="parent"><span>PARTICIPA</span></a>
+              <li><a href="http://www.recital.cl/notas/concurso_ganadores/" class="parent"><span>GANADORES</span></a>
+          </ul>
+      </li>
+		<li><a href="http://www.recital.cl/medios_social/"><span>SOCIALES</span></a></li>
+     <li><a href="#" class="parent"><span>FESTIVALES</span></a>
+            <ul>
+                <li><a href="http://www.recital.cl/lollapalooza/" class="parent"><span>LOLLAPALOOZA</span></a>
+              <li><a href="http://www.recital.cl/metalfest/" class="parent"><span>METALFEST</span></a>
+          </ul>
+     <li><a href="http://www.recital.cl/calendario-2/"><span>CALENDARIO</span></a></li>
+     <li class="last"><a href="http://www.recital.cl/contacto/"><span>CONTACTO</span></a></li>
+  </ul>
+</div>
+
+                </div><!--Fin Menu Navegacion-->
+
+			
+
+			</div><!-- fin del Header-->
+
+		
+
+			<div class="clear">&nbsp;</div>
+
+		
+
+		
+
+		
+
+	<div id="wrapper" class="container_12"><!--Comienzo Wrapper-->
+	<div id="content" class="grid_8"><!--Contenedor-->
+		<div class="grid_8 alpha superior">
+		
+			<div class="grid_8 alpha nota">
+        		<div class="grid_2 alpha"><img width="130" height="130" src="http://www.recital.cl/wax/wp-content/uploads/2013/05/one-direction2-130x130.jpg" class="attachment-titulosingle wp-post-image" alt="one direction" /></div><!--Foto pequeña del evento-->
+					<div class="grid_6 alpha">
+                		<h2>Concurso por entrada doble para One Direction en Chile</h2>
+    					<p><p>Estos son los requisitos.</p>
+</p>
+                	</div>
+        		</div><!--nota-->
+             <img width="620" height="640" src="http://www.recital.cl/wax/wp-content/uploads/2013/05/one-direction2-620x640.jpg" class="attachment-cabecera wp-post-image" alt="one direction" />		</div><!--Fin Superior-->
+
+	
+		<div class="post-30214 post type-post status-publish format-standard hentry category-concursos category-destacados tag-1-de-mayo-de-2014-one-direction tag-concurso-entradas-one-direction tag-entradas-gratis-one-direction tag-entradas-one-direction-chile tag-harry-styles tag-liam-payne tag-louis-tomlinson tag-niall-horan tag-one-direction tag-one-direction-en-chile tag-one-direction-en-estadio-nacional tag-zayn-malik" id="post-30214">
+		
+			
+			<div class="entrada">
+			<small>Publicado el  18 de agosto de 2013 </small>
+				<div class="socialize-in-content socialize-in-content-right"><div class="socialize-in-button socialize-in-button-vertical"><a href="http://twitter.com/share" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://twitter.com']);" class="twitter-share-button" data-url="http://www.recital.cl/2013/08/concurso-por-entrada-doble-para-one-direction-en-chile/" data-text="Concurso por entrada doble para One Direction en Chile" data-count="vertical" data-via="recitalcl" ><!--Tweetter--></a></div><div class="socialize-in-button socialize-in-button-vertical"><iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.recital.cl%2F2013%2F08%2Fconcurso-por-entrada-doble-para-one-direction-en-chile%2F&amp;send=false&amp;layout=box_count&amp;width=50&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font=arial&amp;height=65" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:50px; height:65px;" allowTransparency="true"></iframe></div><div class="socialize-in-button socialize-in-button-vertical"><g:plusone size="tall" href="http://www.recital.cl/2013/08/concurso-por-entrada-doble-para-one-direction-en-chile/"></g:plusone></div><div class="socialize-in-button socialize-in-button-vertical"><script type="in/share" data-url="http://www.recital.cl/2013/08/concurso-por-entrada-doble-para-one-direction-en-chile/" data-counter="top"></script></div></div><p>El grupo One Direction se presentará en vivo en el Estadio Nacional <a href="http://www.recital.cl/2013/06/anuncian-valores-de-entradas-para-one-direction/"  target="_blank">el día 1 de mayo</a>, evento que tiene sus entradas agotadas y con un proceso en curso por los <a href="http://www.recital.cl/2013/06/sernac-oficio-a-ticketek-por-reclamos-de-preventa-y-venta-de-one-direction/"  target="_blank">problemas vividos en la venta de boletos en Chile</a>.  Pensando en quienes no lograron boletos para ver a sus ídolos juveniles, ponemos a disposición de nuestros seguidores en las redes sociales una <strong>entrada doble</strong> para el sector Andes.</p>
+<p><strong>Concursa por entradas dobles, los requisitos son los siguientes</strong>:</p>
+<p>1.- Comentar porque te quieres ganar las entradas (en el interior de la nota si tienes Facebook, o bien comentar en un tweet usando @recitalcl si tienes Twitter)</p>
+<p><strong>Para los que tienen TWITTER</strong></p>
+<p>2.- Debes seguir nuestra cuenta en Twitter <a href="https://twitter.com/recitalcl" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://twitter.com']);">@recitalcl</a> hacer RT a este concurso.</p>
+<p>3.- Conseguir que 10 contactos tuyos se sumen a la comunidad @recitalcl y se suscriban a nuestro newsletter, que les permitirá recibir en su correo un resumen de las informaciones más importantes del día, recordatorios de conciertos, y avisos de sorteos. El formulario de inscripción está disponible en <a href="http://www.recital.cl/"  target="_blank">www.recital.cl </a></p>
+<p>3.- Haz el siguiente tweet: “#Recitalcl me lleva a @onedirection en Chile http://www.recital.cl/?p=30214 RT”</p>
+<p>4.- Envíanos un correo a concursos@recital.cl con tus datos personales: Nombre, Apellido, Rut y Teléfono de contacto. Y en asunto coloca: Concurso de entradas para One Direction</p>
+<p><strong>Para los que tienen FACEBOOK</strong></p>
+<p>1.- Debes seguir nuestra página de fans de Facebook (<a href="http://www.facebook.com/Recital.cl" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://www.facebook.com']);" target="_blank">http://www.facebook.com/Recital.cl</a>)</p>
+<p>2.- Comparte este concurso en tu muro</p>
+<p>3.- Haz que 10 amigos tuyos se sumen a <a href="http://www.facebook.com/Recital.cl" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://www.facebook.com']);" target="_blank">http://www.facebook.com/Recital.cl</a>) opción ME GUSTA. También pídeles que se suscriban a nuestro newsletter, que les permitirá recibir en su correo un resumen de las informaciones más importantes del día, recordatorios de conciertos, y avisos de sorteos. El formulario de inscripción está disponible en <a href="http://www.recital.cl/"  target="_blank">www.recital.cl </a></p>
+<p>4.- Envíanos un correo a concursos@recital.cl con tus datos personales: Nombre, Apellido, Rut y Teléfono de contacto. Y en asunto coloca: Concurso de entradas para One Direction</p>
+<p>La fecha del sorteo la informaremos más adelante, así que sigan atentos a nuestro portal !</p>
+<p><img class="alignnone size-full wp-image-28816" alt="mapa one direction Concurso por entrada doble para One Direction en Chile" src="http://www.recital.cl/wax/wp-content/uploads/2013/06/mapa-one-direction.jpg" width="589" height="558" title="Concurso por entrada doble para One Direction en Chile" /></p>
+<div class="socialize-containter" style="background-color:#8eb6c5; border: 1px solid #ddd;"><div class="socialize-buttons"><div class="socialize-button"><a href="http://twitter.com/share" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://twitter.com']);" class="twitter-share-button" data-url="http://www.recital.cl/2013/08/concurso-por-entrada-doble-para-one-direction-en-chile/" data-text="Concurso por entrada doble para One Direction en Chile" data-count="vertical" data-via="recitalcl" ><!--Tweetter--></a></div><div class="socialize-button"><iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.recital.cl%2F2013%2F08%2Fconcurso-por-entrada-doble-para-one-direction-en-chile%2F&amp;send=false&amp;layout=box_count&amp;width=50&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font=arial&amp;height=65" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:50px; height:65px;" allowTransparency="true"></iframe></div><div class="socialize-button"><g:plusone size="tall" href="http://www.recital.cl/2013/08/concurso-por-entrada-doble-para-one-direction-en-chile/"></g:plusone></div><div class="socialize-button"><script type="in/share" data-url="http://www.recital.cl/2013/08/concurso-por-entrada-doble-para-one-direction-en-chile/" data-counter="top"></script></div></div><div class="socialize-text">Si te ha gustado esta noticia,  <a href="#comments">dejanos tu comentario</a> o <a href="http://www.recital.cl/feed/"  title="Es muy simple suscribirse, click aquí">Suscribete a nuestras <abbr title="Es muy simple suscribirse">RSS</abbr> feed</a> para que en el futuro puedas leer directamente en tu lector de feed.</div></div><div class="compartir">
+                    <a title="Enviar a Twitter" href="http://twitter.com/share"
+class="twitter-share-button"
+data-count="horizontal"></a>
+                    <script type="text/javascript"
+src="http://platform.twitter.com/widgets.js"></script>
+                                    </div>
+<p class="FacebookLikeButton"><fb:like href="http%3A%2F%2Fwww.recital.cl%2F2013%2F08%2Fconcurso-por-entrada-doble-para-one-direction-en-chile%2F" layout="standard" show_faces="true" width="450" action="like" colorscheme="light"></fb:like></p>
+
+								<p>Tags: <a href="http://www.recital.cl/tag/1-de-mayo-de-2014-one-direction/" rel="tag">1 de mayo de 2014 One Direction</a>, <a href="http://www.recital.cl/tag/concurso-entradas-one-direction/" rel="tag">concurso entradas One Direction</a>, <a href="http://www.recital.cl/tag/entradas-gratis-one-direction/" rel="tag">entradas gratis One Direction</a>, <a href="http://www.recital.cl/tag/entradas-one-direction-chile/" rel="tag">entradas One Direction Chile</a>, <a href="http://www.recital.cl/tag/harry-styles/" rel="tag">Harry Styles</a>, <a href="http://www.recital.cl/tag/liam-payne/" rel="tag">Liam Payne</a>, <a href="http://www.recital.cl/tag/louis-tomlinson/" rel="tag">Louis Tomlinson</a>, <a href="http://www.recital.cl/tag/niall-horan/" rel="tag">Niall Horan</a>, <a href="http://www.recital.cl/tag/one-direction/" rel="tag">One Direction</a>, <a href="http://www.recital.cl/tag/one-direction-en-chile/" rel="tag">One Direction en Chile</a>, <a href="http://www.recital.cl/tag/one-direction-en-estadio-nacional/" rel="tag">One Direction en Estadio Nacional</a>, <a href="http://www.recital.cl/tag/zayn-malik/" rel="tag">Zayn Malik</a></p>				
+				
+<div class="nr_related_placeholder" data-permalink="http://www.recital.cl/2013/08/concurso-por-entrada-doble-para-one-direction-en-chile/" data-title="Concurso por entrada doble para One Direction en Chile"></div>
+				<div id="author-info">
+    				<div id="author-image">
+        			<a href="http://www.recital.cl"><img alt='' src='http://0.gravatar.com/avatar/4f286985edeff5d2b2bf2e81dab31d89?s=80&amp;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D80&amp;r=G' class='avatar avatar-80 photo' height='80' width='80' /></a>
+    			</div>   
+   				<div id="author-bio">
+       				<p>Escrito por  <a href="http://www.recital.cl" title="Visitar el sitio de Equipo Redacción" rel="author external">Equipo Redacción</a></p>
+        			<p></p>
+        			<p>Ver todos los post de <a href="http://www.recital.cl/author/redaccion/" title="Entradas de Equipo Redacción" rel="author">Equipo Redacción</a> </p>
+   				 </div>
+</div><!--Author Info-->
+				
+			</div><!-- end entry -->
+			
+		</div><!-- end post -->
+	
+    
+		
+<script>
+  (function($) {
+    $(function() {
+      if (!$('#fb-root').size()) {
+        $('body').append('<div id="fb-root"></div>');
+        (function(d, s, id) {
+          var js, fjs = d.getElementsByTagName(s)[0];
+          if (d.getElementById(id)) {return;}
+          js = d.createElement(s); js.id = id;
+          js.src = "//connect.facebook.net/es_ES/all.js#xfbml=1";
+          fjs.parentNode.insertBefore(js, fjs);
+        }(document, 'script', 'facebook-jssdk')); 
+      }
+    });
+    $.post('http://www.recital.cl/wax/wp-admin/admin-ajax.php', {
+      action: 'fbc_ping',
+      post_id: '30214',
+      nonce: 'a5c6f00aeb'
+    });  
+  })(jQuery);
+</script>
+
+<a name="comments"></a>
+
+<h3>DEJANOS TU COMENTARIO:</h3>
+
+<div id="FatPandaFacebookComments">
+  <noscript>
+    		<div class="facebook even thread-even depth-1" id="comment-10152">
+				<div class="comment-author vcard">
+						<cite class="fn"><a href="http://facebook.com/profile.php?id=100001556180013" onclick="javascript:_gaq.push(['_trackEvent','outbound-commentauthor','http://facebook.com']);"  rel='external nofollow' class='url'>Veronica Mendez Almarza</a></cite> <span class="says">dice:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://www.recital.cl/2013/08/concurso-por-entrada-doble-para-one-direction-en-chile/#comment-10152">
+			26 septiembre, 2013 a las 16:11</a>		</div>
+
+		<p>Me gustaría ganar las entradas para que mis hijas puedan cumplir su sueño , no alcanzamos a comprar las entradas , espero poder ganar <img src='http://www.recital.cl/wax/wp-includes/images/smilies/icon_smile.gif' alt=':)' class='wp-smiley' /> </p>
+
+		<div class="reply">
+					</div>
+		</div><!-- #comment-## -->
+		<div class="facebook odd alt thread-odd thread-alt depth-1" id="comment-10102">
+				<div class="comment-author vcard">
+						<cite class="fn"><a href="http://facebook.com/profile.php?id=100005164303743" onclick="javascript:_gaq.push(['_trackEvent','outbound-commentauthor','http://facebook.com']);"  rel='external nofollow' class='url'>María José Cárdenas Flores</a></cite> <span class="says">dice:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://www.recital.cl/2013/08/concurso-por-entrada-doble-para-one-direction-en-chile/#comment-10102">
+			24 septiembre, 2013 a las 19:26</a>		</div>
+
+		<p>Hola, me llamo maría josé, y me gustaria ganarme las entradas por el siguiente motivo: desde que conocí a estos chicos, siempre he deseado conocerlos, ya que ellos son los que me dan una sonrisa cada día, los que cumplieron su sueño tan solo nunca rindiéndose, ellos salieron adelante y han conseguido un gran triunfo en esta vida, amo sus canciones, su talento, su todo!!:) Y ellos me han enseñado a nunca rendirme, por algo estoy aquí paticipando&#8230;.. se qué hay muchas niñas que podrán cumplir su sueño, y estoy muy feliz de que lo hagan:)&#8230;. Pero&#8230; a mi igual me encantaría cumplirlo, como toda chica que los quiere conocer!! yo soy una de ellas, quiero cumplir un sueño, un sueeño que lo traigo de hace muchísimo tiempo, aveces he querido hasta rendirme pero yo me digo: no maria jose no te rindas, sigue adelante, como lo han hecho tus ídolos, tu cumplirás tu sueño, de todas formas, aunque pierdas y pierdas, sigue intentándolo, que tu podrás coseguir tu meta&#8230;.. Ellos son los que nunca hicieron que me rindiera, por eso estoy aquí&#8230; vivo a 9 horas de Santiago, por eso no pude comprar las entradas a tiempo, justo ese día yo me dije&#8230;Aquí se arruino mi sueño, y este concurso es una esperaanza para mi y lo agradezco mucho<br />
+Gracias por dejarme participar, encerio, y si no gano, seguiré intentando, no me rendiré&lt;3</p>
+
+		<div class="reply">
+					</div>
+		</div><!-- #comment-## -->
+		<div class="facebook even thread-even depth-1" id="comment-10101">
+				<div class="comment-author vcard">
+						<cite class="fn"><a href="http://facebook.com/profile.php?id=100002521409038" onclick="javascript:_gaq.push(['_trackEvent','outbound-commentauthor','http://facebook.com']);"  rel='external nofollow' class='url'>Cataa Ubilla</a></cite> <span class="says">dice:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://www.recital.cl/2013/08/concurso-por-entrada-doble-para-one-direction-en-chile/#comment-10101">
+			24 septiembre, 2013 a las 18:56</a>		</div>
+
+		<p>Hola&#8217; me gustaria ganar esa entrada por que los conoci hace  pocito nomas pero los ame con todo mi corazon los amooo mis devilidades niall y liam , elllos hacen mi felicidad cuando estoy ttriste sus canciones me alegran o verlos tan solo en fotos♥ y cada vez que los escucho cantar hago karaoke akjsak por eso quiero tener la oportunidad de verlos de lejitos pero verloss!!!! muchas gracias</p>
+
+		<div class="reply">
+					</div>
+		</div><!-- #comment-## -->
+		<div class="facebook odd alt thread-odd thread-alt depth-1" id="comment-10092">
+				<div class="comment-author vcard">
+						<cite class="fn"><a href="http://facebook.com/profile.php?id=100002424902029" onclick="javascript:_gaq.push(['_trackEvent','outbound-commentauthor','http://facebook.com']);"  rel='external nofollow' class='url'>Alyn Guzman</a></cite> <span class="says">dice:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://www.recital.cl/2013/08/concurso-por-entrada-doble-para-one-direction-en-chile/#comment-10092">
+			23 septiembre, 2013 a las 17:41</a>		</div>
+
+		<p>ojalas que las gane por si las gano seria la niña mas feliz del mundo , bueno si no las gano no las gano no mas bueno este fue mi comentario me llamo alyn guzman y me despido adios</p>
+
+		<div class="reply">
+					</div>
+		</div><!-- #comment-## -->
+		<div class="facebook even thread-even depth-1" id="comment-10069">
+				<div class="comment-author vcard">
+						<cite class="fn"><a href="http://facebook.com/profile.php?id=100002413846522" onclick="javascript:_gaq.push(['_trackEvent','outbound-commentauthor','http://facebook.com']);"  rel='external nofollow' class='url'>M Soledad Cortés</a></cite> <span class="says">dice:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://www.recital.cl/2013/08/concurso-por-entrada-doble-para-one-direction-en-chile/#comment-10069">
+			22 septiembre, 2013 a las 17:11</a>		</div>
+
+		<p>HOLA,BUENO LA VERDAD ES QUE LA RAZÓN POR LA QUE QUIERO PARTICIPAR Y GANAR ESTAS ENTRADAS ES MUY FUERTE,MIS HERMANAS AMAN A ONE DIRECTION,SON FANÁTICAS,LOS SIGUEN HACE MUCHO TIEMPO,YO LAS ACOMPAÑÉ A VER LA PELÍCULA DE ELLOS,LES COMPRO FOTOS DE ELLOS Y MUCHAS COSAS,SÉ QUE ELLAS SON UNAS FANS INCONDICIONALES DE ELLOS,Y YO ESTOY MUY FELIZ DE ESO YA QUE YO EN MI NIÑEZ DISFRUTÉ MUCHO DE MUCHOS GRUPOS MUSICALES,Y ME GUSTA VER QUE ELLAS TAMBIÉN DISFRUTEN DE ONE DIRECTION,BUENO,ELLAS NO ALCANZARON A COMPRAR LAS ENTRADAS PARA SU CONCIERTO ACÁ EN CHILE <img src='http://www.recital.cl/wax/wp-includes/images/smilies/icon_sad.gif' alt=':(' class='wp-smiley' />  Y LA VERDAD ES QUE YO ME SENTÍ MUY MAL,PORQUE ELLAS ERAN UNAS DE LAS QUE MÁS ESPERABAN EL CONCIERTO DE ONE DIRECTION ACÁ,POR ESO QUIERO GANAR ESTE CONCURSO PARA PODER DARLE A MIS HERMANAS LA POSIBILIDAD DE QUE VAYAN A VER A SU BANDA FAVORITA,LOS ONE DIRECTION,LO ÚNICO QUE QUIERO ES TENER ESAS ENTRADAS PARA QUE MIS HERMANAS SEAN FELICES Y PUEDAN IR A VERLOS,Y DISFRUTEN DE SU CONCIERTO,SÉ QUE MUCHAS FANS SE QUEDARON SIN ENTRADA,Y ENTIENDO SU PENA AL NO PODER IR AL CONCIERTO,Y COMO LAS ENTIENDO,POR ESO MISMO QUIERO QUE MIS HERMANAS VAYAN AL CONCIERTO,LES JURO QUE ELLAS SON UNAS FANS INCONDICIONALES,ESTÁN CON LOS 1D EN TODAS,ELLAS MERECEN IR AL CONCIERTO Y LAMENTABLEMENTE SE QUEDARON SIN ENTRADAS,LES JURO QUE ELLAS NOS BUSCAN ESTAR MÁS CERCA QUE TODAS,ELLAS SÓLO BUSCAN PODER ESCUCHARLOS EN VIVO,POR ESO QUIERO GANAR LAS ENTRADAS DOBLE PARA EL CONCIERTO DE ONE DIRECTION,POR FAVOR POR FAVOR,ESO QUIERO,GANAR PARA PODER DARLE LA POSIBILIDAD A MIS HERMANAS DE QUE VAYAN A VER A SU BANDA FAVORITA,OJALÁ PODER GANAR,Y ME ALEGRA SABER QUE HAYAN ESTAS INICIATIVAS,ESTOS CONCURSOS,PARA LA GENTE QUE NO TUVO LA POSIBILIDAD DE COMPRAR LAS ENTRADAS. MUCHAS GRACIAS ♥</p>
+
+		<div class="reply">
+					</div>
+		</div><!-- #comment-## -->
+		<div class="facebook odd alt thread-odd thread-alt depth-1" id="comment-10068">
+				<div class="comment-author vcard">
+						<cite class="fn"><a href="http://facebook.com/profile.php?id=100002413846522" onclick="javascript:_gaq.push(['_trackEvent','outbound-commentauthor','http://facebook.com']);"  rel='external nofollow' class='url'>M Soledad Cortés</a></cite> <span class="says">dice:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://www.recital.cl/2013/08/concurso-por-entrada-doble-para-one-direction-en-chile/#comment-10068">
+			22 septiembre, 2013 a las 17:11</a>		</div>
+
+		<p>HOLA,BUENO LA VERDAD ES QUE LA RAZÓN POR LA QUE QUIERO PARTICIPAR Y GANAR ESTAS ENTRADAS ES MUY FUERTE,MIS HERMANAS AMAN A ONE DIRECTION,SON FANÁTICAS,LOS SIGUEN HACE MUCHO TIEMPO,YO LAS ACOMPAÑÉ A VER LA PELÍCULA DE ELLOS,LES COMPRO FOTOS DE ELLOS Y MUCHAS COSAS,SÉ QUE ELLAS SON UNAS FANS INCONDICIONALES DE ELLOS,Y YO ESTOY MUY FELIZ DE ESO YA QUE YO EN MI NIÑEZ DISFRUTÉ MUCHO DE MUCHOS GRUPOS MUSICALES,Y ME GUSTA VER QUE ELLAS TAMBIÉN DISFRUTEN DE ONE DIRECTION,BUENO,ELLAS NO ALCANZARON A COMPRAR LAS ENTRADAS PARA SU CONCIERTO ACÁ EN CHILE <img src='http://www.recital.cl/wax/wp-includes/images/smilies/icon_sad.gif' alt=':(' class='wp-smiley' />  Y LA VERDAD ES QUE YO ME SENTÍ MUY MAL,PORQUE ELLAS ERAN UNAS DE LAS QUE MÁS ESPERABAN EL CONCIERTO DE ONE DIRECTION ACÁ,POR ESO QUIERO GANAR ESTE CONCURSO PARA PODER DARLE A MIS HERMANAS LA POSIBILIDAD DE QUE VAYAN A VER A SU BANDA FAVORITA,LOS ONE DIRECTION,LO ÚNICO QUE QUIERO ES TENER ESAS ENTRADAS PARA QUE MIS HERMANAS SEAN FELICES Y PUEDAN IR A VERLOS,Y DISFRUTEN DE SU CONCIERTO,SÉ QUE MUCHAS FANS SE QUEDARON SIN ENTRADA,Y ENTIENDO SU PENA AL NO PODER IR AL CONCIERTO,Y COMO LAS ENTIENDO,POR ESO MISMO QUIERO QUE MIS HERMANAS VAYAN AL CONCIERTO,LES JURO QUE ELLAS SON UNAS FANS INCONDICIONALES,ESTÁN CON LOS 1D EN TODAS,ELLAS MERECEN IR AL CONCIERTO Y LAMENTABLEMENTE SE QUEDARON SIN ENTRADAS,LES JURO QUE ELLAS NOS BUSCAN ESTAR MÁS CERCA QUE TODAS,ELLAS SÓLO BUSCAN PODER ESCUCHARLOS EN VIVO,POR ESO QUIERO GANAR LAS ENTRADAS DOBLE PARA EL CONCIERTO DE ONE DIRECTION,POR FAVOR POR FAVOR,ESO QUIERO,GANAR PARA PODER DARLE LA POSIBILIDAD A MIS HERMANAS DE QUE VAYAN A VER A SU BANDA FAVORITA,OJALÁ PODER GANAR,Y ME ALEGRA SABER QUE HAYAN ESTAS INICIATIVAS,ESTOS CONCURSOS,PARA LA GENTE QUE NO TUVO LA POSIBILIDAD DE COMPRAR LAS ENTRADAS. MUCHAS GRACIAS ♥</p>
+
+		<div class="reply">
+					</div>
+		</div><!-- #comment-## -->
+		<div class="facebook even thread-even depth-1" id="comment-10058">
+				<div class="comment-author vcard">
+						<cite class="fn"><a href="http://facebook.com/profile.php?id=100002966803591" onclick="javascript:_gaq.push(['_trackEvent','outbound-commentauthor','http://facebook.com']);"  rel='external nofollow' class='url'>Pauli Peña Galvez</a></cite> <span class="says">dice:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://www.recital.cl/2013/08/concurso-por-entrada-doble-para-one-direction-en-chile/#comment-10058">
+			20 septiembre, 2013 a las 21:56</a>		</div>
+
+		<p>Bueno yo soy paulina, y desde hace un tiempo One direction cambio mi vida ellos me salvaron, son lo mejorque me han pasado desde el 2010 en factor x me enamore de su naturalidad y de los reales que son, quiza sea una de las mejores directioners de el mundo pero no tengo el dinero para ir a verlos pues soy humilde no tengo esa cantidad de dinero para verlos de cerca lo mas creca k los e podido ver es en el cine en la pelicula This is us.<br />
+Yo soy de Valparaiso, pues no es una ciudad muy grande pero tiene su lado interesante. Bueno solo quiero pedir que me dejen participar y ojala ganar este concurso con el cual estoy tan ilusionada, quiero ir a ese concierto &lt;3 y ver por primera vez a mis idolos y con elllo por primera vez ir a un concierto. Los amo no por su fama sino por lo que ellos son,creo que me merezco estas entradas porque intente ir al concierto ahorre pero no me alcanzo y mi papa iba a ´poder pero el trabaja y no alcanzo a comprarlas.Por favor ayudenme a cumplir mi unico sueño en la vida &lt;3 si me dejan se los agradecere por el resto de mi vida</p>
+
+		<div class="reply">
+					</div>
+		</div><!-- #comment-## -->
+		<div class="facebook odd alt thread-odd thread-alt depth-1" id="comment-10055">
+				<div class="comment-author vcard">
+						<cite class="fn"><a href="http://facebook.com/profile.php?id=1506495347" onclick="javascript:_gaq.push(['_trackEvent','outbound-commentauthor','http://facebook.com']);"  rel='external nofollow' class='url'>Camila Silva Guzmán</a></cite> <span class="says">dice:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://www.recital.cl/2013/08/concurso-por-entrada-doble-para-one-direction-en-chile/#comment-10055">
+			20 septiembre, 2013 a las 20:11</a>		</div>
+
+		<p>Hola me gustaría ganar las entradas para el concierto de One Direction porque, como muchas, he esperado verlos por más de 2 años, desde que participaban en The X factor y lo único que podía escuchar eran sus covers, pero lamentablemente este año no he podido conseguir algo e hice hasta lo imposible, acampé 2 días para comprarme una entrada pero aún así no pude comprarla. Realmente quiero ir al concierto el próximo año. Agradezco que den esta oportunidad para concursar y quien más se lo merezca gane.</p>
+
+		<div class="reply">
+					</div>
+		</div><!-- #comment-## -->
+		<div class="facebook even thread-even depth-1" id="comment-10054">
+				<div class="comment-author vcard">
+						<cite class="fn"><a href="http://facebook.com/profile.php?id=1506495347" onclick="javascript:_gaq.push(['_trackEvent','outbound-commentauthor','http://facebook.com']);"  rel='external nofollow' class='url'>Camila Silva Guzmán</a></cite> <span class="says">dice:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://www.recital.cl/2013/08/concurso-por-entrada-doble-para-one-direction-en-chile/#comment-10054">
+			20 septiembre, 2013 a las 20:11</a>		</div>
+
+		<p>Hola me gustaría ganar las entradas para el concierto de One Direction porque, como muchas, he esperado verlos por más de 2 años, desde que participaban en The X factor y lo único que podía escuchar eran sus covers, pero lamentablemente este año no he podido conseguir algo e hice hasta lo imposible, acampé 2 días para comprarme una entrada pero aún así no pude comprarla. Realmente quiero ir al concierto el próximo año. Agradezco que den esta oportunidad para concursar y quien más se lo merezca gane.</p>
+
+		<div class="reply">
+					</div>
+		</div><!-- #comment-## -->
+		<div class="facebook odd alt thread-odd thread-alt depth-1" id="comment-10053">
+				<div class="comment-author vcard">
+						<cite class="fn"><a href="http://facebook.com/profile.php?id=1506495347" onclick="javascript:_gaq.push(['_trackEvent','outbound-commentauthor','http://facebook.com']);"  rel='external nofollow' class='url'>Camila Silva Guzmán</a></cite> <span class="says">dice:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://www.recital.cl/2013/08/concurso-por-entrada-doble-para-one-direction-en-chile/#comment-10053">
+			20 septiembre, 2013 a las 20:11</a>		</div>
+
+		<p>Hola me gustaría ganar las entradas para el concierto de One Direction porque, como muchas, he esperado verlos por más de 2 años, desde que participaban en The X factor y lo único que podía escuchar eran sus covers, pero lamentablemente este año no he podido conseguir algo e hice hasta lo imposible, acampé 2 días para comprarme una entrada pero aún así no pude comprarla. Realmente quiero ir al concierto el próximo año. Agradezco que den esta oportunidad para concursar y quien más se lo merezca gane.</p>
+
+		<div class="reply">
+					</div>
+		</div><!-- #comment-## -->
+		<div class="facebook even thread-even depth-1" id="comment-10052">
+				<div class="comment-author vcard">
+						<cite class="fn"><a href="http://facebook.com/profile.php?id=100001826760319" onclick="javascript:_gaq.push(['_trackEvent','outbound-commentauthor','http://facebook.com']);"  rel='external nofollow' class='url'>Piaa Antonella</a></cite> <span class="says">dice:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://www.recital.cl/2013/08/concurso-por-entrada-doble-para-one-direction-en-chile/#comment-10052">
+			20 septiembre, 2013 a las 18:56</a>		</div>
+
+		<p>Bueno, me gustaría ganar las entradas porque one direction es parte de mi vida,me enseñaron que puedo cumplir mis sueños como ellos lo lograron.Con escuchar su voz y verlos en vídeos siento una felicidad tan grande que verlos en concierto aunque sea en galería estaría muy agradecida de poder haber ganado las entradas.Esos videodiarios que me hacían sacar una sonrisa que me reía como una tonta  y hasta el día de hoy que lo hacen, ellos son un ejemplo a seguir y no me importa lo que digan de ellos, yo siempre seré una directioner de corazón, y daría todo por verlos en concierto,me haría muy feliz poder escucharlos en vivo y verlos aunque sea desde lejos,  y no verlos por una pantalla de computador como todos los días  ese sería el mejor regalo del mundo.Me gustaría cumplir mi sueño pero no conseguí todo el dinero necesario para poder comprar las entradas por eso estoy ahora en este concurso para poder ver a mis ídolos en su primer concierto en chile. muchas gracias por dejarme concursar se los agradezco mucho.&lt;3</p>
+
+		<div class="reply">
+					</div>
+		</div><!-- #comment-## -->
+		<div class="facebook odd alt thread-odd thread-alt depth-1" id="comment-10043">
+				<div class="comment-author vcard">
+						<cite class="fn"><a href="http://facebook.com/profile.php?id=1155110880" onclick="javascript:_gaq.push(['_trackEvent','outbound-commentauthor','http://facebook.com']);"  rel='external nofollow' class='url'>Javiera Macarena Serrano Irarrazabal</a></cite> <span class="says">dice:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://www.recital.cl/2013/08/concurso-por-entrada-doble-para-one-direction-en-chile/#comment-10043">
+			19 septiembre, 2013 a las 14:27</a>		</div>
+
+		<p>Bueno me llamo Javiera Serrano soy de la serena y me gustaria ganar las entradas por que one direction es mi inspiracion son chicos fantasticos me sacan una sonrrisa cada vez que escucho su musica y me gustaria aunque sea una vez en mi vida poder ir a su concierto ya que no creo que tenga otra oportunidad para verlos </p>
+
+		<div class="reply">
+					</div>
+		</div><!-- #comment-## -->
+		<div class="facebook even thread-even depth-1" id="comment-10042">
+				<div class="comment-author vcard">
+						<cite class="fn"><a href="http://facebook.com/profile.php?id=1155110880" onclick="javascript:_gaq.push(['_trackEvent','outbound-commentauthor','http://facebook.com']);"  rel='external nofollow' class='url'>Javiera Macarena Serrano Irarrazabal</a></cite> <span class="says">dice:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://www.recital.cl/2013/08/concurso-por-entrada-doble-para-one-direction-en-chile/#comment-10042">
+			19 septiembre, 2013 a las 14:27</a>		</div>
+
+		<p>Bueno me llamo Javiera Serrano soy de la serena y me gustaria ganar las entradas por que one direction es mi inspiracion son chicos fantasticos me sacan una sonrrisa cada vez que escucho su musica y me gustaria aunque sea una vez en mi vida poder ir a su concierto ya que no creo que tenga otra oportunidad para verlos </p>
+
+		<div class="reply">
+					</div>
+		</div><!-- #comment-## -->
+		<div class="facebook odd alt thread-odd thread-alt depth-1" id="comment-10035">
+				<div class="comment-author vcard">
+						<cite class="fn"><a href="http://facebook.com/profile.php?id=100001241881700" onclick="javascript:_gaq.push(['_trackEvent','outbound-commentauthor','http://facebook.com']);"  rel='external nofollow' class='url'>Zadka Guzmán Etter</a></cite> <span class="says">dice:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://www.recital.cl/2013/08/concurso-por-entrada-doble-para-one-direction-en-chile/#comment-10035">
+			18 septiembre, 2013 a las 18:41</a>		</div>
+
+		<p>Me gustaria ir porque de no ase mucho me di cuenta que soy Directioner lo que jamas imagine porque ase varios meses a tras me gustaban pero ablaba mal de ellos por varias especulaciones hasta que salio su pelicula y los aprendi a conocer empeze a averiguar cosas de ellos descargar todas sus canciones y viendo su pelicula un millon de veces en el cine siempre viendo apginas de ellos y ahora son el motivo de mi felicidad en lo unico que pienso y me dejaron una enseñansa muy muy valiosa ¨Jamas jusgar a las personas antes de conocerlas¨ tambien quiero agregar que soy BELIEBER de ase mas de 2 años y cuando Justin Vino a chile a mi no me gustaba tanto por eso no fui a su concierto y ahora aun tengo ese arrepentimiento y no quiero cometer ese mismo error con Los chicos tambien todos tenemos la oportunidad de conocerlos nunca hay que rendirse hasto yo no sabia que hacer porque las entradas estaban muy caras y todo eso concurse en varios concursos pero en ninguno tuve suerte ya cuando estaba todo perdido encontre esta y les agradesco la posibilidad y todo y eso gracias por darme otra esperanza.</p>
+
+		<div class="reply">
+					</div>
+		</div><!-- #comment-## -->
+		<div class="facebook even thread-even depth-1" id="comment-10034">
+				<div class="comment-author vcard">
+						<cite class="fn"><a href="http://facebook.com/profile.php?id=100001241881700" onclick="javascript:_gaq.push(['_trackEvent','outbound-commentauthor','http://facebook.com']);"  rel='external nofollow' class='url'>Zadka Guzmán Etter</a></cite> <span class="says">dice:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://www.recital.cl/2013/08/concurso-por-entrada-doble-para-one-direction-en-chile/#comment-10034">
+			18 septiembre, 2013 a las 18:41</a>		</div>
+
+		<p>Me gustaria ir porque de no ase mucho me di cuenta que soy Directioner lo que jamas imagine porque ase varios meses a tras me gustaban pero ablaba mal de ellos por varias especulaciones hasta que salio su pelicula y los aprendi a conocer empeze a averiguar cosas de ellos descargar todas sus canciones y viendo su pelicula un millon de veces en el cine siempre viendo apginas de ellos y ahora son el motivo de mi felicidad en lo unico que pienso y me dejaron una enseñansa muy muy valiosa ¨Jamas jusgar a las personas antes de conocerlas¨ tambien quiero agregar que soy BELIEBER de ase mas de 2 años y cuando Justin Vino a chile a mi no me gustaba tanto por eso no fui a su concierto y ahora aun tengo ese arrepentimiento y no quiero cometer ese mismo error con Los chicos tambien todos tenemos la oportunidad de conocerlos nunca hay que rendirse hasto yo no sabia que hacer porque las entradas estaban muy caras y todo eso concurse en varios concursos pero en ninguno tuve suerte ya cuando estaba todo perdido encontre esta y les agradesco la posibilidad y todo y eso gracias por darme otra esperanza.</p>
+
+		<div class="reply">
+					</div>
+		</div><!-- #comment-## -->
+		<div class="facebook odd alt thread-odd thread-alt depth-1" id="comment-10007">
+				<div class="comment-author vcard">
+						<cite class="fn"><a href="http://facebook.com/profile.php?id=100005267262052" onclick="javascript:_gaq.push(['_trackEvent','outbound-commentauthor','http://facebook.com']);"  rel='external nofollow' class='url'>Angela Vielma</a></cite> <span class="says">dice:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://www.recital.cl/2013/08/concurso-por-entrada-doble-para-one-direction-en-chile/#comment-10007">
+			17 septiembre, 2013 a las 16:26</a>		</div>
+
+		<p>Hola!  solamente  quiero  ganar porque  amo a  los   chicos ellos son<br />
+mis  vidas  nose  que  haria  sin ellos ellos son  los  que me sakan  una sonrisa<br />
+cada  dia:3<br />
+yo los amo  son mi  todo  nose que haria sin los chicos  se  los  juro no  tengo  los  medios  para  comprarme  la  entrada   para ir al concierto  y por  esa  razon  estoy concursando  aqui para ir  a  verlos    y  para que   cumpla  mi sueño  de conocerlos  sea  como sea  para conoconocerlos  en cualquer  parte  del concierto solo  quiero  cumplir   mi  sueño  de estar en un concierto de 1D&lt;3<br />
+espero  ganar<br />
+suerte  a  todos  las amo  hermanas directioners  con  mi heart&lt;3</p>
+
+		<div class="reply">
+					</div>
+		</div><!-- #comment-## -->
+		<div class="facebook even thread-even depth-1" id="comment-10004">
+				<div class="comment-author vcard">
+						<cite class="fn"><a href="http://facebook.com/profile.php?id=1313426100" onclick="javascript:_gaq.push(['_trackEvent','outbound-commentauthor','http://facebook.com']);"  rel='external nofollow' class='url'>Constanza Millaray Lincoñir Corssi</a></cite> <span class="says">dice:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://www.recital.cl/2013/08/concurso-por-entrada-doble-para-one-direction-en-chile/#comment-10004">
+			17 septiembre, 2013 a las 15:41</a>		</div>
+
+		<p>ola me encantaría tener las entradas por favor quiero ir con una amiga que amamos a los chicos da lo mismo que sea en galería lo que importa es ver a los chicos y estar feliz por verlos cantar,verlos por primera vez en persona seria emocionante verlos los amo los adoro y me muero si no los veo también me  gustaría ya que me perdí la oportunidad de comprar las entradas de galería por-favor me encantaría ir al concierto con mi amiga para ver a los maravillosos chicos que iluminaron mi vida ellos  son lo que soy  por favor &lt;3</p>
+
+		<div class="reply">
+					</div>
+		</div><!-- #comment-## -->
+		<div class="facebook odd alt thread-odd thread-alt depth-1" id="comment-10003">
+				<div class="comment-author vcard">
+						<cite class="fn"><a href="http://facebook.com/profile.php?id=100000632221282" onclick="javascript:_gaq.push(['_trackEvent','outbound-commentauthor','http://facebook.com']);"  rel='external nofollow' class='url'>Catari Caceres</a></cite> <span class="says">dice:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://www.recital.cl/2013/08/concurso-por-entrada-doble-para-one-direction-en-chile/#comment-10003">
+			17 septiembre, 2013 a las 15:41</a>		</div>
+
+		<p>Hola! me gustaria enserio ganar esas entradas porque yo Los amo mucho, soy Directioner desde casi 2 años y siempre los eh apoyado. Pienso que ellos son muy lindos, talentosos, y graciosos, simplemente para mi son Perfectos. Sus canciones me enseñan muchas cosas, como que soy perfecta como soy y que tengo que divertirme. Siempre con solo verlos Sonreir yo soy feliz, y no quiero llegar a imaginar como seria si no los Llego a conocer. Me rio con cada Tonteria que hacen, Lloro por conocerlos y lo son TODO para mi. A veces me duele mucho el saber que ellos no tienen idea de que yo existo, pero aun asi yo los apoyo. Tambien duele mucho que los insulten, pero yo los defiendo y aun asi los Apoyo.<br />
+La verdad haria TODO por ellos, con tal de conocerlos. tocar sus manos, que me saluden, lo que sea, Pero para mi eso es Suficiente, porque yo los amo y por siempre los amare, ya que soy DIRECTIONER FOREVER&lt;3 </p>
+<p>Graciass y Enserio espero Ganar el Concurso&#8230;  </p>
+
+		<div class="reply">
+					</div>
+		</div><!-- #comment-## -->
+		<div class="facebook even thread-even depth-1" id="comment-9998">
+				<div class="comment-author vcard">
+						<cite class="fn"><a href="http://facebook.com/profile.php?id=100000342142006" onclick="javascript:_gaq.push(['_trackEvent','outbound-commentauthor','http://facebook.com']);"  rel='external nofollow' class='url'>FeeÑaa Bff</a></cite> <span class="says">dice:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://www.recital.cl/2013/08/concurso-por-entrada-doble-para-one-direction-en-chile/#comment-9998">
+			17 septiembre, 2013 a las 13:11</a>		</div>
+
+		<p>Hola Me quiero ganar la entrada doble&#8230; ya e concursado en mucho y no me lo puedo ganar u-u quiero ir con mi prima&#8230; no alcanzamos ni a comprar galería :c<br />
+Pero tengo Fe de que podemos ganar gracias a ustedes&#8230;<br />
+Una amiga me hablo sobre este concurso y me dijo que tratara de ver si podía ganar aquí&#8230; Por favor&#8230; Enserio queremos ir con la Viera u-u<br />
+Lo único que queremos es verlos en vivo&#8230; estar hay aunque no sea cerca&#8230; pero estar casi en el mismo lugar que ellos&#8230; Cantar sus canciones mientras las cantan en vivo&#8230; Poder verlos&#8230; Solo Estar hay&#8230; ese día<br />
+No nos importar estar en galería&#8230; solo nos importa estar hay C:<br />
+Y sentirnos cerca de los que son nuestros ídolos&#8230;<br />
+Queremos sentirnos cerca de BooBeαr de DJ Mαlik de Niαller de Leeyum y del Hαzzα &lt;3<br />
+Nuestro amor por ellos es ∞<br />
+Gracias&#8230; y ojalas podamos ganar c:</p>
+<p>Pd: <a href="https://twitter.com/MotitaConSWAG/status/379997126987481091" onclick="javascript:_gaq.push(['_trackEvent','outbound-comment','http://twitter.com']);" rel="nofollow">https://twitter.com/MotitaConSWAG/status/379997126987481091</a>  Entren a ese link &amp; den RT porfis u-u </p>
+
+		<div class="reply">
+					</div>
+		</div><!-- #comment-## -->
+		<div class="facebook odd alt thread-odd thread-alt depth-1" id="comment-9984">
+				<div class="comment-author vcard">
+						<cite class="fn"><a href="http://facebook.com/profile.php?id=100003876589651" onclick="javascript:_gaq.push(['_trackEvent','outbound-commentauthor','http://facebook.com']);"  rel='external nofollow' class='url'>Constanza Del Pilar Aguilera Valdes</a></cite> <span class="says">dice:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://www.recital.cl/2013/08/concurso-por-entrada-doble-para-one-direction-en-chile/#comment-9984">
+			16 septiembre, 2013 a las 20:41</a>		</div>
+
+		<p>hola me llamo constanza tengo 11 años y a mi me gustaria ganar las entradas para el concierto de one direction  por que es un sueño aun que algunos crean que es una locura ellos son mi vida sin ellos no se que seria de mi cuando los conoci ellos me hicieron sentir diferente a si canbiaron mi vida sin conocerlos en persona a si que conocerlos en persona me aria ser la niña mas feliz del mundo y seria una mejor persona.<br />
+todas las noches veso sus posters y les digo asta mañana mis bebes y como mesiento orgullosa de ellos tanbien sueño con ellos muy seguido solo quisiera que uno de esos sueños que en los que estan ellos y yo se cumplan pero el punto es que quiero ir a ese consierto por que es un sueño y yo bi en un vidio que los chicos de one direction dijeron que tratara de cumplir mis sueños.<br />
+yo a ellos los amo y por eso quiero ir a su consierto para ver los cantar,  estoy segura de que si gano no dejare de agradecer les por siempre a ustedes nunca los olvidaria</p>
+
+		<div class="reply">
+					</div>
+		</div><!-- #comment-## -->
+		<div class="facebook even thread-even depth-1" id="comment-9983">
+				<div class="comment-author vcard">
+						<cite class="fn"><a href="http://facebook.com/profile.php?id=100003876589651" onclick="javascript:_gaq.push(['_trackEvent','outbound-commentauthor','http://facebook.com']);"  rel='external nofollow' class='url'>Constanza Del Pilar Aguilera Valdes</a></cite> <span class="says">dice:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://www.recital.cl/2013/08/concurso-por-entrada-doble-para-one-direction-en-chile/#comment-9983">
+			16 septiembre, 2013 a las 20:41</a>		</div>
+
+		<p>hola me llamo constanza tengo 11 años y a mi me gustaria ganar las entradas para el concierto de one direction  por que es un sueño aun que algunos crean que es una locura ellos son mi vida sin ellos no se que seria de mi cuando los conoci ellos me hicieron sentir diferente a si canbiaron mi vida sin conocerlos en persona a si que conocerlos en persona me aria ser la niña mas feliz del mundo y seria una mejor persona.<br />
+todas las noches veso sus posters y les digo asta mañana mis bebes y como mesiento orgullosa de ellos tanbien sueño con ellos muy seguido solo quisiera que uno de esos sueños que en los que estan ellos y yo se cumplan pero el punto es que quiero ir a ese consierto por que es un sueño y yo bi en un vidio que los chicos de one direction dijeron que tratara de cumplir mis sueños.<br />
+yo a ellos los amo y por eso quiero ir a su consierto para ver los cantar,  estoy segura de que si gano no dejare de agradecer les por siempre a ustedes nunca los olvidaria</p>
+
+		<div class="reply">
+					</div>
+		</div><!-- #comment-## -->
+		<div class="facebook odd alt thread-odd thread-alt depth-1" id="comment-9977">
+				<div class="comment-author vcard">
+						<cite class="fn"><a href="http://facebook.com/profile.php?id=100004727641552" onclick="javascript:_gaq.push(['_trackEvent','outbound-commentauthor','http://facebook.com']);"  rel='external nofollow' class='url'>Paulii Herrera P</a></cite> <span class="says">dice:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://www.recital.cl/2013/08/concurso-por-entrada-doble-para-one-direction-en-chile/#comment-9977">
+			16 septiembre, 2013 a las 17:11</a>		</div>
+
+		<p>me gustaria ganar las entradas y tambien creo que todas se lo merecen porque es imposible escuchar una de sus canciones sin volverse fanaticas de ellos y recuerdo cuando les mostre las canciones y videos a mis amigas y les encanto y se volvieron fanaticas al igual que yo y asi fuimos mas y pasamos el dato en nuestro cole y todas andabamos con la onda de wuaoo one direction son lo mejor y cuando escuchabamos sus canciones nos emocionabamos :3 y como que one direction era nuestro simbolo de musica y intentabamos cantar sus canciones aunque estuvieran en ingles pero haciamos el esfuerzo por cantarla hasta que siempre escuchabamos sus canciones todos los dias y aprendimos a modular lo sufuciente y cuando supimos que van a venir a Chile nos emocionamos tanto pero no todas teniamos la oportunidad de tener la entrada asique estavamos un poco trizte pero se nos paso lo trizte porque nosotras igual disfrutabamos de su musica y agradesco a Recital.cl por darnos esta oportunidad tan importante y eso me gustaria tener las entradas ♥ ♥</p>
+
+		<div class="reply">
+					</div>
+		</div><!-- #comment-## -->
+		<div class="facebook even thread-even depth-1" id="comment-9976">
+				<div class="comment-author vcard">
+						<cite class="fn"><a href="http://facebook.com/profile.php?id=100004727641552" onclick="javascript:_gaq.push(['_trackEvent','outbound-commentauthor','http://facebook.com']);"  rel='external nofollow' class='url'>Paulii Herrera P</a></cite> <span class="says">dice:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://www.recital.cl/2013/08/concurso-por-entrada-doble-para-one-direction-en-chile/#comment-9976">
+			16 septiembre, 2013 a las 16:56</a>		</div>
+
+		<p>Me gustaria Ganar porque fui casi unas de las primeras en conocer  sus canciones videos etc y no por ser una de las primeras  en saber que tenian una banda significa que me tengo que ganar la entrada pero igual me gustaria ganar las entradas, tambien   creo que todas se  lo  merecen  porque es imposible escuchar una de sus canciones sin volverse fanaticas de ellos y recuerdo cuando les mostre las canciones y videos a mis amigas y les encanto  y se volvieron fanaticas al igual que yo y asi fuimos mas y pasamos el dato en nuestro colegio  y todas andabamos con la onda de wuaoo one direction son lo mejor y cuando escuchabamos sus canciones nos emocionabamos :3 y como que one direction era nuestro simbolo de musica  y intentabamos cantar sus canciones aunque estuvieran en ingles pero haciamos el esfuerzo por cantarla hasta que siempre escuchabamos sus canciones todos los dias y aprendimos a modular lo sufuciente  y  cuando supimos que van a venir a Chile nos emocionamos tanto pero no todas teniamos la oportunidad de tener la entrada  asique estavamos un poco trizte  pero se nos paso lo trizte  porque nosotras igual disfrutabamos de su musica  y agradesco a Recital.cl por darnos esta oportunidad tan importante y eso me gustaria tener las entradas ♥    ♥   :3</p>
+
+		<div class="reply">
+					</div>
+		</div><!-- #comment-## -->
+		<div class="facebook odd alt thread-odd thread-alt depth-1" id="comment-9865">
+				<div class="comment-author vcard">
+						<cite class="fn"><a href="http://facebook.com/profile.php?id=100001071485698" onclick="javascript:_gaq.push(['_trackEvent','outbound-commentauthor','http://facebook.com']);"  rel='external nofollow' class='url'>Alexandra Gabriela</a></cite> <span class="says">dice:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://www.recital.cl/2013/08/concurso-por-entrada-doble-para-one-direction-en-chile/#comment-9865">
+			12 septiembre, 2013 a las 20:26</a>		</div>
+
+		<p>Hola, Me Llamo Alexandra Ortiz, Me Gustaria Ganarme La entrada Porque Me Encanta One Direction y No Alcance Entradas Como Muchas Aqui. Ellos Son Mi Vida, Mi necesidad y Mi Propia Marca De Droga. Sus Canciones son Para mi Lo que me hace sonreir cada mañana, Hacen Mas Fuertes mis sentimientos. Louis, Harry, Zayn, Niall y Liam. 5 Chicos Que para muchas solo seran una Tipica Banda &#8220;Del Momento&#8221; Con Fama Rapida Y Lindos Jovenes. Para Mi Lo Son Todo: Son Esfuerzo; Por nunca Tirar la Toalla A Pesar De Todo. Amistad; Porque Ellos son mas que Amigos, Son Hermanos. Y Sobre Todo Humildad Porque nunca Han Olvido sus Raices. Espero Ganar Las Entradas En Verdad Lo Deseo Con Toda Mi Alma. Se que Todos Se la merecen, Pero Ojaalaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa Ganara Yo:) Bueno Eso&lt;3&lt;3&lt;3 Amo A One Direction.</p>
+
+		<div class="reply">
+					</div>
+		</div><!-- #comment-## -->
+		<div class="facebook even thread-even depth-1" id="comment-9861">
+				<div class="comment-author vcard">
+						<cite class="fn"><a href="http://facebook.com/profile.php?id=100000243533753" onclick="javascript:_gaq.push(['_trackEvent','outbound-commentauthor','http://facebook.com']);"  rel='external nofollow' class='url'>Viviana Ojeda Viot</a></cite> <span class="says">dice:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://www.recital.cl/2013/08/concurso-por-entrada-doble-para-one-direction-en-chile/#comment-9861">
+			12 septiembre, 2013 a las 2:11</a>		</div>
+
+		<p>Me llamo  Viviana Ojeda Viot, me gustaría ganar porque  me esforzado mucho juntando la plata para ir pero aun así no eh podido , ellos son todo lo que mas me hacen feliz en esta vida , sacando sonrisas y alegrías y todo lo que ellos entregan a sus fans , Eh soñado todo el tiempo por que llegue el momento del concierto y no poder ir es muy triste para mi y me imagino que para las demás fans también y ustedes nos están dando esta oportunidad tremenda que cumple un sueño de una adolescente , no me gustaría ser egoísta y decir yo quiero ganar y las demás  no porque seria una pena que las demás no pudieran ir pensando en loo importante que son los chicos para ellas y para mi , Agradecer por esta oportunidad y por su bondad , espero tener alguna<br />
+oportunidad , Gracias RECITAL.CL</p>
+
+		<div class="reply">
+					</div>
+		</div><!-- #comment-## -->
+		<div class="facebook odd alt thread-odd thread-alt depth-1" id="comment-9843">
+				<div class="comment-author vcard">
+						<cite class="fn"><a href="http://facebook.com/profile.php?id=100001909190038" onclick="javascript:_gaq.push(['_trackEvent','outbound-commentauthor','http://facebook.com']);"  rel='external nofollow' class='url'>Isi Alarcon Arenas</a></cite> <span class="says">dice:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://www.recital.cl/2013/08/concurso-por-entrada-doble-para-one-direction-en-chile/#comment-9843">
+			10 septiembre, 2013 a las 23:41</a>		</div>
+
+		<p>me gustaría ganar porque ellos prácticamente hacen mi felicidad, son mi todo lo que me hace sonreír como una enferma todos los dias, son lo más especial para mi, sus canciones son todo lo que siento, no me importaría estar de las ultimas simplemente estar ahí:) , mas que la banda del momento para mi son mi vida, ellos hacen que haga cada estupidez que se me ocurre sin pensarlo porque me enseñaron a ser yo misma, en que nadie puede juzgar nada de lo que yo haga o diga y también en valorar cada cosa que tengo, a ayudar a los demás y no pensar solamente en mi<br />
+Como muchas niñas me quede sin entrada, creo que todas se la merecen pero enserio espero ganar, no saben todo lo que daría por estar en su concierto<br />
+Eso muchas gracias por darme la oportunidad de poder participar.♥</p>
+
+		<div class="reply">
+					</div>
+		</div><!-- #comment-## -->
+		<div class="facebook even thread-even depth-1" id="comment-9810">
+				<div class="comment-author vcard">
+						<cite class="fn"><a href="http://facebook.com/profile.php?id=100000613330321" onclick="javascript:_gaq.push(['_trackEvent','outbound-commentauthor','http://facebook.com']);"  rel='external nofollow' class='url'>Lokiwii Valiwii</a></cite> <span class="says">dice:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://www.recital.cl/2013/08/concurso-por-entrada-doble-para-one-direction-en-chile/#comment-9810">
+			8 septiembre, 2013 a las 19:26</a>		</div>
+
+		<p>Hola me gustaria me encantaria perdon los adorariaa si me ganara las entradas porque ellos son mi vida los amo amo su persona su ser sus estupideces y tambien amaria todo lo que pueden llegar a hacer ..Amo lo que pueden llegar a decir en  sus canciones toda las sonrisas que me han hecho pasar y todas las tristezas que comparto con ellos ..simplemente son mi vida mis amigas llegan a estar furiosas de todo lo que hablo de ellos pero a mi que yo los amo soy Directioner y estoy orgullosa de serlo jamas dejare de serlo los apoyare por siempre y para siempre y por eso estoy aqui intentando e intentando ganar las entradas porque lo mas que quiero en mi vida es gritarles lo que siento por ellos y poder sentir que estan ay para mi y yo para ellos&#8230;.  porque yo estare hay para ellos no tengo palabras para describir todo lo que llegaria a hacer o todo lo que llegaria a amarlos enserio quiero las entradas&#8230;para mi no es una simple entrada es toda mi vida en un dia estuve mas de 1 año ahorando pero tube que ayudar a mis papas a comprar nuestra nueva casa y con mi dinero la pudimos comprar en fin despues de eso me alcanzava para un pues pero pormas que dormi hay donde vendian las entradas no pude no alcanze me da tanta rabia que las empezaran a vender antes ..otra de las cosas por la cual quiero ir es porque los AMO y cuanso digo eso no es como cualquier otra fan es como Directioner ESQUE ENSERIO LOS AMO NO ES UN SINPLE TE AMO ES EL AMOR VERDADERO DE UNA FAN &#8230;todas las noches veo mi poster y deseo que se aga realidad que pueda ir verlos en vivo vivir de ellos unas horas y seguir siendo la Directioner mas feliz del planeta ..enserio muestro todos mis sentimientos aqui ..ellos son lo unicos que me hicieron sentir bella y quiero tener fe , fe en mi en que podre ganar esto ..con ellos aprendi a seguir luchando por mis sueños los sigo desde el 2010 los veia en The X fActor y me preguntaba yo quiero ser como ellos quiero cumplir mis sueños..quiero por ese momento ser su princesa y ellos mis principes are lo que sea necesario ellos me enseñaron a no rendirme jamas y cumplir mi sueño ..Para poder comprar las entradas con mi hermana mayor vendiamos casa por casa chocolates e dulces no iba muy bien pero no alcanzamos a comprarlas (como ya les dije )ise esto tan grande no tan solo para poder ganar si no para decirles cuanto amo a esos hermosos 5 Chicos que cambiaron mi vida para darle sentido Louis Tomlinson Liam Payne Niall Horan Zayn Malik Y Harry Styles GRACIAS POR TODOOO OJALAS ME PUEDAN AYUDAR &lt;3 LOS AMO POR DARME UNA OPORTUNIDAD DE HACER MI SUEÑO REAL</p>
+
+		<div class="reply">
+					</div>
+		</div><!-- #comment-## -->
+		<div class="facebook odd alt thread-odd thread-alt depth-1" id="comment-9808">
+				<div class="comment-author vcard">
+						<cite class="fn"><a href="http://facebook.com/profile.php?id=1752804001" onclick="javascript:_gaq.push(['_trackEvent','outbound-commentauthor','http://facebook.com']);"  rel='external nofollow' class='url'>Karyy Styles</a></cite> <span class="says">dice:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://www.recital.cl/2013/08/concurso-por-entrada-doble-para-one-direction-en-chile/#comment-9808">
+			8 septiembre, 2013 a las 16:41</a>		</div>
+
+		<p>Hola Kiero Ganarme Ls Entradas Por Que One Direction Es Mi Todo Sin Ellos Nose Que Haria Sin Ellos.One Direction Son Los Que Me Sacan Una Sorisa Todos Los Dias Por Sus Logros. Cuando Vi Su Pelicula En 3D Tenia Una Sensacion De Que Me Miraban A Los Ojos, De Que Me Cantaban A Mi, De Que Me Hablaban A Mi♥<br />
+Me Pone Mas Sentimental De Lo Que Soy Ver Todo Lo Que Han Logrado, Estoy Mas Que Orgullosa De Mis Chicos Los Amo One Direction Por Ustedes Doy Todo Ojala Me Gane Sus Entradas. Es Mi sueño Verlos En Vivo♥<br />
+Gracias!!!♥<br />
+One Direction Te Amo Kiero  Cumplir Mi Sueño  <img src='http://www.recital.cl/wax/wp-includes/images/smilies/icon_biggrin.gif' alt=':D' class='wp-smiley' /> </p>
+
+		<div class="reply">
+					</div>
+		</div><!-- #comment-## -->
+		<div class="facebook even thread-even depth-1" id="comment-9795">
+				<div class="comment-author vcard">
+						<cite class="fn"><a href="http://facebook.com/profile.php?id=100000061692354" onclick="javascript:_gaq.push(['_trackEvent','outbound-commentauthor','http://facebook.com']);"  rel='external nofollow' class='url'>Cecilia Carolina Romo Neculqueo</a></cite> <span class="says">dice:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://www.recital.cl/2013/08/concurso-por-entrada-doble-para-one-direction-en-chile/#comment-9795">
+			7 septiembre, 2013 a las 12:26</a>		</div>
+
+		<p>Holy!! A mi personalmente me encantaria ir a verlos en concierto por que son mi mayor admiracion.Me gusta cuando rien, cantan ,su forma de ser, en realidad me gusta todo de ellos.<br />
+Yo he ganado varioas concursos,gane entradas para ir al concierto de Primce royce,de matt hunter ,pero a esos conciertos yo jamas fui por que se las di a mi prima y ella fue ya que yo participe por que ella me inscribio.<br />
+En esta oportunidad me inscribo yo ya que es mi sueños poder ir a su concierto y asi este en el ultimo lugar del estadio nacional me gustaria estar presente y poder gritar de emocion, de cantar , de llorar de emocion ,etc. por este motivo y por otros motivos yo quiero ir al concierto de 1D !!Concurso de entradas para One Direction</p>
+
+		<div class="reply">
+					</div>
+		</div><!-- #comment-## -->
+		<div class="facebook odd alt thread-odd thread-alt depth-1" id="comment-9793">
+				<div class="comment-author vcard">
+						<cite class="fn"><a href="http://facebook.com/profile.php?id=100000882905009" onclick="javascript:_gaq.push(['_trackEvent','outbound-commentauthor','http://facebook.com']);"  rel='external nofollow' class='url'>Javi Pereira</a></cite> <span class="says">dice:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://www.recital.cl/2013/08/concurso-por-entrada-doble-para-one-direction-en-chile/#comment-9793">
+			6 septiembre, 2013 a las 21:26</a>		</div>
+
+		<p>hola soy javiera me gustaría mucho ganar ya que mi papa y mi mama  no tienen el suficiente dinero para llevarme y quiero cumplir mi sueño de verlos junto con mi hermana  ademas que siempre cuando estoy trizte escucho una cancion de ellos y me siento mejor &#8230;&#8230;.<br />
+DRACIAS PORR ESTA OPORTUNIDAD&#8230;XD</p>
+
+		<div class="reply">
+					</div>
+		</div><!-- #comment-## -->
+		<div class="facebook even thread-even depth-1" id="comment-9792">
+				<div class="comment-author vcard">
+						<cite class="fn"><a href="http://facebook.com/profile.php?id=100000074477377" onclick="javascript:_gaq.push(['_trackEvent','outbound-commentauthor','http://facebook.com']);"  rel='external nofollow' class='url'>Valentina Paz Diban Saavedra</a></cite> <span class="says">dice:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://www.recital.cl/2013/08/concurso-por-entrada-doble-para-one-direction-en-chile/#comment-9792">
+			6 septiembre, 2013 a las 19:26</a>		</div>
+
+		<p>Me gustaría ganar las entradas de one direction porque me encanta el grupo, sus canciones son muy buenas y los amo ♥ . Además escucho las canciones todos los días y me encantaría poder escucharlos y verlos en vivo alguna vez. Gracias por la oportunidad!!!!! <img src='http://www.recital.cl/wax/wp-includes/images/smilies/icon_biggrin.gif' alt=':D' class='wp-smiley' /> </p>
+
+		<div class="reply">
+					</div>
+		</div><!-- #comment-## -->
+		<div class="facebook odd alt thread-odd thread-alt depth-1" id="comment-9791">
+				<div class="comment-author vcard">
+						<cite class="fn"><a href="http://facebook.com/profile.php?id=100000074477377" onclick="javascript:_gaq.push(['_trackEvent','outbound-commentauthor','http://facebook.com']);"  rel='external nofollow' class='url'>Valentina Paz Diban Saavedra</a></cite> <span class="says">dice:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://www.recital.cl/2013/08/concurso-por-entrada-doble-para-one-direction-en-chile/#comment-9791">
+			6 septiembre, 2013 a las 19:26</a>		</div>
+
+		<p>Me gustaría ganar las entradas de one direction porque me encanta el grupo, sus canciones son muy buenas y los amo ♥ . Además escucho las canciones todos los días y me encantaría poder escucharlos y verlos en vivo alguna vez. Gracias por la oportunidad!!!!! <img src='http://www.recital.cl/wax/wp-includes/images/smilies/icon_biggrin.gif' alt=':D' class='wp-smiley' /> </p>
+
+		<div class="reply">
+					</div>
+		</div><!-- #comment-## -->
+		<div class="facebook even thread-even depth-1" id="comment-9786">
+				<div class="comment-author vcard">
+						<cite class="fn"><a href="http://facebook.com/profile.php?id=100000277990180" onclick="javascript:_gaq.push(['_trackEvent','outbound-commentauthor','http://facebook.com']);"  rel='external nofollow' class='url'>Camila Karelia Terrile Miño</a></cite> <span class="says">dice:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://www.recital.cl/2013/08/concurso-por-entrada-doble-para-one-direction-en-chile/#comment-9786">
+			5 septiembre, 2013 a las 21:56</a>		</div>
+
+		<p>Hola:) a mi tan solo me gustaría ganar las entradas, porque no tuve la posibilidad para comprarlas, ya que no tenía dinero, ni tampoco alcancé, one direction día a día se va convirtiendo en mi vida, cada día que pasa me voy enamorando mas de ellos y de su música, no soy directioner desde que empezaron pero aún así, conozco todo lo que han pasado para llegar a lo que son, y se lo merecen, ellos son mi razón para sonreír siempre, sus canciones me alegran todos mis días, ellos con sus estupideces me alegran el día, su música me hace llorar porque causa cosas que ningún otro artista a causado, ellos me hacen saber que me aman sin haberme conocido, mi sueño es conocerlos, por lo mismo concursé en 4 concursos mas y en ninguno gané, espero que este sea el ganador, porque no hay otra cosa que quiera mas que verlos, esos 5 idiotas me hacen estar orgullosa, no los conozco y probablemente no los conozca hasta que muera, pero con tan solo verlos en un concierto me conformo, espero que este comentario identifique a muchas directioners&lt;3, Saludos!</p>
+
+		<div class="reply">
+					</div>
+		</div><!-- #comment-## -->
+		<div class="facebook odd alt thread-odd thread-alt depth-1" id="comment-9785">
+				<div class="comment-author vcard">
+						<cite class="fn"><a href="http://facebook.com/profile.php?id=100001950203872" onclick="javascript:_gaq.push(['_trackEvent','outbound-commentauthor','http://facebook.com']);"  rel='external nofollow' class='url'>Isa Becerra Romero</a></cite> <span class="says">dice:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://www.recital.cl/2013/08/concurso-por-entrada-doble-para-one-direction-en-chile/#comment-9785">
+			5 septiembre, 2013 a las 21:26</a>		</div>
+
+		<p>Holii(: me gustaria ganar este concurso porque conocerlos en persona seria mi gran sueño hecho realidad. No alcanze a comprar las entradas ya que se acabaron en un segundo porque somos muchas las directioner que morimos por entrada de one direction. Conocerlos seria genial ñ.ñ me encanta su musica, ellos son mi razon de vivir, me hacen sentir especial, los sigo desde un principio(: se que son muy pocas las probabilidades de ganar este concurso pero igual no me dare por vencida(:</p>
+
+		<div class="reply">
+					</div>
+		</div><!-- #comment-## -->
+		<div class="facebook even thread-even depth-1" id="comment-9769">
+				<div class="comment-author vcard">
+						<cite class="fn"><a href="http://facebook.com/profile.php?id=1171756361" onclick="javascript:_gaq.push(['_trackEvent','outbound-commentauthor','http://facebook.com']);"  rel='external nofollow' class='url'>Daniela Riveros Neira</a></cite> <span class="says">dice:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://www.recital.cl/2013/08/concurso-por-entrada-doble-para-one-direction-en-chile/#comment-9769">
+			4 septiembre, 2013 a las 1:26</a>		</div>
+
+		<p>Denme la oportunidad de verlos en vivo, lo único que quiero es poder verlos, sobre todo al más mino, el inigualable, el&#8230; el más todo: Zayn<br />
+Me sé todas sus canciones, incluso las que todavía ni se han escrito. Quiero verlos bailar, aunque sean mas descordinaditos que bebé con artritis.<br />
+Si me gano las entradas a mi hijo le pondré &#8220;recital punto ce-ele&#8221;</p>
+
+		<div class="reply">
+					</div>
+		</div><!-- #comment-## -->
+		<div class="facebook odd alt thread-odd thread-alt depth-1" id="comment-9768">
+				<div class="comment-author vcard">
+						<cite class="fn"><a href="http://facebook.com/profile.php?id=1171756361" onclick="javascript:_gaq.push(['_trackEvent','outbound-commentauthor','http://facebook.com']);"  rel='external nofollow' class='url'>Daniela Riveros Neira</a></cite> <span class="says">dice:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://www.recital.cl/2013/08/concurso-por-entrada-doble-para-one-direction-en-chile/#comment-9768">
+			4 septiembre, 2013 a las 1:26</a>		</div>
+
+		<p>Tengo que partir contando que casi me estafan con una entrada. Yo creo que hablaré con el tío Emilio porque esto no puede suceder, menos a niñas puras e ingenuas como yo. Es por eso que me voy a la segura y estoy participando.Quiero las entradas porque a pesar de que tenga 19 años ellos me gustan. Lo admito y sin vergüenza lo digo, me encantan. Pero no solo porque son guapos, se visten bien y sueño con ellos todos los días, sino también porque cantan bien, mal que mal participaron en un programa de talentos, sus canciones de verdad me llegan y claro, como a todas, pero yo las interpreto de otra manera, mis razones son de una niña más &#8220;madura&#8221; (eeeeeellaaaaaa la madura).</p>
+
+		<div class="reply">
+					</div>
+		</div><!-- #comment-## -->
+		<div class="facebook even thread-even depth-1" id="comment-9766">
+				<div class="comment-author vcard">
+						<cite class="fn"><a href="http://facebook.com/profile.php?id=100004235854570" onclick="javascript:_gaq.push(['_trackEvent','outbound-commentauthor','http://facebook.com']);"  rel='external nofollow' class='url'>Benjamìn Tomlinson</a></cite> <span class="says">dice:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://www.recital.cl/2013/08/concurso-por-entrada-doble-para-one-direction-en-chile/#comment-9766">
+			3 septiembre, 2013 a las 20:26</a>		</div>
+
+		<p>Mee Gusttaria Ganar Porr Que Son Mis Idolos Mee ESforze Por COnseguir LAs Entradas Pero No LO Logre quiiero ir a su conciertto he sufrido de bullyng por ser directioner pero no me importa por que son mis idolos y quero iir a su conciertto porfa ellos son mi felicidad la rozon por la quie despierto y veo sus posters y diggo elos cumplieron sus sueños por que yo nooo y cuando supeee que no quedavan entradas llore toda una semana dia tras dia noche tras noche porfa meresco esas entradas me se todas sus canciones todas sus historias porfa nececitto esas entradas</p>
+
+		<div class="reply">
+					</div>
+		</div><!-- #comment-## -->
+		<div class="facebook odd alt thread-odd thread-alt depth-1" id="comment-9765">
+				<div class="comment-author vcard">
+						<cite class="fn"><a href="http://facebook.com/profile.php?id=100001297346829" onclick="javascript:_gaq.push(['_trackEvent','outbound-commentauthor','http://facebook.com']);"  rel='external nofollow' class='url'>Fran Ignaciaa</a></cite> <span class="says">dice:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://www.recital.cl/2013/08/concurso-por-entrada-doble-para-one-direction-en-chile/#comment-9765">
+			3 septiembre, 2013 a las 16:26</a>		</div>
+
+		<p>Espero que la suerte este de mi lado esq los amo son mi vida &lt;3 bueno eso no me quiero emocionar escribiendo :C &lt;3</p>
+
+		<div class="reply">
+					</div>
+		</div><!-- #comment-## -->
+		<div class="facebook even thread-even depth-1" id="comment-9764">
+				<div class="comment-author vcard">
+						<cite class="fn"><a href="http://facebook.com/profile.php?id=100001297346829" onclick="javascript:_gaq.push(['_trackEvent','outbound-commentauthor','http://facebook.com']);"  rel='external nofollow' class='url'>Fran Ignaciaa</a></cite> <span class="says">dice:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://www.recital.cl/2013/08/concurso-por-entrada-doble-para-one-direction-en-chile/#comment-9764">
+			3 septiembre, 2013 a las 16:26</a>		</div>
+
+		<p>Espero que la suerte este de mi lado esq los amo son mi vida &lt;3 bueno eso no me quiero emocionar escribiendo :C &lt;3</p>
+
+		<div class="reply">
+					</div>
+		</div><!-- #comment-## -->
+		<div class="facebook odd alt thread-odd thread-alt depth-1" id="comment-9761">
+				<div class="comment-author vcard">
+						<cite class="fn"><a href="http://facebook.com/profile.php?id=100001276925970" onclick="javascript:_gaq.push(['_trackEvent','outbound-commentauthor','http://facebook.com']);"  rel='external nofollow' class='url'>Caatalinaa Arias</a></cite> <span class="says">dice:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://www.recital.cl/2013/08/concurso-por-entrada-doble-para-one-direction-en-chile/#comment-9761">
+			3 septiembre, 2013 a las 14:26</a>		</div>
+
+		<p>hola mi razon por la que quiero ganar las entradas es porque los amo son vida los amo por lo que son no porque sean famosos  los sigo hace dos años y me enamoraron son divertidos hacen locuras que muchas de nosotras hacemos en su momento tambien son serios pero todo lo hacen por amor a nosotras las directioners<br />
+no por dinero pueden dormir 10 minutos para luego grabar una cancion y eso lo hacen por nosotras veo videos antiguos y siempre me hacen reir  por eso es mi sueño conocerlos &lt;33 lo mas hermoso seria poder asistir a su concierto y poder gritarles te amo&lt;3 con todo mi corazon y yo creo que ese es el sueño de muchas fans poder sentir que ellos estan con tigo y si no puedo ganar no importa <img src='http://www.recital.cl/wax/wp-includes/images/smilies/icon_smile.gif' alt=':)' class='wp-smiley' />  porque se que ellos tienen un lugar para todas sus fans los amoo mucho cuidense&lt;333</p>
+
+		<div class="reply">
+					</div>
+		</div><!-- #comment-## -->
+		<div class="facebook even thread-even depth-1" id="comment-9742">
+				<div class="comment-author vcard">
+						<cite class="fn"><a href="http://facebook.com/profile.php?id=100001851077827" onclick="javascript:_gaq.push(['_trackEvent','outbound-commentauthor','http://facebook.com']);"  rel='external nofollow' class='url'>Millaray Martinez</a></cite> <span class="says">dice:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://www.recital.cl/2013/08/concurso-por-entrada-doble-para-one-direction-en-chile/#comment-9742">
+			1 septiembre, 2013 a las 20:56</a>		</div>
+
+		<p>Bueno Quiero ganar las entradas por que  son mi todo los amo mas que a mi propia  vida , me hacen feliz con su musica y sus bromances  me rio de todo lo que hacen aunque no de risa son tan especiales para mi son MIS IDOLOS  , y no soy DIRECTIONER por moda porque ellos no lo son , son un gran sentimiento que hay en mi que me hacen ser feliz dia a dia los AMO CON TODO MI CORAZON y publicaria en todaas partes que gracias a <a href="http://www.facebook.com/Recital.cl" onclick="javascript:_gaq.push(['_trackEvent','outbound-comment','http://www.facebook.com']);" rel="nofollow">http://www.facebook.com/Recital.cl</a> gane las entrdas al concierto y seria la persona mas feliz</p>
+
+		<div class="reply">
+					</div>
+		</div><!-- #comment-## -->
+		<div class="facebook odd alt thread-odd thread-alt depth-1" id="comment-9741">
+				<div class="comment-author vcard">
+						<cite class="fn"><a href="http://facebook.com/profile.php?id=100001858646652" onclick="javascript:_gaq.push(['_trackEvent','outbound-commentauthor','http://facebook.com']);"  rel='external nofollow' class='url'>Valentina Araya</a></cite> <span class="says">dice:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://www.recital.cl/2013/08/concurso-por-entrada-doble-para-one-direction-en-chile/#comment-9741">
+			1 septiembre, 2013 a las 18:26</a>		</div>
+
+		<p>Me gustaría ganar porque desde que los conocí mi vida cambió, desde que supe de su primer tour decidí ahorrar dinero por si venían a Chile:) estuve más de un año en twitter haciendo hashtag, me quedaba sin importar en días de la semana en twitter apoyando los HT, a veces me emocionaba y pasaba en banda hasta las 6 de la mañana y no me importaba porque todo eso era por ellos, escribiendo día y noche para que pudieran venir pero lamentablemente no tuve suerte para poder comprar la entrada:c fue un golpe duro, ir a un concierto de ellos sería la mejor noticia que podría recibir este año, estoy muy orgullosa de ser directioner porque gracias a ellos soy feliz, he conocido a muchas personas importantes para mi y hacen que cada día de mi vida sea importante ya que ellos están en mi corazón♥</p>
+
+		<div class="reply">
+					</div>
+		</div><!-- #comment-## -->
+		<div class="facebook even thread-even depth-1" id="comment-9740">
+				<div class="comment-author vcard">
+						<cite class="fn"><a href="http://facebook.com/profile.php?id=100001325421908" onclick="javascript:_gaq.push(['_trackEvent','outbound-commentauthor','http://facebook.com']);"  rel='external nofollow' class='url'>Konny Ignacia</a></cite> <span class="says">dice:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://www.recital.cl/2013/08/concurso-por-entrada-doble-para-one-direction-en-chile/#comment-9740">
+			1 septiembre, 2013 a las 18:11</a>		</div>
+
+		<p>yo soy una directioner y me encantaría ganar una entrada ya que no alcance a comprar una y bueno si ganará una entrada sería super feliz y bueno quiero ganar para el otro año ir a ver a mi grupo favoritooooooooooo &lt;33333</p>
+
+		<div class="reply">
+					</div>
+		</div><!-- #comment-## -->
+		<div class="facebook odd alt thread-odd thread-alt depth-1" id="comment-9739">
+				<div class="comment-author vcard">
+						<cite class="fn"><a href="http://facebook.com/profile.php?id=1630335293" onclick="javascript:_gaq.push(['_trackEvent','outbound-commentauthor','http://facebook.com']);"  rel='external nofollow' class='url'>Stephanie Lopez</a></cite> <span class="says">dice:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://www.recital.cl/2013/08/concurso-por-entrada-doble-para-one-direction-en-chile/#comment-9739">
+			1 septiembre, 2013 a las 16:56</a>		</div>
+
+		<p>hola me gustaria ganar para ir por primera vez un concierto para ir a ver a mis idolos de one direction haci que espero ganarme las entradas gracias . adios</p>
+
+		<div class="reply">
+					</div>
+		</div><!-- #comment-## -->
+		<div class="facebook even thread-even depth-1" id="comment-9717">
+				<div class="comment-author vcard">
+						<cite class="fn"><a href="http://facebook.com/profile.php?id=100004174896195" onclick="javascript:_gaq.push(['_trackEvent','outbound-commentauthor','http://facebook.com']);"  rel='external nofollow' class='url'>Nany Marleen Hunterioner Mixer</a></cite> <span class="says">dice:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://www.recital.cl/2013/08/concurso-por-entrada-doble-para-one-direction-en-chile/#comment-9717">
+			31 agosto, 2013 a las 1:26</a>		</div>
+
+		<p>Hola:c<br />
+Hem quiero ganar las entradas porque es mi mayor sueño, conocer a One Direction o tan solo escuchar sus voces en vivo(: me encantaría ir porque sería un sueño cumplido:) nunca gano nada:c he concursado miles de veces pero nunca gano:c nose si será el destino:c pero la verdad me encantaría conocerlos porque sería muy genial cumplir mi sueño&amp;realizar eso:c<br />
+LOS AMO MÁS QUE A MI PROPIA VIDA(:<br />
+Son mis idolos&amp;nunca los dejaré:&#8217;)<br />
+Quizás no estube desde el principio pero estaré hasta el final con ellos&lt;3<br />
+Ojala puedan cumplir mi sueño(:<br />
+gracias por esta gran oportunidad:D</p>
+
+		<div class="reply">
+					</div>
+		</div><!-- #comment-## -->
+		<div class="facebook odd alt thread-odd thread-alt depth-1" id="comment-9716">
+				<div class="comment-author vcard">
+						<cite class="fn"><a href="http://facebook.com/profile.php?id=100000519132555" onclick="javascript:_gaq.push(['_trackEvent','outbound-commentauthor','http://facebook.com']);"  rel='external nofollow' class='url'>Ferny Palacios Leiva</a></cite> <span class="says">dice:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://www.recital.cl/2013/08/concurso-por-entrada-doble-para-one-direction-en-chile/#comment-9716">
+			31 agosto, 2013 a las 1:26</a>		</div>
+
+		<p>Hola, Mi Razon Por La Que Quiero Ganar Es Por Que  He Estado Buscando por todos lados alguna pagina o revista que me pueda ayudar a cumplir mi sueño , Mi Vida Es One Direction No Se Que Haria Sin Ellos Ellos son mi razon de seguir luchando por mis sueños! ellos son los únicos que cuando me siento mal me sacan una lagrima y una sonrisa , Soy Directioner desde el 2012 por What Makes You Beautiful , Si Quizás No Estoy con ellos de el 2010 pero que tiene de malo? al menos los conoci! Si No Hubiera Sido Por Ellos No Me Habria Aprendido A Valorar Nunca! :33 Ellos Son Como Los Novios Que Jamas Tendre xC Como el tipo de chicos que aqui en chile no hay xc ellos dicen todas las cosas que las chicas queremos escuchar de un hombre y por eso yo los amo ! ..no Solamente porque Sean Lindos Los Amo Si no tambien por que ellos son humildes , solidarios con los demas , Tiernos , Amigables , Y Por que son muy talentosos , De Verdad No Se Que Haria Sin Ellos , Jamas Habia Sentido Algo parecido con otra BoyBand Encerio :&#8217;) yo a ellos los amo de verdad! :c por favor quiero cumplir mi sueño Plz!!!  xC<br />
+YO NUNCA ME RENDIRE , PORQUE ESO ES LO QUE LOS CHICOS ME ENSEÑARON! , JAMAS TE RINDAS  CON ESFUERZO TODO SE LOGRA !<br />
+y bueno eso es lo que hago ahora n.n<br />
+Espero Que Me Lean Eso Bye&lt;3</p>
+
+		<div class="reply">
+					</div>
+		</div><!-- #comment-## -->
+		<div class="facebook even thread-even depth-1" id="comment-9711">
+				<div class="comment-author vcard">
+						<cite class="fn"><a href="http://facebook.com/profile.php?id=100001779602570" onclick="javascript:_gaq.push(['_trackEvent','outbound-commentauthor','http://facebook.com']);"  rel='external nofollow' class='url'>Javi Rodriguez</a></cite> <span class="says">dice:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://www.recital.cl/2013/08/concurso-por-entrada-doble-para-one-direction-en-chile/#comment-9711">
+			30 agosto, 2013 a las 22:56</a>		</div>
+
+		<p>Todos saben que se acabaron las entradas de los one directio yo fuia comprar las entradas pero lametablemente estaban agotada asi que yo qureo que deve aver un nuevo concierto yo los amo ojalas que hagan otro consierto</p>
+
+		<div class="reply">
+					</div>
+		</div><!-- #comment-## -->
+		<div class="facebook odd alt thread-odd thread-alt depth-1" id="comment-9694">
+				<div class="comment-author vcard">
+						<cite class="fn"><a href="http://facebook.com/profile.php?id=1302835220" onclick="javascript:_gaq.push(['_trackEvent','outbound-commentauthor','http://facebook.com']);"  rel='external nofollow' class='url'>Coni Wigand</a></cite> <span class="says">dice:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://www.recital.cl/2013/08/concurso-por-entrada-doble-para-one-direction-en-chile/#comment-9694">
+			29 agosto, 2013 a las 1:11</a>		</div>
+
+		<p>me encantaria ganarmela en primer lugar porque desde el año pasado venía juntando plata para el concierto, tengo 22 años y nunca había experimentado lo que siento por one direction con ningun grupo musical, trabajo de empaque en un super y loco muchos de mis dias de trabajo los destine a la plata para comprar mi entrada que era la de 120 y tantos que no alcancé a comprar lamentablemente  TENIENDO LA PLATA  por todos los problemas existentes con la pagina web&#8230;. y siento que en verdad me merezco ganar esta entrada <img src='http://www.recital.cl/wax/wp-includes/images/smilies/icon_sad.gif' alt=':(' class='wp-smiley' /> (((((((((((((((((((((((</p>
+
+		<div class="reply">
+					</div>
+		</div><!-- #comment-## -->
+		<div class="facebook even thread-even depth-1" id="comment-9693">
+				<div class="comment-author vcard">
+						<cite class="fn"><a href="http://facebook.com/profile.php?id=100001648864524" onclick="javascript:_gaq.push(['_trackEvent','outbound-commentauthor','http://facebook.com']);"  rel='external nofollow' class='url'>Valeska Heredia</a></cite> <span class="says">dice:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://www.recital.cl/2013/08/concurso-por-entrada-doble-para-one-direction-en-chile/#comment-9693">
+			28 agosto, 2013 a las 23:11</a>		</div>
+
+		<p>Hola, Me Encantaría Tener Entradas Para One Direction My Sueño Es Verlos No Importa En Que Lugar Me Den Entradas Lo Que Quiero Es Verlos Es Mi Sueño, Son Mis Idolos  Los Sigo En Facebook Y Todo Pero Estaria Demaciado Feliz Si Me Brindaran La Oportunidad De Verlos En Persona, Quisas Pasen Años Hasta Que Vengan Otra Vez , Y Ahunque Vinieran Todos Los Dias No Podria Pagar La Entrada Por Mucho Amor Que Les Tenga No Puedo Pagar La Entrada En Serio Se Los Agradeceria Si Me Pudieran Dar Una Entrada Por Favor Se Los Ruego Ellos Tienen Una Gran Parte De Mi &lt;3 Ocupada Son Muy Especiales Para Mi&#8230;Por Favor Se Que Hay Muchas Directioners Por Aqui Pero Les Ruego Que Me Elijan&#8230;</p>
+
+		<div class="reply">
+					</div>
+		</div><!-- #comment-## -->
+		<div class="facebook odd alt thread-odd thread-alt depth-1" id="comment-9692">
+				<div class="comment-author vcard">
+						<cite class="fn"><a href="http://facebook.com/profile.php?id=100001648864524" onclick="javascript:_gaq.push(['_trackEvent','outbound-commentauthor','http://facebook.com']);"  rel='external nofollow' class='url'>Valeska Heredia</a></cite> <span class="says">dice:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://www.recital.cl/2013/08/concurso-por-entrada-doble-para-one-direction-en-chile/#comment-9692">
+			28 agosto, 2013 a las 23:11</a>		</div>
+
+		<p>Hola, Me Encantaría Tener Entradas Para One Direction My Sueño Es Verlos No Importa En Que Lugar Me Den Entradas Lo Que Quiero Es Verlos Es Mi Sueño, Son Mis Idolos  Los Sigo En Facebook Y Todo Pero Estaria Demaciado Feliz Si Me Brindaran La Oportunidad De Verlos En Persona, Quisas Pasen Años Hasta Que Vengan Otra Vez , Y Ahunque Vinieran Todos Los Dias No Podria Pagar La Entrada Por Mucho Amor Que Les Tenga No Puedo Pagar La Entrada En Serio Se Los Agradeceria Si Me Pudieran Dar Una Entrada Por Favor Se Los Ruego Ellos Tienen Una Gran Parte De Mi &lt;3 Ocupada Son Muy Especiales Para Mi&#8230;Por Favor Se Que Hay Muchas Directioners Por Aqui Pero Les Ruego Que Me Elijan&#8230;</p>
+
+		<div class="reply">
+					</div>
+		</div><!-- #comment-## -->
+		<div class="facebook even thread-even depth-1" id="comment-9684">
+				<div class="comment-author vcard">
+						<cite class="fn"><a href="http://facebook.com/profile.php?id=100004699929253" onclick="javascript:_gaq.push(['_trackEvent','outbound-commentauthor','http://facebook.com']);"  rel='external nofollow' class='url'>Anastacia Malik</a></cite> <span class="says">dice:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://www.recital.cl/2013/08/concurso-por-entrada-doble-para-one-direction-en-chile/#comment-9684">
+			28 agosto, 2013 a las 18:26</a>		</div>
+
+		<p>Quiero Ganar entradas Para 1D porque? Simple Por que Los Amo<br />
+Porque Quiero ir a Ver A La Causa De Mi Sonrisa de cada Dia #ILOVE1D<br />
+QUIERO CUMLPLIR UNO DE MIS SUEÑOS:)  &lt;3</p>
+
+		<div class="reply">
+					</div>
+		</div><!-- #comment-## -->
+		<div class="facebook odd alt thread-odd thread-alt depth-1" id="comment-9674">
+				<div class="comment-author vcard">
+						<cite class="fn"><a href="http://facebook.com/profile.php?id=100000829384933" onclick="javascript:_gaq.push(['_trackEvent','outbound-commentauthor','http://facebook.com']);"  rel='external nofollow' class='url'>Cyntya Araceli Parra Vega</a></cite> <span class="says">dice:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://www.recital.cl/2013/08/concurso-por-entrada-doble-para-one-direction-en-chile/#comment-9674">
+			27 agosto, 2013 a las 17:56</a>		</div>
+
+		<p>Hola me gustaría ganar las entradas dobles para 1D ya que soy directioner realmente ya que no pude comprarlas en la venta de entradas, por muchos motivos, aunque rogue y me sentí super mal, no alcance ni podía comprar la entrada que tanto quería ni ninguna, y de verdad siempre a sido un sueño poder ir a verlos de verdad, soñaba con su visita a Chile, ojalá puedan cumplir mi sueño, ya que me encantaría ir de verdad, se que falta mucho, pero aún tengo fe de que puedo ir:(! sería increíble poder ir a ver a mis ídolos como siempre quise:( denme la oportunidad pooorfa u_u me quede sin entrada para ir a verlos y de verdad me encantaría ir:c sería hermoso poder ganar y obviamente darle las gracias infinitamente a recital.cl, hace tiempo los sigo y siempre concurso en lo que me interesa, además siempre nos ponen al día con todas las noticias de nuestros artistas preferidos&lt;3 jaja, muchas graaaacias por la oportunidad aunque sea y , espero ganar de todo corazón, saludos y gracias*-*&lt;3.</p>
+
+		<div class="reply">
+					</div>
+		</div><!-- #comment-## -->
+		<div class="facebook even thread-even depth-1" id="comment-9671">
+				<div class="comment-author vcard">
+						<cite class="fn"><a href="http://facebook.com/profile.php?id=1408870923" onclick="javascript:_gaq.push(['_trackEvent','outbound-commentauthor','http://facebook.com']);"  rel='external nofollow' class='url'>Javiera Cuéllar Tamblay</a></cite> <span class="says">dice:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://www.recital.cl/2013/08/concurso-por-entrada-doble-para-one-direction-en-chile/#comment-9671">
+			27 agosto, 2013 a las 13:56</a>		</div>
+
+		<p>hola, realmente quiero verlos y estar el  d ia 1 de mayo gritando todo lo que he guardado durante estos dos años que soy directioner &lt;3 el dia de la venta de entradas me quede esta muy tarde y como vivo en una ciudad pequeña tuve que comprar por internet me desvele toda la noche y no conseguí nada por eso ahora estoy haciendo lo posible conseguir una entrada para ir con mi amiga, es mi sueño lo deseo mucho por favor &lt;3</p>
+
+		<div class="reply">
+					</div>
+		</div><!-- #comment-## -->
+		<div class="facebook odd alt thread-odd thread-alt depth-1" id="comment-9672">
+				<div class="comment-author vcard">
+						<cite class="fn"><a href="http://facebook.com/profile.php?id=1408870923" onclick="javascript:_gaq.push(['_trackEvent','outbound-commentauthor','http://facebook.com']);"  rel='external nofollow' class='url'>Javiera Cuéllar Tamblay</a></cite> <span class="says">dice:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://www.recital.cl/2013/08/concurso-por-entrada-doble-para-one-direction-en-chile/#comment-9672">
+			27 agosto, 2013 a las 13:56</a>		</div>
+
+		<p>hola, realmente quiero verlos y estar el  d ia 1 de mayo gritando todo lo que he guardado durante estos dos años que soy directioner &lt;3 el dia de la venta de entradas me quede esta muy tarde y como vivo en una ciudad pequeña tuve que comprar por internet me desvele toda la noche y no conseguí nada por eso ahora estoy haciendo lo posible conseguir una entrada para ir con mi amiga, es mi sueño lo deseo mucho por favor &lt;3</p>
+
+		<div class="reply">
+					</div>
+		</div><!-- #comment-## -->
+		<div class="facebook even thread-even depth-1" id="comment-9668">
+				<div class="comment-author vcard">
+						<cite class="fn"><a href="http://facebook.com/profile.php?id=100002423072018" onclick="javascript:_gaq.push(['_trackEvent','outbound-commentauthor','http://facebook.com']);"  rel='external nofollow' class='url'>Nikole Raww</a></cite> <span class="says">dice:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://www.recital.cl/2013/08/concurso-por-entrada-doble-para-one-direction-en-chile/#comment-9668">
+			26 agosto, 2013 a las 23:11</a>		</div>
+
+		<p>holi me gustaría ganar por que los amo son mi todo la única cosa que me hace sonreír, con sus canciones que me hacen hermosas.mi sueño es conocerlos en persona *-* seria especial. quiero cumplir ese sueño de conocer a mis ídolos a los primeros que ame en verdad, loa amaria si me dieran esta bella oportunidad de conocerlos, se que como soy tan yeta no ganare pero tendré fe en mi &amp;&amp; ojalas ganaria los amo mucho son mi todo, lloro todas las noches por amor hacia ellos&#8230;&lt;3</p>
+
+		<div class="reply">
+					</div>
+		</div><!-- #comment-## -->
+		<div class="facebook odd alt thread-odd thread-alt depth-1" id="comment-9667">
+				<div class="comment-author vcard">
+						<cite class="fn"><a href="http://facebook.com/profile.php?id=100002423072018" onclick="javascript:_gaq.push(['_trackEvent','outbound-commentauthor','http://facebook.com']);"  rel='external nofollow' class='url'>Nikole Raww</a></cite> <span class="says">dice:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://www.recital.cl/2013/08/concurso-por-entrada-doble-para-one-direction-en-chile/#comment-9667">
+			26 agosto, 2013 a las 23:11</a>		</div>
+
+		<p>holi me gustaría ganar por que los amo son mi todo la única cosa que me hace sonreír, con sus canciones que me hacen hermosas.mi sueño es conocerlos en persona *-* seria especial. quiero cumplir ese sueño de conocer a mis ídolos a los primeros que ame en verdad, loa amaria si me dieran esta bella oportunidad de conocerlos, se que como soy tan yeta no ganare pero tendré fe en mi &amp;&amp; ojalas ganaria los amo mucho son mi todo, lloro todas las noches por amor hacia ellos&#8230;&lt;3</p>
+
+		<div class="reply">
+					</div>
+		</div><!-- #comment-## -->
+		<div class="facebook even thread-even depth-1" id="comment-9666">
+				<div class="comment-author vcard">
+						<cite class="fn"><a href="http://facebook.com/profile.php?id=100003199220988" onclick="javascript:_gaq.push(['_trackEvent','outbound-commentauthor','http://facebook.com']);"  rel='external nofollow' class='url'>Enzo Alexis Ramirez Delgado</a></cite> <span class="says">dice:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://www.recital.cl/2013/08/concurso-por-entrada-doble-para-one-direction-en-chile/#comment-9666">
+			26 agosto, 2013 a las 22:11</a>		</div>
+
+		<p>poder ir a verlos, son geniales y de paso llevo a mi hermano.</p>
+
+		<div class="reply">
+					</div>
+		</div><!-- #comment-## -->
+		<div class="facebook odd alt thread-odd thread-alt depth-1" id="comment-9665">
+				<div class="comment-author vcard">
+						<cite class="fn"><a href="http://facebook.com/profile.php?id=100003199220988" onclick="javascript:_gaq.push(['_trackEvent','outbound-commentauthor','http://facebook.com']);"  rel='external nofollow' class='url'>Enzo Alexis Ramirez Delgado</a></cite> <span class="says">dice:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://www.recital.cl/2013/08/concurso-por-entrada-doble-para-one-direction-en-chile/#comment-9665">
+			26 agosto, 2013 a las 22:11</a>		</div>
+
+		<p>poder ir a verlos, son geniales y de paso llevo a mi hermano.</p>
+
+		<div class="reply">
+					</div>
+		</div><!-- #comment-## -->
+		<div class="facebook even thread-even depth-1" id="comment-9655">
+				<div class="comment-author vcard">
+						<cite class="fn"><a href="http://facebook.com/profile.php?id=1588497500" onclick="javascript:_gaq.push(['_trackEvent','outbound-commentauthor','http://facebook.com']);"  rel='external nofollow' class='url'>Jaque Hodges</a></cite> <span class="says">dice:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://www.recital.cl/2013/08/concurso-por-entrada-doble-para-one-direction-en-chile/#comment-9655">
+			25 agosto, 2013 a las 21:26</a>		</div>
+
+		<p>Hola, bueno me gustaría ganar las entradas porque soy directioner desde hace tiempo y ustedes saben que el sueño de toda directioner es conocerlos en persona y yo se que esta sera como la unica posibilidad que tendre para conocerlos, ya que nunca voy a viajar yo a verlos y es muy dificil que hagan otro concierto aquí en Chile, además yo los amo con todo mi corazon y el dia de la venta de entradas el sistema colapso y simplemente no tube la oportunidad de comprar entradas y ese fue como el fin del mundo para mi, llore toda la noche y durante un día, junto con mi hermana que tambien es directioner, yo se que hay miles de niñas que no alcanzaron a tener su entraday creo que es muy injusto para nosotras, así que les agradezco por hacer este concurso, de verdad es una gran oportunidad para nosotras, amo one direction &lt;3 &lt;3 GRACIAS &lt;3</p>
+
+		<div class="reply">
+					</div>
+		</div><!-- #comment-## -->
+		<div class="facebook odd alt thread-odd thread-alt depth-1" id="comment-9646">
+				<div class="comment-author vcard">
+						<cite class="fn"><a href="http://facebook.com/profile.php?id=100000308723424" onclick="javascript:_gaq.push(['_trackEvent','outbound-commentauthor','http://facebook.com']);"  rel='external nofollow' class='url'>Dayii Novoa Monjes</a></cite> <span class="says">dice:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://www.recital.cl/2013/08/concurso-por-entrada-doble-para-one-direction-en-chile/#comment-9646">
+			24 agosto, 2013 a las 17:56</a>		</div>
+
+		<p>holaa!! me gustaria ganarme las entradas par ir con mi mejor amiga a verlos ademas me encantaria ir a su primer concierto!! por que los amo! no hay nadien como ellos cantan hermoso y seria lindo verlo en vivo ademas nunca eh ido a uno seria mi primera vez en un concierto y seria hermoso *-* &lt;33 ademas arian mi sueño realidad uno de muchos que tengo que cumplir ye ste a sido mi favorito ademas tampoco me la pudieron comprar! por que no habia plata suficiente! para poder comprar las entradas aunque para algunos la entrada pueda ser la mas chanta como dicen algunos para mi seria perfecto me conformaria con cualquiera solo verlos es mi anelo claro que me gustaria verlos cara a cara pero creo que no van a ser M&amp;G y esto seria lo mas fabuloso para todos poderlo ver cara  a cara pero aunque no los vea de esa manera me gustaria ver como realmente son recpecto a su estatura y no tener que estar midiendo a mis compañeros :c con la estatura de ellos tambien por que me reuniria con muchas personas que amamos lo mismo y que eh conocsido a travez de las redes sociales que ya son parte de mi vida diara y me encantaria concoerlas ese dia!! ese dia sera el peor dia de miv ida si no voy :c no saben como se siente perder lo que uno mas quiere sobre todo cuando viene por primera vez a nuestro pais y despues esperar un par de años para que vengan y si no vienen mas :Co cuando vengan sea mayor de edad y no sea lo mismo y no tenga a mi mejor amiga que hoy lo es que vaya conmigo ya nada ssra como antes si no es en la fecha que ellos dispusieron en su pagina!! :c seria todo diferente  bueno yo solo quiero ir :C no me importa donde sea la ubicasion quiero verlos y conocer a mis amigas que eh hecho a traves de las redes sociales y son directioenr de corazon como lo soy yo<br />
+lo que eeh escrito no se compara a nada por lo que siento por ellos es solo algo un pocito resumido :c pero son mucha mas las cosas que se siente!!!<br />
+espero ganar &lt;33 grasias por el concurso &lt;33 <img src='http://www.recital.cl/wax/wp-includes/images/smilies/icon_smile.gif' alt=':)' class='wp-smiley' /> </p>
+
+		<div class="reply">
+					</div>
+		</div><!-- #comment-## -->
+		<div class="facebook even thread-even depth-1" id="comment-9644">
+				<div class="comment-author vcard">
+						<cite class="fn"><a href="http://facebook.com/profile.php?id=1434991927" onclick="javascript:_gaq.push(['_trackEvent','outbound-commentauthor','http://facebook.com']);"  rel='external nofollow' class='url'>Francisca Carrasco Arcos</a></cite> <span class="says">dice:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://www.recital.cl/2013/08/concurso-por-entrada-doble-para-one-direction-en-chile/#comment-9644">
+			24 agosto, 2013 a las 17:26</a>		</div>
+
+		<p>Seria encreible poder ir a ver a mis idolos. He esperado mucho tiempo para que vengan a Chile y ahora que no tuve el dinero para comprar las entradas <img src='http://www.recital.cl/wax/wp-includes/images/smilies/icon_sad.gif' alt=':(' class='wp-smiley' />  y la verdad es que es mucha la plata entre los pasajes y la entrada ya wue soy de Puerto Montt y mis padres no me darian tanto para esto a si que seria increible ganar las entradas y cumplir uno de mis sueños que es conocer a mis idolos. Muchas gracias por el concurso <img src='http://www.recital.cl/wax/wp-includes/images/smilies/icon_biggrin.gif' alt=':D' class='wp-smiley' /> </p>
+
+		<div class="reply">
+					</div>
+		</div><!-- #comment-## -->
+		<div class="facebook odd alt thread-odd thread-alt depth-1" id="comment-9640">
+				<div class="comment-author vcard">
+						<cite class="fn"><a href="http://facebook.com/profile.php?id=1355503655" onclick="javascript:_gaq.push(['_trackEvent','outbound-commentauthor','http://facebook.com']);"  rel='external nofollow' class='url'>Vanessa Kammel Silva</a></cite> <span class="says">dice:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://www.recital.cl/2013/08/concurso-por-entrada-doble-para-one-direction-en-chile/#comment-9640">
+			24 agosto, 2013 a las 11:56</a>		</div>
+
+		<p>Hola, sólo me agradaría ganar las entradas para poder verlos. He esperado un tiempo para hacerlo y cuando se me da la oportunidad no se puede. No alcancé las entradas porque somos tantas Directioners que&#8230; se acabaron muy rápido. Si pudiera ganar, se la regalaría a mi hermana, puesto que ella también es Directioner y cuando supimos lo del concierto tuvimos que andar ahorrando y vendiendo de aquí por allá. De todas formas no alcanzamos nada. Soy de Puerto Montt y como pueden leer, es más complicado obtenerlas porque por internet no pudimos. Para mi sería realmente uno de mis sueños cumplidos, pero, más que un sueño cumplido, sería una satisfacción de poder conocer lo que uno cree casi imposible. Viajar sería lo de menos. Sonreír es lo que vale. Gracias por crear este concurso.</p>
+
+		<div class="reply">
+					</div>
+		</div><!-- #comment-## -->
+		<div class="facebook even thread-even depth-1" id="comment-9632">
+				<div class="comment-author vcard">
+						<cite class="fn"><a href="http://facebook.com/profile.php?id=100000976803535" onclick="javascript:_gaq.push(['_trackEvent','outbound-commentauthor','http://facebook.com']);"  rel='external nofollow' class='url'>Marcela Horan</a></cite> <span class="says">dice:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://www.recital.cl/2013/08/concurso-por-entrada-doble-para-one-direction-en-chile/#comment-9632">
+			23 agosto, 2013 a las 21:41</a>		</div>
+
+		<p>porque soy una directioner de alma no de corazón porque el corazón algún día para y deja de latir pero el alma queda es un sueño que cumpliría o realizaría yo a ellos los amo me han cambiado la vida a 360 grados ellos son mi corazón creo que con esas entradas seria feliz y casi nunca tengo suerte en estos concursos se que no tengo muchas esperanzas, pero yo esoy llorando escribiendo estas palabras no se que hacer por esas entradas lo único que se es que ells forman parte de mi corazón mi ser mi forma de ser mi todo en resumen y también se que estas entradas realizarían mi sueño mas grande</p>
+
+		<div class="reply">
+					</div>
+		</div><!-- #comment-## -->
+		<div class="facebook odd alt thread-odd thread-alt depth-1" id="comment-9624">
+				<div class="comment-author vcard">
+						<cite class="fn"><a href="http://facebook.com/profile.php?id=100000031555664" onclick="javascript:_gaq.push(['_trackEvent','outbound-commentauthor','http://facebook.com']);"  rel='external nofollow' class='url'>Valentina Sepúlveda Fica</a></cite> <span class="says">dice:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://www.recital.cl/2013/08/concurso-por-entrada-doble-para-one-direction-en-chile/#comment-9624">
+			21 agosto, 2013 a las 23:26</a>		</div>
+
+		<p>Hola como casi todos saben, muchas personas y niñas no pudieron comprar su entrada, se agotaron rapidisimo! Y una de todas ella era yo, ademas de no tener mucha plata. Poder verlos aunque sea A metros de mi aunque sea escuchar sus voces Cerca mio seria lo mas hermoso ,  no saben cuan importantes son para mis ellos, con una palabra podria decir que son mi vida, mi todo, Solo lo que quiero en mi vida, es poder sentir ese escalofrios al verlos, al escucharlos, no saben cuanto agradeceria si ganaria, no saben cuanto especial son para mi ellos, y esa entrada ESE SIMPLE PAPEL PARA MUCHOS, ES MI FELICIDAD.</p>
+
+		<div class="reply">
+					</div>
+		</div><!-- #comment-## -->
+		<div class="facebook even thread-even depth-1" id="comment-9623">
+				<div class="comment-author vcard">
+						<cite class="fn"><a href="http://facebook.com/profile.php?id=100000031555664" onclick="javascript:_gaq.push(['_trackEvent','outbound-commentauthor','http://facebook.com']);"  rel='external nofollow' class='url'>Valentina Sepúlveda Fica</a></cite> <span class="says">dice:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://www.recital.cl/2013/08/concurso-por-entrada-doble-para-one-direction-en-chile/#comment-9623">
+			21 agosto, 2013 a las 23:26</a>		</div>
+
+		<p>Hola como casi todos saben, muchas personas y niñas no pudieron comprar su entrada, se agotaron rapidisimo! Y una de todas ella era yo, ademas de no tener mucha plata. Poder verlos aunque sea A metros de mi aunque sea escuchar sus voces Cerca mio seria lo mas hermoso ,  no saben cuan importantes son para mis ellos, con una palabra podria decir que son mi vida, mi todo, Solo lo que quiero en mi vida, es poder sentir ese escalofrios al verlos, al escucharlos, no saben cuanto agradeceria si ganaria, no saben cuanto especial son para mi ellos, y esa entrada ESE SIMPLE PAPEL PARA MUCHOS, ES MI FELICIDAD.</p>
+
+		<div class="reply">
+					</div>
+		</div><!-- #comment-## -->
+		<div class="facebook odd alt thread-odd thread-alt depth-1" id="comment-9607">
+				<div class="comment-author vcard">
+						<cite class="fn"><a href="http://facebook.com/profile.php?id=1426932451" onclick="javascript:_gaq.push(['_trackEvent','outbound-commentauthor','http://facebook.com']);"  rel='external nofollow' class='url'>Jorge Antonio Pareja Perez</a></cite> <span class="says">dice:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://www.recital.cl/2013/08/concurso-por-entrada-doble-para-one-direction-en-chile/#comment-9607">
+			20 agosto, 2013 a las 15:11</a>		</div>
+
+		<p>Me gustaría ganar las entradas para regalárselas a mis hijas <img src='http://www.recital.cl/wax/wp-includes/images/smilies/icon_smile.gif' alt=':)' class='wp-smiley' /> </p>
+
+		<div class="reply">
+					</div>
+		</div><!-- #comment-## -->
+		<div class="facebook even thread-even depth-1" id="comment-9604">
+				<div class="comment-author vcard">
+						<cite class="fn"><a href="http://facebook.com/profile.php?id=100000091763901" onclick="javascript:_gaq.push(['_trackEvent','outbound-commentauthor','http://facebook.com']);"  rel='external nofollow' class='url'>Paula Andrea Diaz Mancilla</a></cite> <span class="says">dice:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://www.recital.cl/2013/08/concurso-por-entrada-doble-para-one-direction-en-chile/#comment-9604">
+			20 agosto, 2013 a las 6:56</a>		</div>
+
+		<p>Seria un gran sueño para mis sobrinitas, realmente seria un anhelo cumplido ver a sus grandes ídolos&#8230;..saludos y espero ganar..:)</p>
+
+		<div class="reply">
+					</div>
+		</div><!-- #comment-## -->
+		<div class="facebook odd alt thread-odd thread-alt depth-1" id="comment-9597">
+				<div class="comment-author vcard">
+						<cite class="fn"><a href="http://facebook.com/profile.php?id=1314194776" onclick="javascript:_gaq.push(['_trackEvent','outbound-commentauthor','http://facebook.com']);"  rel='external nofollow' class='url'>Nirvana Zambra Cardenas</a></cite> <span class="says">dice:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://www.recital.cl/2013/08/concurso-por-entrada-doble-para-one-direction-en-chile/#comment-9597">
+			19 agosto, 2013 a las 19:41</a>		</div>
+
+		<p>Quiero regalarle las entradas a mi sobrina, fanática de one direction, los ama y seria un hermoso regalo de cumpleaños para ella! <img src='http://www.recital.cl/wax/wp-includes/images/smilies/icon_biggrin.gif' alt=':D' class='wp-smiley' /> </p>
+
+		<div class="reply">
+					</div>
+		</div><!-- #comment-## -->
+		<div class="facebook even thread-even depth-1" id="comment-9596">
+				<div class="comment-author vcard">
+						<cite class="fn"><a href="http://facebook.com/profile.php?id=1314194776" onclick="javascript:_gaq.push(['_trackEvent','outbound-commentauthor','http://facebook.com']);"  rel='external nofollow' class='url'>Nirvana Zambra Cardenas</a></cite> <span class="says">dice:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://www.recital.cl/2013/08/concurso-por-entrada-doble-para-one-direction-en-chile/#comment-9596">
+			19 agosto, 2013 a las 19:41</a>		</div>
+
+		<p>Quiero regalarle las entradas a mi sobrina, fanática de one direction, los ama y seria un hermoso regalo de cumpleaños para ella! <img src='http://www.recital.cl/wax/wp-includes/images/smilies/icon_biggrin.gif' alt=':D' class='wp-smiley' /> </p>
+
+		<div class="reply">
+					</div>
+		</div><!-- #comment-## -->
+		<div class="facebook odd alt thread-odd thread-alt depth-1" id="comment-9584">
+				<div class="comment-author vcard">
+						<cite class="fn"><a href="http://facebook.com/profile.php?id=1189182666" onclick="javascript:_gaq.push(['_trackEvent','outbound-commentauthor','http://facebook.com']);"  rel='external nofollow' class='url'>Sandra Muena</a></cite> <span class="says">dice:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://www.recital.cl/2013/08/concurso-por-entrada-doble-para-one-direction-en-chile/#comment-9584">
+			18 agosto, 2013 a las 21:56</a>		</div>
+
+		<p>quiero llevar a mi hermana menor! cumplir uno de sus sueños.</p>
+
+		<div class="reply">
+					</div>
+		</div><!-- #comment-## -->
+      </noscript>
+  <div 
+    class="fb-comments" 
+    data-colorscheme="light" 
+    data-href="http://www.recital.cl/2013/08/concurso-por-entrada-doble-para-one-direction-en-chile/" 
+    data-num-posts="20" 
+    data-publish_feed="true"
+    data-width="620"></div>
+</div>
+
+
+
+  <div class="navigation">
+    <div class="alignleft"></div>
+    <div class="alignright"></div>
+  </div>
+
+  <div class="commentlist">
+      </div>
+
+  <div class="navigation">
+    <div class="alignleft"></div>
+    <div class="alignright"></div>
+  </div>
+
+	
+		    
+    
+    <!-- PUBLICIDAD -->    	
+
+  <div class="grid_8 adultima"><!--/* OpenX Javascript Tag v2.8.10 */-->
+
+<!--/*
+  * The backup image section of this tag has been generated for use on a
+  * non-SSL page. If this tag is to be placed on an SSL page, change the
+  *   'http://www.recital.cl/openx/www/delivery/...'
+  * to
+  *   'https://www.recital.cl/openx/www/delivery/...'
+  *
+  * This noscript section of this tag only shows image banners. There
+  * is no width or height in these banners, so if you want these tags to
+  * allocate space for the ad before it shows, you will need to add this
+  * information to the <img> tag.
+  *
+  * If you do not want to deal with the intricities of the noscript
+  * section, delete the tag (from <noscript>... to </noscript>). On
+  * average, the noscript tag is called from less than 1% of internet
+  * users.
+  */-->
+
+<script type='text/javascript'><!--//<![CDATA[
+   var m3_u = (location.protocol=='https:'?'https://www.recital.cl/openx/www/delivery/ajs.php':'http://www.recital.cl/openx/www/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=11");
+   document.write ('&cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&exclude=" + document.MAX_used);
+   document.write (document.charset ? '&charset='+document.charset : (document.characterSet ? '&charset='+document.characterSet : ''));
+   document.write ("&loc=" + escape(window.location));
+   if (document.referrer) document.write ("&referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if (document.mmm_fo) document.write ("&mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script><noscript><a href='http://www.recital.cl/openx/www/delivery/ck.php?n=a58215a0&cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://www.recital.cl/openx/www/delivery/avw.php?zoneid=11&cb=INSERT_RANDOM_NUMBER_HERE&n=a58215a0' border='0' alt='' /></a></noscript></div>
+
+	</div><!-- end content -->
+
+
+
+
+
+
+
+
+
+
+
+	
+	<div id="sidebar" class="grid_4 omega">
+
+
+
+		<!--SOCIALES-->
+        <div class="sociales">
+
+        	<ul> 
+
+            	<li>Social</li>
+
+				<li><a href="http://twitter.com/#!/recitalcl" target="_blank"><img src="http://www.recital.cl/wax/wp-content/themes/recital_2012/images/corporativo/twitter_bkg.png" /></a></li>
+
+                <li><a href="http://www.facebook.com/Recital.cl" target="_blank"><img src="http://www.recital.cl/wax/wp-content/themes/recital_2012/images/corporativo/face_bkg.png" /></a></li>
+
+                <li><a href="http://www.recital.cl/feed/rss/" target="_blank"><img src="http://www.recital.cl/wax/wp-content/themes/recital_2012/images/corporativo/rss_bkg.png" /></a></li>
+
+                <li><a href="http://www.youtube.com/recitalchile/" target="_blank"><img src="http://www.recital.cl/wax/wp-content/themes/recital_2012/images/corporativo/tube_bkg.png" /></a></li>
+
+                <li><a href="http://goog.la/Recitalcl" target="_blank"><img src="http://www.recital.cl/wax/wp-content/themes/recital_2012/images/corporativo/google_bkg.png" /></a></li>
+                
+                <li><a href="http://www.linkedin.com/groups/Recitalcl-4664391?gid=4664391&trk=hb_side_g" target="_blank"><img src="http://www.recital.cl/wax/wp-content/uploads/2013/02/linkedin_bkg.png" /></a></li>     
+
+        	</ul>        
+
+	</div><!--FIN SOCIALES-->
+<br/><br/>
+    
+
+				<ul>
+                
+			<li id="search-21" class="sidebar-widget widget_search"><h3 class="sidebar-widget">Buscar</h3><form role="search" method="get" id="searchform" class="searchform" action="http://www.recital.cl/">
+				<div>
+					<label class="screen-reader-text" for="s">Buscar:</label>
+					<input type="text" value="" name="s" id="s" />
+					<input type="submit" id="searchsubmit" value="Buscar" />
+				</div>
+			</form></li><li id="dfrads-widget-24" class="sidebar-widget dfrads"><!--/* OpenX iFrame Tag v2.8.10 */-->
+
+<!--/*
+  * This tag has been generated for use on a non-SSL page. If this tag
+  * is to be placed on an SSL page, change the
+  *   'http://www.cdcomp.cl/banner/www/delivery/...'
+  * to
+  *   'https://www.cdcomp.cl/banner/www/delivery/...'
+  *
+  * The backup image section of this tag has been generated for use on a
+  * non-SSL page. If this tag is to be placed on an SSL page, change the
+  *   'http://www.cdcomp.cl/banner/www/delivery/...'
+  * to
+  *   'https://www.cdcomp.cl/banner/www/delivery/...'
+  *
+  * If iFrames are not supported by the viewer's browser, then this
+  * tag only shows image banners. There is no width or height in these
+  * banners, so if you want these tags to allocate space for the ad
+  * before it shows, you will need to add this information to the <img>
+  * tag.
+  */-->
+
+<iframe id='aadcae56' name='aadcae56' src='http://www.cdcomp.cl/banner/www/delivery/afr.php?zoneid=2&amp;cb=INSERT_RANDOM_NUMBER_HERE' frameborder='0' scrolling='no' width='300' height='250'><a href='http://www.cdcomp.cl/banner/www/delivery/ck.php?n=a9b1b535&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://www.cdcomp.cl/banner/www/delivery/avw.php?zoneid=2&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a9b1b535' border='0' alt='' /></a></iframe></li><li id="knews_widget-16" class="sidebar-widget widget_knews_widget"><h3 class="sidebar-widget">Suscribirme a Recital.cl</h3><div class="knews_add_user" id="knewsform_1">
+					<style type="text/css">
+					div.knews_add_user textarea.knewscomment {position:absolute; top:-3000px; left:-3000px;}
+					div.knews_add_user fieldset {border:0;}
+					</style>
+					<form action="http://www.recital.cl/wax/wp-admin/admin-ajax.php" method="post"><fieldset class="name"><label for="name" style="display:block;">Nombre:*</label><input type="text" name="name" value="" style="display:block; margin-bottom:10px;" /><input type="hidden" value="1" name="required_name" /></fieldset><fieldset class="surname"><label for="surname" style="display:block;">Apellido:*</label><input type="text" name="surname" value="" style="display:block; margin-bottom:10px;" /><input type="hidden" value="1" name="required_surname" /></fieldset><fieldset class="knewsemail"><label for="knewsemail" style="display:block;">E-mail:*</label><input type="text" name="knewsemail" value="" style="display:block; margin-bottom:10px;" /></fieldset><input type="hidden" name="user_knews_list" value="1" /><input type="hidden" name="lang_user" value="es" /><input type="hidden" name="lang_locale_user" value="es-ES" /><input type="hidden" name="knewskey" value="d442130da78c3c43b4347e16ca4b3e7f" />
+						<textarea name="knewscomment" class="knewscomment" style="width:150px; height:80px" rows="5" cols="20"></textarea><fieldset class="requiredtext"><span style="display:block; margin-bottom:10px;"><small>* Este campo es obligatorio</small></span></fieldset><fieldset class="knewsbutton"><input class="knewsbutton" type="submit" value="Enviar" style="display:block; margin-bottom:10px;" /></fieldset>
+						<input type="hidden" name="action" value="knewsAddUser" />
+					</form>
+				</div></li><script type="text/javascript">
+				jQuery(document).ready(function() {
+					knewsfunc = function() {
+						if (jQuery(this).attr('submitted') !== "true") {
+							save_knews_form = jQuery('#knewsform_1').html();
+							jQuery(this).attr('submitted', "true");
+							jQuery("input:text", this).each(function() {
+								if (jQuery(this).attr("title") !== undefined) {
+									if (jQuery(this).val() == jQuery(this).attr("title")) jQuery(this).val("");
+								}
+							});
+							jQuery.post(jQuery(this).attr('action'), jQuery(this).serialize(), function (data) { 
+								jQuery('#knewsform_1').html(data);
+								jQuery('#knewsform_1 a.knews_back').click( function () {
+									jQuery('#knewsform_1').html(save_knews_form);
+									return false;								
+								});
+							});
+						}
+						return false;
+					}
+					knewsfuncInputs = function() {
+						if (typeof(jQuery(this).attr('title')) != 'undefined') {
+							if (jQuery(this).val() == jQuery(this).attr('title') ) jQuery(this).val('');
+						}
+					}
+					knewsfuncInputsExit = function() {
+						if (typeof(jQuery(this).attr('title')) != 'undefined') {
+							if (jQuery(this).val() == '' ) jQuery(this).val( jQuery(this).attr('title') );
+						}
+					}
+					if (parseInt(jQuery.fn.jquery.split('.').join(''), 10) >= 170) {
+						jQuery(document).on('submit', '#knewsform_1 form', knewsfunc);
+						jQuery(document).on('focus', '#knewsform_1 input', knewsfuncInputs);
+						jQuery(document).on('blur', '#knewsform_1 input', knewsfuncInputsExit);
+					} else {
+						jQuery('#knewsform_1 form').live('submit', knewsfunc);						
+						jQuery('#knewsform_1 input').live('focus', knewsfuncInputs);						
+						jQuery('#knewsform_1 input').live('blur', knewsfuncInputsExit);						
+					}
+				})
+			</script><li id="eo_event_list_widget-10" class="sidebar-widget EO_Event_List_Widget"><h3 class="sidebar-widget">Próximos Recitales</h3><ul  class="eo-events eo-events-widget"><li class="eo-event-venue-club-eve eo-event-cat-recitales eo-event-future"><img width="100" height="100" src="http://www.recital.cl/wax/wp-content/uploads/2013/09/tiga-100x100.jpg" class="attachment-thumbnail wp-post-image" alt="tiga" /><a href="http://www.recital.cl/Recitales/tiga/">Tiga</a> <p> el 26 septiembre 2013 22:00 hrs.</p><h4> Club Eve</h4></li><li class="eo-event-venue-bar-el-clan eo-event-cat-recitales eo-event-future"><img width="100" height="100" src="http://www.recital.cl/wax/wp-content/uploads/2013/09/Chinoy-100x100.jpg" class="attachment-thumbnail wp-post-image" alt="Chinoy" /><a href="http://www.recital.cl/Recitales/chinoy-5/">Chinoy</a> <p> el 26 septiembre 2013 22:00 hrs.</p><h4> Bar &quot;El Clan&quot;</h4></li><li class="eo-event-venue-club-el-ritmo eo-event-cat-recitales eo-event-future"><img width="100" height="100" src="http://www.recital.cl/wax/wp-content/uploads/2013/09/JOSE-GIL-Y-LOS-ABSURDOS-100x100.jpg" class="attachment-thumbnail wp-post-image" alt="JOSE-GIL-Y-LOS-ABSURDOS" /><a href="http://www.recital.cl/Recitales/jose-gil-y-los-absurdos/">José Gil y Los Absurdos</a> <p> el 26 septiembre 2013 22:00 hrs.</p><h4> Club El Ritmo</h4></li><li class="eo-event-venue-club-la-feria eo-event-cat-recitales eo-event-future"><img width="100" height="100" src="http://www.recital.cl/wax/wp-content/uploads/2013/08/digweed-100x100.jpg" class="attachment-thumbnail wp-post-image" alt="digweed" /><a href="http://www.recital.cl/Recitales/john-digweed/">John Digweed</a> <p> el 26 septiembre 2013 23:30 hrs.</p><h4> Club La Feria</h4></li><li class="eo-event-venue-teatro-municipal-de-las-condes-2 eo-event-cat-recitales eo-event-future"><img width="100" height="100" src="http://www.recital.cl/wax/wp-content/uploads/2013/08/Los-Jaivas-50-Aniversario-620-1-100x100.jpg" class="attachment-thumbnail wp-post-image" alt="Los Jaivas 50 Aniversario - 620-1" /><a href="http://www.recital.cl/Recitales/los-jaivas-7/">Los Jaivas</a> <p> el 27 septiembre 2013 20:30 hrs.</p><h4> Teatro Municipal de las Condes</h4></li></ul></li><li id="text-28" class="sidebar-widget widget_text"><h3 class="sidebar-widget">Facebook</h3>			<div class="textwidget"><iframe src="http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Frecital.cl&amp;width=300&amp;colorscheme=light&amp;show_faces=true&amp;border_color&amp;stream=false&amp;header=false&amp;height=233" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:300px; height:233px;" allowTransparency="true"></iframe></div>
+		</li><li id="dfrads-widget-56" class="sidebar-widget dfrads"><!--/* OpenX iFrame Tag v2.8.10 */-->
+
+<!--/*
+  * This tag has been generated for use on a non-SSL page. If this tag
+  * is to be placed on an SSL page, change the
+  *   'http://www.cdcomp.cl/banner/www/delivery/...'
+  * to
+  *   'https://www.cdcomp.cl/banner/www/delivery/...'
+  *
+  * The backup image section of this tag has been generated for use on a
+  * non-SSL page. If this tag is to be placed on an SSL page, change the
+  *   'http://www.cdcomp.cl/banner/www/delivery/...'
+  * to
+  *   'https://www.cdcomp.cl/banner/www/delivery/...'
+  *
+  * If iFrames are not supported by the viewer's browser, then this
+  * tag only shows image banners. There is no width or height in these
+  * banners, so if you want these tags to allocate space for the ad
+  * before it shows, you will need to add this information to the <img>
+  * tag.
+  */-->
+
+<iframe id='aadcae56' name='aadcae56' src='http://www.cdcomp.cl/banner/www/delivery/afr.php?zoneid=2&amp;cb=INSERT_RANDOM_NUMBER_HERE' frameborder='0' scrolling='no' width='300' height='250'><a href='http://www.cdcomp.cl/banner/www/delivery/ck.php?n=a9b1b535&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://www.cdcomp.cl/banner/www/delivery/avw.php?zoneid=2&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a9b1b535' border='0' alt='' /></a></iframe></li><li id="text-29" class="sidebar-widget widget_text">			<div class="textwidget"><a class="twitter-timeline" href="https://twitter.com/recitalcl" onclick="javascript:_gaq.push(['_trackEvent','outbound-widget','http://twitter.com']);" data-widget-id="306814617676546048">Tweets por @recitalcl</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script></div>
+		</li><li id="dfrads-widget-25" class="sidebar-widget dfrads"><!--/* OpenX Javascript Tag v2.8.10 */-->
+
+<!--/*
+  * The backup image section of this tag has been generated for use on a
+  * non-SSL page. If this tag is to be placed on an SSL page, change the
+  *   'http://www.cdcomp.cl/banner/www/delivery/...'
+  * to
+  *   'https://www.cdcomp.cl/banner/www/delivery/...'
+  *
+  * This noscript section of this tag only shows image banners. There
+  * is no width or height in these banners, so if you want these tags to
+  * allocate space for the ad before it shows, you will need to add this
+  * information to the <img> tag.
+  *
+  * If you do not want to deal with the intricities of the noscript
+  * section, delete the tag (from <noscript>... to </noscript>). On
+  * average, the noscript tag is called from less than 1% of internet
+  * users.
+  */-->
+
+<script type='text/javascript'><!--//<![CDATA[
+   var m3_u = (location.protocol=='https:'?'https://www.cdcomp.cl/banner/www/delivery/ajs.php':'http://www.cdcomp.cl/banner/www/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=3");
+   document.write ('&cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&exclude=" + document.MAX_used);
+   document.write (document.charset ? '&charset='+document.charset : (document.characterSet ? '&charset='+document.characterSet : ''));
+   document.write ("&loc=" + escape(window.location));
+   if (document.referrer) document.write ("&referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if (document.mmm_fo) document.write ("&mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script><noscript><a href='http://www.cdcomp.cl/banner/www/delivery/ck.php?n=a4ed944f&cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://www.cdcomp.cl/banner/www/delivery/avw.php?zoneid=3&cb=INSERT_RANDOM_NUMBER_HERE&n=a4ed944f' border='0' alt='' /></a></noscript></li><li id="eo_calendar_widget-6" class="sidebar-widget widget_calendar eo_widget_calendar"><h3 class="sidebar-widget">Calendario Recitales</h3><div id='eo_calendar_widget-6_content' ><table id='wp-calendar'><caption> septiembre 2013 </caption><thead><tr><th title='Lunes' scope='col'>L</th><th title='Martes' scope='col'>M</th><th title='Miércoles' scope='col'>X</th><th title='Jueves' scope='col'>J</th><th title='Viernes' scope='col'>V</th><th title='Sábado' scope='col'>S</th><th title='Domingo' scope='col'>D</th></tr></thead><tfoot><tr>
+					<td id='eo-widget-prev-month' colspan='3'><a title='Mes anterior' href='/wax/wp-content/plugins/shoutcast-icecast-html5-radio-player/html5/jscolor.js?ver=3.6&eo_month=2013-08'>&laquo; ago</a></td>
+					<td class='pad'>&nbsp;</td>
+					<td id='eo-widget-next-month' colspan='3'><a title='Mes siguiente' href='/wax/wp-content/plugins/shoutcast-icecast-html5-radio-player/html5/jscolor.js?ver=3.6&eo_month=2013-10'> oct &raquo; </a></td>
+				</tr></tfoot><tbody><tr><td class='pad eo-before-month' colspan='1'>&nbsp;</td><td class='pad eo-before-month' colspan='1'>&nbsp;</td><td class='pad eo-before-month' colspan='1'>&nbsp;</td><td class='pad eo-before-month' colspan='1'>&nbsp;</td><td class='pad eo-before-month' colspan='1'>&nbsp;</td><td class='pad eo-before-month' colspan='1'>&nbsp;</td><td data-eo-wc-date='2013-09-01' class='eo-past-date'> 1 </td></tr><tr><td data-eo-wc-date='2013-09-02' class='eo-past-date'> 2 </td><td data-eo-wc-date='2013-09-03' class='eo-past-date'> 3 </td><td data-eo-wc-date='2013-09-04' class='eo-past-date'> 4 </td><td data-eo-wc-date='2013-09-05' class='eo-past-date'> 5 </td><td data-eo-wc-date='2013-09-06' class='eo-past-date'> 6 </td><td data-eo-wc-date='2013-09-07' class='eo-past-date'> 7 </td><td data-eo-wc-date='2013-09-08' class='eo-past-date'> 8 </td></tr><tr><td data-eo-wc-date='2013-09-09' class='eo-past-date'> 9 </td><td data-eo-wc-date='2013-09-10' class='eo-past-date'> 10 </td><td data-eo-wc-date='2013-09-11' class='eo-past-date'> 11 </td><td data-eo-wc-date='2013-09-12' class='eo-past-date'> 12 </td><td data-eo-wc-date='2013-09-13' class='eo-past-date'> 13 </td><td data-eo-wc-date='2013-09-14' class='eo-past-date'> 14 </td><td data-eo-wc-date='2013-09-15' class='eo-past-date'> 15 </td></tr><tr><td data-eo-wc-date='2013-09-16' class='eo-past-date'> 16 </td><td data-eo-wc-date='2013-09-17' class='eo-past-date'> 17 </td><td data-eo-wc-date='2013-09-18' class='eo-past-date'> 18 </td><td data-eo-wc-date='2013-09-19' class='eo-past-date'> 19 </td><td data-eo-wc-date='2013-09-20' class='eo-past-date'> 20 </td><td data-eo-wc-date='2013-09-21' class='eo-past-date'> 21 </td><td data-eo-wc-date='2013-09-22' class='eo-past-date'> 22 </td></tr><tr><td data-eo-wc-date='2013-09-23' class='eo-past-date'> 23 </td><td data-eo-wc-date='2013-09-24' class='eo-past-date'> 24 </td><td data-eo-wc-date='2013-09-25' class='eo-past-date'> 25 </td><td data-eo-wc-date='2013-09-26' class='today event eo-event-venue-gimnasio-instituto-san-martin eo-event-cat-recitales eo-event-future eo-event-venue-teatro-municipal-de-las-condes-2 eo-event-venue-club-eve eo-event-venue-bar-el-clan eo-event-venue-club-el-ritmo eo-event-venue-club-la-feria'> <a title='Inti Illimani en Curicó, Los Jaivas, Tiga, Chinoy, José Gil y Los Absurdos, John Digweed' href='http://www.recital.cl/events/event/on/2013/09/26'> 26 </a></td><td data-eo-wc-date='2013-09-27' class='eo-future-date event eo-event-venue-teatro-municipal-de-las-condes-2 eo-event-cat-recitales eo-event-future eo-event-venue-bar-santa-filomena-2 eo-event-venue-opera-catedral-2'> <a title='Los Jaivas, Los Peores de Chile, Playa Sonora' href='http://www.recital.cl/events/event/on/2013/09/27'> 27 </a></td><td data-eo-wc-date='2013-09-28' class='eo-future-date event eo-event-venue-movistar-arena-3 eo-event-cat-recitales eo-event-future eo-event-venue-teatro-municipal-de-las-condes-2 eo-event-venue-teatro-caupolican-2 eo-event-venue-opera-catedral-2'> <a title='Festival de la Primavera Caja Los Andes, Los Jaivas, Video Games live, Go' href='http://www.recital.cl/events/event/on/2013/09/28'> 28 </a></td><td data-eo-wc-date='2013-09-29' class='eo-future-date event eo-event-venue-centro-cultural-la-florida eo-event-cat-recitales eo-event-future eo-event-venue-plaza-de-armas-de-melipilla eo-event-venue-plaza-civica-de-huechuraba'> <a title='Día de la Música en La Florida, Día de la Música en Melipilla, Día de la Música en Huechuraba' href='http://www.recital.cl/events/event/on/2013/09/29'> 29 </a></td></tr><tr><td data-eo-wc-date='2013-09-30' class='eo-future-date event eo-event-venue-movistar-arena-3 eo-event-cat-recitales eo-event-future'> <a title='Alice in Chains' href='http://www.recital.cl/events/event/on/2013/09/30'> 30 </a></td><td class='pad eo-after-month' colspan='1'>&nbsp;</td><td class='pad eo-after-month' colspan='1'>&nbsp;</td><td class='pad eo-after-month' colspan='1'>&nbsp;</td><td class='pad eo-after-month' colspan='1'>&nbsp;</td><td class='pad eo-after-month' colspan='1'>&nbsp;</td><td class='pad eo-after-month' colspan='1'>&nbsp;</td></tr></tbody></table></div></li><li id="dfrads-widget-26" class="sidebar-widget dfrads"><div><script type="text/javascript"><!--
+google_ad_client = "ca-pub-9889407046832684";
+/* rectangulo mediano */
+google_ad_slot = "2636349947";
+google_ad_width = 300;
+google_ad_height = 250;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></div></li><li id="dfrads-widget-27" class="sidebar-widget dfrads"><!--/* OpenX iFrame Tag v2.8.10 */-->
+
+<!--/*
+  * This tag has been generated for use on a non-SSL page. If this tag
+  * is to be placed on an SSL page, change the
+  *   'http://www.cdcomp.cl/banner/www/delivery/...'
+  * to
+  *   'https://www.cdcomp.cl/banner/www/delivery/...'
+  *
+  * The backup image section of this tag has been generated for use on a
+  * non-SSL page. If this tag is to be placed on an SSL page, change the
+  *   'http://www.cdcomp.cl/banner/www/delivery/...'
+  * to
+  *   'https://www.cdcomp.cl/banner/www/delivery/...'
+  *
+  * If iFrames are not supported by the viewer's browser, then this
+  * tag only shows image banners. There is no width or height in these
+  * banners, so if you want these tags to allocate space for the ad
+  * before it shows, you will need to add this information to the <img>
+  * tag.
+  */-->
+
+<iframe id='a114bc38' name='a114bc38' src='http://www.cdcomp.cl/banner/www/delivery/afr.php?zoneid=6&amp;cb=INSERT_RANDOM_NUMBER_HERE' frameborder='0' scrolling='no' width='300' height='250'><a href='http://www.cdcomp.cl/banner/www/delivery/ck.php?n=a08fdceb&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://www.cdcomp.cl/banner/www/delivery/avw.php?zoneid=6&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a08fdceb' border='0' alt='' /></a></iframe></li>
+		
+												            
+			
+		</ul>
+	</div><!-- end sidebar -->
+    
+	<div class="clear">&nbsp;</div>
+
+	</div><!--fin wrapper -->
+	
+	<!-- Pie del Sitio -->
+	
+		<!-- FRANJA LOGOS 1 -->
+		<div class="container_12 huinchamarcas">
+			<a href="http://www.amanda.cl/" target="_blank"><img src="http://www.recital.cl/sponsors/amanda.gif" /></a>
+			<a href="http://www.teatrocaupolican.cl/" target="_blank"><img src="http://www.recital.cl/sponsors/banner_caupolican.jpg" /></a>
+            <a href="http://www.centroartealameda.cl/" target="_blank"><img src="http://www.recital.cl/sponsors/centro-arte-alameda.jpg" /></a>
+            <a href="http://www.centroartealameda.cl/" target="_blank"><img src="http://www.recital.cl/sponsors/rockguitarras.gif" /></a>
+			<!--a href="http://clubchocolate.cl/" target="_blank"><img src="http://www.recital.cl/sponsors/chocolate.gif" /></a-->
+			<a href="http://www.emoderna.cl/" target="_blank"><img src="http://www.recital.cl/sponsors/emoderna.gif" /></a>
+			<a href="http://www.houserock.cl/" target="_blank"><img src="http://www.recital.cl/sponsors/houserock.gif" /></a>
+		</div>
+        <!-- FIN FRANJA LOGOS 1 -->           
+                    
+        
+        <!-- FRANJA LOGOS 2 -->            
+       	<div class="container_12 huinchamarcas">
+            <a href="http://www.inedit-nescafe.cl/" target="_blank"><img src="http://www.recital.cl/sponsors/inedit_sponsor.gif" /></a>
+            <a href="http://batuta.cl/" target="_blank">
+            <img src="http://www.recital.cl/sponsors/batuta_logo_recital.png" /></a>
+            <a href="http://www.culturasanjoaquin.cl/" target="_blank"><img src="http://www.recital.cl/sponsors/logo_corp-neo1.png" /></a>
+            <a href="http://www.themetalfest.cl/" target="_blank">
+            <img src="http://www.recital.cl/wax/wp-content/uploads/2013/04/metalfest.jpg" /></a>
+			<a href="http://lineup.lollapaloozacl.com/" target="_blank">
+            <img src="http://www.recital.cl/sponsors/footerlollapalooza.jpg" /></a>
+            <a href="http://www.lamakinita.cl//" target="_blank">
+            <img src="http://www.recital.cl/sponsors/laMaquina.jpg" /></a>
+			<!--a href="http://www.houserock.cl/" target="_blank"><img src="http://www.recital.cl/sponsors/houserock.gif" /></a-->
+		</div>
+		<!-- FIN FRANJA LOGOS 2 -->
+        
+        
+       <!-- FRANJA LOGOS 3 -->            
+       	<!--div class="container_12 huinchamarcas">
+            <a href="http://www.inedit-nescafe.cl/" target="_blank"><img src="http://www.recital.cl/sponsors/inedit_sponsor.gif" /></a>
+            <a href="http://batuta.cl/" target="_blank">
+            <img src="http://www.recital.cl/sponsors/batuta_logo_recital.png" /></a>
+            <a href="http://www.centroartealameda.cl/" target="_blank"><img src="http://www.recital.cl/sponsors/centro-arte-alameda.jpg" /></a>
+            <a href="http://www.centroartealameda.cl/" target="_blank"><img src="http://www.recital.cl/sponsors/rockguitarras.gif" /></a>
+			<a href="http://www.emoderna.cl/" target="_blank"><img src="http://www.recital.cl/sponsors/emoderna.gif" /></a>
+			<a href="http://www.houserock.cl/" target="_blank"><img src="http://www.recital.cl/sponsors/houserock.gif" /></a>
+		</div-->
+		<!-- FIN FRANJA LOGOS 3 --> 
+	
+	
+	<div id="footer">
+	
+				<div class="container_12">
+		
+			<div id="footerContent" class="grid_12">
+				
+					<p>
+					Recital.cl &amp; 2011-2013 . Derechos Reservados. 
+                    <br />
+					<a href="http://www.recital.cl/feed/">Entradas (RSS)</a>
+					y <a href="http://www.recital.cl/comments/feed/">Comentarios (RSS)</a>.
+										
+
+				</p>
+			</div><!-- footer-->
+			
+		</div><!-- container -->
+		
+		
+		<div class="clear">&nbsp;</div>
+		
+	</div>
+
+
+
+</div><!-- fin pagina -->
+
+
+  <script type="text/javascript">var nr_domain = "www.recital.cl", nr_is_home = 0, nr_pageurl = 'http://www.recital.cl/2013/08/concurso-por-entrada-doble-para-one-direction-en-chile/';</script>
+  <script async type="text/javascript" id="nrelate_loader_script" data-nrelate-options="{&quot;plugins&quot;:{&quot;related&quot;:{&quot;cssstyle&quot;:&quot;default&quot;,&quot;thumbsize&quot;:100,&quot;widgetstyle&quot;:1},&quot;popular&quot;:{&quot;cssstyle&quot;:&quot;huf&quot;,&quot;thumbsize&quot;:80,&quot;widgetstyle&quot;:1,&quot;maxageposts&quot;:1051200}}}" src="http://www.recital.cl/wax/wp-content/plugins/nrelate-most-popular/admin/nrelate_js.min.js?ver=0.52.4"></script><script type='text/javascript' src='http://platform.twitter.com/widgets.js?ver=3.6'></script>
+<script type='text/javascript' src='http://www.recital.cl/wax/wp-content/plugins/socialize/frontend/js/plusone.js?ver=3.6'></script>
+<script type='text/javascript' src='http://platform.linkedin.com/in.js?ver=3.6'></script>
+<script type="text/javascript">
+
+    	$(window).load(function() {
+
+        $("#slider").nivoSlider();
+
+   	 	});
+
+   		</script><!-- Facebook Social Plugins -->
+<div id="fb-root"></div>
+<script type="text/javascript">
+  window.fbAsyncInit = function() { FB.init({appId: '209090629177582', status: true, cookie: true, xfbml: true}); };
+  (function() {
+    var e = document.createElement('script');
+    e.type = 'text/javascript';
+    e.src = document.location.protocol + '//connect.facebook.net/es_ES/all.js';
+    e.async = true;
+    document.getElementById('fb-root').appendChild(e);
+  }());
+</script>
+<script type='text/javascript' src='http://www.recital.cl/wax/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.40.0-2013.08.13'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"http:\/\/www.recital.cl\/wax\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Enviando...","cached":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.recital.cl/wax/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=3.5.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var pollsL10n = {"ajax_url":"http:\/\/www.recital.cl\/wax\/wp-admin\/admin-ajax.php","text_wait":"Your last request is still being processed. Please wait a while ...","text_valid":"Please choose a valid poll answer.","text_multiple":"Maximum number of choices allowed: ","show_loading":"1","show_fading":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.recital.cl/wax/wp-content/plugins/wp-polls/polls-js.js?ver=2.63'></script>
+<script type='text/javascript' src='http://www.recital.cl/wax/wp-content/plugins/event-organiser/js/qtip2.js?ver=2.3.1'></script>
+<script type='text/javascript' src='http://www.recital.cl/wax/wp-includes/js/jquery/ui/jquery.ui.core.min.js?ver=1.10.3'></script>
+<script type='text/javascript' src='http://www.recital.cl/wax/wp-includes/js/jquery/ui/jquery.ui.widget.min.js?ver=1.10.3'></script>
+<script type='text/javascript' src='http://www.recital.cl/wax/wp-includes/js/jquery/ui/jquery.ui.button.min.js?ver=1.10.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var EO_Pro_DP = {"adminajax":"http:\/\/www.recital.cl\/wax\/wp-admin\/admin-ajax.php","locale":{"locale":"es","monthNames":["enero","febrero","marzo","abril","mayo","junio","julio","agosto","septiembre","octubre","noviembre","diciembre"],"monthAbbrev":["ene","feb","mar","abr","may","jun","jul","ago","sep","oct","nov","dic"],"dayNames":["Domingo","Lunes","Martes","Mi\u00e9rcoles","Jueves","Viernes","S\u00e1bado"],"dayAbbrev":["Dom","Lun","Mar","Mie","Jue","Vie","Sab"]}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.recital.cl/wax/wp-includes/js/jquery/ui/jquery.ui.datepicker.min.js?ver=1.10.3'></script>
+<script type='text/javascript' src='http://www.recital.cl/wax/wp-content/plugins/event-organiser/js/fullcalendar.min.js?ver=2.3.1'></script>
+<script type='text/javascript' src='http://www.recital.cl/wax/wp-content/plugins/event-organiser/js/event-manager.min.js?ver=2.3.1'></script>
+<script type='text/javascript' src='http://www.recital.cl/wax/wp-content/plugins/event-organiser-pro/js/fullcalendar-filters.min.js?ver=1.3.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var EOAjaxFront = {"adminajax":"http:\/\/www.recital.cl\/wax\/wp-admin\/admin-ajax.php","locale":{"locale":"es","monthNames":["enero","febrero","marzo","abril","mayo","junio","julio","agosto","septiembre","octubre","noviembre","diciembre"],"monthAbbrev":["ene","feb","mar","abr","may","jun","jul","ago","sep","oct","nov","dic"],"dayNames":["Domingo","Lunes","Martes","Mi\u00e9rcoles","Jueves","Viernes","S\u00e1bado"],"dayAbbrev":["Dom","Lun","Mar","Mie","Jue","Vie","Sab"],"ShowMore":"Mostrar m\u00e1s","ShowLess":"Mostrar menos","today":"hoy","day":"d\u00eda","week":"semana","month":"mes","gotodate":"ir a fecha","cat":"Ver todas las categorias","venue":"Ver todos los lugares"}};
+var eventorganiser = {"locale":{"view_all_countries":"View all countries","view_all_states":"View all states","view_all_cities":"View all cities"},"fullcal":{"countries":["Chile","Santiago"],"states":["Biobio"],"cities":["Santiago","Punta Arenas","Iquique","Valdivia","Concepci\u00f3n","Coquimbo","Curico","Talcahuano","Quillota","Coyhaique","Pichilemu","Antofagasta","Melipilla"]}};
+var eo_widget_cal = {"eo_calendar_widget-6":{"showpastevents":0,"show-long":0,"link-to-single":0,"event-venue":0,"event-category":0}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.recital.cl/wax/wp-content/plugins/event-organiser/js/frontend.min.js?ver=2.3.1'></script>
+
+
+
+<!-- SCRIPT NIVO LOLA -->
+
+<!--<script type="text/javascript" src="http://www.recital.cl/wax/wp-content/themes/recital_2012/scripts/jquery.nivo.slider.pack.js"></script>
+ <script type="text/javascript">
+ $(window).load(function() {
+ $('#nivoslider').nivoSlider();
+ });
+ </script>-->
+ 
+ <!-- CIERRE SCRIPT NIVO LOLA -->
+
+
+	
+</body>
+</html>

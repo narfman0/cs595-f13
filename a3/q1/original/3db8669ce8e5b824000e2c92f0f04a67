@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="Shift_JIS"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ja" lang="ja">
+<head>
+<meta name="google-site-verification" content="iMfYujdbqN8pZRtzIa1ez6WNZaPlpAI707BesW-kkmQ" />
+<meta http-equiv="Content-Type" content="text/html; charset=Shift_JIS" />
+<title>ホテル予約 Agoda はキャンセル料に注意: 旅の技術</title>
+<meta name="description" content="ホテル予約 Agoda はキャンセル料に注意,お得で快適な旅の方法を日々考えている。" />
+<meta name="keywords" content="旅の技術 " />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<link rel="stylesheet" href="http://solo-travel.sblo.jp/styles-index.css" type="text/css" />
+<link rel="stylesheet" href="http://blog.sakura.ne.jp/css/user-common.css" type="text/css" />
+<link rel="alternate" href="http://solo-travel.sblo.jp/index.rdf" type="application/rss+xml" title="RSS" />
+
+<link rel="meta" type="application/rdf+xml" title="FOAF" href="http://solo-travel.sblo.jp/foaf.rdf" />
+
+</head>
+<body><script type="text/javaScript">seesaa_site_id = 'solo-travel'; seesaa_floating = true;</script>
+<span id="iphone-link" style="display:none; padding-top:3px;text-align:right;"><a href="javascript:document.cookie='force_pc=0; max-age=15768000; path=/'; document.location='/'">iPhone専用ページを表示</a></span>
+<script type="text/javaScript"><!--
+if (0 <= navigator.userAgent.indexOf('iPhone')) { document.getElementById('iphone-link').style.display = 'block'; }
+//--></script>
+
+
+<div id="container">
+<script type="text/javascript" language="JavaScript" src="http://blog.sakura.ne.jp/contents/js/ad_plugin.js"></script>
+<div id="banner">
+<h1><a href="http://solo-travel.sblo.jp/" accesskey="1">旅の技術</a></h1>
+旅で役立ちそうな情報をつづっていく
+
+
+</div>
+
+
+
+<div id="content">
+<!-- Content -->
+<div class="navi">
+<a href="http://solo-travel.sblo.jp/article/51377198.html">&lt;&lt;</a> <a href="http://solo-travel.sblo.jp/article/51377198.html">Truemove オンライン TopUp(タイ)</a> | <a href="http://solo-travel.sblo.jp/">TOP</a>
+ | <a href="http://solo-travel.sblo.jp/article/53029983.html">AIS USB データカード利用(タイ)</a> <a href="http://solo-travel.sblo.jp/article/53029983.html">&gt;&gt;</a></div>
+
+
+<div class="blog">
+
+<!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:Trackback="http://madskills.com/public/xml/rss/module/Trackback/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about="http://solo-travel.sblo.jp/article/52815418.html"
+    trackback:ping="http://blog.sakura.ne.jp/tb/52815418"
+    dc:title="ホテル予約 Agoda はキャンセル料に注意"
+    dc:identifier="http://solo-travel.sblo.jp/article/52815418.html"
+    dc:description="ホテル予約の Agoda では、キャンセル料を 100 % とる場合が多いため注意が必要。ホームページ上では多数、目立つように「キャンセル料なし」との表示がされており、キャンセル料がかからないと誤解を与えるような書き方をしている。しかし、そのまま信じてはならない。キャンセル料なしはあくまでごく一部である。Agoda では、客がキャンセル料を取られないと勘違いをするように巧妙な書き方をしている。1. 全てのホテルの検索結果のページには、必ず緑の太字で「キャンセル料なし」の表示が.."
+    dc:creator="tact226"
+    dc:subject="宿泊"
+    dc:date="2012-01-04T20:07:26+09:00"
+/>
+</rdf:RDF>
+-->
+<h2 class="date">2012年01月04日</h2>
+<div class="blogbody">
+<h3 class="title"><a href="http://solo-travel.sblo.jp/article/52815418.html" class="title">ホテル予約 Agoda はキャンセル料に注意</a></h3>
+<div class="text"><!-- MATCH SEESAA : NO FLOATING -->ホテル予約の Agoda では、キャンセル料を 100 % とる場合が多いため注意が必要。ホームページ上では多数、目立つように「キャンセル料なし」との表示がされており、キャンセル料がかからないと誤解を与えるような書き方をしている。しかし、そのまま信じてはならない。キャンセル料なしはあくまでごく一部である。Agoda では、客がキャンセル料を取られないと勘違いをするように巧妙な書き方をしている。<br /><br />1. 全てのホテルの検索結果のページには、必ず緑の太字で「キャンセル料なし」の表示が出てくる。しかし、これはあくまでも Agoda で取り扱う中のごく一部である。なお、写真の検索結果の中にも「キャンセル料なし」と表示されたが、この中にキャンセル料なしのプランは 1 つもない。<br /><div align="center"><img src="http://backpackers.sakura.ne.jp/sblo_files/solo-travel/image/agoda1-thumbnail2.png" width="320" height="54" border="0" align="" alt="agoda1.png" /></div><br /><br />2. ホテルプランには写真と料金が書かれている。ここにはキャンセル料 100 % とると明記されていない。しかし、このプランではキャンセル料は 100 % 取られる。<br /><div align="center"><img src="http://backpackers.sakura.ne.jp/sblo_files/solo-travel/image/agoda2-thumbnail2.png" width="276" height="199" border="0" align="" alt="agoda2.png" /></div><br /><br />「キャンセルするときは?」をクリックして初めて返金&#8226;変更不可という表示があらわれる。「キャンセルするときは？」と書かれていると、キャンセル方法、キャンセル時の連絡先などキャンセル時に必要な情報が書かれていると思って、予約時には見ない人も多いと思われる。ここでは微妙な日本語で誤解を誘い、返金変更のページへ進まないような書き方をしている。<br /><div align="center"><img src="http://backpackers.sakura.ne.jp/sblo_files/solo-travel/image/agoda3-thumbnail2.png" width="297" height="290" border="0" align="" alt="agoda3.png" /></div><br /><br />さらに、ここで表記している説明も曖昧で、あくまでノーショー(キャンセル連絡も入れずにホテルに宿泊しないこと)の場合のみ返金不可で、きちんとキャンセル連絡をすれば返金されると思われても良いような書き方となっている。<br /><br />3. こちらは検索結果から「予約する」に進んだときに表示される画面。右上に予約条件&#8226;キャンセル規約と小さく目立たないように書かれている。ここでも小さく隅に書くことで、契約時の重要な項目でない、という誤解を誘い、キャンセル料のページへ進ませないようになっている。<br /><div align="center"><img src="http://backpackers.sakura.ne.jp/sblo_files/solo-travel/image/agoda4-thumbnail2.png" width="320" height="202" border="0" align="" alt="agoda4.png" /></div><br /><br /><br />4. 予約条件&#8226;キャンセル規約をクリックしたときの画面。目立つ太字だけを見ると、「キャンセル規約」、「agoda ではキャンセル手数料は一切かかりません」である。これは多いに誤解を誘う書き方だ。<br /><div align="center"><img src="http://backpackers.sakura.ne.jp/sblo_files/solo-travel/image/agoda5-thumbnail2.png" width="320" height="182" border="0" align="" alt="agoda5.png" /></div><br /><br />さらに、「agoda ではキャンセル手数料は一切かかりません」とある。しかし、これはあくまでキャンセル料を Agoda が取らないといっているだけである。代わりにホテル名目でキャンセル料はとられる。Agoda で予約、購入して Agoda がキャンセル手数料を取らないなら、キャンセル手数料なしと思うのが素直であろう。しかしキャンセル料はとられるので注意が必要である。さらに Agoda はホテルがキャンセル料をとるのであって、Agoda は関知しないという態度を取る。<br /><br />この箇所に関しては、「agoda ではキャンセル手数料は一切かかりません」と書いているにもかかわらず、「agoda で予約&#8226;購入してホテル(という名目で)キャンセル手数料をとっている」ため、誤解を誘うどころか、ウソをついていることになる。<br /><br />基本的に、Agoda のホームページでは「キャンセル料なし」を目立つように、頻繁に表示している。一方、キャンセル料を取るとの記述は小さく目立ちにくく、そこにたどり着きにくいようになっている。その上、キャンセル料をとるとの記述には 「キャンセル料なし」の記述を目立つ形式でぶつけてきて、誤解を誘う念の入れようである。かなり意図的に誤解を誘う作りにしているのだろう。<br /><br />今回、改めて Agoda のページをよく見てみたが、巧みに誤解を誘う作り(一部はウソの記述)になっていると思った。ネット上では数万円のキャンセル料を取られたとの記述をたくさん見つけたので気をつけたい。また、かなり巧妙に誤解を誘うように作られていることから、会社として意図的にキャンセル料で稼ごうとしているのだろう。あくまでもそういう会社だということを記憶しておきたい。(2012/1/4)<a name="more"></a>
+
+<script type="text/javascript" language="javascript" charset="utf-8">
+//<![CDATA[
+seesaa_bookmark_services = "twitter,yahoo,livedoor,hatena,iza,facebook";
+seesaa_article_page_url = "http://solo-travel.sblo.jp/article/52815418.html";
+seesaa_article_subject = "ホテル予約 Agoda はキャンセル料に注意";
+seesaa_blog_url = "http://blog.sakura.ne.jp";
+//]]></script>
+<script type="text/javascript" language="JavaScript" charset="utf-8" src="http://blog.sakura.ne.jp/js/bookmark.js"></script>
+
+
+</div>
+<div class="posted">posted by tact226 at 20:07| <a href="http://solo-travel.sblo.jp/article/52815418.html#comment">Comment(2)</a>
+| <a href="http://solo-travel.sblo.jp/category/1155006-1.html">宿泊</a>
+</div>
+
+</div>
+
+</div>
+
+
+<div id="comments">
+
+<a name="comment"></a>
+
+<div class="comments-head">この記事へのコメント</div>
+
+<div class="comments-body">
+<div class="text">失礼します。<br /><br />私も似たような対応をされましたが、<br />一週間ほどやりとりをした結果、返金されました。<br /><br />私の場合は宿泊キャンセルではなく、<br />部屋数入力をまちがえたため、直後にその訂正をして欲しい<br />とアゴダに連絡しました。ちなみに宿泊日より二週間前です。<br /><br />翌日、返信があり、<br />31日前からキャンセル料100％というホテルのポリシーがある<br />ため、我々は部屋数変更の交渉をしたが、ペナルティなしで変更できないという口実で、拒まれました。<br /><br />怪しいと思い、ホテルの連絡先を調べて国際電話で<br />本当にキャンセルができないのか聞いて見たところ、<br />アゴダを経由して変更をしてくれと言われました。<br />ホテルポリシーという話は出ませんでした。<br /><br />次に、ホテルのメールアドレス宛にアゴダとのやり取りを<br />FWするかたちで、アゴダいわく、<br />ホテルの100％キャンセル料ポリシーがあるせいで<br />部屋数変更ができないと言っている。<br />本当のことを知りたくて、直接連絡した。とメールをしました。<br /><br />次の日、ホテルマネジャーから返事があり、<br />私たちは基本的にはアゴダのポリシーに従っています。<br />再びアゴダにコンタクトして、部屋数変更ができなければ<br />私(ホテルマネジャー)に連絡するように<br />アゴダへ伝えてください。と丁寧なメールがきました。<br /><br />アゴダにその旨をメールしたところ、<br />次の日、何もなかったかのように部屋数変更と超過分の返金通知のメールがきました。<br /><br />私の推測ですが、ホテルポリシーというのはアゴダの嘘です。<br />ホテルにホームページがある場合、たいていそこに規約がのっていますので<br />アゴダの言うことを鵜呑みにせず、ホテルのサイトを見るなりしてみてください。<br />もちろん直前キャンセルなら100％キャンセル料もありえますが、<br />31日前からキャンセル料100％なんて規約のホテルはないような気がします。<br /><br />証拠に、今回アゴダはホテルポリシーを名目に部屋数変更を断ってきましたが、<br />ホテルはアゴダのポリシーに従うと言ってました。<br /><br />そもそも入力ちがいをした此方が発端ではあるため、<br />アゴダが100％悪質かというとそうとも言い切れませんが、<br />何かやり方に怪しいさを感じる業者です。<br />参考になれば幸いです。<br /><br />最後に強調して補足しますと、私はキャンセルではなく<br />入力誤りによる部屋数変更を申し出ました。<br /><br /><br /><br /></div>
+<div class="comments-post">Posted by 匿名 at 2013年08月09日 12:42<br /></div>
+</div>
+<div class="comments-body">
+<div class="text">匿名さん<br /><br />貴重な情報ありがとうございます。<br />ひとまず、ホテルポリシーで返金できないと言われた場合は、ホテル側に確認することが解決策になりそうですね。<br /><br />やはりキャンセル料はアゴダが掠めているんですね。<br />キャンセル料をアゴダが掠めているにもかかわらず、ホテルのせいにするとは。。。<br />アゴダは客だけでなく、ホテル側もだましているんですね。<br /></div>
+<div class="comments-post">Posted by tact226 at 2013年08月13日 23:46<br /></div>
+</div>
+<div class="comments-head">コメントを書く</div>
+<form action="http://solo-travel.sblo.jp/pages/user/comments2/regist/input" method="post" name="comment-form">
+<div class="comments-body">
+お名前: <br />
+<input type="text" name="article_child__writer" size="50" value="" /><br />
+メールアドレス: <br />
+<input type="text" name="article_child__email" size="50" value="" /><br />
+ホームページアドレス: <br />
+<input type="text" name="article_child__homepage" size="50" value="" /><br />
+コメント: <br />
+<textarea name="article_child__body" rows="10" cols="45"></textarea><br />
+<input type="hidden" name="article_child__article_id" value="52815418" />
+<input type="hidden" name="article_id" value="52815418" />
+<input name="need_confirm" type="submit" class="input-submit"  value="確認する" /><input name="posted" type="submit" class="input-submit"  value="書き込む" />
+</div>
+</form>
+</div>
+
+
+
+<!-- /Content -->
+
+
+
+
+
+</div>
+
+
+<div id="links">
+<div class="sidetitle">検索ボックス</div>
+<div class="side">
+<form method="get" action="http://solo-travel.sblo.jp/pages/user/search/" class="sASform" name="form6442211">
+<table class="seesaaArticleSearch">
+<tr>
+<td colspan="5"><input value="" name="keyword" type="text" size="20" /><br /><input value="検索" type="submit" class="input-submit" /></td>
+</tr>
+</table>
+</form>
+<style type="text/css">
+.seesaaArticleSearch{border-collapse:collapse;overflow:hidden;font-size:12px;text-align:left;}
+.seesaaArticleSearch td{padding:0;}
+.sASform{margin:0;padding:0;}
+</style>
+</div>
+
+<div class="sidetitle">プロフィール</div>
+<div class="side">
+
+名前:tact226<br />
+
+一言:海外旅行好き。旅で役立ちそうな情報をつづっていく。<br /><br />ブログの内容は<a href="http://traveltech.sakuraweb.com/dokuwiki/doku.php">こちら</a>に整理していく。<br />
+<a href="http://solo-travel.sblo.jp/foaf.rdf"><img border="0" src="http://blog.sakura.ne.jp/img/top/foaf.gif" /></a></div>
+
+<div class="sidetitle">カテゴリ</div>
+<div class="side">
+<a href="http://solo-travel.sblo.jp/category/1066914-1.html">旅行記</a>(45)<br />
+<a href="http://solo-travel.sblo.jp/category/1064647-1.html">お金</a>(18)<br />
+<a href="http://solo-travel.sblo.jp/category/1092378-1.html">道具</a>(48)<br />
+<a href="http://solo-travel.sblo.jp/category/1099268-1.html">交通</a>(30)<br />
+<a href="http://solo-travel.sblo.jp/category/1155006-1.html">宿泊</a>(6)<br />
+<a href="http://solo-travel.sblo.jp/category/1118195-1.html">安全</a>(4)<br />
+</div>
+
+<div class="sidetitle">最近の記事</div>
+<div class="side">
+(09/19)<a href="http://solo-travel.sblo.jp/article/76017544.html">ミャンマー国内線</a><br />
+(09/14)<a href="http://solo-travel.sblo.jp/article/75671800.html">ミャンマービザ代行取得</a><br />
+(09/10)<a href="http://solo-travel.sblo.jp/article/74546216.html">ミャンマービザ申請</a><br />
+(08/14)<a href="http://solo-travel.sblo.jp/article/71886208.html">ウェスタンユニオン</a><br />
+(08/10)<a href="http://solo-travel.sblo.jp/article/71885175.html">松山～桃園空港間移動(台湾)</a><br />
+</div>
+
+<div class="sidetitle">最近のコメント</div>
+<div class="side">
+<a href="http://solo-travel.sblo.jp/article/68796474.html#comment">アルマトイ国際空港</a> by tact226 (09/09)<br />
+<a href="http://solo-travel.sblo.jp/article/68796474.html#comment">アルマトイ国際空港</a> by よしお (09/08)<br />
+<a href="http://solo-travel.sblo.jp/article/68796474.html#comment">アルマトイ国際空港</a> by tact226 (09/07)<br />
+<a href="http://solo-travel.sblo.jp/article/68796474.html#comment">アルマトイ国際空港</a> by よしお (09/07)<br />
+<a href="http://solo-travel.sblo.jp/article/45572121.html#comment">楽天カードでの海外キャッシングの注意点</a> by シュー (08/31)<br />
+</br>
+
+<a href="https://twitter.com/tact226" class="twitter-follow-button" data-show-count="false" data-lang="ja" data-size="large" data-show-screen-name="false">@tact226をフォロー</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
+</br>
+</br>
+
+<script src="http://widgets.twimg.com/j/2/widget.js"></script>
+<script>
+new TWTR.Widget({
+  version: 2,
+  type: 'profile',
+  rpp: 6,
+  interval: 6000,
+  width: 'auto',
+  height: 300,
+  theme: {
+    shell: {
+      background: '#cccccc',
+      color: '#000000'
+    },
+    tweets: {
+      background: '#ffffff',
+      color: '#000000',
+      links: '#0000ff'
+    }
+  },
+  features: {
+    scrollbar: false,
+    loop: false,
+    live: false,
+    hashtags: true,
+    timestamp: true,
+    avatars: false,
+    behavior: 'all'
+  }
+}).render().setUser('tact226').start();
+</script>
+</div>
+
+
+
+</div>
+
+
+<div id="footer">
+<div class="powered">
+<img src="http://blog.sakura.ne.jp/img/powerdby.gif" width="120" height="35" border="0" alt="Powered by さくらのブログ" />
+</div>
+
+
+
+</div>
+
+</div>
+
+<!-- common footer -->
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+</body>
+</html>

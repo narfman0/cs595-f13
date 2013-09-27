@@ -1,0 +1,770 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+                        <title>La actualización para el Apple TV vuelve a estar disponible y esta vez sin riesgos</title>
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+    <meta name='robots' content='noodp' />
+                  <meta name="description" content="Tras una primera actualización que fue un pequeño gran desastre y provocó su retirada ahora la compañía lanza una que parece definitica. La nu..." />
+    <meta property="fb:admins" content="100000716994885"/>
+    <meta name="application-name" content="Applesfera"/>
+    <meta name="msapplication-tooltip" content="Apple. Applesfera"/>
+    <meta name="msapplication-starturl" content="http://www.applesfera.com"/>
+    <meta name="msapplication-task" content="name=Lo mejor;action-uri=http://www.applesfera.com/lomejor;icon-uri=http://img.applesfera.com/lp2/v6/images/pin-bg-lomejor-icon.ico" />
+          <meta name="news_keywords" content="actualización de software, Apple TV 6.0"/>
+            <meta name="msapplication-task" content="name=Respuestas;action-uri=http://www.applesfera.com/respuestas;icon-uri=http://img.applesfera.com/lp2/v6/images/pin-bg-respuestas-icon.ico" />
+                <!--[if !IE]><!--> <link rel="shortcut icon" href="http://img.applesfera.com/lp2/v6/images/favicon.ico" type="image/ico" /> <!--<![endif]-->
+        <!--[if lt IE 9]><!--> <link rel="shortcut icon" href="http://img.applesfera.com/lp2/v6/images/favicon.ico" type="image/ico" /> <!--<![endif]-->
+        <!--[if gte IE 9]>
+            <link rel="shortcut icon" type="image/x-icon" href="http://img.applesfera.com/lp2/v6/images/pin-bg-home-icon.ico"/>
+            <link rel=icon type="image/ico" href="http://img.applesfera.com/lp2/v6/images/pin-bg-home-icon.ico"/>
+        <![endif]-->
+    
+    <link rel="apple-touch-icon" href="http://img.applesfera.com/lp2/mobile/images/apple-touch-icon.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://img.applesfera.com/lp2/m/images/apple-touch-icon-144-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://img.applesfera.com/lp2/m/images/apple-touch-icon-114-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://img.applesfera.com/lp2/m/images/apple-touch-icon-72-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" href="http://img.applesfera.com/lp2/m/images/apple-touch-icon-57-precomposed.png">
+
+        <link rel="stylesheet" type="text/css" href="http://img.applesfera.com/lp2/v6/main.css?v=22038">
+        <link rel="publisher" href="http://plus.google.com/106643481235450321345" />
+    <link rel="alternate" type="application/rss+xml" title="" href="/index.xml" />
+    <!--[if lt IE 7]>
+      <link rel="stylesheet" type="text/css" href="http://img.applesfera.com/lp2/v6/ie7.css">
+    <![endif]-->
+    <script type="text/javascript">
+  (function() {
+    var useSSL = 'https:' == document.location.protocol;
+    var src = (useSSL ? 'https:' : 'http:') +       '//www.googletagservices.com/tag/js/gpt.js';
+    document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
+  })();
+</script>
+
+ <link rel="canonical" href="http://www.applesfera.com/apple-tv/la-actualizacion-para-el-apple-tv-vuelve-a-estar-disponible-y-esta-sin-riesgos" />
+ <link rel="image_src" href="http://img.applesfera.com/resize/75/thumbnails/b/52128.jpg" />
+ <meta property="og:title" content="La actualización para el Apple TV vuelve a estar disponible y esta vez sin riesgos">
+ <meta property="og:description" content="Tras una primera actualización que fue un pequeño gran desastre y provocó su retirada ahora la compañía lanza una que parece definitica. La nu...">
+ <meta property="og:image" content="http://img.applesfera.com/original/52128.jpg">
+  </head>
+       <body id="body" class="article-single">
+
+    <script type='text/javascript'>
+    var MAX_source = "";
+    var GPTcats = ["apple-tv"];
+    var GPTtags = ["actualizacion-de-software", "apple-tv-6-0"];
+      </script>
+      <script type='text/javascript'>
+googletag.pubads().setTargeting("origin", "direct").setTargeting("screen", screen.width.toString()).setTargeting("cat", GPTcats).setTargeting("tag", GPTtags);
+if (navigator.userAgent.match(/iPad/i) != null) {
+  googletag.pubads().setTargeting("ua", "ipad");
+} 
+googletag.defineSlot('/1018282/APS-TOP-interior', [1000, 40], 'div-gpt-top').addService(googletag.pubads());
+googletag.defineSlot('/1018282/APS-LAT-interior', [160, 600], 'div-gpt-lat').addService(googletag.pubads());
+googletag.defineSlot('/1018282/APS-CEN-interior', [300, 250], 'div-gpt-cen').addService(googletag.pubads());
+googletag.defineSlot('/1018282/APS-CEN2-interior', [300, 250], 'div-gpt-cen2').addService(googletag.pubads());
+googletag.defineSlot('/1018282/APS-BOT2-interior', [728, 90], 'div-gpt-bot').addService(googletag.pubads());
+googletag.defineSlot('/1018282/APS-INP', [500, 80], 'div-gpt-inp').addService(googletag.pubads());
+googletag.pubads().enableSingleRequest();
+googletag.pubads().enableSyncRendering();
+googletag.pubads().collapseEmptyDivs();
+googletag.enableServices();
+</script>
+
+       <script type="text/javascript">
+      WSL2 = {};
+      WSL2.config = {};
+      WSL2.config.fbapikey = "357292918076";
+      WSL2.config.cookieDomain = "";
+      WSL2.config.imagePath = 'http://img.applesfera.com/lp2/v6';
+      WSL2.config.siteName = "Applesfera";
+      window.___gcfg = {lang: 'es'};
+      
+      var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', "UA-78515-40"]);
+        _gaq.push(['_setCampaignCookieTimeout', 259200000]);
+        _gaq.push(['_setDomainName', ".applesfera.com"]);
+        _gaq.push(['_trackPageview']);
+        _gaq.push(['t2._setAccount', "UA-78515-62"]);
+        _gaq.push(['t2._setCampaignCookieTimeout', 259200000]);
+        _gaq.push(['t2._setDomainName', ".applesfera.com"]);
+        _gaq.push(['t2._trackPageview']);
+        
+    </script>
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+    <script src="http://code.jquery.com/jquery-migrate-1.1.0.js"></script>
+            <script src="http://img.weblogssl.com/LPbackend/prod/v2/js/frontend-636.js" /></script>
+          <script type="text/javascript">      
+  (function() {
+    var ga = document.createElement('script'); 
+    ga.type = 'text/javascript';
+    ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(ga, s);
+  })();
+      var _comscore = _comscore || [];
+        _comscore.push({ c1: "2", c2: "11306788" });
+         (function() {
+          var s = document.createElement("script"), el = document.getElementsByTagName("script")[1]; 
+          s.async = true;
+          s.src = (document.location.protocol == "https:" ? "https://sb": "http://b") + ".scorecardresearch.com/beacon.js";
+          el.parentNode.insertBefore(s, el);
+      })();
+    </script>
+  <div class="customize-me">
+  <div class="content-fixed">
+    <div class="container">
+                <!-- .header -->
+            <div class="header header-page">
+        <h1 class="site-logo"><a href="http://www.applesfera.com" title="Ir a la portada">Apple. Applesfera<span></span></a></h1>
+        <form method="get" action="/busqueda" id="search" class="search" style="top:62px; width:310px; padding: 0;">
+    <p>
+        <input type="hidden" name="cx" value="partner-pub-9977500652563564:4837515496">
+        <input type="text" id="gsearch" name="q" accesskey="4" title="Buscar" placeholder="Busca en Applesfera con Google">
+        <input type="hidden" name="ie" value="UTF-8">
+        <input type="hidden" name="oe" value="UTF-8">
+        <input type="hidden" name="cof" value="FORID:10">
+        <button class="button">Buscar <span class="arrow">&raquo;</span></button>
+    </p>
+</form>
+<script type="text/javascript" src="http://www.google.es/coop/cse/brand?form=cse-search-box&amp;lang=es"></script>
+            <div class="nav nav-main">
+    <ul class="nav-primary">
+        <li class="home-link"><a href="/" title="Volver a portada">Portada</a></li>
+        <li class="respuestas-link"><a href="/respuestas">Respuestas</a></li>
+        <li class="temas-submenu">
+            <ul class="nav-secondary">
+                                   <li><a href="/categoria/apple" title="Ir a la categoría Apple">Apple</a></li>
+                                   <li><a href="/categoria/iphone" title="Ir a la categoría iPhone">iPhone</a></li>
+                                   <li><a href="/categoria/ios" title="Ir a la categoría iOS">iOS</a></li>
+                                   <li><a href="/categoria/ipad" title="Ir a la categoría iPad">iPad</a></li>
+                                <li><a href="/archivos" title="Ver todas las categorías">Más &raquo;</a></li>
+            </ul>
+        </li>
+                            <li class="brand-corner-link"><a class="espaciomasmovil" href="/espaciomasmovil" title="Espacio MÁSMÓV!L" >Espacio MÁSMÓV!L</a></li>
+              <li class="brand-corner-link"><a class="aprendeiosonline" href="/aprendeiosonline" title="Aprende iOS online" >Aprende iOS online</a></li>
+            
+            </ul>
+</div>
+
+        <div class="nav nav-tags">
+        <h3>No te pierdas <span class="arrow">&raquo;</span></h3>
+        <ul>
+                        <li><a href="/tag/screencast" title="Todo sobre Screencast">Screencast</a></li>
+                        <li><a href="/tag/fotografia-con-iphone" title="Todo sobre Fotografía con iPhone">Fotografía con iPhone</a></li>
+                        <li><a href="/tag/trucos-mountain-lion" title="Todo sobre Trucos Mountain Lion">Trucos Mountain Lion</a></li>
+                        <li><a href="/tag/especial-video-en-ios" title="Todo sobre Especial vídeo en iOS">Especial vídeo en iOS</a></li>
+                        <li><a href="/tag/android" title="Todo sobre Android">Android</a></li>
+                    </ul>
+</div>
+<!-- .nav-tags -->
+
+                    <div class="ad ad-desplegable">
+  <a class="ad-contact" id="div-gpt-top-contact" style='display:none' href="http://socialmediasl.com/applesfera.php">Publicidad</a>
+  <div class="ad-box">
+    <div id='div-gpt-top' style='width: 1000px;'>
+    <script type="text/javascript">
+        googletag.cmd.push(function() {
+        googletag.display("div-gpt-top");
+        });
+    </script>
+    </div>
+  </div>
+</div>
+<!-- .ad-box - desplegable -->
+
+  <div class="nav">
+   <ul class="article-nav-controls">
+                              <li><a class="article-control article-previous" href="/accesorios/applecare-modifica-sus-terminos-y-ofrece-cobertura-en-cualquier-pais-que-cuente-con-el"><span>AppleCare+ modifica sus términos para ofrecer cobertura en cualquier país que cuente con él</span></a></li>
+                                             <li><a class="article-control article-next" href="/aplicaciones-os-x-1/pixelmator-se-actualiza-y-estrena-un-nuevo-formato-de-archivo-que-dobla-su-rendimiento"><span>Pixelmator se actualiza y estrena un nuevo formato de archivo que dobla su rendimiento </span></a></li>
+                  </ul>
+  </div>
+      </div>
+                   <div class="article article-pre-content">
+  <h1 class="article-header">La actualización para el Apple TV vuelve a estar disponible y esta vez sin riesgos</h1>
+  <div class="article-date">24 de septiembre de 2013 | 23:41 CET <span id="is_editor"></span></div>
+  <div class="article-author-details">
+  <div class="figure">
+    <a rel='author' href="/autor/pedro-santamaria">
+      <img src="http://www.gravatar.com/avatar/6a2fa0170f50c302a991f2437039c875?s=80&amp;d=mm&amp;r=g" alt="pedro-santamaria">
+    </a>
+  </div>
+  <h2><a rel='author' href="/autor/pedro-santamaria">Pedro Santamaría</a></h2>
+    <p><a href="https://plus.google.com/u/0/111185156345022688643?rel=author">Google+</a></p>
+      <p><a href="http://www.twitter.com/cuxtom">@cuxtom</a></p>
+      <p>Editor en Applesfera</p>
+  </div>
+<!-- .article-author-details -->
+</div>
+           </div>
+    <!-- .container -->
+  </div>
+  <!-- .content-fixed -->
+
+  <div class="content-dinamic">
+    <div class="container">
+          <script type="text/javascript">
+        $(function()
+        {
+          AML.postVoteView = new AML.Post.View.PostVoteView({postId:"52128", el:".social-sharing" });
+          AML.isEditorView = new AML.Post.View.IsEditorView({postId:"52128", model: WSL2.User });
+        });
+      </script>
+
+    <div class="aside">
+            <div id="ad-lateral" class="ad ad-primer-escaparate">
+  <a class="ad-contact" id="div-gpt-lat-contact" style='display:none' href="http://socialmediasl.com/applesfera.php">Publicidad</a>
+    <div id='div-gpt-lat' class="ad-box" style='width: 300px;'>
+    <script type="text/javascript">
+      googletag.cmd.push(function() {
+      googletag.display("div-gpt-lat");
+    });
+    </script>
+    </div>
+</div>
+<!-- .ad-box - escaparate vertical -->
+
+           <!-- .ad-box - escaparate vertical -->
+            <div class="aside-box aside-promo">
+  <h3 class="aside-header">En nuestros clubs</h3>
+   <div class="article article-promo">
+    <a href="http://www.applesfera.com/espaciomasmovil/masmovil-sigue-ayudando-a-los-nuevos-emprendedores-con-su-promocion-emprendemas?utm_source=Destacado&amp;utm_medium=CORNERCLUBoCorner&amp;utm_content=SUPERIOR&amp;utm_campaign=MASMOVIL">
+      <div class="figure">
+          <img src="http://img.applesfera.com/2013/09/650_1000_5608815221_20c4616324_b.jpg" alt="Espacio MÁSMÓV!L" />
+      </div>
+      <h2>Espacio MÁSMÓV!L</h2>
+      <p class="content">MÁSMÓVIL sigue ayudando a los nuevos emprendedores con su promoción Emprendemás</p>
+    </a>
+  </div>
+  <div class="article article-promo">
+    <a href="http://www.applesfera.com/aprendeiosonline/como-encontrar-trabajo-en-eeuu-como-desarrollador?utm_source=Destacado&amp;utm_medium=CORNERCLUBoCorner&amp;utm_content=SUPERIOR&amp;utm_campaign=AGBO">
+      <div class="figure">
+          <img src="http://img.applesfera.com/2013/09/silicon-valley.jpg" alt="Espacio Aprende iOS online:" />
+      </div>
+      <h2>Espacio Aprende iOS online:</h2>
+      <p class="content">Cómo encontrar trabajo en EEUU como desarrollador</p>
+    </a>
+  </div>
+</div>
+<!-- .aside-promos -->
+
+        <!-- .article-promo -->
+    </div>
+
+    <!-- .aside -->
+
+    <div class="section section-article-single">
+      <div class="article">
+        <div class="article-summary">
+          <p><img alt="appletv" src="http://img.applesfera.com/2013/07/atv.jpg" class="centro_sinmarco" /></p>
+          <div class="article-metadata">
+            <div class="article-comments" id="postCommentCount">
+              <a href="#comments" title="Ir a comentarios">
+                Comentarios 17
+              </a>
+            </div>
+            <div class="article-links">
+              <div class="social-sharing">
+                <div class="social-sharing-widgets">
+                  <div class="wsl-favorite">
+                    <button class="button button-small">Me gusta</button>
+                    <span class="wsl-count">1</span>
+                  </div>
+                  <!-- twitter -->
+                  <a class="twitter-share-button" href="http://twitter.com/share" data-count="horizontal" data-url="http://www.applesfera.com/p/52128" data-counturl="http://www.applesfera.com/apple-tv/la-actualizacion-para-el-apple-tv-vuelve-a-estar-disponible-y-esta-sin-riesgos" data-text="La actualización para el Apple TV vuelve a estar disponible y esta vez sin riesgos" data-via="applesfera" data-lang="es">Tweet</a>
+                  <!-- g+ -->
+                  <div class="g-plusone" data-size="medium" data-href="http://www.applesfera.com/apple-tv/la-actualizacion-para-el-apple-tv-vuelve-a-estar-disponible-y-esta-sin-riesgos" data-callback="gplusClickHandler" ></div>
+                  <!-- facebook like -->
+                  <div href="http://www.applesfera.com/apple-tv/la-actualizacion-para-el-apple-tv-vuelve-a-estar-disponible-y-esta-sin-riesgos" class="fb-like" data-send="false" data-layout="button_count" data-show-faces="false"></div>
+                </div>
+              </div>
+              <!-- .social-sharing -->
+            </div>
+            <!-- .article-links -->
+          </div>
+          <!-- .article-metadata -->
+          <p></p>
+
+<p>Tras una <a href="http://www.applesfera.com/apple-tv/apple-retira-momentaneamente-la-actualizacion-de-software-del-appletv">primera actualización</a> que fue un pequeño gran desastre y provocó su retirada ahora la compañía lanza una que parece definitica. La <strong>nueva actualización 6.0 para el Apple TV ya está disponibe de nuevo</strong>. Y parece que todo funciona como debería.</p>
+
+<p>La versión actual del software 6.0 para Apple TV tiene el número de versión 11A502. La anterior actualización no la llegue a instalar, tras instalar esta nueva de momento no he tenido ningún tipo de problema. Y en los foros de Apple parece que tampoco hay movimiento así que podéis actualizar sin problemas si estáis en una versión anterior a la 6.0 y obligatoriamente si lo hicistéis con la que dió problemas.</p>
+
+<p>Ahora ya podréis disponder de iTunes Radio (de momento sólo si disponéis de Apple ID de <span class="caps">EEUU</span>), secuencias compartidas de fotos y vídeos en iCloud de iOS 7, sincronización con estaciones de podcast en iTunes 11.1 y la posibilidad de navegar, comprar o reproducir música directamente desde iTunes Music Store.</p>
+
+<p>En Applesfera | <a href="http://www.applesfera.com/apple-tv/el-apple-tv-se-actualiza-a-la-version-6-0-con-soporte-de-itunes-radio-y-airplay-desde-icloud-entre-otras-novedades">El Apple TV se actualiza a la versión 6.0 con soporte de iTunes Radio y AirPlay desde iCloud entre otras novedades</a></p>        </div>
+        <div class="ad links-ad-inpost">
+    <div id='div-gpt-inp' class="ad-box">
+    <script type="text/javascript">
+      googletag.cmd.push(function() {
+      googletag.display("div-gpt-inp");
+    });
+    </script>
+    </div>
+</div>
+
+        <div class="article-taxonomy">
+                      <div class="nav article-tags article-categories">
+  <h2>Categorías</h2>
+    <ul>
+                      
+      <li><a href="/categoria/apple-tv">Apple TV</a></li>
+        </ul>
+</div>
+            <div class="nav article-tags">
+  <h2>Tags</h2>
+  <ul>
+                                             
+      <li><a href="/tag/actualizacion-de-software">actualización de software</a></li>
+                                             
+      <li><a href="/tag/apple-tv-6-0">Apple TV 6.0</a></li>
+          
+  </ul>
+</div>
+                  </div>
+        <!-- .article-metadata -->
+      </div>
+      <!-- .article -->
+    </div>
+    <!-- .section-articles -->
+            <div id="ad-center" class="ad ad-escaparate-medio">
+  <a class="ad-contact" id="div-gpt-cen-contact" style='display:none' href="http://socialmediasl.com/applesfera.php">Publicidad</a>
+    <div id='div-gpt-cen' class="ad-box">
+    <script type="text/javascript">
+      googletag.cmd.push(function() {
+      googletag.display("div-gpt-cen");
+    });
+    </script>
+    </div>
+</div>
+
+         <!-- .ad-box - escaparate grande -->
+
+        
+        
+    <div class="section section-related">
+               <div id="outbrainRecommendedPosts" class="post-related-posts articles-full-width">
+  <h3>Artículos recomendados</h3>  
+  <div class="post-related-content">
+
+    <div class="OUTBRAIN" data-src="http://www.applesfera.com/apple-tv/la-actualizacion-para-el-apple-tv-vuelve-a-estar-disponible-y-esta-sin-riesgos"
+      data-widget-id="AR_1" data-ob-template="applesfera" >
+    </div>
+    <script type="text/javascript" async="async" src="http://widgets.outbrain.com/outbrain.js">
+    </script>
+  </div>
+  <!-- .post-related-content -->
+  <p class="post-related-more">
+    <a href="/categoria/apple-tv" title="Ver más artículos relacionados">
+      Ver más artículos <span class="arrow">»</span>    
+    </a>
+  </p>
+</div>          </div>
+
+
+  <!-- Comments Section -->
+        <a id="to-comments"></a>
+  <div id="comments" class="section section-comments">
+            <div class="comment-write">
+            <h2>Deja un comentario</h2>
+        </div>
+        <!-- #comment-write -->
+            <div id="ad-center2" class="ad ad-segundo-escaparate">
+  <a class="ad-contact" id="div-gpt-cen2-contact" style='display:none'
+  href="http://socialmediasl.com/applesfera.php">Publicidad</a>
+    <div id='div-gpt-cen2' class="ad-box">
+    <script type="text/javascript">
+      googletag.cmd.push(function() {
+      googletag.display("div-gpt-cen2");
+    });
+    </script>
+    </div>
+</div>
+
+         <!-- .ad-box - escaparate grande -->
+    <div id="comments-header" class="header-section">
+      <div class="comment-order">
+    	<h3>Ordenar por:</h3>
+      </div>
+      <!-- #comment-order -->
+          	<h2>
+              17 comentarios
+            </h2>
+    </div>
+    <div id="top-section-settings"></div>
+    <ul class="comment-list"></ul>
+        <div class="comment-write-shortcut"><a class="button button-secondary" href="#comments" title="Ir a comentarios">Deja un comentario <span>&nbsp;</span></a></div>
+        <div class="nav"></div>
+    <div id="bottom-section-settings"></div>
+  </div>
+    <script type="text/javascript">
+      $(function()
+      {
+        var commentList = new AML.Comments.Model.CommentList({},{postId:52128});
+        commentList.resetParsed({"comments":[{"id":"525106","post_id":"52128","date":1380060485,"content_filtered":"<p>Perd\u00f3n..Hola Pedro..eso quiere decir que s\u00ed me he instalado la que se supone dio problemas,deber\u00eda restaurar para ponerme esta versi\u00f3n?...Ir\u00e1 mejor?...Por ahora no he tenido problemas,pero no se si hacerlo.Gracias<\/p>","content":"Perd\u00f3n..Hola Pedro..eso quiere decir que s\u00ed me he instalado la que se supone dio problemas,deber\u00eda restaurar para ponerme esta versi\u00f3n?...Ir\u00e1 mejor?...Por ahora no he tenido problemas,pero no se si hacerlo.Gracias","karma":"28.00","parent":"0","comment_edited_date":"","vote_count":"2","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"","user_id":"81298","author":"","webpage":null,"user_name":"skyjander","karma_level":"35.00","iseditor":"0","global_id":"596957","facebook_uid":null,"index":3,"avatar_type":"gravatar","avatar_link":"http:\/\/www.gravatar.com\/avatar\/d95142ca1ebbbd7c0ee59f55ada9528d"},{"id":"525137","post_id":"52128","date":1380086298,"content_filtered":"<p>Te volver\u00e1 a pedir actualizar. Hazlo. S\u00f3lo en el caso de que notes algo extra\u00f1o es recomendable restaurar pero en principio s\u00f3lo con aplicar la \u00faltima actualizaci\u00f3n es suficiente.<\/p>","content":"Te volver\u00e1 a pedir actualizar. Hazlo. S\u00f3lo en el caso de que notes algo extra\u00f1o es recomendable restaurar pero en principio s\u00f3lo con aplicar la \u00faltima actualizaci\u00f3n es suficiente.","karma":"15.00","parent":"525106","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"1","comment_approved":"1","comment_author":"","user_id":"6077","author":"Pedro Santamaria","webpage":"http:\/\/cuxtom.com","user_name":"cuxtom","karma_level":"89.00","iseditor":"1","global_id":"8382","facebook_uid":"1062241581","index":12,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/8382_3.png"},{"id":"525230","post_id":"52128","date":1380120339,"content_filtered":"<p>Gracias por el aviso. Fue una peque\u00f1a odisea pero en principio acab\u00f3 funcionando correctamente. Volver\u00e9 a buscar actualizaciones en todo caso.<\/p>","content":"Gracias por el aviso. Fue una peque\u00f1a odisea pero en principio acab\u00f3 funcionando correctamente. Volver\u00e9 a buscar actualizaciones en todo caso.","karma":"13.00","parent":"525137","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"2","comment_approved":"1","comment_author":"","user_id":"18569","author":"","webpage":null,"user_name":"bliz","karma_level":"70.00","iseditor":"0","global_id":"169478","facebook_uid":null,"index":17,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/169478_4.png"},{"id":"525120","post_id":"52128","date":1380065106,"content_filtered":"<p>Yo actualice el otro dia y quedo OK .... hoy lo use por primera ves para ver una peli en Netflix y me di cuenta q ahora los subtitulos no me salen blancos, me salen amarillos, mas chicos y en un rectangulo gris medio transparente.. QUE ONDA!!! ademas me salio q tenia q actualizar de nuevo, bueno lo hice y quedo medio raro ahora JAJAJJAAJ, como q le cuesta conectarce a todo<\/p>","content":"Yo actualice el otro dia y quedo OK .... hoy lo use por primera ves para ver una peli en Netflix y me di cuenta q ahora los subtitulos no me salen blancos, me salen amarillos, mas chicos y en un rectangulo gris medio transparente.. QUE ONDA!!!  ademas me salio q tenia q actualizar de nuevo, bueno lo hice y quedo medio raro ahora JAJAJJAAJ, como q le cuesta conectarce a todo","karma":"10.00","parent":"0","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"","user_id":"57775","author":"","webpage":null,"user_name":"juanpablo.mc","karma_level":"43.00","iseditor":"0","global_id":"429358","facebook_uid":"1295831350","index":9,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/1295831350\/picture"},{"id":"525188","post_id":"52128","date":1380104550,"content_filtered":"<p>Yo no tengo wifi en casa,hay alguna forma de instalar esta actualizaci\u00f3n en mi apple tv de segunda generaci\u00f3n?<\/p>","content":"Yo no tengo wifi en casa,hay alguna forma de instalar esta actualizaci\u00f3n en mi apple tv de segunda generaci\u00f3n?","karma":"10.00","parent":"0","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"","user_id":"95850","author":"","webpage":null,"user_name":"isaak73","karma_level":"45.00","iseditor":"0","global_id":"718247","facebook_uid":null,"index":14,"avatar_type":"gravatar","avatar_link":"http:\/\/www.gravatar.com\/avatar\/8ed5016de358f610d9b6075e22a097f5"},{"id":"525190","post_id":"52128","date":1380104758,"content_filtered":"<p>Puedes conectarlo al router mediante cable. Si te refieres a que no tienes conexi\u00f3n de internet en casa entonces puedes usar la del m\u00f3vil (creando un punto de acceso al que se conectar\u00e1 el Apple TV) o si no tendr\u00e1s que llevarlo a casa de alg\u00fan familiar u amigo.<\/p>","content":"Puedes conectarlo al router mediante cable. Si te refieres a que no tienes conexi\u00f3n de internet en casa entonces puedes usar la del m\u00f3vil (creando un punto de acceso al que se conectar\u00e1 el Apple TV) o si no tendr\u00e1s que llevarlo a casa de alg\u00fan familiar u amigo.","karma":"15.00","parent":"525188","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"1","comment_approved":"1","comment_author":"","user_id":"6077","author":"Pedro Santamaria","webpage":"http:\/\/cuxtom.com","user_name":"cuxtom","karma_level":"89.00","iseditor":"1","global_id":"8382","facebook_uid":"1062241581","index":15,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/8382_3.png"},{"id":"525104","post_id":"52128","date":1380060337,"content_filtered":"<p>Hola<\/p>","content":"Hola","karma":"8.00","parent":"0","comment_edited_date":"","vote_count":"2","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"","user_id":"81298","author":"","webpage":null,"user_name":"skyjander","karma_level":"35.00","iseditor":"0","global_id":"596957","facebook_uid":null,"index":1,"avatar_type":"gravatar","avatar_link":"http:\/\/www.gravatar.com\/avatar\/d95142ca1ebbbd7c0ee59f55ada9528d"},{"id":"525113","post_id":"52128","date":1380063469,"content_filtered":"<p>Como ser\u00e0 el nuevo appleTV si se presenta el 15 de octubre?<br \/>\nTraer\u00e0 muchos cambios con iOS7 y su tecnolog\u00eca a 64bits?<br \/>\nSer\u00e0 ese el problema que hubo con los actuales appleTV?<\/p>","content":"Como ser\u00e0 el nuevo appleTV si se presenta el 15 de octubre?\nTraer\u00e0 muchos cambios con iOS7 y su tecnolog\u00eca a 64bits?\nSer\u00e0 ese el problema que hubo con los actuales appleTV?","karma":"8.00","parent":"0","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"","user_id":"100287","author":"","webpage":null,"user_name":"crispylola","karma_level":"33.00","iseditor":"0","global_id":"753737","facebook_uid":"100006259476146","index":6,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/753737_1.png"},{"id":"525219","post_id":"52128","date":1380115424,"content_filtered":"<p>Pocas novedades, espero que signifique que el mes que viene se actualiza Apple TV con muchos servicios y revolucionarios<\/p>","content":"Pocas novedades, espero que signifique que el mes que viene se actualiza Apple TV con muchos servicios y revolucionarios","karma":"8.00","parent":"0","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"","user_id":"97614","author":"","webpage":"http:\/\/www.noticias-f1.com","user_name":"neo.sennin.5","karma_level":"34.00","iseditor":"0","global_id":"732314","facebook_uid":"100004433559620","index":16,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/100004433559620\/picture"},{"id":"525107","post_id":"52128","date":1380060517,"content_filtered":"<p>Actualic\u00e9 hace un par de d\u00edas (sin problemas) y he vuelto a actualizar hoy (de versi\u00f3n 6.0 a versi\u00f3n 6.0 \ud83d\ude04). Ahora ya me dice que estoy en la versi\u00f3n actualizada y no noto ninguna diferencia una de otra ya que parece que en la loter\u00eda de la anterior actualizaci\u00f3n a m\u00ed no me ped\u00eda conectarme a iTunes ni nada...<\/p>","content":"Actualic\u00e9 hace un par de d\u00edas (sin problemas) y he vuelto a actualizar hoy (de versi\u00f3n 6.0 a versi\u00f3n 6.0 \ud83d\ude04). Ahora ya me dice que estoy en la versi\u00f3n actualizada y no noto ninguna diferencia una de otra ya que parece que en la loter\u00eda de la anterior actualizaci\u00f3n a m\u00ed no me ped\u00eda conectarme a iTunes ni nada...","karma":"5.00","parent":"0","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"","user_id":"104727","author":"","webpage":null,"user_name":"layneinchains","karma_level":"11.00","iseditor":"0","global_id":"782028","facebook_uid":null,"index":4,"avatar_type":"gravatar","avatar_link":"http:\/\/www.gravatar.com\/avatar\/c918029ab337c3eab8a7a6753b156881"},{"id":"525108","post_id":"52128","date":1380060617,"content_filtered":"<p>Hay rumores que apuntan a que el 15 de octubre se presentara un nuevo modelo de Apple TV \u00bfSe sabe algo de esto?<\/p>","content":"Hay rumores que apuntan a que el 15 de octubre se presentara un nuevo modelo de Apple TV \u00bfSe sabe algo de esto?","karma":"5.00","parent":"0","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"","user_id":"104458","author":"","webpage":null,"user_name":"juanfg","karma_level":"13.00","iseditor":"0","global_id":"673700","facebook_uid":null,"index":5,"avatar_type":"gravatar","avatar_link":"http:\/\/www.gravatar.com\/avatar\/1571a42a483c658acae40af8314475a5"},{"id":"525118","post_id":"52128","date":1380064980,"content_filtered":"<p>El 15 de octubre sale la iTV porfin ya es la hora<\/p>","content":"El 15 de octubre sale la iTV porfin ya es la hora","karma":"-2.00","parent":"525108","comment_edited_date":"","vote_count":"1","comment_level":4,"comment_deleted_date":"","tree_level":"1","comment_approved":"1","comment_author":"","user_id":"86212","author":"","webpage":null,"user_name":"mostoles","karma_level":"35.00","iseditor":"0","global_id":"623690","facebook_uid":"701099813","index":8,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/701099813\/picture"},{"id":"525157","post_id":"52128","date":1380097365,"content_filtered":"<p>Como sabes eso? Esque no he le\u00eddo ni rumores ni nada.<\/p>","content":"Como sabes eso? Esque no he le\u00eddo ni rumores ni nada.","karma":"10.00","parent":"525118","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"2","comment_approved":"1","comment_author":"","user_id":"84287","author":"Mark Zabaleta","webpage":null,"user_name":"markgt","karma_level":"47.00","iseditor":"0","global_id":"429962","facebook_uid":"1837743900","index":13,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/429962_2.png"},{"id":"525114","post_id":"52128","date":1380063515,"content_filtered":"<p>La que al parecer dio fallas era la 11A470e, pero no me aparece nada para actualizar.<\/p>","content":"La que al parecer dio fallas era la 11A470e, pero no me aparece nada para actualizar.","karma":"5.00","parent":"0","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"","user_id":"87170","author":"David Celeita","webpage":null,"user_name":"david.celeita","karma_level":"31.00","iseditor":"0","global_id":"637575","facebook_uid":null,"index":7,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/637575_2.png"},{"id":"525126","post_id":"52128","date":1380068779,"content_filtered":"<p>Saben si da problemas esta version con Plex , plexconect para ver peliculas y series?<\/p>","content":"Saben si da problemas esta version con Plex , plexconect para ver peliculas y series?","karma":"5.00","parent":"0","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"","user_id":"99044","author":"","webpage":null,"user_name":"yocura","karma_level":"18.00","iseditor":"0","global_id":"740873","facebook_uid":null,"index":10,"avatar_type":"gravatar","avatar_link":"http:\/\/www.gravatar.com\/avatar\/2677ed46e56bc8e3f14df3e07d7a4ab9"},{"id":"525128","post_id":"52128","date":1380070031,"content_filtered":"<p>Porque no habeis hablado de la capsula del tiempo que enterro steve jobs que la han desenterrado despues de 30 a\u00f1os<\/p>","content":"Porque no habeis hablado de la capsula del tiempo que enterro steve jobs que la han desenterrado despues de 30 a\u00f1os","karma":"4.25","parent":"0","comment_edited_date":"","vote_count":"1","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"","user_id":"86212","author":"","webpage":null,"user_name":"mostoles","karma_level":"35.00","iseditor":"0","global_id":"623690","facebook_uid":"701099813","index":11,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/701099813\/picture"},{"id":"525105","post_id":"52128","date":1380060446,"content_filtered":"<p>Hoy vuelve y ma\u00f1ana se volver\u00e1 a ir.<\/p><p>Ay<\/p>","content":"Hoy vuelve y ma\u00f1ana se volver\u00e1 a ir.\n\nAy","karma":"-2.50","parent":"0","comment_edited_date":"","vote_count":"1","comment_level":4,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"","user_id":"69511","author":"Nano Kanpro","webpage":null,"user_name":"kanpro","karma_level":"48.00","iseditor":"0","global_id":"58278","facebook_uid":"1596087501","index":2,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/58278_1.png"}],"meta":{"more_records":"false","start":0,"total":17,"order":"valued","totalCount":17},"commentStatus":"open"});
+
+	window.App = new AML.Comments.Application(52128, commentList);
+	Backbone.history.start();
+      });
+    </script>
+
+  <!-- Comments and Other Stuff -->
+
+  <div id="ad-bottom" class="ad ad-boton">
+  <a class="ad-contact" id="div-gpt-bot-contact" style="display:none" href="http://socialmediasl.com/applesfera.php">Publicidad</a>
+    <div id='div-gpt-bot' class="ad-box" style='width: 728px;'>
+    <script type="text/javascript">
+      googletag.cmd.push(function() {
+      googletag.display("div-gpt-bot");
+    });
+    </script>
+    </div>
+</div>
+
+  <!-- .ad - boton -->
+  <div class="sidebar-seo-links">
+    <h4>Más en Applesfera</h4>
+    <ul>
+              <li>
+          <a  href="/apple-tv/apple-retira-momentaneamente-la-actualizacion-de-software-del-appletv" class="thumb80">
+            <img title="Apple retira momentáneamente la actualización de software del AppleTV" src="http://img.applesfera.com/tb/80_80/52007.jpg" alt="Apple retira momentáneamente la actualización de software del AppleTV">
+          </a>
+          <a  href="/apple-tv/apple-retira-momentaneamente-la-actualizacion-de-software-del-appletv">
+            Apple retira momentáneamente la actualización de software del AppleTV
+          </a>
+        </li>
+              <li>
+          <a  href="/apple-tv/el-apple-tv-se-actualiza-a-la-version-6-0-con-soporte-de-itunes-radio-y-airplay-desde-icloud-entre-otras-novedades" class="thumb80">
+            <img title="El Apple TV se actualiza a la versión 6.0 con soporte de iTunes Radio y AirPlay desde iCloud entre otras novedades" src="http://img.applesfera.com/tb/80_80/51910.jpg" alt="El Apple TV se actualiza a la versión 6.0 con soporte de iTunes Radio y AirPlay desde iCloud entre otras novedades">
+          </a>
+          <a  href="/apple-tv/el-apple-tv-se-actualiza-a-la-version-6-0-con-soporte-de-itunes-radio-y-airplay-desde-icloud-entre-otras-novedades">
+            El Apple TV se actualiza a la versión 6.0 con soporte de iTunes Radio y AirPlay desde iCloud entre otras novedades
+          </a>
+        </li>
+              <li>
+          <a  href="/apple-tv/apple-tv-6-0-touch-setup-explicado-paso-a-paso" class="thumb80">
+            <img title="Apple TV 6.0 &quot;Touch setup&quot; explicado paso a paso " src="http://img.applesfera.com/tb/80_80/52205.jpg" alt="Apple TV 6.0 &quot;Touch setup&quot; explicado paso a paso ">
+          </a>
+          <a  href="/apple-tv/apple-tv-6-0-touch-setup-explicado-paso-a-paso">
+            Apple TV 6.0 &quot;Touch setup&quot; explicado paso a paso 
+          </a>
+        </li>
+              <li>
+          <a  href="/apple-tv/steamos-valve-esta-a-punto-de-despertar-y-el-appletv-es-uno-de-sus-objetivos" class="thumb80">
+            <img title="SteamOS: Valve está a punto de despertar y el AppleTV es uno de sus objetivos " src="http://img.applesfera.com/tb/80_80/52115.jpg" alt="SteamOS: Valve está a punto de despertar y el AppleTV es uno de sus objetivos ">
+          </a>
+          <a  href="/apple-tv/steamos-valve-esta-a-punto-de-despertar-y-el-appletv-es-uno-de-sus-objetivos">
+            SteamOS: Valve está a punto de despertar y el AppleTV es uno de sus objetivos 
+          </a>
+        </li>
+              <li>
+          <a  href="/apple-tv/como-compartir-fotos-con-el-apple-tv" class="thumb80">
+            <img title="Cómo compartir fotos con el Apple TV" src="http://img.applesfera.com/tb/80_80/50812.jpg" alt="Cómo compartir fotos con el Apple TV">
+          </a>
+          <a  href="/apple-tv/como-compartir-fotos-con-el-apple-tv">
+            Cómo compartir fotos con el Apple TV
+          </a>
+        </li>
+          </ul>
+</div>
+<!-- related-posts SEO links-->
+  <script type='text/javascript'>
+         $(function()
+     {
+       WSL2.GoogleAnalytics.trackGAForRollupAccount({'category':'apple-tv', 'author':'Pedro Santamaría'});
+     });
+  </script>
+    </div>
+  <!-- .container -->
+  </div>
+  <!-- .content-dinamic -->
+
+  <div class= "nav nav-blog">
+  <div class= "container">
+    <h2><strong>&#43;</strong> en Applesfera</h2>
+    <ul>
+      <li class= "blog-section section-lomejor"><a href="/lomejor">Lo mejor</a></li>
+      <li class= "blog-section section-temas"><a href="/archivos">Temas</a></li>
+            <li class= "blog-section section-productos"><a href="/productos">Productos</a></li>
+                  <li class= "blog-section section-respuestas"><a href="/respuestas">Respuestas</a></li>
+            
+            <li class="blog-section section-club"><a href="/club">Club</a></li>
+            <li class= "blog-section section-comunidad"><a href="/comunidad">Comunidad</a></li>
+      <li class="blog-section section-staff"><a href="/quienes-somos">Staff</a></li>
+    </ul>
+  </div>
+</div>
+  
+<div class="footer">
+        <div class="footer-media">
+                <div class="links-category">
+            <h2>Tecnología</h2>
+            <ul>
+                              <li class="tec-xataka"><a href="http://www.xataka.com">Xataka<span></span></a></li>
+                              <li class="tec-xatakamovil"><a href="http://www.xatakamovil.com">Xataka Móvil<span></span></a></li>
+                              <li class="tec-xatakafoto"><a href="http://www.xatakafoto.com">Xataka Foto<span></span></a></li>
+                              <li class="tec-xatakandroid"><a href="http://www.xatakandroid.com">Xataka Android<span></span></a></li>
+                              <li class="tec-xatakaon"><a href="http://www.xatakaon.com">Xataka On<span></span></a></li>
+                              <li class="tec-xatakahome"><a href="http://www.xatakahome.com">Xataka Smart Home<span></span></a></li>
+                              <li class="tec-xatakawindows"><a href="http://xatakawindows.com">Xataka Windows<span></span></a></li>
+                              <li class="tec-xatakaciencia"><a href="http://www.xatakaciencia.com">Xataka Ciencia<span></span></a></li>
+                              <li class="tec-applesfera"><a href="http://www.applesfera.com">Applesfera<span></span></a></li>
+                              <li class="tec-vidaextra"><a href="http://www.vidaextra.com">Vida Extra<span></span></a></li>
+                              <li class="tec-genbeta"><a href="http://www.genbeta.com">Genbeta<span></span></a></li>
+                              <li class="tec-genbetadev"><a href="http://www.genbetadev.com">Genbeta Dev<span></span></a></li>
+                          </ul>
+        </div>
+            </div>
+    
+    <div class="footer-links">
+                        <div class="links-category">
+            <h2>Estilos de vida</h2>
+            <ul>
+                              <li><a href="http://www.trendencias.com/">Trendencias</a></li>
+                              <li><a href="http://www.trendenciasbelleza.com/">Trendencias Belleza</a></li>
+                              <li><a href="http://www.trendenciashombre.com/">Trendencias Hombre</a></li>
+                              <li><a href="http://www.trendenciasshopping.com">Trendencias Shopping</a></li>
+                              <li><a href="http://www.trendenciaslifestyle.com">Trendencias Lifestyle</a></li>
+                              <li><a href="http://www.directoalpaladar.com/">Directo al Paladar</a></li>
+                              <li><a href="http://www.bebesymas.com/">Bebés y Más</a></li>
+                              <li><a href="http://www.pequesymas.com/">Peques y Más</a></li>
+                              <li><a href="http://www.vitonica.com/">Vitónica</a></li>
+                              <li><a href="http://www.decoesfera.com/">Decoesfera</a></li>
+                              <li><a href="http://www.embelezzia.com/">Embelezzia</a></li>
+                              <li><a href="http://www.ambienteg.com/">Ambiente G</a></li>
+                              <li><a href="http://www.poprosa.com/">Poprosa</a></li>
+                              
+            </ul>
+        </div>
+        <!-- .links-category -->
+                <div class="links-category">
+            <h2>Motor</h2>
+            <ul>
+                              <li><a href="http://www.motorpasion.com/">Motorpasión</a></li>
+                              <li><a href="http://www.motorpasionf1.com/">Motorpasión F1</a></li>
+                              <li><a href="http://www.motorpasionmoto.com/">Motorpasión Moto</a></li>
+                              <li><a href="http://www.motorpasionfuturo.com/">Motorpasión Futuro</a></li>
+                              
+            </ul>
+        </div>
+        <!-- .links-category -->
+                <div class="links-category">
+            <h2>Ocio</h2>
+            <ul>
+                              <li><a href="http://www.blogdecine.com/">Blog de Cine</a></li>
+                              <li><a href="http://www.vayatele.com/">¡Vaya Tele!</a></li>
+                              <li><a href="http://www.hipersonica.com/">Hipersónica</a></li>
+                              <li><a href="http://www.diariodelviajero.com/">Diario del Viajero</a></li>
+                              <li><a href="http://www.papelenblanco.com/">Papel en Blanco</a></li>
+                              
+            </ul>
+        </div>
+        <!-- .links-category -->
+                <div class="links-category">
+            <h2>Economía</h2>
+            <ul>
+                              <li><a href="http://www.elblogsalmon.com/">El Blog Salmón</a></li>
+                              <li><a href="http://www.pymesyautonomos.com/">Pymes y Autónomos</a></li>
+                              <li><a href="http://www.tecnologiapyme.com/">Tecnología Pyme</a></li>
+                              <li><a href="http://www.ahorrodiario.com/">Ahorro Diario</a></li>
+                              
+            </ul>
+        </div>
+        <!-- .links-category -->
+                <div class="links-category">
+            <h2>Latinoamérica</h2>
+            <ul>
+                              <li><a href="http://www.xataka.com.br/">Xataka Brasil</a></li>
+                              <li><a href="http://www.trendencias.com.br/">Trendencias Brasil</a></li>
+                              <li><a href="http://www.motorpasion.com.br/">Motorpasión Brasil</a></li>
+                              <li><a href="http://www.xataka.com.mx/">Xataka México</a></li>
+                              <li><a href="http://www.motorpasion.com.mx/">Motorpasión México</a></li>
+                              
+            </ul>
+        </div>
+        <!-- .links-category -->
+                <div class="links-category">
+            <h2>Participamos en</h2>
+            <ul>
+                              <li><a href="http://www.ebayers.es/">eBayers</a></li>
+                              <li><a href="http://www.circulaseguro.com/">Circula Seguro</a></li>
+                              <li><a href="http://www.circulaseguro.pt/">Circula Seguro PT</a></li>
+                              <li><a href="http://www.actibva.com/">Actibva</a></li>
+                              <li><a href="http://www.anexom.es/">Anexo M</a></li>
+                              <li><a href="http://blog.cocacola.es/">Happing Magazine</a></li>
+                              <li><a href="http://blog.sage.es/">Blog Sage</a></li>
+                              <li><a href="http://www.optimismodigital.com/">Optimismo Digital</a></li>
+                              <li><a href="http://www.1001experiencias.com/">1001 Experiencias</a></li>
+                              <li><a href="http://www.ennaranja.com/">En Naranja</a></li>
+                              <li><a href="http://www.essieblog.es/">Essie Blog</a></li>
+                              <li><a href="http://blogginzenith.zenithmedia.es/">Bloggin Zenith</a></li>
+                              <li><a href="http://www.urbanfire.es/">Urbanfire</a></li>
+                              <li><a href="http://www.tecnologiadetuatu.elcorteingles.es/">Tecnología de tú a tú</a></li>
+                              <li><a href="http://www.ciudadano00.es/">Ciudadano 0,0</a></li>
+                              <li><a href="http://blogfanta.cocacola.es/">Blog Fanta</a></li>
+                              <li><a href="http://mimundo.philips.es/">Mi Mundo Philips</a></li>
+                              <li><a href="http://www.bbvacontuempresa.es">BBVA con tu empresa</a></li>
+                              <li><a href="http://www.perutravelblog.net/">Perú Travel Blog</a></li>
+                              <li><a href="http://bscene.bershka.com">Bershka Bscene</a></li>
+                              
+            </ul>
+        </div>
+        <!-- .links-category -->
+                    </div>
+</div>
+
+<div class="closure">
+    <div class="container">
+        <div class="weblogssl"><a href="http://www.weblogssl.com">Weblogs SL<span></span></a></div>
+        <ul class="nav">
+            <li><a href="/quienes-somos">¿Quienes somos?</a></li>
+            <li><a href="http://www.weblogssl.com/contenidos">Condiciones de uso</a></li>
+            <li><a href="http://www.weblogssl.com/cookies">Política de cookies</a></li>
+            <li><a href="http://www.weblogssl.com/aviso">Aviso legal</a></li>
+            <li><a title="Publicidad en Applesfera" href="http://www.socialmediasl.com/applesfera.php">Publicidad</a></li>
+            <li><a href="/ayuda-2012">Ayuda</a></li>
+            <li><a href="/contacto">Contacto</a></li>
+        </ul>
+    </div>
+</div>
+
+<div id="cookies-overlay"></div>
+
+  <script type="text/javascript">
+    $(function() {
+      new AML.Auth.View.CookiesOverlayView;
+    });
+  </script>
+  <script type="text/javascript">
+    $(function() {
+      WSL2.GoogleAnalytics.trackLoginSystemGAForRollupAccount(WSL2.User);
+    });
+  </script>
+
+</div>
+<div id="favicons-list">
+
+    <div class="userbar">
+        <a class="head-shortcut" href="#body" title="Volver arriba">&uarr;</a>
+        <div class="userbox" id="wsl_userbox">
+        </div>
+
+        <div class="favicons" style="width: auto; ">
+
+            <div id="scroll-menu">
+
+                <div class="disabledHotSpotLeft">«</div>
+                <div class="disabledHotSpotRight">»</div>
+                <div class="scrollingHotSpotLeft">«</div>
+                <div class="scrollingHotSpotRight">»</div>
+
+                <div class="scrollWrapper">
+                    <div class="scrollableArea">
+
+                        <ul class="favicroll">
+                            <li id="wsl"><a target="_top" href="http://www.weblogssl.com/"><em><strong>Blog corporativo</strong></em></a></li>
+
+                            <li><a target="_top" href="http://www.xataka.com/"><span id="b1"><strong>XTK</strong></span> <em><strong>Xataka - Gadgets y electrónica de consumo</strong></em></a></li>
+                            <li><a target="_top" href="http://www.vidaextra.com/"><span id="b2"><strong>VX</strong></span> <em><strong>VidaExtra - Videojuegos</strong></em></a></li>
+                            <li><a target="_top" href="http://www.blogdecine.com/"><span id="b3"><strong>BDC</strong></span> <em><strong>Blog de cine - Cine  y críticas</strong></em></a></li>
+                            <li><a target="_top" href="http://www.elblogsalmon.com/"><span id="b5"><strong>EBS</strong></span> <em><strong>El Blog Salmón - Economía y finanzas</strong></em></a></li>
+                            <li><a target="_top" href="http://www.genbeta.com/"><span id="b6"><strong>GBT</strong></span> <em><strong>Genbeta - Software</strong></em></a></li>
+                            <li><a target="_top" href="http://www.motorpasion.com/"><span id="b7"><strong>MP</strong></span> <em><strong>MotorPasión - Coches y motor</strong></em></a></li>
+                            <li><a target="_top" href="http://www.directoalpaladar.com/"><span id="b8"><strong>DAP</strong></span> <em><strong>Directo al paladar - Gastronomía</strong></em></a></li>
+                            <li><a target="_top" href="http://www.bebesymas.com/"><span id="b9"><strong>BYM</strong></span> <em><strong>Bebés y más - Todo sobre bebés</strong></em></a></li>
+                            <li><a target="_top" href="http://www.vayatele.com/"><span id="b11"><strong>VYT</strong></span> <em><strong>¡Vaya Tele! - Series y televisión</strong></em></a></li>
+                            <li><a target="_top" href="http://www.diariodelviajero.com/"><span id="b12"><strong>DDV</strong></span> <em><strong>Diario del viajero - Viajes</strong></em></a></li>
+                            <li><a target="_top" href="http://www.xatakaciencia.com/"><span id="b13"><strong>XCI</strong></span> <em><strong>Xataka Ciencia - Ciencia</strong></em></a></li>
+                            <li><a target="_top" href="http://www.trendencias.com/"><span id="b14"><strong>TRE</strong></span> <em><strong>Trendencias - Moda y tendencias</strong></em></a></li>
+                            <li><a target="_top" href="http://www.hipersonica.com/"><span id="b15"><strong>HIP</strong></span> <em><strong>HiperSónica - Música</strong></em></a></li>
+                            <li><a target="_top" href="http://www.applesfera.com/"><span id="b16"><strong>APP</strong></span> <em><strong>Applesfera - Apple</strong></em></a></li>
+                            <li><a target="_top" href="http://www.trendenciasshopping.com/"><span id="b17"><strong>COM</strong></span> <em><strong>Trendencias Shopping - Compras y consumo</strong></em></a></li>
+                            <li><a target="_top" href="http://www.xatakamovil.com/"><span id="b18"><strong>XTM</strong></span> <em><strong>Xataka Móvil - Móviles</strong></em></a></li>
+                            <li><a target="_top" href="http://www.ambienteg.com/"><span id="b19"><strong>AMG</strong></span> <em><strong>Ambiente G - Gays y lesbianas</strong></em></a></li>
+                            <li><a target="_top" href="http://www.motorpasionmoto.com/"><span id="b20"><strong>MMO</strong></span> <em><strong>Motorpasión Moto - Motos</strong></em></a></li>
+                            <li><a target="_top" href="http://www.papelenblanco.com/"><span id="b21"><strong>PEB</strong></span> <em><strong>Papel en blanco - Literatura</strong></em></a></li>
+                            <li><a target="_top" href="http://www.decoesfera.com/"><span id="b22"><strong>DEC</strong></span> <em><strong>Decoesfera - Decoración e interiorismo</strong></em></a></li>
+                            <li><a target="_top" href="http://www.motorpasionf1.com/"><span id="b23"><strong>MF1</strong></span> <em><strong>Motorpasión F1 - Carreras</strong></em></a></li>
+                            <li><a target="_top" href="http://www.vitonica.com/"><span id="b24"><strong>VIT</strong></span> <em><strong>Vitónica - Vida sana</strong></em></a></li>
+                            <li><a target="_top" href="http://www.embelezzia.com/"><span id="b25"><strong>EMB</strong></span> <em><strong>Embelezzia - Lujo</strong></em></a></li>
+                            <li><a target="_top" href="http://www.poprosa.com/"><span id="b26"><strong>POP</strong></span> <em><strong>Poprosa - Famosos</strong></em></a></li>
+                            <li><a target="_top" href="http://www.xatakafoto.com/"><span id="b27"><strong>XTF</strong></span> <em><strong>Xataka Foto - Fotografía</strong></em></a></li>
+                            <li><a target="_top" href="http://www.pymesyautonomos.com/"><span id="b28"><strong>PYA</strong></span> <em><strong>Pymes y autónomos - Pymes</strong></em></a></li>
+                            <li><a target="_top" href="http://www.trendenciasbelleza.com/"><span id="b30"><strong>TRB</strong></span> <em><strong>Trendencias Belleza - Belleza y cosmética</strong></em></a></li>
+                            <li class="end"><a target="_top" href="http://www.tecnologiapyme.com/"><span id="b34"><strong>TPY</strong></span> <em><strong>Tecnología Pyme - Tecnología para empresas</strong></em></a></li>
+                            <li><a target="_top" href="http://www.ahorrodiario.com/"><span id="b35"><strong>AHD</strong></span> <em><strong>Ahorro Diario - Ahorro</strong></em></a></li>
+                            <li class="end"><a target="_top" href="http://www.trendenciashombre.com/"><span id="b36"><strong>TRH</strong></span> <em><strong>Trendencias Hombre - Moda y estilo masculino</strong></em></a></li>
+                            <li class="end"><a target="_top" href="http://www.pequesymas.com/"><span id="b37"><strong>PEQ</strong></span> <em><strong>Peques y más - Niños e infancia</strong></em></a></li>
+                            <li class="end"><a target="_top" href="http://www.xatakaon.com/"><span id="b39"><strong>XTO</strong></span> <em><strong>Xataka On - Todo sobre conectividad, ADSL</strong></em></a></li>
+                            <li class="end"><a target="_top" href="http://www.xatakandroid.com/"><span id="b40"><strong>XTA</strong></span> <em><strong>Xataka Android - Android, aplicaciones y dispositivos</strong></em></a></li>
+                            <li class="end"><a target="_top" href="http://www.genbetadev.com/"><span id="b41"><strong>GBD</strong></span> <em><strong>Genbeta Dev - Desarrollo de software</strong></em></a></li>
+                            <li class="end"><a target="_top" href="http://www.motorpasionfuturo.com"><span id="b42"><strong>MPF</strong></span> <em><strong>Motorpasión Futuro - Innovación y Motor</strong></em></a></li>
+                            <li class="big end"><a target="_top" href="http://www.xatakahome.com"><span id="b44"><strong>XSH</strong></span> <em><strong>Xataka Smart Home - Inteligencia doméstica digital</strong></em></a></li>
+                            <li class="big end"><a target="_top" href="http://www.xatakawindows.com"><span id="b45"><strong>XTW</strong></span> <em><strong>Xataka Windows - Universo Microsoft</strong></em></a></li>
+                            <li class="end"><a target="_top" href="http://www.trendenciaslifestyle.com"><span id="b46"><strong>TLS</strong></span> <em><strong>Trendencias Lifestyle</strong></em></a></li>
+                        </ul>
+
+                    </div>
+                </div>
+                <!-- .scrollWrapper-->
+            </div>
+
+        </div>
+
+    </div>
+
+</div>
+
+<div id="wsl_dialog"></div>
+<div id="fb-root">
+</div>
+<!-- fb needs this -->
+
+<script>
+  (function(d, s) {
+    var js, fjs = d.getElementsByTagName(s)[0], load = function(url, id) {
+      if (d.getElementById(id)) {return;}
+      js = d.createElement(s); js.src = url; js.id = id;
+      fjs.parentNode.insertBefore(js, fjs);
+    };
+    load('//connect.facebook.net/es_ES/all.js#xfbml=1', 'fbjssdk');
+    load('//apis.google.com/js/plusone.js', 'gplus1js');
+    load('//platform.twitter.com/widgets.js', 'tweetjs');
+    
+  }(document, 'script'));
+
+</script>
+
+<script type="text/javascript">
+  document.addEventListener('DOMContentLoaded', function() {
+  try {
+    if (window.external.msIsSiteMode()) {
+      window.external.msSiteModeClearJumpList();
+      window.external.msSiteModeCreateJumplist('Mensajes Recientes');
+            window.external.msSiteModeAddJumpListItem('Apple\x20sube\x20sigilosamente\x20el\x20precio\x20del\x20Mac\x20Mini\x20y\x20otros\x20productos\x20en\x20algunos\x20pa\u00EDses\x20', 'http://www.applesfera.com/accesorios/apple-sube-sigilosamente-el-precio-del-mac-mini-y-otros-productos-en-algunos-paises', '');
+            window.external.msSiteModeAddJumpListItem('iOS\x207.0.2\x20ya\x20disponible\x20para\x20todos\x20los\x20terminales\x20compatibles\x20', 'http://www.applesfera.com/ios/ios-7-0-2-ya-disponible-para-todos-los-terminales-compatibles', '');
+            window.external.msSiteModeAddJumpListItem('Air\x20Video\x20HD\x20para\x20iOS,\x20una\x20gran\x20forma\x20de\x20ver\x20los\x20v\u00EDdeos\x20almacenados\x20en\x20tu\x20ordenador', 'http://www.applesfera.com/aplicaciones-ios-1/air-video-hd-para-ios-una-gran-forma-de-ver-los-videos-almacenados-en-tu-ordenador', '');
+            window.external.msSiteModeAddJumpListItem('Los\x20medios\x20especializados\x20se\x20pronuncian\x20sobre\x20el\x20nuevo\x20iPhone\x205s\x20y\x20Apple\x20saca\x20partido\x20de\x20ello', 'http://www.applesfera.com/iphone/los-medios-especializados-se-pronuncian-sobre-el-nuevo-iphone-5s-y-apple-saca-partido-de-ello', '');
+            window.external.msSiteModeAddJumpListItem('\u00BFProblemas\x20con\x20tu\x20nuevo\x20iOS7\x3F\x20Tal\x20vez\x20haya\x20soluci\u00F3n\x20para\x20ellos\x20', 'http://www.applesfera.com/ios/problemas-con-tu-nuevo-ios7-tal-vez-haya-solucion-para-ellos', '');
+            window.external.msSiteModeShowJumpList();
+    }
+  } catch (exp) {
+    // do nothing
+  }
+  });
+</script>
+
+
+<script type='text/javascript'>
+    (function() {
+      new ViceVersaLink("http://t.applesfera.com");
+    })();
+</script>
+
+<script type='text/javascript'>
+  window.onerror = function(message, file, line) {
+    var sFormattedMessage = '[' + file + ' (' + line + ')] ' + message;
+    _gaq.push(['_trackEvent', 'Errors', 'Browser', sFormattedMessage, null, true]);
+  }
+</script>
+  
+  </body>
+</html>

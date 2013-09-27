@@ -1,0 +1,728 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+                    
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>FOOTBALL OUTSIDERS: Innovative Statistics, Intelligent Analysis | DVOA PLAYOFF ODDS REPORT</title>    
+<link rel="alternate" type="application/rss+xml" title="Football Outsiders Everything Feed" href="http://feeds.feedburner.com/FootballOutsiders">
+    <link rel="alternate" type="application/rss+xml" title="Football Outsiders XP Feed" href="http://feeds.feedburner.com/FootballOutsidersXP">
+<meta name="Author" content="Aaron Schatz and the Football Outsiders" />
+<meta name="Keywords" content="football, analysis, NFL, Pro Football Prospectus 2008, Pro Football Prospectus 2007, Football Prospectus, statistics, DVOA, football stats, yards, QB, quarterback, rating, RB, running back, WR, wide receiver, TE, tight end, Moneyball" />
+<meta name="Description" content="Football Outsiders is the internet home for Innovative Statistics and Intelligent Analysis of professional and college football. Our writers, lead by Aaron Schatz, also write Pro Football Prospectus." />
+<meta http-equiv="Content-Language" content="en-us" />
+<meta name="robots" content="all" />
+<meta name="MSSmartTagsPreventParsing" content="true" />
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="/sites/all/themes/custom/footballoutsiders/favicon.ico" type="image/x-icon" />
+<script type="text/javascript" src="/sites/all/themes/custom/footballoutsiders/js/jquery-1.2.6.pack.js"></script>
+<script type="text/javascript" src="/sites/all/themes/custom/footballoutsiders/js/tabby-goodness.js"></script>
+<script type="text/javascript" src="/sites/all/themes/custom/footballoutsiders/js/sfhover.js"></script>
+
+<script type='text/javascript'>
+(function() {
+var useSSL = 'https:' == document.location.protocol;
+var src = (useSSL ? 'https:' : 'http:') +
+'//www.googletagservices.com/tag/js/gpt.js';
+document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
+})();
+</script>
+<script type='text/javascript'>
+googletag.pubads().enableSyncRendering();
+</script>
+
+<script type="text/javascript" src="/misc/jquery.js"></script>
+<script type="text/javascript" src="/misc/drupal.js"></script>
+<script type="text/javascript" src="/sites/all/modules/img_assist/img_assist.js"></script>
+<script type="text/javascript" src="/sites/all/modules/jquery_update/compat.js"></script>
+<script type="text/javascript">Drupal.extend({ settings: { "googleanalytics": { "trackOutgoing": 1, "trackMailto": 1, "trackDownload": 1, "trackDownloadExtensions": "7z|aac|avi|csv|doc|exe|flv|gif|gz|jpe?g|js|mp(3|4|e?g)|mov|pdf|phps|png|ppt|rar|sit|tar|torrent|txt|wma|wmv|xls|xml|zip", "LegacyVersion": 0 } } });</script>
+<script type="text/javascript">var BASE_URL = "/";</script>
+<style type="text/css" media="screen">@import "/sites/all/themes/custom/footballoutsiders/css/reset.css";</style>
+<style type="text/css" media="screen">@import "/sites/all/themes/custom/footballoutsiders/css/inside_titlebanner.css";</style>
+<style type="text/css" media="all">@import "/modules/node/node.css";</style>
+<style type="text/css" media="all">@import "/modules/poll/poll.css";</style>
+<style type="text/css" media="all">@import "/modules/system/defaults.css";</style>
+<style type="text/css" media="all">@import "/modules/system/system.css";</style>
+<style type="text/css" media="all">@import "/modules/user/user.css";</style>
+<style type="text/css" media="all">@import "/sites/all/modules/cck/content.css";</style>
+<style type="text/css" media="all">@import "/sites/all/modules/ecommerce/cart/cart.css";</style>
+<style type="text/css" media="all">@import "/sites/all/modules/ecommerce/store/store.css";</style>
+<style type="text/css" media="all">@import "/sites/all/modules/img_assist/img_assist.css";</style>
+<style type="text/css" media="all">@import "/sites/all/modules/logintoboggan/logintoboggan.css";</style>
+<style type="text/css" media="all">@import "/sites/all/modules/simplenews/simplenews.css";</style>
+<style type="text/css" media="all">@import "/sites/all/modules/cck/fieldgroup.css";</style>
+<style type="text/css" media="all">@import "/sites/all/themes/custom/footballoutsiders/style.css";</style>
+<style type="text/css" media="screen">@import "/sites/all/themes/custom/footballoutsiders/css/jquery.tabs.css";</style>
+<!--[if lt IE 7]><style type="text/css" media="screen">@import "/sites/all/themes/custom/footballoutsiders/css/base_ie6.css";</style><![endif]-->
+<!--[if lt IE 7]><style type="text/css" media="screen">@import "/sites/all/themes/custom/footballoutsiders/css/jquery.tabs-ie.css";</style><![endif]-->
+<!--[if IE]>
+<style type="text/css" media="screen">
+#masthead #mainmenu li ul li { position:static; }
+#masthead #mainmenu li ul li.hover, #masthead #mainmenu li ul li:hover  { position:relative; }
+</style>
+<![endif]-->
+<SCRIPT> 
+var a = Math.floor(Math.random()*9999999999+1) 
+var random_number = a; 
+</SCRIPT>
+<!-- Begin comScore Tag -->
+<script>
+    document.write(unescape("%3Cscript src='" + (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js' %3E%3C/script%3E"));
+</script>
+<script>
+  COMSCORE.beacon({
+    c1:2,
+    c2:"6035210",
+    c3:"",
+    c4:"www.footballoutsiders.com",
+    c5:"",
+    c6:"",
+    c15:""
+  });
+</script>
+<noscript>
+  <img src="http://b.scorecardresearch.com/b?c1=2&c2=6035210&c3=&c4=www.footballoutsiders.com&c5=&c6=&c15=&cv=1.3&cj=1" style="display:none" width="0" height="0" alt="" />
+</noscript>
+<!-- End comScore Tag -->
+</head>
+<body>
+<div id="wrapper">
+
+		<div id="blackbar">
+      <div id="block-user-0" class="block block-user">
+
+
+  <div class="content"><form action="/stats/playoffodds?destination=node%2F3913"  accept-charset="UTF-8" method="post" id="user-login-form">
+<div><div id="user_login">
+<div class="form-item">
+ <label for="edit-name">Member Name: <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" maxlength="60" name="name" id="edit-name"  size="10" value="" tabindex="1" class="form-text required" />
+</div>
+<div class="form-item">
+ <label for="edit-pass">Password: <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" name="pass" id="edit-pass"  maxlength="60"  size="10"  tabindex="2" class="form-text required" />
+</div>
+<input type="submit" name="op" id="edit-submit" value="Log in"  tabindex="3" class="form-submit" />
+<div class="item-list"><ul><li><a href="/user/password" title="Request new password via e-mail.">Forgot Password?</a></li><li>Not a Member? <a href="/user/register" title="Create a new user account.">Register here</a></li></ul></div><input type="hidden" name="form_id" id="edit-user-login-block" value="user_login_block"  />
+</div>
+
+</div></form>
+</div>
+</div>
+             <ul class="blackBarLinks">
+                <li><a href="/">Home</a></li>
+        <li><a href="/contact">Contact FO</a></li>
+        <li><a href="/info/help">Help</a></li>
+        <li class="last"><a href="/info/advertise">Advertise on FO</a></li>
+      </ul>
+    </div>
+
+	<div id="masthead">
+		<div id="logo"><h1><a href="/">Football Outsiders</a></h1></div>
+		<div id="rss">
+			<a class="rss" href="http://feeds.feedburner.com/FootballOutsiders"><img alt="RSS Feed Icon" src="/sites/all/themes/custom/footballoutsiders/images/rss-icon.jpg"/>RSS Feed</a>
+		</div>
+		<ul id="topmenu">
+			<li><a class="tm_discussion" href="/forum"><span>Discussion Forum</span></a></li>
+			<li>
+									<a class="tm_premium" href="/store/premium-access"><span>Premium Content</span></a>
+							</li>
+			<li><a class="tm_onlinestore" href="/products"><span>Online Store</span></a></li>
+			<li class="last"><a class="tm_firsttime" href="/info/FAQ"><span>First Time Here?</span></a></li>
+		</ul>
+		<ul id="mainmenu">
+			<li class="mm_statistics first"><a href=""><span>Statistics</span></a>
+				<ul class="statistics">
+					<li class="diff"><a href="/info/methods">Our New Stats Explained</a></li>
+					<li><a href="/stats/playoffodds">Playoff Odds</a></li>
+					<li><a href="/stats/teameff">Team Efficiency</a></li>
+					<li><a href="/stats/teamoff">Team Offense</a></li>
+					<li><a href="/stats/teamdef">Team Defense</a></li>
+					<li><a href="/stats/teamst">Special Teams</a></li>
+					<li><a href="/stats/qb">Quarterbacks</a></li>
+					<li><a href="/stats/rb">Running Backs</a></li>
+					<li><a href="/stats/wr">Wide Receivers</a></li>
+					<li><a href="/stats/te">Tight Ends</a></li>
+					<li><a href="/stats/ol">Offensive Lines</a></li>
+					<li><a href="/stats/dl">Defensive Lines</a></li>
+					<li><a href="/stats/snapcounts">Snap Counts</a></li>
+					<li><a href="/stats/drivestats">Drive/Pace Stats    ></a>
+						<ul class="statistics_sub">
+							<li><a href="/stats/drivestats">Total Drive Stats</a></li>
+							<li><a href="/stats/drivestatsoff">Offensive Drive Stats</a></li>
+							<li><a href="/stats/drivestatsdef">Defensive Drive Stats</a></li>
+							<li><a href="/stats/pacestats">Pace Stats</a></li>
+						</ul>
+					</li>
+					<li><a href="/stats/feiplus">NCAA: F/+ Combined Ratings</a></li>
+					<li><a>Other NCAA Stats      ></a>
+						<ul class="statistics_sub other_ncaa_stats">
+							<li><a href="/stats/fei">FEI Ratings, Overall</a></li>
+							<li><a href="/stats/feioff">FEI Ratings, Offense</a></li>
+							<li><a href="/stats/feidef">FEI Ratings, Defense</a></li>
+							<li><a href="/stats/feist">FEI Ratings, Special Teams</a></li>
+							<li><a href="/stats/ncaa">S&P+ Ratings, Overall</a></li>
+							<li><a href="/stats/ncaaoff">S&P+ Ratings, Offense</a></li>
+							<li><a href="/stats/ncaadef">S&P+ Ratings, Defense</a></li>
+							<li><a href="/stats/feiplus">F/+ Combined Ratings</a></li>
+							<li><a href="/stats/fpa">FEI Field Position Advantage</a></li>
+						</ul>
+					</li>
+					<li class="diff"><a href="/premium/index.php">Premium DVOA Database</a></li>
+				</ul>
+			</li>
+			<li class="mm_analysis"><a href=""><span>Analysis</span></a>
+				<ul class="analysis">
+					<li class="diff"><a href="/archives">Complete Archives</a></li>
+					<li><a href="/any-given-sunday">Any Given Sunday</a></li>
+					<li><a href="/audibles">Audibles at the Line</a></li>
+					<li><a href="/dvoa-ratings">DVOA Rankings &amp; Analysis</a></li>
+					<li><a href="/filmroom">Film Room</a></li>
+					<li><a href="/four-downs">Four Downs</a></li>
+					<li><a href="/fei-ratings">Fremeau Efficiency Ratings</a></li>
+					<li><a href="/futures">Futures</a></li>
+					<li><a href="/one-foot-inbounds">One Foot Inbounds</a></li>
+					<li><a href="/quick-reads">Quick Reads</a></li>
+					<li><a href="/scramble">Scramble for the Ball</a></li>
+					<li><a href="/7th-day-adventure">Seventh Day Adventure</a></li>
+					<li><a href="/stat-analysis">Stat Analysis</a></li>
+					<li><a href="/state-team">State of the Team</a></li>
+					<li><a href="/strategy-minicamps">Strategy Minicamps</a></li>
+					<li><a href="/under-pressure">Under Pressure</a></li>
+					<li><a href="/varsity-numbers">Varsity Numbers</a></li>
+					<li><a href="/walkthrough">Walkthrough</a></li>
+					<li><a href="/week-quotes">The Week In Quotes</a></li>
+				        <li><a href="/word-muth">Word Of Muth</a></li>
+					<li class="diff"><a href="/fo-espn">FO on ESPN</a></li>
+					<li class="diff espn"><a href="/fo-espn-college-football">&raquo; College Football</a></li>
+					<li class="diff espn"><a href="/fo-espn-fantasy-matchup">&raquo; Fantasy Matchup</a></li>
+					<li class="diff espn"><a href="/fo-espn-feature-columns">&raquo; Feature Columns</a></li>
+					<li class="diff espn"><a href="/fo-espn-upset-watch">&raquo; Upset Watch</a></li>
+				</ul>
+			</li>
+			<li class="mm_discussion"><a href="/forum"><span>Discussion</span></a>
+				<ul class="discussion">
+				<li><a href="/extra-points"><b>Extra Points</b></a></li>
+ <li><a href="/nfl-extra-points">NFL Extra Points</a></li>
+ <li><a href="/college-extra-points">College Extra Points</a></li>
+
+					<li><a href="/forum"><b>Discussion Boards</b></a></li>
+					<li><a href="/discussion/general-football-discussion">General Football Discussion</a></li>
+					<li><a href="/discussion/fantasy-football">Open Fantasy Football Discussion</a></li>
+					<li><a href="/discussion/open-game-discussion/2013-game-discussion">Open NFL Game Discussion</a></li>
+					<li><a href="/discussion/football-outsiders/kubiak-2013">2013 KUBIAK Discussion Thread</a></li>
+					<li><a href="/discussion/football-outsiders/football-outsiders-almanac-2013">FOA 2013 Discussion Thread</a></li>
+					</ul>
+			</li>
+			<li class="mm_about"><a href="/info/FAQ"><span>About</span></a>
+				<ul class="about">
+					<li><a href="/info/FAQ">FO FAQ</a></li>
+					<li><a href="/info/FO-basics">FO Basics</a></li>
+					<li><a href="/info/methods">Our New Stats Explained</a></li>
+					<li><a href="/info/glossary">Outsiders Glossary</a></li>
+					<li><a href="/info/terms-of-use">Terms of Use</a></li>
+				</ul>
+			</li>
+			<li class="mm_more last"><a href=""><span>More...</span></a>
+				<ul class="mm_more">
+					<li><a href="/">Home</a></li>
+					<li><a href="/contact">Contact FO</a></li>
+					<li><a href="/info/FAQ">First Time Here?</a></li>
+					<li><a href="/info/meet">Meet the Outsiders</a></li>
+													              <li><a href="/info/ontheair">FO Radio Appearances</a></li>
+					<!--<li><a href="/info/links">Links Outside the Outsiders</a></li>-->
+					<li><a href="/products">Football Outsiders Online Store</a></li>
+					<li><a href="/info/help">Help with KUBIAK and Premium</a></li>
+					<li><a href="/loser/results">Loser League</a></li>
+					<li><a href="/awards">FO Annual Awards</a></li>
+					<li class="diff"><a href="/premium/index.php">Premium DVOA Database</a></li>
+					<li><a href="/info/advertise">Advertise on FO</a></li>
+					<li><a href="http://www.cafepress.com/outsidershop" target="_blank">Buy FO Stuff</a></li>
+				</ul>
+			</li>
+		</ul>
+		
+		
+		<h2>Writers of <em>Pro Football Prospectus 2008</em></h2>
+	
+<div class="search-form">
+<form action="/search/apachesolr_search" method="post" id="search-block-form">
+<fieldset>
+<input value="Search FO Content or Player Pages" type="text" class="txt" maxlength="128" size="25" name="keys" title="All Content Search" onfocus="if(this.value == 'Search FO Content or Player Pages') { this.value = '';}" onblur="if(this.value == '') { this.value = 'Search FO Content or Player Pages';} " />
+
+<input type="image" class="img" src="/sites/all/themes/custom/footballoutsiders/images/search_button.gif" value="Search" name="op" title="Search" alt="Search" />
+<a href="/player/home"><img src="/images/search-players.jpg"></a>
+<input type="hidden" value="66137a6939cafb0efc402a8625618d5b" name="form_token" />
+<input type="hidden" value="search_form" id="edit-search-form" name="form_id" /> 
+</fieldset>
+</form>
+</div>
+
+</div>
+	
+	<div id="content" class="inside ">
+		<div id="content_top"></div>
+		<div id="content_main">
+			<div id="page-header">
+				<div class="titlebanner" id="innovative-statistics">
+					<div class="printable"><a href="/print/3913"><img src="/sites/all/themes/custom/footballoutsiders/images/printable.gif"><p>printable version</p></a>
+					</div>
+					<h3>Innovative Statistics</h3>
+					<p class="sub-title">Football Outsiders exclusive statistics</p>
+				</div> <!-- end titlebanner -->
+				<div class="clear"></div>
+				
+			</div>  <!-- END page-header -->			
+			<div id="columns">
+									 					 <div id="left">
+
+<div id="block-blockcache-34" class="block block-blockcache">
+
+
+  <div class="content"><div class='view view-ads-article-left-side'><div class='view-content view-content-ads-article-left-side'><div class="sidebar-item"><a href="/store"><img src="http://www.footballoutsiders.com/files/help-kubiak.jpg" width="160" height="100" alt="Need Help with KUBIAK or Premium?" /></a></div><div class="sidebar-item"><div id="sidebar-box">
+<p><b>NOW AVAILABLE</b></p>
+<a href="http://www.footballoutsiders.com/store"><img width="155" src="/images/sidebar/FOA2013-cover-155.jpg" alt="Football Outsiders Almanac 2013"/></a>
+<p><a href="/products">Buy PDF version here for $12.50.</a><br><A href="https://www.createspace.com/4363721" target="_blank">Buy print version here for $22.95.</a></p>
+<p><b>ALSO AVAILABLE</b></p>
+<A href="http://www.footballoutsiders.com/store/carroll-guide-sports-injuries"><img width="155" src="/images/CarrollGuide.jpg" alt="Carroll Guide to Sports Injuries"/>
+<p>Click here to buy PDF version</a>.<br>
+<a href="https://www.createspace.com/3405269" target="_blank">Click here to buy print version</a>.</p>
+</div></div><div class="sidebar-item"><center><a href="http://bit.ly/11svKwy" target="_blank"><img src="http://www.footballoutsiders.com/images/sidebar/MV_150x250_small_1.jpg"></a></center></div><div class="sidebar-item"><center><a href="http://www.latestcasinobonuses.com" target="_blank"><img src="http://www.footballoutsiders.com/images/sidebar/casinogames.jpg"></a></center></div><div class="sidebar-item"><div id="sidebar-box">
+<h5>FOLLOW FO ON TWITTER!</h5>
+<div class="twitter-names">
+<p><b>Official Account</b>: <a href = "http://twitter.com/fboutsiders" target = "_new">@<b>fboutsiders</b></a><br>
+Scott Kacsmar: <a href = "http://twitter.com/FO_ScottKacsmar" target = "_new">@<b>FO_ScottKacsmar</b></a><br>
+Rivers McCown: <a href = "http://twitter.com/FO_RiversMcCown" target = "_new">@<b>FO_RiversMcCown</b></a><br>
+Ben Muth: <a href = "http://twitter.com/FO_wordofmuth" target = "_new">@<b>FO_WordofMuth</b></a><br>
+Aaron Schatz: <a href = "http://twitter.com/FO_ASchatz" target = "_new">@<b>FO_ASchatz</b></a><br>
+Danny Tuccitto: <a href = "http://twitter.com/FO_DTuccitto" target = "_new">@<b>FO_DTuccitto</b></a><br>
+Vince Verhei: <a href = "http://twitter.com/FO_VVerhei" target = "_new">@<b>FO_VVerhei</b></a><br>
+-- plus --<br>
+Andy Benoit: <a href = "http://twitter.com/Andy_Benoit" target = "_new">@<b>Andy_Benoit</b></a><br>
+Bill Connelly: <a href = "http://twitter.com/SBN_BillC" target = "_new">@<b>SBN_BillC</b></a><br>
+J.J. Cooper: <a href = "http://twitter.com/jjcoop36" target = "_new">@<b>jjcoop36</b></a><br>
+Brian Fremeau: <a href = "http://twitter.com/bcfremeau" target = "_new">@<b>bcfremeau</b></a><br>
+Tom Gower: <a href = "http://twitter.com/ThomasGower" target = "_new">@<b>ThomasGower</b></a><br>
+Matt Hinton: <a href = "http://twitter.com/MattRHinton" target = "_new">@<b>MattRHinton</b></a><br>
+Brian McIntyre: <a href = "http://twitter.com/brian_mcintyre" target = "_new">@<b>brian_mcintyre</b></a><br>
+Mike Ridley: <a href = "http://twitter.com/TheMikeRidley" target = "_new">@<b>TheMikeRidley</b></a><br>
+Mike Tanier: <a href = "http://twitter.com/MikeTanier" target = "_new">@<b>MikeTanier</b></a><br>
+Matt Waldman: <a href = "http://twitter.com/mattwaldman" target = "_new">@<b>MattWaldman</b></a><br>
+Rob Weintraub: <a href = "http://twitter.com/robwein" target = "_new">@<b>robwein</b></a></p>
+</div>
+</div></div><div class="sidebar-item"><link rel="stylesheet" type="text/css" href="http://cache.blogads.com/175427652/feed.css" />
+<script language="javascript" src="http://cache.blogads.com/175427652/feed.js"></script><br/><a href=http://www.blogads.com>blog advertising</a> is good for you</div><div class="sidebar-item"><div id="sidebar-amazon">
+<p><center><iframe src="http://rcm.amazon.com/e/cm?t=footballoutsi-20&o=1&p=8&l=as1&asins=1484989961&fc1=000000&IS2=1&lt1=_blank&lc1=0000ff&bc1=000000&bg1=ffffff&f=ifr" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
+</center></p></div></div><div class="sidebar-item"><div id="sidebar-textlinks">
+</div></div><div class="sidebar-item"><center><a href="http://www.sbtickets.com/super-bowl-tickets" alt="sbtickets" target="_blank" rel="nofollow"><img src="http://www.footballoutsiders.com/images/sidebar/superbowlticketsad.jpg"></a></center></div><div class="sidebar-item"><a href="http://www.baseballprospectus.com" target="_blank"><img src="/images/sidebar/bp_box.gif"></a><br>
+<a href="http://www.basketballprospectus.com" target="_blank"><img src="/images/sidebar/basketballprospectus.gif"></a><br>
+<a href="http://www.puckprospectus.com" target="_blank"><img src="/images/sidebar/PuckProspectus.gif"></a></div></div></div>
+</div>
+</div>
+
+															  </div>																				  
+				<div id="center" class="single">
+					   							<div class="ad-728x90">
+				       <div id="block-blockcache-35" class="block block-blockcache">
+
+
+  <div class="content">
+<div class="advertisement group-tids-52" id="group-id-tids-52"><script type="text/javascript" src="http://www.footballoutsiders.com/sites/all/modules/ad/serve.php?q=1&amp;t=52"></script></div>
+</div>
+</div>
+					 		</div>
+				      					 					 <div class="message"></div>								
+					  						
+ 							<h1>
+DVOA PLAYOFF ODDS REPORT    </h1>
+<div class="content-body">
+    
+<script type="text/javascript">
+  var dateRanges = {"Overall Team Efficiency": {'/stats/teameff': '2013','/stats/teameff2012': '2012','/stats/teameff2011': '2011','/stats/teameff2010': '2010','/stats/teameff2009': '2009','/stats/teameff2008': '2008','/stats/teameff2007': '2007','/stats/teameff2006': '2006','/stats/teameff2005': '2005','/stats/teameff2004': '2004','/stats/teameff2003': '2003','/stats/teameff2002': '2002','/stats/teameff2001': '2001','/stats/teameff2000': '2000','/stats/teameff1999': '1999','/stats/teameff1998': '1998','/stats/teameff1997': '1997','/stats/teameff1996': '1996','/stats/teameff1995': '1995','/stats/teameff1994': '1994','/stats/teameff1993': '1993','/stats/teameff1992': '1992','/stats/teameff1991': '1991','/stats/teameff1990': '1990','/stats/teameff1989': '1989'},"Team Offense": {'/stats/teamoff': '2013','/stats/teamoff2012': '2012','/stats/teamoff2011': '2011','/stats/teamoff2010': '2010','/stats/teamoff2009': '2009','/stats/teamoff2008': '2008','/stats/teamoff2007': '2007','/stats/teamoff2006': '2006','/stats/teamoff2005': '2005','/stats/teamoff2004': '2004','/stats/teamoff2003': '2003','/stats/teamoff2002': '2002','/stats/teamoff2001': '2001','/stats/teamoff2000': '2000','/stats/teamoff1999': '1999','/stats/teamoff1998': '1998','/stats/teamoff1997': '1997','/stats/teamoff1996': '1996','/stats/teamoff1995': '1995','/stats/teamoff1994': '1994','/stats/teamoff1993': '1993','/stats/teamoff1992': '1992','/stats/teamoff1991': '1991','/stats/teamoff1990': '1990','/stats/teamoff1989': '1989'},"Team Defense": {'/stats/teamdef': '2013','/stats/teamdef2012': '2012','/stats/teamdef2011': '2011','/stats/teamdef2010': '2010','/stats/teamdef2009': '2009','/stats/teamdef2008': '2008','/stats/teamdef2007': '2007','/stats/teamdef2006': '2006','/stats/teamdef2005': '2005','/stats/teamdef2004': '2004','/stats/teamdef2003': '2003','/stats/teamdef2002': '2002','/stats/teamdef2001': '2001','/stats/teamdef2000': '2000','/stats/teamdef1999': '1999','/stats/teamdef1998': '1998','/stats/teamdef1997': '1997','/stats/teamdef1996': '1996','/stats/teamdef1995': '1995','/stats/teamdef1994': '1994','/stats/teamdef1993': '1993','/stats/teamdef1992': '1992','/stats/teamdef1991': '1991','/stats/teamdef1990': '1990','/statistics/team-defense/1989': '1989'},"Special Teams": {'/stats/teamst': '2013','/stats/teamst2012': '2012','/stats/teamst2011': '2011','/stats/teamst2010': '2010','/stats/teamst2009': '2009','/stats/teamst2008': '2008','/stats/teamst2007': '2007','/stats/teamst2006': '2006','/stats/teamst2005': '2005','/stats/teamst2004': '2004','/stats/teamst2003': '2003','/stats/teamst2002': '2002','/stats/teamst2001': '2001','/stats/teamst2000': '2000','/stats/teamst1999': '1999','/stats/teamst1998': '1998','/stats/teamst1997': '1997','/stats/teamst1996': '1996','/stats/teamst1995': '1995','/stats/teamst1994': '1994','/stats/teamst1993': '1993','/stats/teamst1992': '1992','/stats/teamst1991': '1991','/stats/teamst1990': '1990','/stats/teamst1989': '1989'},"Quarterbacks": {'/stats/qb': '2013','/stats/qb2012': '2012','/stats/qb2011': '2011','/stats/qb2010': '2010','/stats/qb2009': '2009','/stats/qb2008': '2008','/stats/qb2007': '2007','/stats/qb2006': '2006','/stats/qb2005': '2005','/stats/qb2004': '2004','/stats/qb2003': '2003','/stats/qb2002': '2002','/stats/qb2001': '2001','/stats/qb2000': '2000','/stats/qb1999': '1999','/stats/qb1998': '1998','/stats/qb1997': '1997','/stats/qb1996': '1996','/stats/qb1995': '1995','/stats/qb1994': '1994','/stats/qb1993': '1993','/stats/qb1992': '1992','/stats/qb1991': '1991','/stats/qb1990': '1990','/stats/qb1989': '1989'},"Running Backs": {'/stats/rb': '2013','/stats/rb2012': '2012','/stats/rb2011': '2011','/stats/rb2010': '2010','/stats/rb2009': '2009','/stats/rb2008': '2008','/stats/rb2007': '2007','/stats/rb2006': '2006','/stats/rb2005': '2005','/stats/rb2004': '2004','/stats/rb2003': '2003','/stats/rb2002': '2002','/stats/rb2001': '2001','/stats/rb2000': '2000','/stats/rb1999': '1999','/stats/rb1998': '1998','/stats/rb1997': '1997','/stats/rb1996': '1996','/stats/rb1995': '1995','/stats/rb1994': '1994','/stats/rb1993': '1993','/stats/rb1992': '1992','/stats/rb1991': '1991','/stats/rb1990': '1990','/stats/rb1989': '1989'},"Tight Ends": {'/stats/te': '2013','/stats/te2012': '2012','/stats/te2011': '2011','/stats/te2010': '2010','/stats/te2009': '2009','/stats/te2008': '2008','/stats/te2007': '2007','/stats/te2006': '2006','/stats/te2005': '2005','/stats/te2004': '2004','/stats/te2003': '2003','/stats/te2002': '2002','/stats/te2001': '2001','/stats/te2000': '2000','/stats/te1999': '1999','/stats/te1998': '1998','/stats/te1997': '1997','/stats/te1996': '1996','/stats/te1995': '1995','/stats/te1994': '1994','/stats/te1993': '1993','/stats/te1992': '1992','/stats/te1991': '1991','/stats/te1990': '1990','/stats/te1989': '1989'},"Wide Receivers": {'/stats/wr': '2013','/stats/wr2012': '2012','/stats/wr2011': '2011','/stats/wr2010': '2010','/stats/wr2009': '2009','/stats/wr2008': '2008','/stats/wr2007': '2007','/stats/wr2006': '2006','/stats/wr2005': '2005','/stats/wr2004': '2004','/stats/wr2003': '2003','/stats/wr2002': '2002','/stats/wr2001': '2001','/stats/wr2000': '2000','/stats/wr1999': '1999','/stats/wr1998': '1998','/stats/wr1997': '1997','/stats/wr1996': '1996','/stats/wr1995': '1995','/stats/wr1994': '1994','/stats/wr1993': '1993','/stats/wr1992': '1992','/stats/wr1991': '1991','/stats/wr1990': '1990','/stats/wr1989': '1989'},"Offensive Line": {'/stats/ol': '2013','/stats/ol2012': '2012','/stats/ol2011': '2011','/stats/ol2010': '2010','/stats/ol2009': '2009','/stats/ol2008': '2008','/stats/ol2007': '2007','/stats/ol2006': '2006','/stats/ol2005': '2005','/stats/ol2004': '2004','/stats/ol2003': '2003','/stats/ol2002': '2002','/stats/ol2001': '2001','/stats/ol2000': '2000','/stats/ol1999': '1999','/stats/ol1998': '1998','/stats/ol1997': '1997','/stats/ol1996': '1996'},"Defensive Line": {'/stats/dl': '2013','/stats/dl2012': '2012','/stats/dl2011': '2011','/stats/dl2010': '2010','/stats/dl2009': '2009','/stats/dl2008': '2008','/stats/dl2007': '2007','/stats/dl2006': '2006','/stats/dl2005': '2005','/stats/dl2004': '2004','/stats/dl2003': '2003','/stats/dl2002': '2002','/stats/dl2001': '2001','/stats/dl2000': '2000','/stats/dl1999': '1999','/stats/dl1998': '1998','/stats/dl1997': '1997','/stats/dl1996': '1996'},"NFL Main Drive Stats": {'/stats/drivestats': '2013','/stats/drivestats2012': '2012','/stats/drivestats2011': '2011','/stats/drivestats2010': '2010','/stats/drivestats2009': '2009','/stats/drivestats2008': '2008','/stats/drivestats2007': '2007','/stats/drivestats2006': '2006','/stats/drivestats2005': '2005','/stats/drivestats2004': '2004','/stats/drivestats2003': '2003','/stats/drivestats2002': '2002','/stats/drivestats2001': '2001','/stats/drivestats2000': '2000','/stats/drivestats1999': '1999','/stats/drivestats1998': '1998','/stats/drivestats1997': '1997'},"NFL Offensive Drive Stats": {'/stats/drivestatsoff2013': '2013','/stats/drivestatsoff2012': '2012','/stats/drivestatsoff2011': '2011','/stats/drivestatsoff2010': '2010','/stats/drivestatsoff2009': '2009','/stats/drivestatsoff2008': '2008','/stats/drivestatsoff2007': '2007','/stats/drivestatsoff2006': '2006','/stats/drivestatsoff2005': '2005','/stats/drivestatsoff2004': '2004','/stats/drivestatsoff2003': '2003','/stats/drivestatsoff2002': '2002','/stats/drivestatsoff2001': '2001','/stats/drivestatsoff2000': '2000','/stats/drivestatsoff1999': '1999','/stats/drivestatsoff1998': '1998','/stats/drivestatsoff1997': '1997'},"NFL Defensive Drive Stats": {'/stats/drivestatsdef2013': '2013','/stats/drivestatsdef2012': '2012','/stats/drivestatsdef2011': '2011','/stats/drivestatsdef2010': '2010','/stats/drivestatsdef2009': '2009','/stats/drivestatsdef2008': '2008','/stats/drivestatsdef2007': '2007','/stats/drivestatsdef2006': '2006','/stats/drivestatsdef2005': '2005','/stats/drivestatsdef2004': '2004','/stats/drivestatsdef2003': '2003','/stats/drivestatsdef2002': '2002','/stats/drivestatsdef2001': '2001','/stats/drivestatsdef2000': '2000','/stats/drivestatsdef1999': '1999','/stats/drivestatsdef1998': '1998','/stats/drivestatsdef1997': '1997'},"NFL Pace/Time Stats": {'/stats/pacestats2013': '2013','/stats/pacestats2012': '2012','/stats/pacestats2011': '2011','/stats/pacestats2010': '2010','/stats/pacestats2009': '2009','/stats/pacestats2008': '2008','/stats/pacestats2007': '2007','/stats/pacestats2006': '2006','/stats/pacestats2005': '2005','/stats/pacestats2004': '2004','/stats/pacestats2003': '2003','/stats/pacestats2002': '2002','/stats/pacestats2001': '2001','/stats/pacestats2000': '2000','/stats/pacestats1999': '1999','/stats/pacestats1998': '1998','/stats/pacestats1997': '1997'},"NFL Playoff Odds": {'/stats/playoffodds': '2013'},"NFL Snap Counts": {'/stats/snapcounts': '2013','/stats/snapcounts2012': '2012'},"NCAA: FEI Ratings, Defense": {'/stats/feidef2013': '2013','/stats/feidef2012': '2012','/stats/feidef2011': '2011','/stats/feidef2010': '2010','/stats/feidef2009': '2009','/stats/feidef2008': '2008','/stats/feidef2007': '2007'},"NCAA: FEI Ratings, Offense": {'/stats/feioff2013': '2013','/stats/feioff2012': '2012','/stats/feioff2011': '2011','/stats/feioff2010': '2010','/stats/feioff2009': '2009','/stats/feioff2008': '2008','/stats/feioff2007': '2007'},"NCAA: FEI Ratings, Overall": {'/stats/fei': '2013','/stats/fei2012': '2012','/stats/fei2011': '2011','/stats/fei2010': '2010','/stats/fei2009': '2009','/stats/fei2008': '2008','/stats/fei2007': '2007'},"NCAA: FEI Ratings, Special Teams": {'/stats/feist2013': '2013','/stats/feist2012': '2012','/stats/feist2011': '2011','/stats/feist2010': '2010','/stats/feist2009': '2009','/stats/feist2008': '2008','/stats/feist2007': '2007'},"NCAA: S&P Ratings, Defense": {'/stats/ncaadef': '2013','/stats/ncaadef2012': '2012','/stats/ncaadef2011': '2011','/stats/ncaadef2010': '2010','/stats/ncaadef2009': '2009','/stats/ncaadef2008': '2008','/stats/ncaadef2007': '2007','/stats/ncaadef2006': '2006','/stats/ncaadef2005': '2005'},"NCAA: S&P Ratings, Offense": {'/stats/ncaaoff': '2013','/stats/ncaaoff2012': '2012','/stats/ncaaoff2011': '2011','/stats/ncaaoff2010': '2010','/stats/ncaaoff2009': '2009','/stats/ncaaoff2008': '2008','/stats/ncaaoff2007': '2007','/stats/ncaaoff2006': '2006','/stats/ncaaoff2005': '2005'},"NCAA: S&P Ratings, Overall": {'/stats/ncaa': '2013','/stats/ncaa2012': '2012','/stats/ncaa2011': '2011','/stats/ncaa2010': '2010','/stats/ncaa2009': '2009','/stats/ncaa2008': '2008','/stats/ncaa2007': '2007','/stats/ncaa2006': '2006','/stats/ncaa2005': '2005'},"NCAA: F/+ Combined Ratings": {'/stats/fplus': '2013','/stats/fplus2012': '2012','/stats/fplus2011': '2011','/stats/fplus2010': '2010','/stats/fplus2009': '2009','/stats/fplus2008': '2008','/stats/fplus2007': '2007','/stats/fplus2006': '2006','/stats/fplus2005': '2005'},"NCAA: FEI Field Position": {'/stats/fpa2013': '2013','/stats/fpa2012': '2012','/stats/fpa2011': '2011','/stats/fpa2010': '2010','/stats/fpa2009': '2009','/stats/fpa2008': '2008','/stats/fpa2007': '2007'}};var currTerm = "NFL Playoff Odds";
+$(document).ready(function() {
+  updateDateRange(currTerm);
+});
+
+function changeLoc(href) {
+  if(href != 'select') {
+    document.location.href = href;
+  }
+}
+
+function updateDateRange(position) {
+  if(position == 'pick') return;
+  var options = dateRanges[position];
+  $('#statssel').html('<option value="select">Pick Year</option>');
+  for(var i in options) {
+    $('#statssel').append('<option value="' + i + '">' + options[i] + '</option>');
+  }
+}
+</script>
+<select id="possel" onChange="updateDateRange(this.options[this.selectedIndex].value)"/>
+        <option value="pick">Pick Position</option>
+<option value="Overall Team Efficiency">Overall Team Efficiency</option><option value="Team Offense">Team Offense</option><option value="Team Defense">Team Defense</option><option value="Special Teams">Special Teams</option><option value="Quarterbacks">Quarterbacks</option><option value="Running Backs">Running Backs</option><option value="Tight Ends">Tight Ends</option><option value="Wide Receivers">Wide Receivers</option><option value="Offensive Line">Offensive Line</option><option value="Defensive Line">Defensive Line</option><option value="NFL Main Drive Stats">NFL Main Drive Stats</option><option value="NFL Offensive Drive Stats">NFL Offensive Drive Stats</option><option value="NFL Defensive Drive Stats">NFL Defensive Drive Stats</option><option value="NFL Pace/Time Stats">NFL Pace/Time Stats</option><option value="NFL Playoff Odds" selected="true">NFL Playoff Odds</option><option value="NFL Snap Counts">NFL Snap Counts</option><option value="NCAA: FEI Ratings, Defense">NCAA: FEI Ratings, Defense</option><option value="NCAA: FEI Ratings, Offense">NCAA: FEI Ratings, Offense</option><option value="NCAA: FEI Ratings, Overall">NCAA: FEI Ratings, Overall</option><option value="NCAA: FEI Ratings, Special Teams">NCAA: FEI Ratings, Special Teams</option><option value="NCAA: S&P Ratings, Defense">NCAA: S&P Ratings, Defense</option><option value="NCAA: S&P Ratings, Offense">NCAA: S&P Ratings, Offense</option><option value="NCAA: S&P Ratings, Overall">NCAA: S&P Ratings, Overall</option><option value="NCAA: F/+ Combined Ratings">NCAA: F/+ Combined Ratings</option><option value="NCAA: FEI Field Position">NCAA: FEI Field Position</option><!--        <option value="teameff">Team Efficiency</option>
+        <option value="teamoff">Team Offense</option>
+        <option value="teamdef">Team Defense</option>
+        <option value="qb">Quarterbacks</option>
+        <option value="rb">Running Backs</option>
+        <option value="wr">Wide Receivers</option>
+        <option value="te">Tight Ends</option>
+        <option value="ol">Offensive Line</option>
+        <option value="dl">Defensive Line</option>
+        <option value="teamst">Special Teams</option>
+        <option value="drivestats">Drive Stats</option>-->
+</select>
+<select id="statssel" onChange="changeLoc(this.options[this.selectedIndex].value)">
+  <option value="0">Pick Year</option>
+</select>
+<h2>Revised as of 09/25/13, through Week 3.</h2>
+<h3>Compiled by Mike Harris</h3>
+<p>The playoff odds report plays out the season 50,000 times. A random draw
+assigns each team a win or loss for each game. The probability that a team will
+be given a win is based on an equation which considers the <a href="http://playoffodds.mharrisdev.com/stats/teameff">current DAVE ratings</a> of the two teams as
+well as home-field advantage. (<a href="http://playoffodds.mharrisdev.com/info/glossary#dvoa">DVOA
+ratings are explained here</a>.) <b> Mean Wins</b> is the average number of wins
+for this team over the 50,000 simulations. Odds are given for winning each
+playoff seed, as well as for winning the division (<b>DIV</b>), earning a bye
+week (<b>BYE</b>), or winning a wild card (<b>WC</b>). <b>TOT</b> represents
+odds of making the playoffs in any fashion.</p>
+<h3>AFC East</h3>
+<table class="stats" border="2" cellpadding="3" cellspacing="0"><tbody><tr><th>Team</th><th>Rec</th><th align="right">DAVE</th><th align="right">Mean Wins</th><th align="right">#1</th><th align="right">#2</th><th align="right">#3</th><th align="right">#4</th><th align="right">#5</th><th align="right">#6</th><th align="right">DIV</th><th align="right">BYE</th><th align="right">WC</th><th align="right">TOT</th><th align="right">CHANGE</th></tr>
+<tr><td>NE</td><td>3-0</td><td align="right">19.7%</td><td align="right">10.5</td><td align="right">12.4%</td><td align="right">23.5%</td><td align="right">15.8%</td><td align="right">9.4%</td><td align="right">6.0%</td><td align="right">10.7%</td><td align="right">61.0%</td><td align="right">35.9%</td><td align="right">16.7%</td><td align="right">77.7%</td><td style="color:red" align="right">-6.3%</td></tr>
+<tr><td>MIA</td><td>3-0</td><td align="right">3.0%</td><td align="right">9.2</td><td align="right">3.1%</td><td align="right">9.9%</td><td align="right">6.1%</td><td align="right">3.4%</td><td align="right">8.9%</td><td align="right">16.0%</td><td align="right">22.5%</td><td align="right">13.0%</td><td align="right">25.0%</td><td align="right">47.5%</td><td style="color:green" align="right">0.3%</td></tr>
+<tr><td>NYJ</td><td>2-1</td><td align="right">1.9%</td><td align="right">8.7</td><td align="right">1.2%</td><td align="right">5.5%</td><td align="right">4.7%</td><td align="right">3.1%</td><td align="right">10.3%</td><td align="right">10.3%</td><td align="right">14.4%</td><td align="right">6.7%</td><td align="right">20.6%</td><td align="right">35.0%</td><td style="color:green" align="right">14.7%</td></tr>
+<tr><td>BUF</td><td>1-2</td><td align="right">-8.9%</td><td align="right">6.8</td><td align="right">0.1%</td><td align="right">0.7%</td><td align="right">0.7%</td><td align="right">0.6%</td><td align="right">1.5%</td><td align="right">3.8%</td><td align="right">2.0%</td><td align="right">0.7%</td><td align="right">5.3%</td><td align="right">7.3%</td><td style="color:red" align="right">-13.8%</td></tr>
+</tbody></table>
+<h3>AFC North</h3>
+<table class="stats" border="2" cellpadding="3" cellspacing="0"><tbody><tr><th>Team</th><th>Rec</th><th align="right">DAVE</th><th align="right">Mean Wins</th><th align="right">#1</th><th align="right">#2</th><th align="right">#3</th><th align="right">#4</th><th align="right">#5</th><th align="right">#6</th><th align="right">DIV</th><th align="right">BYE</th><th align="right">WC</th><th align="right">TOT</th><th align="right">CHANGE</th></tr>
+<tr><td>CIN</td><td>2-1</td><td align="right">9.9%</td><td align="right">9.6</td><td align="right">5.0%</td><td align="right">15.0%</td><td align="right">19.2%</td><td align="right">19.9%</td><td align="right">2.7%</td><td align="right">6.2%</td><td align="right">59.0%</td><td align="right">20.0%</td><td align="right">8.9%</td><td align="right">67.9%</td><td style="color:green" align="right">4.1%</td></tr>
+<tr><td>BAL</td><td>2-1</td><td align="right">3.5%</td><td align="right">8.7</td><td align="right">1.1%</td><td align="right">7.7%</td><td align="right">11.5%</td><td align="right">13.3%</td><td align="right">2.9%</td><td align="right">8.3%</td><td align="right">33.6%</td><td align="right">8.8%</td><td align="right">11.2%</td><td align="right">44.8%</td><td style="color:green" align="right">2.1%</td></tr>
+<tr><td>PIT</td><td>0-3</td><td align="right">-5.3%</td><td align="right">6.1</td><td align="right">0.0%</td><td align="right">0.3%</td><td align="right">0.9%</td><td align="right">2.6%</td><td align="right">0.3%</td><td align="right">1.8%</td><td align="right">3.8%</td><td align="right">0.4%</td><td align="right">2.2%</td><td align="right">6.0%</td><td style="color:red" align="right">-9.4%</td></tr>
+<tr><td>CLE</td><td>1-2</td><td align="right">-16.0%</td><td align="right">6.3</td><td align="right">0.0%</td><td align="right">0.2%</td><td align="right">0.9%</td><td align="right">2.5%</td><td align="right">0.4%</td><td align="right">1.2%</td><td align="right">3.5%</td><td align="right">0.2%</td><td align="right">1.6%</td><td align="right">5.1%</td><td style="color:red" align="right">-0.1%</td></tr>
+</tbody></table>
+<h3>AFC South</h3>
+<table class="stats" border="2" cellpadding="3" cellspacing="0"><tbody><tr><th>Team</th><th>Rec</th><th align="right">DAVE</th><th align="right">Mean Wins</th><th align="right">#1</th><th align="right">#2</th><th align="right">#3</th><th align="right">#4</th><th align="right">#5</th><th align="right">#6</th><th align="right">DIV</th><th align="right">BYE</th><th align="right">WC</th><th align="right">TOT</th><th align="right">CHANGE</th></tr>
+<tr><td>IND</td><td>2-1</td><td align="right">6.4%</td><td align="right">9.1</td><td align="right">2.3%</td><td align="right">6.9%</td><td align="right">14.6%</td><td align="right">19.7%</td><td align="right">2.6%</td><td align="right">4.9%</td><td align="right">43.5%</td><td align="right">9.2%</td><td align="right">7.5%</td><td align="right">50.9%</td><td style="color:green" align="right">22.2%</td></tr>
+<tr><td>HOU</td><td>2-1</td><td align="right">0.4%</td><td align="right">9.0</td><td align="right">2.4%</td><td align="right">7.4%</td><td align="right">13.0%</td><td align="right">16.5%</td><td align="right">3.0%</td><td align="right">7.1%</td><td align="right">39.3%</td><td align="right">9.8%</td><td align="right">10.1%</td><td align="right">49.4%</td><td style="color:red" align="right">-25.5%</td></tr>
+<tr><td>TEN</td><td>2-1</td><td align="right">-9.5%</td><td align="right">8.2</td><td align="right">0.5%</td><td align="right">3.0%</td><td align="right">6.4%</td><td align="right">7.4%</td><td align="right">3.0%</td><td align="right">7.1%</td><td align="right">17.2%</td><td align="right">3.5%</td><td align="right">10.1%</td><td align="right">27.3%</td><td style="color:green" align="right">5.2%</td></tr>
+<tr><td>JAC</td><td>0-3</td><td align="right">-52.9%</td><td align="right">3.0</td><td align="right">0.0%</td><td align="right">0.0%</td><td align="right">0.0%</td><td align="right">0.0%</td><td align="right">0.0%</td><td align="right">0.0%</td><td align="right">0.0%</td><td align="right">0.0%</td><td align="right">0.0%</td><td align="right">0.0%</td><td style="color:red" align="right">-1.3%</td></tr>
+</tbody></table>
+<h3>AFC West</h3>
+<table class="stats" border="2" cellpadding="3" cellspacing="0"><tbody><tr><th>Team</th><th>Rec</th><th align="right">DAVE</th><th align="right">Mean Wins</th><th align="right">#1</th><th align="right">#2</th><th align="right">#3</th><th align="right">#4</th><th align="right">#5</th><th align="right">#6</th><th align="right">DIV</th><th align="right">BYE</th><th align="right">WC</th><th align="right">TOT</th><th align="right">CHANGE</th></tr>
+<tr><td>DEN</td><td>3-0</td><td align="right">42.0%</td><td align="right">12.7</td><td align="right">60.6%</td><td align="right">14.5%</td><td align="right">4.4%</td><td align="right">1.1%</td><td align="right">13.8%</td><td align="right">3.3%</td><td align="right">80.6%</td><td align="right">75.1%</td><td align="right">17.2%</td><td align="right">97.7%</td><td style="color:green" align="right">1.6%</td></tr>
+<tr><td>KC</td><td>3-0</td><td align="right">6.4%</td><td align="right">10.6</td><td align="right">11.1%</td><td align="right">5.0%</td><td align="right">1.9%</td><td align="right">0.5%</td><td align="right">41.0%</td><td align="right">13.3%</td><td align="right">18.5%</td><td align="right">16.1%</td><td align="right">54.3%</td><td align="right">72.8%</td><td style="color:green" align="right">21.2%</td></tr>
+<tr><td>SD</td><td>1-2</td><td align="right">-4.0%</td><td align="right">7.3</td><td align="right">0.2%</td><td align="right">0.3%</td><td align="right">0.2%</td><td align="right">0.1%</td><td align="right">3.2%</td><td align="right">5.0%</td><td align="right">0.9%</td><td align="right">0.5%</td><td align="right">8.3%</td><td align="right">9.1%</td><td style="color:red" align="right">-8.7%</td></tr>
+<tr><td>OAK</td><td>1-2</td><td align="right">-24.5%</td><td align="right">5.6</td><td align="right">0.0%</td><td align="right">0.0%</td><td align="right">0.0%</td><td align="right">0.0%</td><td align="right">0.4%</td><td align="right">0.9%</td><td align="right">0.1%</td><td align="right">0.0%</td><td align="right">1.2%</td><td align="right">1.3%</td><td style="color:red" align="right">-6.6%</td></tr>
+</tbody></table>
+
+<h3>NFC East</h3>
+<table class="stats" border="2" cellpadding="3" cellspacing="0"><tbody><tr><th>Team</th><th>Rec</th><th align="right">DAVE</th><th align="right">Mean Wins</th><th align="right">#1</th><th align="right">#2</th><th align="right">#3</th><th align="right">#4</th><th align="right">#5</th><th align="right">#6</th><th align="right">DIV</th><th align="right">BYE</th><th align="right">WC</th><th align="right">TOT</th><th align="right">CHANGE</th></tr>
+<tr><td>PHI</td><td>1-2</td><td align="right">1.9%</td><td align="right">8.1</td><td align="right">0.8%</td><td align="right">4.7%</td><td align="right">10.4%</td><td align="right">30.6%</td><td align="right">2.1%</td><td align="right">5.5%</td><td align="right">46.5%</td><td align="right">5.5%</td><td align="right">7.7%</td><td align="right">54.1%</td><td style="color:red" align="right">-11.1%</td></tr>
+<tr><td>DAL</td><td>2-1</td><td align="right">0.2%</td><td align="right">8.2</td><td align="right">0.8%</td><td align="right">4.3%</td><td align="right">9.9%</td><td align="right">28.7%</td><td align="right">2.1%</td><td align="right">5.1%</td><td align="right">43.8%</td><td align="right">5.1%</td><td align="right">7.2%</td><td align="right">51.0%</td><td style="color:green" align="right">29.0%</td></tr>
+<tr><td>WAS</td><td>0-3</td><td align="right">-8.2%</td><td align="right">6.0</td><td align="right">0.0%</td><td align="right">0.2%</td><td align="right">1.0%</td><td align="right">6.6%</td><td align="right">0.6%</td><td align="right">1.3%</td><td align="right">7.7%</td><td align="right">0.2%</td><td align="right">1.9%</td><td align="right">9.7%</td><td style="color:red" align="right">-16.5%</td></tr>
+<tr><td>NYG</td><td>0-3</td><td align="right">-25.5%</td><td align="right">4.6</td><td align="right">0.0%</td><td align="right">0.0%</td><td align="right">0.1%</td><td align="right">1.9%</td><td align="right">0.1%</td><td align="right">0.3%</td><td align="right">2.0%</td><td align="right">0.0%</td><td align="right">0.4%</td><td align="right">2.4%</td><td style="color:red" align="right">-8.1%</td></tr>
+</tbody></table>
+<h3>NFC North</h3>
+<table class="stats" border="2" cellpadding="3" cellspacing="0"><tbody><tr><th>Team</th><th>Rec</th><th align="right">DAVE</th><th align="right">Mean Wins</th><th align="right">#1</th><th align="right">#2</th><th align="right">#3</th><th align="right">#4</th><th align="right">#5</th><th align="right">#6</th><th align="right">DIV</th><th align="right">BYE</th><th align="right">WC</th><th align="right">TOT</th><th align="right">CHANGE</th></tr>
+<tr><td>CHI</td><td>3-0</td><td align="right">8.5%</td><td align="right">10.4</td><td align="right">7.5%</td><td align="right">24.5%</td><td align="right">13.6%</td><td align="right">4.5%</td><td align="right">19.5%</td><td align="right">9.6%</td><td align="right">50.1%</td><td align="right">31.9%</td><td align="right">29.1%</td><td align="right">79.2%</td><td style="color:green" align="right">17.8%</td></tr>
+<tr><td>GB</td><td>1-2</td><td align="right">20.1%</td><td align="right">9.5</td><td align="right">3.5%</td><td align="right">15.2%</td><td align="right">11.5%</td><td align="right">4.3%</td><td align="right">26.0%</td><td align="right">7.9%</td><td align="right">34.5%</td><td align="right">18.7%</td><td align="right">34.0%</td><td align="right">68.4%</td><td style="color:red" align="right">-13.8%</td></tr>
+<tr><td>DET</td><td>2-1</td><td align="right">0.7%</td><td align="right">8.5</td><td align="right">0.9%</td><td align="right">6.0%</td><td align="right">5.9%</td><td align="right">2.6%</td><td align="right">12.4%</td><td align="right">14.1%</td><td align="right">15.4%</td><td align="right">6.9%</td><td align="right">26.6%</td><td align="right">41.9%</td><td style="color:green" align="right">19.5%</td></tr>
+<tr><td>MIN</td><td>0-3</td><td align="right">-15.5%</td><td align="right">4.6</td><td align="right">0.0%</td><td align="right">0.0%</td><td align="right">0.0%</td><td align="right">0.0%</td><td align="right">0.2%</td><td align="right">0.7%</td><td align="right">0.1%</td><td align="right">0.0%</td><td align="right">1.0%</td><td align="right">1.0%</td><td style="color:red" align="right">-1.1%</td></tr>
+</tbody></table>
+<h3>NFC South</h3>
+<table class="stats" border="2" cellpadding="3" cellspacing="0"><tbody><tr><th>Team</th><th>Rec</th><th align="right">DAVE</th><th align="right">Mean Wins</th><th align="right">#1</th><th align="right">#2</th><th align="right">#3</th><th align="right">#4</th><th align="right">#5</th><th align="right">#6</th><th align="right">DIV</th><th align="right">BYE</th><th align="right">WC</th><th align="right">TOT</th><th align="right">CHANGE</th></tr>
+<tr><td>NO</td><td>3-0</td><td align="right">13.8%</td><td align="right">10.0</td><td align="right">6.3%</td><td align="right">19.7%</td><td align="right">25.1%</td><td align="right">10.3%</td><td align="right">7.9%</td><td align="right">10.1%</td><td align="right">61.3%</td><td align="right">26.0%</td><td align="right">18.0%</td><td align="right">79.3%</td><td style="color:green" align="right">9.9%</td></tr>
+<tr><td>CAR</td><td>1-2</td><td align="right">16.9%</td><td align="right">8.7</td><td align="right">1.0%</td><td align="right">8.3%</td><td align="right">12.2%</td><td align="right">5.7%</td><td align="right">10.3%</td><td align="right">14.7%</td><td align="right">27.2%</td><td align="right">9.2%</td><td align="right">25.0%</td><td align="right">52.1%</td><td style="color:green" align="right">17.5%</td></tr>
+<tr><td>ATL</td><td>1-2</td><td align="right">6.7%</td><td align="right">7.5</td><td align="right">0.4%</td><td align="right">1.8%</td><td align="right">4.0%</td><td align="right">2.7%</td><td align="right">5.7%</td><td align="right">9.5%</td><td align="right">9.0%</td><td align="right">2.3%</td><td align="right">15.2%</td><td align="right">24.2%</td><td style="color:red" align="right">-5.6%</td></tr>
+<tr><td>TB</td><td>0-3</td><td align="right">-0.8%</td><td align="right">6.3</td><td align="right">0.1%</td><td align="right">0.4%</td><td align="right">1.3%</td><td align="right">0.8%</td><td align="right">1.8%</td><td align="right">4.6%</td><td align="right">2.5%</td><td align="right">0.5%</td><td align="right">6.4%</td><td align="right">8.9%</td><td style="color:red" align="right">-6.4%</td></tr>
+</tbody></table>
+<h3>NFC West</h3>
+<table class="stats" border="2" cellpadding="3" cellspacing="0"><tbody><tr><th>Team</th><th>Rec</th><th align="right">DAVE</th><th align="right">Mean Wins</th><th align="right">#1</th><th align="right">#2</th><th align="right">#3</th><th align="right">#4</th><th align="right">#5</th><th align="right">#6</th><th align="right">DIV</th><th align="right">BYE</th><th align="right">WC</th><th align="right">TOT</th><th align="right">CHANGE</th></tr>
+<tr><td>SEA</td><td>3-0</td><td align="right">42.8%</td><td align="right">13.2</td><td align="right">78.5%</td><td align="right">14.6%</td><td align="right">4.8%</td><td align="right">1.1%</td><td align="right">0.5%</td><td align="right">0.3%</td><td align="right">99.0%</td><td align="right">93.2%</td><td align="right">0.7%</td><td align="right">99.7%</td><td style="color:green" align="right">2.1%</td></tr>
+<tr><td>SF</td><td>1-2</td><td align="right">-5.1%</td><td align="right">7.3</td><td align="right">0.2%</td><td align="right">0.2%</td><td align="right">0.2%</td><td align="right">0.1%</td><td align="right">8.3%</td><td align="right">11.6%</td><td align="right">0.8%</td><td align="right">0.5%</td><td align="right">19.9%</td><td align="right">20.6%</td><td style="color:red" align="right">-21.7%</td></tr>
+<tr><td>ARI</td><td>1-2</td><td align="right">-20.1%</td><td align="right">5.8</td><td align="right">0.0%</td><td align="right">0.0%</td><td align="right">0.0%</td><td align="right">0.0%</td><td align="right">1.1%</td><td align="right">2.5%</td><td align="right">0.1%</td><td align="right">0.0%</td><td align="right">3.6%</td><td align="right">3.7%</td><td style="color:red" align="right">-4.0%</td></tr>
+<tr><td>STL</td><td>1-2</td><td align="right">-19.1%</td><td align="right">5.9</td><td align="right">0.0%</td><td align="right">0.0%</td><td align="right">0.1%</td><td align="right">0.0%</td><td align="right">1.3%</td><td align="right">2.2%</td><td align="right">0.2%</td><td align="right">0.1%</td><td align="right">3.5%</td><td align="right">3.6%</td><td style="color:red" align="right">-7.4%</td></tr>
+</tbody></table>
+
+<h3>Playoff Scenarios</h3>
+This report lists the odds of each team
+<ul>
+  <li>Reaching the Conference Championship Game</li>
+  <li>Winning the Conference Championship Game</li>
+  <li>Winning the Super Bowl</li>
+</ul>
+
+<table class="stats" border="2" cellpadding="3" cellspacing="0"><tbody><tr><th>Team</th><th>Conf App</th><th>Conf Win</th><th>SB Win</th><th>16-0</th><th>15-1</th></tr>
+<tr><td class="po::nfc">SEA</td><td class="po::nfc" align="right">70.4%</td><td class="po::nfc" align="right">49.0%</td><td class="po::nfc" align="right">28.7%</td><td class="po::nfc" align="right">3.6%</td><td class="po::nfc" align="right">14.1%</td></tr>
+<tr><td class="po::afc">DEN</td><td class="po::afc" align="right">64.5%</td><td class="po::afc" align="right">44.7%</td><td class="po::afc" align="right">27.3%</td><td class="po::afc" align="right">1.9%</td><td class="po::afc" align="right">8.9%</td></tr>
+<tr><td class="po::afc">NE</td><td class="po::afc" align="right">34.7%</td><td class="po::afc" align="right">16.9%</td><td class="po::afc" align="right">7.7%</td><td class="po::afc" align="right"></td><td class="po::afc" align="right">0.6%</td></tr>
+<tr><td class="po::nfc">NO</td><td class="po::nfc" align="right">28.2%</td><td class="po::nfc" align="right">11.9%</td><td class="po::nfc" align="right">5.4%</td><td class="po::nfc" align="right"></td><td class="po::nfc" align="right">0.2%</td></tr>
+<tr><td class="po::nfc">GB</td><td class="po::nfc" align="right">22.8%</td><td class="po::nfc" align="right">10.1%</td><td class="po::nfc" align="right">5.0%</td><td class="po::nfc" align="right"></td><td class="po::nfc" align="right"></td></tr>
+<tr><td class="po::nfc">CHI</td><td class="po::nfc" align="right">28.6%</td><td class="po::nfc" align="right">11.1%</td><td class="po::nfc" align="right">4.6%</td><td class="po::nfc" align="right"></td><td class="po::nfc" align="right">0.5%</td></tr>
+<tr><td class="po::afc">CIN</td><td class="po::afc" align="right">22.4%</td><td class="po::afc" align="right">9.0%</td><td class="po::afc" align="right">3.7%</td><td class="po::afc" align="right"></td><td class="po::afc" align="right"></td></tr>
+<tr><td class="po::nfc">CAR</td><td class="po::nfc" align="right">14.6%</td><td class="po::nfc" align="right">6.2%</td><td class="po::nfc" align="right">3.0%</td><td class="po::nfc" align="right"></td><td class="po::nfc" align="right"></td></tr>
+<tr><td class="po::afc">KC</td><td class="po::afc" align="right">16.5%</td><td class="po::afc" align="right">7.5%</td><td class="po::afc" align="right">2.8%</td><td class="po::afc" align="right"></td><td class="po::afc" align="right">0.6%</td></tr>
+<tr><td class="po::afc">IND</td><td class="po::afc" align="right">12.9%</td><td class="po::afc" align="right">5.0%</td><td class="po::afc" align="right">1.8%</td><td class="po::afc" align="right"></td><td class="po::afc" align="right"></td></tr>
+<tr><td class="po::afc">MIA</td><td class="po::afc" align="right">12.7%</td><td class="po::afc" align="right">4.6%</td><td class="po::afc" align="right">1.6%</td><td class="po::afc" align="right"></td><td class="po::afc" align="right"></td></tr>
+<tr><td class="po::afc">BAL</td><td class="po::afc" align="right">10.8%</td><td class="po::afc" align="right">3.9%</td><td class="po::afc" align="right">1.4%</td><td class="po::afc" align="right"></td><td class="po::afc" align="right"></td></tr>
+<tr><td class="po::afc">HOU</td><td class="po::afc" align="right">11.3%</td><td class="po::afc" align="right">3.9%</td><td class="po::afc" align="right">1.3%</td><td class="po::afc" align="right"></td><td class="po::afc" align="right"></td></tr>
+<tr><td class="po::nfc">PHI</td><td class="po::nfc" align="right">10.0%</td><td class="po::nfc" align="right">3.3%</td><td class="po::nfc" align="right">1.3%</td><td class="po::nfc" align="right"></td><td class="po::nfc" align="right"></td></tr>
+<tr><td class="po::nfc">DAL</td><td class="po::nfc" align="right">9.2%</td><td class="po::nfc" align="right">3.1%</td><td class="po::nfc" align="right">1.1%</td><td class="po::nfc" align="right"></td><td class="po::nfc" align="right"></td></tr>
+<tr><td class="po::afc">NYJ</td><td class="po::afc" align="right">7.5%</td><td class="po::afc" align="right">2.6%</td><td class="po::afc" align="right">0.9%</td><td class="po::afc" align="right"></td><td class="po::afc" align="right"></td></tr>
+<tr><td class="po::nfc">DET</td><td class="po::nfc" align="right">7.9%</td><td class="po::nfc" align="right">2.6%</td><td class="po::nfc" align="right">0.9%</td><td class="po::nfc" align="right"></td><td class="po::nfc" align="right"></td></tr>
+<tr><td class="po::nfc">ATL</td><td class="po::nfc" align="right">4.3%</td><td class="po::nfc" align="right">1.5%</td><td class="po::nfc" align="right">0.7%</td><td class="po::nfc" align="right"></td><td class="po::nfc" align="right"></td></tr>
+<tr><td class="po::afc">TEN</td><td class="po::afc" align="right">3.7%</td><td class="po::afc" align="right">1.0%</td><td class="po::afc" align="right">0.3%</td><td class="po::afc" align="right"></td><td class="po::afc" align="right"></td></tr>
+<tr><td class="po::nfc">SF</td><td class="po::nfc" align="right">1.6%</td><td class="po::nfc" align="right">0.5%</td><td class="po::nfc" align="right">0.1%</td><td class="po::nfc" align="right"></td><td class="po::nfc" align="right"></td></tr>
+<tr><td class="po::nfc">TB</td><td class="po::nfc" align="right">1.1%</td><td class="po::nfc" align="right">0.3%</td><td class="po::nfc" align="right">0.1%</td><td class="po::nfc" align="right"></td><td class="po::nfc" align="right"></td></tr>
+<tr><td class="po::afc">SD</td><td class="po::afc" align="right">1.0%</td><td class="po::afc" align="right">0.3%</td><td class="po::afc" align="right">0.1%</td><td class="po::afc" align="right"></td><td class="po::afc" align="right"></td></tr>
+<tr><td class="po::nfc">WAS</td><td class="po::nfc" align="right">0.9%</td><td class="po::nfc" align="right">0.3%</td><td class="po::nfc" align="right">0.1%</td><td class="po::nfc" align="right"></td><td class="po::nfc" align="right"></td></tr>
+<tr><td class="po::afc">PIT</td><td class="po::afc" align="right">0.7%</td><td class="po::afc" align="right">0.2%</td><td class="po::afc" align="right">0.1%</td><td class="po::afc" align="right"></td><td class="po::afc" align="right"></td></tr>
+<tr><td class="po::afc">BUF</td><td class="po::afc" align="right">0.9%</td><td class="po::afc" align="right">0.2%</td><td class="po::afc" align="right">0.1%</td><td class="po::afc" align="right"></td><td class="po::afc" align="right"></td></tr>
+<tr><td class="po::afc">CLE</td><td class="po::afc" align="right">0.4%</td><td class="po::afc" align="right">0.1%</td><td class="po::afc" align="right">0.0%</td><td class="po::afc" align="right"></td><td class="po::afc" align="right"></td></tr>
+<tr><td class="po::nfc">ARI</td><td class="po::nfc" align="right">0.1%</td><td class="po::nfc" align="right">0.0%</td><td class="po::nfc" align="right">0.0%</td><td class="po::nfc" align="right"></td><td class="po::nfc" align="right"></td></tr>
+<tr><td class="po::nfc">STL</td><td class="po::nfc" align="right">0.1%</td><td class="po::nfc" align="right">0.0%</td><td class="po::nfc" align="right">0.0%</td><td class="po::nfc" align="right"></td><td class="po::nfc" align="right"></td></tr>
+<tr><td class="po::nfc">NYG</td><td class="po::nfc" align="right">0.1%</td><td class="po::nfc" align="right">0.0%</td><td class="po::nfc" align="right">0.0%</td><td class="po::nfc" align="right"></td><td class="po::nfc" align="right"></td></tr></tbody></table>
+
+<br>
+<h3>ON THE CLOCK</h3>
+This report lists the odds of each team earning the first overall
+draft pick in the 2014 NFL Draft.
+<br><br>
+<table class="stats" border="2" cellpadding="3" cellspacing="0"><tbody><tr><th>Team</th><th>#1 Pick</th><th>Top 3 Pick</th><th>0-16</th><th>1-15</th></tr>
+<tr>
+<td>JAC</td>
+<td align="right">49.0%</td><td align="right">80.4%</td><td align="right">2.5%</td><td align="right">11.5%</td>
+</tr>
+<tr>
+<td>NYG</td>
+<td align="right">13.1%</td><td align="right">42.6%</td><td align="right">0.2%</td><td align="right">2.0%</td>
+</tr>
+<tr>
+<td>MIN</td>
+<td align="right">13.0%</td><td align="right">41.9%</td><td align="right">0.2%</td><td align="right">1.9%</td>
+</tr>
+<tr>
+<td>OAK</td>
+<td align="right">4.2%</td><td align="right">20.7%</td><td align="right"></td><td align="right">0.3%</td>
+</tr>
+<tr>
+<td>ARI</td>
+<td align="right">3.7%</td><td align="right">17.4%</td><td align="right"></td><td align="right">0.2%</td>
+</tr>
+<tr>
+<td>WAS</td>
+<td align="right">3.4%</td><td align="right">16.1%</td><td align="right"></td><td align="right">0.2%</td>
+</tr>
+<tr>
+<td>PIT</td>
+<td align="right">2.9%</td><td align="right">14.4%</td><td align="right"></td><td align="right">0.2%</td>
+</tr>
+<tr>
+<td>STL</td>
+<td align="right">2.9%</td><td align="right">15.7%</td><td align="right"></td><td align="right">0.1%</td>
+</tr>
+<tr>
+<td>TB</td>
+<td align="right">2.3%</td><td align="right">12.5%</td><td align="right"></td><td align="right">0.2%</td>
+</tr>
+<tr>
+<td>CLE</td>
+<td align="right">1.7%</td><td align="right">10.1%</td><td align="right"></td><td align="right"></td>
+</tr>
+<tr>
+<td>BUF</td>
+<td align="right">1.3%</td><td align="right">7.3%</td><td align="right"></td><td align="right"></td>
+</tr>
+<tr>
+<td>SF</td>
+<td align="right">0.8%</td><td align="right">4.5%</td><td align="right"></td><td align="right"></td>
+</tr>
+<tr>
+<td>SD</td>
+<td align="right">0.7%</td><td align="right">4.1%</td><td align="right"></td><td align="right"></td>
+</tr>
+<tr>
+<td>ATL</td>
+<td align="right">0.4%</td><td align="right">3.4%</td><td align="right"></td><td align="right"></td>
+</tr>
+<tr>
+<td>PHI</td>
+<td align="right">0.2%</td><td align="right">1.6%</td><td align="right"></td><td align="right"></td>
+</tr>
+<tr>
+<td>DAL</td>
+<td align="right">0.1%</td><td align="right">1.4%</td><td align="right"></td><td align="right"></td>
+</tr>
+<tr>
+<td>DET</td>
+<td align="right">0.1%</td><td align="right">0.9%</td><td align="right"></td><td align="right"></td>
+</tr>
+<tr>
+<td>TEN</td>
+<td align="right">0.1%</td><td align="right">1.1%</td><td align="right"></td><td align="right"></td>
+</tr>
+<tr>
+<td>NYJ</td>
+<td align="right">0.1%</td><td align="right">1.1%</td><td align="right"></td><td align="right"></td>
+</tr>
+<tr>
+<td>CAR</td>
+<td align="right">0.1%</td><td align="right">0.7%</td><td align="right"></td><td align="right"></td>
+</tr>
+<tr>
+<td>IND</td>
+<td align="right">0.0%</td><td align="right">0.5%</td><td align="right"></td><td align="right"></td>
+</tr>
+<tr>
+<td>BAL</td>
+<td align="right">0.0%</td><td align="right">0.6%</td><td align="right"></td><td align="right"></td>
+</tr>
+<tr>
+<td>GB</td>
+<td align="right">0.0%</td><td align="right">0.4%</td><td align="right"></td><td align="right"></td>
+</tr>
+<tr>
+<td>HOU</td>
+<td align="right">0.0%</td><td align="right">0.3%</td><td align="right"></td><td align="right"></td>
+</tr>
+<tr>
+<td>CIN</td>
+<td align="right">0.0%</td><td align="right">0.1%</td><td align="right"></td><td align="right"></td>
+</tr>
+<tr>
+<td>NO</td>
+<td align="right">0.0%</td><td align="right">0.1%</td><td align="right"></td><td align="right"></td>
+</tr>
+<tr>
+<td>MIA</td>
+<td align="right">0.0%</td><td align="right">0.2%</td><td align="right"></td><td align="right"></td>
+</tr></tbody></table>
+
+<br>
+<h3>Special Super Bowl Matchups</h3>
+This report lists the odds of several "special" super bowl matchups.
+<br><br>
+<table class="stats" border="2" cellpadding="3" cellspacing="0"><tbody><tr><th>Matchup</th><th>Chance</th></tr>
+<tr><td>Pete Carroll Reunion Special I (NE-SEA)</td><td>8.1%</td></tr>
+<tr><td>Jay Cutler Reunion Special (DEN-CHI)</td><td>4.8%</td></tr>
+<tr><td>Super Bowl XXXII rematch (DEN-GB)</td><td>4.6%</td></tr>
+<tr><td>Super Bowl XX rematch (NE-CHI)</td><td>1.9%</td></tr>
+<tr><td>Super Bowl XXXI rematch (NE-GB)</td><td>1.8%</td></tr>
+<tr><td>Super Bowl XII rematch (DEN-DAL)</td><td>1.4%</td></tr>
+<tr><td>Pete Carroll Reunion Special II (NYJ-SEA)</td><td>1.3%</td></tr>
+<tr><td>Super Bowl XXXVIII rematch (NE-CAR)</td><td>1.0%</td></tr>
+<tr><td>Super Bowl I rematch (KC-GB)</td><td>0.7%</td></tr>
+<tr><td>Super Bowl XXXIII rematch (DEN-ATL)</td><td>0.7%</td></tr>
+<tr><td>Super Bowl XXXIX rematch (NE-PHI)</td><td>0.6%</td></tr>
+<tr><td>Super Bowl XLI rematch (IND-CHI)</td><td>0.6%</td></tr>
+<tr><td>Super Bowl XLIV rematch (IND-NO)</td><td>0.6%</td></tr>
+<tr><td>Ryan Bowl (NYJ-NO)</td><td>0.3%</td></tr>
+<tr><td>Andy Reid Reunion Special (KC-PHI)</td><td>0.3%</td></tr>
+<tr><td>Super Bowl XXIV rematch (DEN-SF)</td><td>0.2%</td></tr>
+<tr><td>Tony Gonzalez Reunion Special (KC-ATL)</td><td>0.1%</td></tr>
+<tr><td>Flacco Bowl (BAL-PHI)</td><td>0.1%</td></tr>
+<tr><td>Shanahan's Revenge (DEN-WAS)</td><td>0.1%</td></tr>
+<tr><td>Super Bowl XL rematch (PIT-SEA)</td><td>0.1%</td></tr>
+<tr><td>Texas Bowl (HOU-DAL)</td><td>0.1%</td></tr>
+<tr><td>Super Bowl VI rematch (MIA-DAL)</td><td>0.1%</td></tr>
+</tbody></table>
+
+</div>
+
+				</div>
+				
+				<!-------------------- RIGHT COLUMN ----------------->
+									<!-------------------- END RIGHT COLUMN ----------------->
+
+				<div class="clear"></div>
+						 
+
+			</div>
+		</div>
+		<div id="content_bottom"></div>
+	</div>
+	
+	<div id="footer">
+    <h4>FOOTBALL OUTSIDERS</h4>
+    <div class="footbox_first">
+      <h5>Innovative Statistics</h5>
+      <ul>
+        <li><a href="/stats/teameff">Team Efficiency</a></li>
+		<li><a href="/stats/teamoff">Team Offense</a></li>
+		<li><a href="/stats/teamdef">Team Defense</a></li>
+		<li><a href="/stats/qb">Quarterbacks</a></li>
+		<li><a href="/stats/rb">Running Backs</a></li>
+		<li><a href="/stats/wr">Wide Receivers</a></li>
+		<li><a href="/stats/te">Tight Ends</a></li>
+		<li><a href="/stats/ol">Offensive Lines</a></li>
+		<li><a href="/stats/dl">Defensive Lines</a></li>
+		<li><a href="/stats/teamst">Special Teams</a></li>
+		<li><a href="/stats/drivestats">Drive Stats</a></li>
+		<li><a href="/stats/playoffodds">Playoff Odds</a></li>
+		<li><a href="/stats/snapcounts">Snap Counts</a></li>
+		<li><a href="/stats/fei">NCAA: FEI Ratings</a></li>
+		<li><a href="/stats/feiplus">NCAA: F/+ Combined Ratings</a></li>
+		<li><a href="/stats/ncaa">NCAA: S&P Ratings Overall</a></li>
+		<li><a href="/stats/ncaaoff">NCAA: S&P Ratings Offense</a></li>
+		<li><a href="/stats/ncaadef">NCAA: S&P Ratings Defense</a></li>
+		<li class="last"><a href="/premium/index.php">Premium DVOA Database</a></li>
+      </ul>
+    </div>
+    <div class="footbox">
+      <h5>Intelligent Analysis</h5>
+      <ul>
+        <li><a href="/archives">Complete Archives</a></li>
+		<li><a href="/any-given-sunday">Any Given Sunday</a></li>
+		<li><a href="/audibles">Audibles at the Line</a></li>
+		<li><a href="/dvoa-ratings">DVOA Rankings &amp; Analysis</a></li>
+		<li><a href="/filmroom">Film Room</a></li>
+		<li><a href="/four-downs">Four Downs</a></li>
+		<li><a href="/fei-ratings">Fremeau Efficiency Ratings</a></li>
+		<li><a href="/futures">Futures</a></li>
+		<li><a href="/one-foot-inbounds">One Foot Inbounds</a></li>
+		<li><a href="/quick-reads">Quick Reads</a></li>
+		<li><a href="/scramble">Scramble for the Ball</a></li>
+		<li><a href="/7th-day-adventure">Seventh Day Adventure</a></li>
+		<li><a href="/stat-analysis">Stat Analysis</a></li>
+		<li><a href="/strategy-minicamps">Strategy Minicamps</a></li>
+		<li><a href="/under-pressure">Under Pressure</a></li>
+		<li><a href="/varsity-numbers">Varsity Numbers</a></li>
+		<li><a href="/walkthrough">Walkthrough</a></li>
+		<li><a href="/week-quotes">The Week In Quotes</a></li>
+		<li class="last"><a href="/word-muth">Word Of Muth</a></li>
+      </ul>
+    </div>
+    <div class="footbox">
+      <h5>Interesting Information</h5>
+      <ul>
+		<li><a href="/extra-points">Extra Points</a></li>	
+		<li><a href="/fo-espn">FO on ESPN</a></li>
+		<li><a href="/discussion">Open Game Discussion</a></li>
+		<li><a href="/info/methods">New Stats Explained</a></li>
+		<li><a href="/info/FAQ">FO FAQ</a></li>
+		<li><a href="/info/FO-basics">FO Basics</a></li>
+		<li><a href="/info/meet">Meet the Outsiders</a></li>
+		<!--<li><a href="/info/links">Links</a></li>-->
+		<li><a href="/store">FO Online Store</a></li>
+		<li><a href="/info/help">Help</a></li>
+		<li><a href="/loser/rules">Loser League</a></li>
+		<li><a href="/awards">FO Annual Awards</a></li>
+		<li><a href="/info/advertise">Advertise on FO</a></li>
+		<li class="last"><a href="http://www.cafepress.com/outsidershop" target="_blank">Buy FO Stuff</a></li>
+        </ul>
+      </div>
+      <div class="clear"></div>
+      <p>&copy; Football Outsiders, Inc. <span>//</span> site design by <a href="http://www.bcomplexcreative.com/" target="_blank">B:COMPLEX Creative</a> :: site architecture by <a href="http://www.grossmontdesigns.com/" target="_blank">Grossmont Designs</a><span> //</span> Partner of USA TODAY Sports Digital Properties
+</p>
+    </div>	
+</div> <!-- end wrapper -->
+      <script type="text/javascript" src="/files/googleanalytics/ga.js"></script>
+<script type="text/javascript" src="/sites/all/modules/google_analytics/googleanalytics.js"></script>
+<script type="text/javascript">var pageTracker = _gat._getTracker("UA-5013951-1");pageTracker._initData();pageTracker._trackPageview();</script>
+      
+ <!-- start Vibrant Media IntelliTXT script section -->
+<script type="text/javascript" src="http://footballoutsiders.us.intellitxt.com/intellitxt/front.asp?ipid=7678"></script>
+<!-- end Vibrant Media IntelliTXT script section -->  
+      
+      
+</body>
+</html>

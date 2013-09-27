@@ -1,0 +1,579 @@
+<!DOCTYPE html>
+<!--[if !IE]><!-->
+<html lang="en-US">
+<!--<![endif]-->
+<!--[if IE 6 ]><html lang="en-US" class="ie ie6"><![endif]-->
+<!--[if IE 7 ]><html lang="en-US" class="ie ie7"><![endif]-->
+<!--[if IE 8 ]><html lang="en-US" class="ie ie8"><![endif]-->
+<head>
+	<base href="http://www.gojumpon.com/"><!--[if lte IE 6]></base><![endif]-->
+	<title>Flight Deals &raquo; Jump On!</title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=1100">
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<meta property="og:url" content="http://www.gojumpon.com/" />
+	<meta property="fb:app_id" content="426547957436247" />	
+	<meta property="og:image" content="http://www.gojumpon.com/jumpsite/images/jumpon.png" />
+	<meta property="og:title" content="Jump On!! The More the Merrier"/>
+	<meta property="og:description" content="Jump On provides weekend travellers Direct Flights at Peak Times for One Low Fare."/>
+	<meta name="generator" content="SilverStripe - http://silverstripe.org" />
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+
+	<!--[if lt IE 9]>
+	<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+	
+	
+	
+	
+	
+	
+  
+  
+	<link rel="shortcut icon" href="/favicon.ico" />
+	
+<link rel="stylesheet" type="text/css" href="/themes/jump/css/reset.css?m=1377720172" />
+<link rel="stylesheet" type="text/css" href="/themes/jump/css/typography.css?m=1362179965" />
+<link rel="stylesheet" type="text/css" href="/themes/jump/css/form.css?m=1370876710" />
+<link rel="stylesheet" type="text/css" href="/themes/jump/css/layout.css?m=1376411467" />
+<link rel="stylesheet" type="text/css" href="/themes/jump/css/navigation.css?m=1371748632" />
+<link rel="stylesheet" type="text/css" href="/themes/jump/css/jcarousel.css?m=1378727466" />
+<link rel="stylesheet" type="text/css" href="/themes/jump/css/powertip.css?m=1371748631" />
+</head>
+<body class="HomePage">
+  <div id="fb-root"></div>
+  <script>(function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=426547957436247";
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));</script>
+<header class="header typography" role="banner">
+	<div class="inner clear">
+		<div class="left">
+			<a href="http://www.gojumpon.com/" class="logo" rel="home">
+				<h1>Jump On!</h1>
+			</a>
+		</div>
+		<div class="right">
+			<div class="jump-box">
+				
+				
+				<span class="get-email-blue-button" style="margin-right: 13px;">
+					<a href="/members/subscribe" title="Subscribe to Cheap Flight Notices" class="button blue shadow">Get Deals by Email</a>
+				</span>
+				<span class="join">
+					Got a Jump Code? -&gt;
+					<a href="/members/join" title="Join Our Flight Deal Community" class="button green shadow">Join Now</a>
+					<a href="/Security/login?BackURL=%2Fmembers%2F" title="Login for Flight Info" class="button green shadow">Login</a>
+					
+				</span>
+				
+				
+			</div>
+			<ul class="menu clear">
+				      
+					<li class="current">
+						<a href="/" title="Flight Deals">Featured Flights</a>
+					</li>
+				      
+					<li class="link">
+						<a href="/flights/" title="All Flights">All Flights</a>
+					</li>
+				      
+					<li class="link">
+						<a href="/about/" title="About Jump On">About Jump On</a>
+					</li>
+				      
+					<li class="link">
+						<a href="/members/" title="My Jumps">My Jumps</a>
+					</li>
+				
+			</ul>
+		</div>
+	</div>
+</header>
+<div class="main typography" role="main">
+	<div class="content-layer red">
+    <div class="clouds">
+        <div class="inner clear">
+            
+            
+            <div id="more-fly-from-wrapper">
+                <div id="more-fly-from-inner">
+                    <div class="more-fly-from-label">Flying From: <span>Calgary</span></div>
+                    
+                </div>
+            </div>
+
+            <h1>Vancouver</h1>
+            <div class="left">
+                <div id="flight-action">
+                    
+                    <a href="/booking/9" data-target="flight-price-more-9" title="Book a Cheap Flight: Vancouver" class="badge price return"><span>$289.99</span></a>
+                    <a href="/booking/9" title="Book a Cheap Flight: Vancouver"class="button green shadow">Book It</a>
+                    
+                </div>
+                
+                <div id="flight-price">
+                    
+                    <a class="price-over" id="price-over" data-target="flight-price-more-" href="/#">operated by ENERJET including $78.05 taxes, fees and charges</a>
+                    <div id="flight-price-more-9" style="display:none" class="flight-price-more shadow clearfix">
+                        <a class="btn-close" href="/#">Close</a>
+                        <h2>Economy Return Fare</h2>
+                        <table>
+                             <tr>
+                                 <th colspan="2">Air transportation charges</th>
+                             </tr>
+                             <tr>
+                                 <td>Base return fare</td>
+                                 <td class="text-right">$175.94</td>
+                             </tr>
+                             <tr>
+                                 <td>Air transportation charges</td>
+                                 <td class="text-right">$36.00</td>
+                             </tr>
+                             <tr>
+                                 <th colspan="2">Taxes, fees and charges</th>
+                             </tr>
+                             
+                             
+                             
+                             
+                             <tr>
+                                 <td>Cdn airport improvement fees</td>
+                                 <td class="text-right">$50.00</td>
+                             </tr>
+                             
+                             
+                             
+                             <tr>
+                                 <td>Cdn air travellers security charge</td>
+                                 <td class="text-right">$14.24</td>
+                             </tr>
+                             
+                             
+                             
+                             <tr>
+                                 <td>GST</td>
+                                 <td class="text-right">$13.81</td>
+                             </tr>
+                             <tr>
+                                 <td>Total (CAD)</td>
+                                 <td class="text-right">$289.99</td>
+                             </tr>
+                         </table>
+                         <div style="margin-top: 10px;"><a href="/optional-services">Optional Services</a></div>
+                     </div> <!-- flight-price-more -->
+                     
+                 </div> <!-- flight-price -->
+                 <div id="flight-leaves"><span>Leaves</span> Fri Oct.04 @ 5:00 PM</div>
+                 
+                 <div id="flight-returns"><span>Returns</span> Sun Oct.06 @ 6:00 PM</div>
+                 
+                 
+                 <div id="flight-total">
+                     <div id="flight-total-seat"><span>Total Seats</span> 149</div>
+                     <div id="flight-total-jump-point"><span>Jumping Point</span> 120</div>
+                 </div>
+        
+				<div id="flight-status">
+                    <span>Flight Status </span>
+                    
+                    <div id="flight-remaining-seats" style="font-size:35px;"><b>70</b> <span>SEATS LEFT</span></div>
+                    <div class="progress-details">
+                        <div class="progress-bar">
+                            <div class="progress-indicator progress-group" data-percent="0" style="width: 80.536912751678%;"></div>
+                            <div class="progress-indicator" data-percent="0" style="width: 53.020134228188%;"></div>
+                        </div> <!-- progress-bar -->
+                    </div> <!-- progress-details -->
+                    <div class="numbers">
+                        <strong>79</strong> Booked so far - <strong>41</strong> Needed to go
+                    </div>
+                    
+                </div> <!-- flight-status -->
+                <div id="flight-closes">
+                    <span>Offer Closes</span> <em class="icon"></em>
+                    <div id="Countdown" data-closes="2013-09-30 17:00:00">Mon, September 30 @ 5:00 PM</div>
+                </div>
+             <!-- remaining seats -->
+            <a href="/flights/vancouver-2/" class="button green noborder shadow small">Details</a>
+      </div> <!-- left -->
+      <div class="right">
+          <div id="mainCarousel" class="jcarousel">
+              <ul>
+                  
+                  
+                  <li>
+                      <a href="/flights/vancouver-2/"><img src="/assets/Uploads/VAN-1-501.jpg" alt="VAN 1 501" /></a>
+                  </li>
+                  
+                  <li>
+                      <a href="/flights/vancouver-2/"><img src="/assets/Uploads/VAN-2-2.jpg" alt="VAN 2 2" /></a>
+                  </li>
+                  
+                  <li>
+                      <a href="/flights/vancouver-2/"><img src="/assets/Uploads/VAN-3-2.jpg" alt="VAN 3 2" /></a>
+                  </li>
+                  
+                  <li>
+                      <a href="/flights/vancouver-2/"><img src="/assets/Uploads/VAN-5-2.jpg" alt="VAN 5 2" /></a>
+                  </li>
+                  
+              </ul>
+          </div> <!-- carousel-end -->
+          <div id="flight-share">
+              <span>WANT THIS JUMP TO GO? PLEASE SHARE THIS FLIGHT TO ALL YOUR FRIENDS</span>
+              <div class="social-share" data-title="Jump On!! The More the Merrier." data-description="Jump On provides weekend travellers Direct Flights at Peak Times for One Low Fare." data-shareUrl="http://www.gojumpon.com/flights/vancouver-2/">
+                  <a class="social-button twitter" title="Share on Twitter"></a>
+                  <a class="social-button facebook" title="Share on Facebook"></a>
+				  <a class="social-button linkedin" title="Share on LinkedIn"></a>
+                  <a class="social-button gplus" title="Share on Google+"></a>
+              </div>
+          </div><!-- flight-share-end -->
+      </div> <!-- right-end -->
+      
+       <!-- End Feature Flight Control -->
+       <!-- end if feature flight -->
+      
+      
+        <div class="clear"></div>
+        <hr>
+        
+        <div id="more-fly-from-wrapper">
+            <div id="more-fly-from-inner">
+                <div class="more-fly-from-label">Flying From: <span>Calgary</span></div>
+                
+            </div>
+        </div>
+        
+        <h1>Las Vegas</h1>
+        <div class="left">
+            <div id="flight-action">
+            
+            <a href="/booking/10" data-target="flight-price-more-10" title="Book a Cheap Flight: Las Vegas" class="badge price return"><span>$479.97</span></a>
+  					<a href="/booking/10" title="Book a Cheap Flight: Las Vegas"class="button green shadow">Book It</a>
+            
+  				</div>
+                <div id="flight-price">
+                    
+                    <a class="price-over" id="price-over" data-target="flight-price-more-" href="/#">operated by ENERJET including $126.17 taxes, fees and charges</a>
+        			<div id="flight-price-more-10" style="display:none" class="flight-price-more shadow clearfix">
+                        <a class="btn-close" href="/#">Close</a>
+                        <h2>Economy Return Fare</h2>
+                        <table>
+                            <tr>
+                                <th colspan="2">Air transportation charges</th>
+                            </tr>
+                            <tr>
+                                <td>Base return fare</td>
+                                <td class="text-right">$338.80</td>
+                            </tr>
+                            <tr>
+                                <td>Air transportation charges</td>
+                                <td class="text-right">$15.00</td>
+                            </tr>
+                            <tr>
+                                <th colspan="2">Taxes, fees and charges</th>
+                            </tr>
+                            
+                            
+                            
+                            
+                            <tr>
+                                <td>Cdn airport improvement fees</td>
+                                <td class="text-right">$30.00</td>
+                            </tr>
+                            
+                            
+                            
+                            <tr>
+                                <td>Cdn air travellers security charge</td>
+                                <td class="text-right">$12.10</td>
+                            </tr>
+                            
+                            
+                            
+                            <tr>
+                                <td>US Taxes and Fees</td>
+                                <td class="text-right">$64.27</td>
+                            </tr>
+                            
+                            
+                            
+                            <tr>
+                                <td>GST</td>
+                                <td class="text-right">$19.80</td>
+                            </tr>
+                            <tr>
+                                <td>Total (CAD)</td>
+                                <td class="text-right">$479.97</td>
+                            </tr>
+                        </table>
+                        <div style="margin-top: 10px;"><a href="/optional-services">Optional Services</a></div>
+                    </div> <!-- fligh-price-more-end -->
+                    
+                </div> <!-- flight-price -->
+  				<div id="flight-leaves"><span>Leaves</span> Thu Oct.31 @ 6:00 PM</div>
+                
+  				<div id="flight-returns"><span>Returns</span> Sun Nov.03 @ 5:00 PM</div>
+                
+                
+                <div id="flight-total">
+                    <div id="flight-total-seat"><span>Total Seats</span> 149</div>
+                    <div id="flight-total-jump-point"><span>Jumping Point</span> 120</div>
+                </div>
+                <div id="flight-status">
+                    <span>Flight Status </span>
+                    
+                    <div id="flight-remaining-seats" style="font-size:35px;"><b>146</b> <span>SEATS LEFT</span></div>
+                    <div class="progress-details">
+                        <div class="progress-bar">
+                            <div class="progress-indicator progress-group" data-percent="0" style="width: 80.536912751678%;"></div>
+                            <div class="progress-indicator" data-percent="0" style="width: 2.0134228187919%;"></div>
+                        </div> <!-- progress-bar-end -->
+                    </div> <!-- progress-details-end -->
+                    <div class="numbers">
+                        <strong>3</strong> Booked so far - <strong>117</strong> Needed to go
+                    </div>
+                    
+                </div><!-- flight-status-end -->
+  				<div id="flight-closes">
+  					<span>Offer Closes</span> <em class="icon"></em> 
+  					<div id="Countdown" data-closes="2013-10-25 17:00:00">Fri, October 25 @ 5:00 PM</div>
+  				</div>
+                
+                <a href="/flights/las-vegas/" class="button green noborder shadow small">Details</a>
+            </div><!-- left-end -->
+            <div class="right">
+          <div id="mainCarousel2" class="jcarousel">
+              <ul>
+                  
+                  
+                  <li>
+                      <a href="/flights/las-vegas/"><img src="/assets/Uploads/LAS-1.jpg" alt="LAS 1" /></a>
+                  </li>
+                  
+                  <li>
+                      <a href="/flights/las-vegas/"><img src="/assets/Uploads/LAS-2.jpg" alt="LAS 2" /></a>
+                  </li>
+                  
+                  <li>
+                      <a href="/flights/las-vegas/"><img src="/assets/Uploads/LAS-3.jpg" alt="LAS 3" /></a>
+                  </li>
+                  
+                  <li>
+                      <a href="/flights/las-vegas/"><img src="/assets/Uploads/LAS-4.jpg" alt="LAS 4" /></a>
+                  </li>
+                  
+              </ul>
+          </div> <!-- carousel-end -->
+          <div id="flight-share">
+              <span>WANT THIS JUMP TO GO? PLEASE SHARE THIS FLIGHT TO ALL YOUR FRIENDS</span>
+              <div class="social-share" data-title="Jump On!! The More the Merrier." data-description="Jump On provides weekend travellers Direct Flights at Peak Times for One Low Fare." data-shareUrl="http://www.gojumpon.com/flights/las-vegas/">
+                  <a class="social-button twitter" title="Share on Twitter"></a>
+                  <a class="social-button facebook" title="Share on Facebook"></a>
+				  <a class="social-button linkedin" title="Share on LinkedIn"></a>
+                  <a class="social-button gplus" title="Share on Google+"></a>
+              </div>
+          </div><!-- flight-share-end -->
+      </div> <!-- right-end -->
+            <div class="clear"></div>
+            
+            <hr>
+            
+            
+            
+            <div id="default-infobox" class="shadow">
+                <h2>What is a Single Jump?</h2>
+                <p>The Single Jump is simple. We offer One Way flights and Jumpers pick which one they want. For example:</p>
+                <ul>
+                    <li>Calgary to Vancouver One Way - Friday 12:00pm</li>
+                    <li>Vancouver to Calgary One Way - Friday 1:00pm</li>
+                </ul>
+                <p>That's two One Way flights. The flights depart only if our direct costs for both legs of the flight are met. We call it the Single Jump. You'll call it an incredible value!</p>
+            </div>
+            <div id="double-jump-infobox" style="display:none;" class="shadow">
+                <h2>What is a Double Jump?</h2>
+                <p>So, what's a Double Jump? It's simple really. We double the fun and offer TWO weekend getaways on the same weekend. Here's how:</p>
+                <ul>
+                    <li>Leave Thursday Night: Calgary to Vancouver + Vancouver to Calgary</li>
+                    <li>Return Sunday Night: Calgary to Vancouver + Vancouver to Calgary</li>
+                </ul>
+                <p>That's two weekend getaways - one from Calgary to Vancouver and one from Vancouver to Calgary. For the Double Jumps, the flights depart only if we sell at least 115 return seats from Calgary to Vancouver and 115 return seats from Vancouver to Calgary.</p>
+                <p>We call it the Double Jump. You'll call it an incredible value!</p>
+            </div>
+        </div><!-- inner-clear-end -->
+	</div><!-- clouds-end -->
+</div><!-- red-end -->
+<div class="content-layer grey">
+	<div class="inner clear">
+		<p><span><a name="grey"></a></span></p>
+<h3 style="text-align: center;">IF YOU SIGNED UP USING A JUMP CODE, YOU HAD A $50 CREDIT DEPOSITED TO YOUR ACCOUNT.</h3>
+<h3 style="text-align: center;">ONLY 50 JUMP CODE CREDITS CAN BE USED PER FLIGHT.</h3>
+<h1><a title="https://www.gojumpon.com/#grey" name="grey" href="https://www.gojumpon.com/#grey" target="_self"></a>How our price stacks up</h1>
+<h3>Calgary to Vancouver (return) Fare Analysis (1)</h3>
+<table style="width: 500px;" border="0" align="left"><tbody><tr><td style="text-align: left;"><strong>YYC - YVR (return)</strong></td>
+<td><strong>Lowest </strong>(2)</td>
+<td><strong>Peak Times </strong>(3)</td>
+</tr><tr><td style="text-align: left;"><span>Fri-Sun; Sept 20-22</span></td>
+<td>$534 </td>
+<td>$597</td>
+</tr><tr><td style="text-align: left;"><span>Fri-Sun; Sept 27-29</span></td>
+<td>$351</td>
+<td>$576</td>
+</tr><tr><td style="text-align: left;"><span>Fri-Sun; Oct 4-6</span></td>
+<td>$334</td>
+<td>$513</td>
+</tr><tr><td style="text-align: left;"><span>Fri-Sun; Oct 11-13</span></td>
+<td>$423</td>
+<td>$576</td>
+</tr><tr><td style="text-align: left;"><span>Fri-Sun; Oct 18-20</span></td>
+<td>$334</td>
+<td>$368</td>
+</tr><tr><td style="text-align: left;"><span>Fri-Sun; Oct 25-27</span></td>
+<td>$324</td>
+<td>$486</td>
+</tr><tr><td style="text-align: left;"><span>Fri-Sun; Nov 1-3</span></td>
+<td>$334</td>
+<td>$351</td>
+</tr><tr><td style="text-align: left;"><span>Fri-Sun; Nov 8-10</span></td>
+<td>$334</td>
+<td>$534</td>
+</tr><tr><td style="text-align: left;"><span>Fri-Sun; Nov 15-17</span></td>
+<td>$334</td>
+<td>$351</td>
+</tr><tr><td style="text-align: left;"><span>Fri-Sun; Nov 22-24</span></td>
+<td>$334</td>
+<td>$368</td>
+</tr><tr><td style="text-align: left;">Fri-Sun; Nov 29 - Dec 1</td>
+<td>$334</td>
+<td>$351</td>
+</tr><tr><td style="text-align: left;"><strong>Average</strong></td>
+<td><strong>$360.91</strong></td>
+<td><strong>$461.00</strong></td>
+</tr><tr><td style="text-align: left;"><strong>Jump On Price</strong> (before Jump Code) (4)</td>
+<td><strong>$289.99</strong></td>
+<td><strong>$289.99</strong></td>
+</tr><tr><td style="text-align: left;">Average savings - $</td>
+<td>$71</td>
+<td>$171</td>
+</tr><tr><td style="text-align: left;">Average savings - %</td>
+<td><strong>20%</strong></td>
+<td><strong>37%</strong></td>
+</tr><tr><td style="text-align: left;"><strong>Jump On Price</strong> (after Jump Code) (5)</td>
+<td><strong>$239.99</strong></td>
+<td><strong>$239.99</strong></td>
+</tr><tr><td style="text-align: left;">Average savings - $</td>
+<td>$121</td>
+<td>$221</td>
+</tr><tr><td style="text-align: left;">Average savings - %</td>
+<td><strong>34%</strong></td>
+<td><strong>48%</strong></td>
+</tr></tbody></table><p> <span>(1) T</span>his chart is a summary of the lowest available weekend YYC to YVR non-  stop (return) airfares with all taxes and fees included.</p>
+<p> Period covered: September 20 to November 29, 2013. Research completed  September 17, 2013 on Expedia.</p>
+<p> (2) Lowest available YYC to YVR weekend non-stop (return) fare.</p>
+<p> (3) Lowest available comparable peak time YYC to YVR weekend non-stop  (return) fare.</p>
+<p> (4) Jump On advertised return fare.</p>
+<p> (5) Jump On net price after application of $50 Jump Code credit.</p>
+	</div>
+</div>
+<div class="content-layer blue">
+	<div class="inner clear">
+		<h1>How our Flight Deals Work</h1>
+		<div class="left">
+			<div class="youtube-wrapper"><iframe src="http://www.youtube.com/embed/EQENY9FLeIA/?modestbranding=1&showinfo=0&rel=0" width="590" height="418" frameborder="0"></iframe></div>
+		</div>
+		<div class="right">
+			<p>The Jump On booking process works as follows:</p>
+			<ul id="work-steps">
+				<li class="step1 arrow"><span></span><strong>READY.</strong> A flight deal is announced for "One Low Fare".</li>
+				<li class="step2 arrow"><span></span><strong>SET.</strong>  The "Jumping Point" is announced; the minimum number of passengers (or "Jumpers") required before "It's a Go".</li>
+				<li class="step3 arrow"><span></span><strong>JUMP!</strong>  Jumpers reserve a seat (they provide credit card information, but do not pay yet).</li>
+				<li class="step4 arrow"><span></span><strong>SHARE.</strong>  Jumpers share with their network to help fill up the flight. </li>
+				<li class="step5 arrow"><span></span><strong>PAY.</strong>  When the Jumping Point is reached, "It’s a Go" and Jumpers' credit cards are processed.</li>
+				<li class="step6"><span></span><strong>TAKEOFF!</strong> A direct flight leaves at peak times for a weekend getaway at One Low Fare!</li>
+			</ul>
+		</div>
+		
+	</div>
+</div>
+<div class="content-layer green">
+	<div class="inner clear">
+
+    <h1>Spread the Word</h1>
+<p>To make a Jump On flight happen, we need to have enough people on board to make it a go. That’s where you come in. By sharing the flight deal with your friends and family, you help to promote the flight and get those flyers in their seats. We’re pretty sure every flight deal will be a go, because the flight deals are well worth sharing!</p>
+<div class="social-wrap">
+<div class="social-share"><a class="social-button-default twitter" title="Share on Twitter" href="https://twitter.com/share?url=http%3A%2F%2Fwww.gojumpon.com&amp;hashtags=goJumpOn&amp;text=Jump%20On!!%20The%20More%20the%20Merrier." target="_blank">#</a> <a class="social-button-default facebook" title="Share on Facebook" href="https://www.facebook.com/dialog/feed?app_id=426547957436247&amp;link=http%3A%2F%2Fwww.gojumpon.com&amp;picture=http%3A%2F%2Fwww.gojumpon.com%2Fjumpsite%2Fimages%2Fjumpon.png&amp;name=Jump%20On!!%20The%20More%20the%20Merrier.&amp;caption=The%20More%20the%20Merrier&amp;description=Jump%20On%20provides%20weekend%20travellers%20Direct%20Flights%20at%20Peak%20Times%20for%20One%20Low%20Fare.&amp;redirect_uri=http%3A%2F%2Fwww.gojumpon.com" target="_blank">#</a> <a class="social-button-default linkedin" title="Share on LinkedIn" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=http%3A%2F%2Fwww.gojumpon.com&amp;title=Jump%20On!!%20The%20More%20the%20Merrier.&amp;summary=Jump%20On%20provides%20weekend%20travellers%20Direct%20Flights%20at%20Peak%20Times%20for%20One%20Low%20Fare.&amp;source=http%3A%2F%2Fwww.gojumpon.com" target="_blank">#</a> <a class="social-button-default gplus" title="Share on Google+" href="https://plus.google.com/share?url=http%3A%2F%2Fwww.gojumpon.com" target="_blank">#</a></div>
+</div>
+<div class="social-wrap">
+<p> </p>
+<p style="text-align: left;">We'd also like to thank our partners who help us to promote our great deals:</p>
+<p style="text-align: left;"><a href="http://www.calgarydealsblog.com/" target="_blank"><img class="leftAlone" style="vertical-align: middle;" title="" src="assets/Uploads/CalgaryFinal.png" alt="CalgaryFinal" width="400" height="66">CalgaryDealsBlog.com</a> is one of Calgary's most popular websites. It is updated daily and features the best &amp; hottest daily deals, shopping sales, coupons, online deals and freebies in Calgary, Alberta, Canada. Save up to 50-95% Off! Join our free daily mailing list and never miss a deal again!</p>
+</div>
+
+	</div>
+</div>
+</div>
+<footer class="footer typography" role="contentinfo">
+	<div class="inner">
+		<div class="clear">
+			<div class="third first">
+				<div class="padding">
+					<h4>Direct Flights.</h4>
+					<h4>Peak Times.</h4>
+					<h4 class="last">One Low Fare.</h4>
+					<p>Jump On is a new, overdue, concept in air travel. Say goodbye to connecting flights and the hassle of switching planes, because every Jump On flight is a cheap direct flight to your destination. Forget about having to get up way too early or stay up far too late for red-eye trips, because every Jump On flight leaves at peak times. And save your money for other things, because Jump On flights are at the single lowest price airfare possible. </p>
+				</div>
+			</div>
+			<div class="third">
+				<div class="padding">
+					<h3>Contact Info</h3>
+					<p><strong>General Inquiries:</strong><br />
+					1-855-737-JUMP (5867)<br />
+					<a href="mailto:info@gojumpon.com">info@gojumpon.com</a></p>
+					
+					<p><strong>Address:</strong><br />
+					Jump On Flyaways<br />
+					Suite 1250, 639 - 5th Ave S.W.<br />
+					Calgary, Alberta, Canada<br />
+					T2P 0M9	</p>				
+
+				</div>
+			</div>
+			<div class="third last">
+				<div class="padding">
+					<h3>Questions?</h3>
+					<p><a href="/about/faqs" title="Jump On FAQ">FAQs</a></p>
+					<h3>Legal</h3>
+					<p><a href="/privacy" title="Jump On Privacy Policy">Privacy Policy</a><br />
+					<a href="/about/security" title="Jump On Security Policy">Security</a><br />
+          <a href="/about/terms-of-use" title="Jump On Terms and Conditions">Terms and Conditions</a></p>
+				</div>
+			</div>
+		</div>
+		<small>&copy; 2013 JumpOn Inc. All Rights Reserved.</small>
+	</div>
+</footer>
+
+
+
+
+
+
+<script type="text/javascript" src="/framework/thirdparty/jquery/jquery.js?m=1356724767"></script><script type="text/javascript" src="/themes/jump/javascript/jquery.ddslick.min.js?m=1362179961"></script><script type="text/javascript" src="/themes/jump/javascript/jquery.jcarousel.js?m=1362179953"></script><script type="text/javascript" src="/themes/jump/javascript/jquery.countdown.min.js?m=1362179948"></script><script type="text/javascript" src="/themes/jump/javascript/jquery.powertip.min.js?m=1371748631"></script><script type="text/javascript" src="/themes/jump/javascript/script.js?m=1378727465"></script><script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-38591533-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</body>
+</html>

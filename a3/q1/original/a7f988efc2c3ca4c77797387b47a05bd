@@ -1,0 +1,412 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="4windsprayer.com, 4windsprayer, 4winds, prayer, Thailand, Korat, พันธกิจ, คำอธิษฐาน, ลมแห่งทิศทั้งสี่, ลมสี่ทิศ, คริสเตียน, คริสตจักร, ธารพระพร, โคราช, นครราชสีมา, พันธกิจ, ยาห์ชูวาห์เพื่อปวงชน, คำเผยพระวจนะ, เทศนา, นมัสการ, พระเยซู, พระเมสสิยาห์, ยาห์ชูวาห์, ไทย, สืบสิริ, ซอย24, YCM, ยิว, กลับสู่ราก">
+<meta name="description" content="ติดตามคำเผยพระวจนะ การนมัสการ คำเทศนา และกิจกรรมต่างๆ ของพันธกิจคำอธิษฐานลมแห่งทิศทั้งสี่ และพันธกิจยาห์ชูวาห์เพื่อปวงชน เว็บไซต์ : http://www.4windsprayer.com">
+<title>4WindsPrayer :: พันธกิจคำอธิษฐานลมแห่งทิศทั้งสี่</title>
+
+<link rel="shortcut icon" href="favicon.ico" />
+
+	<meta property="og:title" content="เทศกาลลบบาป" />
+	<meta property="og:url" content="http://www.4windsprayer.com/5773/views.php?catid=10&id=872&alias=yom-kippur" />
+	<meta property="og:description" content="พระเจ้าตรัสกับโมเสสว่า ในวันที่สิบของเดือนที่เจ็ดนี้เป็นวันทำการลบมลทิน จะเป็นวันประชุมบริสุทธิ์แก่เจ้า และเจ้าจงบังคับใจตนเอง และนำเครื่องบูชาด้วยไฟถวายแด่พระเจ้า ในวันเดียวกันนั้นเจ้าอย่าทำงานใดๆ เพราะเป็นวันทำการลบมลทิน ที่จะทำการลบมลทินของเจ้าต่อพระเยโฮวาห์ พระเจ้าของเจ้า" />
+	<meta property="og:type" content="article" />
+	<meta property="og:site_name" content="4windsprayer" />
+    <!--<meta property="fb:admins" content="100000428828289" />-->
+
+<script src="js/jquery-2.0.2.min.js" language="javascript" type="text/javascript"></script>
+<script src="js/scrolltotop.js" type="text/javascript"></script>
+<script src="audiojs/audio.min.js" type="text/javascript"></script>
+<script src="libs/functions.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+$(document).ready(function(){
+	$('#chkonline').load("chk_online.php");
+	startInterval();
+});
+function startInterval() { setInterval("startCounter();", 5000); }
+function startCounter() {
+	$('#chkonline').load("chk_online.php");
+}
+
+audiojs.events.ready(function() {
+	var as = audiojs.createAll();
+});
+</script>
+
+<link href="css/template.css" rel="stylesheet" type="text/css" />
+<link href="css/box.css" rel="stylesheet" type="text/css" />
+<link href="css/audio.css" rel="stylesheet" media="screen">
+<link href="css/sidebar.css" rel="stylesheet" type="text/css" />
+<link href="css/cat_term.css" rel="stylesheet" type="text/css" />
+<link href="css/pagination.css" rel="stylesheet" type="text/css" />
+<link href="css/tags.css" rel="stylesheet" type="text/css" />
+<link href="css/comment.css" rel="stylesheet" type="text/css" />
+<link href="css/share.css" rel="stylesheet" type="text/css" />
+<link href="css/print.css" rel="stylesheet" type="text/css" media="print" />
+
+<style type="text/css">
+<!--
+.table {
+	border:1px solid #F00;
+}
+.box a:link, .box a:visited {
+	text-decoration: none;
+	color: #FF6600;
+}
+.box a:hover {
+	text-decoration: none;
+	color: #000000;
+}
+.postBar {
+	border: 0px solid #F00;
+	display: block;
+	font-size: 12px;
+	color: #999999;
+	margin-left: 10px;
+}
+.postBar .btndate {
+	display: inline-block;
+	margin-left: 22px;
+	margin-top: 3px;
+}
+.postBar .btndate:before {
+	content: '';
+	background:url(images/icons/btn-date.png) no-repeat;
+	width: 17px;
+	height: 18px;
+	margin-left: -22px;
+	margin-top: -2px;
+	display: inline-block;
+	position: absolute;
+	visibility: visible;
+}
+.postBar .btnauthor {
+	display: inline-block;
+	margin-left: 23px;
+	margin-top: 3px;
+}
+.postBar .btnauthor:before {
+	content: '';
+	background:url(images/icons/btn-author.png) no-repeat;
+	width: 18px;
+	height: 18px;
+	margin-left: -23px;
+	margin-top: -2px;
+	display: inline-block;
+	position: absolute;
+	visibility: visible;
+}
+.postBar .btnprint {
+	display: inline-block;
+	margin-left: 7px;
+	margin-top: 2px;
+	background:url(images/icons/btn-print.png) no-repeat;
+	width: 16px;
+	height: 16px;
+	position: absolute;
+	visibility: visible;
+}
+.readmore {
+	font-size: 14px;
+	margin-left: 5px;
+	margin-right: 8px;
+}
+
+br {
+	line-height:150%;
+}
+-->
+</style>
+</head>
+<body>
+<div id="chkonline"></div>
+<!--[if lte IE 8]>
+<br><br><br><h2><p align="center" class=chromeframe>Your browser is <em>ancient !</em><br>เบราว์เซอร์ของคุณเก่าเกินไป !<br><br>
+	please <a href="http://browsehappy.com/">Upgrade version</a> or 
+	install <a href="http://www.mozilla.org/th/firefox/fx/">Firefox Browser</a> to experience this site.<br>
+	กรุณา อัพเกรดเวอร์ชั่น หรือ ติดตั้ง Firefox Browser เพื่อความลื่นไหลของเว็บ</p></h2><br><br><br><br><br><![endif]-->
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title></title>
+</head>
+
+<body>
+  <tr class="main_header">
+    <td align="center" valign="top"><div class="row">
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td valign="top"><h1><a href="http://www.4windsprayer.com/5773" class="logo ir">4WindsPrayer</a></h1></td>
+            <td valign="top"><div class="social_search_container">
+                <ul class="social_icons_header">
+                  <li><a href="http://www.facebook.com/4windsprayer" target="_blank" class="facebook ir">Facebook</a></li>
+                  <li><a href="https://twitter.com/4windsprayer" target="_blank" class="twitter ir">Twitter</a></li>
+                  <li><a href="http://www.youtube.com/huakwan" target="_blank" class="youtube ir">Youtube</a></li>
+                  <li><a class="rss ir">RSS</a></li>
+                </ul>
+              </div>
+              <div class="social_search_container">
+                <!--<form role="search" method="get" class="search_form" action="http://www.4windsprayer.com/search.php"> -->
+                  <input class="search_header" placeholder="Search the sites..." name="s" type="text">
+                <!--</form> -->
+              </div>
+              <nav class="main_nav">
+                <ul>
+                  <li><a href="index.php">Home<br />
+                    <span>หน้าหลัก</span></a></li>
+                  <li><a href="albums.php">Albums<br />
+                    <span>อัลบั้มรูปภาพ</span></a></li>
+                  <li><a href="calendar_jewdate.php">Events<br />
+                    <span>ปฏิทินงาน</span></a></li>
+                  <!--<li><not>Downloads<br />
+                    <span>ดาว์นโหลดเอกสาร</span></not></li>-->
+                  <li><a href="guestbook.php">Guest Book<br />
+                    <span>สมุดเยี่ยมเว็บไซต์</span></a></li>
+                  <!--<li><not>Links<br />
+                    <span>เว็บลิ้งค์</span></not></li>-->
+                  <li><a href="contact.php">Contact<br />
+                    <span>ติดต่อเรา</span></a></li>
+                </ul>
+              </nav></td>
+          </tr>
+        </table>
+      </div></td>
+  </tr>
+</body>
+</html>
+  <tr>
+    <td height="500" align="center" valign="top">
+    <table width="1100" border="0" cellspacing="0" cellpadding="0" style="margin-top: 4px;" class="noprint">
+      <tr>
+        <td width="318" height="90">&nbsp;</td>
+        <td>&nbsp;</td>
+      </tr>
+    </table>
+        
+    <table width="1100" border="0" cellspacing="0" cellpadding="0" style="margin-top:15px; margin-bottom:50px;">
+      <tr>
+        <td width="750" height="500" valign="top">
+                <!-- details article -->
+                <table width="750" border="0" cellpadding="0" cellspacing="0" class="box print">
+          <tr>
+            <td height="200" valign="top">
+                        
+            <!-- SHARE -->
+            <div style="display:block; border:0px #ddd solid; margin-left:635px; width:105px; height:36px; text-align:right; position:absolute; margin-top:-22px;" class="noprint">
+                <div class="share"></div>
+                <a href="http://www.facebook.com/share.php?u=http://www.4windsprayer.com/5773/views.php?catid=10&id=872&alias=yom-kippur" onClick="return fbs_click(600, 350)" target="_blank">
+                    <div class="shareFb"></div>
+                </a>
+                <a href="http://twitter.com/share?url=http://www.4windsprayer.com/5773/views.php?catid=10&id=872&amp;text=เทศกาลลบบาป" onClick="return twt_click(450, 260, 'เทศกาลลบบาป', '4windsprayer')" target="_blank">
+                    <div class="shareTw"></div>
+                </a>
+            </div>
+            <!-- end SHARE -->
+            
+            <div class="cat_terms noprint">
+            <ul class="terms">
+            	<li class="cat_name"><a href="views.php?catid=10">คำสอน บทเรียน บทความ</a></li>
+            	<li>
+				เทศกาลลบบาป                </li>
+            </ul>
+            </div>
+            
+            <table width="750" border="0" cellspacing="0" cellpadding="25">
+              <tr>
+                <td align="left" valign="top" width="750">
+                <div class="postBar">
+                	<div class="btndate">ลงเมื่อวันอังคารที่ 24 กันยายน 2013 เวลา 19:29 น. |</div>
+                    <div class="btnauthor"> เขียนโดย Kwanpon W. |</div>
+                    <a onclick="javascript:window.print();" href="" class="btnprint"></a>
+                </div>
+                <div style="margin:0px 10px -10px 10px; line-height:1.6;">
+                <p style="text-align: center; padding-left: 30px;"><span style="color: #ff6600;"><span style="font-size: x-large;"><strong>เทศกาลลบบาป</strong></span></span></p><p style="text-align: center;"><span style="color: #333333;"><strong>บทความโดย ศจ.สมหมาย แสงสว่างสัจกุล</strong></span></p><p style="text-align: center;"><img src="http://www.4windsprayer.com/images/stories/article/article_images/article/yom_kippur.jpg" border="0" /></p><p><span style="color: #008000;"><strong>พระบัญชาให้ถือเทศกาลนี้อยู่ใน เลวีนิติ 23:26-32</strong></span></p><p>พระเจ้าตรัสกับโมเสสว่า "ในวันที่สิบของเดือนที่เจ็ดนี้เป็นวันทำการลบมลทิน จะเป็นวันประชุมบริสุทธิ์แก่เจ้า และเจ้าจงบังคับใจตนเอง และนำเครื่องบูชาด้วยไฟถวายแด่พระเจ้า ในวันเดียวกันนั้นเจ้าอย่าทำงานใดๆ เพราะเป็นวันทำการลบมลทิน ที่จะทำการลบมลทินของเจ้าต่อพระเยโฮวาห์ พระเจ้าของเจ้า ในวันเดียวกันนี้ถ้าผู้ใดไม่บังคับใจก็ให้ อเปหิผู้นั้นเสียจากท่ามกลางชนชาติของตน และในวันเดียวกันนี้ถ้าผู้ใดทำงานใดๆ เราจะทำลายผู้นั้นเสียจากท่ามกลางชนชาติของเขา เจ้าอย่าทำงานสิ่งใดเลย ทั้งนี้เป็นกฎเกณฑ์ถาวรตลอดชั่วชาติพันธุ์ของเจ้า ทั่วไปในที่อาศัยของเจ้า จะเป็นวันสะบาโตสำหรับหยุดพักสงบแก่เจ้า และเจ้าจงบังคับใจของเจ้า เริ่มแต่เวลาเย็นในวันที่เก้าของเดือน เจ้าต้องรักษาวันสะบาโตจากเวลาเย็นถึงเวลาเย็น"</p><p>รายละเอียดเกี่ยวกับพิธีในพระวิหารสำหรับเทศกาลนี้ดูใน เลวีนิติ 16</p><p><span style="color: #008000;"><strong>ลักษณะพิเศษบางประการของวันลบมลทินบาป</strong></span></p><p>ชื่อในภาษาฮีบรู เรียกว่า Yom Kippur การลบบาป = ปกคลุม ขจัด แก้ไข คืนดี ปกปิด</p><p><span style="background-color: #ff99cc;"><strong>ประการแรก</strong></span> วันทำการลบบาป เป็นวันสะบาโตหยุดพักอย่างสมบูรณ์เป็นสะบาโตพิเศษ คือ เป็นสะบาโตของสะบาโตทั้งหลาย (ภาษาฮีบรู: Shabbat Shabbaton)</p><p><span style="background-color: #ff99cc;"><strong>ประการที่สอง</strong></span> วันลบบาป เป็นวันที่ประชาชนอิสราเอลได้รับพระบัญชาให้ "ถ่อมจิตใจลง" ในบางคำแปลเรียกว่า "ความเจ็บปวดของจิตวิญญาณ" วลีนี้มีความหมายคล้ายคลึงกับที่ผู้เผยพระวจนะอิสยาห์กล่าวไว้ใน อิสยาห์ 58:3 โดยพื้นฐานวันทำการลบบาปจึงเป็นวันแห่งการอดอาหารด้วยใจที่สำนึกผิด</p><p><span style="background-color: #ff99cc;"><strong>ประการที่สาม</strong></span> ประชากรคนใดที่ไม่สำนึกผิดหรือไม่กลับใจเสียใหม่ จะถูกตัดออกจากชนชาติ</p><p><span style="background-color: #ff99cc;"><strong>ประการที่สี่</strong></span> พิธีกรรมในพระวิหารนี้ซับซ้อนแต่สามารถจำกัดลงเป็นแนวใหญ่ๆ ได้ 2 ประการ คือ</p><p style="padding-left: 30px;"><span style="text-decoration: underline;">ประการแรก</span> มีการถวายเครื่องสัตวบูชาที่มีชีวิตและด้วยเลือด</p><blockquote><ul><li>จะมีการเลือกแพะสองตัว</li><li>แพะตัวหนึ่ง จะต้องเป็นเครื่องบูชาด้วยเลือดถวายแด่พระเจ้าเพื่อสำแดงแก่อิสราเอลว่าไม่มีการจ่ายชำระโทษทัณฑ์แห่งบาปแล้ว ตามประเพณี</li><li>แพะตัวที่สอง ซึ่งเรียกว่า "อาซาเซล" หรือแพะที่หนีไปจะมีผ้าสีแดงหรือแดงเข้มผูกเขาไว้ ส่วนหนึ่งของผ้านี้จะแขวนไว้ที่ประตูพระวิหารด้วย</li><li>มหาปุโรหิตจะวางมือบนแพะตัวนี้และสารภาพบาปของอิสราเอลเป็นสัญลักษณ์ว่าได้ถ่ายทอดบาปของพวกเขาลงไปยังแพะตัวนี้ แล้วจะนำอาซาเซลเข้าไปในถิ่นทุรกันดาร เพื่อปล่อยไป (บางคนบอกว่ามันจะถูกผลักลงจากหน้าผาให้ตาย)</li><li>หากพระเจ้าทรงยอมรับการถวายเครื่องบูชาไถ่บาปนี้ในวันทำการลบบาป ผ้าสีแดงที่แขวนที่ประตูพระวิหารจะเปลี่ยนเป็นสีขาว เหมือนดังข้อความใน อิสยาห์ 1:18 "แม้บาปของเจ้าจะแดงอย่างผ้าแดง บาปนั้นก็จะขาวดุจหิมะ แม้จะแดงอย่างสีแดงเข้ม ก็จะกลายเป็นเหมือนขนแกะ"</li></ul></blockquote><p style="padding-left: 30px;"><span style="text-decoration: underline;">ประการที่สอง</span> ของวันลบบาป คือ</p><blockquote><ul><li>เป็นวันเดียวเท่านั้นที่มหาปุโรหิต ได้รับอนุญาตให้เข้าไปในอภิสุทธิสถาน เพื่อประพรมโลหิตแห่งการลบมลทินบาปลงเหนือพระที่นั่งกรุณา(บนหีบพันธสัญญา)</li><li>วันลบมลทินบาปจะมีขึ้นในวันที่ 10 เดือน 7 ทิชรี</li><li>เชื่อกันว่าหากพวกเขาไม่กลับใจจากบาป เขาจะถูกตัดออกจากการเป็นประชากรของพระเจ้า</li></ul></blockquote><p><span style="color: #008000;"><strong>ผู้เชื่อในพระเยซูสามารถเรียนรู้อะไรได้จากวันลบบาป</strong></span></p><p><span style="background-color: #ccffcc;"><strong>1. วันลบบาปทำให้เกิดความซาบซึ้งอย่างลึกซึ้งว่าพระเยซูทรงเป็นหลักประกันแห่งความเชื่อของเรา</strong></span></p><p style="padding-left: 30px;">คนยิวถือเทศกาลวันทำการลบมลทินนี้อย่างไร? ในเมื่อเดี๋ยวนี้ไม่มีพระวิหารในเยรูซาเล็มแล้ว วันนี้ยังคงเป็นวันอดอาหารและใช้เวลาอยู่ในธรรมศาลาเพื่ออ่านโทราห์ และแทนการถวายเครื่องสัตวบูชาในพระวิหาร รับบีสมัยก่อนหลายคนได้แนะนำให้ทำดีและแสดงความเมตตา</p><p style="padding-left: 30px;">จำได้ไหมว่า พระเยซูทรงถูกทดลองในถิ่นทุรกันดารกี่วัน? <span style="color: #c0c0c0;"><strong>40 วัน</strong></span></p><p style="padding-left: 30px;">คำประกาศแรกของพระเยซูเมื่อออกมาจากการอดอาหาร 40 วันนั้น หรือถ้อยคำแรกที่ถูกบันทึกไว้เมื่อ พระองค์ทรงเริ่มพระราชกิจในฐานะพระเมสสิยาห์แห่งอิสราเอลนั้นมีว่าอย่างไร</p><p style="padding-left: 30px;">มัทธิว 4:17 กล่าวไว้ว่า <span style="background-color: #ffff99;"><strong>"จงกลับใจเสียใหม่ เพราะว่าแผ่นดินสวรรค์มาใกล้แล้ว"</strong></span></p><p style="padding-left: 30px;">ซึ่งมีความเหมือนกันระหว่างสิ่งที่เกิดขึ้นในชีวิตของพระเยซู และ 40 วันของ Teshuvah ที่นำไปสู่ วันลบบาป ข้อความยังคงเหมือนเดิม คือ จงกลับใจเสียใหม่</p><p style="padding-left: 30px;">เทศกาลเสียงแตรเริ่มต้นด้วยแตรที่ 7 ใน พระธรรมวิวรณ์ 11:15-18 และที่น่าสนใจใน วิวรณ์ 11:19 ได้กล่าวว่า ....... แล้วพระวิหารของพระเจ้าในสวรรค์ก็เปิด ในพระวิหารนั้นเห็นมีหีบพันธสัญญาของพระองค์แล้วมีสายฟ้าแลบ และเสียงต่างๆ ฟ้าร้อง แผ่นดินไหว ลูกเห็บก็ตกอย่างหนัก</p><p style="padding-left: 30px;">นี่เป็นการอธิบายแรกที่ชัดเจนทีสุดสำหรับวันลบบาป เพราะในวันนั้นเท่านั้น ประตูของอภิสุทธิสถานจะถูกเปิดออก และมหาปุโรหิตจะสามารถเห็นหีบพันธสัญญาขณะที่ท่านปฏิบัติหน้าที่อยู่ต่อหน้าหีบนั้น</p><p style="padding-left: 30px;">พระเยซูทรงถูกนำเข้าสู่พันธกิจในฐานะพระเมสสิยาห์แห่งอิสราเอล ตามกำหนดการเช่นเดียวกับเทศกาลเสียงแตรและวันแห่งการลบมลทินบาป</p><p style="padding-left: 30px;">ชีวิตและพระราชกิจของพระเยซูมิได้เป็นเหตุการณ์ที่เกิดขึ้นโดยบังเอิญ หรือ โดดเดี่ยว การกำเนิด พระราชกิจ การสิ้นพระชนม์ และการฟื้นคืนพระชนม์ของพระองค์ล้วนแล้วแต่เกี่ยวโยงกับเทศกาลตามกำหนดแต่โบราณของพระเจ้า และเกี่ยวพันกับพระสัญญาขององค์บริสุทธิ์แห่งอิสราเอล แม้คำอธิบายถึงวาระสุดท้ายที่อยู่ในพระคัมภีร์วิวรณ์ก็ยังเต็มด้วยภาพต่าง ๆ ที่มาจากเทศกาลในฤดูใบไม้ร่วงที่ได้ยกชูพระเยซูขึ้นเป็นอัลฟาและโอเมกา ผู้ทรงดำรงอยู่ในกาลก่อน ผู้ทรงดำรงอยู่ในปัจจุบัน และผู้ซึ่งจะเสด็จมา!</p><p style="padding-left: 30px;">ดังนั้น ความเชื่อของเราจึงไม่ได้อยู่บนพื้นฐานของนิยายปรัมปราหรือธรรมเนียมของมนุษย์ แต่อยู่บนพื้นฐานที่มั่นคงของพระคำที่เปิดเผยแก่มวลมนุษย์</p><p style="padding-left: 30px;">แท้ที่จริง พระเยซูได้ทรงเป็นหลักประกันของพันธสัญญาที่ดีกว่า</p><p style="padding-left: 30px;">(ฮีบรู 7:22) ข้อนี้กระทำให้พันธสัญญาที่พระเยซูทรงรับประกันนั้น ดีกว่าพันธสัญญาเก่าสักเพียงใด</p><p><span style="background-color: #ccffcc;"><strong>2. พระเยซูทรงเป็นความสมบูรณ์พร้อมของพิธีกรรมทั้งสิ้นในพระวิหารที่ต้องทำในวันลบบาป</strong></span></p><p style="padding-left: 30px;"><span style="background-color: #ffcc99;">2.1 ภารกิจเกี่ยวกับกระถางทองคำ</span></p><p style="padding-left: 30px;">เลวีนิติ 16:12-13, สดุดี 141:2 และ ฮีบรู 7:25 ด้วยเหตุนี้ พระองค์จึงทรงสามารถเป็นนิตย์ที่จะช่วยคนทั้งปวงที่ได้เข้ามาถึงพระเจ้าโดยทางพระองค์นั้นให้ได้รับความรอด เพราะว่าพระองค์ทรงพระชนม์อยู่เป็นนิตย์ เพื่อช่วยทูลขอพระกรุณาให้คนเหล่านั้น</p><p style="padding-left: 30px;"><span style="background-color: #ffcc99;">2.2 เครื่องแต่งกายผ้าลินิน</span></p><p style="padding-left: 30px;">เลวีนิติ 16:4 และ อพยพ 28:1-5 (พระเยซูทรงบริสุทธิ์และชอบธรรม)</p><p style="padding-left: 30px;"><span style="background-color: #ffcc99;">2.3 เครื่องสัตวบูชา</span></p><p style="padding-left: 30px;">เลววีนิติ 16:3, กันดารวิถี 29:7-11 และ ฮีบรู 10:11-14 (พระเยซูทรงเป็นเครื่องบูชาไถ่บาปแก่มนุษยชาติเพียงครั้งเดียวเท่านั้น)</p><p style="padding-left: 30px;"><span style="background-color: #ffcc99;">2.4 ทางเข้าไปภายในม่าน</span></p><p style="padding-left: 30px;">ปีละครั้งเท่านั้นที่มหาปุโรหิตจะได้รับอนุญาตให้เข้าไปในอภิสุทธิสถาน โดยผ่านม่านที่แยกส่วนนี้ออกจากวิสุทธิสถานเมื่อพระเยซูสิ้นพระชนม์บนไม้กางเขน ม่านแห่งชีวิตก็ฉีกขาดจากบนถึงล่างสุด ชี้ให้เห็นว่า บัดนี้โดยผ่านทางพระโลหิตของพระเยซู พระองค์ได้ทรงเปิดทางเข้าสู่หีบพันธสัญญาแล้ว เราในฐานะผู้เชื่อไม่จำเป็นต้องถวายเครื่องสัตวบูชาด้วยเลือดใดอีกต่อพระพักตร์พระเจ้าเราได้รับการยอมรับบนพื้นฐานแห่งการสละชีวิตของพระเยซู (ม่านในวิหารขาดจากบนจรดล่างเพราะการทรงไถ่บาปของมนุษย์สำเร็จแล้ว)</p><p style="padding-left: 30px;"><span style="background-color: #ffcc99;">2.5 พระราชกิจแห่งการไถ่ในฐานะมหาปุโรหิต</span></p><p style="padding-left: 30px;">มหาปุโรหิตจำเป็นต้องลบมลทินบาปเพื่อตัวเองและครัวเรือนของเขาโดยการถวายวัวเป็นเครื่องบูชาก่อน (เลวีนิติ 16:6) แล้วท่านยังต้องทำการลบมลทินบาปให้ชนชาติอิสราเอล (เลวีนิติ 16:15) และสำหรับวิสุทธิสถาน สถานนมัสการด้วย (เลวีนิติ 16:16-20 , 23)</p><p style="padding-left: 30px;">แต่พระเยซูไม่ต้องทำเช่นนั้น ฮีบรู 7:26-28 ฮีบรู 9:11-14 รับบีของเราสอนว่าระหว่าง 40 ปีสุดท้าย ก่อนการทำลายพระวิหาร ผ้าสีแดงที่เคยเปลี่ยนเป็นสีขาวอยู่เสมอนั้นได้หยุดเป็นสีขาว ประตูพระวิหารเปิดออกเองราวกับจะบอกว่า บัดนี้เจ้าทุกคนได้รับการต้อนรับให้เข้ามาอยู่ต่อหน้าเรา แล้วจากเชิงตะเกียงทองคำด้านตะวันตก ดับอยู่เสมอราวกับจะบอกว่าพระวิญญาณบริสุทธิ์มิได้สถิตอยู่อีกต่อไปแล้ว เกิดอะไรขึ้น พระเจ้าทรงละทิ้งหลักการของพระองค์แล้วหรือ พระองค์ไม่เต็มพระทัยที่จะไถ่บาปให้แก่อิสราเอลอีกแล้วหรือ คำตอบต่อคำถามที่ทวนใจเหล่านี้อยู่ที่การทำความเข้าใจชายชาวยิวผู้หนึ่ง คือ พระเยซูชาวนาซาเร็ธไม่ใช่เรื่องบังเอิญเลยที่เมื่อ 40 ปี ก่อนพระวิหารจะถูกทำลาย ในวันที่ 14 นิสาน รับบีชาวยิวผู้นี้ได้ตายบนไม้กางเขนและพระองค์เป็นลูกแกะของพระเจ้าซึ่งได้รับเอาความบาปของโลกไป! ดังนั้น ผ้าแดงที่แขวนอยู่ที่ประตูพระวิหารจะไม่เปลี่ยนเป็นสีขาวอีกต่อไป เพราะพระเยซูได้กลายมาเป็นเครื่องบูชาอันสมบูรณ์ที่ถูกส่งมาให้แก่เราครั้งเดียวเป็นพอ ไม่มีเครื่องบูชาชนิดอื่นใดจะสามารถทำให้พระเจ้าพอพระทัยได้อีกต่อไปแล้ว!</p><p><span style="background-color: #ccffcc;"><strong>3. พระเยซูจะกลับมาเมื่อมีเสียงแตรครั้งสำคัญในวันลบบาปในปีแห่งการเฉลิมฉลองครบรอบ</strong></span></p><p style="padding-left: 30px;">ปีเฉลิมฉลองการครบรอบเกี่ยวข้องอย่างยิ่งกับวันลบบาป</p><p style="padding-left: 30px;">ทุกปีที่ 7 เป็นปีสะบาโต ขณะที่ทุกปีที่ 50 เป็นปีแห่งการเฉลิมฉลองครบรอบ (Jubilee) กล่าวอีกแง่หนึ่ง คือ 7 สะบาโตของปี (7x7 = 49) และปีต่อไปจะเป็นปีแห่งการครบรอบ</p><p style="padding-left: 30px;"><span style="background-color: #ffff99;">ปีจูบิลี</span> (Jubilee = ปีแห่งการครบรอบ) หมายถึง ช่วงเวลาแห่งการร้องตะโกน (คำฮีบรู คือ "yobel") หรือ เสียงเป่าเขาสัตว์ เป็นการเป่าเขาแกะ (อ่านเพิ่มเติมใน เลวีนิติ 25:8-55)</p><p style="padding-left: 30px;">อย่างแรกในจูบิลีนี้ จะต้องเป่า เพื่อประกาศถึงเสรีภาพให้ดังทั่วแผ่นดินในวันลบบาปของปีที่ 50 (เลวีนิติ 25:9) ปีที่ 50 เป็นปีศักดิ์สิทธิ์ (เลวีนิติ 25:12) ทุกคนจะต้องกลับคืนสู่ทรัพย์สินของตน หากเขาเป็นคนจนและได้สูญเสียหรือจำนองหรือขายทรัพย์สินหรือมรดกของเขาไป ในปีเป่าเขาสัตว์เขาจะสามารถกลับมาเป็นเจ้าของได้อีก นี่เป็นกรณีพิเศษโดยเฉพาะอย่างยิ่ง หากเขาไม่สามารถไถ่คืนหรือให้ญาติที่เป็นผู้ไถ่คืนไถ่มาให้ได้ (เลวีนิติ 25:13-17,23-34;กันดารวิถี 36:4) ทาสทุกคนจะได้รับการปลดปล่อยในปีแห่งการเฉลิมฉลองนี้ หากพี่น้องยากจนลงและต้องขอยืมเงินเพื่อดำรงชีวิต หรือขายตัวให้เป็นทาสรับใช้ ในปีเป่าเขาสัตว์นี้เขาจะได้รับอิสระ หากว่าไม่มีญาติมาไถ่เขาได้ในระหว่างช่วงเวลาก่อนปีเป่าเขาสัตว์ (เลวีนิติ 25:35-55) เสียงของแตรในปีเป่าเขาสัตว์เป็น "เสียงที่ชื่นชมยินดี" ซึ่งอวยพรประชากรของพระเจ้า (สดุดี 85:15)</p><p style="padding-left: 30px;">ปีนี้ เป็นเวลาของความร่าเริงยินดีในอิสราเอล เพราะมีการประกาศอิสรภาพด้วยเสียงแตรในแผ่นดิน มีการยกหนี้ ทาสได้รับการปลดปล่อย ครอบครัวกลับมารวมกับมรดกทรัพย์สินที่สูญเสียหรือถูกจำนองได้รับกลับคืน เป็นปีแห่งการร้องตะโกนอย่างแท้จริง (ภาษาฮีบรู : yobel)</p><p style="padding-left: 30px;">เมื่อพระเยซูเริ่มพระราชกิจของพระองค์ พระองค์อธิบายถึงพระราชกิจของพระองค์ไว้ ใน ลูกา 4:17-19 ว่า พระวิญญาณขององค์พระผู้เป็นเจ้าอยู่เหนือข้าพเจ้า เพราะพระองค์ได้ทรงเจิมข้าพเจ้าให้</p><p style="padding-left: 60px;"><strong>1) ประกาศข่าวดีแก่คนยากจน<br />2) ประกาศการปลดปล่อยแก่เชลย<br />3) ทำให้คนตาบอดมองเห็น<br />4) ปลดปล่อยผู้ถูกเหยียบย่ำให้เป็นอิสระ<br />5) ประกาศปีแห่งความโปรดปรานของพระเจ้า</strong></p><p style="padding-left: 30px;">พระเยซูเสด็จมาและประกาศปีแห่งการเป่าเขาสัตว์ในการเสด็จมาครั้งแรก พระองค์จะเสด็จมาอีกเป็นเวลาแห่งการชดเชย (KJV , กิจการ 3:21) หรือ NASB เรียกว่าเป็นช่วงเวลาแห่งการรื้อฟื้นสิ่งสารพัดขึ้นใหม่ ไม่มีสิ่งใดเหมาะสมสำหรับการเสด็จกลับมาของพระเยซูมากไปกว่าในวันลบบาปในปีเป่าเขาสัตว์สุดท้าย</p><p style="padding-left: 30px;">ภาพของการพิพากษาสุดท้ายที่เกี่ยวข้องกับสภาพท้องฟ้าอากาศที่ปรากฎใน วิวรณ์ 19 และ 20 สะท้อนถึงลักษณะพิเศษของวันทำการลบมลทิน เช่นเดียวกับที่มหาปุโรหิตสวมใส่เครื่องแต่งกายผ้าฝ้ายขาวบริสุทธิ์อย่างพิเศษในวันลบบาป พระเยซูก็จะทรงสวมเสื้อผ้าพิเศษในการเสด็จกลับมาครั้งที่สองด้วย!</p><p style="padding-left: 30px;">พระองค์จะสวมอาภรณ์ที่จุ่มด้วยเลือด (วิวรณ์ 19:13) เป็นเครื่องรำลึกถึงเลือดที่มหาปุโรหิตใช้ในวันทำการลบมลทินเพื่อชำระสถานนมัสการ</p><p><span style="color: #008000;"><strong>ผลลัพธ์ของการเสด็จมาครั้งที่สองของพระเยซูยังเหมือนกับผลของวันทำการลบมลทินด้วย</strong></span></p><ul><li>พระเยซูทรงทำลายคนชั่วร้ายด้วย “พระแสง” ของพระองค์ (วิวรณ์ 19:21)</li><li>เตือนให้เราระลึกถึงผู้ไม่สำนึกผิดที่ถูก “ตัดออก” ในวันทำการลบมลทิน (เลวีนิติ 23:29)</li><li>ซาตานถูกมัดและโยนทิ้งลงไปใน “นรก” (วิวรณ์ 20:3)</li><li>เตือนให้เราคิดถึงการส่งอาซาเซลเข้าไปในถิ่นทุรกันดาร (หรือโยนทิ้งจากหน้าผาลงไปในหุบเหว!) (เลวีนิติ 16:21)</li><li>ผู้ชอบธรรมฟื้นขึ้นและครอบครองร่วมกับพระคริสต์ เตือนให้ระลึกถึงเสรีภาพและการเพิกถอนหนี้สิน รวมถึงความชื่นชมยินดีในเสรีภาพในวันลบบาป (เลวีนิติ 25:9)</li></ul><p>นอกจากนี้ พระเยซูมิได้ถือเลือดไว้เหมือนมหาปุโรหิตในสมัยโบราณ แต่ทรงสวมชุดที่จุ่มพระโลหิตของพระองค์ซึ่งชำระล้างบาปทั้งปวงของประชาชน และประชาชนเหล่านี้ก็ "สวมอาภรณ์ผ้าป่านเนื้อละเอียดขาวบริสุทธิ์ ได้นั่งบนหลังม้าขาวตามเสด็จพระองค์ไป" (วิวรณ์ 19:14)</p><p>วันทำการลบมลทินเป็นที่รู้จักในภาษาฮีบรูว่า Yom Ha Peduth ซึ่งมีความหมายว่า "วันแห่งการไถ่" ใน ลูกา 21:27-28 กล่าวว่า "เมื่อนั้นเขาจะเห็นบุตรมนุษย์เสด็จมาในเมฆทรงฤทธานุภาพ และพระสิริเป็นอันมาก เมื่อเหตุการณ์ทั้งปวงนี้เริ่มจะบังเกิดขึ้นนั้น ท่านทั้งหลายจงยึดตัวและผงกศีรษะขึ้น ด้วยการไถ่ท่านใกล้จะถึงแล้ว"</p><p><span style="color: #008000;"><strong>บทสรุป</strong></span></p><p>วันลบบาป เป็นเทศกาลขององค์พระผู้เป็นเจ้า เพื่อ<br />1. <span style="background-color: #ffff99;">ซาบซึ้งในพระเยซู</span><br />2. <span style="background-color: #ffff99;">พระเยซูทรงเป็นผู้ทำให้พิธีกรรมต่างๆ ในพระวิหารครบถ้วนบริบูรณ์</span><br />3. <span style="background-color: #ffff99;">รอคอยการเสด็จกลับมาครั้งที่สองของพระเยซู</span></p>                </div><br />
+                
+                <!-- disqus comment -->
+                <div id="disqus_thread" class="postBar noprint" style="width:97%; min-height:240px;"></div>
+                <script type="text/javascript">
+                    var disqus_shortname = '4windsprayer';
+                    (function() {
+                        var dsq = document.createElement('script');
+                        dsq.type = 'text/javascript';
+                        dsq.async = true;
+                        dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+                        //dsq.src = 'js/disqus.embed.js';
+                        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+                    })();
+                </script>
+                <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+                <br />
+                <!-- end comment -->
+                
+                <div class="postBar noprint" style="margin-top:0px; padding-bottom:5px;">
+                <ul class="tags"><li><a>ลบบาป</a></li><li><a>เทศกาล</a></li></ul>                </div><br />
+                
+                <!-- facebook like -->
+                <div class="fb-like" data-href="http://www.4windsprayer.com/5773/views.php?catid=10&id=872&alias=yom-kippur" data-send="false" data-width="450" 
+                data-show-faces="false" style="margin-bottom:10px; margin-left:10px;"></div>
+                <!-- end facebook like -->
+                
+				<script>$(document).attr('title', 'เทศกาลลบบาป - 4windsprayer');</script>                
+                </td>
+              </tr>
+            </table>
+            </td>
+          </tr>
+        </table>
+                <!-- end details article -->
+        
+        <!-- next previous -->
+        <table width="740" border="0" cellspacing="0" cellpadding="0" align="center" class="noprint">
+          <tr>
+            <td align="left" width="370">
+            <div class="pagination" style="margin-left:5px;">
+						                <a class="page gradient" href="views.php?catid=10&id=761&alias=shabbat-blessing-in-the-midst-of-the-battle">&laquo; ก่อนหน้า</a>
+                        </div>
+            </td>
+            <td align="right" width="370">
+            <div class="pagination">
+			                <a class="page inactive">ถัดไป &raquo;</a>
+                        </div>
+            </td>
+          </tr>
+        </table>
+		<!-- end next previous -->
+        
+                </td>
+        <td width="40" valign="top" class="noprint">&nbsp;</td>
+        <td width="310" valign="top" class="noprint">
+        <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title></title>
+</head>
+
+<body>
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0" style="margin-bottom:30px;">
+  <tr>
+    <td height="510" align="center" valign="middle" class="sidebar">
+   	  <div class="widget">
+        <div class="sidehead"><span>แอดมิน Talk</span></div>
+    		<a href="https://play.google.com/store/apps/details?id=com.huakwan.opentorah" target="_blank">
+            <div style="background:url(images/news/promote_opentorah_2.png) no-repeat; width:280px; height:475px; border:0px; margin-top:8px;"></div>
+            </a>
+        </div>
+    </td>
+  </tr>
+</table>
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td height="100%" valign="top" class="sidebar">
+    <div class="widget">
+        <div class="sidehead"><span>เมนูหลัก</span></div>
+        <div class="list">
+        <li><a href="views.php?catid=3">คำเผยพระวจนะ</a></li><li><a href="views.php?catid=17">การนมัสการ</a></li><li><a href="views.php?catid=6">คำเทศนา</a></li><li><a href="views.php?catid=19">ฉลองต้นเดือน (FirstFruits)</a></li><li><a href="views.php?catid=10">สรุปคำสอน บทเรียน บทความ</a></li><li><a href="views.php?catid=7">กิจกรรม สัมนา</a></li>        </div>
+    </div>
+
+    <div class="widget">
+        <div class="sidehead"><span>เมนูผู้เฝ้าระวัง</span></div>
+        <div class="list">
+        <li><a href="views.php?catid=14">Prayer Update From Israel</a></li><li><a href="views.php?catid=15">กองทัพอธิษฐาน</a></li>        </div>
+    </div>
+    
+    <div class="widget">
+        <div class="sidehead"><span>เกร็ดความรู้</span></div>
+        <div class="list">
+        <li><a href="views.php?catid=9&id=44&alias=shofar">ทำไมต้องใช้เขาสัตว์ ?</a></li>        </div>
+    </div>
+    </td>
+  </tr>
+</table>
+
+<!-- browser support -->
+<table width="100%" border="0" cellspacing="0" cellpadding="0" style="margin-top:30px;">
+  <tr>
+    <td height="100%" valign="top" class="sidebar">
+    <div class="widget">
+        <div class="sidehead"><span>Browser Support</span></div><br />
+        <div style="background:url(images/template/browsers.png) 0 0; margin-left:25px; width:225px; height:41px;"></div>
+        <div style="background:url(images/template/html5css3.png) 0 0; width:42px; height:60px; margin:35px 0 0 205px; position:absolute;"></div>
+        <div style="background:url(images/template/html5css3.png) -48px 0; width:42px; height:60px; margin:103px 0 0 205px; position:absolute;"></div>
+        <div style="font-size:11px; line-height:18px; color:#999; text-align:left; margin:10px 0 0 50px; border:0px solid #000000;">
+        	<strong>Desktop Browser</strong>
+            <li>Firefox 6.0+</li>
+            <li>Chrome 6.0+</li>
+            <li>Safari 5.0+</li>
+            <li>Opera 10.0+</li>
+            <li>Internet Explorer 9.0+</li>
+            <strong>Mobile Browser</strong>
+            <li>Opera Mobile 11.0+</li>
+            <li>Android 2.3+</li>
+            <li>Mobile Safari (iPhone, iPad) iOS 3.0+</li>
+            <li>Blackberry 6.0+</li>
+        </div>
+    </div>
+    </td>
+  </tr>
+</table>
+<!-- end browser support -->
+</body>
+</html>
+        </td>
+      </tr>
+    </table></td>
+  </tr>
+  <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title></title>
+</head>
+
+<body>
+  <tr class="main_footer">
+    <td align="center" valign="top"><div class="row">
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td><a href="index.php" class="footer_logo ir">4windsprayer</a></td>
+            <td><div class="clearfix">
+                <nav>
+                  <ul class="bottom_navigation">
+                    <li><a href="index.php">Home</a></li>
+                    <li><a href="albums.php">Albums</a></li>
+                    <li><a>Downloads</a></li>
+                    <li><a href="contact.php">Contact</a></li>
+                  </ul>
+                </nav>
+              </div>
+              <span class="policies">Copyright 5773 © 4Windsprayer All Rights Reserved. Design by <a href="http://www.facebook.com/huakwan">hu@KwaN</a>.<br />
+				This page generated in 0.0131 seconds.              </span>
+              </td>
+            <td><ul class="footer_social clearfix">
+                <li><a href="http://facebook.com/4windsprayer" target="_blank" class="footer_facebook">Facebook</a></li>
+                <li><a href="https://twitter.com/4windsprayer" target="_blank" class="footer_twitter">Twitter</a></li>
+                <li><a href="http://www.youtube.com/huakwan" target="_blank" class="footer_youtube">YouTube</a></li>
+                <li><a class="footer_rss">RSS</a></li>
+              </ul></td>
+          </tr>
+        </table>
+    </div></td>
+  </tr>
+</body>
+</html>
+</table>
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/th_TH/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+</body>
+</html>

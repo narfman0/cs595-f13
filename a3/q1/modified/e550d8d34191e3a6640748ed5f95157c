@@ -1,0 +1,357 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=shift_jis">
+<meta http-equiv="Content-Script-Type" content="text/javascript">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<link href="http://img.travel.rakuten.co.jp/share/ext/css/new_top_pre.css" rel="stylesheet" type="text/css">
+<link href="http://img.travel.rakuten.co.jp/share/ichiran/css/stay.css" rel="stylesheet" type="text/css">
+<link href="http://img.travel.rakuten.co.jp/share/common/css/common.css" rel="stylesheet" type="text/css">
+<link href="http://img.travel.rakuten.co.jp/share/themes/adr/css/contents.css" rel="stylesheet" type="text/css">
+<title>【楽天トラベル】全国のホテル・旅館</title>
+</head>
+<body id="TOP">
+<center>
+<div id="wrapper" class="listDomestic">
+<table width="100%" border="0" cellpadding="0" cellspacing="0"><tr><td align="center">
+<!--START_HEADER-->
+<div id="grpheaderArea">
+<p id="grpSiteID"><a href="http://travel.rakuten.co.jp/"><img src="http://img.travel.rakuten.co.jp/package/ana/images/logo_travel_w89.gif" alt="楽天トラベル" width="89" height="45" class="serviceLogo"></a></p>
+
+<!--START_Season-->
+<p id="grpServiceTitle"><a href="http://img.travel.rakuten.co.jp/image/tr/hs/eagles/zH95W/"><img src="http://img.travel.rakuten.co.jp/special/eagles/201309/bnr/50_45.gif" width="50" height="45" alt="【楽天優勝セール】祝！優勝"></a></p>
+<!--END_Season-->
+
+<dl id="grpRemoteNav">
+<dt>楽天グループ関連</dt>
+<dd class="grpRelation">
+<ul><!--
+--><li><a href="http://ad2.trafficgate.net/t/r/1367/1441/99636_99636/">楽天カード入会で2,000ポイントプレゼント</a></li><!--
+--><li class="grpHome"><a href="http://www.rakuten.co.jp/">楽天市場へ</a></li><!--
+--></ul>
+</dd>
+<dt>補助メニュー</dt>
+<dd class="grpSiteUtility">
+<ul><!--
+--><li><a href="http://travel.rakuten.co.jp/review/">お客さまの声</a></li><!--
+--><li><a href="https://aps1.travel.rakuten.co.jp/portal/my/prv_page.first">個人ページ（予約の確認・変更・取消）</a></li><!--
+--><li><a href="http://travel.rakuten.co.jp/help/">ヘルプ</a></li><!--
+--><li><a href="http://travel.rakuten.co.jp/howto/">楽天トラベルの使い方</a></li><!--
+--><li class="grpLast"><a href="http://travel.rakuten.co.jp/sitemap/">サイトマップ</a></li><!--
+--></ul>
+</dd>
+</dl>
+<dl id="sectionNav" class="scndLyr">
+<dt>主なカテゴリー</dt>
+<dd class="menuList">
+<ul><!--
+--><li id="tabKokunai"><span class="current">国内</span></li><!--
+--><li id="tabKaigai"><a href="http://travel.rakuten.co.jp/kaigai/index.html">海外</a></li><!--
+--><li id="tabKenshou"><a href="http://img.travel.rakuten.co.jp/image/tr/hs/prsnt/Vftj7/">懸賞広場</a></li><!--
+--><li id="tabCoupon"><a href="http://img.travel.rakuten.co.jp/image/tr/userm/rakupon/Ko0VY/">割引クーポン</a></li><!--
+--><li id="tabAinori"><a href="http://img.travel.rakuten.co.jp/image/tr/hs/grptr/zDa1q/">グループ予約</a></li><!--
+--><li id="tabTabinote"><a href="http://kanko.travel.rakuten.co.jp/">観光案内</a><!--
+--></ul>
+</dd>
+<dd class="grpExpansionArea">
+<p><a href="" id="RakutoraTwitter"><img src="http://img.travel.rakuten.co.jp/share/themes/header/images/btnTwitter.gif"></a>
+<span id="affiliateBanner"></span></p>
+</dd>
+<script src="http://img.travel.rakuten.co.jp/share/common/js/RakutoraTwitter.js"></script>
+<script src="http://img.travel.rakuten.co.jp/share/common/js/rakutenTr_affiliate.js" type="text/javascript"></script>
+<script>
+<!--
+new RakutoraTwitter().makeUrl(document.title, document.URL);
+try{
+rakutenTr_affiliate.putTextLinkAnchor(window.location, "affiliateBanner");
+} catch (e) {}
+-->
+</script>
+</dl>
+<dl id="grpSubSectionDomestic" class="clearfix">
+<dt>サブカテゴリー</dt>
+<dd class="grpMenuList">
+<ul><!--
+--><li><a href="http://travel.rakuten.co.jp/">国内宿泊・日帰り</a><!--
+--><ul class="grpMenuSecondary"><!--
+--><li><a href="http://travel.rakuten.co.jp/premium/">高級</a></li><!--
+--><li><a href="http://travel.rakuten.co.jp/business/">ビジネスホテル</a></li><!--
+--><li><a href="http://travel.rakuten.co.jp/onsen/">温泉</a></li><!--
+--><li class="grpLast"><a href="http://travel.rakuten.co.jp/dayuse/">日帰り</a></li><!--
+--></ul></li><!--
+--><li><a href="http://travel.rakuten.co.jp/package/">楽パック(交通+宿)</a></li><!--
+--><li><a href="http://travel.rakuten.co.jp/bus/">高速バス</a></li><!--
+--><li><a href="http://travel.rakuten.co.jp/cars/">レンタカー</a></li><!--
+--><li><a href="http://travel.rakuten.co.jp/air/domestic.html">国内航空券</a></li><!--
+
+--></ul>
+</dd>
+<!-- 
+<dd class="grpExpansionArea">
+<p><a href="xxx">拡張メニュー項目</a></p>
+</dd>
+ -->
+</dl>
+</div>
+
+<!--sp bnr-->
+<p id="spBnrThn"><a href="http://img.travel.rakuten.co.jp/image/tr/hs/eagles/zH95W/"><img src="http://img.travel.rakuten.co.jp/special/eagles/201309/bnr/950_40.gif" width="950" height="40" alt="【楽天優勝セール】74時間限定！今なら最大1,000ポイントプレゼント！セール会場はこちら"></a></p>
+<!--/sp bnr-->
+
+<!-- Web Analysis Tool START-->
+<script language="JavaScript" src="http://travel.rakuten.co.jp/share/wat/search/default_s.js"></script>
+<!-- SiteCatalyst code version: H.9.Copyright 1997-2007 Omniture, Inc. More info available at http://www.omniture.com -->
+<script language="JavaScript" src="http://img.travel.rakuten.co.jp/share/wat/sc/s_code.js"></script>
+<script language="JavaScript" src="http://img.travel.rakuten.co.jp/share/wat/sc/code_to_paste.js"></script>
+<!-- End SiteCatalyst code version: H.9. -->
+<script><!--
+rt = new rt_sc_variables();
+codeToPaste();
+--></script>
+<!-- Web Analysis Tool END-->
+<!-- Mebius -->
+<script type="text/javascript">
+var mbHost = (("https:" == document.location.protocol) ? "https://" : "http://"); document.write(unescape("%3Cscript src='" + mbHost + "rd.rakuten.co.jp/js/p_code.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript"><!--
+	i="6.2994.0";
+	n="travel";
+	l="travel";
+	r=document.referrer;
+	document.write(p(i,n,l,r));
+//--></script>
+<noscript>
+    <img src="https://rd.rakuten.co.jp/p/?i=6.2994.0&n=travel&l=travel&r=" /> </noscript>
+<!-- /Mebius -->
+
+<!--END_HEADER-->
+</table>
+<!--START_MAIN_CONTENTS-->
+<p id="locationArea">
+<a href="http://travel.rakuten.co.jp/">楽天トラベルトップ</a>
+&nbsp;&gt;&nbsp;
+全国のホテル・旅館
+<!--/locationArea-->
+</p>
+<div id="contentsArea">
+<!--***********************start_mainArea***********************-->
+<div id="mainArea">
+<div id="titleArea">
+<h1><span>全国</span> のホテル・旅館</h1>
+<!--/titleArea--></div>
+<table width="750" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td><img src="http://img.travel.rakuten.co.jp/share/images/spacer.gif" alt="" width="1" height="15">
+</td></tr>
+<tr>
+<td><img src="http://img.travel.rakuten.co.jp/share/ichiran/images/stay_domestic_search_head.gif" alt="" width="750" height="10"></td>
+</tr>
+<tr>
+<td><table width="750" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="1" bgcolor="#447618"><img src="http://img.travel.rakuten.co.jp/share/images/spacer.gif" alt="" width="1" height="15"></td>
+<td width="748" bgcolor="#DEF5C5">
+<table border="0" cellspacing="0" cellpadding="1">
+<form method="get" action="http://web.travel.rakuten.co.jp/portal/my/tabimado_search.main">
+<tr>
+<td><img src="http://img.travel.rakuten.co.jp/share/images/spacer.gif" alt="" width="25" height="1"></td>
+<td><img src="http://img.travel.rakuten.co.jp/share/ichiran/images/stay_domestic_search_arrow.gif" alt="" width="11" height="11"></td>
+<td class="stay_d_keyword">キーワードで探す　【宿泊施設情報検索】</td>
+<td>&nbsp;</td>
+<td>
+<input type="text" name="f_query" size="30" maxlength="40" value="">
+<input type="submit" name="send" value="検索">
+<input type="hidden" name="f_max" value="20">
+<input type="hidden" name="f_format" value="long">
+</td>
+</tr>
+</form>
+</table>
+</td>
+<td width="1" bgcolor="#447618"><img src="http://img.travel.rakuten.co.jp/share/images/spacer.gif" alt="" width="1" height="15">
+</td></tr></table>
+</td>
+</tr>
+<tr>
+<td><img src="http://img.travel.rakuten.co.jp/share/ichiran/images/stay_domestic_search_foot.gif" alt="" width="750" height="10"></td>
+</tr>
+<tr>
+<td><img src="http://img.travel.rakuten.co.jp/share/images/spacer.gif" alt="" width="1" height="15"></td>
+</tr>
+<tr>
+<td class="stay_d_navi">■楽天トラベルに登録されている全国のホテル・旅館、宿泊施設を検索できます。都道府県を選択してください。
+</td>
+</tr>
+<tr>
+<td><img src="http://img.travel.rakuten.co.jp/share/images/spacer.gif" alt="" width="1" height="15"></td>
+</tr>
+<tr>
+<td class="stay_d_navi">
+(現在登録されているホテル・旅館、宿泊施設の数：国内28731軒 海外15459軒）</td>
+</tr>
+<tr>
+<td><img src="http://img.travel.rakuten.co.jp/share/images/spacer.gif" alt="" width="1" height="10"></td>
+</tr>
+</table>
+<div id="pref_list">
+<table>
+  <tbody>
+<tr>
+<th>北海道</th>
+<td>
+<ul>
+<li><a href="http://travel.rakuten.co.jp/group/adr/japan/hokkaido/">北海道</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th>東北</th>
+<td>
+<ul>
+<li><a href="http://travel.rakuten.co.jp/group/adr/japan/aomori/">青森県</a></li>
+<li><a href="http://travel.rakuten.co.jp/group/adr/japan/iwate/">岩手県</a></li>
+<li><a href="http://travel.rakuten.co.jp/group/adr/japan/miyagi/">宮城県</a></li>
+<li><a href="http://travel.rakuten.co.jp/group/adr/japan/akita/">秋田県</a></li>
+<li><a href="http://travel.rakuten.co.jp/group/adr/japan/yamagata/">山形県</a></li>
+<li><a href="http://travel.rakuten.co.jp/group/adr/japan/hukushima/">福島県</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th>北関東</th>
+<td>
+<ul>
+<li><a href="http://travel.rakuten.co.jp/group/adr/japan/ibaragi/">茨城県</a></li>
+<li><a href="http://travel.rakuten.co.jp/group/adr/japan/tochigi/">栃木県</a></li>
+<li><a href="http://travel.rakuten.co.jp/group/adr/japan/gunma/">群馬県</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th>首都圏</th>
+<td>
+<ul>
+<li><a href="http://travel.rakuten.co.jp/group/adr/japan/saitama/">埼玉県</a></li>
+<li><a href="http://travel.rakuten.co.jp/group/adr/japan/tiba/">千葉県</a></li>
+<li><a href="http://travel.rakuten.co.jp/group/adr/japan/tokyo/">東京都</a></li>
+<li><a href="http://travel.rakuten.co.jp/group/adr/japan/kanagawa/">神奈川県</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th>甲信越</th>
+<td>
+<ul>
+<li><a href="http://travel.rakuten.co.jp/group/adr/japan/niigata/">新潟県</a></li>
+<li><a href="http://travel.rakuten.co.jp/group/adr/japan/yamanasi/">山梨県</a></li>
+<li><a href="http://travel.rakuten.co.jp/group/adr/japan/nagano/">長野県</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th>北陸</th>
+<td>
+<ul>
+<li><a href="http://travel.rakuten.co.jp/group/adr/japan/toyama/">富山県</a></li>
+<li><a href="http://travel.rakuten.co.jp/group/adr/japan/ishikawa/">石川県</a></li>
+<li><a href="http://travel.rakuten.co.jp/group/adr/japan/hukui/">福井県</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th>東海</th>
+<td>
+<ul>
+<li><a href="http://travel.rakuten.co.jp/group/adr/japan/gihu/">岐阜県</a></li>
+<li><a href="http://travel.rakuten.co.jp/group/adr/japan/shizuoka/">静岡県</a></li>
+<li><a href="http://travel.rakuten.co.jp/group/adr/japan/aichi/">愛知県</a></li>
+<li><a href="http://travel.rakuten.co.jp/group/adr/japan/mie/">三重県</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th>近畿</th>
+<td>
+<ul>
+<li><a href="http://travel.rakuten.co.jp/group/adr/japan/shiga/">滋賀県</a></li>
+<li><a href="http://travel.rakuten.co.jp/group/adr/japan/kyoto/">京都府</a></li>
+<li><a href="http://travel.rakuten.co.jp/group/adr/japan/osaka/">大阪府</a></li>
+<li><a href="http://travel.rakuten.co.jp/group/adr/japan/hyogo/">兵庫県</a></li>
+<li><a href="http://travel.rakuten.co.jp/group/adr/japan/nara/">奈良県</a></li>
+<li><a href="http://travel.rakuten.co.jp/group/adr/japan/wakayama/">和歌山県</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th>中国</th>
+<td>
+<ul>
+<li><a href="http://travel.rakuten.co.jp/group/adr/japan/tottori/">鳥取県</a></li>
+<li><a href="http://travel.rakuten.co.jp/group/adr/japan/simane/">島根県</a></li>
+<li><a href="http://travel.rakuten.co.jp/group/adr/japan/okayama/">岡山県</a></li>
+<li><a href="http://travel.rakuten.co.jp/group/adr/japan/hiroshima/">広島県</a></li>
+<li><a href="http://travel.rakuten.co.jp/group/adr/japan/yamaguchi/">山口県</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th>四国</th>
+<td>
+<ul>
+<li><a href="http://travel.rakuten.co.jp/group/adr/japan/tokushima/">徳島県</a></li>
+<li><a href="http://travel.rakuten.co.jp/group/adr/japan/kagawa/">香川県</a></li>
+<li><a href="http://travel.rakuten.co.jp/group/adr/japan/ehime/">愛媛県</a></li>
+<li><a href="http://travel.rakuten.co.jp/group/adr/japan/kouchi/">高知県</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th>九州</th>
+<td>
+<ul>
+<li><a href="http://travel.rakuten.co.jp/group/adr/japan/hukuoka/">福岡県</a></li>
+<li><a href="http://travel.rakuten.co.jp/group/adr/japan/saga/">佐賀県</a></li>
+<li><a href="http://travel.rakuten.co.jp/group/adr/japan/nagasaki/">長崎県</a></li>
+<li><a href="http://travel.rakuten.co.jp/group/adr/japan/kumamoto/">熊本県</a></li>
+<li><a href="http://travel.rakuten.co.jp/group/adr/japan/ooita/">大分県</a></li>
+<li><a href="http://travel.rakuten.co.jp/group/adr/japan/miyazaki/">宮崎県</a></li>
+<li><a href="http://travel.rakuten.co.jp/group/adr/japan/kagoshima/">鹿児島県</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th>沖縄</th>
+<td>
+<ul>
+<li><a href="http://travel.rakuten.co.jp/group/adr/japan/okinawa/">沖縄県</a></li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+</td></tr></table>
+</center>
+<!-- main_contents end -->
+<!--*************************START_FOOTER1*************************-->
+<center>
+<div id="grpfooterArea">
+<dl id="grpSupportMenu">
+<dt>補助メニュー</dt>
+<dd>
+<ul>
+<li><a href="http://travel.rakuten.co.jp/corporate/">会社情報</a></li>
+<li><a href="http://travel.rakuten.co.jp/recruit/">採用情報</a></li>
+<li><a href="http://privacy.rakuten.co.jp/">個人情報保護方針</a></li>
+<li><a href="http://travel.rakuten.co.jp/info/hotel_msg.html">資料請求</a></li>
+<li class="grpLast"><a href="http://travel.rakuten.co.jp/info/">規約集</a></li>
+</ul>
+</dd>
+</dl>
+<p id="grpCopyright">Copyright (c) 2002-2013 Rakuten Travel, Inc. All Rights Reserved.</p>
+<p id="grp10th"><a href="http://ecoto.rakuten.co.jp/"><img src="/share/themes/header/images/ecoto_logo.gif" width="80" height="20" border="0" alt="ちょっといいこと楽天"></a></p> 
+</div>
+</center>
+<!--*************************END_FOOTER*************************--> 
+ 
+</center>
+</body>
+</HTML>

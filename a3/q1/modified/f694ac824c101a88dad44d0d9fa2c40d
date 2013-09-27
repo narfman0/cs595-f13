@@ -1,0 +1,499 @@
+
+<!DOCTYPE HTML>
+<html dir='ltr' lang="en-US">
+    <head>
+        <title>Fashion | Windows Phone Apps+Games Store (United States)</title>
+        
+        <link href="http://resources.windowsphone.com/FontService/en-US/SegoeWPC_V052920121144_Apollo_Consumer/Font.css" rel="stylesheet" type="text/css" />
+        <link href="http://www.windowsphone.com/accents/brand?dir=ltr&amp;mobile=false" rel="stylesheet" type="text/css" />
+        <link href="/styles/site?v=ZA3dK-A8MNonL_xm_TWgCvZdFVyss7d9SUEMNUrehJU1" rel="stylesheet"/>
+
+        <link href="/styles/store?v=GfBJFKO2tEQjLqa9AH_mA6EnZd8VOnaAbtrYtkeNf441" rel="stylesheet"/>
+
+            <link rel="canonical" href="http://www.windowsphone.com/en-us/store/app/fashion/ff74e750-1992-4428-a063-cd9384c9b5cd"/>
+        <script src="/Scripts/modernizr.custom.43303.js" type="text/javascript"></script>
+            <meta name="description" content="Browse or download Fashion, certified for Windows Phone." />
+        
+    <meta property="og:title" content="Fashion" />
+    <meta property="og:image" content="http://cdn.marketplaceimages.windowsphone.com/v8/images/d6f25b8e-995f-47f6-a3e6-631f14047944?imageType=ws_icon_large" />
+    <meta property="og:url" content="http://www.windowsphone.com/en-us/store/app/fashion/ff74e750-1992-4428-a063-cd9384c9b5cd" />
+    <meta property="og:type" content="app" />
+    <meta property="og:description" content="Browse or download Fashion, certified for Windows Phone." />
+    <meta property="og:site_name" content="windowsphone.com" />
+    <meta property="fb:app_id" content="210175465694104" />
+
+
+        <script>
+            if (window.XMLHttpRequest && window.performance !== undefined) {
+                var properties = {
+                    "eventId": 3,
+                    "activityId": "405ef2e1-bf80-408a-beeb-354742127015",
+                    "url": "http://www.windowsphone.com/en-us/store/app/fashion/ff74e750-1992-4428-a063-cd9384c9b5cd",
+                    "experimentContextString": ""
+                };
+                xmlhttp = new XMLHttpRequest();
+                xmlhttp.open("POST", "http://www.windowsphone.com/webmetrics/uploaddata", true);
+                xmlhttp.setRequestHeader("Content-type", "application/json; charset=utf-8");
+                xmlhttp.setRequestHeader("X-Requested-With", "XMLHttpRequest");
+                xmlhttp.send(JSON.stringify(properties));
+            }
+        </script>
+    </head>
+<body class="marketplace appDetailsPage largeTitleCrumbTemplate appDetails ltr" 
+      data-mobileBrowser="false" 
+      data-synthetic="false"
+      data-preview="false">
+
+<script src="http://siterecruit.comscore.com/sr/windowsphone/pre_broker.js"></script><script src="http://siterecruit.comscore.com/sr/windowsphone/broker.js"></script>
+        <div id="header" class="content">
+                <a data-os="navigation" data-ov="Header:WindowsPhoneLogo" id="wplogo" href="http://www.windowsphone.com/en-us"></a>
+                <div id="search">
+                    <form data-os="combinedSearch" data-ov="" action="http://www.windowsphone.com/en-us/search" method="get">
+
+                        <input id="searchInput" maxlength="100" type="text" name="q" autocomplete="off"  />
+                        <input id="searchButton" type="image" src="/images/search.png" />
+                    </form>
+                </div>
+                <ul class="mainNav hMenu">
+<li><a data-os="navigation" data-ov="Header:Phones" class="phones mainNav" href="http://www.windowsphone.com/en-us/phones">Phones</a></li>                    <li><a data-os="navigation" data-ov="Header:Design" class="design mainNav" href="http://www.windowsphone.com/en-us/features">Features</a></li>                                            <li><a data-os="navigation" data-ov="Header:Store" class="marketplace mainNav" href="http://www.windowsphone.com/en-us/store/overview">Apps+Games</a></li>
+                    <li><a data-os="navigation" data-ov="Header:News" class="news mainNav" href="http://www.windowsphone.com/en-us/news">News</a></li>                    <li><a data-os="navigation" data-ov="Header:Support" class="support mainNav" href="http://www.windowsphone.com/en-us/how-to/wp8">How-to</a></li>                </ul>
+                <div>
+                </div>                 <div id="userArea">
+                    <ul class="dropmenu">
+                            <li id="explore">
+                                <img class="phone" src="/images/default_phone_mango.png" />
+                                <a href="#"><em class="title5 black" id="exploreTitle">Explore</em>
+                                    <div>
+                                        <span class="smallText">My Phone</span>
+                                        <div class="dropImage">
+                                        </div>
+                                    </div>
+                                </a></li>
+                            <li class="menuitem activatable"><a data-os="signIn" class="standalone black" id="signin" href="http://www.windowsphone.com/en-US/auth/signin?returnUrl=http%253a%252f%252fwww.windowsphone.com%253a80%252fen-us%252fstore%252fapp%252ffashion%252fff74e750-1992-4428-a063-cd9384c9b5cd">Sign in</a></li>
+                            <li class="hr menuitem"></li>
+                            <li class="menuitem activatable"><a data-os="navigation" data-ov="SignInBanner:My Phone page" class="standalone" id="myPhone" href="https://www.windowsphone.com/en-us/my">My Phone</a></li>
+                            <li class="menuitem activatable"><a data-os="navigation" data-ov="SignInBanner:Find My Phone page" class="standalone" id="findMyPhone" href="https://www.windowsphone.com/en-us/my/find">Find My Phone</a></li>
+                            <li class="menuitem activatable"><a data-os="navigation" data-ov="SignInBanner:Purchase History Page" class="standalone" id="purchases" href="https://www.windowsphone.com/en-us/my/purchase-history">Purchase history</a></li>
+<li class="menuitem activatable"><a data-os="navigation" data-ov="SignInBanner:Family Page" class="standalone" id="myFamily" href="https://www.windowsphone.com/en-us/family">My Family</a></li>                    </ul>
+                </div>
+                <div class="hr">
+                </div>
+
+    <ul class="subNav hMenu">
+            <li><a data-os="navigation" data-ov="SubHeader:Overview" id="store_overview" class="subNav" href="http://www.windowsphone.com/en-us/store/overview">Overview</a></li>
+            <li><a data-os="navigation" data-ov="SubHeader:Landing" id="store_landing" class="subNav" href="http://www.windowsphone.com/en-us/store">Spotlight</a></li>
+
+        <li><a data-os="navigation" data-ov="SubHeader:Apps" id="store_apps" class="subNav" href="http://www.windowsphone.com/en-us/store/featured-apps">Apps</a></li>
+        <li><a data-os="navigation" data-ov="SubHeader:Games" id="store_games" class="subNav" href="http://www.windowsphone.com/en-us/store/featured-games">Games</a></li>
+                <li><a data-os="navigation" data-ov="SubHeader:Purchase History Page" id="store_purchasehistory" class="subNav" href="https://www.windowsphone.com/en-us/my/purchase-history">Purchase history</a></li>
+    </ul>
+            <div class="clear">
+            </div>
+        </div>
+    <div id="main" class="content">
+        
+<div id="application" class="app" itemscope itemtype="http://schema.org/MobileApplication">
+
+        <div id="crumb">
+                <a data-os="navigation" data-ov="BreadCrumb:lifestyle" class="breadCrumb" href="http://www.windowsphone.com/en-us/store/top-free-apps/lifestyle/lifestyle">
+                    <strong itemprop="applicationCategory">lifestyle</strong></a>
+                <span class="breadCrumb">/ </span>
+                <a data-os="navigation" data-ov="BreadCrumb:style + fashion" class="breadCrumb" href="http://www.windowsphone.com/en-us/store/top-free-apps/style-fashion/styleandfashion">
+                    <strong itemprop="applicationSubCategory">style + fashion</strong></a>
+        </div>
+    <h1 itemprop="name">Fashion</h1>
+    <meta itemprop="url" content="http://www.windowsphone.com/en-us/store/app/fashion/ff74e750-1992-4428-a063-cd9384c9b5cd" />
+    <div id="appSummary">
+
+        <div class="appImage xlarge">
+            <img class="appImage xlarge" alt="Fashion" title="Fashion" src="http://cdn.marketplaceimages.windowsphone.com/v8/images/d6f25b8e-995f-47f6-a3e6-631f14047944?imageType=ws_icon_large" itemprop="image"/>
+        </div>
+
+        <div id="offerRating">
+            <div id="offer" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+                <span itemprop="price">Free</span>
+            </div>
+                <div id="rating" itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating">
+                    <meta itemprop="ratingValue" content="4" />
+                    <meta itemprop="ratingCount" content="2" />
+                    <div class="ratingLarge fourPtZero">
+                    </div>
+                    <span>2 reviews</span>
+                </div>
+        </div>
+
+        <div id="licenseOptions">
+                <div class="button3 free">
+                    <a data-os="getApp" data-ov="Apps;ff74e750-1992-4428-a063-cd9384c9b5cd fashion, Free" id="free" href="https://www.windowsphone.com/en-us/store/purchase/validate?app=ff74e750-1992-4428-a063-cd9384c9b5cd&amp;apptype=regular&amp;offer=b8572b16-1a71-40b2-ad3f-b381b361329d" class="purchase" target="_self">install</a>
+                </div>
+        </div>
+
+            <div id="socialNetworks">
+                <div id="facebook">
+                    <div class="fb-like" data-href="http://www.windowsphone.com/en-us/store/app/fashion/ff74e750-1992-4428-a063-cd9384c9b5cd" data-send="false" data-layout="button_count" data-show-faces="false" data-font="segoe ui" ref="wpcwam"></div>
+                </div>
+                <div id="twitter">
+                    <a href="http://www.windowsphone.com/en-us/store/app/fashion/ff74e750-1992-4428-a063-cd9384c9b5cd" data-url="http://www.windowsphone.com/en-us/store/app/fashion/ff74e750-1992-4428-a063-cd9384c9b5cd" data-lang="en" class="twitter-share-button">Tweet</a>
+                </div>
+            </div>
+        
+        <div id="techDetails">
+                <div id="publisher">
+                    <h4 class="noteText">Publisher</h4>
+                        <a data-os="internalContent" data-ov="AppDetail:Publisher page UX Additives" class="title5" href="http://www.windowsphone.com/en-US/store/publishers?publisherId=UX%2BAdditives&amp;appId=ff74e750-1992-4428-a063-cd9384c9b5cd" itemprop="publisher">UX Additives</a>
+                </div>
+                <div id="moreFromPublisher">
+                    <h4 class="noteText">More from UX Additives</h4>
+                    <ul>
+                            <li><a data-os="internalContent" data-ov="AppDetail:Publisher app Apps;edeb61fc-ab6b-47d7-bc66-f8fcfdb29663 rockbands" href="http://www.windowsphone.com/en-us/store/app/rockbands/edeb61fc-ab6b-47d7-bc66-f8fcfdb29663" class="appImage small">
+                                <img class="small" src="http://cdn.marketplaceimages.windowsphone.com/v8/images/6f49e7b8-317f-43c4-8a3b-a13510d45a20?imageType=ws_icon_tiny" alt="RockBands"/>
+                            </a></li>
+                            <li><a data-os="internalContent" data-ov="AppDetail:Publisher app Apps;da008fcf-76da-4734-8802-52602a3c69f8 world-viewer" href="http://www.windowsphone.com/en-us/store/app/world-viewer/da008fcf-76da-4734-8802-52602a3c69f8" class="appImage small">
+                                <img class="small" src="http://cdn.marketplaceimages.windowsphone.com/v8/images/2bfbc16a-223e-438c-b4d7-2c68e05315c1?imageType=ws_icon_tiny" alt="World Viewer"/>
+                            </a></li>
+                    </ul>
+                    <div>
+                        <a data-os="internalContent" data-ov="AppDetail:See all from UX Additives" class="title5" href="http://www.windowsphone.com/en-US/store/publishers?publisherId=UX%2BAdditives&amp;appId=ff74e750-1992-4428-a063-cd9384c9b5cd">See all</a>
+                    </div>
+                </div>
+            <div id="packageSize">
+                <h4 class="noteText">Download size</h4>
+                <span>3 MB</span>
+            </div>
+                                    <div id="releaseDate">
+                <h4 class="noteText">Last updated</h4>
+                <meta itemprop="datePublished" content="2013-04-26" />
+                <span>9/15/2013</span>
+            </div>
+            <div id="version">
+                <h4 class="noteText">Version</h4>
+                <span itemprop="softwareVersion">1.9.8.9</span>
+                
+            </div>
+                <div id="required">
+                    <div id="softwareRequirements">
+                        <h4 class="noteText">Works with</h4>
+                        <ul>
+                                <li itemprop="operatingSystems">Windows Phone 8</li>
+                                <li itemprop="operatingSystems">Windows Phone 7.5</li>
+                        </ul>
+                    </div>
+                    <div id="hardwareRequirements">
+                        <h4 class="noteText">App requires</h4>
+
+                        <ul>
+                                <li>media playback</li>
+                                <li>data services</li>
+                                <li>Proximity</li>
+                                <li>HD720P (720x1280)</li>
+                                <li>WVGA (480x800)</li>
+                                <li>WXGA (768x1280)</li>
+                                <li>photo, music, and video libraries</li>
+                        </ul>
+                        <a class="title5" data-os="internalContent" data-ov="AppDetails:Learn more capabilities" href="http://go.microsoft.com/fwlink/?linkID=261529&amp;clcid=0x409">What's this?</a>
+                    </div>
+                </div>
+            <div id="languages" class="attribute">
+                <h4 class="noteText">Supported languages (1)</h4>
+                <div id="languageList">
+                    <div class="wrapper">
+                        <div class="textContainer">
+                                <span>English (United States)</span>
+                        </div>
+                    </div>
+                    <a id="moreLanguages" data-os="internalContent" data-ov="AppDetail:Expand language list"
+                        href="#" class="expand inline">show languages</a>
+                </div>
+            </div>
+                <div id="downloadLink">
+                    <div>
+                        <a class="title5" href="http://www.windowsphone.com/en-us/store/app/fashion/ff74e750-1992-4428-a063-cd9384c9b5cd/xap?apptype=regular">Download and install manually</a>
+                    </div>
+                    <div>
+                        <a class="learnMore" data-os="internalContent" data-ov="AppDetails:Learn more about download xap" href="http://go.microsoft.com/fwlink/?LinkId=266243&amp;clcid=0x409">Learn more</a>
+                    </div>
+                </div>
+            
+
+        </div>
+    </div>
+    <div id="appDetails">
+
+        <div id="appDescription">
+            <div class="description">
+                <pre itemprop="description">Get the latest news, images and videos about Fashion. This app collects news about Fashion from Facebook, YouTube and other sites. &#10;&#10;All items are displayed in a fast and fluid continuously scrolling list and each item can be shown in portrait and landscape orientation. We believe that using this app is the fastest way to read the latest posts and videos about Fashion. With a couple of swipe movements you can scroll through hundreds of items. &#10;&#10;With the latest update you can also search through all available news, images and videos. All items are connected to the original sources.Furthermore you can now share the images and videos to Facebook, Twitter and mail.&#10;&#10;You can suggest by email more interesting sources from Facebook or Youtube to include in this app.&#10;&#10;v1.9&#10;- Tap+Send sharing&#10;- Added pinch zoom&#10;- Added Live tiles&#10;&#10;v1.7 &#10;- Added search tags&#10;&#10;v1.4&#10;- New embedded video player. Faster, portrait and full screen landscape mode with timeline.&#10;- Download pictures to your photo album.</pre>
+            </div>
+            <a data-os="internalContent" data-ov="AppDetail:Expand app details" id="readMore"
+                href="#" class="expand inline">show details</a>
+        </div>
+
+            <div id="screenshots">
+                    <ul>
+                            <li class="R0"><a data-os="internalContent" data-ov="AppDetails:Pop up image" href="http://cdn.marketplaceimages.windowsphone.com/v8/images/80f3579a-199d-4c41-9c13-a1b8a5385ffa?imageType=ws_screenshot_large&amp;rotation=0">
+                                <img src="http://cdn.marketplaceimages.windowsphone.com/v8/images/80f3579a-199d-4c41-9c13-a1b8a5385ffa?imageType=ws_screenshot_small&amp;rotation=0" alt="80f3579a-199d-4c41-9c13-a1b8a5385ffa" itemprop="screenshot" />
+                            </a></li>
+                            <li class="R0"><a data-os="internalContent" data-ov="AppDetails:Pop up image" href="http://cdn.marketplaceimages.windowsphone.com/v8/images/7b4989d6-3d6a-42ee-89c9-db83649b31ac?imageType=ws_screenshot_large&amp;rotation=0">
+                                <img src="http://cdn.marketplaceimages.windowsphone.com/v8/images/7b4989d6-3d6a-42ee-89c9-db83649b31ac?imageType=ws_screenshot_small&amp;rotation=0" alt="7b4989d6-3d6a-42ee-89c9-db83649b31ac" itemprop="screenshot" />
+                            </a></li>
+                            <li class="vspace R90"><a data-os="internalContent" data-ov="AppDetails:Pop up image" href="http://cdn.marketplaceimages.windowsphone.com/v8/images/b8b6906e-2775-4d4b-8857-ab3995357fa6?imageType=ws_screenshot_large&amp;rotation=90">
+                                <img src="http://cdn.marketplaceimages.windowsphone.com/v8/images/b8b6906e-2775-4d4b-8857-ab3995357fa6?imageType=ws_screenshot_small&amp;rotation=90" alt="b8b6906e-2775-4d4b-8857-ab3995357fa6" itemprop="screenshot" />
+                            </a></li>
+
+                    </ul>
+                    <ul>
+                            <li class="R0"><a data-os="internalContent" data-ov="AppDetails:Pop up image" href="http://cdn.marketplaceimages.windowsphone.com/v8/images/495eb8ef-92c7-490f-8edf-a27def935bdd?imageType=ws_screenshot_large&amp;rotation=0">
+                                <img src="http://cdn.marketplaceimages.windowsphone.com/v8/images/495eb8ef-92c7-490f-8edf-a27def935bdd?imageType=ws_screenshot_small&amp;rotation=0" alt="495eb8ef-92c7-490f-8edf-a27def935bdd" itemprop="screenshot" />
+                            </a></li>
+                            <li class="R0"><a data-os="internalContent" data-ov="AppDetails:Pop up image" href="http://cdn.marketplaceimages.windowsphone.com/v8/images/eb93354c-8ff0-4410-8bba-6f57e5e12ff3?imageType=ws_screenshot_large&amp;rotation=0">
+                                <img src="http://cdn.marketplaceimages.windowsphone.com/v8/images/eb93354c-8ff0-4410-8bba-6f57e5e12ff3?imageType=ws_screenshot_small&amp;rotation=0" alt="eb93354c-8ff0-4410-8bba-6f57e5e12ff3" itemprop="screenshot" />
+                            </a></li>
+                            <li class="vspace R90"><a data-os="internalContent" data-ov="AppDetails:Pop up image" href="http://cdn.marketplaceimages.windowsphone.com/v8/images/b526f9c4-30c8-4713-9f0d-2a35b0249b8a?imageType=ws_screenshot_large&amp;rotation=90">
+                                <img src="http://cdn.marketplaceimages.windowsphone.com/v8/images/b526f9c4-30c8-4713-9f0d-2a35b0249b8a?imageType=ws_screenshot_small&amp;rotation=90" alt="b526f9c4-30c8-4713-9f0d-2a35b0249b8a" itemprop="screenshot" />
+                            </a></li>
+
+                    </ul>
+                    <ul>
+                            <li class="vspace R90"><a data-os="internalContent" data-ov="AppDetails:Pop up image" href="http://cdn.marketplaceimages.windowsphone.com/v8/images/a50614ef-1486-45bb-8172-caaf011a1418?imageType=ws_screenshot_large&amp;rotation=90">
+                                <img src="http://cdn.marketplaceimages.windowsphone.com/v8/images/a50614ef-1486-45bb-8172-caaf011a1418?imageType=ws_screenshot_small&amp;rotation=90" alt="a50614ef-1486-45bb-8172-caaf011a1418" itemprop="screenshot" />
+                            </a></li>
+                            <li class="R0"><a data-os="internalContent" data-ov="AppDetails:Pop up image" href="http://cdn.marketplaceimages.windowsphone.com/v8/images/1b2f8107-81b5-48cd-a423-27b815742e91?imageType=ws_screenshot_large&amp;rotation=0">
+                                <img src="http://cdn.marketplaceimages.windowsphone.com/v8/images/1b2f8107-81b5-48cd-a423-27b815742e91?imageType=ws_screenshot_small&amp;rotation=0" alt="1b2f8107-81b5-48cd-a423-27b815742e91" itemprop="screenshot" />
+                            </a></li>
+
+                    </ul>
+            </div>
+        
+        <div id="reviews">
+            <h4>Reviews</h4>
+                <span>No reviews</span> 
+        </div>
+
+    </div>
+</div>
+
+
+    </div>
+        <div id="footer">
+                <div id="disclaimer" class="smallText content clear">
+                    <div>
+Windows Phone Store purchases may be subject to international transaction fees, taxes, and commissions. Refer to your bank or credit card issuer for more information. For Venezuela, CADIVI is required.                    </div>
+                </div>
+            <div class="navContainer clear">
+                <div class="content">
+                    <ul id="footerNav" class="footer hMenu">
+                        <li><a data-os="navigation" data-ov="Footer:Developers" class="footer1" href="http://developer.windowsphone.com">For developers</a></li>
+                        <li><span class="separator">|</span></li>
+                        <li><a data-os="navigation" data-ov="Footer:Business" class="footer1" href="http://go.microsoft.com/fwlink/?linkId=260887&amp;clcid=0x409">For business</a></li>
+                            <li><span class="separator">|</span></li>
+                            <li><a data-os="navigation" data-ov="Footer:Newsletter" class="footer1" href="http://go.microsoft.com/fwlink/?LinkId=271584&amp;clcid=0x409">Newsletter</a></li>                            
+                        <li><span class="separator">|</span></li>
+                        <li><a data-os="navigation" data-ov="Footer:Careers" class="footer1" href="http://www.windowsphonecareers.com" target="_blank">Careers</a></li>
+                        <li><span class="separator">|</span></li>
+                        <li><a data-os="navigation" data-ov="Footer:Sitemap" class="footer1" href="http://www.windowsphone.com/en-us/sitemap">Site map</a></li>
+                        <li><span class="separator">|</span></li>
+                        <li><a data-os="navigation" data-ov="Footer:ContactUs" class="footer1" href="http://www.windowsphone.com/en-us/contact-us" >Contact us</a></li>
+                            <li><span class="separator">|</span></li>
+                            <li><a data-os="navigation" data-ov="Footer:InternalFeedback" class="footer1" id="feedbackLink"
+                                href="#">Feedback</a></li>
+                                                                            <li><span class="separator">|</span></li>
+                            <li id="facebookFan"><div class="fb-like" data-href="http://www.facebook.com/windowsphone" data-send="false" data-layout="button_count" data-show-faces="false" data-font="segoe ui" ref="wpcwam"></div></li>
+                            <li id="twitterFollow"><a href="http://www.twitter.com/windowsphone" data-lang="en" class="twitter-follow-button" data-show-screen-name="false">Follow</a></li>
+                    </ul>
+                    <div class="hr">
+                    </div>
+                    <ul id="footerSubNav" class="footer hMenu">
+                        <li><a data-os="navigation" data-ov="Footer:PrivacyStatement" class="footer2" href="http://go.microsoft.com/fwlink/?linkId=248681&amp;clcid=0x409" target="_blank">Privacy &amp; cookies</a></li>
+                        <li><span class="separator">|</span></li>
+                        <li><a data-os="navigation" data-ov="Footer:TermsOfUse" class="footer2" href="http://www.windowsphone.com/en-us/store/terms-of-service" target="_blank">Terms of Use</a></li>
+                        <li><span class="separator">|</span></li>
+                        <li><a data-os="navigation" data-ov="Footer:Trademarks" class="footer2" href="http://go.microsoft.com/?linkId=4412893&amp;clcid=0x409" target="_blank">Trademarks</a></li>
+                        <li><span class="separator">|</span></li>
+                        <li><a data-os="navigation" data-ov="Footer:Markets" class="footer2" href="http://www.windowsphone.com/en-us/markets">United States (English)</a></li>
+                    </ul>
+                    <div id="copyright" class="footer smallText">
+                        <a data-os="navigation" data-ov="Footer:Microsoft" id="mslogo" href="http://www.microsoft.com"
+                            target="_blank">
+                            <img src="/images/ms_logo.png" alt="Microsoft"/></a>
+                        <span>© 2013 Microsoft</span>
+                    </div>
+                    <div class="clear">
+                    </div>
+                </div>
+            </div>
+        </div>
+    
+    <script src="http://ajax.aspnetcdn.com/ajax/jquery/jquery-1.4.4.min.js"></script>
+    <script src="http://ajax.aspnetcdn.com/ajax/jquery.ui/1.8.6/jquery-ui.min.js"></script>
+
+    <script type="text/javascript">
+        $(function () {
+            GlobalSettings = {
+                Market: 'en-US',
+                CdnBase: 'cmsresources.windowsphone.com',
+                SearchPlaceHolder: 'Search apps and how-to'
+            };
+                
+            $('#searchInput[type="text"]').searchSuggestions('http://www.windowsphone.com/en-us/store/search/suggest', 'http://www.windowsphone.com/en-us/search')
+            
+            
+            
+            $('#searchInput[type="text"]').placeholder(GlobalSettings.SearchPlaceHolder);
+            
+        });
+        
+        var s_account = 'mswmwpapolloprod';
+        var envDomains = 'www.windowsphone.com';
+
+        var varSegmentation = 0;
+        var varClickTracking = 1;
+        var varCustomerTracking = 1;
+        var varAutoFirePV = 1;
+    </script>
+<script src="/scripts/site/tracking?v=epu5PV0-dIx6PfULKngSMVk_zZSp0bxoWTN7aRq9q9o1"></script>
+
+<script type="text/javascript">
+    if (s) {
+        try {
+            s.channel = 'Marketplace';
+                s.pageName = 'Marketplace\x3aApp Detail';
+                s.prop3 = s.eVar3 = 'signed-out';
+                s.prop11 = s.eVar11 = 'en-US';
+                s.prop2 = s.eVar2 = 'Unknown 0.0';
+
+                    WpsTracking.experimentIds = '000000_B';
+
+
+
+                var distinctPage = true;    
+
+                    WpsTracking.atlasTrack('mrtwpp_StoreClicksENUS_10');
+                                    WpsTracking.appendProperties('products', 'Apps\x3bff74e750-1992-4428-a063-cd9384c9b5cd fashion');
+                                    s.events = WpsTracking.appendValueToVariable(s.events, 'prodview');
+                    s.events = WpsTracking.appendValueToVariable(s.events, 'event32');
+            }
+            catch (ex) {
+            }
+        }
+</script>
+    
+<script src="http://c.microsoft.com/ms.js"></script>
+<noscript>
+    <img alt="" width="1" height="1" src="http://c.microsoft.com/trans_pixel.aspx" />
+</noscript>
+<script src="/scripts/site?v=j_QykSpYNU4u55kWALLgSHc06vQJOaLxecZs_KMYH8E1"></script>
+<script src="/scripts/site/webmetrics?v=Ki2mC4GjznhEisZBDs9T2wM5Z0eW1tTN_ri65FHtpWs1"></script>
+    <script type="text/javascript">
+        $(WebMetricsSettings =
+            {
+                urls: {
+                    trackingUrl: "http://www.windowsphone.com/webmetrics/uploaddata",
+                    currentUrl: "http://www.windowsphone.com/en-us/store/app/fashion/ff74e750-1992-4428-a063-cd9384c9b5cd"
+                },
+                locale: "en-US",
+                isUserSignedIn: "False",
+                numberOfUserDevices: "0",
+                activityId: "405ef2e1-bf80-408a-beeb-354742127015",
+                isRecurrentUser: "False",
+                experimentContextString: ""
+            });
+    </script>
+    <div id="fb-root">
+    </div>
+    <script type="text/javascript">
+        window.fbAsyncInit = function () {
+            FB.init({
+                appId: '210175465694104',
+                channelUrl: '//www.windowsphone.com/channel.html',
+                status: true,
+                cookie: true,
+                xfbml: true
+            });
+
+            // FB tracking
+            FB.Event.subscribe('edge.create',
+                function (response) {
+                    WpsTracking.omnitureCustomTrack(WpsTracking.properties["socialShare"], "Facebook Like");
+                }
+            );
+        };
+
+        runFacebook = function () {
+            var js, id = 'facebook-jssdk', ref = document.getElementsByTagName('script')[0];
+            if (document.getElementById(id)) { return; }
+            js = document.createElement('script'); js.id = id; js.async = true;
+            js.src = "//connect.facebook.net/en_US/all.js";
+            ref.parentNode.insertBefore(js, ref);
+        };
+        CheckWindowLoadEventAndRunFunction(runFacebook);
+    </script>
+    <script type="text/javascript" charset="utf-8">
+        window.twttr = (function (d, s, id) {
+            function loadTwitterScript() {
+                var t, js, fjs = d.getElementsByTagName(s)[0];
+                if (d.getElementById(id)) return;
+                js = d.createElement(s);
+                js.id = id;
+                js.src = "//platform.twitter.com/widgets.js";
+                fjs.parentNode.insertBefore(js, fjs);
+            }
+            CheckWindowLoadEventAndRunFunction(loadTwitterScript);
+            return window.twttr || (t = { _e: [], ready: function (f) { t._e.push(f); } });
+        }(document, "script", "twitter-wjs"));
+
+        twttr.ready(function (twttr) {
+            twttr.events.bind('tweet', function (event) {
+                WpsTracking.omnitureCustomTrack(WpsTracking.properties["socialShare"], "Twitter Tweet");
+            });
+
+            twttr.events.bind('retweet', function (event) {
+                WpsTracking.omnitureCustomTrack(WpsTracking.properties["socialShare"], "Twitter ReTweet");
+            });
+
+            twttr.events.bind('click', function (event) {
+                WpsTracking.omnitureCustomTrack(WpsTracking.properties["navigation"], "Twitter Click");
+            });
+
+            twttr.events.bind('favorite', function (event) {
+                WpsTracking.omnitureCustomTrack(WpsTracking.properties["navigation"], "Twitter Favorite");
+            });
+        });
+    </script>            
+
+    
+    <script type="text/javascript">
+        var appDetailsStrings =
+        {
+            readLessString: 'hide details',
+            readMoreString: 'show details',
+            hideLanguagesString: 'hide languages',
+            showLanguagesString: 'show languages',
+            reviewError: 'Rating error'
+        }
+
+
+
+        $(function () {
+                ScreenshotViewer.src = '/en-us/store/app/fashion/ff74e750-1992-4428-a063-cd9384c9b5cd/screenshots?appType=Regular';
+        });
+    </script>
+
+    <script src="/scripts/store?v=JghUjlrmC1dZJFroYAwsTqnp2KRc1OBdnBq3skwQZ4U1"></script>
+
+        <script type="text/javascript">
+            $(function () {
+                FeedbackSettings = {
+                    feedbackBaseUrl: "http://feedback.windowsphone.com/FeedbackService.svc/",
+                    feedbackCdn: "http://feedback.windowsphone.com/feedback/",
+                    feedbackClientId: "1000",
+                    feedbackExitSurveyId: "1",
+                    feedbackMarket: "en-US",
+                    feedbackuserloggedIn: "0",
+                    feedbackUseSurvey: false
+                };
+            });
+        </script>
+<script src="http://feedback.windowsphone.com/feedback/scripts/mainPage.js"></script>
+    <!-- ConsumerWebApplication_IN_10, 9.0.13204.1, 405ef2e1-bf80-408a-beeb-354742127015 -->
+</body>
+</html>
+

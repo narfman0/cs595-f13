@@ -1,0 +1,1586 @@
+<!DOCTYPE html>
+<script>var __pbpa = true;</script><script>var translated_warning_string = 'Aviso: Nunca introduza a sua senha do Tumblr a n\u00e3o ser que o endere\u00e7o \u201chttps://www.tumblr.com/login\u201d\x0aconste no seu browser.\x0a\x0aDever\u00e1 igualmente ver a seguinte identifica\u00e7\u00e3o \u201cTumblr, Inc.\u201d a verde na barra de endere\u00e7o.\x0a\x0aOs spammers e outros malandros utilizam formul\u00e1rios falsos para roubar senhas.\x0a\x0aO Tumblr nunca lhe ir\u00e1 pedir para aceder a partir de um blogue de um utilizador.\x0a\x0aTem a certeza absoluta de que pretende continuar?';</script><script type="text/javascript" language="javascript" src="http://assets.tumblr.com/assets/scripts/pre_tumblelog.js?_v=90496f22ffd4b193ff4f3aa39d43d2af"></script>
+<html>
+    <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# blog: http://ogp.me/ns/blog#">
+     
+    <title>Entre notas e acordes</title>
+     
+    <link rel="shortcut icon" href="http://25.media.tumblr.com/avatar_e2c7797fbd8b_128.png">
+    <link rel="alternate" type="application/rss+xml" href="http://no-ritimo-de-uma-batida-perfeita.tumblr.com/rss">
+    
+    <meta name="description" content="" />
+    
+     
+    <meta name="color:Text" content="#000000"/>
+    <meta name="color:Links" content="#000000"/>
+    <meta name="color:Hover" content="#000000"/>
+    <meta name="color:sid" content="#fff"/>
+    <meta name="color:Background" content="#ffffff"/">
+    <meta name="font:body" content="Georgia" />
+    <meta name="text:titulo" content="Modifique no appearance" />
+    <meta name="text:sbtitulo" content="o sub tbm no appearance " />
+    <meta name="text:sbtitulo2" content="o sub2 e todo resto  " />
+    <meta name="image:background" content=""/>
+    <meta name="if:NotRepeatBackground" content="1"/>
+    <meta name="color:backgroundlinha1" content="#000" />
+    <meta name="color:backgroundlinha2" content="#000" />
+    <meta name="color:text sub" content="#fff" />
+
+
+    <meta name="image:sidebar1" content=""/>
+    <meta name="image:sidebar2" content=""/>
+    <meta name="image:sidebar3" content=""/>
+    <meta name="image:sidebar4" content=""/>
+    <meta name="color:banner" content="#000"/>
+    <meta name="color:menu hover" content="#000"/> 
+    <meta name="color:menu" content="#000"/>
+    <meta name="color:menu letras" content="#fff"/>
+
+<meta name="text:Link1" content="/" />
+<meta name="text:Link1 Title" content="complete" />
+<meta name="text:Link2" content="/" />
+<meta name="text:Link2 Title" content="todos" />
+<meta name="text:Link3" content="/" />
+<meta name="text:Link3 Title" content="links" />
+<meta name="text:Link4" content="/" />
+<meta name="text:Link4 Title" content="por" />
+
+
+    <script type="text/javascript"
+    src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.1/jquery.min.js"></script>
+     
+     
+     
+    <style type="text/css">
+     
+    iframe#tumblr_controls {
+    top: 0% !important;
+    right:0% !important;
+    position: fixed !important;}
+ 
+ 
+    body {
+    font-family: verdana;
+    font-size: 10px;
+    color: #ff008b;
+    background:#050304;
+    background-image:url('http://assets.tumblr.com/images/x.gif'); background-attachment: fixed;  background-repeat: no-repeat; background-position: right; }
+    }
+     
+     
+    a:hover {color: #feff00;
+    -webkit-transition: 0.1s ease-in;}
+     
+   
+         
+        #icon {
+        text-align: center;
+        width: 100px;
+        display: block;
+        padding: 8px;
+        }
+         
+        #container {
+        background-color:transparent;
+        width: 420px;
+        position: absolute;
+        top: 100px;
+        left: 700px;
+        padding-bottom: 10px}
+         #entries {margin: -5px 0 10px 0}
+         
+        #entry {
+        width: 500px;
+        background-color:;
+        text-align: justify;
+        padding: 20px;
+        margin: 0px 0 5px 0
+        }
+         
+        .image{text-align: center; margin: 0 0 5px 0}
+        .image img{border: 0px; margin: 0; padding: 0}
+         
+        #ask_form{width: 500px}
+         
+        .search_result{font-size: 12px; text-align: center}
+         
+        .source{display:none}
+         
+        h1{
+        font-family: georgia;
+        font-size:30px;
+        letter-spacing: -1px;
+        line-height: 20px;
+        text-transform: none;
+        font-weight: normal;
+        margin: 0 0 5px 0;
+        text-align: center
+        }
+         
+        h1 a{
+        font-size:30px;
+        letter-spacing: -1px;
+        line-height: 20px;
+        text-transform: none;
+        font-weight: normal;
+        margin: 0 0 5px 0;
+        text-decoration: none;
+        text-align: center
+        }
+         
+        .qqmarks{
+        font-size: 100px;
+        font-weight: bold;
+        line-height: 100px;
+        opacity: 0.3;
+        filter:alpha (opacity=20)
+        }
+         
+        .qquote{
+        font-family: georgia;
+        font-size: 20px;
+        letter-spacing: 0px;
+        line-height: 30px;
+        text-transform: none;
+        margin-top: -70px;
+        margin-left: 45px
+        }
+         
+       .qsource{
+        margin: 5px 20px 0 0;
+        text-align: right}
+         
+        .chat{
+        line-height: 13px;
+        list-style: none
+        }
+         
+        .chat ul {
+        line-height: 15px;
+        list-style: none;
+        padding: 0px;
+        line-height: 20px;
+        }
+         
+        .person1 {
+        background-color: ;
+        color: #ff008b
+        }
+        .person1 .label {
+        font-weight: bold;
+        padding: 0px;
+        margin-left: 5px;
+        color: #ff008b
+        }
+        .person2 {
+        background-color: #050304;
+        color: #ff008b
+        }
+        .person2 .label {
+        font-weight: bold;
+        padding: 0px;
+        margin-left: 5px;
+        color: #ff008b
+        }
+         
+        .audioimage{
+        float:left;
+        text-align: center;
+        margin: 0 10px 5px 0;
+        width: 205px;
+        border: 15px solid #050304;
+        }
+        .audioimage img{
+        max-width: 200px;
+        height: auto;
+        margin: 0 0 2px 0
+        }
+        .playcount {font-style: italic}
+         
+         
+        .asker {
+        width: 480px;
+        background-color: #050304;
+        color:#ff008b;
+        padding: 0px
+        }
+        .asker img{
+        float: left;
+        margin: 0px 4px 2px 0
+        }
+        .asker a{
+        font-size: 15px;
+        color:;
+        text-transform: lowercase;
+        line-height: 27px;
+        padding: 0; margin: 0;
+        font-family: georgia;
+        }
+        .asker a:hover{
+        font-size: 15px;
+        color:;
+        text-transform: lowercase;
+        line-height:27px;
+        padding: 0;
+        margin: 0;
+        font-family: Segoe Script;
+        }
+        .answer {padding: 5px 0 0 0}
+         
+        #cap {
+        padding: 2px 0 0 0;
+        width: 500px;
+        margin: 0 0 0 5px
+        }
+         
+        .info {
+        margin-top: 6px;
+        border-left: 0px solid #ff0077;
+        padding: 5px;
+        background-color: #050304;
+        text-align: center;
+        font-size: 10px;
+        font-family: verdana;
+        text-transform: lowercase;
+        }
+         
+        .info a {font-size: 10px;}
+         
+        .info2 {
+        padding: 2px;
+        border-bottom: 1px dotted #050304;
+        text-align: right;
+        }
+       
+ 
+ 
+ 
+        #notes {
+        width: 500px;
+        margin: 0px;
+        margin-left: 0px;
+        padding: 5px;
+        text-align: left
+        }
+         
+        ol.notes {list-style: none; margin: 0 20px 0 10px; padding: 0px}
+        ol.notes li {margin: 0px; padding: 2px;}
+ 
+         
+        #notes img{border:0px}
+        #notes a{font-size: 10px}
+         
+        #tumblr_controls{position: fixed!important}
+        ::-webkit-scrollbar{width:8px;height:8px;}
+         
+        ::-webkit-scrollbar-button:start:decrement
+         
+        ::-webkit-scrollbar-button:end:increment{display:block;height:0;background-color:transparent;}
+         
+        ::-webkit-scrollbar-track-piece{background-color:#fff;-webkit-border-radius:0;-webkit-border-bottom-right-radius:3px;-webkit-border-bottom-left-radius:3px;}
+         
+        ::-webkit-scrollbar-thumb:vertical{height:50px; background-color:#000;-webkit-border-radius:px;}
+         
+        ::-webkit-scrollbar-thumb:horizontal{width:50px; background-color:#000;-webkit-border-radius:px;}
+     
+ 
+    .permalink {
+    font-family:'Arial Black', Arial, 'Helvetica Neue', Helvetica, sans-serif;
+    width:50px;
+    padding:5px;
+    margin-left:500px;
+    text-align: left;
+    position:absolute;
+    opacity:0;
+    -moz-transition: all 0.3s ease-out;
+    -o-transition: all 0.3s ease-out;
+    -webkit-transition: all 0.3s ease-out;
+    transition: all 0.3s ease-out;
+    }
+     
+    .permalink a:hover{
+    color:#feff00
+    }
+     
+    .ptitle { }
+     
+    .links {font-family:'Arial Black', Arial, 'Helvetica Neue', Helvetica, sans-serif;font-size:10px;}
+     
+    .pag {font-size:10px;border-top:dotted 1px #000000;text-align:right;}
+    .linkpost
+    a {}
+     
+     
+    .text {font-family:'Arial Black', Arial, 'Helvetica Neue', Helvetica, sans-serif;font-size:10px;}
+     
+     
+        .sidebarpages {
+        margin: 120px 0 0 0;
+        text-align: center;
+        }
+         
+        .sidebarpages a {
+        text-decoration: none;
+        color: #000000
+        }
+         
+        .sidebarpages a:hover {
+        color:{color: #666666};
+        background-color: transparent
+        }
+     
+     a:link, a:active, a:visited {
+        color: #ff0077;
+        text-decoration:none;
+        }
+         
+        a:hover {
+        color: #feff00;
+        -webkit-transition-duration: 0.1s;
+        -moz-transition-duration: 0.1s;
+        }
+         
+        .spic img{
+        max-width: 150px;
+        text-align:center;
+        margin-top: 2px
+        }
+         
+        #simag {
+        margin-bottom:2px;
+        margin-top:2px
+        }
+     
+ 
+    .sidebar {background:#050304; width:400px; left:150px; position:fixed; top:100px; padding:0px;font-family:'Arial Black', Arial, 'Helvetica Neue', Helvetica, sans-serif; background-image:;}
+     
+         #title { font-size: 42px; text-align: center; line-height:20px;  padding:0px; font-family: Andalus; color: #fff;}
+     
+ 
+   #sub { font-size: 10px; text-align: right; line-height:0px;  padding:-12px; font-family: verdana; color: #e6e5f5;}
+           
+     
+
+     
+     
+    .descricao {background-color:;text-align:justify; font-family: verdana; font-size: 10px; padding: 4px 4px 4px 4px width: 400px; }
+     
+  
+.linha1 {width: 390px; padding: 5px; background-color: #0a0400;font-family: verdana; font-size: 10px; color: ;}
+
+ .linha2 {width: 390px; padding: 5px; background-color: #0a0a00; font-family: verdana; font-size: 10px; color: ;}
+ 
+ 
+ 
+
+    .sidebar2 {background:#050304; width:97px; left:20px; position:fixed; top:70px; padding:0px; color:;}
+ 
+
+
+   .sidebar3 {background-color:#ff00a9; width:1500px; left:-1px; position:fixed; top:0px;text-align:center; padding:20px;}
+
+#pagina {width: 400px; height: 100%; margin-left: -10px; position: fixed;}
+ 
+/*** Paginação by madlyluv.com ***/
+#paginacaoml {font-size: 10px; font-weight: none; line-height: 21px; text-shadow: 0 0px 0px #;}
+#paginacaoml a {background: #; margin: 0 1px 0 0; padding: 2px 4px; color: #000; text-decoration: none;}
+#paginacaoml a:hover {background: #;}
+#paginacaoml span.pagina_atual {background: #; margin: 0 1px 0 0; padding: 2px 4px; color: #000; text-decoration: none;}
+#paginacaoml span.info {background: #; margin: 0 0px 0 0; padding: 2px 4px; color: #000; text-decoration: none;}
+
+
+
+    .slinks{width: 100px; text-transform: none;  margin-left: -3px;}
+    .slinks a{display: block; text-decoration: none; color: #ee139c; background-color: #080808; }
+    .slinks a:hover{background-color:#ff0081; color:; text-transform: lowercase;}
+     
+
+
+.nav{
+display:inline-block;
+background-color:#080808;
+color:#080808;
+font-size:10px;
+text-transform:lowercase;
+width:100px;
+height:50px;
+line-height:50px;
+text-align:center;
+font-family: verdana;
+-webkit-transition: all 0.1s ease-out; 
+-moz-transition: all 0.1s ease-out;}
+
+.nav:hover{
+background-color:#080808;
+color:#080808;
+font-family: verdana;
+transform: rotate(45deg); -moz-transform: rotate(45deg); -webkit-transform: rotate(45deg); -o-transform: rotate(45deg); letter-spacing: 2px; }
+
+
+     
+
+  </style>
+    
+<!-- BEGIN TUMBLR FACEBOOK OPENGRAPH TAGS -->
+<!-- If you'd like to specify your own Open Graph tags, define the og:url and og:title tags in your theme's HTML. -->
+<!-- Read more: http://ogp.me/ -->
+<meta property="fb:app_id" content="48119224995" />
+<meta property="og:site_name" content="Entre notas e acordes" />
+<meta property="og:title" content="Entre notas e acordes" />
+<meta property="og:url" content="http://no-ritimo-de-uma-batida-perfeita.tumblr.com/post/62192807169" />
+<meta property="og:determiner" content="a" />
+<meta property="og:description" content="" />
+<meta property="og:type" content="tumblr-feed:photo" />
+<meta property="og:image" content="http://24.media.tumblr.com/tumblr_mdp6b9NlIu1rvgsv0o1_400.jpg" />
+<!-- END TUMBLR FACEBOOK OPENGRAPH TAGS -->
+
+
+<!-- TWITTER TAGS -->
+<meta charset="utf-8">
+            <meta name="twitter:card" content="photo" />
+            <meta name="twitter:description" content="" />
+            <meta name="twitter:image" content="http://24.media.tumblr.com/tumblr_mdp6b9NlIu1rvgsv0o1_400.jpg" />
+            <meta name="twitter:url" content="http://no-ritimo-de-uma-batida-perfeita.tumblr.com/post/62192807169" />
+            <meta name="twitter:site" content="tumblr" />
+            <meta name="twitter:creator" content="porraiasmim" />
+            <meta name="twitter:app:name:iphone" content="Tumblr" />
+            <meta name="twitter:app:name:ipad" content="Tumblr" />
+            <meta name="twitter:app:name:googleplay" content="Tumblr" />
+            <meta name="twitter:app:id:iphone" content="305343404" />
+            <meta name="twitter:app:id:ipad" content="305343404" />
+            <meta name="twitter:app:id:googleplay" content="com.tumblr" />
+            <meta name="twitter:app:url:iphone" content="tumblr://x-callback-url/blog?blogName=no-ritimo-de-uma-batida-perfeita&amp;postID=62192807169&amp;referrer=twitter-cards" />
+            <meta name="twitter:app:url:ipad" content="tumblr://x-callback-url/blog?blogName=no-ritimo-de-uma-batida-perfeita&amp;postID=62192807169&amp;referrer=twitter-cards" />
+            <meta name="twitter:app:url:googleplay" content="tumblr://x-callback-url/blog?blogName=no-ritimo-de-uma-batida-perfeita&amp;postID=62192807169&amp;referrer=twitter-cards" />
+    
+
+<script type="text/javascript" src="http://assets.tumblr.com/assets/scripts/tumblelog.js?_v=cf7aeb03e820314a6cb2890dfa192802"></script>
+<meta http-equiv="x-dns-prefetch-control" content="off"/>
+</head>
+     
+    
+     
+
+     
+    <body>
+   
+         <div id="container">
+         
+        <div id="entries">
+        
+         
+         
+        
+         
+        
+         
+        <div id="entry">
+        
+         
+        <div class="image"><img src="http://24.media.tumblr.com/tumblr_mdp6b9NlIu1rvgsv0o1_400.jpg"></div>
+        <div id="cap"><p>(via <a href='http://panda-sexy.tumblr.com/post/62191705061'>panda-sexy</a>)</p></div>
+         
+        
+         
+        
+         
+        
+         
+        
+         
+        
+         
+        
+         
+        
+         
+        <div class="source"><a href="http://umaperfeitaestranha.tumblr.com/post/36003630663">Fonte:<a href="http://umaperfeitaestranha.tumblr.com/post/36003630663" class="source_link">umaperfeitaestranha</a></a>
+        </div>
+         
+ 
+ 
+         
+        <div class="info">
+      <a href="http://no-ritimo-de-uma-batida-perfeita.tumblr.com/post/62192807169">Há 2 dias</a>   · <a href="http://no-ritimo-de-uma-batida-perfeita.tumblr.com/post/62192807169">6 288 notas</a><br>
+        </div></div>
+        
+        
+        <div id="nts"><div id="ntstext">
+
+<ol class="notes">
+
+    <!-- START NOTES -->
+                            
+        
+                                                                
+        
+        
+        <li class="note like tumblelog_letsjujuba without_commentary">
+
+                                                                                <a rel="nofollow" class="avatar_frame" target="_blank" href="http://letsjujuba.tumblr.com/" title="Sem t&iacute;tulo " rel="nofollow"><img src="http://24.media.tumblr.com/avatar_0c510c987ea1_16.png" class="avatar " alt="" /></a>
+                
+                <span class="action">
+                    
+                                            <a rel="nofollow" href="http://letsjujuba.tumblr.com/" title="Sem t&iacute;tulo" rel="nofollow">letsjujuba</a> gosta disto                                    </span>
+
+                <div class="clear"></div>
+
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note reblog tumblelog_ha-tersgonnahate without_commentary">
+
+                        
+                
+                                                                                        <a rel="nofollow" class="avatar_frame" target="_blank" href="http://ha-tersgonnahate.tumblr.com/" title="Haters make me famous."><img src="http://24.media.tumblr.com/avatar_af4d0cb809f9_16.png" class="avatar " alt="" /></a>
+                    
+                    <span class="action" data-post-url="http://ha-tersgonnahate.tumblr.com/post/62291731517">
+                                                    
+                                                                                                                                                                                    <a rel="nofollow" href="http://ha-tersgonnahate.tumblr.com/" class="tumblelog" title="Haters make me famous.">ha-tersgonnahate</a> reblogou isto de <a rel="nofollow" href="http://nova-aprendiz.tumblr.com/" class="source_tumblelog" title="Vacilou, a fila andou">nova-aprendiz</a>                                                                                                                                                                                    </span>
+                    <div class="clear"></div>
+
+                                    
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note reblog tumblelog_alwayssmilings2 without_commentary">
+
+                        
+                
+                                                                                        <a rel="nofollow" class="avatar_frame" target="_blank" href="http://alwayssmilings2.tumblr.com/" title="Always Smiling s2.*"><img src="http://31.media.tumblr.com/avatar_063bf1e73ad3_16.png" class="avatar " alt="" /></a>
+                    
+                    <span class="action" data-post-url="http://alwayssmilings2.tumblr.com/post/62278373266">
+                                                    
+                                                                                                                                                                                    <a rel="nofollow" href="http://alwayssmilings2.tumblr.com/" class="tumblelog" title="Always Smiling s2.*">alwayssmilings2</a> reblogou isto de <a rel="nofollow" href="http://girl-deferro.tumblr.com/" class="source_tumblelog" title="">girl-deferro</a>                                                                                                                                                                                    </span>
+                    <div class="clear"></div>
+
+                                    
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note reblog tumblelog_50-tons-de-pingaa without_commentary">
+
+                        
+                
+                                                                                        <a rel="nofollow" class="avatar_frame" target="_blank" href="http://50-tons-de-pingaa.tumblr.com/" title="Prince Shameless"><img src="http://31.media.tumblr.com/avatar_add0f848a871_16.png" class="avatar " alt="" /></a>
+                    
+                    <span class="action" data-post-url="http://50-tons-de-pingaa.tumblr.com/post/62257748265">
+                                                    
+                                                                                                                                                                                    <a rel="nofollow" href="http://50-tons-de-pingaa.tumblr.com/" class="tumblelog" title="Prince Shameless">50-tons-de-pingaa</a> reblogou isto de <a rel="nofollow" href="http://desapega-doapegavel.tumblr.com/" class="source_tumblelog" title="">desapega-doapegavel</a>                                                                                                                                                                                    </span>
+                    <div class="clear"></div>
+
+                                    
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note reblog tumblelog_a-menina-que-roubava-ask without_commentary">
+
+                        
+                
+                                                                                        <a rel="nofollow" class="avatar_frame" target="_blank" href="http://a-menina-que-roubava-ask.tumblr.com/" title="A menina que roubava Ask"><img src="http://31.media.tumblr.com/avatar_758e8f0cb548_16.png" class="avatar " alt="" /></a>
+                    
+                    <span class="action" data-post-url="http://a-menina-que-roubava-ask.tumblr.com/post/62249724543">
+                                                    
+                                                                                                                                                                                    <a rel="nofollow" href="http://a-menina-que-roubava-ask.tumblr.com/" class="tumblelog" title="A menina que roubava Ask">a-menina-que-roubava-ask</a> reblogou isto de <a rel="nofollow" href="http://ilovecorujas.tumblr.com/" class="source_tumblelog" title="I love you to death">ilovecorujas</a>                                                                                                                                                                                    </span>
+                    <div class="clear"></div>
+
+                                    
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note reblog tumblelog_pinguin-ana without_commentary">
+
+                        
+                
+                                                                                        <a rel="nofollow" class="avatar_frame" target="_blank" href="http://pinguin-ana.tumblr.com/" title="Pinguin_An&atilde;"><img src="http://25.media.tumblr.com/avatar_7e0ad6f2ad49_16.png" class="avatar " alt="" /></a>
+                    
+                    <span class="action" data-post-url="http://pinguin-ana.tumblr.com/post/62249070655">
+                                                    
+                                                                                                                                                                                    <a rel="nofollow" href="http://pinguin-ana.tumblr.com/" class="tumblelog" title="Pinguin_An&atilde;">pinguin-ana</a> reblogou isto de <a rel="nofollow" href="http://le-fenoninha.tumblr.com/" class="source_tumblelog" title="Fenoninha">le-fenoninha</a>                                                                                                                                                                                    </span>
+                    <div class="clear"></div>
+
+                                    
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note reblog tumblelog_unitedfor without_commentary">
+
+                        
+                
+                                                                                        <a rel="nofollow" class="avatar_frame" target="_blank" href="http://unitedfor.tumblr.com/" title="I&#039;m glad you came!"><img src="http://25.media.tumblr.com/avatar_dbe757936771_16.png" class="avatar " alt="" /></a>
+                    
+                    <span class="action" data-post-url="http://unitedfor.tumblr.com/post/62243830253">
+                                                    
+                                                                                                                                                                                    <a rel="nofollow" href="http://unitedfor.tumblr.com/" class="tumblelog" title="I&#039;m glad you came!">unitedfor</a> reblogou isto de <a rel="nofollow" href="http://filha-de-poseidon.tumblr.com/" class="source_tumblelog" title="Mommy">filha-de-poseidon</a>                                                                                                                                                                                    </span>
+                    <div class="clear"></div>
+
+                                    
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note reblog tumblelog_eunaovouser without_commentary">
+
+                        
+                
+                                                                                        <a rel="nofollow" class="avatar_frame" target="_blank" href="http://eunaovouser.tumblr.com/" title="_eu nao vou ser..."><img src="http://24.media.tumblr.com/avatar_d81baee4c088_16.png" class="avatar " alt="" /></a>
+                    
+                    <span class="action" data-post-url="http://eunaovouser.tumblr.com/post/62243223841">
+                                                    
+                                                                                                                                                                                    <a rel="nofollow" href="http://eunaovouser.tumblr.com/" class="tumblelog" title="_eu nao vou ser...">eunaovouser</a> reblogou isto de <a rel="nofollow" href="http://umpoucosobremim01.tumblr.com/" class="source_tumblelog" title="Um Pouco Sobre Mim">umpoucosobremim01</a>                                                                                                                                                                                    </span>
+                    <div class="clear"></div>
+
+                                    
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note reblog tumblelog_sonhos-tolos without_commentary">
+
+                        
+                
+                                                                                        <a rel="nofollow" class="avatar_frame" target="_blank" href="http://sonhos-tolos.tumblr.com/" title="&#039;&#039;Al&eacute;m De Mim :)"><img src="http://31.media.tumblr.com/avatar_a5f4da3a08c2_16.png" class="avatar " alt="" /></a>
+                    
+                    <span class="action" data-post-url="http://sonhos-tolos.tumblr.com/post/62241960076">
+                                                    
+                                                                                                                                                                                    <a rel="nofollow" href="http://sonhos-tolos.tumblr.com/" class="tumblelog" title="&#039;&#039;Al&eacute;m De Mim :)">sonhos-tolos</a> reblogou isto de <a rel="nofollow" href="http://nova-aprendiz.tumblr.com/" class="source_tumblelog" title="Vacilou, a fila andou">nova-aprendiz</a>                                                                                                                                                                                    </span>
+                    <div class="clear"></div>
+
+                                    
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note like tumblelog_bkdafkja-jse without_commentary">
+
+                                                                                <a rel="nofollow" class="avatar_frame" target="_blank" href="http://bkdafkja-jse.tumblr.com/" title="Sem t&iacute;tulo " rel="nofollow"><img src="http://31.media.tumblr.com/avatar_caa0a4d1e85e_16.png" class="avatar " alt="" /></a>
+                
+                <span class="action">
+                    
+                                            <a rel="nofollow" href="http://bkdafkja-jse.tumblr.com/" title="Sem t&iacute;tulo" rel="nofollow">bkdafkja-jse</a> gosta disto                                    </span>
+
+                <div class="clear"></div>
+
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note reblog tumblelog_sangueando without_commentary">
+
+                        
+                
+                                                                                        <a rel="nofollow" class="avatar_frame" target="_blank" href="http://sangueando.tumblr.com/" title="No feelings. ✝"><img src="http://25.media.tumblr.com/avatar_1ebd73ec906f_16.png" class="avatar " alt="" /></a>
+                    
+                    <span class="action" data-post-url="http://sangueando.tumblr.com/post/62221162554">
+                                                    
+                                                                                                                                                                                    <a rel="nofollow" href="http://sangueando.tumblr.com/" class="tumblelog" title="No feelings. ✝">sangueando</a> reblogou isto de <a rel="nofollow" href="http://totalmenteinsuficiente.tumblr.com/" class="source_tumblelog" title="Himmel">totalmenteinsuficiente</a>                                                                                                                                                                                    </span>
+                    <div class="clear"></div>
+
+                                    
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note like tumblelog_torto-anjo without_commentary">
+
+                                                                                <a rel="nofollow" class="avatar_frame" target="_blank" href="http://torto-anjo.tumblr.com/" title="Sem t&iacute;tulo " rel="nofollow"><img src="http://25.media.tumblr.com/avatar_bd8b7d36ab45_16.png" class="avatar " alt="" /></a>
+                
+                <span class="action">
+                    
+                                            <a rel="nofollow" href="http://torto-anjo.tumblr.com/" title="Sem t&iacute;tulo" rel="nofollow">torto-anjo</a> gosta disto                                    </span>
+
+                <div class="clear"></div>
+
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note reblog tumblelog_vida-cheia-de-sonhos without_commentary">
+
+                        
+                
+                                                                                        <a rel="nofollow" class="avatar_frame" target="_blank" href="http://vida-cheia-de-sonhos.tumblr.com/" title="Vida cheia de sonhos"><img src="http://31.media.tumblr.com/avatar_9ca733b74e0b_16.png" class="avatar " alt="" /></a>
+                    
+                    <span class="action" data-post-url="http://vida-cheia-de-sonhos.tumblr.com/post/62219249553">
+                                                    
+                                                                                                                                                                                    <a rel="nofollow" href="http://vida-cheia-de-sonhos.tumblr.com/" class="tumblelog" title="Vida cheia de sonhos">vida-cheia-de-sonhos</a> reblogou isto de <a rel="nofollow" href="http://aleboukouvalas.tumblr.com/" class="source_tumblelog" title="Dead Memories">aleboukouvalas</a>                                                                                                                                                                                    </span>
+                    <div class="clear"></div>
+
+                                    
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note reblog tumblelog_umpoucosobremim01 without_commentary">
+
+                        
+                
+                                                                                        <a rel="nofollow" class="avatar_frame" target="_blank" href="http://umpoucosobremim01.tumblr.com/" title="Um Pouco Sobre Mim"><img src="http://24.media.tumblr.com/avatar_ecb2ac9dc897_16.png" class="avatar " alt="" /></a>
+                    
+                    <span class="action" data-post-url="http://umpoucosobremim01.tumblr.com/post/62211196661">
+                                                    
+                                                                                                                                                                                    <a rel="nofollow" href="http://umpoucosobremim01.tumblr.com/" class="tumblelog" title="Um Pouco Sobre Mim">umpoucosobremim01</a> reblogou isto de <a rel="nofollow" href="http://doida-do-natagoiaba.tumblr.com/" class="source_tumblelog" title="Doida do natagoiaba">doida-do-natagoiaba</a>                                                                                                                                                                                    </span>
+                    <div class="clear"></div>
+
+                                    
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note reblog tumblelog_ouur-little-secret without_commentary">
+
+                        
+                
+                                                                                        <a rel="nofollow" class="avatar_frame" target="_blank" href="http://ouur-little-secret.tumblr.com/" title="♡ i hate you ♡"><img src="http://25.media.tumblr.com/avatar_643586f6077d_16.png" class="avatar " alt="" /></a>
+                    
+                    <span class="action" data-post-url="http://ouur-little-secret.tumblr.com/post/62206657972">
+                                                    
+                                                                                                                                                                                    <a rel="nofollow" href="http://ouur-little-secret.tumblr.com/" class="tumblelog" title="♡ i hate you ♡">ouur-little-secret</a> reblogou isto de <a rel="nofollow" href="http://linguagem-morta.tumblr.com/" class="source_tumblelog" title="happy hour">linguagem-morta</a>                                                                                                                                                                                    </span>
+                    <div class="clear"></div>
+
+                                    
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note reblog tumblelog_linguagem-morta without_commentary">
+
+                        
+                
+                                                                                        <a rel="nofollow" class="avatar_frame" target="_blank" href="http://linguagem-morta.tumblr.com/" title="happy hour"><img src="http://24.media.tumblr.com/avatar_c7c472bc66d1_16.png" class="avatar " alt="" /></a>
+                    
+                    <span class="action" data-post-url="http://linguagem-morta.tumblr.com/post/62206153069">
+                                                    
+                                                                                                                                                                                    <a rel="nofollow" href="http://linguagem-morta.tumblr.com/" class="tumblelog" title="happy hour">linguagem-morta</a> reblogou isto de <a rel="nofollow" href="http://the-older-angel.tumblr.com/" class="source_tumblelog" title="At&eacute; o final.">the-older-angel</a>                                                                                                                                                                                    </span>
+                    <div class="clear"></div>
+
+                                    
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note like tumblelog_its-anananan-blr without_commentary">
+
+                                                                                <a rel="nofollow" class="avatar_frame" target="_blank" href="http://its-anananan-blr.tumblr.com/" title="Vas happenin? " rel="nofollow"><img src="http://24.media.tumblr.com/avatar_9c97e5e1e44c_16.png" class="avatar " alt="" /></a>
+                
+                <span class="action">
+                    
+                                            <a rel="nofollow" href="http://its-anananan-blr.tumblr.com/" title="Vas happenin?" rel="nofollow">its-anananan-blr</a> gosta disto                                    </span>
+
+                <div class="clear"></div>
+
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note reblog tumblelog_indy-casanova without_commentary">
+
+                        
+                
+                                                                                        <a rel="nofollow" class="avatar_frame" target="_blank" href="http://indy-casanova.tumblr.com/" title="Indyanara C."><img src="http://31.media.tumblr.com/avatar_efcc73777991_16.png" class="avatar " alt="" /></a>
+                    
+                    <span class="action" data-post-url="http://indy-casanova.tumblr.com/post/62204264111">
+                                                    
+                                                                                                                                                                                    <a rel="nofollow" href="http://indy-casanova.tumblr.com/" class="tumblelog" title="Indyanara C.">indy-casanova</a> reblogou isto de <a rel="nofollow" href="http://reusar-me.tumblr.com/" class="source_tumblelog" title="Orkut - Inicio">reusar-me</a>                                                                                                                                                                                    </span>
+                    <div class="clear"></div>
+
+                                    
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note reblog tumblelog_shinelikeheaders without_commentary">
+
+                        
+                
+                                                                                        <a rel="nofollow" class="avatar_frame" target="_blank" href="http://shinelikeheaders.tumblr.com/" title="&hearts;"><img src="http://25.media.tumblr.com/avatar_7e1fcc2497ba_16.png" class="avatar " alt="" /></a>
+                    
+                    <span class="action" data-post-url="http://shinelikeheaders.tumblr.com/post/62203187764">
+                                                    
+                                                                                                                                                                                    <a rel="nofollow" href="http://shinelikeheaders.tumblr.com/" class="tumblelog" title="&hearts;">shinelikeheaders</a> reblogou isto de <a rel="nofollow" href="http://panda-sexy.tumblr.com/" class="source_tumblelog" title="Life&#039;s so bitch, and so are you.">panda-sexy</a>                                                                                                                                                                                    </span>
+                    <div class="clear"></div>
+
+                                    
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note like tumblelog_only-a-small-girls without_commentary">
+
+                                                                                <a rel="nofollow" class="avatar_frame" target="_blank" href="http://only-a-small-girls.tumblr.com/" title="Only-a-small-girls " rel="nofollow"><img src="http://31.media.tumblr.com/avatar_c2107752ff71_16.png" class="avatar " alt="" /></a>
+                
+                <span class="action">
+                    
+                                            <a rel="nofollow" href="http://only-a-small-girls.tumblr.com/" title="Only-a-small-girls" rel="nofollow">only-a-small-girls</a> gosta disto                                    </span>
+
+                <div class="clear"></div>
+
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note like tumblelog_renumerar without_commentary">
+
+                                                                                <a rel="nofollow" class="avatar_frame" target="_blank" href="http://renumerar.tumblr.com/" title="Oh, shit △ " rel="nofollow"><img src="http://25.media.tumblr.com/avatar_c639e9c34e64_16.png" class="avatar " alt="" /></a>
+                
+                <span class="action">
+                    
+                                            <a rel="nofollow" href="http://renumerar.tumblr.com/" title="Oh, shit △" rel="nofollow">renumerar</a> gosta disto                                    </span>
+
+                <div class="clear"></div>
+
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note reblog tumblelog_sentiment4lizar without_commentary">
+
+                        
+                
+                                                                                        <a rel="nofollow" class="avatar_frame" target="_blank" href="http://sentiment4lizar.tumblr.com/" title="Vick"><img src="http://25.media.tumblr.com/avatar_90fe9c4dedaa_16.png" class="avatar " alt="" /></a>
+                    
+                    <span class="action" data-post-url="http://sentiment4lizar.tumblr.com/post/62202416204">
+                                                    
+                                                                                                                                                                                    <a rel="nofollow" href="http://sentiment4lizar.tumblr.com/" class="tumblelog" title="Vick">sentiment4lizar</a> reblogou isto de <a rel="nofollow" href="http://um-vampiro-rockeiro.tumblr.com/" class="source_tumblelog" title="F(O)R(EVER).">um-vampiro-rockeiro</a>                                                                                                                                                                                    </span>
+                    <div class="clear"></div>
+
+                                    
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note like tumblelog_joanamatoscosta without_commentary">
+
+                                                                                <a rel="nofollow" class="avatar_frame" target="_blank" href="http://joanamatoscosta.tumblr.com/" title="Gato-Preto " rel="nofollow"><img src="http://25.media.tumblr.com/avatar_f70f8abd5da3_16.png" class="avatar " alt="" /></a>
+                
+                <span class="action">
+                    
+                                            <a rel="nofollow" href="http://joanamatoscosta.tumblr.com/" title="Gato-Preto" rel="nofollow">joanamatoscosta</a> gosta disto                                    </span>
+
+                <div class="clear"></div>
+
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note reblog tumblelog_umaapaix0nada without_commentary">
+
+                        
+                
+                                                                                        <a rel="nofollow" class="avatar_frame" target="_blank" href="http://umaapaix0nada.tumblr.com/" title="Uma Apaixonada"><img src="http://24.media.tumblr.com/avatar_171c8ce26133_16.png" class="avatar " alt="" /></a>
+                    
+                    <span class="action" data-post-url="http://umaapaix0nada.tumblr.com/post/62201984641">
+                                                    
+                                                                                                                                                                                    <a rel="nofollow" href="http://umaapaix0nada.tumblr.com/" class="tumblelog" title="Uma Apaixonada">umaapaix0nada</a> reblogou isto de <a rel="nofollow" href="http://ilovecorujas.tumblr.com/" class="source_tumblelog" title="I love you to death">ilovecorujas</a>                                                                                                                                                                                    </span>
+                    <div class="clear"></div>
+
+                                    
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note like tumblelog_recollectionsneverdie without_commentary">
+
+                                                                                <a rel="nofollow" class="avatar_frame" target="_blank" href="http://recollectionsneverdie.tumblr.com/" title="complicada " rel="nofollow"><img src="http://25.media.tumblr.com/avatar_8c0a2aced2d3_16.png" class="avatar " alt="" /></a>
+                
+                <span class="action">
+                    
+                                            <a rel="nofollow" href="http://recollectionsneverdie.tumblr.com/" title="complicada" rel="nofollow">recollectionsneverdie</a> gosta disto                                    </span>
+
+                <div class="clear"></div>
+
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note reblog tumblelog_dislike-tasteful without_commentary">
+
+                        
+                
+                                                                                        <a rel="nofollow" class="avatar_frame" target="_blank" href="http://dislike-tasteful.tumblr.com/" title="dislike"><img src="http://25.media.tumblr.com/avatar_642926d8669a_16.png" class="avatar " alt="" /></a>
+                    
+                    <span class="action" data-post-url="http://dislike-tasteful.tumblr.com/post/62201620121">
+                                                    
+                                                                                                                                                                                    <a rel="nofollow" href="http://dislike-tasteful.tumblr.com/" class="tumblelog" title="dislike">dislike-tasteful</a> reblogou isto de <a rel="nofollow" href="http://manipulado-r.tumblr.com/" class="source_tumblelog" title="Manipulador.">manipulado-r</a>                                                                                                                                                                                    </span>
+                    <div class="clear"></div>
+
+                                    
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note reblog tumblelog_the-older-angel without_commentary">
+
+                        
+                
+                                                                                        <a rel="nofollow" class="avatar_frame" target="_blank" href="http://the-older-angel.tumblr.com/" title="At&eacute; o final."><img src="http://24.media.tumblr.com/avatar_9f13c9ca03bc_16.png" class="avatar " alt="" /></a>
+                    
+                    <span class="action" data-post-url="http://the-older-angel.tumblr.com/post/62201359911">
+                                                    
+                                                                                                                                                                                    <a rel="nofollow" href="http://the-older-angel.tumblr.com/" class="tumblelog" title="At&eacute; o final.">the-older-angel</a> reblogou isto de <a rel="nofollow" href="http://por-celanas.tumblr.com/" class="source_tumblelog" title="Teenage Dream">por-celanas</a>                                                                                                                                                                                    </span>
+                    <div class="clear"></div>
+
+                                    
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note reblog tumblelog_por-celanas without_commentary">
+
+                        
+                
+                                                                                        <a rel="nofollow" class="avatar_frame" target="_blank" href="http://por-celanas.tumblr.com/" title="Teenage Dream"><img src="http://31.media.tumblr.com/avatar_d3a26b89206a_16.png" class="avatar " alt="" /></a>
+                    
+                    <span class="action" data-post-url="http://por-celanas.tumblr.com/post/62201102666">
+                                                    
+                                                                                                                                                                                    <a rel="nofollow" href="http://por-celanas.tumblr.com/" class="tumblelog" title="Teenage Dream">por-celanas</a> reblogou isto de <a rel="nofollow" href="http://nova-aprendiz.tumblr.com/" class="source_tumblelog" title="Vacilou, a fila andou">nova-aprendiz</a>                                                                                                                                                                                    </span>
+                    <div class="clear"></div>
+
+                                    
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note reblog tumblelog_desapega-doapegavel without_commentary">
+
+                        
+                
+                                                                                        <a rel="nofollow" class="avatar_frame" target="_blank" href="http://desapega-doapegavel.tumblr.com/" title=""><img src="http://24.media.tumblr.com/avatar_afa584846539_16.png" class="avatar " alt="" /></a>
+                    
+                    <span class="action" data-post-url="http://desapega-doapegavel.tumblr.com/post/62200977312">
+                                                    
+                                                                                                                                                                                    <a rel="nofollow" href="http://desapega-doapegavel.tumblr.com/" class="tumblelog" title="">desapega-doapegavel</a> reblogou isto de <a rel="nofollow" href="http://nova-aprendiz.tumblr.com/" class="source_tumblelog" title="Vacilou, a fila andou">nova-aprendiz</a>                                                                                                                                                                                    </span>
+                    <div class="clear"></div>
+
+                                    
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note like tumblelog_snowedoutthere without_commentary">
+
+                                                                                <a rel="nofollow" class="avatar_frame" target="_blank" href="http://snowedoutthere.tumblr.com/" title="Full Moon ;3 " rel="nofollow"><img src="http://25.media.tumblr.com/avatar_8a2ebb6e00b0_16.png" class="avatar " alt="" /></a>
+                
+                <span class="action">
+                    
+                                            <a rel="nofollow" href="http://snowedoutthere.tumblr.com/" title="Full Moon ;3" rel="nofollow">snowedoutthere</a> gosta disto                                    </span>
+
+                <div class="clear"></div>
+
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note reblog tumblelog_nova-aprendiz without_commentary">
+
+                        
+                
+                                                                                        <a rel="nofollow" class="avatar_frame" target="_blank" href="http://nova-aprendiz.tumblr.com/" title="Vacilou, a fila andou"><img src="http://31.media.tumblr.com/avatar_d9bff5158b62_16.png" class="avatar " alt="" /></a>
+                    
+                    <span class="action" data-post-url="http://nova-aprendiz.tumblr.com/post/62200900332">
+                                                    
+                                                                                                                                                                                    <a rel="nofollow" href="http://nova-aprendiz.tumblr.com/" class="tumblelog" title="Vacilou, a fila andou">nova-aprendiz</a> reblogou isto de <a rel="nofollow" href="http://cabeateomeu-amor.tumblr.com/" class="source_tumblelog" title="N&atilde;o existe perfei&ccedil;&atilde;o..">cabeateomeu-amor</a>                                                                                                                                                                                    </span>
+                    <div class="clear"></div>
+
+                                    
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note reblog tumblelog_cabeateomeu-amor without_commentary">
+
+                        
+                
+                                                                                        <a rel="nofollow" class="avatar_frame" target="_blank" href="http://cabeateomeu-amor.tumblr.com/" title="N&atilde;o existe perfei&ccedil;&atilde;o.."><img src="http://24.media.tumblr.com/avatar_df46ac9e3064_16.png" class="avatar " alt="" /></a>
+                    
+                    <span class="action" data-post-url="http://cabeateomeu-amor.tumblr.com/post/62200660248">
+                                                    
+                                                                                                                                                                                    <a rel="nofollow" href="http://cabeateomeu-amor.tumblr.com/" class="tumblelog" title="N&atilde;o existe perfei&ccedil;&atilde;o..">cabeateomeu-amor</a> reblogou isto de <a rel="nofollow" href="http://um-vampiro-rockeiro.tumblr.com/" class="source_tumblelog" title="F(O)R(EVER).">um-vampiro-rockeiro</a>                                                                                                                                                                                    </span>
+                    <div class="clear"></div>
+
+                                    
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note reblog tumblelog_desilusoes-de-uma-pequena without_commentary">
+
+                        
+                
+                                                                                        <a rel="nofollow" class="avatar_frame" target="_blank" href="http://desilusoes-de-uma-pequena.tumblr.com/" title="Desilus&otilde;es de uma pequena !"><img src="http://25.media.tumblr.com/avatar_e08b9ffa6d7b_16.png" class="avatar " alt="" /></a>
+                    
+                    <span class="action" data-post-url="http://desilusoes-de-uma-pequena.tumblr.com/post/62200355695">
+                                                    
+                                                                                                                                                                                    <a rel="nofollow" href="http://desilusoes-de-uma-pequena.tumblr.com/" class="tumblelog" title="Desilus&otilde;es de uma pequena !">desilusoes-de-uma-pequena</a> reblogou isto de <a rel="nofollow" href="http://sangrand-o.tumblr.com/" class="source_tumblelog" title="Antiga eu amo candys">sangrand-o</a>                                                                                                                                                                                    </span>
+                    <div class="clear"></div>
+
+                                    
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note reblog tumblelog_jessicaab without_commentary">
+
+                        
+                
+                                                                                        <a rel="nofollow" class="avatar_frame" target="_blank" href="http://jessicaab.tumblr.com/" title="Jessica Silva"><img src="http://31.media.tumblr.com/avatar_bae5aacfeaf8_16.png" class="avatar " alt="" /></a>
+                    
+                    <span class="action" data-post-url="http://jessicaab.tumblr.com/post/62200266133">
+                                                    
+                                                                                                                                                                                    <a rel="nofollow" href="http://jessicaab.tumblr.com/" class="tumblelog" title="Jessica Silva">jessicaab</a> reblogou isto de <a rel="nofollow" href="http://not--found-o-caralho.tumblr.com/" class="source_tumblelog" title="NECESSITO DE ASK">not--found-o-caralho</a>                                                                                                                                                                                    </span>
+                    <div class="clear"></div>
+
+                                    
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note reblog tumblelog_dont-your-worry-child without_commentary">
+
+                        
+                
+                                                                                        <a rel="nofollow" class="avatar_frame" target="_blank" href="http://dont-your-worry-child.tumblr.com/" title="Gostar de mim do jeito que eu sou"><img src="http://25.media.tumblr.com/avatar_7b2f02cbbbd4_16.png" class="avatar " alt="" /></a>
+                    
+                    <span class="action" data-post-url="http://dont-your-worry-child.tumblr.com/post/62199900943">
+                                                    
+                                                                                                                                                                                    <a rel="nofollow" href="http://dont-your-worry-child.tumblr.com/" class="tumblelog" title="Gostar de mim do jeito que eu sou">dont-your-worry-child</a> reblogou isto de <a rel="nofollow" href="http://panda-sexy.tumblr.com/" class="source_tumblelog" title="Life&#039;s so bitch, and so are you.">panda-sexy</a>                                                                                                                                                                                    </span>
+                    <div class="clear"></div>
+
+                                    
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note reblog tumblelog_mihmierlo without_commentary">
+
+                        
+                
+                                                                                        <a rel="nofollow" class="avatar_frame" target="_blank" href="http://mihmierlo.tumblr.com/" title="Silencio de uma Poeta"><img src="http://25.media.tumblr.com/avatar_2512e4c93808_16.png" class="avatar " alt="" /></a>
+                    
+                    <span class="action" data-post-url="http://mihmierlo.tumblr.com/post/62199556500">
+                                                    
+                                                                                                                                                                                    <a rel="nofollow" href="http://mihmierlo.tumblr.com/" class="tumblelog" title="Silencio de uma Poeta">mihmierlo</a> reblogou isto de <a rel="nofollow" href="http://umpequenopatinhofeio.tumblr.com/" class="source_tumblelog" title="Little Duck">umpequenopatinhofeio</a>                                                                                                                                                                                    </span>
+                    <div class="clear"></div>
+
+                                    
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note reblog tumblelog_thecrazy-vampire without_commentary">
+
+                        
+                
+                                                                                        <a rel="nofollow" class="avatar_frame" target="_blank" href="http://thecrazy-vampire.tumblr.com/" title="A Girl Rocker"><img src="http://24.media.tumblr.com/avatar_3fa5a3a77fa3_16.png" class="avatar " alt="" /></a>
+                    
+                    <span class="action" data-post-url="http://thecrazy-vampire.tumblr.com/post/62198970624">
+                                                    
+                                                                                                                                                                                    <a rel="nofollow" href="http://thecrazy-vampire.tumblr.com/" class="tumblelog" title="A Girl Rocker">thecrazy-vampire</a> reblogou isto de <a rel="nofollow" href="http://um-vampiro-romantico.tumblr.com/" class="source_tumblelog" title="Want A Bite?">um-vampiro-romantico</a>                                                                                                                                                                                    </span>
+                    <div class="clear"></div>
+
+                                    
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note reblog tumblelog_totalmenteinsuficiente without_commentary">
+
+                        
+                
+                                                                                        <a rel="nofollow" class="avatar_frame" target="_blank" href="http://totalmenteinsuficiente.tumblr.com/" title="Himmel"><img src="http://25.media.tumblr.com/avatar_4a45d3b172c1_16.png" class="avatar " alt="" /></a>
+                    
+                    <span class="action" data-post-url="http://totalmenteinsuficiente.tumblr.com/post/62198917860">
+                                                    
+                                                                                                                                                                                    <a rel="nofollow" href="http://totalmenteinsuficiente.tumblr.com/" class="tumblelog" title="Himmel">totalmenteinsuficiente</a> reblogou isto de <a rel="nofollow" href="http://reusar-me.tumblr.com/" class="source_tumblelog" title="Orkut - Inicio">reusar-me</a>                                                                                                                                                                                    </span>
+                    <div class="clear"></div>
+
+                                    
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note reblog tumblelog_20h59 without_commentary">
+
+                        
+                
+                                                                                        <a rel="nofollow" class="avatar_frame" target="_blank" href="http://20h59.tumblr.com/" title="whatever"><img src="http://24.media.tumblr.com/avatar_bf9a9c4abc9e_16.png" class="avatar " alt="" /></a>
+                    
+                    <span class="action" data-post-url="http://20h59.tumblr.com/post/62198409352">
+                                                    
+                                                                                                                                                                                    <a rel="nofollow" href="http://20h59.tumblr.com/" class="tumblelog" title="whatever">20h59</a> reblogou isto de <a rel="nofollow" href="http://ilovecorujas.tumblr.com/" class="source_tumblelog" title="I love you to death">ilovecorujas</a>                                                                                                                                                                                    </span>
+                    <div class="clear"></div>
+
+                                    
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note reblog tumblelog_photobeautiful without_commentary">
+
+                        
+                
+                                                                                        <a rel="nofollow" class="avatar_frame" target="_blank" href="http://photobeautiful.tumblr.com/" title="Photo Beautiful"><img src="http://25.media.tumblr.com/avatar_3fb5237b3ebd_16.png" class="avatar " alt="" /></a>
+                    
+                    <span class="action" data-post-url="http://photobeautiful.tumblr.com/post/62198231291">
+                                                    
+                                                                                                                                                                                    <a rel="nofollow" href="http://photobeautiful.tumblr.com/" class="tumblelog" title="Photo Beautiful">photobeautiful</a> reblogou isto de <a rel="nofollow" href="http://fota-grafia.tumblr.com/" class="source_tumblelog" title="">fota-grafia</a>                                                                                                                                                                                    </span>
+                    <div class="clear"></div>
+
+                                    
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note reblog tumblelog_hogwartsemeularsempre without_commentary">
+
+                        
+                
+                                                                                        <a rel="nofollow" class="avatar_frame" target="_blank" href="http://hogwartsemeularsempre.tumblr.com/" title="Cai na real"><img src="http://25.media.tumblr.com/avatar_5dece2f03acc_16.png" class="avatar " alt="" /></a>
+                    
+                    <span class="action" data-post-url="http://hogwartsemeularsempre.tumblr.com/post/62198207992">
+                                                    
+                                                                                                                                                                                    <a rel="nofollow" href="http://hogwartsemeularsempre.tumblr.com/" class="tumblelog" title="Cai na real">hogwartsemeularsempre</a> reblogou isto de <a rel="nofollow" href="http://biiancat.tumblr.com/" class="source_tumblelog" title="Vejo as horas passando">biiancat</a>                                                                                                                                                                                    </span>
+                    <div class="clear"></div>
+
+                                    
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note like tumblelog_biiancat without_commentary">
+
+                                                                                <a rel="nofollow" class="avatar_frame" target="_blank" href="http://biiancat.tumblr.com/" title="Vejo as horas passando " rel="nofollow"><img src="http://25.media.tumblr.com/avatar_f481f6e77855_16.png" class="avatar " alt="" /></a>
+                
+                <span class="action">
+                    
+                                            <a rel="nofollow" href="http://biiancat.tumblr.com/" title="Vejo as horas passando" rel="nofollow">biiancat</a> gosta disto                                    </span>
+
+                <div class="clear"></div>
+
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note reblog tumblelog_biiancat without_commentary">
+
+                        
+                
+                                                                                        <a rel="nofollow" class="avatar_frame" target="_blank" href="http://biiancat.tumblr.com/" title="Vejo as horas passando"><img src="http://25.media.tumblr.com/avatar_f481f6e77855_16.png" class="avatar " alt="" /></a>
+                    
+                    <span class="action" data-post-url="http://biiancat.tumblr.com/post/62198182370">
+                                                    
+                                                                                                                                                                                    <a rel="nofollow" href="http://biiancat.tumblr.com/" class="tumblelog" title="Vejo as horas passando">biiancat</a> reblogou isto de <a rel="nofollow" href="http://um-vampiro-romantico.tumblr.com/" class="source_tumblelog" title="Want A Bite?">um-vampiro-romantico</a>                                                                                                                                                                                    </span>
+                    <div class="clear"></div>
+
+                                    
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note like tumblelog_the-endishere without_commentary">
+
+                                                                                <a rel="nofollow" class="avatar_frame" target="_blank" href="http://the-endishere.tumblr.com/" title="Heartless " rel="nofollow"><img src="http://25.media.tumblr.com/avatar_2813632e9329_16.png" class="avatar " alt="" /></a>
+                
+                <span class="action">
+                    
+                                            <a rel="nofollow" href="http://the-endishere.tumblr.com/" title="Heartless" rel="nofollow">the-endishere</a> gosta disto                                    </span>
+
+                <div class="clear"></div>
+
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note reblog tumblelog_fota-grafia without_commentary">
+
+                        
+                
+                                                                                        <a rel="nofollow" class="avatar_frame" target="_blank" href="http://fota-grafia.tumblr.com/" title=""><img src="http://24.media.tumblr.com/avatar_bca56f3680dd_16.png" class="avatar " alt="" /></a>
+                    
+                    <span class="action" data-post-url="http://fota-grafia.tumblr.com/post/62198038626">
+                                                    
+                                                                                                                                                                                    <a rel="nofollow" href="http://fota-grafia.tumblr.com/" class="tumblelog" title="">fota-grafia</a> reblogou isto de <a rel="nofollow" href="http://unicornia-do-rob.tumblr.com/" class="source_tumblelog" title="Movies Like Jagger">unicornia-do-rob</a>                                                                                                                                                                                    </span>
+                    <div class="clear"></div>
+
+                                    
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note reblog tumblelog_daughter-0f-4thena without_commentary">
+
+                        
+                
+                                                                                        <a rel="nofollow" class="avatar_frame" target="_blank" href="http://daughter-0f-4thena.tumblr.com/" title="Welcome to my life u.u"><img src="http://31.media.tumblr.com/avatar_de71cc14d293_16.png" class="avatar " alt="" /></a>
+                    
+                    <span class="action" data-post-url="http://daughter-0f-4thena.tumblr.com/post/62197927799">
+                                                    
+                                                                                                                                                                                    <a rel="nofollow" href="http://daughter-0f-4thena.tumblr.com/" class="tumblelog" title="Welcome to my life u.u">daughter-0f-4thena</a> reblogou isto de <a rel="nofollow" href="http://panda-sexy.tumblr.com/" class="source_tumblelog" title="Life&#039;s so bitch, and so are you.">panda-sexy</a>                                                                                                                                                                                    </span>
+                    <div class="clear"></div>
+
+                                    
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note reblog tumblelog_naminharede without_commentary">
+
+                        
+                
+                                                                                        <a rel="nofollow" class="avatar_frame" target="_blank" href="http://naminharede.tumblr.com/" title="Living the life"><img src="http://31.media.tumblr.com/avatar_6056a1d95c97_16.png" class="avatar " alt="" /></a>
+                    
+                    <span class="action" data-post-url="http://naminharede.tumblr.com/post/62197858570">
+                                                    
+                                                                                                                                                                                    <a rel="nofollow" href="http://naminharede.tumblr.com/" class="tumblelog" title="Living the life">naminharede</a> reblogou isto de <a rel="nofollow" href="http://mano-morre.tumblr.com/" class="source_tumblelog" title="Com&eacute;dia para Unic&oacute;rnios">mano-morre</a>                                                                                                                                                                                    </span>
+                    <div class="clear"></div>
+
+                                    
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note reblog tumblelog_0hopefulplace5 without_commentary">
+
+                        
+                
+                                                                                        <a rel="nofollow" class="avatar_frame" target="_blank" href="http://0hopefulplace5.tumblr.com/" title="Sweet Feelings &hearts;"><img src="http://25.media.tumblr.com/avatar_46fe0bae164d_16.png" class="avatar " alt="" /></a>
+                    
+                    <span class="action" data-post-url="http://0hopefulplace5.tumblr.com/post/62197761098">
+                                                    
+                                                                                                                                                                                    <a rel="nofollow" href="http://0hopefulplace5.tumblr.com/" class="tumblelog" title="Sweet Feelings &hearts;">0hopefulplace5</a> reblogou isto de <a rel="nofollow" href="http://um-vampiro-romantico.tumblr.com/" class="source_tumblelog" title="Want A Bite?">um-vampiro-romantico</a>                                                                                                                                                                                    </span>
+                    <div class="clear"></div>
+
+                                    
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note reblog tumblelog_ilovecorujas without_commentary">
+
+                        
+                
+                                                                                        <a rel="nofollow" class="avatar_frame" target="_blank" href="http://ilovecorujas.tumblr.com/" title="I love you to death"><img src="http://31.media.tumblr.com/avatar_3549d68ca114_16.png" class="avatar " alt="" /></a>
+                    
+                    <span class="action" data-post-url="http://ilovecorujas.tumblr.com/post/62197556310">
+                                                    
+                                                                                                                                                                                    <a rel="nofollow" href="http://ilovecorujas.tumblr.com/" class="tumblelog" title="I love you to death">ilovecorujas</a> reblogou isto de <a rel="nofollow" href="http://aleboukouvalas.tumblr.com/" class="source_tumblelog" title="Dead Memories">aleboukouvalas</a>                                                                                                                                                                                    </span>
+                    <div class="clear"></div>
+
+                                    
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note reblog tumblelog_le-fenoninha without_commentary">
+
+                        
+                
+                                                                                        <a rel="nofollow" class="avatar_frame" target="_blank" href="http://le-fenoninha.tumblr.com/" title="Fenoninha"><img src="http://25.media.tumblr.com/avatar_e0e1ca6b2251_16.png" class="avatar " alt="" /></a>
+                    
+                    <span class="action" data-post-url="http://le-fenoninha.tumblr.com/post/62197516521">
+                                                    
+                                                                                                                                                                                    <a rel="nofollow" href="http://le-fenoninha.tumblr.com/" class="tumblelog" title="Fenoninha">le-fenoninha</a> reblogou isto de <a rel="nofollow" href="http://nao-sou-tuas-nega.tumblr.com/" class="source_tumblelog" title="I&#039;M A ZOMBIE">nao-sou-tuas-nega</a>                                                                                                                                                                                    </span>
+                    <div class="clear"></div>
+
+                                    
+                        
+        </li>
+    
+            <li class="note more_notes_link_container" style="text-align:center;" id="more_notes_62192807169">
+            <a class="more_notes_link" rel="nofollow" href="#" onclick="this.style.display='none';document.getElementById('notes_loading_62192807169').style.display = 'block';if(window.ActiveXObject)var tumblrReq=new ActiveXObject('Microsoft.XMLHTTP');else if(window.XMLHttpRequest)var tumblrReq=new XMLHttpRequest();else return false;tumblrReq.onreadystatechange=function(){if(tumblrReq.readyState==4){var notes_html=tumblrReq.responseText.split('<!-- START '+'NOTES -->')[1].split('<!-- END '+'NOTES -->')[0];
+if(window.tumblrNotesLoaded)if(tumblrNotesLoaded(notes_html)==false)return;var more_notes_link=document.getElementById('more_notes_62192807169');var notes=more_notes_link.parentNode;notes.removeChild(more_notes_link);notes.innerHTML+=notes_html;if(window.tumblrNotesInserted)tumblrNotesInserted(notes_html);}};tumblrReq.open('GET','/notes/62192807169/nGeVJpYd4?from_c=1380068555',true);tumblrReq.send();return false;">Mostrar mais notas</a><span class="notes_loading" id="notes_loading_62192807169" style="display:none;">A carregar...</span>
+        </li>
+    
+    <!-- END NOTES -->
+</ol>
+</div></div>
+        
+         
+         
+        </div>
+        </div>
+
+ 
+    <div class="sidebar3">
+<div id="footer"> <div id="title">No ritimo de uma batida perfeita</div>  
+
+ </div>  
+
+    <div class="sidebar">
+
+  
+ <center>
+<div class="linha1">
+
+<div id="sub">♥♥WELCOME♥♥</div> 
+
+
+</center>
+    
+<marquee scrollamount="4" behavior="alternate">
+
+<img src="http://static.tumblr.com/b5470a7ef6789756c9dfc83e7043f6f7/2qsti6r/EhUmt05uw/tumblr_static_558806_171553913031505_1936454337_n.jpg" height="200">
+<img src="http://static.tumblr.com/8d9e25913df6818458ccf4c89ff144f8/2qsti6r/c8jmt05xw/tumblr_static_536978_402571446510257_1178405359_n.jpg" height="200">
+<img src="http://static.tumblr.com/08f0868cb0956b89b59edc5db3e41441/2qsti6r/XlSmt05y9/tumblr_static_575180_399683196799082_219681214_n.jpg" height="200">
+<img src="http://static.tumblr.com/2ffd77a82b45935b12d1c933bebda33e/2qsti6r/iuEmt05yp/tumblr_static_1236477_402581136509288_1873262834_n.jpg"height="200">
+</marquee>
+<div class="linha2">
+
+<div id="sub"><center>Psiu...</center></div>
+</div>
+
+
+    <div class="descricao"> <div style="border: -5px solid rgb(250, 230, 250); overflow: auto; color: ; background-color: ; width: 400px; text-align: justify; font-family: verdana; height: 170px; padding: 0px 0px 0px 0px; font-size:10px; line-height: 90%">
+    .<br />
+.<br />
+.<br />
+Se sinta abraçado cada vez que entrar aqui... Mas não é qualquer abraço, é um abraço amigo, apertado que deixará você com cheiro de Cedro (ou qualquer cheiro que preferir, porém eu uso Cedro).<br />
+Chega mais... enquanto eu tomo um café com meus fantasmas. Prefere água de coco, Chimarrão, chocolate quente, chá de menta?  Tranquilo, os fantamas não tem sede, bebem pela companhia...<br />
+.<br />
+.<br />
+.  </div>
+<center>feito por <a href="http://amarenaodesistir.tumblr.com"> <i>amarenaodesistir</i></a><b><div id="pagina"><div id="paginacaoml"><span style="font-weight: normal;">
+
+
+
+</div></div></center>
+<br><br></b>
+<br>
+
+   <div class="sidebar2">
+<div class="slinks">
+
+<div class="nav"><a href="/">1st page</a></div>
+<div class="nav"><a href="/ask">questions?</a></div>
+<div class="nav"><a href="http://no-ritimo-de-uma-batida-perfeita.tumblr.com/whoIam/">about me</a></div>
+<div class="nav"><a href="https://www.facebook.com/iasmim.moraes1/">facebook</a></div>
+<div class="nav"><a href="https://twitter.com/">twitter</a></div>
+<div class="nav"><a href="mundinho-preto-e-branco.tumblr.com">minha diva</a></div>
+<div class="nav"></div>
+<div class="nav"></div>
+<div class="nav"></div>
+<div class="nav"></div></div></div>
+
+
+ 
+
+    <!-- BEGIN TUMBLR CODE -->
+        
+    
+        <iframe id="tumblr_controls" width="1" height="1" frameborder="0" scrolling="no" style="position:absolute; z-index:2147483647; top:0; right:0; border:0; background-color:transparent; overflow:hidden; " src="http://assets.tumblr.com/assets/html/iframe/o.html?_v=00c18e3e470095be41311af633109bac#src=http%3A%2F%2Fno-ritimo-de-uma-batida-perfeita.tumblr.com%2Fpost%2F62192807169&amp;pid=62192807169&amp;rk=eCyNO8LQ&amp;lang=pt_PT&amp;name=no-ritimo-de-uma-batida-perfeita&amp;avatar=http%3A%2F%2F31.media.tumblr.com%2Favatar_e2c7797fbd8b_64.png&amp;title=Entre+notas+e+acordes&amp;url=http%3A%2F%2Fno-ritimo-de-uma-batida-perfeita.tumblr.com%2F&amp;page_slide=slide"></iframe>    <div id="teaser_iframe_container" style="display:none;"><iframe scrolling="no" frameborder="0" src="http://www.tumblr.com/assets/html/iframe/teaser.html#src=http%3A%2F%2Fno-ritimo-de-uma-batida-perfeita.tumblr.com%2Fpost%2F62192807169&amp;pid=62192807169&amp;rk=eCyNO8LQ&amp;lang=pt_PT&amp;name=no-ritimo-de-uma-batida-perfeita&amp;avatar=http%3A%2F%2F31.media.tumblr.com%2Favatar_e2c7797fbd8b_64.png&amp;title=Entre+notas+e+acordes&amp;url=http%3A%2F%2Fno-ritimo-de-uma-batida-perfeita.tumblr.com%2F&amp;page_slide=slide" id="teaser_iframe" width="1" height="1"></iframe></div>
+
+<script type="text/javascript">
+    (function(Tumblr){
+        var follow_iframe_initialized = false;
+        if (Tumblr.FollowTeaser && Tumblr.PostMessageListener) {
+            // Don't do anything until the first initialize event
+            Tumblr.PostMessageListener.initialize(function(message, origin) {
+                if (follow_iframe_initialized || message.length < 2) return;
+
+                if (message[0] === 'follow_iframe' && message[1] === 'enable') {
+                    Tumblr.FollowTeaser.current_page = 1;
+                    Tumblr.FollowTeaser.infer_infinite_scroll = true;
+                    Tumblr.FollowTeaser.create_from_tumblr_controls('http://assets.tumblr.com/assets/html/iframe/follow.html?_v=c5638c77a8a6b7821eab58b693b3a051');
+                    Tumblr.FollowTeaser.scroll_listener(true);
+                    follow_iframe_initialized = true;
+                }
+            });
+        }
+    })(this.Tumblr || (this.Tumblr = {}));
+</script>
+    
+    <!--[if IE]><script type="text/javascript">document.getElementById('tumblr_controls').allowTransparency=true;</script><![endif]-->
+    
+        
+<iframe src="http://assets.tumblr.com/analytics.html?63fae489732da54993e4a941e42dcf5e" scrolling="no" width="1" height="1" frameborder="0" style="background-color:transparent; overflow:hidden; position:absolute; top:0; left:0 z-index:9999;" id="ga_target"></iframe>
+
+    <script>
+        var COMSCORE = true;
+        window.setTimeout(function() {
+            var analytics_frame = document.getElementById('ga_target');
+            analytics_frame.contentWindow.postMessage('enable_comscore;' + window.location, analytics_frame.src.split('/analytics.html')[0]);
+        }, 1000);
+    </script>
+
+
+
+    <script type="text/javascript">
+      var _qevents = _qevents || [];
+
+      (function() {
+       var elem = document.createElement('script');
+
+       elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+       elem.async = true;
+       elem.type = "text/javascript";
+       var scpt = document.getElementsByTagName('script')[0];
+       scpt.parentNode.insertBefore(elem, scpt);
+      })();
+    </script>
+    <script type="text/javascript">
+        _qevents.push( { qacct: 'p-19UtqE8ngoZbM' } );
+    </script>
+    <noscript>
+        <div style="display: none;"><img src="//pixel.quantserve.com/pixel/'p-19UtqE8ngoZbM'.gif" height="1" width="1" alt="Quantcast"/></div>
+    </noscript>
+
+
+    <script type="text/javascript">!function(s){s.src='http://www.tumblr.com/impixu?T=1380239004&J=eyJ0eXBlIjoidXJsIiwidXJsIjoiaHR0cDpcL1wvbm8tcml0aW1vLWRlLXVtYS1iYXRpZGEtcGVyZmVpdGEudHVtYmxyLmNvbVwvcG9zdFwvNjIxOTI4MDcxNjkiLCJyZXF0eXBlIjowLCJyb3V0ZSI6IlwvcG9zdFwvOmlkIn0=&U=BLLHNKMFGK&K=79e4469bf9f0ceb3fc979c866f50ce6a61f319d1b1b613b31cccd9f80cb16c73&R='.replace(/&R=[^&$]*/,'').concat('&R='+escape(document.referrer)).slice(0,2000).replace(/%.?.?$/,'');}(new Image());</script><noscript><img style="position:absolute;z-index:-3334;top:0px;left:0px;visibility:hidden;" src="http://www.tumblr.com/impixu?T=1380239004&J=eyJ0eXBlIjoidXJsIiwidXJsIjoiaHR0cDpcL1wvbm8tcml0aW1vLWRlLXVtYS1iYXRpZGEtcGVyZmVpdGEudHVtYmxyLmNvbVwvcG9zdFwvNjIxOTI4MDcxNjkiLCJyZXF0eXBlIjowLCJyb3V0ZSI6IlwvcG9zdFwvOmlkIiwibm9zY3JpcHQiOjF9&U=BLLHNKMFGK&K=daf8e8b4753f06b71447ce58b07022dfa9edee34e98bb2442024e41dd9644370&R="></noscript><script type="text/javascript">!function(s){s.src='http://www.tumblr.com/impixu?T=1380239004&J=eyJ0eXBlIjoicG9zdCIsInVybCI6Imh0dHA6XC9cL25vLXJpdGltby1kZS11bWEtYmF0aWRhLXBlcmZlaXRhLnR1bWJsci5jb21cL3Bvc3RcLzYyMTkyODA3MTY5IiwicmVxdHlwZSI6MCwicm91dGUiOiJcL3Bvc3RcLzppZCIsInBvc3RzIjpbeyJyb290X2Jsb2dpZCI6IjU0OTE1MDAwIiwicm9vdF9wb3N0aWQiOjM2MDAzNjMwNjYzLCJwb3N0aWQiOiI2MjE5MjgwNzE2OSIsImJsb2dpZCI6IjIyNTEzNzExIiwic291cmNlIjozM31dfQ==&U=JHEGLNAIPH&K=2ae895debb13af43c7bddcc25f4e9662c00f945cbb0010dc6482a99919b1fe4f&R='.replace(/&R=[^&$]*/,'').concat('&R='+escape(document.referrer)).slice(0,2000).replace(/%.?.?$/,'');}(new Image());</script><noscript><img style="position:absolute;z-index:-3334;top:0px;left:0px;visibility:hidden;" src="http://www.tumblr.com/impixu?T=1380239004&J=eyJ0eXBlIjoicG9zdCIsInVybCI6Imh0dHA6XC9cL25vLXJpdGltby1kZS11bWEtYmF0aWRhLXBlcmZlaXRhLnR1bWJsci5jb21cL3Bvc3RcLzYyMTkyODA3MTY5IiwicmVxdHlwZSI6MCwicm91dGUiOiJcL3Bvc3RcLzppZCIsInBvc3RzIjpbeyJyb290X2Jsb2dpZCI6IjU0OTE1MDAwIiwicm9vdF9wb3N0aWQiOjM2MDAzNjMwNjYzLCJwb3N0aWQiOiI2MjE5MjgwNzE2OSIsImJsb2dpZCI6IjIyNTEzNzExIiwic291cmNlIjozM31dLCJub3NjcmlwdCI6MX0=&U=JHEGLNAIPH&K=d9a1f48fdc2ab63d81f43d82950ff7a7f0751a8deee6a7f69964230c5158562f&R="></noscript><!-- END TUMBLR CODE -->
+</body>
+    </html> 
+ 
+
+

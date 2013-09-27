@@ -1,0 +1,321 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="shift_jis" />
+<meta name="description" content="新入社員研修等の短期間利用(3ヶ月～)が可能で、1年以内であれば初期費用・設定不要で再利用可能。クラウド型eラーニングなので社内外問わずどこでも学習でき、Mac・iPhone・iPadに対応し端末も選ばない！まずは２週間無料体験をお試し下さい!!" />
+<meta name="keywords" content="eラーニング,recipe.learning,リサイプ　ラーニング,社員学習,社内教育,クラウド,ASP,SaaS,Mac,iPhone,iPad" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<meta name="author" content="NJC NetCommunications" />
+<title>eラーニング/NJCネットコミュニケーションズ</title>
+<link rel="canonical" href="http://www.netcoms.ne.jp/asp/learning/" />
+<link rel="start" href="http://www.netcoms.ne.jp/asp/learning/" />
+<link rel="next" href="http://www.netcoms.ne.jp/info/sitemap.html" />
+<link rel="help" href="http://www.netcoms.ne.jp/info/inquiry.html" />
+<link rel="contents" href="http://www.netcoms.ne.jp/info/sitemap.html" />
+<link rel="index" href="http://www.netcoms.ne.jp/" />
+<link href="../../css/style.css" rel="stylesheet" type="text/css" />
+<link href="css/learning.css" rel="stylesheet" type="text/css" media="all" />
+<link rel="stylesheet" href="../../css/prettyPhoto.css" type="text/css" media="screen" title="prettyPhoto main stylesheet" />
+<link rel="shortcut icon" href="/image/favicon.ico" />
+<script type="text/javascript" src="http://api.docodoco.jp/v3/docodoco?key=872x3gfsKqCnMMRxpIpvX1tFFT9fn4gdXmP9PJKyI7jTItnu7FmbXg9CbO9vuWpg" charset="utf-8"></script>
+<script>
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-481973-1']);
+  _gaq.push(['_setCustomVar',1,'組織名', SURFPOINT.getOrgName() ,1]);//組織名の取得
+  _gaq.push(['_setCustomVar',2,'組織コード', SURFPOINT.getOrgCode() ,1]);//組織コードの取得
+  _gaq.push(['_setCustomVar',3,'組織URL', SURFPOINT.getOrgUrl() ,1]);//組織URLの取得
+  _gaq.push(['_setCustomVar',4,'業種大分類', SURFPOINT.getOrgIndustrialCategoryL() ,1]);//業種大分類の取得
+  _gaq.push(['_setCustomVar',5,'業種中分類', SURFPOINT.getOrgIndustrialCategoryM() ,1]);//業種中分類の取得
+  _gaq.push(['_setVar', SURFPOINT.getIP()]);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</head>
+
+<body id="top">
+	<a name="PAGETOP" id="PAGETOP"></a>
+	<div id="Wrap">
+	
+	
+		<!--"Header"開始 -->
+		<div id="Header">
+			<div class="Logo">
+				<h1>eラーニング：TOPページ</h1>
+				<p><a href="/"><img src="../../image/com_logo.gif" alt="NJCネットコミュニケーションズ" width="380" height="40" /></a></p>
+			</div>
+			<div class="HeaderNavi">
+				<ul>
+					<li class="HNavi_01"><a href="/info/sitemap.html">サイトマップ</a></li>
+					<li class="HNavi_02"><a href="/info/inquiry.html">お問い合わせ</a></li>
+				</ul>
+			</div>
+		
+		
+			<!--"MainNavi"開始 -->
+			<div class="MainNavi">
+				<ul>
+					<li><a href="/" id="Menu1">ホーム</a></li>
+					<li><a href="/info/service.html" id="Menu2">サービス一覧</a></li>
+					<li><a href="/recipe/" id="Menu3">リサイプが選ばれるワケ</a></li>
+<!--					<li><a href="/special/teleworking/" id="Menu4">特集ページ</a></li>
+					<li><a href="/case/" id="Menu5">導入事例</a></li>
+					<li><a href="/info/aboutus/" id="Menu6">会社概要</a></li>-->
+					<li><a href="/case/" id="Menu4">導入事例</a></li>
+					<li><a href="/info/aboutus/" id="Menu5">会社概要</a></li>                    
+					<li><a href="/info/inquiry.html" id="Menu6">お問い合わせ</a></li>
+
+				</ul>
+			</div>
+			<!--"MainNavi"終了 -->
+		</div>
+		<!--"Header"終了 -->
+		
+		
+		
+		<div id="MainContainer">
+		
+			<!--TopicPath-->
+			<div class="TopicPath">
+				<p><a href="/">ホーム</a> &gt; <a href="/info/service.html">サービス一覧</a> &gt; eラーニング</p>
+			</div>
+			<!--TopicPath end-->
+
+			
+			<!--Mainbox-->
+			<div id="Mainbox">
+				<div id="LeftContent">
+			 		<h2>お気軽・いつでも学習できるクラウド型eラーニング</h2>
+					<!--メイン画像と特長-->
+					<div class="main_img">
+						<div class="contents">
+						  <p class="service">recipe.learning（リサイプ ラーニング）</p>
+						  <h3><span class="bold">3カ月</span>からご利用可能！<br />
+						    お手軽eラーニング</h3>
+						  <p class="catch_sub">10人からスタート！低価格な学習システム</p>
+							<p class="trial_link"><a href="trial.html"><img src="image/main_trialbtm_01.gif" alt="「2週間の無料お試し」実施中！" width="270" height="55" onMouseOver="this.src='image/main_trialbtm_02.gif'" onMouseOut="this.src='image/main_trialbtm_01.gif'" /></a></p>
+						</div>
+					</div>
+					<div class="tokucho clear">
+						<dl>
+							<dt>どこでも学習</dt>
+							<dd>iPhone、iPad、Win、Ｍａｃ対応。クラウド型なので、いつでもどこでも学習。</dd>
+						</dl>
+						<dl>
+							<dt>使いたい時だけ使える</dt>
+							<dd>3ヵ月10人からスタート可能。 1年間は利用環境を保持でいつでも再開。</dd>
+						</dl>
+						<dl>
+							<dt>教材を簡単準備</dt>
+							<dd>制作ツール、制作依頼、既製品利用の選べる３種類のサービスを準備。</dd>
+						</dl>
+					</div>
+					<!--メイン画像と特長 end-->
+					<!--1つの記事-->
+					<div class="BasicBox clearfix">
+						<h3>eラーニング：概要</h3>
+						<!--▽1box▽-->
+						<div class="column">
+						  <div class="TextCenterC textIMG01 gaiyo">
+								<img src="image/keiyaku.gif" alt="ご利用イメージ図" width="644" height="193" />
+							    <p><span class="bold">クラウド型</span>eラーニングサービス「recipe.learning（リサイプ ラーニング）」は、<a href="price.html">低価格</a>の企業向けeラーニングサービスです。<br />
+								eラーニングは導入リスクが高いと、導入を諦めていたお客様のために、導入時・導入後の負担をなくしました。<br />
+								<br />
+								<span class="bold">3ヵ月</span>単位、<span class="bold">10人から</span>の導入を<span class="bold">低価格</span>で気軽にスタート。<span class="bold">Windows、Mac、iPhone、iPad</span>対応なので「いつでも、どこでも」ご利用できます。契約終了しても<span class="bold">1年間はご利用環境を保持</span>致しますので、利用しない月の余分な費用を払うこともありません。解約から一年以内（ご利用環境保持期間）の再契約なら、<span class="bold">初期費用も不要！</span>またクラウド型ですので、サーバのご準備、メンテナンス等も不要です。<br />
+導入後は、<span class="bold">直感的なデザイン</span>の受講・管理画面でさくさく操作。<span class="bold">オリジナル教材を簡単作成</span>できるツールや<span class="bold">各種教材</span>もご用意しております。ＰＣ操作に不安がある方も、<span class="bold">ヘルプデスク</span>をご利用できるので、運用・管理のストレスもありません。</p>
+							<img src="image/helpdesk.gif" alt="24時間365日の安心サポート" width="645" height="80" />						  </div>
+						</div>
+						<!--△1box△-->
+					</div>
+					<!--1つの記事 end-->
+					<!--1つの記事-->
+					<div class="BasicBox clearfix scene">
+						<h3>eラーニング活用イメージ</h3>
+						<!--▽1box▽-->
+						<div class="column">
+								<ul>
+									<li class="margin10"><img src="image/scene_10.gif" alt="新入社員教育に" width="317" height="110" /></li>
+									<li><img src="image/scene_08.gif" alt="BCP対策として" width="317" height="110" /></li>
+									<li class="margin10"><img src="image/scene_06.gif" alt="資格取得支援として" width="317" height="110" /></li>
+									<li><img src="image/scene_09.gif" alt="派遣社員・アルバイト教育" width="317" height="110" /></li>
+									<li class="margin10"><img src="image/scene_04.gif" alt="お客様向けＱ＆Ａサービスとして" width="317" height="110" /></li>
+									<li><img src="image/scene_01.gif" alt="システム導入教育" width="317" height="110" /></li>
+									<li class="margin10"><img src="image/scene_07.gif" alt="福利厚生の一環として" width="317" height="110" /></li>
+									<li><img src="image/scene_03.gif" alt="製品の営業・技術者教育" width="317" height="110" /></li>
+									<li class="margin10"><img src="image/scene_02.gif" alt="企業間教育" width="317" height="110" /></li>
+									<li><a href="../meeting/"><img src="image/scene_05.gif" alt="ＷＥＢ会議との併用で相乗効果アップ" width="317" height="110" /></a></li>
+								</ul>
+						</div>
+						<!--△1box△-->
+					</div>
+					<!--1つの記事 end-->
+					<!--1つの記事--> 
+					<div class="BasicBox"> 
+						<h3>eラーニングの主な機能</h3> 
+						<div class="column"> 
+							<!--▽1box▽-->
+							<div class="BB_inner clearfix NoLine function_box"> 
+								<div class="TextLeftB"> 
+									<h4>●受講者機能</h4>
+									<p>受講者画面は、受講者が迷わない、シンプルかつ機能的なインターフェイスを実現。受講者がログインして最初に開くＨＯＭＥ（ダッシュボード）には、情報を集約し、一目で受講状況を把握できます。<br />
+	  その他、受講登録申請、講座・教材の一覧表示、受講履歴の表示など学習環境を高める受講者機能が揃っています。</p>
+	<p class="arrow"><a href="function.html#JUKOU">受講者画面の主な機能</a></p>
+    							</div>
+
+							  <div class="ImgRightA">
+                             		<p class="gallery clearfix">
+                                     <a href="learning_motionJukou.html" onClick="javascript:window.open('learning_motionJukou.html','受講者動画','width=580, height=330, top=120, left=300, menubar=0, toolbar=0, location=0, titlebar=0, status=0, scrollbars=no'); return false;"><img src="images/jukousha.gif" width="200" height="132" alt="受講者動画の紹介" class="hoverImg"></a></p>
+                                    <p>※注意：画像をクリックすると動画が開き<br>音声が流れます</p>
+                              </div>
+							</div> 
+							<!--△1box△--> 
+							<!--▽1box▽--> 
+							<div class="BB_inner clearfix NoLine function_box"> 
+								<div class="TextLeftB"> 
+									<h4>●受講管理機能</h4>
+								  <p>柔軟なグループ設定、講座割り当てにも対応。管理画面では、教材コンテンツを配信するだけではなく、各受講者の進捗状況や受講履歴を把握することが可能。<br />
+	ロゴマークの変更、お知らせ機能、メールテンプレート作成など、運用の手間をなくす機能が豊富に揃っています。</p>
+								  <p class="arrow"><a href="function.html#KANRI">管理者画面の主な機能</a></p> 
+								</div> 
+								
+								<div class="ImgRightA">
+                                     <a href="learning_motionKanri.html" onClick="javascript:window.open('learning_motionKanri.html','受講管理動画','width=580,height=330,top=120,left=300,menubar=0,toolbar=0,location=0,titlebar=0,status=0,scrollbars=0'); return false;"><img src="images/kanri.gif" width="200" height="132" alt="管理者画面の紹介" class="hoverImg"></a></p>
+							  		<p>※注意：画像をクリックすると動画が開き<br>音声が流れます</p>
+                              </div> 
+							</div> 
+							<!--△1box△-->
+							
+							<!--▽1box▽--> 
+							<div class="BB_inner clearfix NoLine function_box"> 
+								<div class="TextLeftB"> 
+									<h4>●教材について</h4>
+								  <p>recipe.learningは、eラーニング標準規格<span class="bold">SCORM1.2</span>に準拠。さらにお客様のニーズによって制作ツール、制作依頼、<a href="textbook.html">既製品利用</a>と選べる３種類のサービスを準備致しました。<br />
+	教材作成ツールは、直観的操作でPowerPoint からアニメーション効果もナレーション音声も自動生成可能！</p>
+									<p class="arrow"><a href="tool.html">教材制作ツール</a></p>
+									<p class="text_small">※教材作成依頼 ： 詳細については、<a href="../../info/inquiry.html">お問合わせ</a>ください。</p>
+								</div> 
+								
+								<div class="ImgRightB IMGtext01"> 
+									<dl> 
+										<dt><img src="image/function_03.jpg" alt="教材サービス３種類" width="300" height="175" /></dt> 
+										<dd>△選べる３種類の教材サービス</dd> 
+									</dl> 
+							  </div> 
+							</div> 
+							<!--△1box△--> 
+						</div>
+					</div> 
+					<!--1つの記事 end--> 					
+					<!--1つの記事-->
+					<div class="BasicBox clearfix">
+						<h3>まずは２週間お試しください！</h3>
+						<!--▽1box▽-->
+						<div class="BB_inner clearfix NoLine">
+							
+						  <div class="TextCenterC textIMG02">
+								<p>e-ラーニングをよりご理解いただけるよう2週間お試しいただけます。<br />
+								（最大ID数１０、期間終了後はご利用できません。）<br />
+								始めてのご利用時には当社担当者が<span class="bold">遠隔でデモを行い、操作・機能説明</span>をさせていただきます。</p>
+								<img src="image/trial_bn02.gif" alt="e-ラーニングの「無料お試し」と「お問合わせ」" width="645" height="100" usemap="#TRIAL" />
+<map name="TRIAL" id="TRIAL">
+  <area shape="rect" coords="15,30,309,87" href="trial.html" alt="無料お試し申込み" />
+<area shape="rect" coords="337,31,629,86" href="../../info/inquiry.html" alt="お問合わせフォーム" />
+</map>
+								<dl class="Tel_no">
+									<dt>電話でのお問合わせ</dt>
+									<dd><strong>050-3000-1515</strong> （受付時間：月～金 9:00～17:00）</dd>
+								</dl>
+					      </div>
+						<p class="text_small clear"><br />※iPhoneはApple Inc.の商標です<br />※iPhone商標は、アイホン株式会社のライセンスに基づき使用されています</p>
+						</div>
+						<!--△1box△-->
+						<p class="SEO_Link"><a href="http://www.netcoms.ne.jp/asp/learning/">eラーニング</a>｜<a href="http://www.netcoms.ne.jp/asp/meeting/">Web会議</a>｜<a href="http://www.netcoms.ne.jp/asp/office/sfa/">SFA</a></p>
+					</div>
+					<!--1つの記事 end-->
+				</div>
+				<!--LeftContent end-->
+				
+				<!--RightContent 右バナー end-->
+			</div>
+			<!--Mainbox end-->
+
+			
+			<!--LeftNavi-->
+			<div id="LeftNavi">
+				<div id="right_sec">
+					<div id="right_sec_inner">
+						<h4>クラウドサービス</h4>
+						<ul id="sub_nav">
+							<li class="first"><a href="/asp/meeting/">WEB会議</a></li>
+							<li class="cur none"><a href="/asp/learning/">eラーニング</a></li>
+							<li>
+								<ul>
+									<li><a href="/asp/learning/trial.html">無料お試し</a></li>
+									<li><a href="/asp/learning/function.html">機　能</a></li>
+									<li><a href="/asp/learning/tool.html">教材作成ツール</a></li>
+									<li><a href="/asp/learning/textbook.html">既製教材</a></li>
+									<li><a href="/asp/learning/price.html">料　金</a></li>
+								</ul>
+							</li>
+							<li><a href="/asp/office/groupware/">グループウェア</a></li>
+							<li><a href="/asp/office/sfa/">SFAサービス</a></li>
+							<li><a href="/asp/office/workflow/">ワークフロー</a></li>
+							<li class="none"><a href="/asp/office/knowledge/">ナレッジ</a></li>
+						</ul>
+					</div>
+				</div><!-- /right_sec -->
+				
+				<!--▽トライアル・問い合わせ▽-->
+				<div class="LNaviFaq">
+					<ul>
+						<li><img src="image/bn_trial.gif" alt="eラーニングを２週間ご体感いただけます" width="200" height="110" usemap="#NaviMap1" /></li>
+						<li><img src="image/bn_faq.gif" alt="eラーニングに関するご質問やご相談はお気軽に" width="200" height="180" usemap="#NaviMap2" /></li>
+					</ul>
+                        <map name="NaviMap1" id="NaviMap1"><area shape="rect" coords="2,50,195,104" href="trial.html" alt="無料お試しお申込み" /></map>
+                        <map name="NaviMap2" id="NaviMap2"><area shape="rect" coords="4,50,197,106" href="../../info/inquiry.html" alt="お問い合わせフォーム" /></map>
+				</div>
+				<!--△トライアル・問い合わせ△-->
+				
+				
+				<!--LNaviMain end-->
+				
+			</div>
+			<!--LeftNavi end-->
+
+		<br class="clear" />
+		<p class="backto"><a href="#PAGETOP">▲このページのTOPへ</a></p>		
+		</div>
+		<!--MainContainer end-->
+		
+		<!--"FootContainer"開始 -->
+		<div id="FootContainer">
+			<!--FootNavi-->
+			<div id="FootNavi">
+					<p><a href="/info/aboutus/">会社情報</a> ｜<a href="/info/inquiry.html">お問い合わせ</a> ｜<a href="/info/privacy/">プライバシーポリシー</a> ｜<a href="/info/infosecurity/">情報セキュリティー基本方針</a> ｜<a href="/info/trademark/">商標について</a> ｜<a href="/info/sitemap.html">サイトマップ</a> ｜<a href="/special/teleworking/">特集ページ</a></p>
+			</div>
+			<!--FootNavi end-->
+			<div id="Copyright">Copyright(C) 2013 NJC NetCommunications Co.,Ltd. All rights reserved.</div>
+		</div>
+		<!--FootContainer 終了-->
+	</div>
+	<!--Wrap end-->
+<script src="http://code.jquery.com/jquery-1.7.1.min.js"></script>
+<script src="../../js/jquery.prettyPhoto.js"></script>
+<script type="text/javascript">
+	$(document).ready(function(){
+		$("area[rel^='prettyPhoto']").prettyPhoto();
+		
+		$(".gallery:first a[rel^='prettyPhoto']").prettyPhoto({animation_speed:'normal',theme:'light_square',slideshow:3000, autoplay_slideshow: true});
+		$(".gallery:gt(0) a[rel^='prettyPhoto']").prettyPhoto({animation_speed:'fast',slideshow:10000, hideflash: true});
+
+
+	});
+</script>
+</body>
+</html>

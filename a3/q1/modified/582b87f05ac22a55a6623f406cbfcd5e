@@ -1,0 +1,398 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]> <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]> <html class="no-js lt-ie9 no-media-query"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+
+<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# untappd: http://ogp.me/ns/fb/untappd#">
+
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+      <title>Morey (Erie Better Beer) is drinking a Penn Oktoberfest by Penn Brewery (Pennsylvania Brewing Company) on Untappd</title>
+    
+  <link rel="shortcut icon" href="https://untappd.s3.amazonaws.com/site/assets/favicon_v2.ico"/>
+  <link rel="apple-touch-icon" href="">
+  <!--<meta content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no" name="viewport">-->
+  <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, target-densitydpi=device-dpi" />
+  
+  <meta property="og:site_name" content="Untappd" />
+  
+  <!-- meta block -->
+      <meta name="description" content="Morey (Erie Better Beer) is drinking a Penn Oktoberfest by Penn Brewery (Pennsylvania Brewing Company) on Untappd | Untappd" />
+    
+        <meta property="fb:app_id" content="153339744679495" /> 
+      <meta property="og:url"    content="https://untappd.com/user/Morey/checkin/46695577" /> 
+      <meta property="og:title"  content="Penn Oktoberfest" />
+          <meta property="og:image" content="https://untappd.s3.amazonaws.com/site/beer_logos/beer-PennOktoberfest_3871.jpeg" />
+          <meta property="og:description" content="Morey (Erie Better Beer) drinking a Penn Oktoberfest by Penn Brewery (Pennsylvania Brewing Company) on Untappd" />
+    
+    <meta property="og:type"   content="untappd:beer" /> 
+        <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="@untappd">
+    <meta name="twitter:title" content="Penn Oktoberfest by Penn Brewery (Pennsylvania Brewing Company)">
+    <meta name="twitter:description" content="Morey (Erie Better Beer) drinking a Penn Oktoberfest by Penn Brewery (Pennsylvania Brewing Company) on Untappd">
+    <meta name="twitter:image:src" content="https://untappd.s3.amazonaws.com/site/beer_logos/beer-PennOktoberfest_3871.jpeg">
+    <meta name="twitter:domain" content="untappd.com">
+    <meta name="twitter:app:name:iphone" content="Untappd">
+    <meta name="twitter:app:name:android" content="Untappd">
+    <meta name="twitter:app:id:iphone" content="id449141888">
+    <meta name="twitter:app:id:googleplay" content="com.untappdllc.app">
+    <meta name="robots" content="noindex">
+
+  <meta name="author" content="The Untappd Team" />
+  <meta name="Copyright" content="Copyright Untappd 2012. All Rights Reserved." />
+  <meta name="DC.title" content="Untappd" />
+  <meta name="DC.subject" content="Untappd is a mobile app that allows you to socially share the brew you're currently enjoying, as well as where you're enjoying it, with your friends!" />
+  <meta name="DC.creator" content="The Untappd Team" />
+
+  <meta name="google-site-verification" content="EnR7QavTgiLCzZCCOv_OARCHsHhFwkwnJdG0Sti9Amg" />
+  <meta name="bitly-verification" content="b3080898518a"/>
+  <meta content="153339744679495" property="fb:app_id">
+  <meta content="Untappd" property="og:site_name">
+  <meta content="Share your reviews and photos of your favorite beers with your friends. You can also discover new beers and bars wherever you are." property="og:description">
+  
+
+  <link id="canonical" rel="canonical" href="https://untappd.com/user/Morey/checkin/46695577">
+
+  <link href="https://untappd.s3.amazonaws.com/site/assets/v2/css/styles.css" media="all" rel="stylesheet" type="text/css" />
+  <link href="/assets/v2/css/fonts.css" rel="stylesheet" type="text/css" />
+  <!--[if lt IE 9]><script src="https://untappd.s3.amazonaws.com/site/assets/v2/js/html5shiv.js"></script><![endif]-->
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+  <script src="https://untappd.s3.amazonaws.com/site/assets/js/jquery.tipsy.js"></script>
+
+      <script src="https://untappd.s3.amazonaws.com/site/assets/js/facybox.js"></script>
+    <link rel="stylesheet" href="https://untappd.s3.amazonaws.com/site/assets/css/facybox.css" />
+    
+  <link rel="stylesheet" href="https://untappd.s3.amazonaws.com/site/assets/css/tipsy.css" type="text/css" media="screen" title="no title" charset="utf-8">
+  <script type="text/javascript" language="Javascript">
+      $(document).ready(function(){
+        $(".tip").tipsy({fade: true});
+      });
+  </script>
+
+  <link href="https://untappd.s3.amazonaws.com/site/assets/v3/css/style.css?090413" media="all" rel="stylesheet" type="text/css" />
+</head>
+<body>
+
+<div class="header out">
+  <div class="nav">
+    <div class="inner">
+      <h1><a href="/">Untappd</a></h1>
+              <div class="join">
+          <a class="track-click button blue" data-track="create_btn" href="/create">Join Now</a>
+        </div>
+            <form id="desktop_search" class="search_box" method="get" action="/search">
+        <input type="text" class="track-focus" data-track="desktop_search" placeholder="Find your beer..." name="q" />
+        <span style="display: none;">
+          <input type="submit" value="go!">
+        </span>
+      </form>
+      <p onclick="trackMobileEvent('menu');" class="mobile_menu_btn">Menu</p>
+      <div class="mobile_menu">
+        <form id="sbSearch" class="search_box" method="get" action="/search">
+          <input type="text" class="track-focus" data-track="mobile_search" placeholder="Find your beer..." name="q" />
+          <span style="display: none;">
+            <input type="submit" value="go!">
+          </span>
+        </form>
+        <ul>
+          <li><a class="track-click" data-track="mobile_menu" href="/thepub">The Pub</a></li>
+          <li><a class="track-click" data-track="mobile_menu" href="/business">For Breweries</a></li>
+          <li><a class="track-click" data-track="mobile_menu" href="http://blog.untappd.com">Blog</a></li>
+          <li><a class="track-click" data-track="mobile_menu" href="http://help.untappd.com">Support</a></li>
+        </ul>
+      </div>
+              <div class="user_action">
+          <div class="login">
+            <a class="track-click" data-track="desktop_login_user_action" href="/login?go_to=http://untappd.com/user/Morey/checkin/46695577">Sign In</a>
+          </div>
+        </div>
+        
+        <div class="mobile_join">
+          <p>Discover &amp; share your favorite beers!</p>
+          <p><a class="track-click" data-track="mobile_login_user_action" href="/login?go_to=http://untappd.com/user/Morey/checkin/46695577">Sign In</a> or <a href="/create">Join Now</a></p>
+        </div>
+          </div>
+  </div>
+</div>
+
+<div class="indiv_item center">
+
+  <div class="user">
+    <a class="avatar" href="/user/Morey"><img src="https://untappd.s3.amazonaws.com/profile/6c322cd5851c858cab39fec9b326b196_thumb.PNG" /></a>
+    <div class="name">
+      <p><a href="/user/Morey">Morey (Erie Better Beer) </a></p>
+      <span>1080 Check-ins &#149; 733 Distinct</span>
+    </div>
+  </div>
+
+    <div class="checkin box">
+        <a class="label" href="/b/penn-brewery-pennsylvania-brewing-company-penn-oktoberfest/3871"><img src="https://untappd.s3.amazonaws.com/site/beer_logos/beer-PennOktoberfest_3871.jpeg" /></a>
+    <div class="beer">
+      <p><a href="/b/penn-brewery-pennsylvania-brewing-company-penn-oktoberfest/3871">Penn Oktoberfest</a></p>
+      <span><a href="/brewery/977">Penn Brewery (Pennsylvania Brewing Company)</a></span>
+    </div>
+    <p class="comment">Morey is @6packHoB</p>
+    <span class="rating small r30"></span>    
+    <div class="bottom">
+      <div class="bottom-right">
+        <p class="time">Tue, 24 Sep 2013 23:25:04 +0000</p>
+        <a href="#" class="share">Share</a>
+        <div class="share-menu">
+          <div class="inner">
+            <a href="/checkin/share_on_twitter/Morey/46695577"><img src="https://untappd.s3.amazonaws.com/site/assets/v3/images/twitter.png" width="26" height="26"></a>
+            <a href="http://facebook.com/share.php?u=https://untappd.com/user/Morey/checkin/46695577&t=Morey (Erie Better Beer) is drinking a Penn Oktoberfest by Penn Brewery (Pennsylvania Brewing Company) on Untappd" target="_blank"><img src="https://untappd.s3.amazonaws.com/site/assets/v3/images/facebook.png" width="26" height="26"></a>
+          </div>
+        </div>
+      </div>
+            <div class="clear"></div>
+    </div>
+  </div>
+
+      <div class="not-friends box">
+        <p>You must be logged in to comment or toast.</p>
+        <a class="button yellow" href="/login?go_to=https://untappd.com/c/46695577">Sign In</a>
+    </div>
+    
+  
+  
+
+  <div class="comments box">
+
+    <ul class="comments-area">
+      
+      
+                      <li id="comment_3794815">
+              <a href="/user/VncentLIFE" class="avatar">
+                <img src="https://untappd.s3.amazonaws.com/profile/24e60a9eb8a43860de24765c932aa7cc_thumb.gif" />
+              </a>
+              <div>
+                <p><a href="/user/VncentLIFE">Tim C.</a>: <abbr id="checkincomment_3794815">how is it?</abbr></p>
+                <span class="time">Tue, 24 Sep 2013 23:57:03 +0000</span>
+                              </div>
+            </li>
+                        <li id="comment_3808839">
+              <a href="/user/Morey" class="avatar">
+                <img src="https://untappd.s3.amazonaws.com/profile/6c322cd5851c858cab39fec9b326b196_thumb.PNG" />
+              </a>
+              <div>
+                <p><a href="/user/Morey">Morey (Erie Better Beer) </a>: <abbr id="checkincomment_3808839">Middle of the road. Good, but doesn't stand out from the pack. I'd drink it again though.</abbr></p>
+                <span class="time">Thu, 26 Sep 2013 18:28:10 +0000</span>
+                              </div>
+            </li>
+                  
+          
+    </ul>
+      </div>
+
+  <div class="actions">
+      </div>
+
+         <div class="ad" id="fusion_ad">
+        <a class="flink" href="http://fusionads.net">Powered by Fusion</a>
+      </div>
+      <script type="text/javascript">
+      (function(){
+        var fusion = document.createElement('script');
+        fusion.src = window.location.protocol + '//adn.fusionads.net/api/1.0/ad.js?zoneid=271&rand=' + Math.floor(Math.random()*9999999);
+        fusion.async = true;
+        (document.head || document.getElementsByTagName('head')[0]).appendChild(fusion);
+      })();</script>
+    
+ 
+
+</div>
+
+<div id="pop-up-report-brewery" style="display: none;">
+    <div id="brewery_report" class="report_checkin report_checkin_brewery_step_1">
+      <p style="color: #B20000; font-size: 14px; font-weight: 600; margin-bottom: 8px; display: none;" class="report_brewery_error"></p>
+       <h2>Hide this Check-in</h2>
+       <p>By hiding this check-in, it will not appear in your brewery's or the beer's main feed. The checkin, rating and photo will still remain - however it will not shown in your beer / brewery feed.</p>
+
+       <div>
+          <p><strong>Please select a reason for hiding this check-in:</strong></p>
+          <form class="report-brewery-checkin-form">
+            <ul> 
+              <li><input type="radio" name="flag_type" value="vulgar" id="vulgar"><label for="vulgar">Inappropriate or offensive language</label></li>
+                            <li><input type="radio" name="flag_type" value="suspicious" id="suspicious"><label for="suspicious">Possible suspicious activity</label></li>
+              <li><input type="radio" name="flag_type" value="rating" id="rating"><label for="rating">Questionable rating practice</label></li>
+              <li><input type="radio" name="flag_type" value="spam" id="spam"><label for="spam">Check-in may be spam</label></li>
+            </ul>
+            <p>
+              <label for="notes">Additional comments or notes?</label>
+              <textarea name="flag_message"></textarea>
+            </p>
+            <input type="hidden" name="checkin_id" value="46695577" />
+            <span class="report-brewery-loader" style="display: none;"><img src="https://untappd.s3.amazonaws.com/site/assets/images/loader_sm.gif" /></span>
+            <span class="button yellow btn-submit" href="#" onclick="Report.report_brewery_checkin(46695577, this); return false;">Send Report</span>
+          </form>
+       </div>
+    </div>
+    <div class="report_checkin report_checkin_brewery_step_2" id="checkin_report_brewery_finish" style="display: none;">
+      <h2>Hide this Check-in</h2>
+       <p>The checkin is now hidden from your main brewery feed.</p>
+    </div>
+</div>
+
+<div id="pop-up-unhide-brewery" style="display: none;">
+    <div id="unhide-report" class="report_checkin unhide_checkin_brewery_step_1">
+      <p style="color: #B20000; font-size: 14px; font-weight: 600; margin-bottom: 8px; display: none;" class="unhide_brewery_error"></p>
+       <h2>Unhide this Check-in</h2>
+       <p>Once this is processed, it will show up in your brewery's main feed. </p>
+       <div>
+          <form class="unhide-brewery-checkin-form">
+            <input type="hidden" name="checkin_id" value="46695577" />
+            <span class="unhide-brewery-loader" style="display: none;"><img src="https://untappd.s3.amazonaws.com/site/assets/images/loader_sm.gif" /></span>
+            <span class="button yellow btn-submit" href="#" onclick="Report.unhide(46695577, this); return false;">Unhide Checkin</span>
+          </form>
+       </div>
+    </div>
+    <div class="report_checkin unhide_checkin_brewery_step_2" style="display: none;">
+      <h2>Unhide this Check-in</h2>
+       <p>The checkin should now appear on your brewery's main feed.</p>
+    </div>
+</div>
+
+<div id="pop-up-report-checkin" style="display: none;">
+  <div id="checkin_report" class="report_checkin report_checkin_user_step_1">
+   <p style="color: #B20000; font-size: 14px; font-weight: 600; margin-bottom: 8px; display: none;" class="report_checkin_error"></p>
+   <h2>Report this Check-in</h2>
+   <p>Does this check-in contain something inappropriate? Please let us know and we'll take a look.</p>
+
+   <div>
+     <p><strong>Please select a reason for reporting this check-in:</strong></p>
+    <form class="report-checkin-form">
+      <ul> 
+        <li><input type="radio" name="flag_type" value="vulgar" id="vulgar"><label for="vulgar">Inappropriate or offensive language</label></li>
+                <li><input type="radio" name="flag_type" value="spam" id="spam"><label for="spam">Check-in may be spam</label></li>
+      </ul>
+      <p>
+        <label for="notes">Additional comments or notes?</label>
+        <textarea name="flag_message"></textarea>
+      </p>
+      <input type="hidden" name="checkin_id" value="46695577" />
+      <span class="report-loader" style="display: none;"><img src="https://untappd.s3.amazonaws.com/site/assets/images/loader_sm.gif" /></span>
+      <span class="button yellow btn-submit" href="#" onclick="Report.report_checkin(46695577, this); return false;">Send Report</span>
+    </form>
+  </div>
+  <div class="report_checkin report_checkin_user_step_2" id="checkin_report_finish" style="display: none;">
+    <h2>Report this Check-in</h2>
+     <p>Thanks for letting us know! We will take a look and take appropriate action.</p>
+  </div>
+</div>
+
+<script type="text/javascript" src="https://untappd.s3.amazonaws.com/site/assets/v2/js/handlebars.js"></script>
+<script type="text/javascript" src="https://untappd.s3.amazonaws.com/site/assets/v2/js/prettydate.js"></script>
+<script type="text/javascript" src="https://untappd.s3.amazonaws.com/site/assets/v2/js/moment.js"></script>
+<script type="text/javascript" src="https://untappd.s3.amazonaws.com/site/assets/v2/js/gregtime.js"></script>
+<script type="text/javascript" src="https://untappd.s3.amazonaws.com/site/assets/v2/js/helper.js"></script>
+<script type="text/javascript" src="https://untappd.s3.amazonaws.com/site/assets/v2/js/indcheckin.js"></script>
+<script id="comment-template" type="text/x-handlebars-template">
+  {{#each items}}
+    <li id="comment_{{this.comment_id}}">
+      <a href="/user/{{this.user.user_name}}" class="avatar">
+        <img src="{{this.user.user_avatar}}" />
+      </a>
+      <div>
+        <p>
+          <a href="/user/{{this.user.user_name}}">{{this.user.first_name}} {{this.user.last_name}}</a>: 
+          <abbr id="checkincomment_{{this.comment_id}}">{{{this.comment}}}</abbr>
+        </p>
+        <span class="time">{{this.created_at}}</span>
+        {{#if this.comment_owner}}
+          <span><a href="#" onclick="CommentView.deleteComment({{this.comment_id}}); return false;">Delete</a></span>
+        {{/if}}
+        {{#if this.comment_editor}}
+          <span><a href="#" onclick="CommentView.openEdit({{this.comment_id}}); return false;">Edit</a></span>
+        {{/if}}
+      </div>
+    </li>
+    {{#if this.comment_editor}}
+    <li id="commentedit_{{this.comment_id}}" style="display: none;">
+      <a href="/user/{{this.user.user_name}}" class="avatar">
+        <img src="{{this.user.user_avatar}}" />
+      </a>
+      <div>
+        <form class="edit_comment">
+          <p style="color: #B20000; font-size: 14px; font-weight: 600; margin-bottom: 8px; display: none;" class="editerror_{{this.comment_id}}">There was a problem posting your comment, please try again.</p>
+          <textarea name="comment">{{this.comment}}</textarea>
+          <a href="#" onclick="CommentView.postUpdate({{this.comment_id}}); return false;">Update</a><a class="cancel" href="#" onclick="CommentView.closeEdit({{this.comment_id}}); return false;">Cancel</a>
+        </form>
+      </div>
+    </li>
+    {{/if}}
+  {{/each}}
+</script>
+<script type="text/javascript">
+
+  var Toast = {
+    checkin: function(a,b) {
+
+      var args = "checkin_id="+a;
+
+       var count = parseInt($(".count").html());
+
+      if ($("p.first").length != 0) {
+        $("p.first").remove();
+        $(".hidden-logged-out-list").show();
+      }
+
+            $(".count").html(counter); 
+
+      $.ajax({
+        url: "/apireqs/toast",
+        type: "POST",
+        data: args,
+        dataType: "json",
+        error: function(html)
+        {
+          if ($(b).hasClass("active")) {
+            $(b).removeClass("active");
+          }
+          else {
+            $(b).addClass("active");
+          }
+        },
+        success: function(data)
+        {
+          if (data.result == "success") {
+
+          }
+          else {
+            if ($(b).hasClass("active")) {
+              $(b).removeClass("active");
+            }
+            else {
+              $(b).addClass("active");
+            }
+          }
+        }
+      });
+    }
+  }
+</script>
+
+<script type="text/javascript">
+  
+  // Clear Text Feild
+  function clearText(thefield){
+    if (thefield.defaultValue==thefield.value)
+    thefield.value = ""
+  }
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-11061050-10']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+<script src="https://untappd.s3.amazonaws.com/site/assets/v3/js/navigation.js"></script>
+</body>
+</html>

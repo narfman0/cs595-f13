@@ -1,0 +1,337 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="description" content="To mark the Jewish holiday of Yom Kippur, the day of atonement, Jews fast from sundown to sundown. But before the sun sets, friends and family gather to enjoy one final meal. And for the Jews of Eastern Europe, that meal traditionally includes kreplach.<br />
+" />
+<meta name="keywords" content="" /> 
+<meta property="og:title" content="The Secret To Making It Through A Yom Kippur Fast? Kreplach
+" />
+<meta property="og:type" content="website" />
+<meta property="og:image" content="http://stofftree.com/SHARED/thread_multimedia/1040996.jpg" />
+<meta property="og:url" content="http://stofftree.com/HOME/index.php?id_thread=52014" />
+<meta property="og:site_name" content="Stofftree" />
+<link rel="image_src" href="http://stofftree.com/SHARED/thread_multimedia/1040996.jpg" / >
+<title>The Secret To Making It Through A Yom Kippur Fast? Kreplach
+</title>
+<link rel="stylesheet" type="text/css" href="../css/site.css" media="screen" />
+<link type="text/css" rel="stylesheet" href="../css/header_stick.css" />
+<!-- jQuery Library (skip this step if already called on page ) -->
+<script type="text/javascript" src="../js/jquery.min.js"></script> <!-- (do not call twice) -->
+<script type="text/javascript" src="../js/show_hide.js"></script>
+<script type="text/javascript" src="../js/header_stick.js"></script>
+<script type="text/javascript" src="../js/see_news.js"></script>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js?ver=1.3.2"></script>
+<script type="text/javascript" src="http://code.jquery.com/jquery-1.6.4.js"></script>
+<script type="text/javascript">
+jQuery(window).load(function() {
+	jQuery('#loader').animate({opacity:"hide"},"slow");
+});
+</script>
+<script type='text/javascript'>//<![CDATA[ 
+$(function(){
+    var auto_refresh = setInterval(
+	  function ()
+	  {
+		   $('#right_news_popular').load('../div/right_div_news_popular.php');
+	  }, 100000); 
+});//]]> 
+</script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-39746971-1', 'stofftree.com');
+  ga('send', 'pageview');
+
+</script>
+</head>
+<body OnLoad="document.log_in.email.focus();">
+<div id="loader"><img src="http://www.stofftree.com/Images/loader.gif" alt="Loading..." /></div>
+<div id="loader_over" style="display:none;"><img src="http://www.stofftree.com/Images/loader.gif" alt="Loading..." /></div>
+   <div id="news_div" style="display:none;">
+  <table width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
+    <tr>
+      <td width="25px">&nbsp;</td>
+      <td>
+        <div id="news_div_iframe">
+          <table width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
+            <tr>
+              <td valign="top" align="center"><div id="news_div_see"></div></td>
+            </tr>
+          </table>
+        </div>
+      </td>
+      <td width="50px" align="right" valign="top"><div id="div_close" onClick="return see_news()"></div></td>
+    </tr>
+  </table>
+</div>   <div id="news_get_div">
+  <table width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
+    <tr>
+      <td width="25px">&nbsp;</td>
+      <td>
+        <div id="news_div_iframe">
+          <table width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
+            <tr>
+              <td valign="top" align="center"><iframe id="news_full_iframe" src="../div/news_full_div.php?id_thread=52014" scrolling="no" frameborder="0" allowtransparency="yes"></iframe></td>
+            </tr>
+          </table>
+        </div>
+      </td>
+      <td width="50px" align="right" valign="top"><div id="div_close" onClick="return see_news_end()"></div></td>
+    </tr>
+  </table>
+</div>      <div id="site">
+     <div id="header">
+       <table id="header_table" border="0" cellpadding="0" cellspacing="0" align="center">
+		 <tr>
+           <td width="120">
+             <button class="formbutton_logo">
+               <table border="0" cellpadding="0" cellspacing="5" height="120" width="120">
+                 <tr>
+                   <td valign="middle" align="center"><img src="../Images/logo.png" width="100px" title="stofftree" border="0"/></td>
+                 </tr>
+               </table> 
+             </button>
+           </td>
+           <td align="left" valign="top">
+             <table width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
+		       <tr>
+                 <td width="1">
+                   <div class="formbutton_fratern">
+                     <table border="0" cellpadding="0" cellspacing="5" height="120" width="120">
+                       <tr>
+                         <td valign="middle" align="center"><form action="http://stofftree.com/STUDENTS/HOME" method="post"><button id="transparent_hover" class="empty" type="submit"><img src="../Images/students_lounge_header.png" height="60px" title="Students lounge |Stofftree" border="0"/></button><input type="hidden" name="userid" value="" /></form></td>
+                       </tr>
+                     </table> 
+                   </div>
+                 </td>
+                 <td>
+                   <button class="formbutton_networks">
+                     <table width="100%" border="0" cellpadding="0" cellspacing="10" align="center">
+                       <tr>
+                         <td align="right">share stofftree on your networks</td>
+                         <td width="1"><a href="https://twitter.com/stofftree" target="new"><img src="../Images/twitter.png" width="35" height="35" id="header_images" border="0" title="Twitter"/></a></td>
+                         <td width="1"><a href="http://www.facebook.com/pages/Stofftree/566862310012864" target="new"><img src="../Images/facebook.png" width="35" height="35" id="header_images" border="0" title="Facebook"/></a></td>
+                         <td width="1"><a href="https://plus.google.com/105072820308062354227" rel="publisher" target="new"><img src="../Images/google.png" width="35" height="35" id="header_images" border="0" title="Google+"/></a></td>
+                         <td width="1"><a href="http://pinterest.com/stofftree/" target="new"><img src="../Images/pinterest.png" width="35" height="35" id="header_images" border="0" title="Pinterest"/></a></td>
+                         <td>&nbsp;</td>
+                       </tr>
+                     </table>
+                   </button>
+                 </td>
+               </tr>
+             </table>     
+           </td>
+         </tr>
+       </table>
+     </div>
+     <div id="container">
+       <table id="container_table" border="0" cellpadding="0" cellspacing="0" align="center">
+         <tr>
+           <td width="180" valign="top">
+           <div id="header_stick_left">
+             <table width="180" border="0" cellpadding="0" cellspacing="0" align="center" style="margin-top:5px;">
+               <tr>
+                 <td><input type="button" id="menu_button_latest" value="LATEST" onclick="return latest();"/></td>
+                 <td width="10" align="right"><div id="menu_button_arrow_latest"></div></td>
+               </tr>
+               <tr>
+                 <td><input type="button" id="menu_button_categories_1" class="menu_button_categories" value="ANIMALS & ENVIRONMENT" onclick="return categories_1();"/></td>
+                 <td width="10" align="right"><div id="menu_button_arrow_categories_1" style="display:none;"><div id="menu_button_arrow_categories"></div></div></td>
+               </tr>
+               <tr>
+                 <td><input type="button" id="menu_button_categories_2" class="menu_button_categories" value="ART & DESIGN" onclick="return categories_2();"/></td>
+                 <td width="10" align="right"><div id="menu_button_arrow_categories_2" style="display:none;"><div id="menu_button_arrow_categories"></div></div></td>
+               </tr>
+               <tr>
+                 <td><input type="button" id="menu_button_categories_3" class="menu_button_categories" value="BEAUTY & FASHION" onclick="return categories_3();"/></td>
+                 <td width="10" align="right"><div id="menu_button_arrow_categories_3" style="display:none;"><div id="menu_button_arrow_categories"></div></div></td>
+               </tr>
+               <tr>
+                 <td><input type="button" id="menu_button_categories_4" class="menu_button_categories" value="ECONOMICS & FINANCE" onclick="return categories_4();"/></td>
+                 <td width="10" align="right"><div id="menu_button_arrow_categories_4" style="display:none;"><div id="menu_button_arrow_categories"></div></div></td>
+               </tr>
+               <tr>
+                 <td><input type="button" id="menu_button_categories_5" class="menu_button_categories" value="EDUCATION" onclick="return categories_5();"/></td>
+                 <td width="10" align="right"><div id="menu_button_arrow_categories_5" style="display:none;"><div id="menu_button_arrow_categories"></div></div></td>
+               </tr>
+               <tr>
+                 <td><input type="button" id="menu_button_categories_6" class="menu_button_categories" value="FOOD & COOKING" onclick="return categories_6();"/></td>
+                 <td width="10" align="right"><div id="menu_button_arrow_categories_6" style="display:none;"><div id="menu_button_arrow_categories"></div></div></td>
+               </tr>
+               <tr>
+                 <td><input type="button" id="menu_button_categories_7" class="menu_button_categories" value="GAMES" onclick="return categories_7();"/></td>
+                 <td width="10" align="right"><div id="menu_button_arrow_categories_7" style="display:none;"><div id="menu_button_arrow_categories"></div></div></td>
+               </tr>
+               <tr>
+                 <td><input type="button" id="menu_button_categories_8" class="menu_button_categories" value="HEALTH & WELFARE" onclick="return categories_8();"/></td>
+                 <td width="10" align="right"><div id="menu_button_arrow_categories_8" style="display:none;"><div id="menu_button_arrow_categories"></div></div></td>
+               </tr>
+               <tr>
+                 <td><input type="button" id="menu_button_categories_9" class="menu_button_categories" value="HOME" onclick="return categories_9();"/></td>
+                 <td width="10" align="right"><div id="menu_button_arrow_categories_9" style="display:none;"><div id="menu_button_arrow_categories"></div></div></td>
+               </tr>
+               <tr>
+                 <td><input type="button" id="menu_button_categories_10" class="menu_button_categories" value="LEGAL" onclick="return categories_10();"/></td>
+                 <td width="10" align="right"><div id="menu_button_arrow_categories_10" style="display:none;"><div id="menu_button_arrow_categories"></div></div></td>
+               </tr>
+               <tr>
+                 <td><input type="button" id="menu_button_categories_11" class="menu_button_categories" value="LEISURE & ENTERTAINMENT" onclick="return categories_11();"/></td>
+                 <td width="10" align="right"><div id="menu_button_arrow_categories_11" style="display:none;"><div id="menu_button_arrow_categories"></div></div></td>
+               </tr>
+               <tr>
+                 <td><input type="button" id="menu_button_categories_12" class="menu_button_categories" value="PANORAMA" onclick="return categories_12();"/></td>
+                 <td width="10" align="right"><div id="menu_button_arrow_categories_12" style="display:none;"><div id="menu_button_arrow_categories"></div></div></td>
+               </tr>
+               <tr>
+                 <td><input type="button" id="menu_button_categories_13" class="menu_button_categories" value="PEOPLE" onclick="return categories_13();"/></td>
+                 <td width="10" align="right"><div id="menu_button_arrow_categories_13" style="display:none;"><div id="menu_button_arrow_categories"></div></div></td>
+               </tr>
+               <tr>
+                 <td><input type="button" id="menu_button_categories_14" class="menu_button_categories" value="READING" onclick="return categories_14();"/></td>
+                 <td width="10" align="right"><div id="menu_button_arrow_categories_14" style="display:none;"><div id="menu_button_arrow_categories"></div></div></td>
+               </tr>
+               <tr>
+                 <td><input type="button" id="menu_button_categories_15" class="menu_button_categories" value="SCIENCE" onclick="return categories_15();"/></td>
+                 <td width="10" align="right"><div id="menu_button_arrow_categories_15" style="display:none;"><div id="menu_button_arrow_categories"></div></div></td>
+               </tr>
+               <tr>
+                 <td><input type="button" id="menu_button_categories_16" class="menu_button_categories" value="SPORTS" onclick="return categories_16();"/></td>
+                 <td width="10" align="right"><div id="menu_button_arrow_categories_16" style="display:none;"><div id="menu_button_arrow_categories"></div></div></td>
+               </tr>
+               <tr>
+                 <td><input type="button" id="menu_button_categories_17" class="menu_button_categories" value="TECHNOLOGY" onclick="return categories_17();"/></td>
+                 <td width="10" align="right"><div id="menu_button_arrow_categories_17" style="display:none;"><div id="menu_button_arrow_categories"></div></div></td>
+               </tr>
+               <tr>
+                 <td><input type="button" id="menu_button_categories_18" class="menu_button_categories" value="THE WORLD" onclick="return categories_18();"/></td>
+                 <td width="10" align="right"><div id="menu_button_arrow_categories_18" style="display:none;"><div id="menu_button_arrow_categories"></div></div></td>
+               </tr>
+               <tr>
+                 <td><input type="button" id="menu_button_categories_19" class="menu_button_categories_bottom" value="VEHICLE" onclick="return categories_19();"/></td>
+                 <td width="10" align="right"><div id="menu_button_arrow_categories_19" style="display:none;"><div id="menu_button_arrow_categories"></div></div></td>
+               </tr>
+             </table>
+           </div>
+           </td>
+	       <td valign="top">
+			 <div id="latest_div"><iframe id="iframe" height="1450" width="100%" src="../div/news_feed_latest.php" scrolling="no" frameborder="0" allowtransparency="yes"></iframe></div>
+			 <div id="popular_div" style="display:none;"></div>
+			<div id="categories_div" style="display:none;"></div>            
+           </td>
+           <td width="180" valign="top">
+           <div id="header_stick_right">
+             <table width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
+               <tr>
+                 <td class="yellow_15"><div id="right_div_title">POPULAR TOPICS</div></td>
+               </tr>
+               <tr>
+                 <td><div id="right_news_popular">
+	    <div id="right_div" onclick="return see_news(50689);">
+	      <table width="180" border="0" cellpthreading="0" cellspacing="0">
+	        <tr>
+		      <td width="50" valign="top">
+			    <div id="right_div_image" style="background-image:url(http://www.stofftree.com/SHARED/thread_multimedia/1039685.jpg);">&nbsp;</div>
+			  </td>
+			  <td align="left" valign="top" class="black_11_uppercase">
+			    <div id="right_div_description">&prime;Walking shark&prime; discovered in Indonesia
+</div>
+		      </td>
+	        </tr>
+          </table>
+		</div>
+	    <div id="right_div" onclick="return see_news(50817);">
+	      <table width="180" border="0" cellpthreading="0" cellspacing="0">
+	        <tr>
+		      <td width="50" valign="top">
+			    <div id="right_div_image" style="background-image:url(http://www.stofftree.com/SHARED/thread_multimedia/1039806.jpg);">&nbsp;</div>
+			  </td>
+			  <td align="left" valign="top" class="black_11_uppercase">
+			    <div id="right_div_description">14 Beauty Pros to Follow on Instagram Now</div>
+		      </td>
+	        </tr>
+          </table>
+		</div>
+	    <div id="right_div" onclick="return see_news(49878);">
+	      <table width="180" border="0" cellpthreading="0" cellspacing="0">
+	        <tr>
+		      <td width="50" valign="top">
+			    <div id="right_div_image" style="background-image:url(http://www.stofftree.com/SHARED/thread_multimedia/1038882.jpg);">&nbsp;</div>
+			  </td>
+			  <td align="left" valign="top" class="black_11_uppercase">
+			    <div id="right_div_description">Southern Water fined £200,000 for sewage discharges
+</div>
+		      </td>
+	        </tr>
+          </table>
+		</div>
+	    <div id="right_div" onclick="return see_news(50800);">
+	      <table width="180" border="0" cellpthreading="0" cellspacing="0">
+	        <tr>
+		      <td width="50" valign="top">
+			    <div id="right_div_image" style="background-image:url(http://www.stofftree.com/SHARED/thread_multimedia/1039793.jpg);">&nbsp;</div>
+			  </td>
+			  <td align="left" valign="top" class="black_11_uppercase">
+			    <div id="right_div_description">Nicole Scherzinger is a &prime;cheeky&prime; drunk</div>
+		      </td>
+	        </tr>
+          </table>
+		</div>
+	    <div id="right_div" onclick="return see_news(51698);">
+	      <table width="180" border="0" cellpthreading="0" cellspacing="0">
+	        <tr>
+		      <td width="50" valign="top">
+			    <div id="right_div_image" style="background-image:url(http://www.stofftree.com/SHARED/thread_multimedia/1040683.jpg);">&nbsp;</div>
+			  </td>
+			  <td align="left" valign="top" class="black_11_uppercase">
+			    <div id="right_div_description">In South Florida, a Polluted Bubble Ready to Burst</div>
+		      </td>
+	        </tr>
+          </table>
+		</div>
+	    <div id="right_div" onclick="return see_news(49133);">
+	      <table width="180" border="0" cellpthreading="0" cellspacing="0">
+	        <tr>
+		      <td width="50" valign="top">
+			    <div id="right_div_image" style="background-image:url(http://www.stofftree.com/SHARED/thread_multimedia/1038158.jpg);">&nbsp;</div>
+			  </td>
+			  <td align="left" valign="top" class="black_11_uppercase">
+			    <div id="right_div_description">Soda is making our kids violent</div>
+		      </td>
+	        </tr>
+          </table>
+		</div>
+	    <div id="right_div" onclick="return see_news(53263);">
+	      <table width="180" border="0" cellpthreading="0" cellspacing="0">
+	        <tr>
+		      <td width="50" valign="top">
+			    <div id="right_div_image" style="background-image:url(http://www.stofftree.com/SHARED/thread_multimedia/1042257.jpg);">&nbsp;</div>
+			  </td>
+			  <td align="left" valign="top" class="black_11_uppercase">
+			    <div id="right_div_description">2012 Ford F-150 Autoweek Autofile car review
+</div>
+		      </td>
+	        </tr>
+          </table>
+		</div></div></td>
+               </tr>
+             </table>
+           </div>
+           </td>
+	     </tr>
+	   </table>
+     </div>
+     <div id="footer">
+       <table border="0" cellpadding="0" cellspacing="10" align="center">
+         <tr>
+           <td align="center"><a href="mailto:admin@stofftree.com" class="footer_link">admin@stofftree.com</a></td><td><a href="http://gandka.com/privacy.html" class="footer_link" target="new">Privacy Policy</a></td><td><a href="http://gandka.com/terms.html" class="footer_link" target="new">Terms of Use</a></td><td><a href="http://gandka.com" class="footer_link" target="new">@gandka projects 2013</a></td>
+         </tr>
+	   </table>
+     </div>
+   </div>
+</body>
+</html>

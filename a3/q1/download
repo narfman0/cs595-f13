@@ -1,0 +1,24 @@
+#!/bin/bash
+export INPUT=$1
+
+function downloadInput {
+	echo "Processing file $INPUT"
+	pushd "original"
+	for link in `cat ../$INPUT`; do
+		filename=`echo -n "$link" | md5sum | sed 's/[- ]//g'`
+		curl "$link" > "$filename"
+		echo "Downloaded link: $link as: $filename"
+	done
+	popd
+}
+function lynxLinks {
+	pushd "modified"
+	for original in `ls ../original`; do
+		lynx -source "../original/$original" > "$original"
+	        echo "Lynxd link: $original"
+	done
+	popd
+}
+
+downloadInput
+lynxLinks

@@ -1,0 +1,923 @@
+<!DOCTYPE html>
+<script>var __pbpa = true;</script><script>var translated_warning_string = 'Warning: Never enter your Tumblr password unless \u201chttps://www.tumblr.com/login\u201d\x0ais the address in your web browser.\x0a\x0aYou should also see a green \u201cTumblr, Inc.\u201d identification in the address bar.\x0a\x0aSpammers and other bad guys use fake forms to steal passwords.\x0a\x0aTumblr will never ask you to log in from a user\u2019s blog.\x0a\x0aAre you absolutely sure you want to continue?';</script><script type="text/javascript" language="javascript" src="http://assets.tumblr.com/assets/scripts/pre_tumblelog.js?_v=90496f22ffd4b193ff4f3aa39d43d2af"></script>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- Minimal Theme designed by Artur Kim (http://arturkim.com) for Tumblr | version 1.5 -->
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# blog: http://ogp.me/ns/blog#">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Mike WiLL Made It f. Miley Cyrus, Juicy J and Wiz...</title>
+    
+    <link rel="shortcut icon" href="http://25.media.tumblr.com/avatar_0f1639b04134_128.png" />
+    <link rel="apple-touch-icon" href="http://25.media.tumblr.com/avatar_0f1639b04134_128.png"/>
+    <link rel="alternate" type="application/rss+xml" href="http://mcjulianmc.tumblr.com/rss" />
+
+    <!-- DEFAULT VARIABLES -->
+    <meta name="color:Post Type Text" content="#555555"/>
+    <meta name="color:Post Type Photo" content="#555555"/>
+    <meta name="color:Post Type Photoset" content="#555555"/>
+    <meta name="color:Post Type Quote" content="#555555"/>
+    <meta name="color:Post Type Link" content="#555555"/>
+    <meta name="color:Post Type Chat" content="#555555"/>
+    <meta name="color:Post Type Video" content="#555555"/>
+    <meta name="color:Post Type Audio" content="#555555"/>
+    <meta name="image:Header" content=""/>
+    <meta name="if:Show About Widget" content="1"/>
+    <meta name="if:Show Stuff I Like Widget" content="1"/>
+    <meta name="if:Show Latest Tweets Widget" content="0"/>
+    <meta name="if:Show People I Follow Widget" content="1"/>
+    <meta name="text:Number of Tweets" content="3"/>
+    <meta name="text:Google Analytics ID" content="" />
+    <meta name="text:Disqus Shortname" content="" />
+
+    <style type="text/css" media="screen">
+    /* Minimal Theme designed by Artur Kim (http://arturkim.com) for Tumblr | version 1.5 */
+
+    /* RESET */
+    html, body, div, span, applet, object, iframe,
+    h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+    a, abbr, acronym, address, big, cite, code,
+    del, dfn, em, font, img, ins, kbd, q, s, samp,
+    small, strike, strong, sub, sup, tt, var,
+    b, u, i, center,
+    dl, dt, dd, ol, ul, li,
+    fieldset, form, label, legend,
+    table, caption, tbody, tfoot, thead, tr, th, td {
+        margin: 0; padding: 0; border: 0; outline: 0; font-size: 100%; vertical-align: baseline; background: transparent;
+    }
+    body { line-height: 1; }
+    ol, ul { list-style: none; }
+    blockquote, q { quotes: none; }
+    blockquote:before, blockquote:after, q:before, q:after { content: ''; content: none; }
+    :focus { outline: 0; }
+    del { text-decoration: line-through; }
+    table { border-collapse: collapse; border-spacing: 0; }
+
+    /* GLOBAL ELEMENTS */
+    body { background: #fff; }
+    body, input, textarea { color: #000; font: 14px/20px "helvetica neue",helvetica,arial,sans-serif; }
+    p, ul, ol, dd, pre { margin-bottom: 20px; }
+    pre, code { font: 12px Monaco,monospace; line-height: 20px; }
+    blockquote { border-left: 5px solid #ddd; color: #555; font-style: italic; margin-bottom: 20px; padding-left: 10px; }
+    table { border: 1px solid #ccc; border-width: 1px 1px 0 1px; font-size: 14px; line-height: 20px; margin: 0 0 22px 0; text-align: left; }
+    caption { text-align: left; }
+    tr { border-bottom: 1px solid #ccc; }
+    th, td { padding: .7em 1.25em; }
+    hr { background-color: #ccc; border: 0; color: #555; height: 1px; margin-bottom: 20px; }
+    a:link, a:visited { color: #555; }
+    a:focus, a:hover, a:active { color: #dd3333; }
+    h1, h2, h3, h4, h5, h6 {  font-weight:normal; clear:both; }
+    img { background: #eee; }
+    a img:focus, a img:hover, a img:active { background: #dd3333; }
+
+    /* DEFAULT CSS */
+    #header .menu {
+        border-bottom: 1px solid #ccc;
+        margin: 0 auto 3px;
+        overflow: hidden;
+        padding: 20px 0 10px;
+        width: 900px;
+    }
+        #header #pages {
+            float: left;
+            width: 580px;
+        }
+            #header #pages ul {
+                float: left;
+                margin-bottom: 0;
+            }
+                #header #pages li {
+                    float: left;
+                    margin-right: 10px;
+                    padding: 4px 10px 3px 0;
+                }
+                    #header #pages a, #header #pages a:visited {
+                        color: #555;
+                        font-size: 16px;
+                        text-decoration: none;
+                    }
+                    #header #pages a:focus, #header #pages a:hover, #header #pages a:active {
+                        color: #dd3333;
+                    }
+        #header #search {
+            float: right;
+        }
+            #header #search input {
+                border: 1px solid #ccc;
+                line-height: 20px;
+                padding: 4px;
+            }
+            #header #search input.search-button {
+                background: #eee;
+                color: #555;
+                padding: 3px;
+                width: 60px;
+            }
+    #header #branding {
+        border-top: 1px solid #ccc;
+        border-bottom: 1px solid #ccc;
+        margin: 0 auto 3px;
+        
+        width: 900px;
+    }
+        #header h1 a {
+            color: #111;
+            font: 80px Georgia,serif;
+            font-weight: normal;
+            line-height: 100px;
+            text-decoration: none;
+        }
+        #header h1 a:focus, #header h1 a:hover, #header h1 a:active {
+            color: #dd3333;
+        }
+        #header img {
+            max-width: 900px;
+        }
+    #main {
+        border-top: 1px solid #ccc;
+        border-bottom: 1px solid #ccc;
+        clear: both;
+        margin: 0 auto 3px;
+        overflow: hidden;
+        width: 900px;
+    }
+        #container {
+            border-right: 1px solid #ccc;
+            float: left;
+            min-height: 400px;
+            width: 580px;
+        }
+            .post-meta {
+                border-bottom: 1px solid #ccc;
+                color: #555;
+                overflow: hidden;
+                padding: 9px 0;
+            }
+                .post-meta .type {
+                    float: left;
+                }
+                    .post-meta .type a {
+                        border-bottom: 1px solid #ccc;
+                        font-weight: bold;
+                        padding: 0 10px 10px;
+                        text-decoration: none;
+                    }
+                    .post-type-text .post-meta .type a {
+                        border-bottom: 1px solid #555555;
+                        color: #555555;
+                    }
+                    .post-type-photo .post-meta .type a {
+                        border-bottom: 1px solid #555555;
+                        color: #555555;
+                    }
+                    .post-type-photoset .post-meta .type a {
+                        border-bottom: 1px solid #555555;
+                        color: #555555;
+                    }
+                    .post-type-quote .post-meta .type a {
+                        border-bottom: 1px solid #555555;
+                        color: #555555;
+                    }
+                    .post-type-link .post-meta .type a {
+                        border-bottom: 1px solid #555555;
+                        color: #555555;
+                    }
+                    .post-type-chat .post-meta .type a {
+                        border-bottom: 1px solid #555555;
+                        color: #555555;
+                    }
+                    .post-type-video .post-meta .type a {
+                        border-bottom: 1px solid #555555;
+                        color: #555555;
+                    }
+                    .post-type-audio .post-meta .type a {
+                        border-bottom: 1px solid #555555;
+                        color: #555555;
+                    }
+                    .post-meta .type a:focus, .post-meta .type a:hover, .post-meta .type a:active {
+                        margin-left: 5px;
+                    }
+                .post-meta .date, .post-meta .comments, .post-meta .note-count {
+                    float: left;
+                    padding: 0 10px;
+                }
+            .post-content {
+                padding: 30px 30px 60px;
+            }
+            .post-content div:last-child, .post-content div:last-child p,
+            .post-content div:last-child ul, .post-content div:last-child ol,
+            .post-content div:last-child blockquote {
+                margin-bottom: 0;
+            }
+                .post-content h3 {
+                    font: 20px Georgia,serif;
+                    margin-bottom: 20px;
+                }
+                    .post-content h3 a, .post-content h3 a:visited {
+                        color: #111;
+                        text-decoration: none;
+                    }
+                    .post-content h3 a:focus, .post-content h3 a:hover, .post-content h3:active {
+                        color: #dd3333;
+                    }
+                .post-content img {
+                    margin-bottom: 20px;
+                    padding: 10px;
+                }
+                .post-type-text .post-content ul {
+                    padding-left: 30px;
+                }
+                    .post-type-text .post-content ul ul {
+                        margin-bottom: 0;
+                    }
+                    .post-type-text .post-content ul li {
+                        list-style-type: disc;
+                    }
+                        .post-type-text .post-content ul ul li {
+                            list-style-type: circle;
+                        }
+                .post-type-text .post-content ol {
+                    padding-left: 30px;
+                }
+                    .post-type-text .post-content ol ol {
+                        margin-bottom: 0;
+                    }
+                    .post-type-text .post-content ol li {
+                        list-style-type: upper-latin;
+                    }
+                        .post-type-text .post-content ol ol li {
+                            list-style-type: lower-latin;
+                        }
+                .post-type-photoset .post-content .html_photoset {
+                    background: #eee;
+                    margin-bottom: 20px;
+                    padding: 10px;
+                }
+                .post-type-link .post-content .link-wrap {
+                    margin-bottom: 20px;
+                }
+                .post-type-chat .post-content .label {
+                    color: #333;
+                    font-weight: bold;
+                }
+                .post-type-video .post-content .video-wrap {
+                    background: #f0f0f0;
+                    margin-bottom: 20px;
+                    padding: 10px;
+                }
+                .post-type-audio .post-content .caption {
+                    margin-top: 10px;
+                }
+                .tags {
+                    font-size: 13px;
+                }
+                .tags a {
+                    text-decoration: none;
+                }
+                .tags a:after {
+                    content: ",";
+                }
+                .tags a:last-child:after {
+                    content: "";
+                }
+            #disqus_thread {
+                border-top: 1px solid #ccc;
+                padding: 10px 30px 0;
+            }
+                #disqus_thread h3 {
+                    color: #111;
+                    font: 18px Georgia,serif;
+                    margin: 20px 0 10px;
+                }
+                #dsq-content .dsq-subscribe-menu {
+                    font-size: 12px;
+                }
+            #post-notes {
+                border-top: 1px solid #ccc;
+                padding: 30px;
+            }
+                #post-notes ol li {
+                    border-bottom: 1px dotted #ccc;
+                    padding: 10px 0;
+                }
+                    #post-notes ol li img {
+                        background: none;
+                        padding-right: 3px;
+                        vertical-align: middle;
+                    }
+            .pagination {
+                border-top: 1px solid #ccc;
+                overflow: hidden;
+                padding: 20px 0;
+            }
+                .pagination .previous-page {
+                    float: left;
+                }
+                .pagination .next-page {
+                    float: right;
+                    margin-right: 30px;
+                }
+                    .pagination a {
+                        font: 20px Georgia,serif;
+                        text-decoration: none;
+                    }
+        #sidebar {
+            float: left;
+            padding-bottom: 30px;
+            width: 319px;
+        }
+            #sidebar h3 {
+                border-bottom: 1px dotted #ccc;
+                color: #999;
+                font-size: 14px;
+                font-weight: bold;
+                margin: 0 0 20px;
+                padding: 9px 20px;
+                text-transform: uppercase;
+            }
+                #sidebar h3 a, #sidebar h3 a:visited {
+                    color: #999;
+                    text-decoration: none;
+                }
+                #sidebar h3 a:focus, #sidebar h3 a:hover, #sidebar h3 a:active {
+                    color: #dd3333;
+                }
+
+            #sidebar ul {
+                margin-bottom: 0;
+            }
+            .widget {
+                border-bottom: 1px solid #ccc;
+                color: #333;
+                font-size: 13px;
+                padding: 0 20px 20px 20px;
+            }
+                .widget h3 {
+                    font: 20px Georgia,serif;
+                    margin-bottom: 20px;
+                }
+                    .widget h3 a, .widget h3 a:visited {
+                        color: #000;
+                        text-decoration: none;
+                    }
+                    .widget h3 a:focus, .widget h3 a:hover, .widget h3 a:active {
+                        color: #dd3333;
+                    }
+                .widget img {
+                    padding: 5px;
+                    max-width: 250px;
+                }
+                .widget p:last-child, .widget ul:last-child, .widget ol:last-child, .widget blockquote:last-child {
+                    margin-bottom: 0;
+                }
+            #about {
+                overflow: hidden;
+            }
+                #about img {
+                    background: #fff;
+                    border: 1px solid #ccc;
+                    float: left;
+                    margin: 0 10px 0 0;
+                    padding: 3px;
+                }
+            .like_post {
+                border-bottom: 1px dotted #ccc;
+                margin-bottom: 20px;
+                padding-bottom: 20px;
+            }
+            .like_post:last-child {
+                border: none;
+                margin: 0;
+                padding: 0;
+            }
+                .like_post ul {
+                    padding-left: 20px;
+                }
+                    .like_post ul ul {
+                        margin-bottom: 0;
+                    }
+                    .like_post ul li {
+                        list-style-type: disc;
+                    }
+                        .like_post ul ul li {
+                            list-style-type: circle;
+                        }
+                .like_post ol {
+                    padding-left: 20px;
+                }
+                    .like_post ol ol {
+                        margin-bottom: 0;
+                    }
+                    .like_post ol li {
+                        list-style-type: upper-latin;
+                    }
+                        .like_post ol ol li {
+                            list-style-type: lower-latin;
+                        }
+                .like_post p:last-child, .like_post ul:last-child, .like_post ol:last-child, .like_post blockquote:last-child {
+                    margin-bottom: 0;
+                }
+            #tweets {
+                margin-bottom: 10px;
+            }
+                #tweets .content {
+                    margin-bottom: 10px;
+                }
+                    #tweets a {
+                        text-decoration: none;
+                    }
+            #following_container {
+                overflow: hidden;
+                padding-bottom: 20px;
+            }
+                #following_container li {
+                    display: inline;
+                    padding: 0;
+                    margin: 0;
+                }
+    #footer {
+        border-top: 1px solid #ccc;
+        clear: both;
+        margin: 0 auto;
+        overflow: hidden;
+        width: 900px;
+    }
+        #colophon {
+            color: #555;
+            float: right;
+            font-size: 12px;
+            padding: 10px 0 20px;
+        }
+            #footer a {
+                border-bottom: 1px dotted #555;
+                text-decoration: none;
+            }
+    
+    </style>
+
+<!-- BEGIN TUMBLR FACEBOOK OPENGRAPH TAGS -->
+<!-- If you'd like to specify your own Open Graph tags, define the og:url and og:title tags in your theme's HTML. -->
+<!-- Read more: http://ogp.me/ -->
+<meta property="fb:app_id" content="48119224995" />
+<meta property="og:site_name" content="Julian M.C." />
+<meta property="og:title" content="" />
+<meta property="og:url" content="http://mcjulianmc.tumblr.com/post/62192808722/mike-will-made-it-f-miley-cyrus-juicy-j-and-wiz" />
+<meta property="og:description" content="Mike WiLL Made It f. Miley Cyrus, Juicy J and Wiz Khalifa - 23" />
+<meta property="og:determiner" content="a" />
+<meta property="og:type" content="tumblr-feed:video" />
+<meta property="og:image" content="https://simg.vevo.com/Content/VevoImages/video/104DB7713264868188AB37B05650F8A62013239232011551.jpg" />
+<!-- END TUMBLR FACEBOOK OPENGRAPH TAGS -->
+
+
+<!-- TWITTER TAGS -->
+<meta charset="utf-8">
+            <meta name="twitter:card" content="summary" />
+            <meta name="twitter:description" content="Mike WiLL Made It f. Miley Cyrus, Juicy J and Wiz Khalifa - 23" />
+            <meta name="twitter:url" content="http://mcjulianmc.tumblr.com/post/62192808722/mike-will-made-it-f-miley-cyrus-juicy-j-and-wiz" />
+            <meta name="twitter:site" content="tumblr" />
+            <meta name="twitter:creator" content="MCjulianMC" />
+            <meta name="twitter:app:name:iphone" content="Tumblr" />
+            <meta name="twitter:app:name:ipad" content="Tumblr" />
+            <meta name="twitter:app:name:googleplay" content="Tumblr" />
+            <meta name="twitter:app:id:iphone" content="305343404" />
+            <meta name="twitter:app:id:ipad" content="305343404" />
+            <meta name="twitter:app:id:googleplay" content="com.tumblr" />
+            <meta name="twitter:app:url:iphone" content="tumblr://x-callback-url/blog?blogName=mcjulianmc&amp;postID=62192808722&amp;referrer=twitter-cards" />
+            <meta name="twitter:app:url:ipad" content="tumblr://x-callback-url/blog?blogName=mcjulianmc&amp;postID=62192808722&amp;referrer=twitter-cards" />
+            <meta name="twitter:app:url:googleplay" content="tumblr://x-callback-url/blog?blogName=mcjulianmc&amp;postID=62192808722&amp;referrer=twitter-cards" />
+    
+
+<script type="text/javascript" src="http://assets.tumblr.com/assets/scripts/tumblelog.js?_v=cf7aeb03e820314a6cb2890dfa192802"></script>
+<meta http-equiv="x-dns-prefetch-control" content="off"/>
+</head>
+<body>
+    <div id="wrapper">
+        <div id="header">
+            <div id="access">
+                <div class="menu">
+                    <div id="pages">
+                        <ul>
+                            <li><a href="/">Home</a></li>
+                            
+                            <li class="ask"><a href="/ask" class="page">Ask me </a></li>
+                            
+                            <li class="archive"><a href="/archive">Archive</a></li>
+                            <li class="mobile"><a href="/mobile">Mobile</a></li>
+                            <li class="rss"><a href="http://mcjulianmc.tumblr.com/rss">RSS</a></li>
+                        </ul>
+                    </div><!-- #pages -->
+                    <div id="search">
+                        <form action="/search" method="get">
+                            <input type="text" name="q" value=""/>
+                            <input type="submit" value="Search" class="search-button"/>
+                        </form>
+                    </div><!-- #search -->
+                </div><!-- .menu -->
+            </div><!-- #access -->
+            <div id="branding">
+                <h1>
+                    <a href="/"><img src="http://static.tumblr.com/mp5vaa9/uHHlxynmf/julian_mc_2.jpg" alt="Julian M.C." /></a>
+                    
+                </h1>
+            </div><!-- #branding -->
+        </div><!-- #header -->
+        <div id="main">
+            <div id="container">
+                <div id="content">
+                
+                    <div id="post-62192808722" class="post post-type-video">
+                        <div class="post-meta">
+                            <div class="type">
+                                <a href="http://mcjulianmc.tumblr.com/post/62192808722/mike-will-made-it-f-miley-cyrus-juicy-j-and-wiz">Video</a>
+                            </div><!-- .type -->
+                        
+                            <div class="date">
+                                September 24, 2013
+                            </div><!-- .date -->
+                        
+                        
+                        
+                        </div><!-- .post-meta -->
+                        <div class="post-content">
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                            <div class="video-wrap"><object width="500" height="282"><param name="movie" value="http://videoplayer.vevo.com/embed/Embedded?videoId=USUV71302231&autoplay=0&playerType=embedded"></param><param name="allowFullScreen" value="true"></param><embed src="http://videoplayer.vevo.com/embed/Embedded?videoId=USUV71302231&autoplay=0&playerType=embedded" type="application/x-shockwave-flash" width="500" height="282" allowFullScreen="true"></embed></object></div>
+                            <div class="caption"><p><a href="http://www.thefader.com/2013/09/24/video-mike-will-made-it-f-miley-cyrus-juicy-j-and-wiz-khalifa/">Mike WiLL Made It f. Miley Cyrus, Juicy J and Wiz Khalifa</a> - 23</p></div>
+                        
+                        
+                        
+                        </div><!-- post-content -->
+                    </div><!-- .post -->
+                    
+                    
+                
+                
+                </div><!-- #content -->
+            </div><!-- #container -->
+            <div id="sidebar">
+            
+			
+            
+            
+                <h3>People I follow</h3>
+                <div id="following_container" class="widget">
+                    <ul>
+                        
+                            <li><a href="http://defjamblr.com/"><img src="http://31.media.tumblr.com/avatar_9194ddac855d_30.png" alt="defjamblr"/></a></li>
+                        
+                            <li><a href="http://thefader.tumblr.com/"><img src="http://25.media.tumblr.com/avatar_ef64fcc28d67_30.png" alt="thefader"/></a></li>
+                        
+                            <li><a href="http://www.journogeekery.com/"><img src="http://31.media.tumblr.com/avatar_70c8d834297d_30.png" alt="journo-geekery"/></a></li>
+                        
+                            <li><a href="http://everythingyoulovetohate.us/"><img src="http://31.media.tumblr.com/avatar_2322c812e2f4_30.png" alt="everythingyoulovetohate"/></a></li>
+                        
+                            <li><a href="http://vicemag.tumblr.com/"><img src="http://31.media.tumblr.com/avatar_86b87ae7d482_30.png" alt="vicemag"/></a></li>
+                        
+                            <li><a href="http://mindofahustler.tumblr.com/"><img src="http://25.media.tumblr.com/avatar_7d30faf80ac5_30.png" alt="mindofahustler"/></a></li>
+                        
+                            <li><a href="http://uzowuru.com/"><img src="http://31.media.tumblr.com/avatar_98de42aafcb8_30.png" alt="uzowuru"/></a></li>
+                        
+                            <li><a href="http://visualshangri-la.tumblr.com/"><img src="http://25.media.tumblr.com/avatar_577e40518d82_30.png" alt="visualshangri-la"/></a></li>
+                        
+                            <li><a href="http://hiphopzealot.tumblr.com/"><img src="http://25.media.tumblr.com/avatar_52ea058dec77_30.png" alt="hiphopzealot"/></a></li>
+                        
+                            <li><a href="http://funnyordie.tumblr.com/"><img src="http://25.media.tumblr.com/avatar_a8a619514b7e_30.png" alt="funnyordie"/></a></li>
+                        
+                            <li><a href="http://maximandblue.tumblr.com/"><img src="http://25.media.tumblr.com/avatar_97fbeb0b6985_30.png" alt="maximandblue"/></a></li>
+                        
+                            <li><a href="http://dopegirlfresh.tumblr.com/"><img src="http://25.media.tumblr.com/avatar_5b6fa779f3d2_30.png" alt="dopegirlfresh"/></a></li>
+                        
+                            <li><a href="http://myotherphotoblog.com/"><img src="http://31.media.tumblr.com/avatar_a9f3354536f1_30.png" alt="meldcole"/></a></li>
+                        
+                            <li><a href="http://fashionsexcats.tumblr.com/"><img src="http://31.media.tumblr.com/avatar_e30d792b0f48_30.png" alt="fashionsexcats"/></a></li>
+                        
+                            <li><a href="http://richkidsofinstagram.tumblr.com/"><img src="http://25.media.tumblr.com/avatar_158675eeb606_30.png" alt="richkidsofinstagram"/></a></li>
+                        
+                            <li><a href="http://putthison.com/"><img src="http://25.media.tumblr.com/avatar_fc5d5ca1c4f4_30.png" alt="putthison"/></a></li>
+                        
+                            <li><a href="http://nbaoffseason.com/"><img src="http://31.media.tumblr.com/avatar_63c931bd1337_30.png" alt="nbaoffseason"/></a></li>
+                        
+                            <li><a href="http://blog.peasncarrotsintl.com/"><img src="http://25.media.tumblr.com/avatar_d23befaccef5_30.png" alt="peasandcarrotsinternational"/></a></li>
+                        
+                            <li><a href="http://howtotalktogirlsatparties.tumblr.com/"><img src="http://31.media.tumblr.com/avatar_5a117afcab5b_30.png" alt="howtotalktogirlsatparties"/></a></li>
+                        
+                            <li><a href="http://diorpaint.tumblr.com/"><img src="http://31.media.tumblr.com/avatar_55597515671d_30.png" alt="diorpaint"/></a></li>
+                        
+                            <li><a href="http://thecmzconspiracy.tumblr.com/"><img src="http://25.media.tumblr.com/avatar_eef5ae6cf80c_30.png" alt="thecmzconspiracy"/></a></li>
+                        
+                            <li><a href="http://dtybywl.tumblr.com/"><img src="http://25.media.tumblr.com/avatar_5bd1e379561f_30.png" alt="dtybywl"/></a></li>
+                        
+                            <li><a href="http://iam.beyonce.com/"><img src="http://24.media.tumblr.com/avatar_39587be51037_30.png" alt="beyonce"/></a></li>
+                        
+                            <li><a href="http://fersher.tumblr.com/"><img src="http://25.media.tumblr.com/avatar_ef4ace4d3248_30.png" alt="fersher"/></a></li>
+                        
+                            <li><a href="http://moracularworld.tumblr.com/"><img src="http://31.media.tumblr.com/avatar_e4b201336f1b_30.png" alt="moracularworld"/></a></li>
+                        
+                            <li><a href="http://thesmithian.tumblr.com/"><img src="http://24.media.tumblr.com/avatar_e453ccbe5f17_30.png" alt="thesmithian"/></a></li>
+                        
+                            <li><a href="http://fuckyeahnikes.tumblr.com/"><img src="http://31.media.tumblr.com/avatar_ed893c172b7a_30.png" alt="fuckyeahnikes"/></a></li>
+                        
+                            <li><a href="http://blog.dopeitsdom.com/"><img src="http://25.media.tumblr.com/avatar_2a4293a3ddfb_30.png" alt="therealdomkennedy"/></a></li>
+                        
+                            <li><a href="http://rockgardensindecember.tumblr.com/"><img src="http://31.media.tumblr.com/avatar_4f9e6cb5a5c8_30.png" alt="rockgardensindecember"/></a></li>
+                        
+                            <li><a href="http://oddfuture.tumblr.com/"><img src="http://31.media.tumblr.com/avatar_34859b5ebb73_30.png" alt="oddfuture"/></a></li>
+                        
+                            <li><a href="http://pushthemovement.tumblr.com/"><img src="http://24.media.tumblr.com/avatar_1cf089dd8eb5_30.png" alt="pushthemovement"/></a></li>
+                        
+                            <li><a href="http://steve-ography.tumblr.com/"><img src="http://24.media.tumblr.com/avatar_b7a3b8962a3f_30.png" alt="steve-ography"/></a></li>
+                        
+                            <li><a href="http://sarajayxxx.tumblr.com/"><img src="http://31.media.tumblr.com/avatar_4004aefa8c57_30.png" alt="sarajayxxx"/></a></li>
+                        
+                            <li><a href="http://caseyveggies.tumblr.com/"><img src="http://31.media.tumblr.com/avatar_92f61ff0f158_30.png" alt="caseyveggies"/></a></li>
+                        
+                            <li><a href="http://tkoed.tumblr.com/"><img src="http://31.media.tumblr.com/avatar_96dcba0523ae_30.png" alt="tkoed"/></a></li>
+                        
+                            <li><a href="http://julianxberman.tumblr.com/"><img src="http://31.media.tumblr.com/avatar_17f6097915fa_30.png" alt="julianxberman"/></a></li>
+                        
+                            <li><a href="http://tabibonney.tumblr.com/"><img src="http://31.media.tumblr.com/avatar_759b6bf6a823_30.png" alt="tabibonney"/></a></li>
+                        
+                            <li><a href="http://philade.tumblr.com/"><img src="http://31.media.tumblr.com/avatar_b94f68d12c51_30.png" alt="philade"/></a></li>
+                        
+                            <li><a href="http://riverlife.tumblr.com/"><img src="http://25.media.tumblr.com/avatar_5777eec8c547_30.png" alt="riverlife"/></a></li>
+                        
+                            <li><a href="http://tumblinerb.com/"><img src="http://24.media.tumblr.com/avatar_43f3b7b4c5f8_30.png" alt="tumblinerb"/></a></li>
+                        
+                            <li><a href="http://bellebasketball.tumblr.com/"><img src="http://31.media.tumblr.com/avatar_e18957018086_30.png" alt="bellebasketball"/></a></li>
+                        
+                            <li><a href="http://officialrocnation.tumblr.com/"><img src="http://24.media.tumblr.com/avatar_8cec4a982cfb_30.png" alt="officialrocnation"/></a></li>
+                        
+                            <li><a href="http://villarosamuisc.tumblr.com/"><img src="http://24.media.tumblr.com/avatar_fcf8b8e64d18_30.png" alt="villarosamuisc"/></a></li>
+                        
+                            <li><a href="http://oldinglish.tumblr.com/"><img src="http://25.media.tumblr.com/avatar_4f0384ecddf3_30.png" alt="oldinglish"/></a></li>
+                        
+                            <li><a href="http://dreamhampton1.tumblr.com/"><img src="http://31.media.tumblr.com/avatar_ff619e543f33_30.png" alt="dreamhampton1"/></a></li>
+                        
+                            <li><a href="http://higasha.tumblr.com/"><img src="http://24.media.tumblr.com/avatar_b75d632c0160_30.png" alt="higasha"/></a></li>
+                        
+                            <li><a href="http://friscotsc.tumblr.com/"><img src="http://31.media.tumblr.com/avatar_e49dc05c18a8_30.png" alt="friscotsc"/></a></li>
+                        
+                            <li><a href="http://azizisbored.tumblr.com/"><img src="http://31.media.tumblr.com/avatar_3c5b9eb4a60e_30.gif" alt="azizisbored"/></a></li>
+                        
+                            <li><a href="http://bookshelfporn.com/"><img src="http://25.media.tumblr.com/avatar_78c411460adf_30.png" alt="bookshelfporn"/></a></li>
+                        
+                            <li><a href="http://life.tumblr.com/"><img src="http://31.media.tumblr.com/avatar_c1cd55ae1202_30.png" alt="life"/></a></li>
+                        
+                            <li><a href="http://boatersandbrews.tumblr.com/"><img src="http://25.media.tumblr.com/avatar_12c1f79af169_30.png" alt="boatersandbrews"/></a></li>
+                        
+                            <li><a href="http://rapperhooks.tumblr.com/"><img src="http://31.media.tumblr.com/avatar_902c3181411a_30.png" alt="rapperhooks"/></a></li>
+                        
+                            <li><a href="http://ferrarisheppard.tumblr.com/"><img src="http://31.media.tumblr.com/avatar_2b88fa40fd9d_30.png" alt="ferrarisheppard"/></a></li>
+                        
+                            <li><a href="http://brickstowell.com/"><img src="http://24.media.tumblr.com/avatar_ac9fa4ccbea6_30.png" alt="brickstowell"/></a></li>
+                        
+                            <li><a href="http://bklyndad.com/"><img src="http://24.media.tumblr.com/avatar_847dfb709d7c_30.gif" alt="bklyndad"/></a></li>
+                        
+                            <li><a href="http://jerreau.tumblr.com/"><img src="http://24.media.tumblr.com/avatar_ff920254c61c_30.png" alt="jerreau"/></a></li>
+                        
+                            <li><a href="http://drayfest.tumblr.com/"><img src="http://31.media.tumblr.com/avatar_2fa8c0847034_30.png" alt="drayfest"/></a></li>
+                        
+                            <li><a href="http://wookienuts666.tumblr.com/"><img src="http://24.media.tumblr.com/avatar_c33545011aea_30.png" alt="wookienuts666"/></a></li>
+                        
+                            <li><a href="http://frankocean.tumblr.com/"><img src="http://24.media.tumblr.com/avatar_c905bba32dce_30.png" alt="frankocean"/></a></li>
+                        
+                            <li><a href="http://aintshitfunny.com/"><img src="http://25.media.tumblr.com/avatar_747db58a2acd_30.png" alt="joshtonpeas"/></a></li>
+                        
+                            <li><a href="http://tittysandpancakes.com/"><img src="http://25.media.tumblr.com/avatar_f7a0962118c9_30.png" alt="tittysandpancakes"/></a></li>
+                        
+                            <li><a href="http://iamdonald.com/"><img src="http://31.media.tumblr.com/avatar_ea0e74613b0f_30.png" alt="iamdonald"/></a></li>
+                        
+                            <li><a href="http://robhuebel.com/"><img src="http://25.media.tumblr.com/avatar_4fe7d0e84e5a_30.png" alt="robhuebel"/></a></li>
+                        
+                            <li><a href="http://golfwang.tumblr.com/"><img src="http://25.media.tumblr.com/avatar_ab84d942125d_30.png" alt="golfwang"/></a></li>
+                        
+                            <li><a href="http://danharmon.tumblr.com/"><img src="http://31.media.tumblr.com/avatar_2aef26a7066e_30.png" alt="danharmon"/></a></li>
+                        
+                            <li><a href="http://rappersdoingnormalshit.com/"><img src="http://25.media.tumblr.com/avatar_4a4408e35fee_30.png" alt="rappersdoingnormalshit"/></a></li>
+                        
+                            <li><a href="http://kreayshawn.tumblr.com/"><img src="http://31.media.tumblr.com/avatar_0d62e316149f_30.png" alt="kreayshawn"/></a></li>
+                        
+                            <li><a href="http://growingup70s.tumblr.com/"><img src="http://24.media.tumblr.com/avatar_9030ad52e84a_30.png" alt="growingup70s"/></a></li>
+                        
+                            <li><a href="http://hannibalhannibal.tumblr.com/"><img src="http://24.media.tumblr.com/avatar_62bf44ed59f7_30.png" alt="hannibalhannibal"/></a></li>
+                        
+                            <li><a href="http://bibliofeminista.com/"><img src="http://24.media.tumblr.com/avatar_693562bc65c2_30.png" alt="bibliofeminista"/></a></li>
+                        
+                            <li><a href="http://zampino.tumblr.com/"><img src="http://25.media.tumblr.com/avatar_f09731d4b9dc_30.png" alt="zampino"/></a></li>
+                        
+                            <li><a href="http://www.aboyinmidair.com/"><img src="http://25.media.tumblr.com/avatar_82a8c5cc900c_30.png" alt="aboyinmidair"/></a></li>
+                        
+                            <li><a href="http://soulmojo.tumblr.com/"><img src="http://31.media.tumblr.com/avatar_05631565adca_30.png" alt="soulmojo"/></a></li>
+                        
+                            <li><a href="http://alexleo.tumblr.com/"><img src="http://25.media.tumblr.com/avatar_f1627c40c8f5_30.png" alt="alexleo"/></a></li>
+                        
+                            <li><a href="http://equinoctialnyt.tumblr.com/"><img src="http://25.media.tumblr.com/avatar_b720ca67378c_30.png" alt="equinoctialnyt"/></a></li>
+                        
+                            <li><a href="http://smellenphant.tumblr.com/"><img src="http://24.media.tumblr.com/avatar_38b4648e355a_30.png" alt="smellenphant"/></a></li>
+                        
+                            <li><a href="http://iamjabari.tumblr.com/"><img src="http://31.media.tumblr.com/avatar_c225a7c7faa9_30.png" alt="iamjabari"/></a></li>
+                        
+                            <li><a href="http://nsf56k.tumblr.com/"><img src="http://24.media.tumblr.com/avatar_521d7ab3b3d4_30.png" alt="nsf56k"/></a></li>
+                        
+                            <li><a href="http://fuckyeahwu-tangclan.tumblr.com/"><img src="http://24.media.tumblr.com/avatar_f3fe157b827b_30.png" alt="fuckyeahwu-tangclan"/></a></li>
+                        
+                            <li><a href="http://spontaineouscombustion.tumblr.com/"><img src="http://25.media.tumblr.com/avatar_4e7454d52596_30.png" alt="spontaineouscombustion"/></a></li>
+                        
+                            <li><a href="http://stsisgold.com/"><img src="http://31.media.tumblr.com/avatar_8577b27f1fc5_30.png" alt="sugartongueslim"/></a></li>
+                        
+                            <li><a href="http://ofwgkta.tumblr.com/"><img src="http://25.media.tumblr.com/avatar_9895549e5c7c_30.png" alt="ofwgkta"/></a></li>
+                        
+                            <li><a href="http://dicker.tumblr.com/"><img src="http://25.media.tumblr.com/avatar_619663d3920e_30.png" alt="dicker"/></a></li>
+                        
+                            <li><a href="http://bummmercity.tumblr.com/"><img src="http://31.media.tumblr.com/avatar_60b0b0548cf0_30.png" alt="bummmercity"/></a></li>
+                        
+                            <li><a href="http://mistercrew.tumblr.com/"><img src="http://25.media.tumblr.com/avatar_704a4b42fc6c_30.png" alt="mistercrew"/></a></li>
+                        
+                            <li><a href="http://camdenroses.tumblr.com/"><img src="http://31.media.tumblr.com/avatar_2c3cb15839ae_30.png" alt="camdenroses"/></a></li>
+                        
+                            <li><a href="http://dolphinlife.tumblr.com/"><img src="http://24.media.tumblr.com/avatar_0aed9a0fdce5_30.png" alt="dolphinlife"/></a></li>
+                        
+                            <li><a href="http://thefreshestfatboy.tumblr.com/"><img src="http://25.media.tumblr.com/avatar_b62831161c28_30.png" alt="thefreshestfatboy"/></a></li>
+                        
+                            <li><a href="http://fuckyeahairjordan.tumblr.com/"><img src="http://31.media.tumblr.com/avatar_dd111f448085_30.png" alt="fuckyeahairjordan"/></a></li>
+                        
+                            <li><a href="http://theleagueofus.tumblr.com/"><img src="http://31.media.tumblr.com/avatar_7c9651220aca_30.png" alt="theleagueofus"/></a></li>
+                        
+                            <li><a href="http://mplscass.tumblr.com/"><img src="http://25.media.tumblr.com/avatar_45a57133d1b8_30.png" alt="mplscass"/></a></li>
+                        
+                            <li><a href="http://hakeemmutombo.tumblr.com/"><img src="http://25.media.tumblr.com/avatar_b79db844be16_30.png" alt="hakeemmutombo"/></a></li>
+                        
+                            <li><a href="http://smashroth.tumblr.com/"><img src="http://24.media.tumblr.com/avatar_c49ba8554d79_30.png" alt="smashroth"/></a></li>
+                        
+                            <li><a href="http://faxmybeeper.tumblr.com/"><img src="http://25.media.tumblr.com/avatar_326372916134_30.png" alt="faxmybeeper"/></a></li>
+                        
+                            <li><a href="http://girlvsthecynic.tumblr.com/"><img src="http://31.media.tumblr.com/avatar_10602310c994_30.png" alt="girlvsthecynic"/></a></li>
+                        
+                            <li><a href="http://blog.flydotu.com/"><img src="http://25.media.tumblr.com/avatar_bdbeb668ff36_30.png" alt="flydotu"/></a></li>
+                        
+                            <li><a href="http://donteatmymind.tumblr.com/"><img src="http://24.media.tumblr.com/avatar_a410dfabda49_30.png" alt="donteatmymind"/></a></li>
+                        
+                            <li><a href="http://guttaboyjihad.tumblr.com/"><img src="http://24.media.tumblr.com/avatar_cd71451f8434_30.png" alt="guttaboyjihad"/></a></li>
+                        
+                            <li><a href="http://theophiluslondon.com/"><img src="http://31.media.tumblr.com/avatar_3692c9239e93_30.png" alt="timezareweird"/></a></li>
+                        
+                            <li><a href="http://loitersquad.com/"><img src="http://31.media.tumblr.com/avatar_e8e2d9890977_30.png" alt="loitersquadtv"/></a></li>
+                        
+                            <li><a href="http://classichiphop.tumblr.com/"><img src="http://25.media.tumblr.com/avatar_bcf3a8d9302a_30.png" alt="classichiphop"/></a></li>
+                        
+                            <li><a href="http://midwesternmermaids.tumblr.com/"><img src="http://31.media.tumblr.com/avatar_9f3548192493_30.png" alt="midwesternmermaids"/></a></li>
+                        
+                            <li><a href="http://richforever.tumblr.com/"><img src="http://31.media.tumblr.com/avatar_809372d64e20_30.png" alt="richforever"/></a></li>
+                        
+                            <li><a href="http://fuckyeahsofiavergara.tumblr.com/"><img src="http://31.media.tumblr.com/avatar_7d2130a06a40_30.png" alt="fuckyeahsofiavergara"/></a></li>
+                        
+                            <li><a href="http://wagoutparty.tumblr.com/"><img src="http://25.media.tumblr.com/avatar_5c1f199ede55_30.png" alt="wagoutparty"/></a></li>
+                        
+                            <li><a href="http://pushdope.tumblr.com/"><img src="http://25.media.tumblr.com/avatar_5408177cabff_30.png" alt="pushdope"/></a></li>
+                        
+                            <li><a href="http://iheartbatman.tumblr.com/"><img src="http://25.media.tumblr.com/avatar_92e894f95aec_30.png" alt="iheartbatman"/></a></li>
+                        
+                            <li><a href="http://saraunderwood.tumblr.com/"><img src="http://24.media.tumblr.com/avatar_708cfa1b07d2_30.png" alt="saraunderwood"/></a></li>
+                        
+                            <li><a href="http://whitebuffalo666.tumblr.com/"><img src="http://25.media.tumblr.com/avatar_17b3f02f9609_30.png" alt="whitebuffalo666"/></a></li>
+                        
+                            <li><a href="http://soaponmylawn.tumblr.com/"><img src="http://assets.tumblr.com/images/default_avatar_30.png" alt="soaponmylawn"/></a></li>
+                        
+                            <li><a href="http://thefrontoffice.tumblr.com/"><img src="http://31.media.tumblr.com/avatar_55fb9142622e_30.png" alt="thefrontoffice"/></a></li>
+                        
+                            <li><a href="http://mindofmusik.tumblr.com/"><img src="http://25.media.tumblr.com/avatar_53b1faf5ca1c_30.png" alt="mindofmusik"/></a></li>
+                        
+                            <li><a href="http://thetempotandrum.tumblr.com/"><img src="http://24.media.tumblr.com/avatar_3faaa8d59cac_30.png" alt="thetempotandrum"/></a></li>
+                        
+                            <li><a href="http://kingchip216.tumblr.com/"><img src="http://24.media.tumblr.com/avatar_d00a290a0679_30.png" alt="kingchip216"/></a></li>
+                        
+                            <li><a href="http://fuckyeahprotest.tumblr.com/"><img src="http://24.media.tumblr.com/avatar_a4e959a79628_30.png" alt="fuckyeahprotest"/></a></li>
+                        
+                            <li><a href="http://cornerboyp.tumblr.com/"><img src="http://24.media.tumblr.com/avatar_a989b104b97a_30.png" alt="cornerboyp"/></a></li>
+                        
+                            <li><a href="http://theericandreshow.tv/"><img src="http://25.media.tumblr.com/avatar_82c58175975b_30.png" alt="theericandreshow"/></a></li>
+                        
+                            <li><a href="http://dayofdignitytc.tumblr.com/"><img src="http://31.media.tumblr.com/avatar_02a43fdfe8ab_30.png" alt="dayofdignitytc"/></a></li>
+                        
+                            <li><a href="http://blog.beastieboys.com/"><img src="http://31.media.tumblr.com/avatar_d3792b5a1955_30.png" alt="officialbeastieboys"/></a></li>
+                        
+                            <li><a href="http://eyeofelectronica.tumblr.com/"><img src="http://assets.tumblr.com/images/default_avatar_30.png" alt="eyeofelectronica"/></a></li>
+                        
+                            <li><a href="http://cudlife.tumblr.com/"><img src="http://24.media.tumblr.com/avatar_9060b6b975e9_30.png" alt="cudlife"/></a></li>
+                        
+                            <li><a href="http://endeavorsmusic.tumblr.com/"><img src="http://25.media.tumblr.com/avatar_b8bf86787d17_30.png" alt="endeavorsmusic"/></a></li>
+                        
+                            <li><a href="http://funzachfilms.tumblr.com/"><img src="http://25.media.tumblr.com/avatar_4c3be3aeee8d_30.png" alt="funzachfilms"/></a></li>
+                        
+                            <li><a href="http://fununiverse.tumblr.com/"><img src="http://31.media.tumblr.com/avatar_2f5f92f755af_30.png" alt="fununiverse"/></a></li>
+                        
+                            <li><a href="http://nbatumblr.tumblr.com/"><img src="http://24.media.tumblr.com/avatar_faccd7712af0_30.png" alt="nbatumblr"/></a></li>
+                        
+                            <li><a href="http://sirmichael.tumblr.com/"><img src="http://25.media.tumblr.com/avatar_ea0aeadaf3df_30.png" alt="sirmichael"/></a></li>
+                        
+                            <li><a href="http://somehighshit.tumblr.com/"><img src="http://25.media.tumblr.com/avatar_3d05b56dd3e4_30.png" alt="somehighshit"/></a></li>
+                        
+                            <li><a href="http://thelvlsix.tumblr.com/"><img src="http://25.media.tumblr.com/avatar_3b17f5761b81_30.png" alt="thelvlsix"/></a></li>
+                        
+                            <li><a href="http://helloblueivycarter.tumblr.com/"><img src="http://25.media.tumblr.com/avatar_e654e03c1522_30.png" alt="helloblueivycarter"/></a></li>
+                        
+                            <li><a href="http://hypemen.tumblr.com/"><img src="http://31.media.tumblr.com/avatar_d755b0729095_30.png" alt="hypemen"/></a></li>
+                        
+                            <li><a href="http://maddbees.tumblr.com/"><img src="http://31.media.tumblr.com/avatar_02433e71c393_30.png" alt="maddbees"/></a></li>
+                        
+                            <li><a href="http://t-rawwww.tumblr.com/"><img src="http://31.media.tumblr.com/avatar_057234c044a1_30.png" alt="t-rawwww"/></a></li>
+                        
+                            <li><a href="http://autobuds.tumblr.com/"><img src="http://24.media.tumblr.com/avatar_d8910ea37feb_30.png" alt="autobuds"/></a></li>
+                        
+                            <li><a href="http://duckdownmusic.tumblr.com/"><img src="http://31.media.tumblr.com/avatar_2611076cb5de_30.png" alt="duckdownmusic"/></a></li>
+                        
+                            <li><a href="http://daaaaaamn.tumblr.com/"><img src="http://25.media.tumblr.com/avatar_6b8790765586_30.png" alt="daaaaaamn"/></a></li>
+                        
+                            <li><a href="http://theblackgodcriestoosometimes.tumblr.com/"><img src="http://31.media.tumblr.com/avatar_50a7675a4538_30.png" alt="theblackgodcriestoosometimes"/></a></li>
+                        
+                            <li><a href="http://djbrainchild.tumblr.com/"><img src="http://assets.tumblr.com/images/default_avatar_30.png" alt="djbrainchild"/></a></li>
+                        
+                            <li><a href="http://fuckyeahheyarnold.tumblr.com/"><img src="http://25.media.tumblr.com/avatar_1aaf07ff4911_30.png" alt="fuckyeahheyarnold"/></a></li>
+                        
+                    </ul>
+                </div>
+            
+            </div><!-- #sidebar -->
+        </div><!-- #main -->
+        <div id="footer">
+            <div id="colophon"><p>Powered by <a href="http://tumblr.com">Tumblr</a>. <a href="http://www.tumblr.com/theme/10375">Minimal Theme</a> designed by <a href="http://arturkim.com">Artur Kim</a>.</p></div>
+        </div><!-- #footer -->
+    </div><!-- #wrapper -->
+
+<script type="text/javascript" src="/tweets.js"></script>
+
+
+
+<!-- BEGIN TUMBLR CODE -->
+        
+    
+        <iframe id="tumblr_controls" width="1" height="1" frameborder="0" scrolling="no" style="position:absolute; z-index:2147483647; top:0; right:0; border:0; background-color:transparent; overflow:hidden; " src="http://assets.tumblr.com/assets/html/iframe/o.html?_v=00c18e3e470095be41311af633109bac#src=http%3A%2F%2Fmcjulianmc.tumblr.com%2Fpost%2F62192808722%2Fmike-will-made-it-f-miley-cyrus-juicy-j-and-wiz&amp;pid=62192808722&amp;rk=1e0VhCXB&amp;lang=en_US&amp;name=mcjulianmc&amp;avatar=http%3A%2F%2F25.media.tumblr.com%2Favatar_0f1639b04134_64.png&amp;title=Julian+M.C.&amp;url=http%3A%2F%2Fmcjulianmc.tumblr.com%2F&amp;page_slide=slide"></iframe>    <div id="teaser_iframe_container" style="display:none;"><iframe scrolling="no" frameborder="0" src="http://www.tumblr.com/assets/html/iframe/teaser.html#src=http%3A%2F%2Fmcjulianmc.tumblr.com%2Fpost%2F62192808722%2Fmike-will-made-it-f-miley-cyrus-juicy-j-and-wiz&amp;pid=62192808722&amp;rk=1e0VhCXB&amp;lang=en_US&amp;name=mcjulianmc&amp;avatar=http%3A%2F%2F25.media.tumblr.com%2Favatar_0f1639b04134_64.png&amp;title=Julian+M.C.&amp;url=http%3A%2F%2Fmcjulianmc.tumblr.com%2F&amp;page_slide=slide" id="teaser_iframe" width="1" height="1"></iframe></div>
+
+<script type="text/javascript">
+    (function(Tumblr){
+        var follow_iframe_initialized = false;
+        if (Tumblr.FollowTeaser && Tumblr.PostMessageListener) {
+            // Don't do anything until the first initialize event
+            Tumblr.PostMessageListener.initialize(function(message, origin) {
+                if (follow_iframe_initialized || message.length < 2) return;
+
+                if (message[0] === 'follow_iframe' && message[1] === 'enable') {
+                    Tumblr.FollowTeaser.current_page = 1;
+                    Tumblr.FollowTeaser.infer_infinite_scroll = true;
+                    Tumblr.FollowTeaser.create_from_tumblr_controls('http://assets.tumblr.com/assets/html/iframe/follow.html?_v=c5638c77a8a6b7821eab58b693b3a051');
+                    Tumblr.FollowTeaser.scroll_listener(true);
+                    follow_iframe_initialized = true;
+                }
+            });
+        }
+    })(this.Tumblr || (this.Tumblr = {}));
+</script>
+    
+    <!--[if IE]><script type="text/javascript">document.getElementById('tumblr_controls').allowTransparency=true;</script><![endif]-->
+    
+        
+<iframe src="http://assets.tumblr.com/analytics.html?63fae489732da54993e4a941e42dcf5e" scrolling="no" width="1" height="1" frameborder="0" style="background-color:transparent; overflow:hidden; position:absolute; top:0; left:0 z-index:9999;" id="ga_target"></iframe>
+
+    <script>
+        var COMSCORE = true;
+        window.setTimeout(function() {
+            var analytics_frame = document.getElementById('ga_target');
+            analytics_frame.contentWindow.postMessage('enable_comscore;' + window.location, analytics_frame.src.split('/analytics.html')[0]);
+        }, 1000);
+    </script>
+
+
+
+    <script type="text/javascript">
+      var _qevents = _qevents || [];
+
+      (function() {
+       var elem = document.createElement('script');
+
+       elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+       elem.async = true;
+       elem.type = "text/javascript";
+       var scpt = document.getElementsByTagName('script')[0];
+       scpt.parentNode.insertBefore(elem, scpt);
+      })();
+    </script>
+    <script type="text/javascript">
+        _qevents.push( { qacct: 'p-19UtqE8ngoZbM' } );
+    </script>
+    <noscript>
+        <div style="display: none;"><img src="//pixel.quantserve.com/pixel/'p-19UtqE8ngoZbM'.gif" height="1" width="1" alt="Quantcast"/></div>
+    </noscript>
+
+
+    <script type="text/javascript">!function(s){s.src='http://www.tumblr.com/impixu?T=1380238557&J=eyJ0eXBlIjoidXJsIiwidXJsIjoiaHR0cDpcL1wvbWNqdWxpYW5tYy50dW1ibHIuY29tXC9wb3N0XC82MjE5MjgwODcyMlwvbWlrZS13aWxsLW1hZGUtaXQtZi1taWxleS1jeXJ1cy1qdWljeS1qLWFuZC13aXoiLCJyZXF0eXBlIjowLCJyb3V0ZSI6IlwvcG9zdFwvOmlkXC86c3VtbWFyeSJ9&U=GPPNOGCKGA&K=31ed12cab1abffc9ef6cbceccd6fca1b9345997268c10fd33d5390c3ee935fb7&R='.replace(/&R=[^&$]*/,'').concat('&R='+escape(document.referrer)).slice(0,2000).replace(/%.?.?$/,'');}(new Image());</script><noscript><img style="position:absolute;z-index:-3334;top:0px;left:0px;visibility:hidden;" src="http://www.tumblr.com/impixu?T=1380238557&J=eyJ0eXBlIjoidXJsIiwidXJsIjoiaHR0cDpcL1wvbWNqdWxpYW5tYy50dW1ibHIuY29tXC9wb3N0XC82MjE5MjgwODcyMlwvbWlrZS13aWxsLW1hZGUtaXQtZi1taWxleS1jeXJ1cy1qdWljeS1qLWFuZC13aXoiLCJyZXF0eXBlIjowLCJyb3V0ZSI6IlwvcG9zdFwvOmlkXC86c3VtbWFyeSIsIm5vc2NyaXB0IjoxfQ==&U=GPPNOGCKGA&K=dc7d260797789d233ca140e03e71d558e238f07f6aa3bf434a8c50e512281d63&R="></noscript><script type="text/javascript">!function(s){s.src='http://www.tumblr.com/impixu?T=1380238557&J=eyJ0eXBlIjoicG9zdCIsInVybCI6Imh0dHA6XC9cL21janVsaWFubWMudHVtYmxyLmNvbVwvcG9zdFwvNjIxOTI4MDg3MjJcL21pa2Utd2lsbC1tYWRlLWl0LWYtbWlsZXktY3lydXMtanVpY3ktai1hbmQtd2l6IiwicmVxdHlwZSI6MCwicm91dGUiOiJcL3Bvc3RcLzppZFwvOnN1bW1hcnkiLCJwb3N0cyI6W3sicG9zdGlkIjoiNjIxOTI4MDg3MjIiLCJibG9naWQiOiIxMzEwODkwMyIsInNvdXJjZSI6MzN9XX0=&U=HNLLGDEAHG&K=dd050370009efe21391190994f9b34fcd2e8a0f228fb95125a7a5ce50ff5a03a&R='.replace(/&R=[^&$]*/,'').concat('&R='+escape(document.referrer)).slice(0,2000).replace(/%.?.?$/,'');}(new Image());</script><noscript><img style="position:absolute;z-index:-3334;top:0px;left:0px;visibility:hidden;" src="http://www.tumblr.com/impixu?T=1380238557&J=eyJ0eXBlIjoicG9zdCIsInVybCI6Imh0dHA6XC9cL21janVsaWFubWMudHVtYmxyLmNvbVwvcG9zdFwvNjIxOTI4MDg3MjJcL21pa2Utd2lsbC1tYWRlLWl0LWYtbWlsZXktY3lydXMtanVpY3ktai1hbmQtd2l6IiwicmVxdHlwZSI6MCwicm91dGUiOiJcL3Bvc3RcLzppZFwvOnN1bW1hcnkiLCJwb3N0cyI6W3sicG9zdGlkIjoiNjIxOTI4MDg3MjIiLCJibG9naWQiOiIxMzEwODkwMyIsInNvdXJjZSI6MzN9XSwibm9zY3JpcHQiOjF9&U=HNLLGDEAHG&K=67fe1c3b9992474d1df00160131d5d967d6fc727cfaa9545b721b0cbb1294ad6&R="></noscript><!-- END TUMBLR CODE -->
+</body>
+</html>

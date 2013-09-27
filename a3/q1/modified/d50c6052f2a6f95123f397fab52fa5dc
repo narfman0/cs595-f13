@@ -1,0 +1,129 @@
+<!doctype html>
+<html lang="ja">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta http-equiv="content-language" content="ja">
+    <title>きほんごレシピ｜桐原書店</title>
+
+    <script type="text/javascript" src="/download/recipe/js/jquery-1.8.3.min.js"></script>
+    <script type="text/javascript" src="/download/recipe/lib/fancybox/jquery.fancybox-1.3.4.pack.js"></script>
+    <link rel="stylesheet" type="text/css" href="/download/recipe/lib/fancybox/jquery.fancybox-1.3.4.css" media="screen" />
+    <script type="text/javascript">
+        $(document).ready(function() {
+            $("#tool").fancybox({
+                'titlePosition'		: 'inside',
+                'transitionIn'		: 'none',
+                'transitionOut'		: 'none'
+            });
+        });
+    </script>
+    <!-- <style>html, body {width: 100%; height: 100%}</style> -->
+    <link href="/download/recipe/css/style.css" rel="stylesheet" type="text/css" media="all" />
+  </head>
+  <body style="margin: 0;">
+
+    <div id="header">
+      <div id="header_topcontainer">
+        <div><img class="logo_top_database" src="/download/recipe/img/logo_top_database.gif" width="500" height="102"></div>
+        <h1><img class="logo_top_kihongo" src="/download/recipe/img/logo_top_kihongo.gif" width="256" height="75"></a></h1>
+        <span style="float:right;margin:-32px 110px 0 0;"><a id="tool" href="#inline1"><img src="/download/recipe/img/btn_tool.gif" width="81" height="25"></a></span>
+      </div>
+    </div>
+
+    <div id="container" class="clearfix">
+      <div id="mainmenu">
+        <div class="clearfix">
+          <dl class="menublock">
+            <dt>A</dt>
+            <dd><a href="/download/recipe/about.html">about</a>
+            <a href="/download/recipe/across.html">across</a>
+            <a href="/download/recipe/along.html">along</a>
+            <a href="/download/recipe/around.html">around</a>
+            <a href="/download/recipe/at.html">at</a></dd>
+          </dl>
+          <dl class="menublock">
+            <dt>B/D</dt>
+            <dd><a href="/download/recipe/by.html">by</a>
+            <a href="/download/recipe/down.html">down</a></dd>
+          </dl>
+          <dl class="menublock">
+            <dt>F/I</dt>
+            <dd><a href="/download/recipe/for.html">for</a>
+            <a href="/download/recipe/from.html">from</a>
+            <a href="/download/recipe/in.html">in</a>
+            <a href="/download/recipe/into.html">into</a></dd>
+          </dl>
+        </div>
+        <div class="clearfix">
+          <dl class="menublock">
+            <dt>O</dt>
+            <dd><a href="/download/recipe/of.html">of</a>
+            <a href="/download/recipe/off.html">off</a>
+            <a href="/download/recipe/on.html">on</a>
+            <a href="/download/recipe/out.html">out</a>
+            <a href="/download/recipe/over.html">over</a></dd>
+          </dl>
+          <dl class="menublock">
+            <dt>T</dt>
+            <dd><a href="/download/recipe/through.html">through</a>
+            <a href="/download/recipe/to.html">to</a></dd>
+          </dl>
+          <dl class="menublock">
+            <dt>U/W</dt>
+            <dd><a href="/download/recipe/up.html">up</a>
+              <a href="/download/recipe/with.html">with</a></dd>
+          </dl>
+        </div>
+      </div>
+    </div>
+   <script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-1908678-8");
+pageTracker._trackPageview();
+} catch(err) {}
+</script>
+
+
+    <div id="footer">
+      <div id="footer_container" class="clearfix">
+        <img class="logo_kirihara" src="/download/recipe/img/logo_kirihara.gif" width="104" height="33">
+        <p class="copy">Copyright &copy; 2013 Kirihara Shoten K.K. All rights reserved.</p>
+      </div>
+    </div>
+
+    <div style="display: none;">
+        <div id="inline1" style="width:800px;height:460px;overflow:auto;">
+            <div id="header_topcontainer">
+            <h1><a id="tool" href="#inline1"><img class="logo_top_kihongo" src="/download/recipe/img/logo_tool_kihongo.gif" width="256" height="75"></a></h1>
+        </div>
+        <div style="margin:15px 20px 0;">
+            <p>データベースシリーズの<img style="margin:2px; vertical-align:text-bottom;" src="/download/recipe/img/icon_movie.gif" width="18" height="17">アイコンのついた例文を使って、アニメーションで句動詞を解説します。</p>
+            <p>句動詞は、「動詞」と「前置詞・副詞」の組み合わせでできています。「きほんごレシピ」では、前置詞・副詞のイメージをつかんでから、句動詞の意味を理解していきます。前置詞・副詞のイメージをしっかりつかんでいれば、知らない動詞と組み合わされた句動詞に出会っても、その意味を類推することが可能になります。</p>
+            <p>「きほんごレシピ」で、自分の表現のレシピをたくさん増やしていきましょう。</p>
+            <br />
+            <p style="font-weight:bold;">【使い方】</p>
+            <p>MENUから「前置詞・副詞」を選択して、それぞれの「基本イメージ」を見ていきましょう。（音声での解説が再生されます。）基本イメージの中には、解説が次の画面に続くものもあります。その場合は、NEXTを選んで進んでください。基本イメージをつかんでから、SUBMENUの「句動詞」を見ていきましょう。</p>
+            <p>句動詞bring aboutの場合，MENUのaboutの項目を選択して、aboutの基本イメージを理解してから、句動詞bring aboutの用例を見ていきます。音声が自動的に再生されない場合は、再生ボタンを押してください。</p>
+            <p>似たような表現どうしには、参照先として<img style="margin:2px; vertical-align:text-bottom;" src="/download/recipe/img/icon_fingerarrow.gif" width="24" height="18">マークがついているので、両方をまとめて覚えてみましょう。</p>
+            <div style="border:1px solid #CCC;background-color:#EEE; padding:10px; margin:10px 0;">
+                アニメーションは、平成23年度～24年度科学研究費補助金・若手研究（B）「句動詞をイメージを使って効果的に習得するための教材開発」（課題番号：23720307，研究代表：中川右也）の一環として作成されたものです。  <div>アニメーション原画：　山田淳子</div>
+            </div>
+            <p>※ダウンロードデータではございません。</p>
+            <br/>
+            <p style="font-weight:bold;">【推奨ブラウザ】</p>
+            <ul>
+                <li>・Microsoft Internet Explorer 9.0　以上</li>
+                <li>・Safari　最新版</li>
+                <li>・Mozilla Firefox　最新版</li>
+                <li>・Google Chrome　最新版</li>
+            </ul>
+        </div>
+    </div>
+
+  </body>
+</html>

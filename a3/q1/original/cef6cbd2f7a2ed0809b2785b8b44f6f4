@@ -1,0 +1,839 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xml:lang="en-US" lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head">
+<!--**********************************************************************************-->
+<!-- DotNetNuke� - http://www.dotnetnuke.com                                          -->
+<!-- Copyright (c) 2002-2010                                                          -->
+<!-- by DotNetNuke Corporation                                                        -->
+<!--**********************************************************************************-->
+<meta content="text/html; charset=UTF-8" http-equiv="Content-Type" /><meta content="text/javascript" http-equiv="Content-Script-Type" /><meta content="text/css" http-equiv="Content-Style-Type" /><meta id="MetaDescription" name="DESCRIPTION" content="ESPN Films’ SEC Storied series will launch its third season this fall with The Book of Manning, premiering Tuesday, Sept. 24, at 8 p.m. ET on ESPN., SEC NEWS" /><meta id="MetaKeywords" name="KEYWORDS" content="SEC NEWS, News, SEC News, Southeastern Conference News, Sports News,DotNetNuke,DNN" /><meta id="MetaCopyright" name="COPYRIGHT" content="&amp;copy; 2013 SEC and XOS Digital.  All rights reserved worldwide." /><meta id="MetaGenerator" name="GENERATOR" content="DotNetNuke " /><meta id="MetaAuthor" name="AUTHOR" content="SEC" /><meta name="RESOURCE-TYPE" content="DOCUMENT" /><meta name="DISTRIBUTION" content="GLOBAL" /><meta id="MetaRobots" name="ROBOTS" content="INDEX, FOLLOW" /><meta name="REVISIT-AFTER" content="1 DAYS" /><meta name="RATING" content="GENERAL" /><meta http-equiv="PAGE-ENTER" content="RevealTrans(Duration=0,Transition=1)" /><style id="StylePlaceholder" type="text/css"></style><link id="ADesktopModules_DigArticle" rel="stylesheet" type="text/css" href="/DesktopModules/DigArticle/module.css" /><link id="APortals__default_" rel="stylesheet" type="text/css" href="/Portals/_default/default.css" /><link id="APortals_3_Containers_SEC_" rel="stylesheet" type="text/css" href="/Portals/3/Containers/SEC/container.css" /><link id="APortals_3_" rel="stylesheet" type="text/css" href="/Portals/3/portal.css" /><link id="css5021" rel="stylesheet" type="text/css" href="/desktopmodules/digarticle/styles/Black/style.css" /><link id="css6226" rel="stylesheet" type="text/css" href="/desktopmodules/digarticle/controls/jquery/jquery.rating.css" /><link id="css5709" rel="stylesheet" type="text/css" href="/desktopmodules/DigArticle/controls/slimbox/slimbox2.css" /><script type="text/javascript" src="/Resources/Shared/Scripts/jquery/jquery.min.js" ></script><div id="fb-root"></div>
+<script src="http://connect.facebook.net/en_US/all.js"></script>
+<script>
+  FB.init({
+    appId  : '164247120261984',
+    status : true, // check login status
+    cookie : true, // enable cookies to allow the server to access the session
+    xfbml  : true  // parse XFBML
+  });
+</script>
+<link href="/Portals/_default/Skins/_default/WebControlSkin/Default/TabStrip.Default.css" rel="stylesheet" type="text/css" /><link rel="SHORTCUT ICON" href="/Portals/3/favicon.ico" />     
+        
+			    <script type="text/javascript">
+			      var _gaq = _gaq || [];
+			      _gaq.push(['_setAccount', 'UA-10466128-1']);
+			      _gaq.push(['_trackPageview']);
+			 
+			      (function() {
+				    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+				    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+				    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			      })();
+			    </script>
+        
+		  <title>
+	ESPN Films The Book Of Manning Debuts Sept. 24 > SEC > NEWS
+</title></head>
+<body id="Body">
+    <form name="Form" method="post" action="/NEWS/tabid/473/Article/246126/espn-films-the-book-of-manning-debuts-sept-24.aspx" id="Form" enctype="multipart/form-data">
+<div>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE2NDIyOTEzMjkPZBYGZg8WAh4EVGV4dAVtPCFET0NUWVBFIGh0bWwgUFVCTElDICItLy9XM0MvL0RURCBYSFRNTCAxLjAgU3RyaWN0Ly9FTiIgImh0dHA6Ly93d3cudzMub3JnL1RSL3hodG1sMS9EVEQveGh0bWwxLXN0cmljdC5kdGQiPmQCAQ9kFg4CBA8WAh4HVmlzaWJsZWhkAgUPFgIeB2NvbnRlbnQFnwFFU1BOIEZpbG1z4oCZIFNFQyBTdG9yaWVkIHNlcmllcyB3aWxsIGxhdW5jaCBpdHMgdGhpcmQgc2Vhc29uIHRoaXMgZmFsbCB3aXRoIFRoZSBCb29rIG9mIE1hbm5pbmcsIHByZW1pZXJpbmcgVHVlc2RheSwgU2VwdC4gMjQsIGF0IDggcC5tLiBFVCBvbiBFU1BOLiwgU0VDIE5FV1NkAgYPFgIfAgVSU0VDIE5FV1MsIE5ld3MsIFNFQyBOZXdzLCBTb3V0aGVhc3Rlcm4gQ29uZmVyZW5jZSBOZXdzLCBTcG9ydHMgTmV3cyxEb3ROZXROdWtlLEROTmQCBw8WAh8CBUAmY29weTsgMjAxMyBTRUMgYW5kIFhPUyBEaWdpdGFsLiAgQWxsIHJpZ2h0cyByZXNlcnZlZCB3b3JsZHdpZGUuZAIIDxYCHwIFC0RvdE5ldE51a2UgZAIJDxYCHwIFA1NFQ2QCDA8WAh8CBQ1JTkRFWCwgRk9MTE9XZAICD2QWAgIBD2QWBmYPZBYCZg8WAh8BaBYEAgEPZBYIAgMPEGRkFgBkAgcPFgIfAWhkAgkPFgIfAWhkAgsPZBYCZg8PFgYeCEltYWdlVXJsBRQvaW1hZ2VzL2NvbGxhcHNlLmdpZh4NQWx0ZXJuYXRlVGV4dAUITWluaW1pemUeB1Rvb2xUaXAFCE1pbmltaXplZGQCAw9kFgQCAQ8UKwACFCsAAmQQFgRmAgECAgIDFgQUKwACZGQUKwACZGQUKwACDxYCHwFoZGQUKwACDxYCHwFoZGQPFgRmZmZmFgEFblRlbGVyaWsuV2ViLlVJLlJhZFRhYiwgVGVsZXJpay5XZWIuVUksIFZlcnNpb249MjAxMS4xLjUxOS4zNSwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj0xMjFmYWU3ODE2NWJhM2Q0ZBYEAgIPDxYCHwFoZGQCAw8PFgIfAWhkZAIDDxQrAAJkFQQIUGFnZUhvbWULUGFnZUN1cnJlbnQIUGFnZVNpdGUOUGFnZUhvc3RTeXN0ZW0WBAICDw8WAh8BaGRkAgMPDxYCHwFoZGQCBQ9kFgJmD2QWEAIBD2QWAmYPDxYCHwAFCFJlZ2lzdGVyZGQCAg9kFgJmDw8WAh8ABQVMb2dpbmRkAgYPZBYCZg8WAh4FY2xhc3MFLURubk1vZHVsZSBEbm5Nb2R1bGUtRGlnQXJ0aWNsZSBEbm5Nb2R1bGUtMjU4NRYCAgEPZBYEZg8PFgIfAWhkZAIBD2QWAgIBDw9kFgIfBgUfRE5OTW9kdWxlQ29udGVudCBNb2REaWdBcnRpY2xlQxYCAgEPZBYCZg9kFgJmD2QWAmYPZBYCZg9kFgYCAw8PFgIfAWhkFgICGw8UKwADZAUGY3c2UkFVZGQCBQ8WAh8BaBYCAh0PFCsAA2QFBmN3NlJBVWRkAgcPFgIfAWhkAgcPFgIfBgUWY250X3NwYWNlIEROTkVtcHR5UGFuZWQCCA8WAh8BZxYGZg8WAh8GBStEbm5Nb2R1bGUgRG5uTW9kdWxlLUROTl9IVE1MIERubk1vZHVsZS00NDM2FgICAQ9kFgRmDw8WAh8BaGRkAgEPZBYCAgEPD2QWAh8GBRxETk5Nb2R1bGVDb250ZW50IE1vZEROTkhUTUxDFgICAQ9kFgICAg8WAh8BaGQCAQ8WAh8GBStEbm5Nb2R1bGUgRG5uTW9kdWxlLUROTl9IVE1MIERubk1vZHVsZS00OTAxFgICAQ9kFgRmDw8WAh8BaGRkAgEPZBYCAgEPD2QWAh8GBRxETk5Nb2R1bGVDb250ZW50IE1vZEROTkhUTUxDFgICAQ9kFgICAg8WAh8BaGQCAg8WAh8GBStEbm5Nb2R1bGUgRG5uTW9kdWxlLUROTl9IVE1MIERubk1vZHVsZS00OTc1FgICAQ9kFgRmDw8WAh8BaGRkAgEPZBYCAgEPD2QWAh8GBRxETk5Nb2R1bGVDb250ZW50IE1vZEROTkhUTUxDFgICAQ9kFgICAg8WAh8BaGQCCQ8WAh8GBRZjbnRfc3BhY2UgRE5ORW1wdHlQYW5lZAIKD2QWAmYPFgIfBgUrRG5uTW9kdWxlIERubk1vZHVsZS1ETk5fSFRNTCBEbm5Nb2R1bGUtNDc4MRYCAgEPZBYEZg8PFgIfAWhkZAIBD2QWAgIBDw9kFgIfBgUcRE5OTW9kdWxlQ29udGVudCBNb2RETk5IVE1MQxYCAgEPZBYCAgIPFgIfAWhkAgsPZBYCZg8WAh8GBStEbm5Nb2R1bGUgRG5uTW9kdWxlLUROTl9IVE1MIERubk1vZHVsZS00NDM3FgICAQ9kFgRmDw8WAh8BaGRkAgEPZBYCAgEPD2QWAh8GBRxETk5Nb2R1bGVDb250ZW50IE1vZEROTkhUTUxDFgICAQ9kFgICAg8WAh8BaGQCCw8UKwACFCsAA2RkZGRkZICZ1wRX5i/FuIcVmmtT5pjiAoI9" />
+</div>
+
+
+<script src="/js/dnncore.js" type="text/javascript"></script><script type="text/javascript" src='http://www.secdigitalnetwork.com/DesktopModules/DigArticle/controls/jquery/jquery-rating.js'></script><script type="text/javascript" src='http://www.secdigitalnetwork.com/DesktopModules/DigArticle/Controls/slimbox/slimbox2.js'></script>
+<script src="/ScriptResource.axd?d=rHmGSQi-1i43ZqGdnD5_pLgviQVCNyyve4q6Sg6O0DfG6pJS8TBKdHSWAmv3K_XhnRZzPHH2Y4MDWlVardncLQlb1zhSh8ucZ6Jve328MRRsO9l_-X0dvrdE06llMeDl3biTF3o4CkwuZa3Qav32wcYdMbo1&amp;t=ffffffffb868b5f4" type="text/javascript"></script>
+<div>
+
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBQKn8un/BQKRobbbBAK1woeYAQL+5PGyAgLR9YnYDh/LQ0ib21u47Rbr5WEaF8MRPA0c" />
+</div>
+
+
+        
+        
+
+
+
+<link rel="stylesheet" href="/Portals/3/Skins/SEC/blueprint/print.css" type="text/css" media="print">
+<!--[if lt IE 8]><link rel="stylesheet" href="/Portals/3/Skins/SEC/blueprint/ie.css" type="text/css" media="screen, projection">
+<![endif]-->
+
+<!--[if lt IE 7]><link rel="stylesheet" href="/Portals/3/Skins/SEC/blueprint/ie7.css" type="text/css" media="screen, projection">
+<![endif]-->
+
+
+<link rel="stylesheet" href="/Portals/3/Skins/SEC/styles.css" type="text/css" title="styles">
+<link rel="stylesheet" href="/Portals/3/Skins/SEC/styles_2.css" type="text/css" title="styles">
+<link rel="stylesheet" href="/Portals/3/Skins/SEC/css/default_bg.css" type="text/css" title="styles">
+<link REL="SHORTCUT ICON" HREF="/portals/3/favicon.ico">
+
+
+
+
+
+<script type="text/javascript" src="/Portals/3/Skins/SEC/scripts/dropmenu.js"></script>
+<script type="text/javascript">
+$(document).ready(function(){
+	$("#nav-one").dropmenu({});
+});
+</script>
+
+
+	<script type="text/javascript" charset="utf-8">
+		$(function () {
+			var tabContainers = $('div.tabs > div');
+			tabContainers.hide().filter(':first').show();
+
+			$('div.tabs ul.tabNavigation a').click(function () {
+				tabContainers.hide();
+				tabContainers.filter(this.hash).show();
+				$('div.tabs ul.tabNavigation a').removeClass('selected');
+				$(this).addClass('selected');
+				return false;a
+			}).filter(':first').click();
+		});
+	</script>
+
+	<script type="text/javascript" charset="utf-8">
+		$(function () {
+			var tabContainers = $('div.tabs2 > div');
+			tabContainers.hide().filter(':first').show();
+
+			$('div.tabs2 ul.tabNavigation2 a').click(function () {
+				tabContainers.hide();
+				tabContainers.filter(this.hash).show();
+				$('div.tabs2 ul.tabNavigation2 a').removeClass('selected');
+				$(this).addClass('selected');
+				return false;a
+			}).filter(':first').click();
+		});
+	</script>
+
+	<script type="text/javascript" charset="utf-8">
+		$(function () {
+			var tabContainers = $('div.tabs3 > div');
+			tabContainers.hide().filter(':first').show();
+
+			$('div.tabs3 ul.tabNavigation3 a').click(function () {
+				tabContainers.hide();
+				tabContainers.filter(this.hash).show();
+				$('div.tabs3 ul.tabNavigation3 a').removeClass('selected');
+				$(this).addClass('selected');
+				return false;a
+			}).filter(':first').click();
+		});
+	</script>
+
+<div id="sec-page-wrapper-dnn">
+<!-- TOP BLUE START -->
+<div class="top_blue">
+
+	<div class="outer_bind">
+
+		<div class="blue_row1">
+			<img src="/Portals/3/Skins/SEC/images/title_official_site.png"><!--/* OpenX JavaScript tag */-->
+
+<!-- /*
+ * The tag in this template has been generated for use on a
+ * non-SSL page. If this tag is to be placed on an SSL page, change the
+ * 'http://ox-d.xosdigital.com/...'
+ * to
+ * 'https://ox-d.xosdigital.com/...'
+ */ -->
+
+<script type="text/javascript">
+if (!window.OX_ads) { OX_ads = []; }
+OX_ads.push({ "auid" : "143718" });
+</script>
+<script type="text/javascript">
+document.write('<scr'+'ipt src="http://ox-d.xosdigital.com/w/1.0/jstag"><\/scr'+'ipt>');
+</script>
+<noscript><iframe id="4f5a7396d1a1f" name="4f5a7396d1a1f" src="http://ox-d.xosdigital.com/w/1.0/afr?auid=143718&cb=INSERT_RANDOM_NUMBER_HERE" frameborder="0" scrolling="no" width="112" height="28"><a href="http://ox-d.xosdigital.com/w/1.0/rc?cs=4f5a7396d1a1f&cb=INSERT_RANDOM_NUMBER_HERE" ><img src="http://ox-d.xosdigital.com/w/1.0/ai?auid=143718&cs=4f5a7396d1a1f&cb=INSERT_RANDOM_NUMBER_HERE" border="0" alt=""></a></iframe></noscript>
+			<li>JOIN THE <span class="gold">SEC</span>NATION&nbsp;&nbsp;&nbsp;<a id="dnn_dnnUSER_cmdRegister" class="SkinObject" href="javascript:__doPostBack('dnn$dnnUSER$cmdRegister','')">Register</a>&nbsp;/&nbsp;<a id="dnn_dnnLOGIN_cmdLogin" class="SkinObject" href="javascript:__doPostBack('dnn$dnnLOGIN$cmdLogin','')">Login</a></li>
+		</div>
+
+	<!-- WIDE SLIDER START -->
+		<div class="wide_slider_bg"><iframe scrolling="no" height="48" frameborder="no" width="990" allowtransparency="true" title="wide" name="wide" src="/SECSPORTS/HOME/WideSlider.aspx" scrollbars="no"></iframe></div>
+	<!-- WIDE SLIDER END -->
+
+	</div>
+
+</div>
+
+<!-- TOP BLUE END -->
+
+<!-- MENU BLOCK START -->
+<div class="menu_block">
+	<div align="center">
+	<div class="outer_bind">
+
+		<div class="sec_logo"><a href="/"><img src="/Portals/3/Skins/SEC/images/sec_logo.png"></a></div>
+
+		<div class="menu_outer">
+			<div class="menu_row1">
+				<img src="/portals/3/skins/sec/images/logo_digital_network.png" alt="Digital Network">
+
+<li class="item"><a href="/SECSPORTS/Home.aspx"><span class="gold">SEC</span>SPORTS</a></li>
+<li class="sep">&nbsp;</li>
+<li class="item"><a href="http://www.secondemand.com/"><span class="gold">SEC</span>VIDEO</a></li>
+<li class="sep">&nbsp;</li>
+<li class="item"><a href="/SECMobile.aspx"><span class="gold">SEC</span>MOBILE</a></li>
+<li class="sep">&nbsp;</li>
+<li class="item"><a target="_blank" href="http://www.secstore.com"><span class="gold">SEC</span>STORE</a></li>
+<li class="sep">&nbsp;</li>
+<!--  <li class="item"><a href="/SECU/TabId/1206/VideoId/24497/UT-Peyton-Manning-On-Pat-Summitt.aspx"><span class="gold">SEC</span>U</a></li> -->
+<li class="item"><a href="/SECU.aspx?showrtr=1"><span class="gold">SEC</span>U</a></li>
+<li class="sep">&nbsp;</li>
+<li class="item"><a href="http://secondemand.com"><span class="gold">SEC</span>OnDemand</a></li>
+<li class="sep">&nbsp;</li>
+<li class="item"><a href="http://www.secdigitalnetwork.com/NEWS/tabid/473/Article/244762/sec-and-espn-announce-new-tv-network.aspx"><span class="gold">SEC</span>Network</a></li>
+<li class="sep">&nbsp;</li>
+			</div>
+			<div class="menu_row2">
+				<li class="secsports"><img src="/portals/3/skins/sec/images/secsports_text.png" alt="SEC SPORTS.com"></li>
+ 
+<li class="sm_logo"><a href="http://vucommodores.com/" target="_blank"><img src="http://www.secdigitalnetwork.com//portals/3/skins/sec/images/box_logo_vandy.jpg" alt="Vanderbilt University"></a></li>
+<!-- New School -->
+<li class="sm_logo"><a href="http://www.aggieathletics.com/" target="_blank"><img src="http://www.secdigitalnetwork.com//portals/3/skins/sec/images/box_logo_texasam.png" alt="Texas A&M"></a></li>
+<li class="sm_logo"><a href="http://www.utsports.com/" target="_blank"><img src="http://www.secdigitalnetwork.com//portals/3/skins/sec/images/box_logo_tenn.jpg" alt="University of Tennessee"></a></li>
+<li class="sm_logo"><a href="http://gamecocksonline.com/" target="_blank"><img src="http://www.secdigitalnetwork.com//portals/3/skins/sec/images/box_logo_sc.jpg" alt="University of South Carolina"></a></li>
+<!-- New School -->
+<li class="sm_logo"><a href="http://www.mutigers.com/" target="_blank"><img src="http://www.secdigitalnetwork.com//portals/3/skins/sec/images/box_logo_missouri.png" alt="University of Missouri"></a></li>
+<li class="sm_logo"><a href="http://www.hailstate.com" target="_blank"><img src="http://www.secdigitalnetwork.com//portals/3/skins/sec/images/box_logo_miss_st.jpg" alt="Mississippi State"></a></li>
+<li class="sm_logo"><a href="http://www.olemisssports.com/" target="_blank"><img src="http://www.secdigitalnetwork.com//portals/3/skins/sec/images/box_logo_ole_miss.jpg" alt="Ole Miss"></a></li>
+<li class="sm_logo"><a href="http://www.lsusports.net/" target="_blank"><img src="http://www.secdigitalnetwork.com//portals/3/skins/sec/images/box_logo_lsu.jpg" alt="Louisiana State University"></a></li>
+<li class="sm_logo"><a href="http://www.ukathletics.com/" target="_blank"><img src="http://www.secdigitalnetwork.com//portals/3/skins/sec/images/box_logo_kentucky.jpg" alt="University of Kentucky"></a></li>
+<li class="sm_logo"><a href="http://www.georgiadogs.com/" target="_blank"><img src="http://www.secdigitalnetwork.com//portals/3/skins/sec/images/box_logo_georgia.jpg" alt="University of Georgia"></a></li>
+<li class="sm_logo"><a href="http://www.gatorzone.com/" target="_blank"><img src="http://www.secdigitalnetwork.com//portals/3/skins/sec/images/box_logo_florida.jpg" alt="University of Florida"></a></li>
+<li class="sm_logo"><a href="http://auburntigers.com/" target="_blank"><img src="http://www.secdigitalnetwork.com//portals/3/skins/sec/images/box_logo_auburn.jpg" alt="Auburn University"></a></li>
+<li class="sm_logo"><a href="http://www.arkansasrazorbacks.com/" target="_blank"><img src="http://www.secdigitalnetwork.com//portals/3/skins/sec/images/box_logo_arkansas.jpg" alt="University of Arkansas"></a></li>
+<li class="sm_logo"><a href="http://www.rolltide.com/" target="_blank"><img src="http://www.secdigitalnetwork.com//portals/3/skins/sec/images/box_logo_alabama.jpg" alt="University of Alabama"></a></li>
+			</div>
+			<div class="menu_row3">
+				<ul id="nav-one" class="dropmenu">
+
+    <li>
+        <a>Sports</a>
+        <div class="double">
+            <ul class="left">
+                <li><a href="/SECSPORTS/SPORTS/BASEBALL.aspx" title="Baseball">Baseball</a></li>
+                <li><a href="/SECSPORTS/SPORTS/BASKETBALLM.aspx" title="Men's Basketball">(M) Basketball</a></li>
+                <li><a href="/SECSPORTS/SPORTS/BASKETBALLW.aspx" title="Women's Basketball">(W) Basketball</a></li>
+                <li><a href="/SECSPORTS/SPORTS/CROSSCOUNTRY.aspx" title="Services">Cross Country</a></li>
+
+                <li><a href="/SECSPORTS/SPORTS/EQUESTRIAN.aspx" title="Services">Equestrian</a></li>
+                <li><a href="/SECSPORTS/SPORTS/FOOTBALL.aspx" title="Football">Football</a></li>
+                <li><a href="/SECSPORTS/SPORTS/GOLF.aspx" title="Golf">Golf</a></li>
+                <li><a href="/SECSPORTS/SPORTS/GYMNASTICS.aspx" title="Gymnastics">Gymnastics</a></li>
+            </ul>
+            <ul class="right">
+                <li><a href="/SECSPORTS/SPORTS/SOCCER.aspx" title="Soccer">Soccer</a></li>
+                <li><a href="/SECSPORTS/SPORTS/SOFTBALL.aspx" title="Softball">Softball</a></li>
+                <li><a href="/SECSPORTS/SPORTS/SWIMMINGANDDIVING.aspx" title="Swimming & Diving">Swimming & Diving</a></li>
+                <li><a href="/SECSPORTS/SPORTS/TENNIS.aspx" title="Tennis">Tennis</a></li>
+                <li><a href="/SECSPORTS/SPORTS/TRACKANDFIELD.aspx" title="Track & Field">Track & Field</a></li>
+                <li><a href="/SECSPORTS/SPORTS/Volleyball.aspx" title="Volleyball">Volleyball</a></li>
+
+                <li>
+                    <img src="http://www.secdigitalnetwork.com/Portals/3/Skins/SEC/images/logo_att2.png" border="0"></li>
+            </ul>
+        </div>
+    </li>
+
+    <li class="divider">&nbsp;</li>
+
+    <li>
+        <a href="/SECSPORTS/SCHEDULESSCORES.aspx" title="Schedules">Schedules / Scores</a>
+    </li>
+
+    <li class="divider">&nbsp;</li>
+
+    <li>
+        <li><a href="/NEWS/tabid/473/Article/228596/the-sec-on-tv.aspx" title="Video">TV / Radio</a></li>
+    </li>
+
+    <li class="divider">&nbsp;</li>
+
+    <li>
+        <a>Championships</a>
+        <div class="double">
+            <ul class="left">
+                <!--<li><a href="/default.aspx?TabName=Baseball Championships" title="Baseball">Baseball</a></li> -->
+
+                <li><a href="/SECSPORTS/BaseballTournament.aspx" title="Baseball">Baseball</a></li>
+
+                <li><a href="/default.aspx?TabName=Men's Basketball Championships" title="Men's Basketball">(M) Basketball</a></li>
+                <li><a href="/default.aspx?TabName=Women's Basketball Championships" title="Women's Basketball">(W) Basketball</a></li>
+                <li><a href="/SECSPORTS/CHAMPIONSHIPS/2013CrossCountryChampionships.aspx" title="Cross Country">Cross Country</a></li>
+                <li><a href="/SECSPORTS/SPORTS/EQUESTRIAN/EquestrianChampionship.aspx" title="Equestrian">Equestrian</a></li>
+                <li><a href="#" title="Football">Football</a></li>
+                <li><a href="/default.aspx?TabName=Men's Golf Championships" title="Men's Golf">(M) Golf</a></li>
+                <li><a href="/default.aspx?TabName=Women's Golf Championships" title="Women's Golf">(W) Golf</a></li>
+                <li><a href="/default.aspx?TabName=Gymnastics Championships" title="Gymnastics">Gymnastics</a></li>
+            </ul>
+            <ul class="right">
+                <li><a href="/SECSPORTS/CHAMPIONSHIPS/2013SoccerChampionships.aspx" title="Soccer">Soccer</a></li>
+                <li><a href="/default.aspx?TabId=721" title="Softball">Softball</a></li>
+                <li><a href="/default.aspx?TabName=Swimming and Diving Championships" title="Swimming & Diving">Swimming & Diving</a></li>
+                <li><a href="/default.aspx?TabName=Men's Tennis Tournament" title="Men's Tennis">(M) Tennis</a></li>
+                <li><a href="/default.aspx?TabName=Women's Tennis Tournament" title="Women's Tennis">(W) Tennis</a></li>
+                <li><a href="/default.aspx?TabName=Indoor Track and Field Championships" title="Indoor Track & Field">Indoor Track & Field</a></li>
+                <li><a href="/default.aspx?TabName=Outdoor Track and Field Championships" title="Outdoor Track & Field">Outdoor Track & Field</a></li>
+                <li>
+                    <img src="http://www.secdigitalnetwork.com/Portals/3/Skins/SEC/images/logo_att2.png" border="0"></li>
+            </ul>
+        </div>
+    </li>
+
+    <li class="divider">&nbsp;</li>
+
+    <li>
+        <li><a href="/default.aspx?TabName=TICKETS" title="Tickets">Tickets</a></li>
+    </li>
+
+    <li class="divider">&nbsp;</li>
+
+    <li>
+        <a>The SEC</a>
+        <div class="double">
+            <ul class="left">
+                <li><a href="/default.aspx?TabName=About the SEC" title="About the SEC">About the SEC</a></li>
+                <li><a href="/SECSPORTS/THESEC/AcademicInitiative.aspx" title="Academic Initiative">Academic Initiative</a></li>
+                <li><a href="/default.aspx?TabName=Commissioner Mike Slive" title="Commissioner Mike Slive">Commissioner Mike Slive</a></li>
+                <li><a href="/default.aspx?TabName=Compliance" title="Compliance">Compliance</a></li>
+                <li><a href="/SECSPORTS/THESEC/IntheCommunity.aspx" title="In the Community">In the Community</a></li>
+            </ul>
+            <ul class="right">
+                <li><a href="/default.aspx?TabName=Member Institutions" title="Member Institutions">Member Institutions</a></li>
+                <li><a href="/default.aspx?TabName=SAAC" title="SAAC">SAAC</a></li>
+                <li><a href="/default.aspx?TabName=SEC Office Staff" title="SEC Office Staff">SEC Office Staff</a></li>
+                <li><a href="/default.aspx?TabName=SEC National Champions" title="SEC National Champions">SEC National Champions</a></li>
+                <li><a href="/NEWS/tabid/473/Article/230149/sec-expansion-information.aspx" title="2013 Expansion">2012 Expansion</a></li>
+                <li><a href="/default.aspx?TabName=SEC Stories of Character" title="SEC Stories of Character">SEC Stories of Character</a></li>
+                <li>
+                    <img src="http://www.secdigitalnetwork.com/Portals/3/Skins/SEC/images/logo_att2.png" border="0"></li>
+
+            </ul>
+        </div>
+    </li>
+
+    <li class="divider">&nbsp;</li>
+
+    <li>
+        <a>Schools</a>
+        <div class="double">
+            <ul class="left">
+                <li class="alabama"><a target="_blank" href="/SCHOOLS/UniversityofAlabama/AlabamaSchoolPage.aspx" title="University of Alabama">University of Alabama</a></li>
+                <li class="arkansas"><a target="_blank" href="/SCHOOLS/UniversityofArkansas/ArkansasSchoolPage.aspx" title="University of Arkansas">University of Arkansas</a></li>
+                <li class="auburn"><a target="_blank" href="/SCHOOLS/AuburnUniversity/AuburnSchoolPage.aspx" title="Auburn University">Auburn University</a></li>
+                <li class="florida"><a target="_blank" href="/SCHOOLS/UniversityofFlorida/FloridaSchoolPage.aspx" title="University of Florida">University of Florida</a></li>
+                <li class="georgia"><a target="_blank" href="/SCHOOLS/UniversityofGeorgia/GeorgiaSchoolPage.aspx" title="University of Georgia">University of Georgia</a></li>
+                <li class="kentucky"><a target="_blank" href="/SCHOOLS/UniversityofKentucky/KentuckySchoolPage.aspx" title="University of Kentucky">University of Kentucky</a></li>
+                <li class="lsu"><a target="_blank" href="/SCHOOLS/LouisianaStateUniversity/LSUSportPage.aspx" title="Louisiana State University">Louisiana State University</a></li>
+            </ul>
+            <ul class="right">
+                <li class="olemiss"><a target="_blank" href="/SCHOOLS/UniversityofMississippi/OleMissSportPage.aspx" title="University of Mississippi">University of Mississippi</a></li>
+                <li class="missouri"><a target="_blank" href="/SCHOOLS/MississippiStateUniversity/MissSportPage.aspx" title="Mississippi State University">Mississippi State University</a></li>
+                <li class="misstate"><a target="_blank" href="/SCHOOLS/Missouri.aspx" title="University of Missouri">University of Missouri</a></li>
+                <li class="southcarolina"><a target="_blank" href="/SCHOOLS/UniversityofSouthCarolina/USCSportPage.aspx" title="University of South Carolina">University of South Carolina</a></li>
+                <li class="tennessee"><a target="_blank" href="/SCHOOLS/UniversityofTennessee/TennesseeSportPage.aspx" title="University of Tennessee">University of Tennessee</a></li>
+                <li class="texasam"><a target="_blank" href="/SCHOOLS/TexasAM.aspx" title="Texas A&M University">Texas A&M University</a></li>
+                <li class="vanderbilt"><a target="_blank" href="/SCHOOLS/VanderbiltUniversity/VanderbiltSchoolPage.aspx" title="Vanderbilt University">Vanderbilt University</a></li>
+            </ul>
+        </div>
+    </li>
+
+    <li class="divider">&nbsp;</li>
+
+    <li>
+        <li><a href="/SECSPORTS/Sponsors.aspx" title="Store">Sponsors</a></li>
+    </li>
+    <li class="divider">&nbsp;</li>
+
+    <li class="searchArea">
+        <input type="text" class="searchBar" id="search" placeholder="search" />
+        <input type="button" id="searchBtn" class="submitButton" />
+
+    </li>
+
+</ul>
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('#search').keypress(function (e) {
+            if (e.keyCode == 13) {
+                e.preventDefault();
+                window.location = '/search.aspx?q=' + $('#search').val();
+            }
+        });
+
+        $('#searchBtn').click(function (e) {
+            e.preventDefault();
+            window.location = '/search.aspx?q=' + $('#search').val();
+        });
+    });
+					</script>
+			</div>
+		</div>
+
+	</div>
+	</div>
+</div>
+<!-- MENU BLOCK END -->
+
+
+<!-- CONTENT START -->
+
+<div align=center>
+<div class="outer_bind">
+
+
+	<div class="clearboth">&nbsp;</div>
+	<!-- WHITE CONTENT START -->
+	<div class="content">
+		<div class="content_default">
+
+
+		<!-- LEFT START -->
+		<div class="content_left">
+
+			<div id="dnn_ContentPane" class="cnt_space"><div class="DnnModule DnnModule-DigArticle DnnModule-2585"><a name="2585"></a>
+
+<link rel="stylesheet" href="/Portals/3/Containers/SEC/container.css" type="text/css" title="styles">
+
+
+
+<div id="dnn_ctr2585_ContentPane"><!-- Start_Module_2585 --><div id="dnn_ctr2585_ModuleContent" class="DNNModuleContent ModDigArticleC">
+	<div id="dnn_ctr2585_Article_desktopmodules_digarticle_article_ascx_UpdatePanel1">
+		
+        <div class="artic">
+<h1><a href='http://www.secdigitalnetwork.com/NEWS/tabid/473/Article/246126/espn-films-the-book-of-manning-debuts-sept-24.aspx'>ESPN Films The Book Of Manning Debuts Sept. 24</a></h1>
+
+
+<div class="social-container">
+
+<div style="float: left; margin: 2px 0 0 6px; font-weight:bold;"><h2>Updated 9/24/2013</h2></div>
+	<div class="social-block">
+<span class='st_sharethis_hcount' displayText='ShareThis'></span>
+<script type="text/javascript">var switchTo5x=true;</script>
+<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+<script type="text/javascript">stLight.options({publisher: "dcf26017-b581-4c83-82ca-7dc2211af63b"}); </script>
+<span class='st_pinterest_hcount' displayText='Pinterest'></span>
+<span  class='st_gbuzz_hcount' displayText='Google Buzz'></span><span  class='st_twitter_hcount' displayText='Tweet'></span><span  class='st_facebook_hcount' displayText='Facebook'></span>
+<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher:'1555f1c9-d48c-4d04-9d1e-2e87c553dda6'});</script>	
+	</div>
+
+</div>
+
+<div class="content-container">
+
+
+<div style="display: block">
+<div style="float: right; margin: 0 0 15px 15px"><img src='http://www.secdigitalnetwork.com/DesktopModules/DigArticle/MediaHandler.ashx?portalid=3&amp;moduleid=2585&amp;mediaid=47141&amp;width=300&amp;height=169' /></div>
+<div>ESPN Films&rsquo; SEC Storied series will launch its third season this fall with The Book of Manning, premiering Tuesday, Sept. 24, at 8 p.m. ET on ESPN. &nbsp;The film will explore the personal and professional life of former NFL and Ole Miss quarterback Archie Manning and how the sudden loss of his father impacted his life and the way he and his wife Olivia raised their three sons. &nbsp;&nbsp;</div>
+<div>&nbsp;</div>
+<div><strong>About The Book of Manning:</strong></div>
+<div>&nbsp;</div>
+<div>A father-and-son story written into the pages of football folklore, it can be argued that no family has had more influence on a sport than the Mannings. Archie &ndash; the patriarch - a star quarterback at the University of Mississippi and then with the New Orleans Saints, followed by oldest son Cooper, whose football dreams were cut short by a spinal condition, then sons Peyton and Eli &ndash; both of them quarterbacks, All-SEC, number one draft picks, back-to-back Super Bowl champions and MVPs.</div>
+<p><iframe allowfullscreen="" frameborder="0" height="315" src="//www.youtube.com/embed/FrHlSmo15co" width="560"></iframe></p>
+<div>&nbsp;</div>
+<div>Narrated by actor John Goodman, The Book of Manning features revealing interviews with Archie, Olivia, Cooper, Peyton and Eli Manning along with other family members, friends, former teammates and coaches as well as never-before-seen photos and home movie footage of Archie and his sons. &nbsp;Through it all, director Rory Karpf explores how a tragedy shaped the course of not only Archie&rsquo;s life, but his family&rsquo;s as well.</div>
+<div>&nbsp;</div>
+<div>&ldquo;This film offers the kind of personal and poignant look at Archie Manning and his family that hasn&rsquo;t been seen before,&rdquo; said ESPN Films executive producer John Dahl. &ldquo;Through intimate details and insights to previously unseen material, viewers will gain a powerful understanding of how this has arguably become one of the most influential families ever in any sport.&rdquo;</div>
+<div>&nbsp;</div>
+<div>&quot;I feel honored and a privileged that Archie Manning has entrusted me to tell his story,&rdquo; said The Book of Manning director Rory Karpf. &ldquo;We expected to make a film about football&#39;s most famous family, but instead made a film simply about family. Making The Book of Manning has been one of the most educational and enriching experiences in my career.&quot;</div>
+<div>&nbsp;</div>
+<div><strong>Quotes from The Book of Manning:</strong></div>
+<div>&nbsp;</div>
+<div><strong>Robert Khayat (former Ole Miss Chancellor) on Archie as a star QB at Ole Miss:</strong></div>
+<div>&ldquo;Archie&hellip;he put on a show. He just did. He ran everywhere, he threw everywhere. When a fella starts out to the right and gets boxed and turns back to the left and then throws it back to the right, that gets your attention.&rdquo;</div>
+<div>&nbsp;</div>
+<div><strong>Archie Manning on his remarkable junior season at Ole Miss following the sudden loss of his father that August:</strong></div>
+<div>&ldquo;You know I thought about him a lot. How much he would have enjoyed that. We had some huge wins, some exciting games, and probably the best year I ever had in football &ndash; the fall of 1969. You know I wish he could have seen that&hellip;missing my dad, that was pretty tough.&rdquo;</div>
+<div>&nbsp;</div>
+<div><strong>Archie Manning on the football success of sons Peyton and Eli:</strong></div>
+<div>&ldquo;I mean for them to be number one picks in the draft? Win Super Bowls, MVP? Yeah we pinch ourselves. &nbsp;We [Olivia and Archie] just tried to raise kids. We tried to raise good kids and have a good family. &nbsp;I don&rsquo;t like the perception that it was a plan. You know that I was an NFL quarterback for a while and then I&rsquo;ve got these boys and I&rsquo;m going to mold them into being NFL quarterbacks. Not so. You might can do that and they might can be an NFL quarterback I&rsquo;m not sure you&rsquo;re going to have a great father-son relationship. That&rsquo;s what I wanted.&rdquo;</div>
+<div>&nbsp;</div>
+<div><strong>Eli Manning on growing up a Manning:</strong></div>
+<div>&ldquo;We [Eli, Peyton and Cooper] loved sports; that&rsquo;s what we loved to do. We loved being outside, we loved running around. So whatever sport was in season, I wanted to play it. All my flag football games growing up, he [Archie] always had a video camera. You know, whatever we chose, he wanted us to go all-out.&rdquo;</div>
+<div>&nbsp;</div>
+<div><strong>Peyton Manning on not following his father and older brother Cooper to Ole Miss:</strong></div>
+<div>(If Cooper didn&rsquo;t have to quit football due to a spinal condition) &ldquo;I probably would have gone to Ole Miss, just to have the opportunity to play with him again, especially at my parents&rsquo; alma mater&hellip;Had my dad told me to go to Ole Miss, I would have gone to Ole Miss. I&rsquo;m thankful that my dad let me make my own decision.&rdquo;</div>
+<div>&nbsp;</div>
+<div>ESPN Films launched the Storied documentary series in September 2011, presenting fans the opportunity to explore the rich athletic history of the Southeastern Conference. From extraordinary athletes and coaches to defining games and moments, the Storied series features films that focus on the SEC&rsquo;s recent and more distant past.</div>
+<div>&nbsp;</div>
+<div><strong>About ESPN Films</strong></div>
+<div>Created in March 2008, ESPN Films produces high-quality films showcasing compelling sports stories. In October 2009, ESPN Films launched the Peabody Award-winning and Emmy-nominated 30 for 30 film series. &nbsp;Inspired by ESPN&rsquo;s 30th Anniversary, the films that made up the series were a thoughtful and innovative reflection on the past three decades told through the lens of diverse and interesting sports fans and social commentators. Additional projects from ESPN Films include, among others, the critically acclaimed and Television Academy Honor-winning 16th Man, Cannes Film Festival official selection The Two Escobars, and the Peabody Award-winning Black Magic. More recent projects include Catching Hell, from Academy Award-winning filmmaker Alex Gibney, andThe Announcement, from filmmaker Nelson George. 30 for 30 Volume II has featured documentaries Broke, directed by Billy Corben, and 9.79*, directed by Daniel Gordon. &nbsp;For more information on 30 for 30, go to espn.com/30for30/.</div>
+<div>&nbsp;</div>
+<div><strong>SEC on ESPN&nbsp;</strong></div>
+<div>ESPN, Inc., and the Southeastern Conference entered into a landmark 15-year agreement for extensive football, men&rsquo;s and women&rsquo;s basketball, Olympic sports and conference championship content across multiple ESPN entities beginning with the 2009-10 academic year. As a result, ESPN Regional Television became the over-the-air syndication home for Southeastern Conference programming and the largest college sports syndication television package in the country. In 2012, SEC Network basketball games were distributed in 77 local television markets, representing 50.4 million homes, which is 44% of the U.S.; 2011 SEC Network football games were distributed in 99 local television markets, representing 79.1 million homes, which is 69% of the U.S.</div>
+<div>&nbsp;</div>
+
+<br /><br />
+<!--
+
+
+<a href="http://www.secdigitalnetwork.com/DesktopModules/DigArticle/MediaHandler.ashx?portalid=3&amp;moduleid=2585&amp;mediaid=47141&amp;width=600&amp;height=600" rel="lightbox-246126" title='archiemanning.jpg'><img src="http://www.secdigitalnetwork.com/DesktopModules/DigArticle/MediaHandler.ashx?portalid=3&amp;moduleid=2585&amp;mediaid=47141&amp;width=100&amp;height=100&amp;scale=5" alt='archiemanning.jpg'/></a>
+
+ <br />
+<br><br>
+-->
+
+</div>
+
+<div >
+
+<p class="border-footer">Got a question for the sec? Send it to <a href="mailto:secfeedback@xosdigital.com">
+secfeedback@xosdigital.com</a>.
+</div>
+
+</div>
+
+</div>
+        
+        
+        
+    
+	</div>
+
+
+
+</div><!-- End_Module_2585 --></div>
+
+</div></div>
+			
+
+
+
+		</div>
+		<!-- LEFT END -->
+
+		<!-- RIGHT START -->
+		<div class="content_right">
+
+			<div id="dnn_Side_1" class="cnt_space"><div class="DnnModule DnnModule-DNN_HTML DnnModule-4436"><a name="4436"></a>
+
+<link rel="stylesheet" href="/Portals/3/Containers/SEC/container.css" type="text/css" title="styles">
+
+
+
+
+
+<div class="side_container_top2">&nbsp;</div>
+<div class="side_container_content">
+	<div id="dnn_ctr4436_ContentPane"><!-- Start_Module_4436 --><div id="dnn_ctr4436_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+	<div id="dnn_ctr4436_HtmlModule_lblContent" class="Normal">
+		<!--/* OpenX JavaScript tag */-->
+
+<!-- /*
+ * The tag in this template has been generated for use on a
+ * non-SSL page. If this tag is to be placed on an SSL page, change the
+ * 'http://ox-d.xosdigital.com/...'
+ * to
+ * 'https://ox-d.xosdigital.com/...'
+ */ -->
+
+<script type="text/javascript">
+if (!window.OX_ads) { OX_ads = []; }
+OX_ads.push({ "auid" : "141939" });
+</script>
+<script type="text/javascript">
+document.write('<scr'+'ipt src="http://ox-d.xosdigital.com/w/1.0/jstag"><\/scr'+'ipt>');
+</script>
+<noscript><iframe id="4f5a18d09d9ca" name="4f5a18d09d9ca" src="http://ox-d.xosdigital.com/w/1.0/afr?auid=141939&cb=INSERT_RANDOM_NUMBER_HERE" frameborder="0" scrolling="no" width="300" height="250"><a href="http://ox-d.xosdigital.com/w/1.0/rc?cs=4f5a18d09d9ca&cb=INSERT_RANDOM_NUMBER_HERE" ><img src="http://ox-d.xosdigital.com/w/1.0/ai?auid=141939&cs=4f5a18d09d9ca&cb=INSERT_RANDOM_NUMBER_HERE" border="0" alt=""></a></iframe></noscript>
+	</div>
+
+
+
+
+
+
+</div><!-- End_Module_4436 --></div>
+</div>		
+
+<div class="clearboth">&nbsp;</div></div><div class="DnnModule DnnModule-DNN_HTML DnnModule-4901"><a name="4901"></a>
+
+<link rel="stylesheet" href="/Portals/3/Containers/SEC/container.css" type="text/css" title="styles">
+
+
+
+
+
+<div class="side_container_top2">&nbsp;</div>
+<div class="side_container_content">
+	<div id="dnn_ctr4901_ContentPane"><!-- Start_Module_4901 --><div id="dnn_ctr4901_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+	<div id="dnn_ctr4901_HtmlModule_lblContent" class="Normal">
+		<!--/* OpenX JavaScript tag */-->
+
+<!-- /*
+ * The tag in this template has been generated for use on a
+ * non-SSL page. If this tag is to be placed on an SSL page, change the
+ * 'http://ox-d.xosdigital.com/...'
+ * to
+ * 'https://ox-d.xosdigital.com/...'
+ */ -->
+
+<script type="text/javascript">
+if (!window.OX_ads) { OX_ads = []; }
+OX_ads.push({ "auid" : "141938" });
+</script>
+<script type="text/javascript">
+document.write('<scr'+'ipt src="http://ox-d.xosdigital.com/w/1.0/jstag"><\/scr'+'ipt>');
+</script>
+<noscript><iframe id="4f5a1774afbdb" name="4f5a1774afbdb" src="http://ox-d.xosdigital.com/w/1.0/afr?auid=141938&cb=INSERT_RANDOM_NUMBER_HERE" frameborder="0" scrolling="no" width="300" height="100"><a href="http://ox-d.xosdigital.com/w/1.0/rc?cs=4f5a1774afbdb&cb=INSERT_RANDOM_NUMBER_HERE" ><img src="http://ox-d.xosdigital.com/w/1.0/ai?auid=141938&cs=4f5a1774afbdb&cb=INSERT_RANDOM_NUMBER_HERE" border="0" alt=""></a></iframe></noscript>
+	</div>
+
+
+
+
+
+
+</div><!-- End_Module_4901 --></div>
+</div>		
+
+<div class="clearboth">&nbsp;</div></div><div class="DnnModule DnnModule-DNN_HTML DnnModule-4975"><a name="4975"></a>
+
+<link rel="stylesheet" href="/Portals/3/Containers/SEC/container.css" type="text/css" title="styles">
+
+
+
+
+
+<div class="side_container_top2">&nbsp;</div>
+<div class="side_container_content">
+	<div id="dnn_ctr4975_ContentPane"><!-- Start_Module_4975 --><div id="dnn_ctr4975_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+	<div id="dnn_ctr4975_HtmlModule_lblContent" class="Normal">
+		<!--/* OpenX JavaScript tag */-->
+
+<!-- /*
+ * The tag in this template has been generated for use on a
+ * non-SSL page. If this tag is to be placed on an SSL page, change the
+ * 'http://ox-d.xosdigital.com/...'
+ * to
+ * 'https://ox-d.xosdigital.com/...'
+ */ -->
+
+<script type="text/javascript">
+if (!window.OX_ads) { OX_ads = []; }
+OX_ads.push({ "auid" : "141939" });
+</script>
+<script type="text/javascript">
+document.write('<scr'+'ipt src="http://ox-d.xosdigital.com/w/1.0/jstag"><\/scr'+'ipt>');
+</script>
+<noscript><iframe id="4f5a18d09d9ca" name="4f5a18d09d9ca" src="http://ox-d.xosdigital.com/w/1.0/afr?auid=141939&cb=INSERT_RANDOM_NUMBER_HERE" frameborder="0" scrolling="no" width="300" height="250"><a href="http://ox-d.xosdigital.com/w/1.0/rc?cs=4f5a18d09d9ca&cb=INSERT_RANDOM_NUMBER_HERE" ><img src="http://ox-d.xosdigital.com/w/1.0/ai?auid=141939&cs=4f5a18d09d9ca&cb=INSERT_RANDOM_NUMBER_HERE" border="0" alt=""></a></iframe></noscript>
+	</div>
+
+
+
+
+
+
+</div><!-- End_Module_4975 --></div>
+</div>		
+
+<div class="clearboth">&nbsp;</div></div></div>
+			
+
+
+		</div>
+		<!-- RIGHT END -->
+		<div class="clearboth"></div>
+
+		<!-- BOTTOM ADS START -->
+		<div class="bottom_banners_outer">
+			<div id="dnn_Bottom_1" class="bottom_left"><div class="DnnModule DnnModule-DNN_HTML DnnModule-4781"><a name="4781"></a>
+
+<link rel="stylesheet" href="/Portals/3/Containers/SEC/container.css" type="text/css" title="styles">
+
+
+
+<div id="dnn_ctr4781_ContentPane"><!-- Start_Module_4781 --><div id="dnn_ctr4781_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+	<div id="dnn_ctr4781_HtmlModule_lblContent" class="Normal">
+		<!--/* OpenX JavaScript tag */-->
+
+<!-- /*
+ * The tag in this template has been generated for use on a
+ * non-SSL page. If this tag is to be placed on an SSL page, change the
+ * 'http://ox-d.xosdigital.com/...'
+ * to
+ * 'https://ox-d.xosdigital.com/...'
+ */ -->
+
+<script type="text/javascript">
+if (!window.OX_ads) { OX_ads = []; }
+OX_ads.push({ "auid" : "141937" });
+</script>
+<script type="text/javascript">
+document.write('<scr'+'ipt src="http://ox-d.xosdigital.com/w/1.0/jstag"><\/scr'+'ipt>');
+</script>
+<noscript><iframe id="4f5a1764ee748" name="4f5a1764ee748" src="http://ox-d.xosdigital.com/w/1.0/afr?auid=141937&cb=INSERT_RANDOM_NUMBER_HERE" frameborder="0" scrolling="no" width="239" height="90"><a href="http://ox-d.xosdigital.com/w/1.0/rc?cs=4f5a1764ee748&cb=INSERT_RANDOM_NUMBER_HERE" ><img src="http://ox-d.xosdigital.com/w/1.0/ai?auid=141937&cs=4f5a1764ee748&cb=INSERT_RANDOM_NUMBER_HERE" border="0" alt=""></a></iframe></noscript>
+	</div>
+
+
+
+
+
+
+</div><!-- End_Module_4781 --></div>
+
+</div></div>
+
+			<div id="dnn_Bottom_2" class="bottom_right"><div class="DnnModule DnnModule-DNN_HTML DnnModule-4437"><a name="4437"></a>
+
+<link rel="stylesheet" href="/Portals/3/Containers/SEC/container.css" type="text/css" title="styles">
+
+
+
+<div id="dnn_ctr4437_ContentPane"><!-- Start_Module_4437 --><div id="dnn_ctr4437_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+	<div id="dnn_ctr4437_HtmlModule_lblContent" class="Normal">
+		<!--/* OpenX JavaScript tag */-->
+
+<!-- /*
+ * The tag in this template has been generated for use on a
+ * non-SSL page. If this tag is to be placed on an SSL page, change the
+ * 'http://ox-d.xosdigital.com/...'
+ * to
+ * 'https://ox-d.xosdigital.com/...'
+ */ -->
+
+<script type="text/javascript">
+if (!window.OX_ads) { OX_ads = []; }
+OX_ads.push({ "auid" : "141940" });
+</script>
+<script type="text/javascript">
+document.write('<scr'+'ipt src="http://ox-d.xosdigital.com/w/1.0/jstag"><\/scr'+'ipt>');
+</script>
+<noscript><iframe id="4f5a17b2ce230" name="4f5a17b2ce230" src="http://ox-d.xosdigital.com/w/1.0/afr?auid=141940&cb=INSERT_RANDOM_NUMBER_HERE" frameborder="0" scrolling="no" width="300" height="100"><a href="http://ox-d.xosdigital.com/w/1.0/rc?cs=4f5a17b2ce230&cb=INSERT_RANDOM_NUMBER_HERE" ><img src="http://ox-d.xosdigital.com/w/1.0/ai?auid=141940&cs=4f5a17b2ce230&cb=INSERT_RANDOM_NUMBER_HERE" border="0" alt=""></a></iframe></noscript>
+	</div>
+
+
+
+
+
+
+</div><!-- End_Module_4437 --></div>
+
+</div></div>
+			<div class="clearboth"></div>
+		</div>
+		<!-- BOTTOM ADS END -->
+
+
+		</div>
+	</div>
+	<!-- WHITE CONTENT END -->
+	<div class="clearboth"></div>
+
+</div>
+</div>
+
+<!-- CONTENT END -->
+
+<!-- FOOTER START -->
+
+<div align=center>
+
+	<div class="outer_bind">
+
+		<div class="footer">
+			<div class="copyright">
+				<img src="/Portals/3/Skins/SEC/images/powered.png"><br /><br />
+				<span id="dnn_dnnCOPYRIGHT_lblCopyright" class="copyright_text">&copy; 2013 SEC and XOS Digital.  All rights reserved worldwide.</span>
+
+			</div>
+			<div class="social">
+
+				<a href="http://twitter.com/SEC" target="_blank"><img src="/Portals/3/Skins/SEC/images/logo_twitter.png" class="btm_logo"></a>
+				<a href="http://www.facebook.com/s.php?init=q&q=southeastern%20conference&ref=ts#/pages/Southeastern-Conference/64758072831?ref=s" target="_blank"><img src="/Portals/3/Skins/SEC/images/logo_facebook.png" class="btm_logo"></a>
+				<img src="/Portals/3/Skins/SEC/images/logo_sec_mobile.png" class="btm_logo">
+				<div class="clearboth"></div>
+			<br />
+				<a href="http://www.xosdigital.com/Corporate/Overview.aspx">About Us</a>
+				&nbsp;&nbsp;<a href="mailto:secfeedback@xosdigital.com">Feedback</a>
+                &nbsp;&nbsp;<a href="/NEWS/RSSFeeds.aspx">RSS</a><!--<a href="#">Site Map</a>-->
+                &nbsp;&nbsp;<a href="http://www.secdigitalnetwork.com/Disclaimer.aspx">Legal Disclaimer</a>
+
+			</div>
+
+			<img src="/Portals/3/Skins/SEC/images/att.png" class="att2">
+			<div class="clearboth"></div>
+
+		</div>
+
+	</div>
+
+</div>
+
+<!-- FOOTER END -->
+</div>
+<script>
+	(function($) {
+		$(document).ready(function() {
+			if ($('title:contains("SmartTV")').length == 1) {
+				$('.menu_row2 .secsports img').attr('src','/portals/3/skins/sec/images/secsmarttv.png');
+			}
+		});
+	})(jQuery);
+</script>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-18604110-1']);
+  _gaq.push(['_setDomainName', '.secdigitalnetwork.com']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+
+<!-- Start of Async HubSpot Analytics Code -->
+    <script type="text/javascript">
+        (function(d,s,i) {
+            if (d.getElementById(i)){return;}
+            var n = d.createElement(s),e = document.getElementsByTagName(s)[0];
+            n.id=i;n.src = '//js.hubspot.com/analytics/153568.js';
+            e.parentNode.insertBefore(n, e);
+        })(document, "script", "hs-analytics");
+    </script>
+<!-- End of Async HubSpot Analytics Code -->
+
+<!-- Quantcast Tag -->
+<script type="text/javascript">
+	var _qevents = _qevents || [];
+
+	(function() {
+		var elem = document.createElement('script');
+		elem.src = (document.location.protocol == "https:" ? "https://secure"  : "http://edge" ) + ".quantserve.com/quant.js";
+		elem.async = true;
+		elem.type = "text/javascript";
+		var scpt = document.getElementsByTagName('script')[0];
+		scpt.parentNode.insertBefore(elem, scpt);
+	})();
+
+	_qevents.push({
+		qacct:"p-rAhV1sCZ7N1D-"
+	});
+</script>
+
+<noscript>
+	<div style="display:none;">
+		<img src="//pixel.quantserve.com/pixel/p-rAhV1sCZ7N1D-.gif" border="0" height="1" width="1" alt="Quantcast"/>
+	</div>
+</noscript>
+<!-- End Quantcast tag -->
+        <input name="ScrollTop" type="hidden" id="ScrollTop" />
+        <input name="__dnnVariable" type="hidden" id="__dnnVariable" />
+        
+    
+<script type="text/javascript" src="/Resources/Shared/scripts/initWidgets.js" ></script>
+<script type="text/javascript">
+//<![CDATA[
+try{ stButtons.locateElements(); }catch(e){}Sys.Application.initialize();
+//]]>
+</script>
+</form>
+</body>
+</html>

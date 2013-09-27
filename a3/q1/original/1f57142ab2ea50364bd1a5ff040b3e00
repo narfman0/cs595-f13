@@ -1,0 +1,1996 @@
+<!DOCTYPE html>
+<html b:version='2' class='v2' dir='ltr'>
+<head>
+<meta content='width=1100' name='viewport'/>
+<meta content='text/html; charset=UTF-8' http-equiv='Content-Type'/>
+<script type="text/javascript">(function() { var b=window,e="jstiming",g="tick";(function(){function d(a){this.t={};this.tick=function(a,d,c){c=void 0!=c?c:(new Date).getTime();this.t[a]=[c,d]};this[g]("start",null,a)}var a=new d;b.jstiming={Timer:d,load:a};if(b.performance&&b.performance.timing){var a=b.performance.timing,c=b[e].load,f=a.navigationStart,a=a.responseStart;0<f&&a>=f&&(c[g]("_wtsrt",void 0,f),c[g]("wtsrt_","_wtsrt",a),c[g]("tbsd_","wtsrt_"))}try{a=null,b.chrome&&b.chrome.csi&&(a=Math.floor(b.chrome.csi().pageT),c&&0<f&&(c[g]("_tbnd",void 0,b.chrome.csi().startE),
+c[g]("tbnd_","_tbnd",f))),null==a&&b.gtbExternal&&(a=b.gtbExternal.pageT()),null==a&&b.external&&(a=b.external.pageT,c&&0<f&&(c[g]("_tbnd",void 0,b.external.startE),c[g]("tbnd_","_tbnd",f))),a&&(b[e].pt=a)}catch(l){}})();b.tickAboveFold=function(d){var a=0;if(d.offsetParent){do a+=d.offsetTop;while(d=d.offsetParent)}d=a;750>=d&&b[e].load[g]("aft")};var h=!1;function k(){h||(h=!0,b[e].load[g]("firstScrollTime"))}b.addEventListener?b.addEventListener("scroll",k,!1):b.attachEvent("onscroll",k);
+ })();</script>
+<meta content='blogger' name='generator'/>
+<link href='http://rabbistrom.blogspot.com/favicon.ico' rel='icon' type='image/x-icon'/>
+<link href='http://rabbistrom.blogspot.com/2013/09/who-are-you-wearing-yom-kippur-5774.html' rel='canonical'/>
+<link rel="alternate" type="application/atom+xml" title="A Rabbi&#39;s Thoughts - Atom" href="http://rabbistrom.blogspot.com/feeds/posts/default" />
+<link rel="alternate" type="application/rss+xml" title="A Rabbi&#39;s Thoughts - RSS" href="http://rabbistrom.blogspot.com/feeds/posts/default?alt=rss" />
+<link rel="service.post" type="application/atom+xml" title="A Rabbi&#39;s Thoughts - Atom" href="http://www.blogger.com/feeds/3800455752708311473/posts/default" />
+
+<link rel="alternate" type="application/atom+xml" title="A Rabbi&#39;s Thoughts - Atom" href="http://rabbistrom.blogspot.com/feeds/232644407719818865/comments/default" />
+<!--[if IE]><script type="text/javascript" src="//www.blogger.com/static/v1/jsbin/4163410827-ieretrofit.js"></script>
+<![endif]-->
+<!--[if IE]> <script> (function() { var html5 = ("abbr,article,aside,audio,canvas,datalist,details," + "figure,footer,header,hgroup,mark,menu,meter,nav,output," + "progress,section,time,video").split(','); for (var i = 0; i < html5.length; i++) { document.createElement(html5[i]); } try { document.execCommand('BackgroundImageCache', false, true); } catch(e) {} })(); </script> <![endif]-->
+<title>A Rabbi's Thoughts: Who Are You Wearing? - Yom Kippur 5774</title>
+<link type='text/css' rel='stylesheet' href='//www.blogger.com/static/v1/widgets/1128408835-widget_css_2_bundle.css' />
+<link type='text/css' rel='stylesheet' href='//www.blogger.com/dyn-css/authorization.css?targetBlogID=3800455752708311473&amp;zx=0e24d3aa-338b-4935-8f66-a3df8fbc64c9&quot;/&gt;
+' />
+<style id='page-skin-1' type='text/css'><!--
+/*
+-----------------------------------------------
+Blogger Template Style
+Name:     Watermark
+Designer: Josh Peterson
+URL:      www.noaesthetic.com
+----------------------------------------------- */
+/* Variable definitions
+====================
+<Variable name="keycolor" description="Main Color" type="color" default="#c0a154"/>
+<Group description="Page Text" selector="body">
+<Variable name="body.font" description="Font" type="font"
+default="normal normal 14px Arial, Tahoma, Helvetica, FreeSans, sans-serif"/>
+<Variable name="body.text.color" description="Text Color" type="color" default="#333333"/>
+</Group>
+<Group description="Backgrounds" selector=".main-inner">
+<Variable name="body.background.color" description="Outer Background" type="color" default="#c0a154"/>
+<Variable name="footer.background.color" description="Footer Background" type="color" default="transparent"/>
+</Group>
+<Group description="Links" selector=".main-inner">
+<Variable name="link.color" description="Link Color" type="color" default="#cc3300"/>
+<Variable name="link.visited.color" description="Visited Color" type="color" default="#993322"/>
+<Variable name="link.hover.color" description="Hover Color" type="color" default="#ff3300"/>
+</Group>
+<Group description="Blog Title" selector=".header h1">
+<Variable name="header.font" description="Title Font" type="font"
+default="normal normal 60px Georgia, Utopia, 'Palatino Linotype', Palatino, serif"/>
+<Variable name="header.text.color" description="Title Color" type="color" default="#ffffff" />
+</Group>
+<Group description="Blog Description" selector=".header .description">
+<Variable name="description.text.color" description="Description Color" type="color"
+default="#997755" />
+</Group>
+<Group description="Tabs Text" selector=".tabs-inner .widget li a">
+<Variable name="tabs.font" description="Font" type="font"
+default="normal normal 20px Georgia, Utopia, 'Palatino Linotype', Palatino, serif"/>
+<Variable name="tabs.text.color" description="Text Color" type="color" default="#cc3300"/>
+<Variable name="tabs.selected.text.color" description="Selected Color" type="color" default="#000000"/>
+</Group>
+<Group description="Tabs Background" selector=".tabs-outer .PageList">
+<Variable name="tabs.background.color" description="Background Color" type="color" default="transparent"/>
+<Variable name="tabs.separator.color" description="Separator Color" type="color" default="#c0a154"/>
+</Group>
+<Group description="Date Header" selector="h2.date-header">
+<Variable name="date.font" description="Font" type="font"
+default="normal normal 16px Arial, Tahoma, Helvetica, FreeSans, sans-serif"/>
+<Variable name="date.text.color" description="Text Color" type="color" default="#997755"/>
+</Group>
+<Group description="Post" selector="h3.post-title, .comments h4">
+<Variable name="post.title.font" description="Title Font" type="font"
+default="normal normal 30px Georgia, Utopia, 'Palatino Linotype', Palatino, serif"/>
+<Variable name="post.background.color" description="Background Color" type="color" default="transparent"/>
+<Variable name="post.border.color" description="Border Color" type="color" default="#ccbb99" />
+</Group>
+<Group description="Post Footer" selector=".post-footer">
+<Variable name="post.footer.text.color" description="Text Color" type="color" default="#997755"/>
+</Group>
+<Group description="Gadgets" selector="h2">
+<Variable name="widget.title.font" description="Title Font" type="font"
+default="normal normal 20px Georgia, Utopia, 'Palatino Linotype', Palatino, serif"/>
+<Variable name="widget.title.text.color" description="Title Color" type="color" default="#000000"/>
+<Variable name="widget.alternate.text.color" description="Alternate Color" type="color" default="#777777"/>
+</Group>
+<Group description="Footer" selector=".footer-inner">
+<Variable name="footer.text.color" description="Text Color" type="color" default="#333333"/>
+<Variable name="footer.widget.title.text.color" description="Gadget Title Color" type="color" default="#000000"/>
+</Group>
+<Group description="Footer Links" selector=".footer-inner">
+<Variable name="footer.link.color" description="Link Color" type="color" default="#cc3300"/>
+<Variable name="footer.link.visited.color" description="Visited Color" type="color" default="#993322"/>
+<Variable name="footer.link.hover.color" description="Hover Color" type="color" default="#ff3300"/>
+</Group>
+<Variable name="body.background" description="Body Background" type="background"
+color="#c0a154" default="$(color) url(//www.blogblog.com/1kt/watermark/body_background_birds.png) repeat scroll top left"/>
+<Variable name="body.background.overlay" description="Overlay Background" type="background" color="#c0a154"
+default="transparent url(//www.blogblog.com/1kt/watermark/body_overlay_birds.png) no-repeat scroll top right"/>
+<Variable name="body.background.overlay.height" description="Overlay Background Height" type="length" default="121px"/>
+<Variable name="tabs.background.inner" description="Tabs Background Inner" type="url" default="none"/>
+<Variable name="tabs.background.outer" description="Tabs Background Outer" type="url" default="none"/>
+<Variable name="tabs.border.size" description="Tabs Border Size" type="length" default="0"/>
+<Variable name="tabs.shadow.spread" description="Tabs Shadow Spread" type="length" default="0"/>
+<Variable name="main.padding.top" description="Main Padding Top" type="length" default="30px"/>
+<Variable name="main.cap.height" description="Main Cap Height" type="length" default="0"/>
+<Variable name="main.cap.image" description="Main Cap Image" type="url" default="none"/>
+<Variable name="main.cap.overlay" description="Main Cap Overlay" type="url" default="none"/>
+<Variable name="main.background" description="Main Background" type="background"
+default="transparent none no-repeat scroll top left"/>
+<Variable name="post.background.url" description="Post Background URL" type="url"
+default="url(//www.blogblog.com/1kt/watermark/post_background_birds.png)"/>
+<Variable name="post.border.size" description="Post Border Size" type="length" default="1px"/>
+<Variable name="post.border.style" description="Post Border Style" type="string" default="dotted"/>
+<Variable name="post.shadow.spread" description="Post Shadow Spread" type="length" default="0"/>
+<Variable name="footer.background" description="Footer Background" type="background"
+color="#330000" default="$(color) url(//www.blogblog.com/1kt/watermark/body_background_navigator.png) repeat scroll top left"/>
+<Variable name="mobile.background.overlay" description="Mobile Background Overlay" type="string"
+default="transparent none repeat scroll top left"/>
+<Variable name="startSide" description="Side where text starts in blog language" type="automatic" default="left"/>
+<Variable name="endSide" description="Side where text ends in blog language" type="automatic" default="right"/>
+*/
+/* Use this with templates/1ktemplate-*.html */
+/* Content
+----------------------------------------------- */
+body {
+font: normal normal 14px Arial, Tahoma, Helvetica, FreeSans, sans-serif;
+color: #333333;
+background: #c0a154 url(//www.blogblog.com/1kt/watermark/body_background_birds.png) repeat scroll top left;
+}
+html body .content-outer {
+min-width: 0;
+max-width: 100%;
+width: 100%;
+}
+.content-outer {
+font-size: 92%;
+}
+a:link {
+text-decoration:none;
+color: #cc3300;
+}
+a:visited {
+text-decoration:none;
+color: #993322;
+}
+a:hover {
+text-decoration:underline;
+color: #ff3300;
+}
+.body-fauxcolumns .cap-top {
+margin-top: 30px;
+background: transparent url(//www.blogblog.com/1kt/watermark/body_overlay_birds.png) no-repeat scroll top right;
+height: 121px;
+}
+.content-inner {
+padding: 0;
+}
+/* Header
+----------------------------------------------- */
+.header-inner .Header .titlewrapper,
+.header-inner .Header .descriptionwrapper {
+padding-left: 20px;
+padding-right: 20px;
+}
+.Header h1 {
+font: normal normal 60px Georgia, Utopia, 'Palatino Linotype', Palatino, serif;
+color: #ffffff;
+text-shadow: 2px 2px rgba(0, 0, 0, .1);
+}
+.Header h1 a {
+color: #ffffff;
+}
+.Header .description {
+font-size: 140%;
+color: #997755;
+}
+/* Tabs
+----------------------------------------------- */
+.tabs-inner .section {
+margin: 0 20px;
+}
+.tabs-inner .PageList, .tabs-inner .LinkList, .tabs-inner .Labels {
+margin-left: -11px;
+margin-right: -11px;
+background-color: transparent;
+border-top: 0 solid #ffffff;
+border-bottom: 0 solid #ffffff;
+-moz-box-shadow: 0 0 0 rgba(0, 0, 0, .3);
+-webkit-box-shadow: 0 0 0 rgba(0, 0, 0, .3);
+-goog-ms-box-shadow: 0 0 0 rgba(0, 0, 0, .3);
+box-shadow: 0 0 0 rgba(0, 0, 0, .3);
+}
+.tabs-inner .PageList .widget-content,
+.tabs-inner .LinkList .widget-content,
+.tabs-inner .Labels .widget-content {
+margin: -3px -11px;
+background: transparent none  no-repeat scroll right;
+}
+.tabs-inner .widget ul {
+padding: 2px 25px;
+max-height: 34px;
+background: transparent none no-repeat scroll left;
+}
+.tabs-inner .widget li {
+border: none;
+}
+.tabs-inner .widget li a {
+display: inline-block;
+padding: .25em 1em;
+font: normal normal 20px Georgia, Utopia, 'Palatino Linotype', Palatino, serif;
+color: #cc3300;
+border-right: 1px solid #c0a154;
+}
+.tabs-inner .widget li:first-child a {
+border-left: 1px solid #c0a154;
+}
+.tabs-inner .widget li.selected a, .tabs-inner .widget li a:hover {
+color: #000000;
+}
+/* Headings
+----------------------------------------------- */
+h2 {
+font: normal normal 20px Georgia, Utopia, 'Palatino Linotype', Palatino, serif;
+color: #000000;
+margin: 0 0 .5em;
+}
+h2.date-header {
+font: normal normal 16px Arial, Tahoma, Helvetica, FreeSans, sans-serif;
+color: #997755;
+}
+/* Main
+----------------------------------------------- */
+.main-inner .column-center-inner,
+.main-inner .column-left-inner,
+.main-inner .column-right-inner {
+padding: 0 5px;
+}
+.main-outer {
+margin-top: 0;
+background: transparent none no-repeat scroll top left;
+}
+.main-inner {
+padding-top: 30px;
+}
+.main-cap-top {
+position: relative;
+}
+.main-cap-top .cap-right {
+position: absolute;
+height: 0;
+width: 100%;
+bottom: 0;
+background: transparent none repeat-x scroll bottom center;
+}
+.main-cap-top .cap-left {
+position: absolute;
+height: 245px;
+width: 280px;
+right: 0;
+bottom: 0;
+background: transparent none no-repeat scroll bottom left;
+}
+/* Posts
+----------------------------------------------- */
+.post-outer {
+padding: 15px 20px;
+margin: 0 0 25px;
+background: transparent url(//www.blogblog.com/1kt/watermark/post_background_birds.png) repeat scroll top left;
+_background-image: none;
+border: dotted 1px #ccbb99;
+-moz-box-shadow: 0 0 0 rgba(0, 0, 0, .1);
+-webkit-box-shadow: 0 0 0 rgba(0, 0, 0, .1);
+-goog-ms-box-shadow: 0 0 0 rgba(0, 0, 0, .1);
+box-shadow: 0 0 0 rgba(0, 0, 0, .1);
+}
+h3.post-title {
+font: normal normal 30px Georgia, Utopia, 'Palatino Linotype', Palatino, serif;
+margin: 0;
+}
+.comments h4 {
+font: normal normal 30px Georgia, Utopia, 'Palatino Linotype', Palatino, serif;
+margin: 1em 0 0;
+}
+.post-body {
+font-size: 105%;
+line-height: 1.5;
+position: relative;
+}
+.post-header {
+margin: 0 0 1em;
+color: #997755;
+}
+.post-footer {
+margin: 10px 0 0;
+padding: 10px 0 0;
+color: #997755;
+border-top: dashed 1px #777777;
+}
+#blog-pager {
+font-size: 140%
+}
+#comments .comment-author {
+padding-top: 1.5em;
+border-top: dashed 1px #777777;
+background-position: 0 1.5em;
+}
+#comments .comment-author:first-child {
+padding-top: 0;
+border-top: none;
+}
+.avatar-image-container {
+margin: .2em 0 0;
+}
+/* Comments
+----------------------------------------------- */
+.comments .comments-content .icon.blog-author {
+background-repeat: no-repeat;
+background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAYAAABWzo5XAAAAAXNSR0IArs4c6QAAAAZiS0dEAP8A/wD/oL2nkwAAAAlwSFlzAAALEgAACxIB0t1+/AAAAAd0SU1FB9sLFwMeCjjhcOMAAAD+SURBVDjLtZSvTgNBEIe/WRRnm3U8RC1neQdsm1zSBIU9VVF1FkUguQQsD9ITmD7ECZIJSE4OZo9stoVjC/zc7ky+zH9hXwVwDpTAWWLrgS3QAe8AZgaAJI5zYAmc8r0G4AHYHQKVwII8PZrZFsBFkeRCABYiMh9BRUhnSkPTNCtVXYXURi1FpBDgArj8QU1eVXUzfnjv7yP7kwu1mYrkWlU33vs1QNu2qU8pwN0UpKoqokjWwCztrMuBhEhmh8bD5UDqur75asbcX0BGUB9/HAMB+r32hznJgXy2v0sGLBcyAJ1EK3LFcbo1s91JeLwAbwGYu7TP/3ZGfnXYPgAVNngtqatUNgAAAABJRU5ErkJggg==);
+}
+.comments .comments-content .loadmore a {
+border-top: 1px solid #777777;
+border-bottom: 1px solid #777777;
+}
+.comments .continue {
+border-top: 2px solid #777777;
+}
+/* Widgets
+----------------------------------------------- */
+.widget ul, .widget #ArchiveList ul.flat {
+padding: 0;
+list-style: none;
+}
+.widget ul li, .widget #ArchiveList ul.flat li {
+padding: .35em 0;
+text-indent: 0;
+border-top: dashed 1px #777777;
+}
+.widget ul li:first-child, .widget #ArchiveList ul.flat li:first-child {
+border-top: none;
+}
+.widget .post-body ul {
+list-style: disc;
+}
+.widget .post-body ul li {
+border: none;
+}
+.widget .zippy {
+color: #777777;
+}
+.post-body img, .post-body .tr-caption-container, .Profile img, .Image img,
+.BlogList .item-thumbnail img {
+padding: 5px;
+background: #fff;
+-moz-box-shadow: 1px 1px 5px rgba(0, 0, 0, .5);
+-webkit-box-shadow: 1px 1px 5px rgba(0, 0, 0, .5);
+-goog-ms-box-shadow: 1px 1px 5px rgba(0, 0, 0, .5);
+box-shadow: 1px 1px 5px rgba(0, 0, 0, .5);
+}
+.post-body img, .post-body .tr-caption-container {
+padding: 8px;
+}
+.post-body .tr-caption-container {
+color: #333333;
+}
+.post-body .tr-caption-container img {
+padding: 0;
+background: transparent;
+border: none;
+-moz-box-shadow: 0 0 0 rgba(0, 0, 0, .1);
+-webkit-box-shadow: 0 0 0 rgba(0, 0, 0, .1);
+-goog-ms-box-shadow: 0 0 0 rgba(0, 0, 0, .1);
+box-shadow: 0 0 0 rgba(0, 0, 0, .1);
+}
+/* Footer
+----------------------------------------------- */
+.footer-outer {
+color:#ccbb99;
+background: #330000 url(//www.blogblog.com/1kt/watermark/body_background_navigator.png) repeat scroll top left;
+}
+.footer-outer a {
+color: #ff7755;
+}
+.footer-outer a:visited {
+color: #dd5533;
+}
+.footer-outer a:hover {
+color: #ff9977;
+}
+.footer-outer .widget h2 {
+color: #eeddbb;
+}
+/* Mobile
+----------------------------------------------- */
+body.mobile  {
+background-size: 100% auto;
+}
+.mobile .body-fauxcolumn-outer {
+background: transparent none repeat scroll top left;
+}
+html .mobile .mobile-date-outer {
+border-bottom: none;
+background: transparent url(//www.blogblog.com/1kt/watermark/post_background_birds.png) repeat scroll top left;
+_background-image: none;
+margin-bottom: 10px;
+}
+.mobile .main-inner .date-outer {
+padding: 0;
+}
+.mobile .main-inner .date-header {
+margin: 10px;
+}
+.mobile .main-cap-top {
+z-index: -1;
+}
+.mobile .content-outer {
+font-size: 100%;
+}
+.mobile .post-outer {
+padding: 10px;
+}
+.mobile .main-cap-top .cap-left {
+background: transparent none no-repeat scroll bottom left;
+}
+.mobile .body-fauxcolumns .cap-top {
+margin: 0;
+}
+.mobile-link-button {
+background: transparent url(//www.blogblog.com/1kt/watermark/post_background_birds.png) repeat scroll top left;
+}
+.mobile-link-button a:link, .mobile-link-button a:visited {
+color: #cc3300;
+}
+.mobile-index-date .date-header {
+color: #997755;
+}
+.mobile-index-contents {
+color: #333333;
+}
+.mobile .tabs-inner .section {
+margin: 0;
+}
+.mobile .tabs-inner .PageList {
+margin-left: 0;
+margin-right: 0;
+}
+.mobile .tabs-inner .PageList .widget-content {
+margin: 0;
+color: #000000;
+background: transparent url(//www.blogblog.com/1kt/watermark/post_background_birds.png) repeat scroll top left;
+}
+.mobile .tabs-inner .PageList .widget-content .pagelist-arrow {
+border-left: 1px solid #c0a154;
+}
+
+--></style>
+<style id='template-skin-1' type='text/css'><!--
+body {
+min-width: 860px;
+}
+.content-outer, .content-fauxcolumn-outer, .region-inner {
+min-width: 860px;
+max-width: 860px;
+_width: 860px;
+}
+.main-inner .columns {
+padding-left: 0px;
+padding-right: 260px;
+}
+.main-inner .fauxcolumn-center-outer {
+left: 0px;
+right: 260px;
+/* IE6 does not respect left and right together */
+_width: expression(this.parentNode.offsetWidth -
+parseInt("0px") -
+parseInt("260px") + 'px');
+}
+.main-inner .fauxcolumn-left-outer {
+width: 0px;
+}
+.main-inner .fauxcolumn-right-outer {
+width: 260px;
+}
+.main-inner .column-left-outer {
+width: 0px;
+right: 100%;
+margin-left: -0px;
+}
+.main-inner .column-right-outer {
+width: 260px;
+margin-right: -260px;
+}
+#layout {
+min-width: 0;
+}
+#layout .content-outer {
+min-width: 0;
+width: 800px;
+}
+#layout .region-inner {
+min-width: 0;
+width: auto;
+}
+--></style>
+<script type="text/javascript">var a=navigator,b="userAgent",c="indexOf",f="&m=1",g="(^|&)m=",h="?",k="?m=1";function l(){var d=window.location.href,e=d.split(h);switch(e.length){case 1:return d+k;case 2:return 0<=e[1].search(g)?null:d+f;default:return null}}if(-1!=a[b][c]("Mobile")&&-1!=a[b][c]("WebKit")&&-1==a[b][c]("iPad")||-1!=a[b][c]("Opera Mini")||-1!=a[b][c]("IEMobile")){var m=l();m&&window.location.replace(m)};
+</script><script type="text/javascript">
+if (window.jstiming) window.jstiming.load.tick('headEnd');
+</script></head>
+<body class='loading'>
+<div class='navbar section' id='navbar'><div class='widget Navbar' id='Navbar1'><script type="text/javascript">
+    function setAttributeOnload(object, attribute, val) {
+      if(window.addEventListener) {
+        window.addEventListener('load',
+          function(){ object[attribute] = val; }, false);
+      } else {
+        window.attachEvent('onload', function(){ object[attribute] = val; });
+      }
+    }
+  </script>
+<div id="navbar-iframe-container"></div>
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+<script type="text/javascript">
+        gapi.load("iframes-styles-bubble", function() {
+          if (window.iframes && iframes.open) {
+            iframes.open(
+                '//www.blogger.com/navbar.g?targetBlogID\0753800455752708311473\46blogName\75A+Rabbi\47s+Thoughts\46publishMode\75PUBLISH_MODE_BLOGSPOT\46navbarType\75BLUE\46layoutType\75LAYOUTS\46searchRoot\75http://rabbistrom.blogspot.com/search\46blogLocale\75en\46v\0752\46homepageUrl\75http://rabbistrom.blogspot.com/\46targetPostID\075232644407719818865\46blogPostOrPageUrl\75http://rabbistrom.blogspot.com/2013/09/who-are-you-wearing-yom-kippur-5774.html\46vt\75-2854783465506588229',
+                {
+                  container: "navbar-iframe-container",
+                  id: "navbar-iframe"
+                },
+                {
+                });
+          }
+        });
+      </script><script type="text/javascript">
+(function() {
+var script = document.createElement('script');
+script.type = 'text/javascript';
+script.src = '//pagead2.googlesyndication.com/pagead/js/google_top_exp.js';
+var head = document.getElementsByTagName('head')[0];
+if (head) {
+head.appendChild(script);
+}})();
+</script>
+</div></div>
+<div class='body-fauxcolumns'>
+<div class='fauxcolumn-outer body-fauxcolumn-outer'>
+<div class='cap-top'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+<div class='fauxborder-left'>
+<div class='fauxborder-right'></div>
+<div class='fauxcolumn-inner'>
+</div>
+</div>
+<div class='cap-bottom'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+</div>
+</div>
+<div class='content'>
+<div class='content-fauxcolumns'>
+<div class='fauxcolumn-outer content-fauxcolumn-outer'>
+<div class='cap-top'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+<div class='fauxborder-left'>
+<div class='fauxborder-right'></div>
+<div class='fauxcolumn-inner'>
+</div>
+</div>
+<div class='cap-bottom'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+</div>
+</div>
+<div class='content-outer'>
+<div class='content-cap-top cap-top'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+<div class='fauxborder-left content-fauxborder-left'>
+<div class='fauxborder-right content-fauxborder-right'></div>
+<div class='content-inner'>
+<header>
+<div class='header-outer'>
+<div class='header-cap-top cap-top'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+<div class='fauxborder-left header-fauxborder-left'>
+<div class='fauxborder-right header-fauxborder-right'></div>
+<div class='region-inner header-inner'>
+<div class='header section' id='header'><div class='widget Header' id='Header1'>
+<div id='header-inner'>
+<div class='titlewrapper'>
+<h1 class='title'>
+<a href='http://rabbistrom.blogspot.com/'>A Rabbi's Thoughts</a>
+</h1>
+</div>
+<div class='descriptionwrapper'>
+<p class='description'><span>Sermons, drashes, and divrei Torah = food for thought (I hope).</span></p>
+</div>
+</div>
+</div></div>
+</div>
+</div>
+<div class='header-cap-bottom cap-bottom'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+</div>
+</header>
+<div class='tabs-outer'>
+<div class='tabs-cap-top cap-top'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+<div class='fauxborder-left tabs-fauxborder-left'>
+<div class='fauxborder-right tabs-fauxborder-right'></div>
+<div class='region-inner tabs-inner'>
+<div class='tabs section' id='crosscol'></div>
+<div class='tabs section' id='crosscol-overflow'></div>
+</div>
+</div>
+<div class='tabs-cap-bottom cap-bottom'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+</div>
+<div class='main-outer'>
+<div class='main-cap-top cap-top'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+<div class='fauxborder-left main-fauxborder-left'>
+<div class='fauxborder-right main-fauxborder-right'></div>
+<div class='region-inner main-inner'>
+<div class='columns fauxcolumns'>
+<div class='fauxcolumn-outer fauxcolumn-center-outer'>
+<div class='cap-top'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+<div class='fauxborder-left'>
+<div class='fauxborder-right'></div>
+<div class='fauxcolumn-inner'>
+</div>
+</div>
+<div class='cap-bottom'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+</div>
+<div class='fauxcolumn-outer fauxcolumn-left-outer'>
+<div class='cap-top'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+<div class='fauxborder-left'>
+<div class='fauxborder-right'></div>
+<div class='fauxcolumn-inner'>
+</div>
+</div>
+<div class='cap-bottom'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+</div>
+<div class='fauxcolumn-outer fauxcolumn-right-outer'>
+<div class='cap-top'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+<div class='fauxborder-left'>
+<div class='fauxborder-right'></div>
+<div class='fauxcolumn-inner'>
+</div>
+</div>
+<div class='cap-bottom'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+</div>
+<!-- corrects IE6 width calculation -->
+<div class='columns-inner'>
+<div class='column-center-outer'>
+<div class='column-center-inner'>
+<div class='main section' id='main'><div class='widget Blog' id='Blog1'>
+<div class='blog-posts hfeed'>
+<!-- google_ad_section_start(name=default) -->
+
+          <div class="date-outer">
+        
+<h2 class='date-header'><span>Saturday, September 14, 2013</span></h2>
+
+          <div class="date-posts">
+        
+<div class='post-outer'>
+<div class='post hentry' itemprop='blogPost' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<meta content='3800455752708311473' itemprop='blogId'/>
+<meta content='232644407719818865' itemprop='postId'/>
+<a name='232644407719818865'></a>
+<h3 class='post-title entry-title' itemprop='name'>
+Who Are You Wearing? - Yom Kippur 5774
+</h3>
+<div class='post-header'>
+<div class='post-header-line-1'></div>
+</div>
+<div class='post-body entry-content' id='post-body-232644407719818865' itemprop='description articleBody'>
+<!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:View>Normal</w:View>
+  <w:Zoom>0</w:Zoom>
+  <w:TrackMoves/>
+  <w:TrackFormatting/>
+  <w:PunctuationKerning/>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:DoNotPromoteQF/>
+  <w:LidThemeOther>EN-US</w:LidThemeOther>
+  <w:LidThemeAsian>JA</w:LidThemeAsian>
+  <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>
+  <w:Compatibility>
+   <w:BreakWrappedTables/>
+   <w:SnapToGridInCell/>
+   <w:WrapTextWithPunct/>
+   <w:UseAsianBreakRules/>
+   <w:DontGrowAutofit/>
+   <w:SplitPgBreakAndParaMark/>
+   <w:EnableOpenTypeKerning/>
+   <w:DontFlipMirrorIndents/>
+   <w:OverrideTableStyleHps/>
+  </w:Compatibility>
+  <m:mathPr>
+   <m:mathFont m:val="Cambria Math"/>
+   <m:brkBin m:val="before"/>
+   <m:brkBinSub m:val="&#45;-"/>
+   <m:smallFrac m:val="off"/>
+   <m:dispDef/>
+   <m:lMargin m:val="0"/>
+   <m:rMargin m:val="0"/>
+   <m:defJc m:val="centerGroup"/>
+   <m:wrapIndent m:val="1440"/>
+   <m:intLim m:val="subSup"/>
+   <m:naryLim m:val="undOvr"/>
+  </m:mathPr></w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="true"
+  DefSemiHidden="true" DefQFormat="false" DefPriority="99"
+  LatentStyleCount="276">
+  <w:LsdException Locked="false" Priority="0" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Normal"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="heading 1"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 2"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 3"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 4"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 5"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 6"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 7"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 8"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 9"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 1"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 2"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 3"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 4"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 5"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 6"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 7"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 8"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 9"/>
+  <w:LsdException Locked="false" Priority="35" QFormat="true" Name="caption"/>
+  <w:LsdException Locked="false" Priority="10" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Title"/>
+  <w:LsdException Locked="false" Priority="1" Name="Default Paragraph Font"/>
+  <w:LsdException Locked="false" Priority="11" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtitle"/>
+  <w:LsdException Locked="false" Priority="22" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Strong"/>
+  <w:LsdException Locked="false" Priority="20" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Emphasis"/>
+  <w:LsdException Locked="false" Priority="59" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Table Grid"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="false" Name="Placeholder Text"/>
+  <w:LsdException Locked="false" Priority="1" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="No Spacing"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 1"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 1"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="false" Name="Revision"/>
+  <w:LsdException Locked="false" Priority="34" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="List Paragraph"/>
+  <w:LsdException Locked="false" Priority="29" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Quote"/>
+  <w:LsdException Locked="false" Priority="30" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Quote"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 1"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 1"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 1"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 2"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 2"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 2"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 2"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 3"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 3"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 3"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 3"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 4"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 4"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 4"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 4"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 5"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 5"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 5"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 5"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 6"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 6"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 6"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 6"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="19" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtle Emphasis"/>
+  <w:LsdException Locked="false" Priority="21" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Emphasis"/>
+  <w:LsdException Locked="false" Priority="31" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtle Reference"/>
+  <w:LsdException Locked="false" Priority="32" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Reference"/>
+  <w:LsdException Locked="false" Priority="33" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Book Title"/>
+  <w:LsdException Locked="false" Priority="37" Name="Bibliography"/>
+  <w:LsdException Locked="false" Priority="39" QFormat="true" Name="TOC Heading"/>
+ </w:LatentStyles>
+</xml><![endif]-->
+
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+table.MsoNormalTable
+ {mso-style-name:"Table Normal";
+ mso-tstyle-rowband-size:0;
+ mso-tstyle-colband-size:0;
+ mso-style-noshow:yes;
+ mso-style-priority:99;
+ mso-style-parent:"";
+ mso-padding-alt:0in 5.4pt 0in 5.4pt;
+ mso-para-margin:0in;
+ mso-para-margin-bottom:.0001pt;
+ mso-pagination:widow-orphan;
+ font-size:12.0pt;
+ font-family:"Times New Roman";}
+</style>
+<![endif]-->
+
+
+
+<!--StartFragment-->
+
+<br />
+<div class="MsoNormal">
+(AUDIO: To hear this sermon as it was delivered at <a href="http://www.shaaraytefilanyc.org/index.aspx" target="_blank">Temple Shaaray Tefila</a>, please click <a href="https://www.dropbox.com/s/pfcuyi5tpsc3ppd/Yom%20Kippur%205774%20-%20Who%20Are%20You%20Wearing.MP3" target="_blank">here</a>.)</div>
+<div class="MsoNormal">
+<br /></div>
+<div class="MsoNormal">
+5773. Maybe we&#8217;ll call it the Year of the Pope. After all, as
+Benedict XVI stepped down citing failing health, and Francis was elected, for
+the first time in history, the Catholic world has a Pope Emeritus. Such
+unfamiliar territory was this, that even the choice of that title wasn&#8217;t easy.
+And yet, perhaps lost in the shuffle of this strange situation and the 24-hour
+news-cycle world in which we live, was the fact that this was a pretty radical
+move by the Catholic Church. Though not usually known for pursuing courses of
+action not considered safe or conservative, the cardinals&#8217; choice of Jorge
+Mario Bergoglio as the new Pontiff, the face of 1.2 <i>billion </i>believers, was nothing short of revolutionary. Why? Because
+Pope Francis is the first Jesuit pope ever, the first pope from the Americas,
+and the first pope from the Southern Hemisphere.&nbsp;Only somewhat less of a big
+deal is the fact of his being the first pope ever on Twitter, with handles in
+at least nine languages. (In English it&#8217;s @pontifex, if you&#8217;re curious.) So
+yes, the ascension of this man to pope, the donning of the illustrious white
+robes and skullcap, is a pretty big deal, no matter which faith you may
+practice or abstain from.<br />
+<o:p></o:p></div>
+<div class="MsoNormal">
+<br /></div>
+<div class="MsoNormal">
+Now I&#8217;ll bet you didn&#8217;t expect the rabbi to begin his Yom
+Kippur sermon by talking about the Pope. But there&#8217;s another reason I&#8217;m calling
+this past year the Year of the Pope. And that is because of Olivia Pope. Olivia
+Pope is, of course, the central character in ABC's smash political drama
+Scandal, a strong-willed and decisive power player in the convoluted and
+interwoven world of our nation's capital. Played by the illustrious Kerry
+Washington, Pope makes a living out of leveraging her contacts and
+relationships to solve problems for Washington's elite, but meticulous in
+choosing which cases she and her firm of "gladiators in suits" will
+take on. You see, the image in her mind, and one that continually shows up in
+the characters' dialogue, is of "wearing the white hat," hearkening
+back to the old Westerns where the good and bad guys were distinguished to the
+viewing audience by the white or black hat they wore. So it is no coincidence
+that Shonda Rhimes' lead character, with the last name Pope, would aspire to be
+the constant savior and heroine, to always don the symbolic white hat.<o:p></o:p></div>
+<div class="MsoNormal">
+<br /></div>
+<div class="MsoNormal">
+And while she may not have as many accounts or followers as
+Francis, this Pope--or, rather, the actress who portrays her--is also on
+Twitter. And ABC is smart. In this day and age of Tivo and DVR, where we need a
+solid reason to endure the hardship of commercials and watch a show live, they
+tried something out, and it's working. They've got all of the show's cast
+live-tweeting the episodes--commenting, retweeting, responding to the quotes,
+observations, and predictions of regular Joe Shmo's like you and me, during
+both the East and West Coast broadcasts. It's fun and interactive, and from the
+network's standpoint, it makes it that much more likely that I'll pay a sliver
+of attention to one of their paid advertisements. And somehow, some way,
+there's always, without a doubt, a thread asking @KerryWashington:<o:p></o:p></div>
+<div class="MsoNormal">
+<br /></div>
+<div class="MsoNormal">
+"Who are you wearing?"<o:p></o:p></div>
+<div class="MsoNormal">
+<br /></div>
+<div class="MsoNormal">
+Not "what" are you wearing. Who. We NEED to know.
+Is it Vera Wang? Is it Oscar De La Renta? Could it be Versace or Louis Vuitton?
+No no. It must be Christian Dior. Or perhaps Alexander McQueen. But please, for
+the love of God, just tell us who you're wearing! &nbsp;<o:p></o:p></div>
+<div class="MsoNormal">
+<br /></div>
+<div class="MsoNormal">
+Clothing. In Hebrew <i>b'gadim</i>.
+Ever since Adam and Eve ate from the forbidden tree in the Garden of Eden and
+ran to hide their newly-discovered nakedness with fig leaves, we have been
+obsessed with the clothes we wear. And while it is true that clothing, along
+with food and shelter, make up the three most basic needs of human beings, we
+know all too well that our fascination goes far beyond any concept of
+necessity. Now we watch the Oscars, the Golden Globes, the Grammys not to see
+who will win Best Actress or Best Director or Artist of the Year, but to see
+who will win the night in fashion and make the tabloids' Best Dressed lists.
+Indeed there are a number of us who actually turn the channel once the
+can't-miss red carpet specials are over because, after all, watching to see how
+the rich and famous arrive and who they're wearing is the best part of the
+evening. Isn't it?&nbsp;<o:p></o:p></div>
+<div class="MsoNormal">
+<br /></div>
+<div class="MsoNormal">
+Personally, beyond the surface level of "that's a
+beautiful dress" or "what on earth is she wearing?," I really
+couldn't care less who the designer is. But I am, if you will, fascinated by our
+fascination with <i>b'gadim</i>, with
+clothing, as I think it speaks volumes about who we really are, both as
+individuals and as a society.<o:p></o:p></div>
+<div class="MsoNormal">
+<br /></div>
+<div class="MsoNormal">
+Just a few moments ago, we chanted the famous alphabetic
+acrostic of sins we have all committed as a community. Together we bear the
+collective responsibility in the first-person plural, where each confession
+ends with the Hebrew suffix "<i>nu</i>."
+The aleph is <i>ashamnu</i>, essentially the
+topic sentence: we are guilty, we have sinned. The bet? The bet is <i>bagadnu</i>, a phrase perhaps best
+translated as "we have been treacherous,&#8221; or, as rendered by our new <i>machzor</i>, &#8220;we have betrayed." And
+the root of <i>bagadnu</i> and <i>b'gadim</i>, clothing, are exactly the same:
+<i>bet-gimmel-dalet</i>. Right in
+alphabetical order, almost an acrostic within the acrostic. And this, my
+friends, is no accident, no mere coincidence. We are traitors and
+deceivers--all of us. The clothing we wear, both literally and figuratively,
+the coverings not just for our bodies but our souls as well, belies who we
+really are underneath our skin, amidst our flesh and bones, at our very
+core.&nbsp;<o:p></o:p></div>
+<div class="MsoNormal">
+<br /></div>
+<div class="MsoNormal">
+Our tradition knows this all too well. It begins with Jacob,
+the man who would become Israel, the one for whom our people is named! We read
+of his mother Rebekah&#8217;s plot to disguise him as his brother Esau, fooling his
+near-blind father Isaac to receive the innermost blessing meant for his older
+twin. I&#8217;m always struck by what he says to her, his <i>very first response</i> after she divulges her devious plan. What does
+he say? He says, &#8220;But my brother Esau is a hairy man and I am smooth-skinned.
+If my father touches me, I shall appear to him a trickster and bring upon
+myself a curse, not a blessing.&#8221; In other words: &#8220;But Mom, I&#8217;ll get busted!&#8221; No
+moral reservations, no voice of reason, no angel on his shoulder saying maybe
+this isn&#8217;t a very nice thing to do. Nope. &#8220;I&#8217;m down, Mom,&#8221; Jacob is saying.
+&#8220;But if we&#8217;re going to do this, I <i>can&#8217;t
+get caught</i>.&#8221; <o:p></o:p></div>
+<div class="MsoNormal">
+<br /></div>
+<div class="MsoNormal">
+And so he goes into Isaac, draped in animal skins, aiming to
+convince his father that he is really Esau, in the end receiving the prophetic
+blessing of his father&#8217;s heart. Was Isaac really duped, an addled old man
+struggling to beat back senility? Or did he know that the one standing before
+him was a sheep in wolf&#8217;s clothing? The text is such that we&#8217;ll never really know
+with any certainty. But we do know that Jacob is very much the &#8220;trickster&#8221; he
+didn&#8217;t want his father to discover. &nbsp;What
+is beyond any doubt is that with <i>beged</i>,
+the clothing, <i>hu bagad</i>, he was
+treacherous.&nbsp; <o:p></o:p></div>
+<div class="MsoNormal">
+<br /></div>
+<div class="MsoNormal">
+And it continues with Joseph, the man who gets more airtime
+in the Torah than anyone other than Moses. We know the story: of the of the <i>k&#8217;tonet ha-passim</i>, the amazing
+technicolor dreamcoat&#8212;perhaps by Missoni&#8212;a gift from his father that both
+marked him as Jacob&#8217;s favorite and painted a target on his back for his
+brothers. We know how they threw him in a pit, sold him into slavery, dipped
+the coat in goat&#8217;s blood, and showed it to their father as proof of Joseph&#8217;s
+supposed demise. But the <i>begged bagad</i>,
+the clothing betrayed him.<o:p></o:p></div>
+<div class="MsoNormal">
+<br /></div>
+<div class="MsoNormal">
+And so it is with us. Every day, we wake up, and we put on
+our costumes. A shirt and tie, a pants suit for some; medical scrubs, cargo
+pants, utility belts for others; full uniforms for the men and women looking
+out for our safety and security. And yet, when the workday ends, when we&#8217;re
+home and off the clock, so to speak, the first thing we do is take off the
+costume, changing into something more comfortable or whatever it is we <i>really</i> want to wear. And I wonder: is
+that an authentic expression of our diverse personalities, where both represent
+parts of a greater whole? &nbsp;Or is one of
+them the <i>real</i> us, the other a put-on,
+a glorified game of make-believe the world expects us to play?<o:p></o:p></div>
+<div class="MsoNormal">
+<br /></div>
+<div class="MsoNormal">
+And yet, we know the confession of <i>bagadnu</i>, that we have betrayed, goes deeper than just <i>b&#8217;gadim</i>, the clothing we wear. It&#8217;s the
+treachery, the deception we practice every day, trying to convince others we&#8217;re
+something we&#8217;re not. It&#8217;s the acting, the role-playing, the long con we&#8217;ve
+committed to so deeply that there&#8217;s no escape. Is it any wonder, then, that we
+use expressions like &#8220;fleecing&#8221; and &#8220;pulling the wool over their eyes&#8221;? Is it
+any wonder that so many of the most popular TV shows in recent memory&#8212;Mad Men,
+Dexter, Breaking Bad, The Americans, to name just a few&#8212;center around
+characters living, it seems, multiple lives? Ever since Tony Soprano visited
+colleges with his daughter, if not before, we have been captivated by the best
+of the duplicitous, either unaware or in denial of the mirror they hold up in
+front of our very faces. You remember it? How Tony is late to pick Meadow up
+from Bates because he&#8217;s just taken out a mob informant in the Witness
+Protection Program&#8212;a turncoat, if you will&#8212;with words in his ear about taking
+an oath, about how &#8220;the hustle never ends.&#8221; You remember how Tony, sitting on a
+bench during her interview at Bowdoin, looks up to see a quote from Nathaniel
+Hawthorne, the school&#8217;s most famous alum, that, frankly, says it all&#8212;of the
+show, yes; but even more so, about us:&nbsp; &nbsp;<o:p></o:p></div>
+<div class="MsoNormal">
+<br /></div>
+<div class="MsoNormal">
+&#8220;No man can wear one face to himself, and another to the
+multitude, without finally getting bewildered as to which may be true.&#8221;<o:p></o:p></div>
+<div class="MsoNormal">
+<br /></div>
+<div class="MsoNormal">
+Maybe we&#8217;re like Tony with our never-ending hustle. Maybe
+we&#8217;re like Jacob, carrying on a charade, portraying an alter-ego for some
+ill-gotten gain, thinking only of ourselves and how to avoid being caught. Maybe
+we play up our titles, exploit our spheres of influence, tucked away in an
+ivory tower. Maybe we drape ourselves in the false security blanket of the
+internet, mistaking it for a cloak of invisibility, hiding behind blogs,
+Facebook pages, Twitter handles, Instagramming pictures of everything, everyone,
+but the photographer himself. <o:p></o:p></div>
+<div class="MsoNormal">
+<br /></div>
+<div class="MsoNormal">
+But today, Yom Kippur, is the day it all catches up with us.
+Today is the day we stand figuratively naked before God and our community,
+stripped of all pretense and posture, hitting our hearts, confessing <i>ashamnu</i>, we have sinned, <i>bagadnu</i>, we have betrayed. Today we are
+judged for what we&#8217;ve <i>really </i>done,
+what we&#8217;ve <i>really </i>said, who we <i>really </i>are. We say to God, &#8220;As the
+shepherd examines the flock, causing each sheep to pass beneath the staff, so
+do You collect and consider, record and recount every soul, setting the bounds
+of every creature&#8217;s life, and decreeing its destiny.&#8221; We say to God, &#8220;You will
+remember everything that has been forgotten, and You will open the book of
+memories. What is written there proclaims itself, for it bears the signature of
+every human being.&#8221; Reflecting on this, Rabbi Maggie Wenig wrote, &#8220;Our
+lives are an open book. Nothing remains a secret. Secrets have a way of seeping
+through the cracks and bubbling to the surface. It is only a matter of time
+before we find ourselves exposed, as naked as the day we were born. Lies, half
+truths, obfuscations ultimately fail to convince. Better we should live our
+lives assuming that all our deeds, phone calls, e-mails, text messages, and
+financial transactions are known, recorded, remembered, and on permanent
+display in the Library of Conscience.&#8221;<o:p></o:p></div>
+<div class="MsoNormal">
+<br /></div>
+<div class="MsoNormal">
+Perhaps the Library of Conscience is where Joseph spent his
+time in the pit his brothers threw him into. Perhaps he had a few hours without
+food or drink, just like we do today, to contemplate who he really was, and who
+he wanted to be, now stripped of his outer garb. Perhaps he realized in that
+moment that sometimes the clothes don&#8217;t make the man, that the &#8220;dazzling coat
+of many colors&#8221; was not an accurate reflection of the person underneath it. <o:p></o:p></div>
+<div class="MsoNormal">
+<br /></div>
+<div class="MsoNormal">
+Sold &nbsp;into slavery, the
+handsome young Joseph rises to the highest post in the household of Potiphar,
+officer to Pharaoh, where he quickly becomes the object of obsession for
+Potiphar&#8217;s wife. She propositions him, again and again, to lie with him, to
+which he never accedes. And yet, despite his steadfast refusals, it is once
+again a piece of clothing that gets Joseph in trouble. Wriggling away from one
+such attempt, Joseph leaves his robe in her hand, which she uses to accuse
+Joseph of exactly what she did to him. And why is it that Joseph won&#8217;t give in
+to her adulterous demands? He says to her, <i>V&#8217;eich
+e&#8217;eseh ha-ra&#8217;ah hag&#8217;dolah hazot</i>, &#8220;How then could I do this great evil,&#8221; <i>v&#8217;chatati lElohim</i>, &#8220;and thus sin against
+God?&#8221;<o:p></o:p></div>
+<div class="MsoNormal">
+<br /></div>
+<div class="MsoNormal">
+You see, for Joseph, the sin is not so much against
+Potiphar, his master, though it is most certainly that. Much more importantly,
+it is, as he sees it, a sin against God. Even if no earthly creature is
+watching, even if he could get away with it without another soul ever knowing, <i>he</i> would know it. And God would too. Here,
+though the <i>beged bagad</i>, the clothing
+betrays his intent, here we have the opposite of what he went through before.
+Stripped of his clothing, he stands literally and figuratively naked, knowing,
+no matter the consequence of her false allegations, that he had done right, in
+the eyes of God, and of himself.&nbsp;&nbsp; <o:p></o:p></div>
+<div class="MsoNormal">
+<br /></div>
+<div class="MsoNormal">
+And then it all comes full circle. Joseph&#8217;s brothers come to
+Egypt to buy food during the famine, completely unaware that it&#8217;s him they&#8217;re
+pleading to. His clothing, his hair, his appearance have changed beyond
+anything they knew of him. Unable to bear it any longer, Joseph sends everyone
+else away from the room. As he reveals himself to his brothers, they quickly
+realize that the reason he was unrecognizable to them wasn&#8217;t as much about his
+physical appearance as it was about the man underneath the high Egyptian
+fashion&#8212;a man who had reconciled the gap between who he really was and how he
+portrayed himself; a man ultimately changed for the better. Underneath the
+clothing and all of the outward changes Joseph had made, here, standing before
+the very people who had wronged him so grievously, was a man who had learned to
+be his authentic and best self. Here stood a man who had looked in the mirror,
+had confronted himself with honesty and integrity, a man who had earned the status of
+wearing, if only figuratively, the famed white hat of the hero. <o:p></o:p></div>
+<div class="MsoNormal">
+<br /></div>
+<div class="MsoNormal">
+Adonai our God, so too may it be for us. On this Yom Kippur,
+as we look back on the year that was, and look ahead to the year yet to be, may
+we stand before You honestly, truthfully confessing <i>bagadnu, </i>our betrayal&#8212;of each other, of ourselves, of You. May we
+have the courage to confront our faces in the mirror, to gaze beyond our clothing,
+beyond our outward appearance, and into the depths of our souls, to see what&#8217;s
+really there, and to fix what is broken. And may we, in learning from our
+mistakes, in the ultimate work-in-progress of our lives, come ever nearer to
+what You intended us to be&#8212;the best, the truest, the most authentic versions of
+ourselves we can possibly be. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<o:p></o:p></div>
+<div class="MsoNormal">
+<br /></div>
+<div class="MsoNormal">
+AMEN.</div>
+<!--EndFragment-->
+<div style='clear: both;'></div>
+</div>
+<div class='post-footer'>
+<div class='post-footer-line post-footer-line-1'><span class='post-author vcard'>
+Posted by
+<span class='fn' itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'>
+<meta content='http://www.blogger.com/profile/04466585463328084714' itemprop='url'/>
+<a class='g-profile' href='http://www.blogger.com/profile/04466585463328084714' rel='author' title='author profile'>
+<span itemprop='name'>JStrom</span>
+</a>
+</span>
+</span>
+<span class='post-timestamp'>
+at
+<meta content='http://rabbistrom.blogspot.com/2013/09/who-are-you-wearing-yom-kippur-5774.html' itemprop='url'/>
+<a class='timestamp-link' href='http://rabbistrom.blogspot.com/2013/09/who-are-you-wearing-yom-kippur-5774.html' rel='bookmark' title='permanent link'><abbr class='published' itemprop='datePublished' title='2013-09-14T14:05:00-04:00'>2:05 PM</abbr></a>
+</span>
+<span class='post-comment-link'>
+</span>
+<span class='post-icons'>
+<span class='item-control blog-admin pid-1332534552'>
+<a href='http://www.blogger.com/post-edit.g?blogID=3800455752708311473&postID=232644407719818865&from=pencil' title='Edit Post'>
+<img alt='' class='icon-action' height='18' src='http://img2.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
+</a>
+</span>
+</span>
+<div class='post-share-buttons goog-inline-block'>
+<a class='goog-inline-block share-button sb-email' href='http://www.blogger.com/share-post.g?blogID=3800455752708311473&postID=232644407719818865&target=email' target='_blank' title='Email This'><span class='share-button-link-text'>Email This</span></a><a class='goog-inline-block share-button sb-blog' href='http://www.blogger.com/share-post.g?blogID=3800455752708311473&postID=232644407719818865&target=blog' onclick='window.open(this.href, "_blank", "height=270,width=475"); return false;' target='_blank' title='BlogThis!'><span class='share-button-link-text'>BlogThis!</span></a><a class='goog-inline-block share-button sb-twitter' href='http://www.blogger.com/share-post.g?blogID=3800455752708311473&postID=232644407719818865&target=twitter' target='_blank' title='Share to Twitter'><span class='share-button-link-text'>Share to Twitter</span></a><a class='goog-inline-block share-button sb-facebook' href='http://www.blogger.com/share-post.g?blogID=3800455752708311473&postID=232644407719818865&target=facebook' onclick='window.open(this.href, "_blank", "height=430,width=640"); return false;' target='_blank' title='Share to Facebook'><span class='share-button-link-text'>Share to Facebook</span></a><div class='goog-inline-block dummy-container'><g:plusone source='blogger:blog:plusone' href='http://rabbistrom.blogspot.com/2013/09/who-are-you-wearing-yom-kippur-5774.html' size='medium' width='300' annotation='inline'/></div>
+</div>
+</div>
+<div class='post-footer-line post-footer-line-2'><span class='post-labels'>
+Labels:
+<a href='http://rabbistrom.blogspot.com/search/label/b%27gadim' rel='tag'>b&#39;gadim</a>,
+<a href='http://rabbistrom.blogspot.com/search/label/bagadnu' rel='tag'>bagadnu</a>,
+<a href='http://rabbistrom.blogspot.com/search/label/Breaking%20Bad' rel='tag'>Breaking Bad</a>,
+<a href='http://rabbistrom.blogspot.com/search/label/clothing' rel='tag'>clothing</a>,
+<a href='http://rabbistrom.blogspot.com/search/label/Dexter' rel='tag'>Dexter</a>,
+<a href='http://rabbistrom.blogspot.com/search/label/Jacob' rel='tag'>Jacob</a>,
+<a href='http://rabbistrom.blogspot.com/search/label/Joseph' rel='tag'>Joseph</a>,
+<a href='http://rabbistrom.blogspot.com/search/label/Library%20of%20Conscience' rel='tag'>Library of Conscience</a>,
+<a href='http://rabbistrom.blogspot.com/search/label/Mad%20Men' rel='tag'>Mad Men</a>,
+<a href='http://rabbistrom.blogspot.com/search/label/Olivia%20Pope' rel='tag'>Olivia Pope</a>,
+<a href='http://rabbistrom.blogspot.com/search/label/Pope%20Francis' rel='tag'>Pope Francis</a>,
+<a href='http://rabbistrom.blogspot.com/search/label/Scandal' rel='tag'>Scandal</a>,
+<a href='http://rabbistrom.blogspot.com/search/label/The%20Americans' rel='tag'>The Americans</a>,
+<a href='http://rabbistrom.blogspot.com/search/label/Tony%20Soprano' rel='tag'>Tony Soprano</a>
+</span>
+</div>
+<div class='post-footer-line post-footer-line-3'><span class='post-location'>
+</span>
+</div>
+</div>
+</div>
+<div class='comments' id='comments'>
+<a name='comments'></a>
+<h4>No comments:</h4>
+<div id='Blog1_comments-block-wrapper'>
+<dl class='avatar-comment-indent' id='comments-block'>
+</dl>
+</div>
+<p class='comment-footer'>
+<div class='comment-form'>
+<a name='comment-form'></a>
+<h4 id='comment-post-message'>Post a Comment</h4>
+<p>
+</p>
+<a href='http://www.blogger.com/comment-iframe.g?blogID=3800455752708311473&postID=232644407719818865' id='comment-editor-src'></a>
+<iframe allowtransparency='true' class='blogger-iframe-colorize blogger-comment-from-post' frameborder='0' height='410' id='comment-editor' name='comment-editor' src='' width='100%'></iframe>
+<script type="text/javascript" src="//www.blogger.com/static/v1/jsbin/2373033623-comment_from_post_iframe.js"></script>
+<script type='text/javascript'>
+      BLOG_CMT_createIframe('http://www.blogger.com/rpc_relay.html', '09364338129385428703');
+    </script>
+</div>
+</p>
+<div id='backlinks-container'>
+<div id='Blog1_backlinks-container'>
+</div>
+</div>
+</div>
+</div>
+
+        </div></div>
+      
+<!-- google_ad_section_end -->
+</div>
+<div class='blog-pager' id='blog-pager'>
+<span id='blog-pager-older-link'>
+<a class='blog-pager-older-link' href='http://rabbistrom.blogspot.com/2013/09/the-scariest-night-erev-yom-kippur-5774.html' id='Blog1_blog-pager-older-link' title='Older Post'>Older Post</a>
+</span>
+<a class='home-link' href='http://rabbistrom.blogspot.com/'>Home</a>
+</div>
+<div class='clear'></div>
+<div class='post-feeds'>
+<div class='feed-links'>
+Subscribe to:
+<a class='feed-link' href='http://rabbistrom.blogspot.com/feeds/232644407719818865/comments/default' target='_blank' type='application/atom+xml'>Post Comments (Atom)</a>
+</div>
+</div>
+<script type="text/javascript">window.___gcfg = {'lang': 'en'};</script>
+</div></div>
+</div>
+</div>
+<div class='column-left-outer'>
+<div class='column-left-inner'>
+<aside>
+</aside>
+</div>
+</div>
+<div class='column-right-outer'>
+<div class='column-right-inner'>
+<aside>
+<div class='sidebar section' id='sidebar-right-1'><div class='widget Profile' id='Profile1'>
+<h2>About Me</h2>
+<div class='widget-content'>
+<a href='http://www.blogger.com/profile/04466585463328084714'><img alt='My Photo' class='profile-img' height='80' src='http://bp1.blogger.com/_ttcqWTUE8ZA/SHV9jX3lPMI/AAAAAAAAAAM/gG7UR7gGUhw/S220/portrait.jpg' width='60'/></a>
+<dl class='profile-datablock'>
+<dt class='profile-data'>
+<a class='profile-name-link g-profile' href='http://www.blogger.com/profile/04466585463328084714' rel='author' style='background-image: url(//www.blogger.com/img/logo-16.png);'>
+JStrom
+</a>
+</dt>
+</dl>
+<a class='profile-link' href='http://www.blogger.com/profile/04466585463328084714' rel='author'>View my complete profile</a>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=3800455752708311473&widgetType=Profile&widgetId=Profile1&action=editWidget&sectionId=sidebar-right-1' onclick='return _WidgetManager._PopupConfig(document.getElementById("Profile1"));' target='configProfile1' title='Edit'>
+<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div>
+</div><div class='widget BlogArchive' id='BlogArchive1'>
+<h2>Blog Archive</h2>
+<div class='widget-content'>
+<div id='ArchiveList'>
+<div id='BlogArchive1_ArchiveList'>
+<ul class='hierarchy'>
+<li class='archivedate expanded'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy toggle-open'>&#9660;&#160;</span>
+</a>
+<a class='post-count-link' href='http://rabbistrom.blogspot.com/search?updated-min=2013-01-01T00:00:00-05:00&amp;updated-max=2014-01-01T00:00:00-05:00&amp;max-results=11'>2013</a>
+<span class='post-count' dir='ltr'>(11)</span>
+<ul class='hierarchy'>
+<li class='archivedate expanded'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy toggle-open'>&#9660;&#160;</span>
+</a>
+<a class='post-count-link' href='http://rabbistrom.blogspot.com/2013_09_01_archive.html'>September</a>
+<span class='post-count' dir='ltr'>(4)</span>
+<ul class='posts'>
+<li><a href='http://rabbistrom.blogspot.com/2013/09/who-are-you-wearing-yom-kippur-5774.html'>Who Are You Wearing? - Yom Kippur 5774</a></li>
+<li><a href='http://rabbistrom.blogspot.com/2013/09/the-scariest-night-erev-yom-kippur-5774.html'>The Scariest Night - Erev Yom Kippur 5774</a></li>
+<li><a href='http://rabbistrom.blogspot.com/2013/09/outdone-rosh-hashanah-5774.html'>Outdone - Rosh HaShanah 5774</a></li>
+<li><a href='http://rabbistrom.blogspot.com/2013/09/rosh-hashanah-5774-good-old-hockey-game.html'>The Good Old Hockey Game - Erev Rosh HaShanah 5774...</a></li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://rabbistrom.blogspot.com/2013_06_01_archive.html'>June</a>
+<span class='post-count' dir='ltr'>(1)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://rabbistrom.blogspot.com/2013_05_01_archive.html'>May</a>
+<span class='post-count' dir='ltr'>(2)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://rabbistrom.blogspot.com/2013_02_01_archive.html'>February</a>
+<span class='post-count' dir='ltr'>(2)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://rabbistrom.blogspot.com/2013_01_01_archive.html'>January</a>
+<span class='post-count' dir='ltr'>(2)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://rabbistrom.blogspot.com/search?updated-min=2012-01-01T00:00:00-05:00&amp;updated-max=2013-01-01T00:00:00-05:00&amp;max-results=6'>2012</a>
+<span class='post-count' dir='ltr'>(6)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://rabbistrom.blogspot.com/2012_11_01_archive.html'>November</a>
+<span class='post-count' dir='ltr'>(2)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://rabbistrom.blogspot.com/2012_06_01_archive.html'>June</a>
+<span class='post-count' dir='ltr'>(1)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://rabbistrom.blogspot.com/2012_02_01_archive.html'>February</a>
+<span class='post-count' dir='ltr'>(2)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://rabbistrom.blogspot.com/2012_01_01_archive.html'>January</a>
+<span class='post-count' dir='ltr'>(1)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://rabbistrom.blogspot.com/search?updated-min=2011-01-01T00:00:00-05:00&amp;updated-max=2012-01-01T00:00:00-05:00&amp;max-results=9'>2011</a>
+<span class='post-count' dir='ltr'>(9)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://rabbistrom.blogspot.com/2011_12_01_archive.html'>December</a>
+<span class='post-count' dir='ltr'>(1)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://rabbistrom.blogspot.com/2011_11_01_archive.html'>November</a>
+<span class='post-count' dir='ltr'>(2)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://rabbistrom.blogspot.com/2011_10_01_archive.html'>October</a>
+<span class='post-count' dir='ltr'>(2)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://rabbistrom.blogspot.com/2011_09_01_archive.html'>September</a>
+<span class='post-count' dir='ltr'>(2)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://rabbistrom.blogspot.com/2011_08_01_archive.html'>August</a>
+<span class='post-count' dir='ltr'>(2)</span>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=3800455752708311473&widgetType=BlogArchive&widgetId=BlogArchive1&action=editWidget&sectionId=sidebar-right-1' onclick='return _WidgetManager._PopupConfig(document.getElementById("BlogArchive1"));' target='configBlogArchive1' title='Edit'>
+<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div>
+</div><div class='widget Subscribe' id='Subscribe1'>
+<div style='white-space:nowrap'>
+<h2 class='title'>Subscribe To "A Rabbi's Thoughts"</h2>
+<div class='widget-content'>
+<div class='subscribe-wrapper subscribe-type-POST'>
+<div class='subscribe expanded subscribe-type-POST' id='SW_READER_LIST_Subscribe1POST' style='display:none;'>
+<div class='top'>
+<span class='inner' onclick='return(_SW_toggleReaderList(event, "Subscribe1POST"));'>
+<img class='subscribe-dropdown-arrow' src='http://img2.blogblog.com/img/widgets/arrow_dropdown.gif'/>
+<img align='absmiddle' alt='' border='0' class='feed-icon' src='http://img1.blogblog.com/img/icon_feed12.png'/>
+Posts
+</span>
+<div class='feed-reader-links'>
+<a class='feed-reader-link' href='http://www.netvibes.com/subscribe.php?url=http%3A%2F%2Frabbistrom.blogspot.com%2Ffeeds%2Fposts%2Fdefault' target='_blank'>
+<img src='http://img1.blogblog.com/img/widgets/subscribe-netvibes.png'/>
+</a>
+<a class='feed-reader-link' href='http://add.my.yahoo.com/content?url=http%3A%2F%2Frabbistrom.blogspot.com%2Ffeeds%2Fposts%2Fdefault' target='_blank'>
+<img src='http://img1.blogblog.com/img/widgets/subscribe-yahoo.png'/>
+</a>
+<a class='feed-reader-link' href='http://rabbistrom.blogspot.com/feeds/posts/default' target='_blank'>
+<img align='absmiddle' class='feed-icon' src='http://img1.blogblog.com/img/icon_feed12.png'/>
+                Atom
+              </a>
+</div>
+</div>
+<div class='bottom'></div>
+</div>
+<div class='subscribe' id='SW_READER_LIST_CLOSED_Subscribe1POST' onclick='return(_SW_toggleReaderList(event, "Subscribe1POST"));'>
+<div class='top'>
+<span class='inner'>
+<img class='subscribe-dropdown-arrow' src='http://img2.blogblog.com/img/widgets/arrow_dropdown.gif'/>
+<span onclick='return(_SW_toggleReaderList(event, "Subscribe1POST"));'>
+<img align='absmiddle' alt='' border='0' class='feed-icon' src='http://img1.blogblog.com/img/icon_feed12.png'/>
+Posts
+</span>
+</span>
+</div>
+<div class='bottom'></div>
+</div>
+</div>
+<div class='subscribe-wrapper subscribe-type-PER_POST'>
+<div class='subscribe expanded subscribe-type-PER_POST' id='SW_READER_LIST_Subscribe1PER_POST' style='display:none;'>
+<div class='top'>
+<span class='inner' onclick='return(_SW_toggleReaderList(event, "Subscribe1PER_POST"));'>
+<img class='subscribe-dropdown-arrow' src='http://img2.blogblog.com/img/widgets/arrow_dropdown.gif'/>
+<img align='absmiddle' alt='' border='0' class='feed-icon' src='http://img1.blogblog.com/img/icon_feed12.png'/>
+Comments
+</span>
+<div class='feed-reader-links'>
+<a class='feed-reader-link' href='http://www.netvibes.com/subscribe.php?url=http%3A%2F%2Frabbistrom.blogspot.com%2Ffeeds%2F232644407719818865%2Fcomments%2Fdefault' target='_blank'>
+<img src='http://img1.blogblog.com/img/widgets/subscribe-netvibes.png'/>
+</a>
+<a class='feed-reader-link' href='http://add.my.yahoo.com/content?url=http%3A%2F%2Frabbistrom.blogspot.com%2Ffeeds%2F232644407719818865%2Fcomments%2Fdefault' target='_blank'>
+<img src='http://img1.blogblog.com/img/widgets/subscribe-yahoo.png'/>
+</a>
+<a class='feed-reader-link' href='http://rabbistrom.blogspot.com/feeds/232644407719818865/comments/default' target='_blank'>
+<img align='absmiddle' class='feed-icon' src='http://img1.blogblog.com/img/icon_feed12.png'/>
+                Atom
+              </a>
+</div>
+</div>
+<div class='bottom'></div>
+</div>
+<div class='subscribe' id='SW_READER_LIST_CLOSED_Subscribe1PER_POST' onclick='return(_SW_toggleReaderList(event, "Subscribe1PER_POST"));'>
+<div class='top'>
+<span class='inner'>
+<img class='subscribe-dropdown-arrow' src='http://img2.blogblog.com/img/widgets/arrow_dropdown.gif'/>
+<span onclick='return(_SW_toggleReaderList(event, "Subscribe1PER_POST"));'>
+<img align='absmiddle' alt='' border='0' class='feed-icon' src='http://img1.blogblog.com/img/icon_feed12.png'/>
+Comments
+</span>
+</span>
+</div>
+<div class='bottom'></div>
+</div>
+</div>
+<div style='clear:both'></div>
+</div>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=3800455752708311473&widgetType=Subscribe&widgetId=Subscribe1&action=editWidget&sectionId=sidebar-right-1' onclick='return _WidgetManager._PopupConfig(document.getElementById("Subscribe1"));' target='configSubscribe1' title='Edit'>
+<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div><div class='widget Followers' id='Followers1'>
+<h2 class='title'>Followers</h2>
+<div class='widget-content'>
+<div id='Followers1-wrapper'>
+<div style='margin-right:2px;'>
+<script type="text/javascript">
+        if (!window.google || !google.friendconnect) {
+          document.write('<script type="text/javascript"' +
+              'src="http://www.google.com/friendconnect/script/friendconnect.js">' +
+              '</scr' + 'ipt>');
+        }
+      </script>
+<script type="text/javascript">
+      if (!window.registeredBloggerCallbacks) {
+        window.registeredBloggerCallbacks = true;
+
+        
+
+        
+        gadgets.rpc.register('requestReload', function() {
+          document.location.reload();
+        });
+
+        
+        gadgets.rpc.register('requestSignOut', function(siteId) {
+          
+          google.friendconnect.container.openSocialSiteId = siteId;
+          google.friendconnect.requestSignOut();
+        });
+      }
+    </script>
+<script type="text/javascript">
+    
+    function registerGetBlogUrls() {
+      gadgets.rpc.register('getBlogUrls', function() {
+        var holder = {};
+        
+          
+            
+            
+              holder.currentPost = "http://www.blogger.com/feeds/3800455752708311473/posts/default/232644407719818865";
+            
+            
+            
+              holder.currentComments = "http://www.blogger.com/feeds/3800455752708311473/232644407719818865/comments/default";
+            
+            holder.currentPostUrl = "";
+            holder.currentPostId = 232644407719818865
+          
+          
+          
+            holder.postFeed = "http://www.blogger.com/feeds/3800455752708311473/posts/default";
+          
+          
+          
+            holder.commentFeed = "http://www.blogger.com/feeds/3800455752708311473/comments/default";
+          
+          holder.currentBlogUrl = "http://rabbistrom.blogspot.com/";
+          holder.currentBlogId = "3800455752708311473";
+        
+        return holder;
+      });
+    }
+  </script>
+<script type="text/javascript">
+  if (!window.registeredCommonBloggerCallbacks) {
+    window.registeredCommonBloggerCallbacks = true;
+
+    gadgets.rpc.register('resize_iframe', function(height) {
+      var el = document.getElementById(this['f']);
+      if (el) {
+        el.style.height = height + 'px';
+      }
+    });
+
+    
+    gadgets.rpc.register('set_pref', function() {});
+
+    registerGetBlogUrls();
+  }
+  </script>
+<div id="div-w37wpz4uzowz" style="width: 100%; "></div>
+<script type="text/javascript">
+    var skin = {};
+    skin['FACE_SIZE'] = '32';
+    skin['HEIGHT'] = "260";
+    skin['TITLE'] = "Followers";
+    skin['BORDER_COLOR'] = "transparent";
+    skin['ENDCAP_BG_COLOR'] = "transparent";
+    skin['ENDCAP_TEXT_COLOR'] = "#333333";
+    skin['ENDCAP_LINK_COLOR'] = "#cc3300";
+    skin['ALTERNATE_BG_COLOR'] = "transparent";
+    
+    skin['CONTENT_BG_COLOR'] = "transparent";
+    skin['CONTENT_LINK_COLOR'] = "#cc3300";
+    skin['CONTENT_TEXT_COLOR'] = "#333333";
+    skin['CONTENT_SECONDARY_LINK_COLOR'] = "#cc3300";
+    skin['CONTENT_SECONDARY_TEXT_COLOR'] = "#777777";
+    skin['CONTENT_HEADLINE_COLOR'] = "#000000";
+    skin['FONT_FACE'] = "normal normal 14px Arial, Tahoma, Helvetica, FreeSans, sans-serif";
+    google.friendconnect.container.setParentUrl("/");
+    google.friendconnect.container["renderMembersGadget"](
+    {id: "div-w37wpz4uzowz",
+     height: 260,
+     
+     
+     
+     site: "09364338129385428703",
+     
+     locale: 'en' },
+     skin);
+  </script>
+</div>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=3800455752708311473&widgetType=Followers&widgetId=Followers1&action=editWidget&sectionId=sidebar-right-1' onclick='return _WidgetManager._PopupConfig(document.getElementById("Followers1"));' target='configFollowers1' title='Edit'>
+<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div>
+</div></div>
+</aside>
+</div>
+</div>
+</div>
+<div style='clear: both'></div>
+<!-- columns -->
+</div>
+<!-- main -->
+</div>
+</div>
+<div class='main-cap-bottom cap-bottom'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+</div>
+<footer>
+<div class='footer-outer'>
+<div class='footer-cap-top cap-top'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+<div class='fauxborder-left footer-fauxborder-left'>
+<div class='fauxborder-right footer-fauxborder-right'></div>
+<div class='region-inner footer-inner'>
+<div class='foot section' id='footer-1'></div>
+<table border='0' cellpadding='0' cellspacing='0' class='section-columns columns-2'>
+<tbody>
+<tr>
+<td class='first columns-cell'>
+<div class='foot section' id='footer-2-1'></div>
+</td>
+<td class='columns-cell'>
+<div class='foot section' id='footer-2-2'></div>
+</td>
+</tr>
+</tbody>
+</table>
+<!-- outside of the include in order to lock Attribution widget -->
+<div class='foot section' id='footer-3'><div class='widget Attribution' id='Attribution1'>
+<div class='widget-content' style='text-align: center;'>
+Watermark template. Powered by <a href='http://www.blogger.com' target='_blank'>Blogger</a>.
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=3800455752708311473&widgetType=Attribution&widgetId=Attribution1&action=editWidget&sectionId=footer-3' onclick='return _WidgetManager._PopupConfig(document.getElementById("Attribution1"));' target='configAttribution1' title='Edit'>
+<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div></div>
+</div>
+</div>
+<div class='footer-cap-bottom cap-bottom'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+</div>
+</footer>
+<!-- content -->
+</div>
+</div>
+<div class='content-cap-bottom cap-bottom'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+</div>
+</div>
+<script type='text/javascript'>
+    window.setTimeout(function() {
+        document.body.className = document.body.className.replace('loading', '');
+      }, 10);
+  </script>
+<script type="text/javascript">
+if (window.jstiming) window.jstiming.load.tick('widgetJsBefore');
+</script><script type="text/javascript" src="//www.blogger.com/static/v1/widgets/2178715077-widgets.js"></script>
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+<script type='text/javascript'>
+if (typeof(BLOG_attachCsiOnload) != 'undefined' && BLOG_attachCsiOnload != null) { window['blogger_templates_experiment_id'] = "templatesV2";window['blogger_blog_id'] = '3800455752708311473';BLOG_attachCsiOnload('item_'); }_WidgetManager._Init('//www.blogger.com/rearrange?blogID\x3d3800455752708311473','//rabbistrom.blogspot.com/2013/09/who-are-you-wearing-yom-kippur-5774.html','3800455752708311473');
+_WidgetManager._SetDataContext([{'name': 'blog', 'data': {'blogId': '3800455752708311473', 'bloggerUrl': 'http://www.blogger.com', 'title': 'A Rabbi\47s Thoughts', 'pageType': 'item', 'url': 'http://rabbistrom.blogspot.com/2013/09/who-are-you-wearing-yom-kippur-5774.html', 'canonicalUrl': 'http://rabbistrom.blogspot.com/2013/09/who-are-you-wearing-yom-kippur-5774.html', 'canonicalHomepageUrl': 'http://rabbistrom.blogspot.com/', 'homepageUrl': 'http://rabbistrom.blogspot.com/', 'blogspotFaviconUrl': 'http://rabbistrom.blogspot.com/favicon.ico', 'enabledCommentProfileImages': true, 'adultContent': false, 'disableAdSenseWidget': false, 'analyticsAccountNumber': '', 'searchLabel': '', 'searchQuery': '', 'pageName': 'Who Are You Wearing? - Yom Kippur 5774', 'pageTitle': 'A Rabbi\47s Thoughts: Who Are You Wearing? - Yom Kippur 5774', 'encoding': 'UTF-8', 'locale': 'en', 'localeUnderscoreDelimited': 'en', 'isPrivate': false, 'isMobile': false, 'isMobileRequest': false, 'mobileClass': '', 'isPrivateBlog': false, 'languageDirection': 'ltr', 'feedLinks': '\74link rel\75\42alternate\42 type\75\42application/atom+xml\42 title\75\42A Rabbi\46#39;s Thoughts - Atom\42 href\75\42http://rabbistrom.blogspot.com/feeds/posts/default\42 /\76\n\74link rel\75\42alternate\42 type\75\42application/rss+xml\42 title\75\42A Rabbi\46#39;s Thoughts - RSS\42 href\75\42http://rabbistrom.blogspot.com/feeds/posts/default?alt\75rss\42 /\76\n\74link rel\75\42service.post\42 type\75\42application/atom+xml\42 title\75\42A Rabbi\46#39;s Thoughts - Atom\42 href\75\42http://www.blogger.com/feeds/3800455752708311473/posts/default\42 /\76\n\n\74link rel\75\42alternate\42 type\75\42application/atom+xml\42 title\75\42A Rabbi\46#39;s Thoughts - Atom\42 href\75\42http://rabbistrom.blogspot.com/feeds/232644407719818865/comments/default\42 /\76\n', 'meTag': '', 'openIdOpTag': '', 'imageSrcTag': '', 'latencyHeadScript': '\74script type\75\42text/javascript\42\76(function() { var b\75window,e\75\42jstiming\42,g\75\42tick\42;(function(){function d(a){this.t\75{};this.tick\75function(a,d,c){c\75void 0!\75c?c:(new Date).getTime();this.t[a]\75[c,d]};this[g](\42start\42,null,a)}var a\75new d;b.jstiming\75{Timer:d,load:a};if(b.performance\46\46b.performance.timing){var a\75b.performance.timing,c\75b[e].load,f\75a.navigationStart,a\75a.responseStart;0\74f\46\46a\76\75f\46\46(c[g](\42_wtsrt\42,void 0,f),c[g](\42wtsrt_\42,\42_wtsrt\42,a),c[g](\42tbsd_\42,\42wtsrt_\42))}try{a\75null,b.chrome\46\46b.chrome.csi\46\46(a\75Math.floor(b.chrome.csi().pageT),c\46\0460\74f\46\46(c[g](\42_tbnd\42,void 0,b.chrome.csi().startE),\nc[g](\42tbnd_\42,\42_tbnd\42,f))),null\75\75a\46\46b.gtbExternal\46\46(a\75b.gtbExternal.pageT()),null\75\75a\46\46b.external\46\46(a\75b.external.pageT,c\46\0460\74f\46\46(c[g](\42_tbnd\42,void 0,b.external.startE),c[g](\42tbnd_\42,\42_tbnd\42,f))),a\46\46(b[e].pt\75a)}catch(l){}})();b.tickAboveFold\75function(d){var a\0750;if(d.offsetParent){do a+\75d.offsetTop;while(d\75d.offsetParent)}d\75a;750\76\75d\46\46b[e].load[g](\42aft\42)};var h\75!1;function k(){h||(h\75!0,b[e].load[g](\42firstScrollTime\42))}b.addEventListener?b.addEventListener(\42scroll\42,k,!1):b.attachEvent(\42onscroll\42,k);\n })();\74/script\076', 'mobileHeadScript': '', 'ieCssRetrofitLinks': '\74!--[if IE]\76\74script type\75\42text/javascript\42 src\75\42//www.blogger.com/static/v1/jsbin/4163410827-ieretrofit.js\42\76\74/script\76\n\74![endif]--\076', 'view': '', 'dynamicViewsCommentsSrc': '//www.blogblog.com/dynamicviews/4224c15c4e7c9321/js/comments.js', 'dynamicViewsScriptSrc': '//www.blogblog.com/dynamicviews/15de8d1bfc9ff1d1', 'plusOneApiSrc': 'https://apis.google.com/js/plusone.js', 'sf': 'n', 'tf': ''}}, {'name': 'skin', 'data': {'vars': {'tabs_border_size': '0', 'tabs_shadow_spread': '0', 'link_visited_color': '#993322', 'post_title_font': 'normal normal 30px Georgia, Utopia, \47Palatino Linotype\47, Palatino, serif', 'tabs_separator_color': '#c0a154', 'tabs_text_color': '#cc3300', 'post_shadow_spread': '0', 'body_background_overlay_height': '121px', 'main_cap_height': '0', 'widget_title_font': 'normal normal 20px Georgia, Utopia, \47Palatino Linotype\47, Palatino, serif', 'body_background_overlay': 'transparent url(//www.blogblog.com/1kt/watermark/body_overlay_birds.png) no-repeat scroll top right', 'tabs_background_outer': 'none', 'keycolor': '#c0a154', 'main_background': 'transparent none no-repeat scroll top left', 'header_font': 'normal normal 60px Georgia, Utopia, \47Palatino Linotype\47, Palatino, serif', 'post_border_style': 'dotted', 'footer_link_visited_color': '#dd5533', 'post_background_url': 'url(//www.blogblog.com/1kt/watermark/post_background_birds.png)', 'footer_link_hover_color': '#ff9977', 'mobile_background_overlay': 'transparent none repeat scroll top left', 'tabs_background_color': 'transparent', 'link_hover_color': '#ff3300', 'footer_link_color': '#ff7755', 'description_text_color': '#997755', 'body_text_color': '#333333', 'post_border_color': '#ccbb99', 'footer_text_color': '#ccbb99', 'post_background_color': 'transparent', 'endSide': 'right', 'post_footer_text_color': '#997755', 'tabs_background_inner': 'none', 'tabs_font': 'normal normal 20px Georgia, Utopia, \47Palatino Linotype\47, Palatino, serif', 'startSide': 'left', 'body_font': 'normal normal 14px Arial, Tahoma, Helvetica, FreeSans, sans-serif', 'main_cap_overlay': 'none', 'date_text_color': '#997755', 'widget_title_text_color': '#000000', 'link_color': '#cc3300', 'footer_widget_title_text_color': '#eeddbb', 'post_border_size': '1px', 'main_cap_image': 'none', 'footer_background_color': '#330000', 'header_text_color': '#ffffff', 'date_font': 'normal normal 16px Arial, Tahoma, Helvetica, FreeSans, sans-serif', 'main_padding_top': '30px', 'tabs_selected_text_color': '#000000', 'body_background_color': '#c0a154', 'widget_alternate_text_color': '#777777'}, 'override': ''}}, {'name': 'view', 'data': {'classic': {'name': 'classic', 'url': '/?view\75classic'}, 'flipcard': {'name': 'flipcard', 'url': '/?view\75flipcard'}, 'magazine': {'name': 'magazine', 'url': '/?view\75magazine'}, 'mosaic': {'name': 'mosaic', 'url': '/?view\75mosaic'}, 'sidebar': {'name': 'sidebar', 'url': '/?view\75sidebar'}, 'snapshot': {'name': 'snapshot', 'url': '/?view\75snapshot'}, 'timeslide': {'name': 'timeslide', 'url': '/?view\75timeslide'}}}]);
+_WidgetManager._RegisterWidget('_ProfileView', new _WidgetInfo('Profile1', 'sidebar-right-1', null, document.getElementById('Profile1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_BlogArchiveView', new _WidgetInfo('BlogArchive1', 'sidebar-right-1', null, document.getElementById('BlogArchive1'), {'languageDirection': 'ltr'}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_SubscribeView', new _WidgetInfo('Subscribe1', 'sidebar-right-1', null, document.getElementById('Subscribe1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_FollowersView', new _WidgetInfo('Followers1', 'sidebar-right-1', null, document.getElementById('Followers1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_AttributionView', new _WidgetInfo('Attribution1', 'footer-3', null, document.getElementById('Attribution1'), {'attribution': 'Watermark template. Powered by \74a href\75\47http://www.blogger.com\47 target\75\47_blank\47\76Blogger\74/a\76.'}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HeaderView', new _WidgetInfo('Header1', 'header', null, document.getElementById('Header1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_NavbarView', new _WidgetInfo('Navbar1', 'navbar', null, document.getElementById('Navbar1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_BlogView', new _WidgetInfo('Blog1', 'main', null, document.getElementById('Blog1'), {'cmtInteractionsEnabled': false, 'lightboxEnabled': true, 'lightboxModuleUrl': '//www.blogger.com/static/v1/jsbin/1769155441-lbx.js', 'lightboxCssUrl': '//www.blogger.com/static/v1/v-css/4138445517-lightbox_bundle.css'}, 'displayModeFull'));
+</script>
+</body>
+</html>

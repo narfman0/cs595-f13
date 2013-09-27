@@ -1,0 +1,1199 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head>
+   <title>On top of the world: Local students travel abroad | The Edge</title>
+
+    <meta property="og:image" content="http://www.roanoke.com/csp/cms/sites/TRT/assets/images/general/TRTSocialIcon.jpg"/>
+		
+    <link href="/css/wrapper.css" type="text/css" rel="stylesheet" />
+	<!--link href="/css/wp_CommBlogs.css" type="text/css" media="screen" rel="stylesheet" /-->
+	<link href="/css/wp_Blogs2.css" type="text/css" media="screen" rel="stylesheet" />
+	<link rel="shortcut icon" href="/images/general/favicon.ico" />
+   
+    <link href='http://fonts.googleapis.com/css?family=Droid+Sans:400,700' rel='stylesheet' type='text/css' />
+	<link href="/wp-content/plugins/tabber-tabs-widget/tabber.css" type="text/css" media="screen" rel="stylesheet" />
+    <script type="text/javascript" src="/js/jquery-1.8.1.min.js"></script>
+    <script type="text/javascript" src="/js/static/staticWrapper.js"></script>
+	<script type="text/javascript" src="/js/plugins/jqueryEasing/jquery.easing.1.3.js"></script>
+
+<!--Script for navigation functions-->
+<script type="text/javascript">
+    var thisSub = "home";
+    jQuery(document).ready(function () {
+        var hideSub;
+        var showSub;
+        var hideHover;
+        var showActive;
+        jQuery('#subnav_' + thisSub).css("display", "block");
+        jQuery('#' + thisSub).addClass("active");
+        var navLi = jQuery('#mainnav li:not(.noSubNav)');
+        navLi.bind("mouseenter", function () {
+            navLi.removeClass("active");
+            jQuery(this).addClass("active");
+            jQuery('.subnav').hide();
+            jQuery('#subnav_' + this.id).show();
+        });
+        jQuery('#nav').add("#sub").bind("mouseleave", function () {
+            hideSub = setTimeout("jQuery('.subnav').hide()", 2000);
+            showSub = setTimeout("jQuery('#subnav_'+thisSub).show()", 2000);
+            hideHover = setTimeout("jQuery('#mainnav li:not(.noSubNav)').removeClass('active')", 2000);
+            showActive = setTimeout("jQuery('#'+thisSub).addClass('active')", 2000);
+        });
+        jQuery('#nav').add("#sub").bind("mouseenter", function () {
+            clearTimeout(hideSub);
+            clearTimeout(showSub);
+            clearTimeout(hideHover);
+            clearTimeout(showActive);
+        });
+    });
+</script>
+
+<!--Google analytics-->
+<script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-34219538-1']);
+    _gaq.push(['_setDomainName', 'roanoke.com']);
+    _gaq.push(['_trackPageview']);
+
+    (function () {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+ 
+</script>
+
+<!--ComScore-->
+    <script type="text/javascript">
+    var _comscore = _comscore || []; _comscore.push({ c1: "2", c2: "6035740", c3: "", c4: "" }); (function () { var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true; s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js"; el.parentNode.insertBefore(s, el); })(); 
+    </script>
+    <noscript> <img src="http://b.scorecardresearch.com/p?c1=2&c2=6035740&c3=&c4=&"/> </noscript> <!--End ComScore-->
+
+<!--OAS AD CODE-->
+<script type="text/javascript">
+<!--
+                OAS_url = 'http://ads.bhmedianetwork.com/RealMedia/ads/';
+                OAS_sitepage = "roanoke.com/blogs" + window.location.pathname;
+		OAS_listpos = "Top,Right1,Position1"; 
+                OAS_query = '';
+                OAS_target = '_top';
+                OAS_version = 11;
+                OAS_rn = new String (Math.random()); OAS_rns = OAS_rn.substring (2, 11);
+                
+                if (navigator.userAgent.indexOf('Mozilla/3') != -1 || navigator.userAgent.indexOf('Mozilla/4.0 WebTV') != -1) {
+                                OAS_version=10;
+                }
+                function OAS_AD( position ) {
+                                var OAS_page= OAS_sitepage + '\/1' + OAS_rns + '@' + OAS_listpos + '!' + position + '?' + OAS_query;
+                                if (OAS_version < 11) {
+                                                document.write ('<a href="' + OAS_url + 'click_nx.ads\/'+ OAS_page + '" target="' + OAS_target +'" ><img src="' + OAS_url + 'adstream_nx.ads/' + OAS_page + '" border="0" alt="Ad" \/></a>');
+                                } else {
+                                                document.write ('<scr' + 'ipt type="text\/javascript" src="' + OAS_url + 'adstream_jx.ads\/' + OAS_page + '"><' + '\/script>');
+                                }
+                }
+
+// -->
+</script>
+ <!--OAS AD CODE END-->
+
+ 	<!-- wp head -->
+
+
+	
+	<style type="text/css">
+		#fancybox-close{:-15px;:-15px}
+						div#fancybox-outer{background-color:}
+			</style>
+
+	<link rel="alternate" type="application/rss+xml" title="The Edge &raquo; On top of the world: Local students travel abroad Comments Feed" href="http://blogs.roanoke.com/theedge/2013/09/24/travel-abroad-summer-2013-patrick-henry-colombia/feed/" />
+<link rel='stylesheet' id='theme-my-login-css'  href='http://blogs.roanoke.com/theedge/wp-content/plugins/theme-my-login/theme-my-login.css?ver=6.3.8' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='http://blogs.roanoke.com/theedge/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=3.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='fancybox-css'  href='http://blogs.roanoke.com/theedge/wp-content/plugins/fancybox-for-wordpress/fancybox/fancybox.css?ver=3.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='theme-my-login-ajax-css'  href='http://blogs.roanoke.com/theedge/wp-content/plugins/theme-my-login/modules/ajax/css/ajax.css?ver=3.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='easy_table_style-css'  href='http://blogs.roanoke.com/theedge/wp-content/plugins/easy-table/themes/default/style.css?ver=1.4' type='text/css' media='all' />
+<script type='text/javascript' src='http://blogs.roanoke.com/theedge/wp-includes/js/jquery/jquery.js?ver=1.10.2'></script>
+<script type='text/javascript' src='http://blogs.roanoke.com/theedge/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://blogs.roanoke.com/theedge/wp-content/plugins/fancybox-for-wordpress/fancybox/jquery.fancybox.js?ver=1.3.4'></script>
+<script type='text/javascript' src='http://ajax.googleapis.com/ajax/libs/swfobject/2.2/swfobject.js?ver=2.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpAjax = {"noPerm":"You do not have permission to do that.","broken":"An unidentified error has occurred."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://blogs.roanoke.com/theedge/wp-includes/js/wp-ajax-response.min.js?ver=3.6.1'></script>
+<script type='text/javascript' src='http://blogs.roanoke.com/theedge/wp-content/plugins/theme-my-login/modules/ajax/js/ajax.js?ver=3.6.1'></script>
+
+<script type="text/javascript" charset="utf-8">
+	(function(){
+		try {
+			// Disabling SWFObject's Autohide feature
+			if (typeof swfobject.switchOffAutoHideShow === "function") {
+				swfobject.switchOffAutoHideShow();
+			}
+		} catch(e) {}
+	})();
+</script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://blogs.roanoke.com/theedge/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://blogs.roanoke.com/theedge/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='On the Edge: Give Ben Affleck a chance' href='http://blogs.roanoke.com/theedge/2013/09/23/on-the-edge-give-ben-affleck-a-chance/' />
+<link rel='next' title='Today on The Edge' href='http://blogs.roanoke.com/theedge/2013/09/25/today-on-the-edge-2/' />
+<meta name="generator" content="WordPress 3.6.1" />
+<link rel='shortlink' href='http://blogs.roanoke.com/theedge/?p=3700' />
+
+<!-- Bad Behavior 2.2.14 run time: 4.860 ms -->
+<script type="text/javascript">
+<!--
+function bb2_addLoadEvent(func) {
+	var oldonload = window.onload;
+	if (typeof window.onload != 'function') {
+		window.onload = func;
+	} else {
+		window.onload = function() {
+			oldonload();
+			func();
+		}
+	}
+}
+
+bb2_addLoadEvent(function() {
+	for ( i=0; i < document.forms.length; i++ ) {
+		if (document.forms[i].method == 'post') {
+			var myElement = document.createElement('input');
+			myElement.setAttribute('type', 'hidden');
+			myElement.name = 'bb2_screener_';
+			myElement.value = '1380239536 70.160.118.168';
+			document.forms[i].appendChild(myElement);
+		}
+	}
+});
+// --></script>
+		
+<!-- Fancybox for WordPress v -->
+<script type="text/javascript">
+jQuery(function(){
+
+jQuery.fn.getTitle = function() { // Copy the title of every IMG tag and add it to its parent A so that fancybox can show titles
+	var arr = jQuery("a.fancybox");
+	jQuery.each(arr, function() {
+		var title = jQuery(this).children("img").attr("title");
+		jQuery(this).attr('title',title);
+	})
+}
+
+// Supported file extensions
+var thumbnails = jQuery("a:has(img)").not(".nolightbox").filter( function() { return /\.(jpe?g|png|gif|bmp)$/i.test(jQuery(this).attr('href')) });
+
+
+jQuery("a.fancybox").fancybox({
+	'cyclic': false,
+	'autoScale': false,
+	'padding': ,
+	'opacity': false,
+	'speedIn': ,
+	'speedOut': ,
+	'changeSpeed': ,
+	'overlayShow': false,
+	'overlayOpacity': "",
+	'overlayColor': "",
+	'titleShow': false,
+	'titlePosition': '',
+	'enableEscapeButton': false,
+	'showCloseButton': false,
+	'showNavArrows': false,
+	'hideOnOverlayClick': false,
+	'hideOnContentClick': false,
+	'width': ,
+	'height': ,
+	'transitionIn': "",
+	'transitionOut': "",
+	'centerOnScroll': false
+});
+
+
+})
+</script>
+<!-- END Fancybox for WordPress -->
+<link rel="stylesheet" href="http://blogs.roanoke.com/theedge/wp-content/plugins/featured-posts/featured-posts.css" type="text/css" media="screen" />        <style type="text/css" media="screen">
+          div.printfriendly {
+            margin: 12px 12px 12px 12px;;
+          }
+          div.printfriendly a, div.printfriendly a:link, div.printfriendly a:visited {
+            text-decoration: none;
+            font-size: 14px;
+            color: #6D9F00;
+            vertical-align: bottom;
+            border: none;
+          }
+
+          .printfriendly a:hover {
+            cursor: pointer;
+          }
+
+          .printfriendly a img  {
+            border: none;
+            padding:0;
+            margin-right: 6px;
+            display:inline-block;
+            box-shadow: none;
+            -webkit-box-shadow: none;
+            -moz-box-shadow: none;
+          }
+          .printfriendly a span{
+            vertical-align: bottom;
+          }
+          .pf-alignleft {
+            float: left;
+          }
+          .pf-alignright {
+            float: right;
+          }
+          div.pf-aligncenter {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            text-align: center;
+          }
+        </style>
+        <style type="text/css" media="print">
+          .printfriendly {
+            display: none;
+          }
+        </style>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");twitterWidgets.onload = _ga.trackTwitter;</script>
+<script type="text/javascript" src="http://blogs.roanoke.com/theedge/wp-includes/js/jquery/jquery.js"></script><script type="text/javascript" src="http://blogs.roanoke.com/theedge/wp-content/plugins/pb-embedflash/js/sbadapter/shadowbox-jquery.js"></script><script type="text/javascript" src="http://blogs.roanoke.com/theedge/wp-content/plugins/pb-embedflash/js/shadowbox.js"></script><script type="text/javascript"><!--
+window.onload = function() {var options ={assetURL:'',loadingImage:'http://blogs.roanoke.com/theedge/wp-content/plugins/pb-embedflash/css/images/loading.gif',flvPlayer:'http://blogs.roanoke.com/theedge/wp-content/plugins/pb-embedflash/swf/mediaplayer.swf',animate:true,animSequence:'wh',overlayColor:'#000',overlayOpacity:0.85,overlayBgImage:'http://blogs.roanoke.com/theedge/wp-content/plugins/pb-embedflash/css/images/overlay-85.png',listenOverlay:true,autoplayMovies:true,showMovieControls:true,resizeDuration:0.35,fadeDuration:0.35,displayNav:true,continuous:false,displayCounter:true,counterType:'default',viewportPadding:20,handleLgImages:'resize',initialHeight:160,initialWidth:320,enableKeys:true,keysClose:['c', 'q', 27],keysPrev:['p', 37],keysNext:['n', 39],handleUnsupported:'',text: {cancel:'Cancel',loading: 'loading',close:'<span class="shortcut">C</span>lose',next:'<span class="shortcut">N</span>ext',prev:'<span class="shortcut">P</span>revious',errors:{single: 'You must install the <a href="{0}">{1}</a> browser plugin to view this content.',shared: 'You must install both the <a href="{0}">{1}</a> and <a href="{2}">{3}</a> browser plugins to view this content.',either: 'You must install either the <a href="{0}">{1}</a> or the <a href="{2}">{3}</a> browser plugin to view this content.'}}};Shadowbox.init(options);}
+--></script><link rel="stylesheet" type="text/css" media="screen" href="http://blogs.roanoke.com/theedge/wp-content/plugins/pb-embedflash/css/shadowbox.css" /><script charset="utf-8" type="text/javascript">var switchTo5x=true;</script><script charset="utf-8" type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher:'f922055f-792d-4bf3-b483-b4abc3a26927'});var st_type='wordpress3.5.2';</script>
+<!-- All in One SEO Pack 2.0.3.1 by Michael Torbert of Semper Fi Web Designob_start_detected [-1,-1] -->
+<meta name="keywords" content="abroad,colombia,high school,patrick henry,patrick henry high school,summer" />
+
+<link rel="canonical" href="http://blogs.roanoke.com/theedge/2013/09/24/travel-abroad-summer-2013-patrick-henry-colombia/" />
+<!-- /all in one seo pack -->
+
+</head>
+
+<body>
+	<!--Div for background image-->
+	<div id="fullContainer"><!--Everything on the page-->
+
+<!--Start Header Navigation-->
+<div id="div-header">
+    <div class="logo">
+        <a href="http://www.roanoke.com/"><img src="/images/general/betaLogo.png" alt="roanoke.com" title="roanoke.com"/></a>
+    </div>
+	<!--User Tools-->
+     <div class="toolsNav">
+			<ul>
+				<li><a href="http://www.roanoke.com/contactus/">Contact us</a>  |  </li>
+		        <li><a href="http://www.roanoke.com/contactus#circ">Customer care</a>  |  </li>
+		        <li><a href="http://www.roanoke.com/subscribe/">Subscribe</a>  |  </li>
+		        <li><a href="http://www.roanoke.com/advertisewithus/">Advertise</a>  |  </li>
+		        <li><a href="http://blogs.roanoke.com/forms/submit-a-news-tip/">Submit news</a>  |  </li>
+		        <li><a href="http://www.roanoke.com/etimes/" target="_blank">Sign in</a></li>
+
+			</ul>
+		</div>	
+    <!--Main Navigation bar-->
+	<div id="nav">
+		<ul id="mainnav">
+				<li id="home"><a href="http://www.roanoke.com/news/">NEWS</a></li>
+				<li id="living"><a href="http://www.roanoke.com/living/">LIVING</a></li>
+				<li id="sports"><a href="http://www.roanoke.com/sports/">SPORTS</a></li>
+				<li id="opinion"><a href="http://www.roanoke.com/opinion/">OPINION</a></li>
+				<li id="multimedia"><a href="http://www.roanoke.com/news/specialprojects/">MULTIMEDIA</a></li>
+				<li id="bestof" class="noSubNav"><a href="http://www.roanoke.com/bestof/">BEST OF</a></li>
+				<li id="jobs" class="classSub"><a href="http://jobs.roanoke.com" target="_blank">JOBS</a></li>
+				<li id="homes" class="classSub"><a href="http://www.swvahomes.com/" target="_blank">HOMES</a></li>
+				<li id="cars" class="noSubNav"><a href="http://cars.roanoke.com" target="_blank">CARS</a></li>
+				<li id="marketplace" class="classSub"><a href="http://classified.roanoke.com " target="_blank">CLASSIFIEDS</a></li>
+				<li id="obituarties" class="classSub"><a href="http://obits.roanoke.com" target="_blank">OBITS</a></li>
+				<div class="clear"></div>
+		</ul>
+
+<!--Social ICONS-->
+<div id="div-socialIcons">
+	<!--Facebook-->
+	<a href="http://www.facebook.com/roanoketimes?fref=ts" target="_blank"><img src="/wp-content/themes/StandardBlogs/SocialIcons/wrapperFacebookIcon.png" alt="roanoke.com on facebook" title="roanoke.com on facebook" /></a>
+	<!--Twitter-->
+	<a href="https://twitter.com/roanoketimes" target="_blank"><img src="/wp-content/themes/StandardBlogs/SocialIcons/wrapperTwitterIcon.png" alt="roanoke.com on twitter" title="roanoke.com on twitter"/></a>
+	<!--Pinterest-->
+	<a href="http://pinterest.com/roanoketimes/" target="_blank"><img src="/wp-content/themes/StandardBlogs/SocialIcons/wrapperPinterestIcon.png" alt="roanoke.com on pinterest" title="roanoke.com on pinterest"/></a>
+	<!--Google Plus-->
+       <a href="https://plus.google.com/117255378443343442123" rel="publisher" target="_blank"> <img src="/wp-content/themes/StandardBlogs/SocialIcons/wrapperGooglePlusIcon.png" alt="google+" title="google+" height="22px"/></a>
+	<!--Youtube-->
+	<a href="http://www.youtube.com/user/theroanoketimes" target="_blank"><img src="/wp-content/themes/StandardBlogs/SocialIcons/wrapperYouTubeIcon.png" alt="roanoke.com on youtube" title="roanoke.com on youtube"/></a>
+	<!--RSS-->
+	<a href="http://www.roanoke.com/rss/" target="_blank"><img src="/wp-content/themes/StandardBlogs/SocialIcons/wrapperRssIcon.png" alt="rss with roanoke.com" title="rss with roanoke.com"/></a>
+</div>	
+
+<!--Search box-->
+<div id="div-topSearch">
+	<form method="post" action="http://search.roanoke.com/search.aspx">
+	<input type="text" name="searchRequest" id="searchBox" value="Search roanoke.com"  onclick="ClearInput('Search roanoke.com', this.id)" onblur="restoreDefaultValue('Search roanoke.com', this.id)"/>
+		<input type="image" src="http://www.roanoke.com/csp/cms/sites/TRT/assets/images/general/searchIcon.png" style="width:20px;height:22px;" id="search-button" value="Go" alt="Search roanoke.com" />
+	</form>
+</div>
+
+</div><!--End Top Navigation Bar-->
+
+		<div class="clear"></div>
+		<div id="sub">
+			<!--News SubMenu-->
+			<ul id="subnav_home" class="subnav" style='display: none;'>
+				<li><a href="http://www.roanoke.com/news/business/">BUSINESS</a></li>
+				<li><a href="http://www.roanoke.com/news/politics/">POLITICS</a></li>
+				<li><a href="http://www.roanoke.com/news/dancasey/">CASEY</a></li>
+				<li><a href="http://blogs.roanoke.com/storefront/">STOREFRONT</a></li>
+				<li><a href="http://www.roanoke.com/news/education/">EDUCATION</a></li>
+				<li><a href="http://blogs.roanoke.com/theburgs/">NRV BURGS</a></li>
+				<li><a href="http://blogs.roanoke.com/swoco/">SWOCO</a></li>
+				<li><a href="http://blogs.roanoke.com/sosalem/">SOSALEM</a></li>
+				<li><a href="http://blogs.roanoke.com/botetourtview/">BOTETOURT VIEW</a></li>
+				<li><a href="http://www.roanoke.com/lakerweekly">LAKER WEEKLY</a></li>
+				<li><a href="http://www.roanoke.com/blogs/">BLOGS</a></li>
+				<li><a href="http://www.roanoke.com/news/specialprojects/">SPECIAL PROJECTS</a></li>
+				<li class="specialLink"><a href="http://blogs.roanoke.com/forms/submit-a-news-tip/">SEND A TIP</a></li>
+					<div class="clear"></div>
+			</ul>
+			<!--Living SubMenu-->
+			<ul id="subnav_living" class="subnav"  style='display: none;'>
+				<li><a href="http://calendar.roanoke.com">CALENDAR</a></li>
+				<li><a href="http://www.roanoke.com/living/cornershot/">CORNERSHOT</a></li>
+				<li><a href="http://www.roanoke.com/living/food/">FOOD</a></li>
+				<li><a href="http://www.roanoke.com/living/music/">MUSIC</a></li>
+				<li><a href="http://www.roanoke.com/living/arts/">ARTS</a></li>
+				<li><a href="http://www.roanoke.com/living/shopping/">SHOPPING</a></li>
+				<li><a href="http://www.roanoke.com/living/homegarden/">GARDEN</a></li>
+				<li><a href="http://www.roanoke.com/living/family/">FAMILY</a></li>
+				<li><a href="http://www.roanoke.com/living/health/">HEALTH</a></li>
+				<li><a href="http://pets.roanoke.com">PETS</a></li>
+				<li><a href="http://www.roanoke.com/living/travel/">TRAVEL</a></li>
+				<li><a href="http://www.roanoke.com/living/books/">BOOKS</a></li>
+				<li><a href="http://affiliate.zap2it.com/movies/mvhome.do?aid=roanoke31t">MOVIES</a></li>
+				<li><a href="http://www.roanoke.com/living/tv/">TV</a></li>
+				<li><a href="http://www.roanoke.com/living/comics/">COMICS</a></li>
+				<li><a href="http://www.roanoke.com/living/puzzles/">PUZZLES</a></li>
+				<li><a href="http://www.roanoke.com/living/horoscope/">HOROSCOPES</a></li>
+                <li><a href="http://blogs.roanoke.com/theedge/">THE EDGE</a></li>
+
+                <li><a href="http://celebrations.roanoke.com" target="_blank">CELEBRATIONS</a></li>
+				
+					<div class="clear"></div>
+			</ul>
+			
+			<!--Sports SubMenu-->
+			<ul id="subnav_sports" class="subnav"  style='display: none;'>
+				<li><a href="http://www.roanoke.com/sports/highschools/">HIGH SCHOOLS</a></li>
+				<li><a href="http://www.roanoke.com/sports/virginiatech/">VIRGINIA TECH</a></li>
+				<li><a href="http://www.roanoke.com/sports/uva/">VIRGINIA</a></li>
+				<li><a href="http://www.roanoke.com/sports/colleges/">COLLEGE</a></li>
+				<li><a href="http://blogs.roanoke.com/andybittervirginiatechfootball/">BITTER</a></li>
+				<li><a href="http://blogs.roanoke.com/insiders/">DOUGHTY</a></li>
+				<li><a href="http://blogs.roanoke.com/aaronmcfarling/">MCFARLING</a></li>
+				<li><a href="http://www.roanoke.com/outdoors/">OUTDOORS</a></li>
+				<li><a href="http://www.roanoke.com/sports/baseball/">RED SOX</a></li>
+				<li><a href="http://www.roanoke.com/sports/golf/">GOLF</a></li>
+				<li><a href="http://www.roanoke.com/sports/racing/">NASCAR</a></li>
+				<li><a href="http://www.roanoke.com/blogs/#sports/">BLOGS</a></li>
+				<li class="specialLink"><a href="http://blogs.roanoke.com/forms/submit-a-news-tip/">SEND A TIP</a></li>
+					<div class="clear"></div>
+			</ul>
+			
+			<!--Opinion SubMenu-->
+			<ul id="subnav_opinion" class="subnav"  style='display: none;'>
+				<li><a href="http://www.roanoke.com/opinion/letters/">LETTERS</a></li>
+				<li><a href="http://www.roanoke.com/opinion/editorial/">EDITORIAL</a></li>
+				<li><a href="http://www.roanoke.com/opinion/pointcounterpoint/">POINT/COUNTERPOINT</a></li>
+				<li><a href="http://www.roanoke.com/opinion/commentary/">COMMENTARY</a></li>
+				<li><a href="http://www.roanoke.com/opinion/columnists/">COLUMNISTS</a></li>
+				<li><a href="http://blogs.roanoke.com/roundtable/">ROUND TABLE</a></li>
+				<li class="specialLink"><a href="http://blogs.roanoke.com/forms/submit-a-letter-to-the-editor/">SUBMIT A LETTER</a></li>
+					<div class="clear"></div>
+			</ul>
+				
+			<!--multimedia SubMenu-->
+			<ul id="subnav_multimedia" class="subnav"  style='display: none;'>
+				<li><a href="http://www.roanoke.com/multimedia/photo/">PHOTO</a></li>
+				<li><a href="http://www.roanoke.com/multimedia/video/">VIDEO</a></li>
+				<li><a href="http://www.roanoke.com/specialprojects/">SPECIAL PROJECTS</a></li>
+				<li><a href="http://roanoke.mycapture.com/mycapture/category.asp?CategoryID=74797" target="_blank">PAPARAZZI</a></li>
+				<li><a href="http://blogs.roanoke.com/vignette/">VIGNETTE BLOG</a></li>	
+                <li class="specialLink"><a href="http://blogs.roanoke.com/forms/submit-a-photo/">SUBMIT A PHOTO</a></li>
+				<li class="specialLink"><a href="http://roanoke.mycapture.com/mycapture/index.asp" target="_blank">BUY A PHOTO</a></li>
+					<div class="clear"></div>
+			</ul>
+            <!--Sub menu for classifieds-->
+            <div id="classifiedSubMenu">
+                <!--JOBS sub menu-->
+                <ul id="subnav_jobs" class="subnav" style='display: none;'>
+                    <li class="noLink">INSIDE JOBS:</li>
+                    <li><a href="http://jobs.roanoke.com" target="_blank">FIND A JOB</a></li>
+                    <li><a href="http://careers.roanoke.com/CandidateNet/register/step1/" target="_blank">CREATE ACCOUNT</a></li>
+                    <li class="noLink">EMPLOYERS:</li>
+                    <li><a href="http://careers.roanoke.com/AdminNET/Employer/Marketing/2353" target="_blank">POST A JOB</a></li>
+                </ul>
+                <!--HOMES sub menu-->
+                <ul id="subnav_homes" class="subnav" style='display: none;'>
+                    <li class="noLink">INSIDE HOMES:</li>
+                    <li><a href="http://www.swvahomes.com" target="_blank">HOMES</a></li>
+                    <li><a href="http://rent.roanoke.com" target="_blank">RENTALS</a></li>
+                    <li><a href="http://www.swvahomes.com/?style=oh" target="_blank">OPEN HOUSES</a></li>
+                </ul>
+                <!--CLASSIFIEDS sub menu-->
+                <ul id="subnav_marketplace" class="subnav" style='display: none;'>
+                    <li class="noLink">INSIDE CLASSIFIEDS:</li>
+                    <li><a href="http://classified.roanoke.com/" target="_blank">CLASSIFIEDS</a></li>
+                    <li><a href="http://notices.roanoke.com" target="_blank">NOTICES</a></li>
+                    <li><a href="http://marketplace.roanoke.com" target="_blank">MARKETPLACE</a></li>
+                    <li><a href="http://celebrations.roanoke.com" target="_blank">CELEBRATIONS</a></li>
+                    <li><a href="http://pets.roanoke.com" target="_blank">PETS</a></li>
+                    <li><a href="http://marketplace.roanoke.com/roanoke-m/yard-sales/search" target="_blank">YARD SALES</a></li>
+                    <li><a href="http://yardsales.roanoke.com" target="_blank">YARD SALE MAP</a></li>
+                    <li><a href="http://roanoke.adperfect.com/" target ="_blank">PLACE AN AD</a></li>
+                </ul>
+                <!--CLASSIFIEDS sub menu-->
+                <ul id="subnav_obituarties" class="subnav" style='display: none;'>
+                    <li class="noLink">INSIDE OBITS:</li>
+                    <li><a href="http://obituaries.roanoke.com" target="_blank">OBITUARIES</a></li>
+                    <li><a href="http://www.legacy.com/obituaries/roanoke/obituary-browse.aspx?recentdate=0&type=9" target="_blank">MEMORIAMS</a></li>
+                </ul>
+            </div><!--End Classifieds sub menus-->
+		</div><!--End Main Nav Bar-->      
+
+<!--Breaking News - Top Leaderboard-->
+<div class="headerBottom">
+	<div class="breakingNewsBox">
+		<img src="/images/general/breakingNewsBox.png" />
+		<h3>Check It Out</h3><p><p>What are your favorite local places for shopping, pampering or entertaining? <a href="http://roanoke.secondstreetapp.com/Best-Of-Holiday-Shopping-2013/" target="_blank">Vote now</a> in this year&#8217;s <a href="http://www.roanoke.com/bestof/" target="_blank">Best Of Holiday Shopping</a> readers&#8217; choice poll.</p>
+</p>		<!--Still need to add breaking news js-->
+	</div>
+	<div class="topLeaderAd">
+		<div id="top">
+                <!------ OAS AD 'Top' begin ------>  
+	<SCRIPT LANGUAGE=JavaScript>  
+	<!--  
+         OAS_AD('Top');  
+		//-->  
+	</SCRIPT>  
+	<!------ OAS AD 'Top' end ------>
+            </div>
+        </div>
+	
+</div>
+    </div> <!--End Header--> 
+	<div class="clear"></div>
+
+<!--Start middle content-->
+    <div id="blog_pageContainer">
+<div class="blog">
+
+<!--Banner Logo-->
+
+    <div id="blog-banner">
+      <a href="http://blogs.roanoke.com/theedge"><img src="/images/banners/The Edge.jpg" border="0"></a>      </div>
+
+
+<div class="contents_body">
+	<div class="content-nav">
+		<div id="nextPost"><a href="http://blogs.roanoke.com/theedge/2013/09/25/today-on-the-edge-2/" rel="next">Next <span class="meta-nav">&raquo;</span></a></div>
+		<div id="prevPost"><a href="http://blogs.roanoke.com/theedge/2013/09/23/on-the-edge-give-ben-affleck-a-chance/" rel="prev"><span class="meta-nav">&laquo;</span> Previous</a></div>	
+		<div class="clear"></div>
+	</div>
+</div>
+<div class="entry" id="post3700">
+   <h3 class="entry-header"><a href="http://blogs.roanoke.com/theedge/2013/09/24/travel-abroad-summer-2013-patrick-henry-colombia/">On top of the world: Local students travel abroad</a></h3>        <div class="contents_body">
+        <div class="entry-body">
+            <p><a href="http://blogs.roanoke.com/theedge/files/2013/09/edgeglobe0925.jpg"><img class="alignleft size-medium wp-image-3774" alt="edgeglobe0925" src="http://blogs.roanoke.com/theedge/files/2013/09/edgeglobe0925-300x300.jpg" width="300" height="300" /></a>Several schools in the Roanoke area participated in international trips over the past six months. The various benefits of school-sponsored travel-abroad trips include language acquisition, the cultural perspective gained, or simply great experiences.</p>
+<p>Grace Casola, a first year at University of Virginia and a participant in the Patrick Henry-Colombia exchange said, &#8220;I think it is important to take advantage of your teenage years to travel while your mind is still relatively open to new things. School sponsored travel abroad is a great way to extend your horizons in not only a geographical way, but also a mental way (many of the trips have educational components that are unparalleled in solo travel).&#8221;</p>
+<p>In addition to Patrick Henry&#8217;s exchange with Colombia, other local students spent time in Paris, London, Spain and Scotland.</p>
+<p><strong>Patrick Henry-Colombia exchange</strong><br />
+<strong>By: Ciara Mulcahy and Patrick Elder, Patrick Henry High School</strong></p>
+<p>In June a group of nine Patrick Henry High School students spent three weeks with host families in Colombia, South America. These Colombian hosts weren&#8217;t strangers to the Patrick Henry exchange students as they had spent three weeks attending Patrick Henry in February. Alec Paget, a freshman at University of Virginia and Patrick Henry graduate, commented on the Colombian students’ impressions of Roanoke.</p>
+<p>He said, “They seemed extremely impressed and surprised by many things about the United States, especially how large our high school is and the amount of traveling we do by car in general.”</p>
+<p>Joe Jamison, a current senior at Patrick Henry High school, elaborated. Jamison said, “The Colombians seemed shocked that we lived in isolated houses, with our own yards. In Colombia, the city of Chinchina that we stayed in had a population of about 90,000 people, just less than that of Roanoke, but the area it encompassed was much, much smaller.”</p>
+<p>This cultural opportunity was organized by Senora Beatriz Ponton, a native Colombian and Spanish teacher at Patrick Henry. A great experience seems to have been had by all.</p>
+<p>Padget said, “We were basically immersed in the culture of Colombia for three weeks, which included eating a lot of tasty Colombian food, going to various cities, and dancing salsa and bachata, just to name a few experiences.”</p>
+<p>The students have remained mindful of their time spent in Colombia, as evident in their Facebook wallpapers and profile pictures.</p>
+<p>Jamison added, “I have maintained almost a constant conversation over Facebook with my host, Sebastian, since I got back to America, as well as shorter conversations with other Colombians.”</p>
+<p><object width="400" height="300"> <param name="flashvars" value="offsite=true&lang=en-us&page_show_url=%2Fphotos%2F99941179%40N04%2Fsets%2F72157635571319835%2Fshow%2Fwith%2F9736622119%2F&page_show_back_url=%2Fphotos%2F99941179%40N04%2Fsets%2F72157635571319835%2Fwith%2F9736622119%2F&set_id=72157635571319835&jump_to=9736622119"></param> <param name="movie" value="http://www.flickr.com/apps/slideshow/show.swf?v=124984"></param> <param name="allowFullScreen" value="true"></param><embed type="application/x-shockwave-flash" src="http://www.flickr.com/apps/slideshow/show.swf?v=124984" allowFullScreen="true" flashvars="offsite=true&lang=en-us&page_show_url=%2Fphotos%2F99941179%40N04%2Fsets%2F72157635571319835%2Fshow%2Fwith%2F9736622119%2F&page_show_back_url=%2Fphotos%2F99941179%40N04%2Fsets%2F72157635571319835%2Fwith%2F9736622119%2F&set_id=72157635571319835&jump_to=9736622119" width="400" height="300"></embed></object></p>
+<p><strong>Lord Botetourt students travel to Paris and London</strong><br />
+<strong>By: Kelsie Graybill, Lord Botetourt High School</strong></p>
+<p>This past April Lord Botetourt High School students traveled to Paris and London. Lynne Bolton, a history teacher at the school, was the trip leader. Bolton explained that the group met with a tour guide that showed them many the fun and educational parts of the cities. The group learned history, went sight-seeing, and had a blast together.</p>
+<p>Bolton and student Rachel Overbay agreed that one of the best parts of the trip was experiencing different cultures.</p>
+<p>When Bolton was asked what her favorite part was she responded, “From the time we arrived to the time we left.”</p>
+<p>She said that she firmly believes that everyone should visit other lands to experience other cultures if they have the chance.</p>
+<p>Another trip is planned this June to Italy.</p>
+<p><object width="400" height="300"> <param name="flashvars" value="offsite=true&lang=en-us&page_show_url=%2Fphotos%2F99941179%40N04%2Fsets%2F72157635670293526%2Fshow%2Fwith%2F9791740936%2F&page_show_back_url=%2Fphotos%2F99941179%40N04%2Fsets%2F72157635670293526%2Fwith%2F9791740936%2F&set_id=72157635670293526&jump_to=9791740936"></param> <param name="movie" value="http://www.flickr.com/apps/slideshow/show.swf?v=124984"></param> <param name="allowFullScreen" value="true"></param><embed type="application/x-shockwave-flash" src="http://www.flickr.com/apps/slideshow/show.swf?v=124984" allowFullScreen="true" flashvars="offsite=true&lang=en-us&page_show_url=%2Fphotos%2F99941179%40N04%2Fsets%2F72157635670293526%2Fshow%2Fwith%2F9791740936%2F&page_show_back_url=%2Fphotos%2F99941179%40N04%2Fsets%2F72157635670293526%2Fwith%2F9791740936%2F&set_id=72157635670293526&jump_to=9791740936" width="400" height="300"></embed></object></p>
+<p><strong>Cave Spring student spends summer abroad</strong><br />
+<strong>By: Roshni Lalchandani, Cave Spring High School</strong></p>
+<p align="LEFT">Many students around the valley traveled to new and exciting places over the summer, and Cave Spring High School junior Sarah Clark had adventures she was glad to share. From Paris, France to London, England to Edinburgh, Scotland, Clark’s summer was definitely one to remember.</p>
+<p align="LEFT">Clark began 21 days of travel in July with Education First Tours. After 11 days Clark’s mother, Bonnie, was able to join Sarah and they revisited some of the same cities.</p>
+<p align="LEFT">After visiting London with her choir on a previous trip, Clark knew she definitely wanted to go back. Paris was on the list after she studied French for three years in school.</p>
+<p align="LEFT">&#8220;Traveling abroad is absolutely incredible, and everyone should be able to experience it at least once in their lifetime,&#8221; she said.</p>
+<p><strong>North Cross students travel to Spain</strong><br />
+<strong>By: Blair Thurman and Mehreen Imam, North Cross School</strong></p>
+<p>Most students’ summers are spent working or traveling with family, but for some students from North Cross School the summer was filled with a two-week trip to Spain. The trip was sponsored by North Cross’ Global Studies Program and was a immersion trip for the students. The students stayed for a one week in Ronda, then traveled to the eastern coast of Spain. They also visited Granada, Aguilas, San Pedro, Madrid, Albacete and Cartagena.</p>
+<p>While in Spain, the students stayed with host families.  Ann Ickes, a senior at North Cross, commented that during when the students were not in school the host families would take them around Spain, walk around the town, and go to the homes of friends and family.</p>
+<p>“I really do miss them. We were always laughing and it has given me memories and stories that I will never forget,” said Ickes.</p>
+<div class="printfriendly pf-alignleft"><a href="http://www.printfriendly.com/print?url=http://blogs.roanoke.com/theedge/2013/09/24/travel-abroad-summer-2013-patrick-henry-colombia/" rel="nofollow" onclick="window.print(); return false;"><img style="border:none;-webkit-box-shadow:none; box-shadow:none;" src="http://cdn.printfriendly.com/pf-button.gif" alt="Print Friendly" /></a></div>                    </div>
+		   <div class="entry-footer-single">
+
+
+				<div class="postInfo">
+					<div class="socialIcons"><span class='st_facebook_large' st_title='On top of the world: Local students travel abroad' st_url='http://blogs.roanoke.com/theedge/2013/09/24/travel-abroad-summer-2013-patrick-henry-colombia/' displayText='facebook'></span><span class='st_twitter_large' st_title='On top of the world: Local students travel abroad' st_url='http://blogs.roanoke.com/theedge/2013/09/24/travel-abroad-summer-2013-patrick-henry-colombia/' displayText='twitter'></span><span class='st_plusone_large' st_title='On top of the world: Local students travel abroad' st_url='http://blogs.roanoke.com/theedge/2013/09/24/travel-abroad-summer-2013-patrick-henry-colombia/' displayText='plusone'></span><span class='st_pinterest_large' st_title='On top of the world: Local students travel abroad' st_url='http://blogs.roanoke.com/theedge/2013/09/24/travel-abroad-summer-2013-patrick-henry-colombia/' displayText='pinterest'></span><span class='st_linkedin_large' st_title='On top of the world: Local students travel abroad' st_url='http://blogs.roanoke.com/theedge/2013/09/24/travel-abroad-summer-2013-patrick-henry-colombia/' displayText='linkedin'></span><span class='st_sharethis_large' st_title='On top of the world: Local students travel abroad' st_url='http://blogs.roanoke.com/theedge/2013/09/24/travel-abroad-summer-2013-patrick-henry-colombia/' displayText='sharethis'></span><span class='st_email_large' st_title='On top of the world: Local students travel abroad' st_url='http://blogs.roanoke.com/theedge/2013/09/24/travel-abroad-summer-2013-patrick-henry-colombia/' displayText='email'></span></div>
+					<span class="authorName"> </span><br />
+					September 24, 2013 - 
+					8:00 AM				</div>
+				<div class="clear"></div>
+			</div>
+       </div>
+    </div>
+<div class="contents_body">
+
+<script type="text/javascript">
+var commentArr = new Array();
+var counter = 0;
+</script>
+
+	
+<div id="comments">
+
+
+	<h2 id="comments-title">
+		<span>Start the conversation</span>
+		<div class="clear"></div>
+	</h2>
+	<p id="commentLinks">
+		<a href="http://www.roanoke.com/privacypolicy#subRules">View our commenting policy and standards</a> | <a href="http://www.roanoke.com/commentingfaqs">Commenting FAQ</a> | <a href="http://blogs.roanoke.com/forms/tell-us-about-a-problem-with-the-website/">Report a problem</a>
+	</p>
+	<div class="clear"></div>
+	
+	
+		
+		<script type="text/javascript">
+			var loggedIn = 0;
+		</script>
+		<div id="commentErrorContainer">
+			Error submitting comment
+			<p id="noName">Name is required</p>
+			<p id="noEmail">A valid email is required (test@test.com)</p>
+			<p id="noComment">Comment is required</p>
+		</div>
+	
+										<div id="respond" class="comment-respond">
+				<h3 id="reply-title" class="comment-reply-title"><span id="addComment">Add a comment</span><p>Your email address will not be published.<br /><span>All fields are required to comment.</span></p> <small><a rel="nofollow" id="cancel-comment-reply-link" href="/theedge/2013/09/24/travel-abroad-summer-2013-patrick-henry-colombia/#respond" style="display:none;">Cancel reply</a></small></h3>
+									<form action="http://blogs.roanoke.com/theedge/wp-comments-post.php" method="post" id="commentform" class="comment-form">
+																			<div id="processing">processing</div>							<p class="comment-form-author"><label for="author">Name:</label> <input id="author" name="author" type="text" value="" size="30" aria-required='true' /></p>
+<p class="comment-form-email"><label for="email">Email:</label> <input id="email" name="email" type="text" value="" size="30" aria-required='true' /></p>
+
+												<p class="comment-form-comment"><label for="comment">Comment:</label><textarea id="comment" name="5613d-comment" cols="45" rows="8" aria-required="true"></textarea><textarea name="comment" style="display:none" rows="1" cols="1"></textarea></p>						<p class="form-submit-stories"><input name="submit" type="image" src="http://blogs.roanoke.com/images/general/submitComment_btn.png" id="submit" value="Post Comment" /></p>						<p class="form-submit">
+							<input name="submit" type="submit" id="submit" value="" />
+							<input type='hidden' name='comment_post_ID' value='3700' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+						</p>
+											</form>
+							</div><!-- #respond -->
+								
+		
+</div>
+
+<script type="text/javascript">
+
+	function commentRefresh() {
+		var pageURL = window.location.href;
+		jQuery.ajax({
+			url: pageURL,
+			type: "Get",
+			cache: false,
+			error: function(jqXHR, textStatus, errorThrown) {
+				alert("Error: " + errorThrown);
+			},
+			success: function(data) {
+				//alert(jQuery(data).find(".blog").clone().html());
+	//					var dataReplace = jQuery(data).find(".blog").clone().html().replace('<img src="/images/TimesSquareHd.jpg" alt="Times Square" border="0">', '');
+				var comments = jQuery(data).find("#comments").clone().html();
+				jQuery("#comments").fadeOut().html(comments).fadeIn("slow", function() {
+					if (newComment == 1) {
+						addComment();
+						newComment = 0;
+					}
+				});
+							
+				var commentform = jQuery('#commentform'); // find the comment form
+				var respond = jQuery("#respond");
+				respond.prepend('<div id="comment-status" ></div>'); // add info panel before the form to provide feedback or errors
+				var statusdiv = jQuery('#comment-status'); // define the infopanel
+
+				var errorBox = jQuery("#commentErrorContainer");
+				var commentErrors = errorBox.find("p");
+				var commentInputs = commentform.find("input[aria-required], textarea[aria-required]");
+				if (loggedIn == 1) {
+					jQuery("form#commentform").prepend("<div id='processingLoggedIn'>processing</div>");
+				}
+
+				commentInputs.eq(0).blur(function() {
+					if (jQuery(this).val() != "") {
+						jQuery(this).css({"border-color":"lightgray","background-color":"#fff"});
+						commentErrors.eq(0).hide();
+						if (loggedIn == 0) {
+							if (commentErrors.eq(0).is(":hidden") && commentErrors.eq(1).is(":hidden") && commentErrors.eq(2).is(":hidden")) {
+								errorBox.hide();
+							}
+						} else {
+							if (commentErrors.eq(0).is(":hidden")) {
+								errorBox.hide();
+							}
+						}
+					}
+				});
+
+				if (loggedIn == 0) {
+					commentInputs.eq(1).blur(function() {
+						if (validateEmail(jQuery(this)) == 1) {
+							jQuery(this).css({"border-color":"lightgray","background-color":"#fff"});
+							commentErrors.eq(1).hide();
+							if (commentErrors.eq(0).is(":hidden") && commentErrors.eq(1).is(":hidden") && commentErrors.eq(2).is(":hidden")) {
+								errorBox.hide();
+							}
+						}
+					});
+
+					commentInputs.eq(2).blur(function() {
+						if (jQuery(this).val() != "") {
+							jQuery(this).css({"border-color":"lightgray","background-color":"#fff"});
+							commentErrors.eq(2).hide();
+							if (commentErrors.eq(0).is(":hidden") && commentErrors.eq(1).is(":hidden") && commentErrors.eq(2).is(":hidden")) {
+								errorBox.hide();
+							}
+						}
+					});
+				}
+
+				commentform.submit(function(){
+					if (loggedIn == 0) {
+						var numErrors = 3;
+						commentInputs.each(function(i) {
+							if (validateEmail(jQuery(this)) == 0 && i == 1) {
+								jQuery(this).css({"border-color":"red","background-color":"#ffdfdf"});
+								errorBox.show();
+								commentErrors.eq(i).show();
+							} else if (jQuery(this).val() == "") {
+								jQuery(this).css({"border-color":"red","background-color":"#ffdfdf"});
+								errorBox.show();
+								commentErrors.eq(i).show();
+							} else {
+								numErrors--;
+							}
+						});
+					} else {
+						var numErrors = 1;
+						commentInputs.each(function(i) {
+							if (jQuery(this).val() == "") {
+								jQuery(this).css({"border-color":"red","background-color":"#ffdfdf"});
+								errorBox.show();
+								commentErrors.eq(i).show();
+							} else {
+								numErrors--;
+							}
+						});
+					}
+					
+					if (numErrors == 0) {
+						if (loggedIn == 0) {
+							jQuery("#processing").fadeIn("slow");
+						} else {
+							jQuery("#processingLoggedIn").fadeIn("slow");
+						}
+						//serialize and store form data in a variable
+						var formdata=commentform.serialize();
+						//Extract action URL from commentform
+						var formurl = "http://blogs.roanoke.com/theedge/wp-comments-post.php";
+						//Post Form with data
+						$.ajax({
+							type: 'post',
+							url: formurl,
+							data: formdata,
+							error: function(jqXHR, exception) {
+								if (jqXHR.status === 0) {
+									console.log('Not connect.\n Verify Network.');
+								} else if (jqXHR.status == 403) {
+									jQuery("#processing").after("<div id='ajaxError'>It appears you are too fast.<br />Please wait a few seconds and you will be able to re-submit your comment.</div>");
+									jQuery("#processing").fadeOut("slow", function() {
+										jQuery("#ajaxError").delay(8000).fadeOut("slow");
+									});
+								} else if (jqXHR.status == 404) {
+									console.log('Requested page not found. [404]');
+								} else if (jqXHR.status == 500) {
+									if (loggedIn == 0) {
+										jQuery("#processing").after("<div id='ajaxError'>Error: It appears you may have tried submitting a duplicate comment.<br />Please check your comment and try again.</div>");
+										jQuery("#processing").fadeOut("slow", function() {
+											jQuery("#ajaxError").delay(5000).fadeOut("slow");
+										});
+									} else {
+										jQuery("#processingLoggedIn").after("<div id='ajaxErrorLoggedIn'>Error: It appears you may have tried submitting a duplicate comment.<br />Please check your comment and try again.</div>");
+										jQuery("#processingLoggedIn").fadeOut("slow", function() {
+											jQuery("#ajaxErrorLoggedIn").delay(5000).fadeOut("slow");
+										});
+									}
+								} else if (exception === 'parsererror') {
+									console.log('Requested JSON parse failed.');
+								} else if (exception === 'timeout') {
+									console.log('Time out error.');
+								} else if (exception === 'abort') {
+									console.log('Ajax request aborted.');
+								} else {
+									console.log('Uncaught Error.\n' + jqXHR.responseText);
+								}
+							},
+							success: function(data, textStatus){
+								if(textStatus=="success") {
+									//statusdiv.html('<p class="ajax-success" >Thanks for your comment. We appreciate your response.</p>');
+									newComment = 1;
+									commentRefresh();
+								} else {
+									alert("moderated?");
+									//statusdiv.html('<p class="ajax-error" >Please wait a while before posting your next comment</p>');
+									//commentform.find('textarea[name=comment]').val('');
+								}
+							}
+						});
+						return false;
+					} else {
+						return false;
+					}
+				});
+			}
+		});
+	}
+	
+	var commentform = jQuery('#commentform'); // find the comment form
+	var respond = jQuery("#respond");
+	respond.prepend('<div id="comment-status" ></div>'); // add info panel before the form to provide feedback or errors
+	var statusdiv = jQuery('#comment-status'); // define the infopanel
+
+	var errorBox = jQuery("#commentErrorContainer");
+	var commentErrors = errorBox.find("p");
+	var commentInputs = commentform.find("input[aria-required], textarea[aria-required]");
+	if (loggedIn == 1) {
+		jQuery("form#commentform").prepend("<div id='processingLoggedIn'>processing</div>");
+	}
+
+	commentInputs.eq(0).blur(function() {
+		if (jQuery(this).val() != "") {
+			jQuery(this).css({"border-color":"lightgray","background-color":"#fff"});
+			commentErrors.eq(0).hide();
+			if (loggedIn == 0) {
+				if (commentErrors.eq(0).is(":hidden") && commentErrors.eq(1).is(":hidden") && commentErrors.eq(2).is(":hidden")) {
+					errorBox.hide();
+				}
+			} else {
+				if (commentErrors.eq(0).is(":hidden")) {
+					errorBox.hide();
+				}
+			}
+		}
+	});
+
+	if (loggedIn == 0) {
+		commentInputs.eq(1).blur(function() {
+			if (validateEmail(jQuery(this)) == 1) {
+				jQuery(this).css({"border-color":"lightgray","background-color":"#fff"});
+				commentErrors.eq(1).hide();
+				if (commentErrors.eq(0).is(":hidden") && commentErrors.eq(1).is(":hidden") && commentErrors.eq(2).is(":hidden")) {
+					errorBox.hide();
+				}
+			}
+		});
+
+		commentInputs.eq(2).blur(function() {
+			if (jQuery(this).val() != "") {
+				jQuery(this).css({"border-color":"lightgray","background-color":"#fff"});
+				commentErrors.eq(2).hide();
+				if (commentErrors.eq(0).is(":hidden") && commentErrors.eq(1).is(":hidden") && commentErrors.eq(2).is(":hidden")) {
+					errorBox.hide();
+				}
+			}
+		});
+	}
+
+	commentform.submit(function(){
+		if (loggedIn == 0) {
+			var numErrors = 3;
+			commentInputs.each(function(i) {
+				if (validateEmail(jQuery(this)) == 0 && i == 1) {
+					jQuery(this).css({"border-color":"red","background-color":"#ffdfdf"});
+					errorBox.show();
+					commentErrors.eq(i).show();
+				} else if (jQuery(this).val() == "") {
+					jQuery(this).css({"border-color":"red","background-color":"#ffdfdf"});
+					errorBox.show();
+					commentErrors.eq(i).show();
+				} else {
+					numErrors--;
+				}
+			});
+		} else {
+			var numErrors = 1;
+			commentInputs.each(function(i) {
+				if (jQuery(this).val() == "") {
+					jQuery(this).css({"border-color":"red","background-color":"#ffdfdf"});
+					errorBox.show();
+					commentErrors.eq(i).show();
+				} else {
+					numErrors--;
+				}
+			});
+		}
+		
+		if (numErrors == 0) {
+			if (loggedIn == 0) {
+				jQuery("#processing").fadeIn("slow");
+			} else {
+				jQuery("#processingLoggedIn").fadeIn("slow");
+			}
+			//serialize and store form data in a variable
+			var formdata=commentform.serialize();
+			//Extract action URL from commentform
+			var formurl = "http://blogs.roanoke.com/theedge/wp-comments-post.php";
+			//Post Form with data
+			$.ajax({
+				type: 'post',
+				url: formurl,
+				data: formdata,
+				error: function(jqXHR, exception) {
+					if (jqXHR.status === 0) {
+						console.log('Not connect.\n Verify Network.');
+					} else if (jqXHR.status == 403) {
+						console.log(jqXHR.responseText);
+						jQuery("#processing").after("<div id='ajaxError'>It appears you are too fast.<br />Please wait a few seconds and you will be able to re-submit your comment.</div>");
+						jQuery("#processing").fadeOut("slow", function() {
+							jQuery("#ajaxError").delay(8000).fadeOut("slow");
+						});
+					} else if (jqXHR.status == 404) {
+						console.log('Requested page not found. [404]');
+					} else if (jqXHR.status == 500) {
+						if (loggedIn == 0) {
+							jQuery("#processing").after("<div id='ajaxError'>Error: It appears you may have tried submitting a duplicate comment.<br />Please check your comment and try again.</div>");
+							jQuery("#processing").fadeOut("slow", function() {
+								jQuery("#ajaxError").delay(5000).fadeOut("slow");
+							});
+						} else {
+							jQuery("#processingLoggedIn").after("<div id='ajaxErrorLoggedIn'>Error: It appears you may have tried submitting a duplicate comment.<br />Please check your comment and try again.</div>");
+							jQuery("#processingLoggedIn").fadeOut("slow", function() {
+								jQuery("#ajaxErrorLoggedIn").delay(5000).fadeOut("slow");
+							});
+						}
+					} else if (exception === 'parsererror') {
+						console.log('Requested JSON parse failed.');
+					} else if (exception === 'timeout') {
+						console.log('Time out error.');
+					} else if (exception === 'abort') {
+						console.log('Ajax request aborted.');
+					} else {
+						console.log('Uncaught Error.\n' + jqXHR.responseText);
+					}
+				},
+				success: function(data, textStatus){
+					if(textStatus=="success") {
+						//statusdiv.html('<p class="ajax-success" >Thanks for your comment. We appreciate your response.</p>');
+						newComment = 1;
+						commentRefresh();
+					} else {
+						alert("moderated?");
+						//statusdiv.html('<p class="ajax-error" >Please wait a while before posting your next comment</p>');
+						//commentform.find('textarea[name=comment]').val('');
+					}
+				}
+			});
+			return false;
+		} else {
+			return false;
+		}
+	});
+
+
+	function validateEmail(email) {
+		var reg = /^([A-Za-z0-9_\-\.])+\@([A-Za-z0-9_\-\.])+\.([A-Za-z]{2,4})$/;
+		var x = email.val();
+		if (reg.test(x) == false) {
+			return 0;
+		} else {
+			return 1;
+		}
+	}
+
+	function addComment(){
+		jQuery('html,body').animate({scrollTop: jQuery("#respond").offset().top - 350},1500,"easeOutQuint");
+		// Stop the animation if the user scrolls. Defaults on .stop() should be fine
+		jQuery('html,body').bind("scroll mousedown DOMMouseScroll mousewheel keyup", function(e){
+			if ( e.which > 0 || e.type === "mousedown" || e.type === "mousewheel"){
+				 jQuery('html,body').stop().unbind('scroll mousedown DOMMouseScroll mousewheel keyup'); 
+				 // This identifies the scroll as a user action, stops the animation, then unbinds the event straight after (optional)
+			}
+		}); 
+	}
+</script></div>
+
+</div><!-- /blog -->
+
+<!--/div><!--end left content-->
+<div id="div-right-menu">
+
+<!--Begin Blog Sidebar--> 
+
+<div id="blog-sidebar">
+
+<div class="blog-sidebaritem">
+	<div id="weatherWidgetTop">
+	Thursday, September 26, 2013	</div>
+	<script type="text/javascript" src="http://ww2.roanoke.com/js/2008/severewxdti.js"></script>
+	<div id="weatherWidget">
+		<div id="weatherWidgetBlog">
+						<div class="blogIcon">
+				<img src="/images/general/blogIcons/24.jpg" width="30" height="35" />
+			</div>
+			<p style="margin:0;padding:0;">Weather Journal</p>
+			<a href="http://blogs.roanoke.com/weatherjournal/2013/09/slide-into-fall-continues-thru-weekend/">Slide into fall continues</a>
+			<p class="timestamp">Thu, 26 Sep 2013 00:42:10 +0000</p>
+			<script type="text/javascript">
+				var pubDate = jQuery("p.timestamp");
+				var postDate = new Date(pubDate.text());
+				var today = new Date();
+				var diff = ((today.getTime() - postDate.getTime()) / 1000).toFixed(0);
+				var min = (diff / 60).toFixed(0);
+				var timeSince = "";
+				if (min == 0) {
+					timeSince = "Just now";
+				} else if (min == 1) {
+					timeSince = "1 min ago";
+				} else if (min <= 59) {
+					timeSince = min + " mins ago";
+				} else if (min <= 119) {
+					timeSince = "1 hour ago";
+				} else if (min <= 1439) {
+					timeSince = (min / 60).toFixed(0) + " hours ago";
+				} else if (min <= 2879) {
+					timeSince = "1 day ago";
+				} else if (min <= 43199) {
+					timeSince = (min / 24 / 60).toFixed(0) + " days ago";
+				} else if (min <= 86399) {
+					timeSince = "1 month ago";
+				} else if (min <= 518399) {
+					timeSince = (min / 30 / 24 / 60).toFixed(0) + " months ago";
+				}
+				pubDate.text(timeSince);
+			</script>
+		</div>
+		<script type="text/javascript" src="http://dale.roanoke.com/dtiweather-roanoke.js"></script>
+	</div>
+</div>  
+<div id="blog-sidebar">
+
+<div class="blog-sidebaritem"> 
+<!-- <div class="railHeader"><h4>Search The Edge</h4></div>-->
+	<div class="sidebarSearch">  
+		<!--BeginNoIndex--> 
+<form method="get" id="searchform"  
+action="http://blogs.roanoke.com/theedge/"> 
+<input type="text" value="Search this blog"  
+name="s" id="s"  
+onblur="if (this.value == '')  
+{this.value = 'Search this blog';}"  
+onfocus="if (this.value == 'Search this blog')  
+{this.value = '';}" />
+<input type="hidden" id="searchsubmit" />
+<input type="image" src="/images/general/searchMagnifyIcon.png"  BORDER="0" ALT="Find" class="submit">
+</form>
+ <!--EndNoIndex-->		<!-- -->	 </div>
+</div> 
+
+  <div class="blog-sidebaritem"><div class="railHeader"><h4>About this Blog</h4></div>			<div class="textwidget"><div class="sidebarContainer">
+<ul><p>The Edge is a weekly page produced by teens from Roanoke and New River valleys during the school year. It publishes every Wednesday in The Roanoke Times' Extra section, and features stories, photos and illustrations by area teenagers. The Edge is led by two Roanoke Times staffers and the group meets once a week in the newsroom. This blog is a companion to the printed page.</p>
+    <p id="feed"><a href="http://blogs.roanoke.com/theedge/feed"><abbr title="Really Simple Syndication">RSS</abbr> feed</a></p>
+</div>
+<br/></div>
+		</div><div class="blog-sidebaritem">			<div class="textwidget"><!--Right ads Begin-->
+<div class="rightAds">
+<div id="right1">
+<script type="text/javascript">
+googletag.cmd.push(function() { googletag.display('right1'); });
+</script>
+</div>
+</div>
+<div class="clear"></div>
+<!--Right ads End-->
+<br/></div>
+		</div><div class="blog-sidebaritem">			<div class="textwidget"><!--Daily Deal-->
+<div class "rightAds">
+<div id ="dailydeal">
+<script type="text/javascript">
+    googletag.cmd.push(function() { googletag.display('dailydeal'); });
+  </script>
+  </div>
+  </div>
+  <div class="clear"></div>
+<!--Daily Deal Ends-->
+<br/></div>
+		</div><div class="blog-sidebaritem">			<div class="textwidget"><!--Flyer Board Begin -->
+<script type="text/javascript" src="http://www.paperg.com/jsfb/embed.php?pid=1128&bid=2137"></script>
+	<br /><div id="PG_link" align="center"><a href="http://www.paperg.com/">Local advertising</a> by PaperG</div>
+<!--Flyer Board End-->
+<br/></div>
+		</div>  
+
+</div>
+  <div class="clear"></div>
+  
+  
+<!--Recent Comments - Times Square uses a custom comments widget to exclude categories-->
+<div class="blog-sidebaritem">
+   <div class="railHeader"><h4>Comments</h4></div>
+   <div class="sidebarContainer">
+	  <ul></ul>
+			<h2></h2>
+      <ul>	<li><a href="http://blogs.roanoke.com/theedge/2013/09/23/german-classes-on-the-chopping-block-at-roanoke-county-schools/#comment-3118" title="German classes on the chopping block at Roanoke County schools, September 23, 2013">Aini Malik</a>: I feel very sad while listening about dying languages. Every country must try to save their native...</li>
+	<li><a href="http://blogs.roanoke.com/theedge/2013/09/23/german-classes-on-the-chopping-block-at-roanoke-county-schools/#comment-3117" title="German classes on the chopping block at Roanoke County schools, September 23, 2013">Noodle78</a>: As a 30-something who was able to take both French and German in middle/high school, I can attest to the...</li>
+	<li><a href="http://blogs.roanoke.com/theedge/2013/09/23/german-classes-on-the-chopping-block-at-roanoke-county-schools/#comment-3116" title="German classes on the chopping block at Roanoke County schools, September 23, 2013">3rdFred</a>: Foreign (or, for the pc crowd, &#8220;modern&#8221;) languages are an important part of a person&#8217;s...</li>
+	<li><a href="http://blogs.roanoke.com/theedge/2013/09/21/optional-summer-school-courses-arent-all-that-bad/#comment-3112" title="Optional summer school courses aren’t all that bad, September 21, 2013">Hannah V.</a>: Nice job, Rohan!</li>
+	<li><a href="http://blogs.roanoke.com/theedge/2013/02/28/dubstep/#comment-3048" title="Dubstep, February 28, 2013">Dude</a>: Dude</li>
+</ul>
+      
+	</div>
+</div>
+<!--End Recent Comments-->
+
+  
+<!-- Categories Drop Down -->
+ <div class="blog-sidebaritem">
+	<div class="railHeader"><h4>Categories</h4></div>
+	<div class="sidebarContainer">
+		<form action="http://blogs.roanoke.com/theedge" method="get" id="categorySearch">
+			<div>
+				<select name='cat' id='cat' class='postform' >
+	<option class="level-0" value="1">Uncategorized&nbsp;&nbsp;(14)</option>
+	<option class="level-0" value="4">Photos&nbsp;&nbsp;(23)</option>
+	<option class="level-0" value="2777">Teen Life&nbsp;&nbsp;(74)</option>
+	<option class="level-0" value="18480">Events&nbsp;&nbsp;(34)</option>
+	<option class="level-0" value="18481">Who We Are&nbsp;&nbsp;(14)</option>
+	<option class="level-0" value="18655">Entertainment&nbsp;&nbsp;(72)</option>
+	<option class="level-0" value="19162">Technology&nbsp;&nbsp;(15)</option>
+	<option class="level-0" value="21272">Sports &amp; Recreation&nbsp;&nbsp;(21)</option>
+	<option class="level-0" value="21273">Schools &amp; Education&nbsp;&nbsp;(54)</option>
+	<option class="level-0" value="46814">Review&nbsp;&nbsp;(19)</option>
+	<option class="level-0" value="51484">Opinion&nbsp;&nbsp;(40)</option>
+	<option class="level-0" value="189967">Poll&nbsp;&nbsp;(10)</option>
+	<option class="level-0" value="204280">On The Edge&nbsp;&nbsp;(61)</option>
+	<option class="level-0" value="204669">Illustrations&nbsp;&nbsp;(12)</option>
+	<option class="level-0" value="204830">School Style&nbsp;&nbsp;(10)</option>
+	<option class="level-0" value="204871">Politics&nbsp;&nbsp;(8)</option>
+	<option class="level-0" value="204873">College&nbsp;&nbsp;(15)</option>
+	<option class="level-0" value="205046">PLUG INTO&nbsp;&nbsp;(10)</option>
+	<option class="level-0" value="234693">Edge Alumni&nbsp;&nbsp;(3)</option>
+	<option class="level-0" value="267812">MJW 2013&nbsp;&nbsp;(13)</option>
+	<option class="level-0" value="267842">Today on The Edge&nbsp;&nbsp;(1)</option>
+</select>
+				<input type="submit" name="submit" value="View" class="submit" />
+			  </div>
+		  </form>
+	  </div>
+</div> 
+<!-- End Categories -->
+
+<!--  Start Archive -->
+<div class="blog-sidebaritem">
+<div class="railHeader"><h4>Archives</h4></div> 
+	<div class="sidebarContainer">     
+		<div id="archiveSearch">
+			<select name="archive-dropdown" onChange='document.location.href=this.options[this.selectedIndex].value;'> 
+				<option value="">Select Month</option> 
+					<option value='http://blogs.roanoke.com/theedge/2013/09/'> September 2013 &nbsp;(13)</option>
+	<option value='http://blogs.roanoke.com/theedge/2013/08/'> August 2013 &nbsp;(10)</option>
+	<option value='http://blogs.roanoke.com/theedge/2013/07/'> July 2013 &nbsp;(10)</option>
+	<option value='http://blogs.roanoke.com/theedge/2013/06/'> June 2013 &nbsp;(34)</option>
+	<option value='http://blogs.roanoke.com/theedge/2013/05/'> May 2013 &nbsp;(59)</option>
+	<option value='http://blogs.roanoke.com/theedge/2013/04/'> April 2013 &nbsp;(57)</option>
+	<option value='http://blogs.roanoke.com/theedge/2013/03/'> March 2013 &nbsp;(57)</option>
+	<option value='http://blogs.roanoke.com/theedge/2013/02/'> February 2013 &nbsp;(63)</option>
+	<option value='http://blogs.roanoke.com/theedge/2013/01/'> January 2013 &nbsp;(52)</option>
+	<option value='http://blogs.roanoke.com/theedge/2012/12/'> December 2012 &nbsp;(47)</option>
+	<option value='http://blogs.roanoke.com/theedge/2012/11/'> November 2012 &nbsp;(50)</option>
+	<option value='http://blogs.roanoke.com/theedge/2012/10/'> October 2012 &nbsp;(42)</option>
+	<option value='http://blogs.roanoke.com/theedge/2012/09/'> September 2012 &nbsp;(28)</option>
+	<option value='http://blogs.roanoke.com/theedge/2012/07/'> July 2012 &nbsp;(1)</option>
+ 
+			</select>
+		</div>
+	</div>
+ </div>
+<!-- End Archive -->	
+
+
+
+ <!-- First sidebar end -->
+<!--End Right Menu-->
+</div>
+</div>
+
+ <div class="clear"></div>
+    
+<!--**********************Start Footer*************************-->
+	</div><!--End content-page container-->
+<div id="footerContainer">
+	<div class="footerLinks">
+		<div id="div-footerLeftLinks">
+			<script type="text/javascript">
+			    copyrightDate();
+		    </script>
+		<h5>THE ROANOKE TIMES</h5>
+			<div class="clear"></div>
+			<a href="http://www.roanoke.com/"><img src="/images/general/roanokeLogoBottom.png"/></a>
+		</div>	
+		<div id="div-footerRightLinks">
+			<ul>
+				<li><a href="http://www.roanoke.com/privacypolicy/">Privacy policy, terms and conditions </a></li>
+				<li><a href="http://www.roanoke.com/sitemap/">Site map </a></li>
+				<li><a href="http://www.roanoke.com/contactus/">Contact us </a></li>
+				<li><a href="http://www.roanoke.com/careers/">Work for us </a></li>
+				<li><a href="http://www.smithmountainlake.com/chamber/" target="_blank">Smith Mountain Lake Visitor Guide</a></li>
+			</ul>
+			
+	<span><a href="http://blogs.roanoke.com/theedge/?mobile"rel="noindex,nofollow">MOBILE SITE</a>  |  <a href="http://blogs.roanoke.com/theedge/?nomobile"rel="noindex,nofollow">STANDARD SITE</a></span>	
+		</div>
+	</div>
+</div>
+
+
+
+</div>
+
+
+<!-- Crazy Egg -->
+<script type="text/javascript"> setTimeout(function(){var a=document.createElement("script"); var b=document.getElementsByTagName("script")[0]; a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0017/9441.js?"+Math.floor(new Date().getTime()/3600000); a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1); </script>
+
+
+        <script type="text/javascript">
+          var pfHeaderImgUrl = '';
+          var pfHeaderTagline = '';
+          var pfdisableClickToDel = '0';
+          var pfHideImages = '0';
+          var pfImageDisplayStyle = 'right';
+          var pfDisableEmail = '0';
+          var pfDisablePDF = '0';
+          var pfDisablePrint = '0';
+          var pfCustomCSS = '';
+
+          // PrintFriendly
+          var e = document.createElement('script'); e.type="text/javascript";
+          e.src = 'http://cdn.printfriendly.com/printfriendly.js';
+          document.getElementsByTagName('head')[0].appendChild(e);
+      </script>
+<script type='text/javascript' src='http://blogs.roanoke.com/theedge/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.36.0-2013.06.16'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"http:\/\/blogs.roanoke.com\/theedge\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Sending ..."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://blogs.roanoke.com/theedge/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=3.4.2'></script>
+ 
+
+</body>
+</html>

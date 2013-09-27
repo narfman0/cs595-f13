@@ -1,0 +1,319 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head><title>
+	NASCAR AFTER THE LAP SWEEPSTAKES 2013
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="WebsiteSpark" content="OVZBI465xc" /><link rel="stylesheet" href="css/styles.css" type="text/css" /><link rel="stylesheet" href="css/ui-darkness/jquery-ui-1.8.22.custom.css" type="text/css" /><link rel="stylesheet" href="css/atooltip.css" type="text/css" />
+
+    <!--[if IE 8]><link rel="stylesheet" href="css/ie8.css" type="text/css" /><![endif]-->
+    <!--[if IE 7]><link rel="stylesheet" href="css/ie7.css" type="text/css" /><![endif]-->
+
+    <!-- FACEBOOK META -->
+    <meta property="og:image" content="http://afterthelap.nascar.com/images/natl_logo.png" /><meta property="og:title" content="NASCAR AFTER THE LAP SWEEPSTAKES 2013" /><meta property="og:url" content="http://afterthelap.nascar.com/" /><meta property="og:site_name" content="NASCAR AFTER THE LAP" /><meta property="og:description" content="BUCKLE UP FOR THE ULTIMATE DRIVER TELL-ALL! It is the night everyone has been waiting for all season long – the Ultimate Driver Tell-All – NASCAR After The Lap Sponsored by Ford &amp; Coca-Cola. The top 12 NASCAR Sprint Cup Series™ drivers will be on stage in front of a live fan audience where the biggest moments of the season are shared and the newly crowned champion is celebrated. Get ready for the Ultimate Driver Tell-All during NASCAR Sprint Cup Champion’s Week.Buckle Up Fans!" />
+    <!-- END FACEBOOK META -->
+
+    <script src="http://code.jquery.com/jquery-1.7.2.min.js" type="text/javascript"></script>
+    <script src="scripts/jquery-ui-1.8.22.custom.min.js" type="text/javascript"></script>
+    <script src="scripts/jquery.blockUI.js" type="text/javascript"></script>
+    <script src="scripts/jquery.jtweetsanywhere.js" type="text/javascript"></script>
+    <script src="scripts/jquery.cycle.lite.1.0.min.js" type="text/javascript"></script>
+    <script src="scripts/global.js" type="text/javascript"></script>
+    <script src="scripts/jquery.atooltip.min.js" type="text/javascript"></script>
+    <script src="flowplayer/flowplayer-3.2.11.min.js" type="text/javascript"></script>
+    <script type="text/javascript"> var switchTo5x = true; </script>
+    <script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+    <script type="text/javascript"> stLight.options({ publisher: "ur-b2de6c51-3e08-7e03-1e0f-2111c9ea33fa" }); </script>
+    <script src="scripts/s_code.js" type="text/javascript"></script>
+
+    <script type="text/javascript">
+        if (s) {
+            s.pageName = "nscr-en_US:NASCAR:after-the-lap:LandingPage"
+            s.server = "afterthelap.nascar.com"
+            s.channel = "nascarafterthelap"
+            s.t()
+        }
+    </script>
+    
+    <script type="text/javascript">
+        $(function () {
+            $("#twitter_wrapper").empty();
+            $("#twitter_wrapper").jTweetsAnywhere({
+                username: "nascar",
+                count: 10,
+                showTweetFeed: {
+                    showTwitterBird: false,
+                    showActionRetweet: false,
+                    showActionReply: false,
+                    showProfileImages: false
+                },
+                proxy: '/TwitterProxyHandler.ashx',
+                onReadyHandler: function () {
+                    $("#twitter_wrapper ul").cycle({
+                        timeout: 8000
+                    });
+                }
+            });
+            $("#menuMobile").change(function () {
+                window.location = $(this).val();
+            });
+            $('#sweepstake_details').bind('click', function() {
+                showModal($('#modal_sweepstakes_details').html());
+                return false;
+            });
+            $('#official_rules').bind('click', function() {
+                showModal($('#modal_official_rules').html());
+                return false;
+            });
+            $('[initialvalue]').focus(function() {
+                var me = $(this);
+                if (me.val() == me.attr('initialvalue'))
+                    me.val('');
+            }).blur(function() {
+                var me = $(this);
+                if (me.val() == '')
+                    me.val(me.attr('initialvalue'));
+            });
+            $('#dialog-share').dialog({
+                autoOpen: false,
+                modal: true,
+                resizable: false,
+                draggable: false,
+                width: 500,
+                height: 300,
+                title: "Share",
+                show: "fade",
+                hide: "fade"
+            });
+            $('#share-dialog-link').click(function (e) {
+                e.preventDefault();
+                $('#dialog-share').dialog("open");
+                $('#dialog-share').parent().appendTo(jQuery("form:first"));
+            });
+        });
+    </script>
+
+    <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-25108464-1']);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    </script>
+</head>
+<body>
+    <form name="form1" method="post" action="default.aspx" id="form1">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTgwOTQ5NDk1Ng9kFgICAw9kFgICAw9kFgYCBQ8QZGQWAWZkAgkPEGRkFgFmZAITDxBkZBYBZmQYAQUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgIFCWNoa1BvbGljeQUIY2hrUnVsZXM+Qcqye6pvEia1rILlBNvM/OVz6w==" />
+
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWCQLlvIuBDAK5h62pDwKdlcWpAgKE8/26DAKghLbyDwKg+PayCwLy3KUPArLrzewDAt+7xcwKEWGzts3y7AWD+UjlD2hDrnCW4kI=" />
+
+        
+                        
+        <div id="modal_sweepstakes_details" class="modal">
+            <div style="overflow-y: auto; height: 415px; padding: 10px;">
+                <h1>SWEEPSTAKES DETAILS</h1>
+                <img style="margin-top:-60px; float: right" src="images/lockup.jpg" alt="" />
+                
+                <h3>By entering the NASCAR After The Lap Sweepstakes fans have the chance to win:</h3>
+                <img src="images/14F150.jpg" alt="" />
+                <ul>
+                    <li>2013 Ford F-150 FX4 Truck valued at $41,000.00</li>
+                    <li>Roundtrip airfare for two (2) to Las Vegas</li>
+                    <li>Two (2) nights’ accommodations at Planet Hollywood Resort & Casino</li>
+                    <li>Two (2) premier seats at NASCAR After The Lap</li>
+                    <li>$500 cash</li>
+                    <li>In addition to the Grand Prize Winner, three (3) First Prize Winners will each win an autographed NASCAR After The Lap Simpson Helmet signed by all 12 Chase drivers valued at $1,000.00; four (4) Second Prize Winners will each receive a SIRIUSXM radio and a $50.00 SIRIUSXM gift card valued at $300.00; three (3) Third Prize Winners will each receive a $100.00 NASCAR SuperStore gift card.</li>
+                </ul>
+                <h3>Winner will be notified following the conclusion of Ford Championship Weekend at Homestead-Miami Speedway</h3>
+            </div>    
+        </div>
+                        
+        <div id="modal_official_rules" class="modal">
+            <div style="overflow-y: auto; height: 500px; padding: 10px;">
+                <h1>"NASCAR After the Lap<sup>™</sup>" Sweepstakes</h1> 
+                <h3>To enter this Sweepstakes, you must agree to and abide by these Official Rules.</h3>
+                <h4>NO PURCHASE OR PAYMENT OF ANY KIND IS NECESSARY TO ENTER OR WIN. A PURCHASE OR PAYMENT WILL NOT IMPROVE YOUR CHANCES OF WINNING.</h4>
+                <p><b>1. Sponsor:</b> JHE Production Group, Inc., 6427 Saddle Creek Court, Harrisburg, NC 28075 is the Sponsor of this Sweepstakes ("JHE Production Group" or “Sponsor”).</p>
+                <p><b>2. Eligibility:</b> The "NASCAR After the Lap™" Sweepstakes ("Sweepstakes") is only open to legal residents of the forty-eight (48) contiguous United States, Alaska, and the District of Columbia who are at least 21 years of age at the time of entry.  Any individuals (including but not limited to employees, consultants, independent contractors, and interns) who have, within the past six months, performed services for the National Association for Stock Car Auto Racing, Inc. ("NASCAR, Inc.") and its affiliates, and each of their respective employees, representatives, shareholders, officers, directors, members, agents, personnel, successors, and assigns, any team that participates in any NASCAR® -sanctioned race series or race, or any race track where a NASCAR® -sanctioned race is conducted, or the employees, representatives or agents of Sponsor, Ford Motor Company, Coca-Cola Company, or any other entities responsible for sponsoring, fulfilling, administering, advertising or promoting the Sweepstakes or supplying the prizes (or any components thereof), and/or their respective parent, subsidiary, affiliated and successor companies, and immediate family and household members of such individuals, are not eligible to enter or win. "Immediate family members" shall mean parents, step-parents, children, step-children, siblings, step-siblings, or spouses, regardless of where they live. "Household members" shall mean people who share the same residence at least three months a year, whether related or not. Sponsor reserves the right to disqualify from this Sweepstakes any person it believes has intentionally violated these Official Rules. Failure of Sponsor to enforce any provision of these Official Rules in any given circumstance shall not constitute a waiver of such provision. Void in Puerto Rico, Hawaii, and where prohibited by law.</p>
+                <p><b>3. Promotional Period:</b> Sweepstakes begins at 12:01 a.m. Eastern Time (“ET”) on August 16, 2013, and ends at 2:00 p.m. ET on November 17, 2013 (the “Promotional Period”).  Sponsor’s server is the official time clock for the Sweepstakes.</p>  
+                <p><b>4. Sweepstakes Entry: No Purchase Necessary.</b> Beginning August 16, 2013, at 12:01 AM ET contestants may enter online at <a href="http:www.nascarafterthelap.com">nascarafterthelap.com</a>.  Contestants must complete and submit the official entry form provided on <a href="http:www.nascarafterthelap.com">nascarafterthelap.com</a> by November 17, 2013 at 2:00 PM ET. Limit one (1) entry per person/e-mail address per day.  For purposes of this limit, each day begins at 12:00 a.m. ET and ends at 11:59:59 p.m. ET for each calendar day of the Promotional Period, with the exception of the last day, which ends at 2:00 p.m. ET.  Additional entries by the same person/e-mail address in a single day will be disqualified.  Entrants may only use one (1) email address to enter the Sweepstakes regardless of how many email addresses they may have.  Entries generated by script, macro or other automated means will be disqualified. Incomplete or garbled entries will be disqualified.</p>  
+                <p><b>5. Random Drawing/Odds of Winning:</b> Two (2) Potential First Prize Winners will be randomly selected at approximately 2:30 p.m. ET on November 17, 2013, from among all eligible entries received during the Promotional Period.  Drawing will be conducted by the Sponsor at its offices.  Sponsor’s decisions are final and binding on all matters related to the Sweepstakes. Odds of winning depend on the total number of eligible entries received.</p>
+                <p><b>6. Winner Notification:</b> Attempts will be made to contact Potential First Prize Winners by telephone at the phone number provided in the entry beginning in the afternoon or evening of November 17, 2013.  Sponsor will make up to five (5) calls to a potential First Prize winner within a 24 hour period.  No messages will be left.  If Sponsor is unable to reach potential winner during those attempts, that potential winner will be disqualified.  Sponsor will then select and notify an alternate potential winner from among remaining eligible entries until a potential winner can be reached and accepts the prize. Potential First Prize Winners will be required to complete, sign and return within two (2) business days of receipt a Declaration of Eligibility, a Liability Release and Indemnification, and a Publicity Release, where allowed by law, and an IRS W-9 form, in order to claim prize.  If the signed documentation is not returned to Sponsor within specified time period, or if documentation is returned as non-deliverable or if potential winner is found to be ineligible or otherwise not in compliance with these Official Rules, or if potential winner is unable to attend the NASCAR After the Lap™ event on December 5, 2013, that potential winner may be disqualified. If a potential First Prize winner is disqualified during the confirmation process for any reason, prize will be forfeited and awarded to an alternate winner selected from among all remaining eligible entries received, time permitting. Guest of First Prize Winner must complete, sign and return a Liability Release and a Publicity Release (where legal), prior to issuance of travel documents.  If a prize is forfeited for any reason after the prize has already been confirmed and awarded, then no alternate winner will be selected for that prize.</p> 
+                <p><b>7. Prizes, Approximate Retail Values ("ARV"):</b> FIRST PRIZE (2 winners) Two(2)First Prize winners will each receive a 3-day/2-night trip for winner and one (1) guest to attend the NASCAR After the Lap™ event in Las Vegas, Nevada on December 5, 2013, and a trip to one of the 2014 NASCAR Sprint Cup Series™ races described below. First Prize winners also have an opportunity to be selected as the Grand Prize winner, described in more detail below.  Trip to  NASCAR After the Lap™ event includes round-trip coach air transportation for winner and one (1) guest to Las Vegas, NV from major commercial airport of Sponsor's sole choosing near winner's residence; two (2) nights standard hotel (double occupancy) accommodations at the Palms Casino Resort in Las Vegas, NV; roundtrip ground transportation to/from Las Vegas airport/hotel for winner and guest; two (2) VIP tickets for winner and guest to attend the NASCAR After the Lap™ event scheduled to be held on the evening of Thursday, December 5, 2013; and $500 cash.  Approximate retail value of the NASCAR After the Lap™ trip is $2,240.00 each.</p> 
+                   <p>The first confirmed First Prize winner will also receive a trip for winner and one (1) guest to the 2014 NASCAR Sprint Cup Series™, Ford Ecoboost 400 race in Miami, Florida. Dates of travel to be determined once the 2014 NASCAR Sprint Cup Series schedule has been released.  This prize includes round-trip coach air transportation for winner and one (1) guest to Miami, FL from major commercial airport of Sponsor's sole choosing near winner's residence; three (3) nights standard hotel (double occupancy) accommodations at a hotel of Sponsor’s choosing; roundtrip ground transportation to/from Miami area airport/hotel and between the hotel and racetrack each day for winner and guest; two (2) tickets for winner and guest to attend the Ford Ecoboost 400 race; two (2) VIP passes; a meet and greet opportunity for winner and guest to meet Ford team drivers and crew members; and $500 cash.  Approximate retail value of this prize is $5,350.00.</p>
+                   <p>The second confirmed First Prize winner will also receive a trip for winner and one (1) guest to the 2014 Coca-Cola 600 in Charlotte, North Carolina. Dates of travel to be determined once the 2014 NASCAR Sprint Cup Series schedule has been released.  This prize includes round-trip coach air transportation for winner and one (1) guest to Charlotte, NC from major commercial airport of Sponsor's sole choosing near winner's residence; three (3) nights standard hotel (double occupancy) accommodations at a hotel of Sponsor’s choosing; roundtrip ground transportation to/from Charlotte airport/hotel and between the hotel and racetrack each day for winner and guest; two (2) tickets for winner and guest to attend the Coca-Cola 600 race; two (2) VIP passes; a meet and greet opportunity for winner and guest to meet Coca-Cola team drivers and crew members; and $500 cash.  Approximate retail value of this prize is $5,350.00.</p>
+                   <p>Approximate retail value of each First Prize is $7,590.  Odds of winning depend on the total number of eligible entries received.  Actual value of prize may vary depending on point of departure and other factors. If a First Prize winner lives within approximately 200 miles of Las Vegas, NV, and/or the race destination for the applicable 2014 race, Sponsor may substitute, in its sole discretion, round-trip ground transportation between winner's residence and the Palms Casino Resort or the race area hotel instead of air transportation, and winner will not receive any substitute prize or compensation in conjunction with such substitution.  Any difference between the estimated value of the prize and the actual value will not be awarded to winner.  NASCAR After the Lap™ tickets are subject to the policies and procedures established by NASCAR®.  Race tickets, VIP passes, and meet & greet opportunities are subject to the policies and procedures established by the applicable race tracks and racing teams.  Guests must be age 21 or older.</p>
+                   <p>First Prize winners are solely responsible for any costs and expenses of the First Prize trips not specified as included in these Official Rules, including but not limited to tips, meals, souvenirs, local and long-distance telephone calls, laundry, insurance, baggage fees, and other personal expenses associated with the trips.  No substitution of prize is permitted except that Sponsor in its sole discretion may award a substitute prize/prize component of equal or greater value if advertised prize/prize component is unavailable at time of awarding for any reason, or where required by law. Prize may not be transferred.  Prize is not exchangeable or redeemable for cash. If a prize winner cannot accept prize as stated, prize may be forfeited in its entirety and awarded to an alternate winner, time permitting. Federal, state and local taxes on the prize (if applicable) are the sole responsibility of the winner. Sponsor will issue a 1099 Tax Form in the amount of $7,590.00 to each First Prize winner at the appropriate time, except for the Grand Prize winner, as described below.</p>
+                   <p>First Prize winners and guests must be available to travel 12/4/13 – 12/6/13 or 12/5/13 – 12/7/13 so as to attend the NASCAR After the Lap™ event scheduled for the evening of 12/5/13, or First Prize will be forfeited in its entirety without compensation and an alternate winner may be selected, from among all remaining eligible entries received, time permitting. All travel for both trips will be arranged by Sponsor.  Travel arrangements are subject to availability and are in Sponsor’s sole discretion. Winners and guests must provide their own transportation to and from departure airport. First Prize winners and guests must travel together on specified itinerary, including same departure date, destination and return date or First Prize may be forfeited in its entirety. Winners and guests are solely responsible for obtaining and traveling with photo identification and any other documentation required for travel. The Released Parties are not liable for any expenses incurred as a consequence of flight cancellation/delay.  There shall be no compensation or prize substitution if winner and/or guest are unable to take scheduled trips by reason of illness, family emergency, personal events, terrorism, labor strikes, weather, or other acts beyond Sponsor’s control. There shall be no compensation or prize substitution if NASCAR After the Lap™ event or the Ford Ecoboost 400 or Coca-Cola 600 races are cancelled or rescheduled for any reason.  Meet and greet opportunities at the races are subject to availability and the schedules of the team drivers, crew and Miss Sprint Cup.</p>
+                   <p>GRAND PRIZE: (One (1) winner)  One (1) Grand Prize winner will be selected at random from among the two (2) First Prize winners during the NASCAR After the Lap™ event on December 5, 2013.  Grand Prize winner will receive a 2014 Ford F-150 4x4 Tremor Truck with 3.5L EcoBoost engine, regular passenger cab and 6.5 foot truck bed, with an approximate retail value of $37,055.00.  Within 6-8 weeks following the NASCAR After the Lap™ event, Grand Prize winner will be provided with information about how to order the 2014 Ford Tremor Truck.  Winner may choose equipment and options for the prize vehicle up to a total retail value of $40,000.  Color and equipment options are subject to availability.  Vehicle will be delivered to a local Ford dealer near winner’s residence, as determined in Sponsor’s sole discretion.  Timing of delivery will depend on availability of the vehicle with the specifications ordered by winner.  Sponsor and/or local dealer will contact winner via telephone when the vehicle is ready.  Winner must have all required information and documentation, including but not limited to a valid driver’s license and proof of insurance, and must pay any registration fees, license fees, taxes or other applicable costs not covered by the prize, at the time the winner picks up the vehicle.  Grand Prize winner is solely responsible for any costs and expenses associated with ownership and use of the prize vehicle, including but not limited to license, registration, taxes, insurance, gas, maintenance, warranty and other expenses associated with the vehicle. Actual value of Grand Prize may vary depending on final specifications for the 2014 Ford Tremor Truck vehicle selected by winner.  The Grand Prize winner will receive an IRS Form 1099 in the amount of $44,645.00 at the appropriate time, combining the value of the vehicle and the two trips.</p>
+                   <p>Total value of all prizes in this Sweepstakes is $52,235.00.</p>
+                <p><b>8. Conditions and Limitations of Liability:</b> <b>By participating, entrants agree to be bound by and abide by these Official Rules and the decisions of Sponsor, which shall be final and binding in all respects. By participating in this Sweepstakes, entrants  agree to release and hold harmless Ford Motor Company, Coca-Cola Company, NASCAR, Inc., Turner Broadcasting System, Inc., JHE Production Group, Inc., each of their respective parent, subsidiary, affiliated and successor companies, advertising and promotion agencies and prize suppliers, and each of their respective officers, directors, agents, representatives and employees, as well as each of their respective successors and assigns (collectively and individually, the "Released Parties") from any and all actions, claims, injury, loss or damage (whether due to negligence or otherwise) to person(s), including death, or property arising in any manner, directly or indirectly, in whole or in part from participation in this Sweepstakes, or any Sweepstakes related activity, and/or acceptance, possession, misuse or use of prize.</b> Except where prohibited by law, by accepting a prize, winner authorizes the Released Parties and those acting pursuant to their authority to use his/her name, voice, likeness, photograph, prize information, audio/video footage, statements, biographical data and city and state of residence in any media now known or hereafter discovered, world wide, including on the World Wide Web and Internet, in perpetuity, at any time or times, in programming, advertising, trade and/or promotional material or on a winner's list (if applicable) without additional compensation or notice, review or approval and waives his/her moral rights therein if any.  Released Parties are not obligated to use any of the above mentioned information or materials, but may do so and may edit such information or materials, at their sole discretion, without obligation or compensation.</p>
+                   <p>If for any reason the Sweepstakes is not capable of running as planned, including infection by computer virus, bugs, tampering, unauthorized intervention, fraud or technical failures beyond Sponsor's control that corrupt or affect the administration, security, fairness, integrity or proper conduct of the Sweepstakes, Sponsor reserves the right, in its sole discretion, to disqualify any individual who tampers with the Sweepstakes and to terminate, modify or suspend the Sweepstakes.  In such event, Sponsor reserves the right to conduct the Sweepstakes and award the prize in a manner which is fair, appropriate and consistent with these Official Rules, as determined by Sponsor in its sole discretion, including selecting a winner from among any eligible entries that are not affected by the corruption. Notice of termination/modification/suspension of Sweepstakes will be posted on <a href="http:www.nascarafterthelap.com">nascarafterthelap.com</a>.   Released Parties are not  responsible for any error, omission, interruption, deletion, defect, delay in operation or transmission, communications line failure, theft or loss, destruction or unauthorized access to, or alteration of, submitted contest entries, or any problems or technical malfunctions of any telephone network or lines, computer online systems, servers, or providers, computer equipment, software, failure of any e-mail or electronic submitted answer to be received on account of technical problems or traffic congestion on the Internet or at any website, or any combination thereof, including any injury or damage to any person's computer related to or resulting from participation in or downloading any materials from this Sweepstakes.  Released Parties are not responsible for any lost, late, misdirected, misdelivered, mutilated, or garbled mail or e-mail.  In case of dispute, entries will be declared made by the authorized account holder of the email address provided in the entry.  "Authorized account holder" is defined as the natural person who is assigned to an email address by an Internet Access Provider, Online Service Provider, or other organization (e.g., business, educational institution, etc.) that is responsible for assigning email addresses for the domain associated with the submitted email address.</p>
+                   <p>Participants further agree not to knowingly damage or cause interruption of the Sweepstakes and/or prevent others from participating in the Sweepstakes. CAUTION: ANY ATTEMPT TO DAMAGE ANY ONLINE SERVICE OR WEBSITE OR UNDERMINE THE LEGITIMATE OPERATION OF THE SWEEPSTAKES VIOLATES CRIMINAL OR CIVIL LAWS. IF SUCH AN ATTEMPT IS MADE, ADMINISTRATOR MAY DISQUALIFY ANY PERSON MAKING SUCH ATTEMPT AND SEEK DAMAGES TO THE FULLEST EXTENT OF THE LAW.</p>
+                   <p><b>TO THE EXTENT PERMITTED BY LAW, RELEASED PARTIES MAKE NO WARRANTY OR CONDITION, REPRESENTATION, OR GUARANTEE, EXPRESS OR IMPLIED, IN FACT OR IN LAW, RELATIVE TO THE USE OF THE PRIZE, INCLUDING, WITHOUT LIMITATION, ITS QUALITY, MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE. THE FOREGOING EXCLUDES ANY PRIZE COMPONENT PROVIDED BY ONE OF THE RELEASED PARTIES AND ONLY THEN TO THE EXTENT OF THE LIMITED WRITTEN WARRANTY (IF ANY) PROVIDED BY A PARTY.</b></p>
+                <p><b>9. Disputes:</b> Except where prohibited, an individual participating in Sweepstakes agrees that: (1) any and all disputes, claims and causes of action arising out of or connected with this Sweepstakes or the prize shall be resolved individually, without resort to any form of class action, and exclusively in a United States District Court for the District of North Carolina or an appropriate North Carolina State Court of competent jurisdiction and participant expressly agrees to the personal and subject matter jurisdiction of such court and waives any right of change of venue or like right; (2) any and all claims, judgments and awards shall be limited to actual out-of-pocket costs incurred, including costs associated with participating in this Sweepstakes, but in no event attorneys' fees or legal fees; and (3) under no circumstances will such individual be permitted to obtain awards for, and he/she hereby waives all rights to claim, indirect, punitive, incidental and consequential damages and any other damages, other than for actual out-of-pocket expenses, and any and all rights to have damages multiplied or otherwise increased. All issues and questions concerning the construction, validity, interpretation and enforceability of these Official Rules, or the rights and obligations of an individual participating in Sweepstakes shall be governed by, and construed in accordance with, the laws of the State of North Carolina, without giving effect to any choice of law or conflict of law rules (whether of the State of North Carolina or any other jurisdiction), which would cause the application of the laws of any jurisdiction other than the State of North Carolina.</p>
+                <p><b>10. Winner's List:</b> For a list of winners, mail a separate self-addressed, stamped envelope to "NASCAR After the Lap" Winners, c/o JHE Production Group, 6427 Saddle Creek Court, Harrisburg, NC 28075 no later than December 31, 2013.  Vermont residents may omit return postage.  Allow 6-8 weeks following 11/17/13 or list request, whichever is later, for delivery of list.</p>
+                <p>NASCAR® and NASCAR After the Lap™ are trademarks of the National Association for Stock Car Auto Racing, Inc.  NASCAR, Inc. is not a sponsor of this promotion.  The NASCAR Sprint Cup Series™ and Chase for the NASCAR Sprint Cup™ logos and word marks are used under license by the National Association for Stock Car Auto Racing, Inc., and Sprint.</p>
+            </div>
+        </div>
+        
+        <div id="biggest">
+            <div id="header">
+                <script type="text/javascript" src="http://www.nascar.com/includes/js/header.js"></script>
+            </div>
+            <div id="main_wrapper">
+                <div id="menu_bar">
+                    <div id="menu_wrapper">
+                        <ul>
+                            <li><a class="active" href="default.aspx" id="sweeps">SWEEPSTAKES</a></li>
+                            <li><a href="info.aspx" id="info">EVENT INFO</a></li>
+                            <li><a href="tickets.aspx" id="tix">TICKETS</a></li>
+                            <li><a href="partners.aspx" id="part">PARTNERS</a></li>
+                            <li><a href="http://www.palms.com/music-venues/pearl-theater" target="_blank" id="pearlMenu"></a></li>
+                            <li><a href="http://championsweek.nascar.com/" target="_blank" id="champsMenu"></a></li>
+                        </ul>
+                    </div>
+                    <select id="menuMobile">
+                        <option value="/">NAVIGATE TO...</option>
+                        <option value="default.aspx">SWEEPSTAKES</option>
+                        <option value="info.aspx">EVENT INFO</option>
+                        <option value="tickets.aspx">TICKETS</option>
+                        <option value="partners.aspx">PARTNERS</option>
+                    </select>
+                </div>
+                <div id="main_bg_top">
+                    <div id="natl_logo"><a href="default.aspx"></a></div>
+                    
+                </div>
+                <div id="body_content" class="main">
+                    <div class="right">
+                        <div id="pnlStep1">
+	
+                            <script type='text/javascript'>
+                                // Conversion Name: 9_16_13_LandingPg_AftertheLap
+                                var ebRand = Math.random() + '';
+                                ebRand = ebRand * 1000000;
+                                //<![CDATA[ 
+                                document.write('<scr' + 'ipt src="HTTP://bs.serving-sys.com/BurstingPipe/ActivityServer.bs?cn=as&amp;ActivityID=363389&amp;rnd=' + ebRand + '"></scr' + 'ipt>');
+                                //]]>
+                            </script>
+                            <noscript>
+                                <img width="1" height="1" style="border:0" src="HTTP://bs.serving-sys.com/BurstingPipe/ActivityServer.bs?cn=as&amp;ActivityID=363389&amp;ns=1"/>
+                            </noscript>
+                            <div style="padding-bottom: 20px;" class="homeform_top full">
+                                <img style="margin-top: 20px;" src="/images/sweeps_img.jpg"><br /><br />
+                                
+                                <h2>Grand Prize:</h2>
+                                <ul>
+                                    <li>2014 Ford F-150 Tremor – Announced LIVE at NASCAR After The Lap<sup style="font-size:10px;">TM</sup></li>
+                                </ul>
+                                <h2>First Prize Package (2 winners):</h2>
+                                <ul>
+                                    <li>Each winner to receive an all-inclusive VIP trip for two (2) to NASCAR After The Lap</li>
+                                    <li>One winner to receive all inclusive VIP trip for two (2) to the 2014 Coca-Cola 600 Race courtesy of Coca-Cola</li>
+                                    <li>One winner to receive all inclusive VIP trip for two (2) to the 2014 Ford Ecoboost 400 Race courtesy of Ford Motor Company</li>
+                                </ul>
+                                
+                            </div>
+                            <div class="homeform form_left">
+                                <div class="entry_form">
+                                    <table>
+                                        <tr>
+                                            <td style="width: 151px;"><input name="txtFirstName" type="text" value="First Name" id="txtFirstName" initialvalue="First Name" /></td>
+                                            <td><input name="txtLastName" type="text" value="Last Name" id="txtLastName" initialvalue="Last Name" style="margin-left: 5px;" /></td>
+                                        </tr>
+                                        <tr>
+                                            <td style="width: 151px;"><input name="txtEmail" type="text" value="Email" id="txtEmail" initialvalue="Email" /></td>
+                                            <td><input name="txtEmail2" type="text" value="Email Confirmation" id="txtEmail2" initialvalue="Email Confirmation" style="margin-left: 5px;" /></td>
+                                        </tr>
+                                    </table>
+                                    <a id="lnkSubmit1" class="btn" href="javascript:__doPostBack('lnkSubmit1','')">Enter Now!</a>
+                                    <p style="text-align:center;"><strong>By giving my email address I agree to be emailed information about these prizes and giveaways as well as event and ticket information.</strong></p>
+                                </div>
+                            </div>
+                            <div class="homeform form_right">
+                                <p style="font-size: 14px;">The information you submit is subject to our <a target="_blank" href="http://www.nascar.com/en_us/privacy.html">Privacy Policy</a></p>
+                                <div class="checkbox"><input name="chkPolicy" type="checkbox" id="chkPolicy" /><label for="chkPolicy">YES, I have read and agree to NASCAR.COM's privacy policy.</label></div>
+                                <div class="checkbox"><input name="chkRules" type="checkbox" id="chkRules" /><label for="chkRules">I agree, to the <a href="#" id="official_rules">Official Rules</a> of the NASCAR After The Lap Sweepstakes.</label></div>
+                            </div>
+                        
+</div>
+                        
+                        
+                    </div>
+                    <div class="left">
+                        <div id="taglineSm"></div>
+                        <hr class="clear" />
+                        <div id="dateSm"></div>
+                        <hr class="clear" />
+                        
+                        <div id="sponsor_logos">
+                            <div id="sponsor1">
+                                <p>
+                                    <a id="ford1" href="http://www.ford.com/" target="_blank"></a>
+                                    
+                                </p>
+                            </div>
+                            <div id="sponsor2">
+                                <p>
+                                    <a id="coke1" href="http://www.mycokerewards.com" target="_blank"></a>
+                                    
+                                </p>
+                            </div>
+                        </div>
+                        <hr class="clear" />
+                        <a href="default.aspx" id="f150"></a>
+                        <hr class="clear" />
+                        <h3 id="twitter_title"><strong>@NASCAR</strong> ON TWITTER</h3>
+                        <div id="twitter_wrapper">
+                            <ul>
+                                <li>Twitter feed loading...</li>
+                            </ul>
+                        </div>
+                        <div id="twitter_tail"></div>
+                        <hr class="clear" />
+                        
+                        
+                        <center id="calendar_event"><a href="calendar_event/NASCAR After The Lap.ics"></a></center>
+                        <center id="sharebuttonsRightCol">
+                            <h3>WAYS TO SHARE</h3>
+                            <span class='st_sharethis_large' displayText='ShareThis'></span>
+                            <span class='st_facebook_large' displayText='Facebook'></span>
+                            <span class='st_twitter_large' displayText='Tweet'></span>
+                            <span class='st_instagram_large' displayText='Instagram'></span>
+                            <span class='st_email_large' displayText='Email'></span>
+                        </center>
+                    </div>
+                </div>
+            </div>
+            
+            <br style="clear:both;" />
+            <div id="skyline">
+                <p>NASCAR, Inc., is not a sponsor of this promotion. The NASCAR After the Lap<sup style="font-size: 6px;">TM</sup> logo and word mark are used under license by the National Association for Stock Car Auto Racing, Inc.<br />The NASCAR Sprint Cup Series Champion’s Week<sup style="font-size: 6px;">TM</sup> logo and word mark are used under license by the National Association for Stock Car Auto Racing, Inc.<br /><br />© 2013 The Coca-Cola Company</p>
+            </div>
+            <div id="footer">
+                <script type="text/javascript" src="http://www.nascar.com/includes/js/footer.js"></script>
+            </div>
+        </div>
+        <div id="dialog-share" style="display: none;">
+            <center style="margin-top:-20px;" id="sharebuttons">
+                <h3>Share this Event</h3>
+                <h4>And get an extra entry!</h4>
+                <span class='st_sharethis_large' displayText='ShareThis'></span>
+                <span class='st_facebook_large' displayText='Facebook'></span>
+                <span class='st_twitter_large' displayText='Tweet'></span>
+                <span class='st_linkedin_large' displayText='LinkedIn'></span>
+                <span class='st_email_large' displayText='Email'></span>
+                <br />
+                <input type="submit" name="ButtonShareComplete" value="All Done!" id="ButtonShareComplete" style="cursor:pointer;background-color:#F4B63D;font-weight:bold;text-transform:uppercase;border:0px;padding:5px 10px;margin-top:18px;" />
+            </center>
+        </div>
+    </form>
+</body>
+<img src="http://ad.reachlocal.com/pixel?id=1448647&id=1448657&id=1448700&id=1448709&id=1448726&id=1448735&t=2" width="1" height="1" />
+</html>

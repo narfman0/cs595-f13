@@ -1,0 +1,333 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Material Witness: a retrospective by Susanne Carmack - October 25, 2013 6PM at Thincsavannah in Savannah , GA</title>
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="author" content="Whack Design">
+<meta name="viewport" content="width=1044">
+<link rel="author" href="http://www.whackdesign.com">
+<link rel="stylesheet" href="/css/master.css?v=1380238534">
+<link rel="image_src" href="http://www.hipcalendar.com/images/cached/Whitestory_330x430_cropped.jpg" />
+<link rel="shortcut icon" href="/images/favicon.ico" />
+<script src="http://code.jquery.com/jquery-1.7.1.min.js"></script>
+<script src="http://cdn.jquerytools.org/1.2.5/all/jquery.tools.min.js"></script>
+<script type="text/javascript">var switchTo5x=true;</script>
+<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+<script type="text/javascript">stLight.options({publisher: "7266d981-e3d9-4d09-81cb-c4e69495629d"});</script>
+<script src="/js/plugins.js?v=1380238534"></script>
+<script src="/js/global.js?v=1380238534"></script>
+<!-- @extra_js -->
+	<script type="text/javascript" src="http://www.hipcalendar.com/js/event_detail.js"></script>
+	<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-29779494-1']);
+  _gaq.push(['_setDomainName', 'hipcalendar.com']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+	</head>
+<body id="event-detail" class="index www">
+<div id="container">
+<div id="beta"></div>
+	<div id="top">
+		<div id="masthead" class="grid-width">
+			<h2 id="branding" title="Hip Calendar">
+				<a href="http://www.hipcalendar.com/" title="Hip Calendar home page"><span>The Creative Coast</span></a>
+			</h2>
+			<div id="nav-top" class="grid-width">
+				<h3>Navigation</h3>
+				<ul>
+										<li><a href="http://www.hipcalendar.com/my/login">sign in</a></li>
+											<li class="submit"><a href="http://www.hipcalendar.com/events/submit">submit</a></li>
+				</ul>
+			</div>
+			
+			<div id="weather">
+				<!--
+				<div class="current-weather">
+					Current
+					Weather
+				</div>
+				<div class="temperature">
+					92&ordm;
+				</div>
+				-->
+				<div class="zip-search">
+					<span></span>
+					<a href="http://www.hipcalendar.com/my/restart"><strong>Change location</strong></a>
+				</div>
+			</div>
+		</div>
+		<!--//#nav-top-->
+	</div>
+	<!--//#top-->
+	
+	<div id="middle" role="main" class="grid-width">
+		<!--
+		<div class="add-calendar">
+			<a href="http://www.hipcalendar.com/events/ics/4879"></a>
+		</div>
+		-->
+		<div id="content" class="grid-width">
+						<div id="main" class="column">
+				<h1>Savannah, GA</h1>
+				<div class="main-top"></div>
+				<div class="main-mid">
+					<div class="content">
+						<div class="event-left">
+														<img class="event-poster" src="http://www.hipcalendar.com/images/cached/Whitestory_320x420.jpg" alt="Material Witness: a retrospective by Susanne Carmack" />
+															<div id="back-to-calendar">
+								<a href="http://www.hipcalendar.com/"></a>
+								<div class="button-shadow"></div>
+							</div>
+						</div>
+						<div class="event-right">
+							<div class="category art">Art</div>
+							<h2>October 25, 2013<!--August 19, 2011--></h2>
+							<div class="event-title">Material Witness: a retrospective by Susanne Carmack</div>
+							<div class="event-date">Fri: 6PM - 8PM<span> @Thincsavannah</span></div>
+							<div class="add-calendar-detail">
+								<a href="http://www.hipcalendar.com/events/ics/4879" class="add-to-calendar"><span>Add to calendar</span></a>
+																<a href="#" class="nothip"><span>This is not hip</span></a>
+								<div id="nothip_tooltip" style="display:none;">
+									We want HipCalendar to be Hip. If you feel like this event violates our <a href="http://www.hipcalendar.com/page/terms-of-use">terms of service</a> please <a href="http://www.hipcalendar.com/ajax/nothip/4879" class="nothip_trigger">let us know</a>. <a href="#" class="cancel">close this</a>
+								</div>
+							</div>
+							<div class="event-description">
+								A reception for artist Susanne Carmack's Exhibition,
+Material Witness:  a retrospective of paintings, prints, collage and construction							</div>
+							<div 
+															<div class="buy-tickets">
+									<a href="http://www.thincsavannah.com" target="_blank"></a>
+								</div>
+																							<div class="event-map">
+								<h3>Map It</h3>
+								<div class="map-it">
+									<ul>
+										<li>Thincsavannah</li>
+										<li>35 Barnard St.</li>
+										<li>Savannah , GA 31401</li>
+									</ul>
+								</div>
+																<img src="http://maps.google.com/maps/api/staticmap?center=35+Barnard+St.+Savannah+%2C+GA+31401&zoom=15&size=370x200&maptype=roadmap&markers=color:blue|size:mid|35+Barnard+St.+Savannah+%2C+GA+31401&sensor=false" />
+																	<div class="map-overlay"></div>
+								<a class="get-directions" href="http://maps.google.com/maps?q=35+Barnard+St.+Savannah+%2C+GA+31401&hl=en&&ie=UTF8&view=map&f=d&z=16&daddr=35+Barnard+St.+Savannah+%2C+GA+31401" target="_blank"><span>Get Directions</span></a>
+							</div>
+							<!--//.event-map-->
+															<div class="social-icons">
+								<!--
+								<span class="st_twitter_button" displayText="Tweet"></span>
+								<span class="st_facebook_button" displayText="Facebook"></span>
+								-->
+								<span class="st_fblike_hcount" displayText="Facebook Like"></span>
+								<span class="st_twitter_hcount" displayText="Tweet"></span>
+								<span class="st_plusone_hcount" displayText="Google +1"></span>
+								<span class="st_tumblr_hcount" displayText="Tumblr"></span>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div id="event-detail-bottom">
+					<h3>You Might Also Dig...</h3>
+					<div class="hash">
+						<a href="https://twitter.com/#!/search/%23HipSAV">#HipSAV</a>
+					</div>
+											<div class="bucket">
+															<div class="image">
+									<a href="http://www.hipcalendar.com/events/detail/4405">
+										<img src="http://www.hipcalendar.com/images/cached/PAE_logo_87x115_cropped.jpg" width="87" height="115" alt="The Public Art Exhibition on Hilton Head Island" />
+									</a>
+								</div>
+															<div class="description">
+								<div class="time">
+									Wed, October 30 9am - 4:30pm @ <span>Coastal Discovery Museum at Honey Horn</span>								</div>
+								<div class="title">
+									<a href="http://www.hipcalendar.com/events/detail/4405">The Public Art Exhibition on Hilton Head Island</a>
+								</div>
+							</div>
+															<div class="category art">
+									Art								</div>
+															<div class="view-detail">
+								<a href="http://www.hipcalendar.com/events/detail/4405">&raquo; view</a>
+							</div>
+						</div>
+						<!-- bucket-end -->
+													<div class="bucket">
+															<div class="image">
+									<a href="http://www.hipcalendar.com/events/detail/4406">
+										<img src="http://www.hipcalendar.com/images/cached/PAE_logo_87x115_cropped.jpg" width="87" height="115" alt="The Public Art Exhibition on Hilton Head Island" />
+									</a>
+								</div>
+															<div class="description">
+								<div class="time">
+									Thu, October 31 9am - 4:30pm @ <span>Coastal Discovery Museum at Honey Horn</span>								</div>
+								<div class="title">
+									<a href="http://www.hipcalendar.com/events/detail/4406">The Public Art Exhibition on Hilton Head Island</a>
+								</div>
+							</div>
+															<div class="category art">
+									Art								</div>
+															<div class="view-detail">
+								<a href="http://www.hipcalendar.com/events/detail/4406">&raquo; view</a>
+							</div>
+						</div>
+						<!-- bucket-end -->
+													<div class="bucket right">
+															<div class="image">
+									<a href="http://www.hipcalendar.com/events/detail/4403">
+										<img src="http://www.hipcalendar.com/images/cached/PAE_logo_87x115_cropped.jpg" width="87" height="115" alt="The Public Art Exhibition on Hilton Head Island" />
+									</a>
+								</div>
+															<div class="description">
+								<div class="time">
+									Mon, October 28 9am - 4:30pm @ <span>Coastal Discovery Museum at Honey Horn</span>								</div>
+								<div class="title">
+									<a href="http://www.hipcalendar.com/events/detail/4403">The Public Art Exhibition on Hilton Head Island</a>
+								</div>
+							</div>
+															<div class="category art">
+									Art								</div>
+															<div class="view-detail">
+								<a href="http://www.hipcalendar.com/events/detail/4403">&raquo; view</a>
+							</div>
+						</div>
+						<!-- bucket-end -->
+												<br class="clear" />
+				</div>
+			</div>
+			<!--//#main-->
+			<br class="clear" />
+		</div>
+		<!--//#content-->
+		<div id="bottom-ad">
+			<!-- <div class="ad"><img src="/images/ad.jpg"/></div> -->
+			<!--
+			<div class="ad-area">
+				<div class="ad-large">
+					<div id='div-gpt-ad-1331218079826-0' style='width:728px; height:90px;'>
+						<script type='text/javascript'>
+						googletag.cmd.push(function() { googletag.display('div-gpt-ad-1331218079826-0'); });
+						</script>
+					</div>
+				</div>
+				<div class="ad-small">
+					<div id='div-gpt-ad-1331218242965-0' style='width:250px; height:90px;'>
+						<script type='text/javascript'>
+						googletag.cmd.push(function() { googletag.display('div-gpt-ad-1331218242965-0'); });
+						</script>
+					</div>
+				</div>
+			</div>
+			-->	
+		</div>
+		<!--//#bottom-ad-->
+	</div>
+	<!--//#middle-->
+	
+	<div id="bottom" class="grid-width">
+		<div id="footer" class="grid-width">
+			<div class="advertise">
+				<a href="http://www.hipcalendar.com/events/submit"><span>Submit your event</span></a>
+				<div class="button-shadow"></div>
+			</div>
+			<!--//#advertise
+			<div class="submit-event">
+				<a href="http://www.hipcalendar.com/page/advertise-with-us"><span>Advertise with us</span></a>
+				<div class="button-shadow"></div>
+			</div>
+			-->
+			<!--//#submit-event-->
+			<div class="footer-buckets">
+				<div id="map-coming"></div>
+				<div id="app-coming"></div>
+				<div class="footer1">
+					<div class="bucket-title">HipCalendar.com's Events Map</div>
+					<div class="map"></div>
+					<div class="bucket-bottom">The Nation's getting Hip! View Nationwide Map of Events.</div>
+				</div>
+				<div class="footer1 footer2">
+										<div class="bucket-title">Subscribe to HipCalendar.com</div>
+					<div class="bucket-sub-title">Add Events to Your Own Calendar!</div>
+					<div class="add-cal"></div>
+											<div class="bucket-bottom">Currently compatible with:<br/>iCal, gCal, yahoo, entourage</div>
+				</div>
+				<div class="footer1 footer2">
+					<div class="bucket-title">The <span class="orange">FREE</span> HipCalendar.com App<br/> <span class="blue">(For iPhone and Android …Coming Soon)</span></div>
+					<!--<div class="bucket-sub-title">Available in the App Store</div>-->
+					<br/>
+					<div class="qr-code"></div>
+					<div class="app-icon"></div>
+					<div style="clear: both;"></div>
+					<div class="buckets-app-store"></div>
+				</div>
+			</div>
+		</div>
+		<!--//#footer-->
+		<div id="lower-footer">
+			<div class="grid-width">
+				<div class="lower-footer-1">
+					<div class="logo-small"></div>
+					<div class="be-hip">
+						<span class="hip">Be Hip, Socialize:</span>
+						<div class="facebook"><a href="https://www.facebook.com/pages/HipCalendar/191284250938579" target="_blank"><span></span></a></div>
+						<div class="twitter"><a href="http://twitter.com/#!/hipcalendar" target="_blank"></a></div>
+					</div>
+					<div class="credits">
+						<div class="creative"><a href="http://www.creativecoast.com" target="_blank"></a></div>
+						<div class="whack"><a href="http://www.whackdesign.com" target="_blank" title="Savannah Web Development"></a></div>
+					</div>
+				</div>
+				<div class="lower-footer-2">
+					<div class="copyright">&copy;2011 hipcalendar.com</div>
+					<div class="menu">
+						<ul>
+							<!-- <li><a href="http://www.hipcalendar.com/page/advertise-with-us"><span>Advertise-With-Us<span></a></li> -->
+							<li><a href="http://www.hipcalendar.com/contact">Contact Us</a></li>
+							<li><a href="http://www.hipcalendar.com/page/about-us">About HipCalendar.com</a></li>
+							<li><a href="http://www.hipcalendar.com/page/terms-of-use">Terms of Use</a></li>
+							<li class="no-border"><a href="http://www.hipcalendar.com/page/disclaimer">Disclaimer</a></li>
+						</ul>
+					</div>
+					<div class="savannah">Made in Savannah, GA</div>
+				</div>
+			</div>
+		</div>
+		<!--//#lower-footer-->		<br class="clear" />
+	</div>
+	<!--//#bottom-->
+</div>
+<!--//#container -->
+
+<!--[if lt IE 9]> <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script> <![endif]-->
+<!--[if lt IE 7 ]>
+  <script src="/js/libs/dd_belatedpng.js"></script>
+  <script>DD_belatedPNG.fix("img, .png_bg"); // Fix any <img> or .png_bg bg-images. Also, please read goo.gl/mZiyb </script>
+<![endif]-->
+<script type="text/javascript">
+	var _usrp = {
+		type: "button",
+		company: "hipcal",
+		host: "hipcal.userrules.com",
+		mode: "advanced",
+		sso: {},
+		getVisitorId: function() {return "";},
+		getAdditionalParams: function() {return "";},
+		placement: "left",
+		color: ["#f69321", "#62615E"]
+	};
+
+	(function(D) {
+		var _usr = D.createElement("script"), s = D.getElementsByTagName("script")[0];
+		_usr.type = "text/javascript"; _usr.async = true;
+		_usr.src = ("https:" == D.location.protocol ? "https" : "http" ) + "://dtkm4pd19nw6z.cloudfront.net/js/userrules/9a41a826e957127b4e5bfc7d140e45c4/feedback.canary.js";
+		s.parentNode.insertBefore(_usr, s);
+	})(document);
+</script>
+</body>
+</html>

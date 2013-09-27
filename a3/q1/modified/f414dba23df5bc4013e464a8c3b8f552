@@ -1,0 +1,483 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xmlns:fb="http://www.facebook.com/2008/fbmld">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<title>A Yom Kippur love story: When Margot met Tamar | AWiderBridge</title>
+  <link rel="shortcut icon" href="http://awiderbridge.org/staging/wp-content/themes/awiderbridge/favicon.png" />
+	<link media="all" rel="stylesheet" type="text/css" href="http://awiderbridge.org/staging/wp-content/themes/awiderbridge/all.css" />
+	<link media="all" rel="stylesheet" type="text/css" href="http://awiderbridge.org/staging/wp-content/themes/awiderbridge/style.css" />
+  <link rel="alternate" type="application/atom+xml" href="http://awiderbridge.org/feed/atom/" title="Atom 1.0">
+        <link rel='stylesheet' id='contact-form-7-css'  href='http://awiderbridge.org/staging/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='podpress_frontend_styles-css'  href='http://awiderbridge.org/staging/wp-content/plugins/podpress/podpress.css?ver=3.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-ui-css'  href='http://awiderbridge.org/staging/wp-content/plugins/wp-ui/wp-ui.css?ver=3.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wpui-light-css'  href='http://awiderbridge.org/staging/wp-content/plugins/wp-ui/css/wpui-light.css?ver=3.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wpui-multiple-css'  href='http://awiderbridge.org/staging/wp-content/plugins/wp-ui/css/css.php?styles=wpui-light%7Cwpui-blue%7Cwpui-red%7Cwpui-green%7Cwpui-dark%7Cwpui-quark%7Cwpui-alma%7Cwpui-macish%7Cwpui-redmond%7Cwpui-sevin&#038;ver=3.5.1' type='text/css' media='all' />
+<script type="text/javascript">
+//<![CDATA[
+var podpressL10 = {
+	openblogagain : 'back to:',
+	theblog : 'the blog',
+	close : 'close',
+	playbutton : 'Play &gt;'
+}
+//]]>
+</script>
+<script type="text/javascript" src="http://awiderbridge.org/staging/wp-content/plugins/podpress/players/1pixelout/1pixelout_audio-player.js"></script>
+<script type="text/javascript">//<![CDATA[
+	var podPressPlayerFile = "1pixelout_player.swf";
+	var podPressPopupPlayerOpt = new Object();
+	podPressPopupPlayerOpt["bg"] = "E5E5E5";
+	podPressPopupPlayerOpt["text"] = "333333";
+	podPressPopupPlayerOpt["leftbg"] = "CCCCCC";
+	podPressPopupPlayerOpt["lefticon"] = "333333";
+	podPressPopupPlayerOpt["volslider"] = "666666";
+	podPressPopupPlayerOpt["voltrack"] = "FFFFFF";
+	podPressPopupPlayerOpt["rightbg"] = "B4B4B4";
+	podPressPopupPlayerOpt["rightbghover"] = "999999";
+	podPressPopupPlayerOpt["righticon"] = "333333";
+	podPressPopupPlayerOpt["righticonhover"] = "FFFFFF";
+	podPressPopupPlayerOpt["loader"] = "009900";
+	podPressPopupPlayerOpt["track"] = "FFFFFF";
+	podPressPopupPlayerOpt["border"] = "CCCCCC";
+	podPressPopupPlayerOpt["tracker"] = "DDDDDD";
+	podPressPopupPlayerOpt["skip"] = "666666";
+	podPressPopupPlayerOpt["slider"] = "666666";
+	podPressPopupPlayerOpt["initialvolume"] = "70";
+	podPressPopupPlayerOpt["buffer"] = "5";
+	podPressPopupPlayerOpt["checkpolicy"] = "no";
+	podpressAudioPlayer.setup("http://awiderbridge.org/staging/wp-content/plugins/podpress/players/1pixelout/" + podPressPlayerFile, {bg:"E5E5E5", text:"333333", leftbg:"CCCCCC", lefticon:"333333", volslider:"666666", voltrack:"FFFFFF", rightbg:"B4B4B4", rightbghover:"999999", righticon:"333333", righticonhover:"FFFFFF", loader:"009900", track:"FFFFFF", border:"CCCCCC", tracker:"DDDDDD", skip:"666666", slider:"666666", initialvolume:"70", buffer:"5", checkpolicy:"no",  pagebg:"FFFFFF", transparentpagebg:"yes", encode: "no"} );
+//]]></script>
+<script type="text/javascript">//<![CDATA[
+var podPressBlogURL = "http://awiderbridge.org/staging/";
+var podPressBackendURL = "http://awiderbridge.org/staging/wp-content/plugins/podpress/";
+var podPressDefaultPreviewImage = "http://widerbridge.org/staging/wp-content/plugins/podpress/images/vpreview_center.png";
+var podPressMP3PlayerWrapper = false;
+var podPress_cortado_signed = false;
+var podPressOverwriteTitleandArtist = false;
+var podPressHTML5 = true;
+var podPressHTML5_showplayersdirectly = false;
+var podPressText_PlayNow = "Play Now";
+var podPressText_HidePlayer = "Hide Player";
+//]]></script>
+<script type='text/javascript' src='http://awiderbridge.org/staging/wp-includes/js/jquery/jquery.js?ver=1.8.3'></script>
+<script type='text/javascript' src='https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.21/jquery-ui.min.js?ver=1.8.21'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpUIOpts = {"wpUrl":"http:\/\/awiderbridge.org","pluginUrl":"http:\/\/awiderbridge.org\/staging\/wp-content\/plugins\/wp-ui\/","enableTabs":"on","enableAccordion":"on","enableSpoilers":"on","enableDialogs":"on","tabsEffect":"none","effectSpeed":"400","accordEffect":"none","alwaysRotate":"stop","tabsEvent":"click","collapsibleTabs":"off","accordEvent":"click","topNav":"off","accordAutoHeight":"on","accordCollapsible":"off","accordEasing":"false","mouseWheelTabs":"false","bottomNav":"off","tabPrevText":"Prev","tabNextText":"Next","spoilerShowText":"Click to show","spoilerHideText":"Click to hide","cookies":"off","hashChange":"on","docWriteFix":"on","bleeding":"off","linking_history":"on","misc_options":"hashing_method=1\r\ntinymce_icon_row=3"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://awiderbridge.org/staging/wp-content/plugins/wp-ui/js/wp-ui.js?ver=0.8.5'></script>
+<script type='text/javascript' src='http://awiderbridge.org/staging/wp-content/plugins/podpress/js/podpress.js?ver=3.5.1'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://awiderbridge.org/staging/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://awiderbridge.org/staging/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Bay Shore interfaith service marks International Day of Peace' href='http://awiderbridge.org/bay-shore-interfaith-service-marks-international-day-of-peace/' />
+<link rel='next' title='Israel Celebrates &#8220;Bisexuality Visibility Day&#8221;' href='http://awiderbridge.org/israel-celebrates-bisexuality-visibility-day/' />
+<link rel='shortlink' href='http://awiderbridge.org/?p=14750' />
+
+<!-- All in One SEO Pack 1.6.14.5 by Michael Torbert of Semper Fi Web Design[308,383] -->
+<link rel="author" href="yanir" />
+
+<link rel="canonical" href="http://awiderbridge.org/a-yom-kippur-love-story-when-margot-met-tamar/" />
+<!-- /all in one seo pack -->
+<script charset="utf-8" type="text/javascript">var switchTo5x=false;</script><script charset="utf-8" type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher:'wp.f5cca5a1-5b89-4782-81ed-ab099b27fe6e'});var st_type='wordpress3.4.1';</script>	<meta property="fb:app_id" content="298947046901520"/>
+    <meta property="og:site_name" content="AWiderBridge"/>
+    
+        
+    <meta property="og:type" content="article" />
+
+	        <meta property="og:title" content=" &raquo; A Yom Kippur love story: When Margot met Tamar" />
+        
+	        <meta property="og:url" content="http://awiderbridge.org/a-yom-kippur-love-story-when-margot-met-tamar/"/>
+                	<meta property="og:image" content="http://awiderbridge.org/staging/wp-content/uploads/2013/09/MargotTamar-Featured-1-339x225.jpg" />
+        	
+	</head>
+<body>
+	<div id="wrapper">
+		<div id="header">
+			<div class="w1">
+				<div class="w2">
+					<strong class="logo"><a href="http://awiderbridge.org">AWiderBridge</a></strong>
+					<div class="header-block">
+						<div class="container">
+							<div class="header-box">
+								<form action="http://awiderbridge.us2.list-manage.com/subscribe?u=ae244d4d7d33971684f173ad7&id=1b788ed895" class="subscribe-form" method="get">
+									<fieldset>
+																								<input type="hidden" name="u" value="ae244d4d7d33971684f173ad7" />
+										<input type="hidden" name="id" value="1b788ed895" />
+										<input type="submit" value="subscribe"  class="btn-subscribe" />
+									</fieldset>
+								</form>
+								<ul class="social-networks">
+									<li class="facebook"><a href="http://www.facebook.com/AWiderBridge">facebook</a></li>
+						<li class="twitter"><a href="http://twitter.com/AWiderBridge">twitter</a></li>
+									<li class="rss"><a href="http://awiderbridge.org/feed/atom/">rss</a></li>
+								</ul>
+								<a href="http://www.razoo.com/story/A-Wider-Bridge?referral_code=share" target="_blank" class="btn-donate">donate</a>
+							</div>
+						</div>
+						<strong class="slogan">building lgbtq connections with israel</strong>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="navbar">
+			<div class="holder">
+				<ul id="nav" class=""><li id="menu-item-36" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36"><a href="http://awiderbridge.org/about/" >About</a>
+<ul class="sub-menu">
+	<li id="menu-item-1096" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1096"><a href="http://awiderbridge.org/about-our-website/" >Welcome to our website</a></li>
+	<li id="menu-item-198" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-198"><a href="http://awiderbridge.org/about/" >What we believe</a></li>
+	<li id="menu-item-37" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-37"><a href="http://awiderbridge.org/about/mission/" >What we do</a></li>
+	<li id="menu-item-42" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-42"><a href="http://awiderbridge.org/about/staff/" >Who we are</a></li>
+	<li id="menu-item-1072" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1072"><a href="http://awiderbridge.org/our-funders/" >Our Funders</a></li>
+	<li id="menu-item-661" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-661"><a href="http://awiderbridge.org/category/awb-news/" >News About A Wider Bridge</a></li>
+	<li id="menu-item-12171" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12171"><a href="http://awiderbridge.org/job-posting-director-of-programs-west-coast-and-fund-development/" >Job Posting</a></li>
+</ul>
+</li>
+<li id="menu-item-1677" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1677"><a href="http://awiderbridge.org/category/partners/" >PARTNERS</a>
+<ul class="sub-menu">
+	<li id="menu-item-287" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-287"><a href="http://awiderbridge.org/category/israeli-organizations/" >Israeli Organizations</a></li>
+	<li id="menu-item-289" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-289"><a href="http://awiderbridge.org/category/american-organizations/" >American Organizations</a></li>
+</ul>
+</li>
+<li id="menu-item-134" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-134"><a href="http://awiderbridge.org/category/programs/" >PROGRAMS</a>
+<ul class="sub-menu">
+	<li id="menu-item-435" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-435"><a href="http://awiderbridge.org/category/programs/upcoming-programs/" >Upcoming Programs</a></li>
+	<li id="menu-item-442" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-442"><a href="http://awiderbridge.org/category/programs/past-programs/" >Past Programs</a></li>
+	<li id="menu-item-665" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-665"><a href="http://awiderbridge.org/category/programs/college-programs/" >COLLEGE PROGRAMS</a></li>
+</ul>
+</li>
+<li id="menu-item-139" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-139"><a href="http://awiderbridge.org/category/travel/" >TRAVEL</a>
+<ul class="sub-menu">
+	<li id="menu-item-999" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-999"><a href="http://awiderbridge.org/category/travel/about-our-trips/" >About Our Trips</a></li>
+	<li id="menu-item-8876" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8876"><a href="http://awiderbridge.org/category/travel/israel-trip-2013/" >ISRAEL TRIP 2013</a></li>
+	<li id="menu-item-4681" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-4681"><a href="http://awiderbridge.org/category/programs/israel-trip-october-2012/" >Israel Trip October 2012</a></li>
+	<li id="menu-item-261" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-261"><a href="http://awb-form.herokuapp.com" onclick="javascript:_gaq.push(['_trackEvent','outbound-menu','http://awb-form.herokuapp.com']);">Trip registration</a></li>
+	<li id="menu-item-2554" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2554"><a href="http://awiderbridge.org/category/travel/israel-travel-tips/" >Israel Travel Tips</a></li>
+	<li id="menu-item-2751" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2751"><a href="http://awiderbridge.org/category/travel/food/" >Food</a></li>
+	<li id="menu-item-2284" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2284"><a href="http://awiderbridge.org/category/travel/other-travel-opportunities/" >OTHER TRAVEL OPPORTUNITIES</a></li>
+</ul>
+</li>
+<li id="menu-item-225" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-225"><a href="http://awiderbridge.org/category/resources/" >RESOURCES</a>
+<ul class="sub-menu">
+	<li id="menu-item-226" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-226"><a href="http://awiderbridge.org/category/resources/film/" >Film</a></li>
+	<li id="menu-item-233" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-233"><a href="http://awiderbridge.org/category/resources/music/" >Music</a></li>
+	<li id="menu-item-5447" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5447"><a href="http://awiderbridge.org/category/resources/arts/" >Arts</a></li>
+	<li id="menu-item-1929" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1929"><a href="http://awiderbridge.org/category/resources/multimedia/" >Multimedia</a></li>
+</ul>
+</li>
+<li id="menu-item-138" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor active current-post-parent menu-item-138"><a href="http://awiderbridge.org/category/news/" >NEWS</a></li>
+<li id="menu-item-243" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-243"><a href="http://awiderbridge.org/category/views/" >VIEWS</a>
+<ul class="sub-menu">
+	<li id="menu-item-301" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-301"><a href="http://awiderbridge.org/category/views/views-on-israel/" >VIEWS ON ISRAEL</a></li>
+	<li id="menu-item-302" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-302"><a href="http://awiderbridge.org/category/views/views-on-the-u-s/" >VIEWS ON THE U.S.</a></li>
+	<li id="menu-item-8993" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8993"><a href="http://awiderbridge.org/category/views/marriage-equality/" >On Marriage Equality and Gay Rights</a></li>
+	<li id="menu-item-275" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-275"><a href="http://awiderbridge.org/category/views/on-pinkwashing/" >On Pinkwashing</a></li>
+	<li id="menu-item-10148" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10148"><a href="http://awiderbridge.org/category/views/views-on-jewish-life/" >Views on Jewish Life</a></li>
+	<li id="menu-item-8994" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8994"><a href="http://awiderbridge.org/category/views/views-on-gay-life/" >Views on Gay Life</a></li>
+</ul>
+</li>
+<li id="menu-item-49" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-49"><a href="http://awiderbridge.org/connect/" >connect</a>
+<ul class="sub-menu">
+	<li id="menu-item-12169" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12169"><a href="http://awiderbridge.org/job-posting-director-of-programs-west-coast-and-fund-development/" >Job Posting</a></li>
+</ul>
+</li>
+</ul><form action="http://awiderbridge.org" id="searchform" class="search" method="get">
+	<fieldset>
+		<input type="text" class="field" value="" name="s" />
+		<input type="submit" value="Search" class="btn-search" />
+	</fieldset>
+</form>				
+			</div>
+		</div>
+		<div id="main">
+
+<div class="main-holder">
+	<div id="content">
+		<div class="block">
+												<div class="post-block">
+						<div class="container">
+							<h1 class="entry-title">A Yom Kippur love story: When Margot met Tamar</h1>
+
+							<p id="entry-bg">
+															<strong>Author:</strong> Danna Harman<br />
+																					<strong>Source:</strong> <a href="http://www.haaretz.com/news/features/.premium-1.546426" target="blank">Ha'aretz</a><br />
+																					<strong>Published:</strong> September 11, 2013														</p>
+
+						</div>
+						<div class="entry-content">
+							<h6>For two women, a veteran Israeli and an American immigrant, a romance that began on the Day of Atonement led to a wedding</h6>
+<p>Yom Kippur. It’s a day of atonement. A time of reflection. And probably one’s best opportunity to spend some quiet quality time with Hashem. And then there are those for whom it is also a romantic anniversary of sorts.</p>
+<p>The two 30-year-olds look sheepish. “Well…” begins Tamar Madeson, glancing sideways. “The thing is…” says her wife Margot Stern, attempting to pick it up. The women look at each other. Tamar laughs. Margot blushes.</p>
+<p>It started, as all new and hopeful things really should, right after Rosh Hashanah, four years ago.</p>
+<p>Margot was not in a great place. She had just broken up with her girlfriend and moved out of the apartment they had shared for nearly two years. On a friend’s couch, she found herself skimming through her Facebook inbox and noticed a week-old message she had never opened. The headline was “Hey Schmoopie.”</p>
+<p>“Hey Schmoopie?” Margot repeats slowly, looking at Tamar with a raised eyebrow. “I had no idea who was writing to me.”</p>
+<p>“You know, like in Seinfeld,” replies Tamar, a Jerusalemite, brightly explaining U.S. pop culture to her South Florida-born and -bred partner.</p>
+<p>The message was friendly, kind and easygoing — like Tamar herself. Something like “Hi! Hope life is good. Please send your girlfriend big hugs and take care and Shana Tova.”</p>
+<p>When Margot failed to respond, says Tamar, it was no big deal. “I was, like, ‘Oh well,’” she says.</p>
+<p><a href="http://www.haaretz.com/news/features/.premium-1.546426" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://www.haaretz.com']);" target="_blank">Read the full story on Ha&#8217;aretz</a> (some browsers require logging in)</p>
+<p><a href="http://awiderbridge.org/staging/wp-content/uploads/2013/09/1933871354.jpg" ><img class="alignnone size-full wp-image-14751" alt="1933871354" src="http://awiderbridge.org/staging/wp-content/uploads/2013/09/1933871354.jpg" width="100%" /></a></p>
+						</div>
+						<div class="container">
+							
+									<span class='st_facebook_buttons' st_title='A Yom Kippur love story: When Margot met Tamar' st_url='http://awiderbridge.org/a-yom-kippur-love-story-when-margot-met-tamar/' displayText='facebook'></span><span class='st_twitter_buttons' st_title='A Yom Kippur love story: When Margot met Tamar' st_url='http://awiderbridge.org/a-yom-kippur-love-story-when-margot-met-tamar/' displayText='twitter'></span></span><span class='st_sharethis_buttons' st_title='A Yom Kippur love story: When Margot met Tamar' st_url='http://awiderbridge.org/a-yom-kippur-love-story-when-margot-met-tamar/' displayText='sharethis'></span>
+						</div>
+						
+<div id="disqus_thread">
+    </div>
+
+<script type="text/javascript">
+/* <![CDATA[ */
+    var disqus_url = 'http://awiderbridge.org/a-yom-kippur-love-story-when-margot-met-tamar/';
+    var disqus_identifier = '14750 http://awiderbridge.org/?p=14750';
+    var disqus_container_id = 'disqus_thread';
+    var disqus_domain = 'disqus.com';
+    var disqus_shortname = 'awiderbridge';
+    var disqus_title = "A Yom Kippur love story: When Margot met Tamar";
+        var disqus_config = function () {
+        var config = this; // Access to the config object
+
+        /*
+           All currently supported events:
+            * preData — fires just before we request for initial data
+            * preInit - fires after we get initial data but before we load any dependencies
+            * onInit  - fires when all dependencies are resolved but before dtpl template is rendered
+            * afterRender - fires when template is rendered but before we show it
+            * onReady - everything is done
+         */
+
+        config.callbacks.preData.push(function() {
+            // clear out the container (its filled for SEO/legacy purposes)
+            document.getElementById(disqus_container_id).innerHTML = '';
+        });
+                config.callbacks.onReady.push(function() {
+            // sync comments in the background so we don't block the page
+            var script = document.createElement('script');
+            script.async = true;
+            script.src = '?cf_action=sync_comments&post_id=14750';
+
+            var firstScript = document.getElementsByTagName( "script" )[0];
+            firstScript.parentNode.insertBefore(script, firstScript);
+        });
+                    };
+    var facebookXdReceiverPath = 'http://awiderbridge.org/staging/wp-content/plugins/disqus-comment-system/xd_receiver.htm';
+/* ]]> */
+</script>
+
+<script type="text/javascript">
+/* <![CDATA[ */
+    var DsqLocal = {
+        'trackbacks': [
+        ],
+        'trackback_url': "http:\/\/awiderbridge.org\/a-yom-kippur-love-story-when-margot-met-tamar\/trackback\/"    };
+/* ]]> */
+</script>
+
+<script type="text/javascript">
+/* <![CDATA[ */
+(function() {
+    var dsq = document.createElement('script'); dsq.type = 'text/javascript';
+    dsq.async = true;
+        dsq.src = 'http' + '://' + disqus_shortname + '.' + 'disqus.com' + '/embed.js?pname=wordpress&pver=2.73';
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+})();
+/* ]]> */
+</script>
+					</div>
+									</div>
+	</div>
+	<div id="sidebar">
+				<h2>FEATURED</h2>
+		<div class="holder">
+							<div class="post">
+					<div class="visual"><img width="339" height="225" src="http://awiderbridge.org/staging/wp-content/uploads/2013/09/UntingTheKnot-Featured-1-339x225.jpg" class="attachment-post-thumbnail wp-post-image" alt="UntingTheKnot-Featured-1" /></div>
+					<div class="text">
+						<h3 class="entry-title"><a href="http://awiderbridge.org/must-read-lgbt-memoirs/">Must-Read LGBT Memoirs</a></h3>
+						<div class="entry-content">
+							<p>Nine new autobiographical stories explore gender and sexuality &#8211; some of them are Jewish.<br />
+Untying the Knot:&hellip; <a href="http://awiderbridge.org/must-read-lgbt-memoirs/"  class="read_more">Read more</a></p>
+							<a href="http://awiderbridge.org/must-read-lgbt-memoirs/" class="more-link">READ MORE</a>
+						</div>
+					</div>
+				</div>
+							<div class="post">
+					<div class="visual"><img width="339" height="225" src="http://awiderbridge.org/staging/wp-content/uploads/2013/09/Bisexual-Featured-1-339x225.jpg" class="attachment-post-thumbnail wp-post-image" alt="Bisexual-Featured-1" /></div>
+					<div class="text">
+						<h3 class="entry-title"><a href="http://awiderbridge.org/israel-celebrates-bisexuality-visibility-day/">Israel Celebrates &#8220;Bisexuality Visibility Day&#8221;</a></h3>
+						<div class="entry-content">
+							<p>Yesterday, September 23 was Celebrate Bisexuality Day around the world (also known as Bi Visibility Day), which&hellip; <a href="http://awiderbridge.org/israel-celebrates-bisexuality-visibility-day/"  class="read_more">Read more</a></p>
+							<a href="http://awiderbridge.org/israel-celebrates-bisexuality-visibility-day/" class="more-link">READ MORE</a>
+						</div>
+					</div>
+				</div>
+							<div class="post">
+					<div class="visual"><img width="339" height="225" src="http://awiderbridge.org/staging/wp-content/uploads/2013/09/YuvalTopperErez-Featured-339x225.jpg" class="attachment-post-thumbnail wp-post-image" alt="YuvalTopperErez-Featured" /></div>
+					<div class="text">
+						<h3 class="entry-title"><a href="http://awiderbridge.org/israel-transgender-man-recognized-as-father/">Israel: Transgender Man Recognized as Father</a></h3>
+						<div class="entry-content">
+							<p>In a precedent-setting move, Israel’s Interior Ministry has recognized two men as the biological fathers of a&hellip; <a href="http://awiderbridge.org/israel-transgender-man-recognized-as-father/"  class="read_more">Read more</a></p>
+							<a href="http://awiderbridge.org/israel-transgender-man-recognized-as-father/" class="more-link">READ MORE</a>
+						</div>
+					</div>
+				</div>
+							<div class="post">
+					<div class="visual"><img width="339" height="225" src="http://awiderbridge.org/staging/wp-content/uploads/2013/09/Ivri-Featured-1-339x225.jpg" class="attachment-post-thumbnail wp-post-image" alt="Ivri-Featured-1" /></div>
+					<div class="text">
+						<h3 class="entry-title"><a href="http://awiderbridge.org/ivri-lider-covers-yom-kippurs-issue-of-pnai-plus/">The New Ivri</a></h3>
+						<div class="entry-content">
+							<p>Ivri Lider looks great on the cover of the new &#8220;Pnai Plus&#8221; magazine (the Israeli equivalent of&hellip; <a href="http://awiderbridge.org/ivri-lider-covers-yom-kippurs-issue-of-pnai-plus/"  class="read_more">Read more</a></p>
+							<a href="http://awiderbridge.org/ivri-lider-covers-yom-kippurs-issue-of-pnai-plus/" class="more-link">READ MORE</a>
+						</div>
+					</div>
+				</div>
+							<div class="post">
+					<div class="visual"><img width="339" height="225" src="http://awiderbridge.org/staging/wp-content/uploads/2013/09/DorMichelson-Featured-1-339x225.jpg" class="attachment-post-thumbnail wp-post-image" alt="DorMichelson-Featured-1" /></div>
+					<div class="text">
+						<h3 class="entry-title"><a href="http://awiderbridge.org/teacher-comes-out-on-first-day-of-school/">Teacher Comes Out on First Day of School</a></h3>
+						<div class="entry-content">
+							<p>This week marks the opening of the school year in Israel, and Israeli middle-school teacher Dor Melichson&hellip; <a href="http://awiderbridge.org/teacher-comes-out-on-first-day-of-school/"  class="read_more">Read more</a></p>
+							<a href="http://awiderbridge.org/teacher-comes-out-on-first-day-of-school/" class="more-link">READ MORE</a>
+						</div>
+					</div>
+				</div>
+							<div class="post">
+					<div class="visual"><img width="339" height="225" src="http://awiderbridge.org/staging/wp-content/uploads/2013/05/Azrieli-LGBT-Featured-1-339x225.jpg" class="attachment-post-thumbnail wp-post-image" alt="Azrieli-LGBT-Featured-1" /></div>
+					<div class="text">
+						<h3 class="entry-title"><a href="http://awiderbridge.org/israel-2013/">A Wider Bridge&#8217;s LGBT Trip to Israel</a></h3>
+						<div class="entry-content">
+							<p>A Wider Bridge is proud to present: Our 3rd annual LGBT trip to Israel. Join us from&hellip; <a href="http://awiderbridge.org/israel-2013/"  class="read_more">Read more</a></p>
+							<a href="http://awiderbridge.org/israel-2013/" class="more-link">READ MORE</a>
+						</div>
+					</div>
+				</div>
+							<div class="post">
+					<div class="visual"><img width="339" height="225" src="http://awiderbridge.org/staging/wp-content/uploads/2013/08/Gal_Eytan-Featured-1-339x225.jpg" class="attachment-post-thumbnail wp-post-image" alt="Gal_Eytan-Featured-1" /></div>
+					<div class="text">
+						<h3 class="entry-title"><a href="http://awiderbridge.org/gal-and-eytan-25-years-together/">Gal and Eytan: 25 Years Together</a></h3>
+						<div class="entry-content">
+							<p>Director Eytan Fox (&#8216;Yossi &amp; Jagger,&#8217; &#8216;The Bubble&#8217;) and journalist Gal Uchovsky, are considered a &#8220;royalty couple&#8221;&hellip; <a href="http://awiderbridge.org/gal-and-eytan-25-years-together/"  class="read_more">Read more</a></p>
+							<a href="http://awiderbridge.org/gal-and-eytan-25-years-together/" class="more-link">READ MORE</a>
+						</div>
+					</div>
+				</div>
+							<div class="post">
+					<div class="visual"><img width="339" height="225" src="http://awiderbridge.org/staging/wp-content/uploads/2013/08/RedFlag-Featured-1-339x225.jpg" class="attachment-post-thumbnail wp-post-image" alt="RedFlag-Featured-1" /></div>
+					<div class="text">
+						<h3 class="entry-title"><a href="http://awiderbridge.org/israels-lgbt-community-raises-red-flag/">Israel&#8217;s LGBT Community Raises a RED FLAG</a></h3>
+						<div class="entry-content">
+							<p>Israeli LGBT activists have launched &#8220;Red Flag,&#8221; a new photography project, in order to raise awareness and&hellip; <a href="http://awiderbridge.org/israels-lgbt-community-raises-red-flag/"  class="read_more">Read more</a></p>
+							<a href="http://awiderbridge.org/israels-lgbt-community-raises-red-flag/" class="more-link">READ MORE</a>
+						</div>
+					</div>
+				</div>
+							<div class="post">
+					<div class="visual"><img width="339" height="225" src="http://awiderbridge.org/staging/wp-content/uploads/2013/08/IsraeliVegans-Featured-1-339x225.jpg" class="attachment-post-thumbnail wp-post-image" alt="IsraeliVegans-Featured-1" /></div>
+					<div class="text">
+						<h3 class="entry-title"><a href="http://awiderbridge.org/israeli-gay-and-vegan/">Israeli, Gay and Vegan</a></h3>
+						<div class="entry-content">
+							<p>Judaism teaches us to eat with great intention. But that&#8217;s not the only reason why a group&hellip; <a href="http://awiderbridge.org/israeli-gay-and-vegan/"  class="read_more">Read more</a></p>
+							<a href="http://awiderbridge.org/israeli-gay-and-vegan/" class="more-link">READ MORE</a>
+						</div>
+					</div>
+				</div>
+							<div class="post">
+					<div class="visual"><img width="339" height="225" src="http://awiderbridge.org/staging/wp-content/uploads/2013/08/Classof2012-Featured-1-339x225.jpg" class="attachment-post-thumbnail wp-post-image" alt="Classof2012-Featured-1" /></div>
+					<div class="text">
+						<h3 class="entry-title"><a href="http://awiderbridge.org/where-lgbt-jews-can-express-their-identities/">Where LGBT Jews can express their identities</a></h3>
+						<div class="entry-content">
+							<p>The Israeli LGBT community is getting ready for A Wider Bridge&#8217;s next trip to Israel: This week&hellip; <a href="http://awiderbridge.org/where-lgbt-jews-can-express-their-identities/"  class="read_more">Read more</a></p>
+							<a href="http://awiderbridge.org/where-lgbt-jews-can-express-their-identities/" class="more-link">READ MORE</a>
+						</div>
+					</div>
+				</div>
+			    <script type="text/javascript">
+    // <![CDATA[
+        var disqus_shortname = 'awiderbridge';
+        (function () {
+            var nodes = document.getElementsByTagName('span');
+            for (var i = 0, url; i < nodes.length; i++) {
+                if (nodes[i].className.indexOf('dsq-postid') != -1) {
+                    nodes[i].parentNode.setAttribute('data-disqus-identifier', nodes[i].getAttribute('rel'));
+                    url = nodes[i].parentNode.href.split('#', 1);
+                    if (url.length == 1) { url = url[0]; }
+                    else { url = url[1]; }
+                    nodes[i].parentNode.href = url + '#disqus_thread';
+                }
+            }
+            var s = document.createElement('script'); s.async = true;
+            s.type = 'text/javascript';
+                        s.src = 'http' + '://' + 'disqus.com/forums/' + disqus_shortname + '/count.js';
+            (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+        }());
+    //]]>
+    </script>
+		</div>
+		</div></div>
+		</div>
+		<div id="footer">
+			<div class="w1">
+				<div class="w2">
+					<a href="http://www.razoo.com/story/A-Wider-Bridge?referral_code=share" target="_blank" class="btn-donate">donate</a>
+					<ul class="social-networks">
+						<li class="facebook"><a href="http://www.facebook.com/AWiderBridge">facebook</a></li>
+						<li class="twitter"><a href="http://twitter.com/AWiderBridge">twitter</a></li>
+            <li class="rss"><a href="http://awiderbridge.org/feed/atom/">rss</a></li>
+					</ul>
+					<form action="http://awiderbridge.us2.list-manage.com/subscribe?u=ae244d4d7d33971684f173ad7&id=1b788ed895" class="subscribe-form" method="get">
+						<fieldset>
+							<input type="hidden" name="u" value="ae244d4d7d33971684f173ad7" />
+							<input type="hidden" name="id" value="1b788ed895" />
+							<input type="submit" value="subscribe"  class="btn-subscribe" />
+						</fieldset>
+					</form>
+					<span class="copy">&copy;2013 <a href="#">A WIDER BRIDGE</a>.</span>
+				</div>
+			</div>
+		</div>
+	</div>
+        <script type="text/javascript">
+          var _gaq = _gaq || [];
+          _gaq.push(['_setAccount', 'UA-33338672-1']);
+          _gaq.push(['_trackPageview']);
+
+          (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+          })();
+
+        </script>
+        <div id="fb-root"></div>
+<script>
+window.fbAsyncInit = function() {
+	FB.init({
+		appId		: '298947046901520',
+		channelUrl	: 'http://awiderbridge.org/staging/wp-content/plugins/wp-facebook-plugin/channel.php',
+		status		: true,
+		cookie		: true,
+		xfbml		: true
+	});
+	  FB.Event.subscribe('auth.login', function(response) {
+    window.location = document.location;
+  });  
+	// Additional initialization code here
+};
+</script>
+<script>
+// Load the SDK Asynchronously
+(function(d){
+   var js, id = 'facebook-jssdk', ref = d.getElementsByTagName('script')[0];
+   if (d.getElementById(id)) {return;}
+   js = d.createElement('script'); js.id = id; js.async = true;
+   js.src = "//connect.facebook.net/en_US/all.js";
+   ref.parentNode.insertBefore(js, ref);
+ }(document));
+ </script>
+<script type='text/javascript' src='http://awiderbridge.org/staging/wp-content/plugins/contact-form-7/includes/js/jquery.form.js?ver=3.09'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"http:\/\/awiderbridge.org\/staging\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Sending ..."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://awiderbridge.org/staging/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=3.2'></script>
+</body>
+</html>

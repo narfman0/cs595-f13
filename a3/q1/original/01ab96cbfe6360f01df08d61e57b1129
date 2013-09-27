@@ -1,0 +1,438 @@
+<!DOCTYPE html>
+
+<!--[if IE 7]>                  <html class="ie7 no-js"  lang="fr-FR"
+ xmlns:og="http://opengraphprotocol.org/schema/"
+ xmlns:fb="http://www.facebook.com/2008/fbml"     <![endif]-->
+<!--[if lte IE 8]>              <html class="ie8 no-js"  lang="fr-FR"
+ xmlns:og="http://opengraphprotocol.org/schema/"
+ xmlns:fb="http://www.facebook.com/2008/fbml"     <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!--> <html class="not-ie no-js" lang="fr-FR"
+ xmlns:og="http://opengraphprotocol.org/schema/"
+ xmlns:fb="http://www.facebook.com/2008/fbml">  <!--<![endif]-->
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+	
+	<title>LAKIM x Mr. Carmack &#8211; Kahala | LIMONADIER</title>
+
+	
+	<link rel="profile" href="http://gmpg.org/xfn/11" />
+	<link rel="pingback" href="http://www.limonadier.net/xmlrpc.php" />
+
+	<link rel="alternate" type="application/rss+xml" title="LIMONADIER &raquo; Flux" href="http://www.limonadier.net/feed/" />
+<link rel="alternate" type="application/rss+xml" title="LIMONADIER &raquo; Flux des commentaires" href="http://www.limonadier.net/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="LIMONADIER &raquo; LAKIM x Mr. Carmack &#8211; Kahala Flux des commentaires" href="http://www.limonadier.net/2013/09/24/lakim-x-mr-carmack-kahala/feed/" />
+<style type='text/css'>#upprev_box {display:block;right: -400px;}</style>
+<link rel='stylesheet' id='upprev-css-css'  href='http://www.limonadier.net/wp-content/plugins/upprev-nytimes-style-next-post-jquery-animated-fly-in-button/upprev.css?ver=3.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='spu-css-css'  href='http://www.limonadier.net/wp-content/plugins/social-popup/spu.css?ver=1.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='gsc_style-css'  href='http://www.limonadier.net/wp-content/plugins/google-custom-search/css/smoothness/jquery-ui-1.7.3.custom.css?ver=3.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='gsc_style_search_bar-css'  href='http://www.google.com/cse/style/look/minimalist.css?ver=3.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='gsc_style_search_bar_more-css'  href='http://www.limonadier.net/wp-content/plugins/google-custom-search/css/gsc.css?ver=3.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='cntctfrmStylesheet-css'  href='http://www.limonadier.net/wp-content/plugins/contact-form-plugin/css/style.css?ver=3.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-cpl-base-css-css'  href='http://www.limonadier.net/wp-content/plugins/wp-category-posts-list/static/css/wp-cat-list-theme.css?ver=2.0.3' type='text/css' media='all' />
+<link rel='stylesheet' id='ss-theme-styles-css'  href='http://www.limonadier.net/wp-content/themes/smartstart/style.css?ver=3.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='ss-main-heading-font-css'  href='http://fonts.googleapis.com/css?family=Open+Sans%3A300%2C300italic%2Cregular%2Citalic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic&#038;subset=greek-ext%2Ccyrillic-ext%2Cgreek%2Clatin-ext%2Ccyrillic%2Cvietnamese%2Clatin&#038;ver=3.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='ss-blockquote-heading-font-css'  href='http://fonts.googleapis.com/css?family=Pacifico%3Aregular&#038;subset=latin&#038;ver=3.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='fancybox-css'  href='http://www.limonadier.net/wp-content/themes/smartstart/css/jquery.fancybox.min.css?ver=3.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='video-js-css'  href='http://www.limonadier.net/wp-content/themes/smartstart/css/video-js.min.css?ver=3.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='audioplayerv1-css'  href='http://www.limonadier.net/wp-content/themes/smartstart/css/audioplayerv1.min.css?ver=3.5.1' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.limonadier.net/wp-content/plugins/jquery-updater/js/jquery-2.0.3.min.js?ver=2.0.3'></script>
+<script type='text/javascript' src='http://www.limonadier.net/wp-content/plugins/upprev-nytimes-style-next-post-jquery-animated-fly-in-button/upprev_js.php?ver=3.5.1'></script>
+<script type='text/javascript' src='http://connect.facebook.net/en_US/all.js?ver=1.6.1#xfbml=1'></script>
+<script type='text/javascript' src='http://platform.twitter.com/widgets.js?ver=1.6.1'></script>
+<script type='text/javascript' src='https://apis.google.com/js/plusone.js?ver=1.6.1'></script>
+<script type='text/javascript' src='http://www.limonadier.net/wp-content/plugins/social-popup/spu.js?ver=1.6.1'></script>
+<script type='text/javascript' src='http://www.limonadier.net/wp-content/plugins/google-custom-search/js/gsc.js?ver=3.5.1'></script>
+<script type='text/javascript' src='http://www.google.com/jsapi?ver=3.5.1'></script>
+<script type='text/javascript' src='http://www.limonadier.net/wp-content/plugins/jquery-updater/js/jquery-migrate-1.2.1.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://www.limonadier.net/wp-content/themes/smartstart/js/modernizr.custom.js?ver=3.5.1'></script>
+<script type='text/javascript' src='http://www.limonadier.net/wp-content/themes/smartstart/js/video-js.min.js?ver=3.5.1'></script>
+<script type='text/javascript' src='http://www.limonadier.net/wp-includes/js/comment-reply.min.js?ver=3.5.1'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.limonadier.net/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.limonadier.net/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='ESTA.- Grimey$hxt' href='http://www.limonadier.net/2013/09/24/esta-grimeyhxt/' />
+<link rel='next' title='C2C &#8211; Delta (Official Video)' href='http://www.limonadier.net/2013/09/25/c2c-delta-official-video/' />
+<meta name="generator" content="WordPress 3.5.1" />
+<link rel='canonical' href='http://www.limonadier.net/2013/09/24/lakim-x-mr-carmack-kahala/' />
+<link rel='shortlink' href='http://www.limonadier.net/?p=13331' />
+<meta property="fb:admins" content="139201776097248" />
+<meta property="fb:app_id" content="222353684518608" />
+<meta property="fb:page_id" content="139201776097248" />
+<meta property="og:site_name" content="LIMONADIER" />
+<meta property="og:title" content="LAKIM x Mr. Carmack – Kahala" />
+<meta property="og:url" content="http://www.limonadier.net/2013/09/24/lakim-x-mr-carmack-kahala/" />
+<meta property="og:type" content="article" />
+
+<style>
+/* Main styles */
+body {
+	color: #909090;
+	font: normal 14px/1.7 Trebuchet MS, "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
+}
+
+::-moz-selection { background: #ff6600; color: #fff; text-shadow: none; }
+::selection { background: #ff6600; color: #fff; text-shadow: none; }
+
+/* Background (hex) */
+body { background: #fff url() repeat top center ; }
+
+.tabs-nav li.active a,
+.ss-slider, .ss-slider .slide-images-container,
+.ss-slider .slide-bg-image, .ss-slider .buttons-container,
+.projects-carousel img, #portfolio-items article img,
+.comment .avatar,
+.not-ie #footer .container:after,
+.not-ie #footer .container:after  { background-color: #fff; }
+
+.button, input[type="submit"], button,
+.button:hover, input[type="submit"]:hover, button:hover,
+.dropcap.dark,
+#main-nav ul ul a,
+#main-nav ul ul a:hover, #main-nav ul ul .hover > a, #main-nav ul ul .current > a, #main-nav ul ul .current > a:hover,
+.ss-slider .slide-button .dropcap,
+.ss-slider .slide-content h1,
+.ss-slider .slide-content h2,
+.ss-slider .slide-content h3,
+.ss-slider .slide-content h4,
+.ss-slider .slide-content h5,
+.ss-slider .slide-content h6,
+.ss-slider .slide-content .button,
+#portfolio-items-filter a { color: #fff; }
+
+.tabs-nav li a { text-shadow: 0 1px 0 #fff; }
+
+.tabs-nav li.active a { border-bottom-color: #fff; }
+
+.ss-slider .slide-button, .no-js .ss-slider .slide-button:hover {
+-webkit-box-shadow: 1px 0 0 #fff inset, 0 1px 0 0 #fff inset;
+   -moz-box-shadow: 1px 0 0 #fff inset, 0 1px 0 0 #fff inset;
+        box-shadow: 1px 0 0 #fff inset, 0 1px 0 0 #fff inset;
+}
+
+.ss-slider .slide:first-child .slide-button {
+-webkit-box-shadow: 0 1px 0 0 #fff inset;
+   -moz-box-shadow: 0 1px 0 0 #fff inset;
+        box-shadow: 0 1px 0 0 #fff inset;
+}
+
+@media only screen and (max-width: 767px) { .ss-slider.fully-loaded, .ss-slider.fully-loaded .slide-images-container { background-color: #fff; } }
+
+/* Background (rgb) */
+.single-image .zoom, .image-gallery .zoom, .iframe .zoom,
+.no-js .single-image:before, .no-js .image-gallery:before, .no-js .iframe:before {
+	background: rgb(255,255,255);
+	background: rgba(255,255,255, 0.4);
+}
+
+
+/* Main heading font*/
+h1, h2, h3, h4, h5, h6,
+.button, input[type="submit"], button,
+.dropcap,
+label, input, textarea, select,
+#main-nav a,
+.ss-slider .slide-button h5,
+.projects-carousel, #portfolio-items,
+.entry-meta { font-family: "Open Sans", Trebuchet MS, "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif; }
+
+#main-nav ul ul a { font-family: Trebuchet MS, "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif; }
+
+@media only screen and (max-width: 959px) { .extended-pricing-table .features li:before { font-family: "Open Sans", Trebuchet MS, "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif; } }
+
+/* Blockquote font */
+blockquote { font-family: "Pacifico", Trebuchet MS, "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif; }
+
+/* Color scheme (hex) */
+.button, input[type="submit"], button,
+.not-ie #main-nav .current_page_item:after, .not-ie #main-nav .current_page_parent:after,
+#main-nav ul ul a:hover, #main-nav ul ul .hover > a,
+#main-nav ul ul .current_page_item > a, #main-nav ul ul .current_page_item > a:hover,
+#main-nav ul ul .current_page_parent > a, #main-nav ul ul .current_page_parent > a:hover,
+.ss-slider .active-slide-bar,
+.not-ie .projects-carousel a:hover:after, #portfolio-items > article:hover:after,
+.not-ie .team-member:hover:after,
+#portfolio-items-filter a  { background: #ff6600; }
+
+a:hover, a > *:hover,
+.button.no-bg:hover,
+#main-nav a:hover, #main-nav .hover > a,
+#main-nav .current_page_item > a, #main-nav .current_page_parent > a,
+.acc-trigger a:hover, .acc-trigger.active a, .acc-trigger.active a:hover,
+.tabs-nav li a:hover, .tabs-nav li.active a,
+.ss-slider .slide-button:hover, .ss-slider.fully-loaded .slide-button.active,
+.ss-slider.fully-loaded .slide-button.active h5,
+.ss-slider .slide-content a,
+.projects-carousel a:hover .title, #portfolio-items > article:hover .title,
+.entry-meta a:hover, .entry-meta a:hover time,
+a:hover > .post-format,
+.comment .author a:hover,
+.comment .date a:hover, .comment .date a:hover time,
+.pagination a:hover, .comments-pagination a:hover,
+.single-portfolio .page-header a:hover,
+.widget li a:hover,
+#sidebar .tweets-feed li a, #footer .tweets-feed li a,
+#footer a:hover, #footer-bottom a:hover  { color: #ff6600; }
+
+.button:hover .arrow,
+#back-to-top:hover, .touch-device #back-to-top:active,
+.jcarousel-next:hover, .jcarousel-next:focus, .jcarousel-next:active,
+.jcarousel-prev:hover, .jcarousel-prev:focus, .jcarousel-prev:active,
+.not-ie .projects-carousel a:hover:after, .not-ie #portfolio-items > article:hover:after,
+a:hover > .post-format { background-color: #ff6600; }
+
+#main-nav a:hover, #main-nav .hover > a,
+#main-nav .current_page_item > a, #main-nav .current_page_parent > a,
+.projects-carousel a:hover, #portfolio-items > article:hover,
+.team-member:hover  { border-bottom-color: #ff6600; }
+
+#main-nav a:hover, #main-nav .hover > a,
+#main-nav .current_page_item > a, #main-nav .current_page_parent > a,
+.tabs-nav li.active a { border-top-color: #ff6600; }
+
+@media only screen and (max-width: 959px) { .ss-slider.fully-loaded .slide-button.active { border-top-color: #ff6600; } }
+@media only screen and (max-width: 767px) { #main-nav > ul > .current:last-child a { border-bottom-color: #ff6600; } }
+
+/* Color scheme (rgb) */
+.image-gallery-slider-nav a, .ss-slider .pagination-container a {
+		background-color: rgba(255,102,0, 0.6);}
+
+.image-gallery-slider-nav a:hover, .image-gallery-slider-nav a:active,
+.ss-slider .pagination-container a:hover, .ss-slider.show-content-onhover:hover .pagination-container a:hover {
+		background-color: rgba(255,102,0, 1);}
+
+@media only screen and (max-width: 767px) {
+	.ss-slider .pagination-container a, .ss-slider .pagination-container a:hover {
+				background-color: rgba(255,102,0, 0.6);	}
+}
+
+
+</style>
+
+		
+<script>
+_V_.options.flash.swf = 'http://www.limonadier.net/wp-content/themes/smartstart/js/video-js.swf';
+</script>
+
+		<!-- All in one Favicon 4.3 --><link rel="icon" href="http://www.limonadier.net/wp-content/uploads/2012/11/favicon.png" type="image/png"/>
+<!-- Vipers Video Quicktags v6.4.5 | http://www.viper007bond.com/wordpress-plugins/vipers-video-quicktags/ -->
+<style type="text/css">
+.vvqbox { display: block; max-width: 100%; visibility: visible !important; margin: 10px auto; } .vvqbox img { max-width: 100%; height: 100%; } .vvqbox object { max-width: 100%; } 
+</style>
+<script type="text/javascript">
+// <![CDATA[
+	var vvqflashvars = {};
+	var vvqparams = { wmode: "opaque", allowfullscreen: "true", allowscriptaccess: "always" };
+	var vvqattributes = {};
+	var vvqexpressinstall = "http://www.limonadier.net/wp-content/plugins/vipers-video-quicktags/resources/expressinstall.swf";
+// ]]>
+</script>
+</head>
+
+<body class="single single-post postid-13331 single-format-audio">
+
+<header id="header" class="container clearfix">
+
+	<a href="http://www.limonadier.net/" id="logo" title="LIMONADIER">
+					<img src="http://www.limonadier.net/wp-content/uploads/2013/05/logolimo1-480x108.jpg" alt="LIMONADIER">
+			</a>
+	
+	<nav id="main-nav2">
+		
+	</nav><!-- end #main-nav -->
+
+
+	<nav id="main-nav">
+		<div class="menu-menu-categorie-container"><ul id="menu-menu-categorie" class="menu"><li id="menu-item-11474" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor menu-item-11474"><a href="http://www.limonadier.net/category/news/">News</a></li>
+<li id="menu-item-11471" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-11471"><a href="http://www.limonadier.net/category/electro/">Electronique</a></li>
+<li id="menu-item-11472" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-11472"><a href="http://www.limonadier.net/category/hip-hoprapbeatz/">HH / Beatz</a></li>
+<li id="menu-item-11473" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-11473"><a href="http://www.limonadier.net/category/poprock/">Pop / Rock</a></li>
+</ul></div>		<ul id="menu-page-daccueil" class="menu"><li id="menu-item-5911" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5911"><a href="http://www.limonadier.net/exclusive-mix/">Exclusive Mix</a></li>
+<li id="menu-item-7968" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7968"><a href="http://www.limonadier.net/category/news/interviews/">Interviews</a></li>
+<li id="menu-item-12558" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-12558"><a href="http://www.limonadier.net/category/debriefing-de-soirees/">Debriefing de Soirées</a></li>
+<li id="menu-item-10918" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10918"><a href="http://www.limonadier.net/nos-cocktails/">Limo&rsquo;s Mixtape</a></li>
+<li id="menu-item-10397" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-10397"><a href="http://www.limonadier.net/category/news/weekly-beats-selections/">Weekly Beats Selection</a></li>
+</ul>
+	</nav><!-- end #main-nav -->
+	
+</header><!-- end #header -->
+
+
+<section id="content" class="clearfix ">
+
+	<div class="container clearfix">
+
+		<header class="page-header">
+
+			<h1 class="page-title">LAKIM x Mr. Carmack &#8211; Kahala</h1>
+
+		</header><!-- end .page-header -->
+		
+
+		
+			<section id="main">
+
+				
+
+		
+			<article id="post-13331" class="post-13331 post type-post status-publish format-audio hentry category-weekly-beats-selections clearfix">
+
+				<div class="entry-body">
+
+	<div class="entry-audio">
+	
+	<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F81858180&amp;color=ff6600&amp;auto_play=false&amp;show_artwork=true"></iframe>		
+	</div><!-- end .entry-audio -->
+
+	<p><!-- Flash Video Resizer 1.5 : 480pixel --><br />
+<!-- Facebook Like Button v1.9.6 BEGIN [http://blog.bottomlessinc.com] --><br />
+<iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.limonadier.net%2F2013%2F09%2F24%2Flakim-x-mr-carmack-kahala%2F&amp;layout=button_count&amp;show_faces=false&amp;width=100&amp;action=like&amp;colorscheme=dark&amp;font=segoe+ui" scrolling="no" frameborder="0" allowTransparency="true" style="border:none; overflow:hidden; width:100px; height: 25px; align: left; margin: 1px 0px 1px 0px"></iframe><br />
+<!-- Facebook Like Button END --></p>
+
+</div><!-- end .entry-body -->
+
+<div class="entry-meta">
+
+	<ul><li><a href="http://www.limonadier.net/2013/09/24/lakim-x-mr-carmack-kahala/" title="Permalink to LAKIM x Mr. Carmack &#8211; Kahala" rel="bookmark"><span class="post-format audio">Permalink</span></a></li><li><span class="title">Posted:</span> <a href="http://www.limonadier.net/2013/09/24/lakim-x-mr-carmack-kahala/" title="20 h 57 min" rel="bookmark"><time datetime="2013-09-24T20:57:56+00:00" pubdate>sept 24 2013</time></a></li><li><span class="title">Comments:</span> <a title="Comment on LAKIM x Mr. Carmack &#8211; Kahala" href="http://www.limonadier.net/2013/09/24/lakim-x-mr-carmack-kahala/#comments">0</a></li></ul>
+</div><!-- end .entry-meta -->
+			</article><!-- end .hentry -->
+			
+			<section id="comments">
+
+	
+	
+	
+									<div id="respond">
+				<h3 id="reply-title">Leave a Comment <small><a rel="nofollow" id="cancel-comment-reply-link" href="/2013/09/24/lakim-x-mr-carmack-kahala/?utm_source=feedburner&amp;utm_medium=twitter&amp;utm_campaign=Feed%3A+blogspot%2FgFDYm+%28LIMONADIER%29&PHPSESSID=5vhe327rf3bmoqqgj8sfjn4iv4#respond" style="display:none;"> - Cancel reply</a></small></h3>
+									<form action="http://www.limonadier.net/wp-comments-post.php" method="post" id="commentform"><input type="hidden" name="PHPSESSID" value="5vhe327rf3bmoqqgj8sfjn4iv4" />
+																										<p class="comment-form-author input-block"><label for="author"><strong>Name</strong> (required)</label><input id="author" name="author" type="text" value="" size="30" aria-required='true' required /></p>
+<p class="comment-form-email input-block"><label for="email"><strong>Email</strong> (required)</label><input id="email" name="email" type="email" value="" size="30" aria-required='true' required /></p>
+<p class="comment-form-url input-block"><label for="url"><strong>Website</strong></label><input id="url" name="url" type="url" value="" size="30" /></p>
+												<p class="comment-form-comment"><label for="comment"><strong>Your Comment</strong></label><textarea id="comment" name="comment" cols="45" rows="8" aria-required="true" required></textarea></p>						<p class="form-allowed-tags">Vous pouvez utiliser ces balises et attributs <abbr title="HyperText Markup Language">HTML</abbr>&nbsp;:  <code>&lt;a href=&quot;&quot; title=&quot;&quot;&gt; &lt;abbr title=&quot;&quot;&gt; &lt;acronym title=&quot;&quot;&gt; &lt;b&gt; &lt;blockquote cite=&quot;&quot;&gt; &lt;cite&gt; &lt;code&gt; &lt;del datetime=&quot;&quot;&gt; &lt;em&gt; &lt;i&gt; &lt;q cite=&quot;&quot;&gt; &lt;strike&gt; &lt;strong&gt; </code></p>						<p class="form-submit">
+							<input name="submit" type="submit" id="submit" value="Laisser un commentaire" />
+							<input type='hidden' name='comment_post_ID' value='13331' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+						</p>
+						<p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="eecef8765e" /></p>					</form>
+							</div><!-- #respond -->
+						
+</section><!-- #comments -->
+				
+
+		
+			</section><!-- end #main -->
+
+			<aside id="sidebar">
+
+	
+		<div id="ss-social-links-2" class="widget ss-social-links"><h6 class="widget-title">Suivez nous, les amis !</h6><ul class="social-links"><li class="facebook"><a href="http://www.facebook.com/Limonadier.net" target="_blank">Facebook</a></li><li class="twitter"><a href="http://twitter.com/@LeLimonadier" target="_blank">Twitter</a></li><li class="youtube"><a href="http://www.youtube.com/channel/UCQAKNDn41dF5Avplr1l7M-A" target="_blank">Youtube</a></li></ul><!-- end .social-links --></div><div id="search-3" class="widget widget_search"><form method="get" id="searchform" action="http://www.limonadier.net/">
+	<label for="s" class="screenreader">Search</label>
+	<input type="text" class="field" name="s" id="s" placeholder="Search from the blog..." />
+	<input type="submit" class="submit" name="submit" id="searchsubmit" value="Search" />
+</form></div><div id="text-24" class="widget widget_text"><h6 class="widget-title">Ecoutez nous sur Shufflr.fm</h6>			<div class="textwidget"><center><a href="http://shuffler.fm/sites/lelimonadier" target=_blank><img src="https://s3.amazonaws.com/production-shuffler/assets/static/images/pages/branding/logo-circle.png" /> </a></center></div>
+		</div><div id="linkcat-876" class="widget widget_links"><h6 class="widget-title">Friendz</h6>
+	<ul class='xoxo blogroll'>
+<li><a href="http://www.bringyourjack.fr/">Bring Your Jack</a></li>
+<li><a href="http://www.chillcat.net" target="_blank">Chillcat</a></li>
+<li><a href="http://www.chineurdesons.com/">Chineur de Sons</a></li>
+<li><a href="http://www.delicieuse-musique.com/" target="_blank">Délicieuse Musique</a></li>
+<li><a href="http://wwww.dynamhit.org" title="La webradio la plus classe du web" target="_blank">Dynam&#039;Hit Webradio</a></li>
+<li><a href="http://bit.ly/ppAVAV">Live For The Funk</a></li>
+<li><a href="http://bit.ly/mS0I9B" rel="acquaintance" target="_blank">Mashed Electronic Potatoes</a></li>
+<li><a href="http://bit.ly/rUUyD4">One O&#039;Clock</a></li>
+<li><a href="http://bit.ly/q8MQXg">Rose au Carré</a></li>
+
+	</ul>
+</div>
+
+	
+	
+			
+</aside><!-- end #sidebar -->
+				
+		
+	</div><!-- end .container.clearfix -->
+	
+</section><!-- end #content -->
+
+
+	<footer id="footer" class="clearfix">
+
+		<div class="container">
+
+			<div class="three-fourth">
+
+				<div id="text-22" class="widget widget_text"><span class="widget-title">It&rsquo;s not just another tire-bouchon&#8230;</span>			<div class="textwidget"></div>
+		</div><div id="text-10" class="widget widget_text"><span class="widget-title">A propos</span>			<div class="textwidget"><p align="left">Le <b>Limonadier</b> est un webzine musical participatif, créé en 2010. Tous les styles de musique sont abordés. Notre vocation est de faire découvrir et partager nos coups de coeurs musicaux.</p>
+</div>
+		</div><div id="text-3" class="widget widget_text">			<div class="textwidget"><center><p><iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2Fpages%2FLimonadier%2F139201776097248%3Fref%3Dts&amp;layout=button_count&amp;show_faces=true&amp;width=450&amp;action=like&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:90px; height:21px;" allowTransparency="true"></iframe>
+<g:plusone size="medium" href="http://www.limonadier.net"></g:plusone></p></center></div>
+		</div>				
+			</div><!-- end .three-fourth -->
+
+			<div class="one-fourth last">
+
+				<div id="text-2" class="widget widget_text"><span class="widget-title">&#8230;Its also Beats and Frames !!</span>			<div class="textwidget"></div>
+		</div><div id="text-23" class="widget widget_text">			<div class="textwidget"><center><a href="http://www.limonadier.net/nous-contacter/">Nous Contacter </a></center></div>
+		</div><div id="text-19" class="widget widget_text">			<div class="textwidget"><a href="http://www.vice.com/fr/pages/vcn" target="_blank"><img src="http://www.limonadier.net/wp-content/uploads/2013/02/VICE-BloggingNetwork-copie.png" title="Vice Blogging Network"></a></div>
+		</div>
+			</div><!-- end .one-fourth.last -->
+			
+		</div><!-- end .container -->
+
+	</footer><!-- end #footer -->
+
+
+
+<div id="spu-bg"></div>
+				<div id="spu-main"><a href="#" onClick="spuFlush(1);" id="spu-close">Close</a><div id='spu-title'>Please support the site</div>
+<div id='spu-msg-cont'>
+     <div id='spu-msg'>
+    Rejoignez la grande famille du limonadier ! </br>
+     <div class="spu-button spu-twitter"><a href="https://twitter.com/LeLimonadier" class="twitter-follow-button" data-show-count="false" >Follow Me</a></div> <div class="spu-button spu-facebook"><div id="fb-root"></div><div class="fb-like" data-href="https://www.facebook.com/Limonadier.net" data-send="false" data-width="450" data-show-faces="true"data-layout="button_count"></div></div> <div class="spu-button spu-google"><div class="g-plusone" data-callback="googleCB" data-annotation="bubble" data-size="medium" data-href=""></div></div>
+     </div>
+    <div class='step-clear'></div>
+</div><span id="spu-timer"></span></div><div id='upprev_box'>
+	<h6>
+		More in <a href="http://www.limonadier.net/category/news/weekly-beats-selections/" title="Voir tous les articles dans Weekly Beats Selections" rel="category tag">Weekly Beats Selections</a><span class='num'> (1 of 58 articles)</span>
+	</h6>
+	<div class='upprev_excerpt'>
+		<p>
+			<a href="http://www.limonadier.net/2013/09/24/esta-grimeyhxt/" rel="prev">ESTA.- Grimey$hxt</a>
+		</p>
+	</div>
+	<button id='upprev_close' type='button'>Close</button>
+</div><!-- #upprev_box -->
+
+<script> var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-16242854-4']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+<script type='text/javascript' src='http://www.limonadier.net/wp-includes/js/jquery/ui/jquery.ui.core.min.js?ver=1.9.2'></script>
+<script type='text/javascript' src='http://www.limonadier.net/wp-includes/js/jquery/ui/jquery.ui.widget.min.js?ver=1.9.2'></script>
+<script type='text/javascript' src='http://www.limonadier.net/wp-includes/js/jquery/ui/jquery.ui.mouse.min.js?ver=1.9.2'></script>
+<script type='text/javascript' src='http://www.limonadier.net/wp-includes/js/jquery/ui/jquery.ui.resizable.min.js?ver=1.9.2'></script>
+<script type='text/javascript' src='http://www.limonadier.net/wp-includes/js/jquery/ui/jquery.ui.draggable.min.js?ver=1.9.2'></script>
+<script type='text/javascript' src='http://www.limonadier.net/wp-includes/js/jquery/ui/jquery.ui.button.min.js?ver=1.9.2'></script>
+<script type='text/javascript' src='http://www.limonadier.net/wp-includes/js/jquery/ui/jquery.ui.position.min.js?ver=1.9.2'></script>
+<script type='text/javascript' src='http://www.limonadier.net/wp-includes/js/jquery/ui/jquery.ui.dialog.min.js?ver=1.9.2'></script>
+<script type='text/javascript' src='http://www.limonadier.net/wp-content/themes/smartstart/js/respond.min.js?ver=3.5.1'></script>
+<script type='text/javascript' src='http://www.limonadier.net/wp-content/themes/smartstart/js/jquery.easing-1.3.min.js?ver=3.5.1'></script>
+<script type='text/javascript' src='http://www.limonadier.net/wp-content/themes/smartstart/js/jquery.fancybox.pack.js?ver=3.5.1'></script>
+<script type='text/javascript' src='http://www.limonadier.net/wp-content/themes/smartstart/js/jquery.cycle.all.min.js?ver=3.5.1'></script>
+<script type='text/javascript' src='http://www.limonadier.net/wp-content/themes/smartstart/js/jquery.smartStartSlider.min.js?ver=3.5.1'></script>
+<script type='text/javascript' src='http://www.limonadier.net/wp-content/themes/smartstart/js/jquery.isotope.min.js?ver=3.5.1'></script>
+<script type='text/javascript' src='http://www.limonadier.net/wp-content/themes/smartstart/js/jquery.jcarousel.min.js?ver=3.5.1'></script>
+<script type='text/javascript' src='http://www.limonadier.net/wp-content/themes/smartstart/js/audioplayerv1.min.js?ver=3.5.1'></script>
+<script type='text/javascript' src='http://www.limonadier.net/wp-content/themes/smartstart/js/jquery.touchSwipe-1.2.5.min.js?ver=3.5.1'></script>
+<script type='text/javascript' src='http://www.limonadier.net/wp-content/themes/smartstart/js/custom.js?ver=3.5.1'></script>
+
+
+</body>
+</html>

@@ -1,0 +1,583 @@
+<!DOCTYPE html>
+<script>var __pbpa = true;</script><script>var translated_warning_string = 'Aviso: Nunca introduzcas tu contrase\u00f1a de Tumblr a menos que la direcci\u00f3n \u201chttps://www.tumblr.com/login\u201d\x0aaparezca en la barra del navegador.\x0a\x0aTambi\u00e9n deber\u00edas ver el emblema verde de \u201cTumblr, Inc.\u201d en la barra de direcciones.\x0a\x0aLos spammers y otras personas malintencionadas utilizan formularios falsos para obtener contrase\u00f1as de forma il\u00edcita.\x0a\x0aTumblr jam\u00e1s te pedir\u00e1 que inicies sesi\u00f3n desde el blog de un usuario.\x0a\x0a\u00bfSeguro que quieres continuar?';</script><script type="text/javascript" language="javascript" src="http://assets.tumblr.com/assets/scripts/pre_tumblelog.js?_v=90496f22ffd4b193ff4f3aa39d43d2af"></script>
+<!DOCTYPE html>
+
+
+<!-- -------------------------------------------------------------
+     
+
+     Theme Neptune By Max Davis.
+     
+     
+     Get this free theme: themes.themaxdavis.com/theme/neptune
+     More Themes: themes.themaxdavis.com
+
+     
+     PROMOTE YOUR TUMBLR: themes.themaxdavis.com/spotlight
+     
+     
+     ------------------------------------------------------------- -->
+     
+
+<html lang="en">
+<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# blog: http://ogp.me/ns/blog#">
+<meta charset="utf-8" />
+<title>Conchetumadre - dynamite-with-a-laserbeam:
+
+ Pasquale Taraffo on...</title>
+<link rel="shortcut icon" href="http://25.media.tumblr.com/avatar_5f9294c73969_128.png"> 
+<link rel="alternate" type="application/rss+xml" href="http://perturbacionmental.tumblr.com/rss">
+<meta name="description" content="dynamite-with-a-laserbeam: &ldquo;Pasquale Taraffo on the Harp Guitar via Retronaut &rdquo;" />
+        
+<meta name="color:Background" content="#FFFFFF"/>
+<meta name="color:Center" content="#000000"/>
+<meta name="color:Titles" content="#FFFFFF"/>
+<meta name="color:Text" content="#FFFFFF"/>
+<meta name="color:Links" content="#FFFFFF"/>
+<meta name="color:Links Hover" content="#DDDDDD"/>
+<meta name="color:Borders" content="#FFFFFF"/>
+
+<meta name="image:Background Image" content="http://static.tumblr.com/b2ajd3k/doTmcm6qf/os_x_mountain_lion_galaxy_angelceballos.jpg" />
+<meta name="image:Header Logo" content="" />
+<meta name="image:Portrait" content="" />
+
+<meta name="if:Infinite scrolling" content="1" />
+<meta name="if:Sidebar left or right" content="1" />
+<meta name="if:Large or Small footer" content="1" />
+<meta name="if:Show Permalink On Photo Posts" content="0" />
+<meta name="if:Center Background img" content="0" />
+<meta name="if:Repeat Background img" content="0" />
+<meta name="if:Fixed Background img" content="0" />
+<meta name="if:Fullscreen Background img" content="1" />
+
+<meta name="text:Center Transparency" content="0.9" />
+<meta name="text:Reblog Title" content="Reblog post" />
+<meta name="text:Ask Title" content="Ask" />
+<meta name="text:Twitter Username" content=""/>
+<meta name="text:Link 1" content="" />
+<meta name="text:Link 1 Title" content="" />
+<meta name="text:Link 2" content="" />
+<meta name="text:Link 2 Title" content="" />
+<meta name="text:Link 3" content="" />
+<meta name="text:Link 3 Title" content="" />
+<meta name="text:Link 4" content="" />
+<meta name="text:Link 4 Title" content="" />
+<meta name="text:Link 5" content="" />
+<meta name="text:Link 5 Title" content="" />
+
+<script type="text/javascript" src="http://themaxdavisthemes.com/code/jQuery.js"></script><script type="text/javascript" src="http://static.tumblr.com/8jq17g7/Q6hmelz1k/jquery.tweet.js"></script>
+<script>
+$(window).load(function(){
+    var $wall = $('#center');
+    
+    $wall.masonry({
+      itemSelector: '.post, .twitter',
+      columnWidth:220
+    });
+    
+});
+
+    jQuery(function($){
+        $("#tweets").tweet({
+          username: "",
+          count: 3,
+          loading_text: "loading tweets..."
+        });
+    });
+</script>
+
+<style type="text/css">  html { background: url(http://static.tumblr.com/9f6df12f22d4dbdc06a54e0aad47c014/7oyvqwq/Cr4mnfm7g/tumblr_static_fondos_oscuros_0010.jpg) no-repeat center center fixed; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover;}  body { padding:0; margin:0; overflow-x:hidden; font-family: 'helvetica', arial, sans-serif; font-size:11px; color:#FFFFFF; } a {text-decoration:none; color:#FFFFFF; font-weight:800; -webkit-transition: all 0.2s linear; -moz-transition: all 0.2s linear; transition: all 0.2s linear;} a:hover { color:; -webkit-transition: all 0.2s linear; -moz-transition: all 0.2s linear; transition: all 0.2s linear;} a:active{outline: none;} a:focus{-moz-outline-style: none;} :-moz-any-link:focus{outline: none;} img{border:none;} .clear {clear:both;} .install_button: {position:fixed !important;} #tumblr_controls: {position:fixed !important;} #container{ margin: 0 auto; padding: 10px 20px 30px; position: relative; width: 860px;} #container #background { bottom: 0; left: 0; padding: 0 20px; position: absolute; top: 0; width: 860px; z-index:-1; opacity: 0.9; background-color:#000000;} #header{ width:860px;  margin:10px 0 20px;  } #header h1{ font-size: 70px; letter-spacing: -3px; margin: 0; padding:20px 0; word-spacing: -2px; text-overflow: ellipsis; overflow:hidden; white-space: nowrap; color:#FFFFFF;  -webkit-transition: all 0.3s ease; -moz-transition: all 0.3s ease; transition: all 0.3s ease;} #header h1:hover{ color:#FFFFFF;} #header img{ max-width:860px; max-height:300px;} #sidebar{ position: relative; width: 200px; z-index: 4000; color:#FFFFFF;   float:left;  } #sidebar h1{ font-size: 17px; height: 13px; line-height: 16px; margin: 15px 0; overflow: hidden; padding: 0 0 20px; text-overflow: ellipsis; text-transform: uppercase; white-space: nowrap; border-bottom:2px solid #f30a0a; color:#FFFFFF;  text-align: right; } #sidebar .inner{ margin:10px 0 0;} #sidebar .portrait{ width:200px;} #sidebar .portrait img{ max-width:200px;} #sidebar .description{ margin:5px 0 15px; padding:5px 0 20px; font-weight: 700;  text-align: right;   border-bottom:2px solid #f30a0a;   border-bottom:2px solid #f30a0a;    border-bottom:2px solid #f30a0a;   border-bottom:2px solid #f30a0a;   border-bottom:2px solid #f30a0a;   border-bottom:2px solid #f30a0a;  } #sidebar .links{ margin:0; padding:0 0 10px; list-style:none;} #sidebar .links a{ display: block; font-size: 10px; font-weight: 700; line-height: 150%; text-transform: capitalize; color:#FFFFFF;  text-align: right; } #sidebar .links a:hover{ color:#FFFFFF;} #sidebar .pagination{ padding:10px 0 0; font-weight:700; text-transform:uppercase; font-size:9px; line-height:12px; border-top:2px solid #f30a0a;} #sidebar .pagination .prev{ float:left;} #sidebar .pagination .next{ float:right;} #center{ width:660px;  float:right;  } #center .post{ width:200px; float:left; margin:0 20px 14px 0; overflow:hidden;  margin:0 0 20px 20px;   width:500px; overflow:visible;  } #center .photo_post{ } #center .post p{ margin:0;  margin:5px 0; } #center .post blockquote{ margin: 5px 0 5px 10px; padding-left: 10px; border-left: 2px solid #f30a0a;} #center .post .margin{   width:500px; } #center .post .margin h1, #center .twitter h1{ margin:0; padding:0; font-size:12px; text-transform:uppercase; line-height:14px; color:#FFFFFF;} #center .post .margin .source{ margin:5px 0 0;} #center .post .margin img{ max-width:150px; height:auto;  max-width:500px; } #center #tweets .tweet_list { list-style: none; margin: 0; padding: 0;} #center #tweets .tweet_list li { line-height: 110%; margin: 0 0 3px; padding: 5px 0 4px;} #center #tweets .tweet_list .tweet_time, #center #tweets .tweet_list .tweet_avatar, #center #tweets .tweet_list .tweet_avatar img { display:none;} #center .post .chat{ margin:0; padding:0; list-style:none;} #center .post .chat li{ font-weight:bold; font-size:9px; padding: 4px 5px; border-bottom:1px solid ; } #center .post .chat li:last-child{ margin:0 0 8px; border:none;} #center .asker_portrait { float:left; width:30px; height:30px; margin-right:10px; margin-bottom:10px; display:none;} #center .question { font-weight: bold; line-height: 11px; margin-bottom: 10px; width: 200px;  width:auto; } #center .question span{ text-transform:uppercase;} #center .answer{ clear: both; display: block; font-style: italic; font-weight: bold; line-height: 20px; margin: 10px;} #center .answer p{ margin:0; padding:0; line-height: 13px;} #center .photoset { margin:0 0 0 -12.5px; position:relative;} #center .photoset .box{ background-color: rgba(0, 0, 0, 0.3); background-image: url("http://static.tumblr.com/8jq17g7/ZRflvr254/screen-pattern.png"); bottom: 4px; box-shadow: 0 0 30px rgba(0, 0, 0, 0.7) inset; height: 100%; margin: 0 0 0 12.5px; position: absolute; width: 200px; z-index: 500;} #center .photoset .hover{ background: none repeat scroll 0 0 rgba(0, 0, 0, 0.9); bottom: 50%; box-shadow: 0 -3px 0 rgba(0, 0, 0, 0.4), 0 3px 0 rgba(0, 0, 0, 0.4); font-family: 'Cookie',cursive; font-size: 16px; line-height: 16px; margin: 0 0 -58px 0; padding: 40px 0; position: absolute; text-align: center; width: 200px; z-index: 500;} #center .photoset:hover .box{ background-color: rgba(0, 0, 0, 0.6);} #center .photoset:hover .hover{ box-shadow:none; background-color: rgba(0, 0, 0, 0.0);} #center .photoset .hover a{color:white;} #center .photoset .hover a:hover{color:white;} #center .photoset .hover a.set{ display: block; font-family: 'Open Sans',arial; font-size: 9px; font-weight: bold; letter-spacing: 10px; line-height: 10px; margin: 0 0 10px 10px;} #center .post .audio{ background: none repeat scroll 0 0 black; overflow: hidden; padding: 5px 5px 1px; width: 190px;  width:496px; } #center .post .inner{ margin: auto; overflow: hidden; width: 28px;} #center .post .picture{ position:relative; width:200px;  width:500px; } #center .post .picture img{ width:200px; display:block;  width:500px; } #center .post .picture .hover{ position:absolute; height:100%; width:200px; background:rgba(0,0,0,0.85); opacity:0; -webkit-transition: all 0.8s ease; -moz-transition: all 0.8s ease; transition: all 0.8s ease;} #center .post .picture .hover:hover{ opacity:1; -webkit-transition: all 0.8s ease; -moz-transition: all 0.8s ease; transition: all 0.8s ease;} #center .post .picture .hover .box{ height: 52px; left: 0; margin: -21px 0 0; position: absolute; right: 0; text-align: center; top: 50%; width: 200px;} #center .post .picture .hover .notes{ border-bottom: 1px dotted rgba(255, 255, 255, 0.3); display: inline-block; font-family: Andale Mono,Courier New,Courier; font-size: 18px; font-weight: bold; letter-spacing: 10px; line-height: 100%; margin: 0 auto 13px; padding: 0 5px 12px 15px; text-align: center;} #center .post .picture .hover .reblog{ color: white; display: block; font-size: 7px; font-style: italic; letter-spacing: 3px; padding: 0 0 0 4px; text-align: center; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); text-transform: uppercase;} .notes a, .reblog a{color:white;font-weight:normal;} .notes a:hover, .reblog a:hover{color:white;} #center .post .caption{ padding: 10px 13px; position: relative; background: none repeat scroll 0 0 #f30a0a; border-bottom: 18px solid #FFFFFF;  margin: 0 0 -12px;  } #center .post .caption img { max-width:100%; height: auto;} #center .post .au_caption{ border:none;} #center .post .permalink{ margin: 10px 0 0; padding: 6px 6px 5px;  border-top:2px solid #f30a0a; border-bottom:2px solid #f30a0a; color:#f30a0a;} #center .post .permalink a{ font-size:10px; font-weight:700; text-transform:uppercase; color:#FFFFFF; margin:0 10px;} #center .post .permalink a:hover{ color:#FFFFFF} #center .post .permalink a:last-child{ margin:0 0 0 10px;} #center .post .photo_perma{  display:none;  } #center #share { clear: both; height: 20px; margin: 10px 0; padding: 0 13px; position:relative;} #center #share .tweet_button { float: left; width: 85px;} #center #share .like_button { float: left;} #center #share #permalink_navigation { color: #999999; font-family: Lucida Grande; font-size: 20px; font-weight: bold; height: 24px; line-height: 16px; opacity: 0.4; position: absolute; right: 0; color:#FFFFFF;} #center #share #permalink_navigation a{ color:#FFFFFF;} #center .twitter{ width:200px; float:left; margin:0 20px 20px 0; overflow:hidden;  margin:0 0 20px 20px; } #center .twitter .border{ margin:5px 0; border-bottom:2px solid #f30a0a;} #center .twitter #twitter_update_list{ margin:0; padding:0; list-style:none;} #center .twitter #twitter_update_list li{ padding: 4px 5px; } #center .twitter #twitter_update_list li a{ font-weight:normal;} #center .twitter #twitter_update_list li span { font-weight:900;} #center .twitter #twitter_update_list li span a{ font-weight:normal;} #center .twitter #twitter_update_list li a:hover{ text-shadow:none;} #center .twitter #twitter_update_list li:nth-child(even){ background:#f30a0a; color:#FFFFFF;} #center .twitter #twitter_update_list li:nth-child(even) a{ color:#FFFFFF;} #center .twitter #twitter_update_list li:last-child{ margin:0} ol.notes { clear: both; font-weight: normal; list-style-type: none; margin: 10px 0; padding: 9px 6px; border-top: 2px solid #f30a0a; } ol.notes a{ text-decoration:none; padding:0; background-color:transparent;} ol.notes li.note { padding: 2px 0; } ol.notes li.note img.avatar { vertical-align: -4px; margin-right: 10px; width: 16px; height: 16px; display:none;} ol.notes li.note span.action a{ font-weight:bold; color:#FFFFFF;} ol.notes li.note .answer_content { color:black;} ol.notes li.note blockquote { border-left: medium none !important; font-size: 11px; margin: 3px 0 0 !important; padding: 3px 8px 2px !important; text-transform: none; background:#f30a0a;} ol.notes li.note blockquote a { color:#FFFFFF;} ol.notes li.note .note more_notes_link_container { font-size: 8px; font-weight: bold; letter-spacing: 2px; margin: 10px 0 0; padding: 10px; text-align: center; color:#FFFFFF; border-top: 2px solid #f30a0a;} .footer { bottom: 0; display: none; left: 50%; position: fixed; z-index:5000;  width: 860px; margin: 0 0 0 -450px; padding: 5px 20px; opacity: 0.85; -webkit-transition: all 0.8s ease; -moz-transition: all 0.8s ease; transition: all 0.8s ease;  } .footer #background { bottom: 0; left: 0; padding: 0 20px; position: absolute; top: 0; width: 860px; z-index:-1; opacity:0.5; background-color:#000000;  -webkit-transition: all 0.8s ease; -moz-transition: all 0.8s ease; transition: all 0.8s ease;} .footer:hover #background { opacity:0.8; -webkit-transition: all 0.8s ease; -moz-transition: all 0.8s ease; transition: all 0.8s ease;} .footer h1{ font-weight: 700; line-height: 100%; text-transform: uppercase; color:#FFFFFF;  float:left; font-size: 13px; margin: -1px 0 -4px; padding: 6px 20px 5px 0;  } .footer .links{ padding:0; margin: 6px 0 0; float:left; } .footer .links a{ font-size:9px; font-weight:700; text-transform:uppercase;  margin:0 10px 0 0;   color:#FFFFFF; } .footer .links a:hover{ color:#FFFFFF} .footer #up{ bottom: 6px; font-size: 9px; font-weight: 700; margin: 0; position: absolute; right: 20px; text-transform: uppercase; color:#FFFFFF; } .footer .pagination{ float: right; font-size: 9px; font-weight: 700; line-height: 12px; margin: 6px 0 0; text-transform: uppercase; width: 200px;} .footer .pagination .prev{ float:left;} .footer .pagination .next{ float:right;} </style>
+
+<!-- BEGIN TUMBLR FACEBOOK OPENGRAPH TAGS -->
+<!-- If you'd like to specify your own Open Graph tags, define the og:url and og:title tags in your theme's HTML. -->
+<!-- Read more: http://ogp.me/ -->
+<meta property="fb:app_id" content="48119224995" />
+<meta property="og:site_name" content="Conchetumadre" />
+<meta property="og:title" content="" />
+<meta property="og:url" content="http://perturbacionmental.tumblr.com/post/62189570389/dynamite-with-a-laserbeam-pasquale-taraffo-on" />
+<meta property="og:description" content="dynamite-with-a-laserbeam:
+&ldquo;Pasquale Taraffo on the Harp Guitar via Retronaut
+&rdquo;" />
+<meta property="og:determiner" content="a" />
+<meta property="og:type" content="tumblr-feed:photo" />
+<meta property="og:image" content="http://25.media.tumblr.com/0b68229aa40263fde2c33483e612c099/tumblr_mtltu4F36X1ruc24so1_1280.jpg" />
+<!-- END TUMBLR FACEBOOK OPENGRAPH TAGS -->
+
+
+<!-- TWITTER TAGS -->
+<meta charset="utf-8">
+            <meta name="twitter:card" content="photo" />
+            <meta name="twitter:description" content="dynamite-with-a-laserbeam: &ldquo;Pasquale Taraffo on the Harp Guitar via Retronaut &rdquo;" />
+            <meta name="twitter:image" content="http://25.media.tumblr.com/0b68229aa40263fde2c33483e612c099/tumblr_mtltu4F36X1ruc24so1_500.jpg" />
+            <meta name="twitter:url" content="http://perturbacionmental.tumblr.com/post/62189570389/dynamite-with-a-laserbeam-pasquale-taraffo-on" />
+            <meta name="twitter:site" content="tumblr" />
+            <meta name="twitter:creator" content="javierconchetum" />
+            <meta name="twitter:app:name:iphone" content="Tumblr" />
+            <meta name="twitter:app:name:ipad" content="Tumblr" />
+            <meta name="twitter:app:name:googleplay" content="Tumblr" />
+            <meta name="twitter:app:id:iphone" content="305343404" />
+            <meta name="twitter:app:id:ipad" content="305343404" />
+            <meta name="twitter:app:id:googleplay" content="com.tumblr" />
+            <meta name="twitter:app:url:iphone" content="tumblr://x-callback-url/blog?blogName=perturbacionmental&amp;postID=62189570389&amp;referrer=twitter-cards" />
+            <meta name="twitter:app:url:ipad" content="tumblr://x-callback-url/blog?blogName=perturbacionmental&amp;postID=62189570389&amp;referrer=twitter-cards" />
+            <meta name="twitter:app:url:googleplay" content="tumblr://x-callback-url/blog?blogName=perturbacionmental&amp;postID=62189570389&amp;referrer=twitter-cards" />
+    
+
+<script type="text/javascript" src="http://assets.tumblr.com/assets/scripts/tumblelog.js?_v=cf7aeb03e820314a6cb2890dfa192802"></script>
+<meta http-equiv="x-dns-prefetch-control" content="off"/>
+</head>
+<body>
+
+<div id="fb-root"></div>
+<script>
+    (function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+</script>
+
+<div id="container">
+<div id="background"></div>
+<div id="header">
+    
+    <a href="/"><h1>Conchetumadre</h1></a>
+    
+    
+</div>
+
+<div id="sidebar">
+   <a href="/">
+   <div class="portrait"><center>
+       <img src="http://static.tumblr.com/743231cf877eed5e5882d5a0448b1d38/7oyvqwq/uvQmnfm2r/tumblr_static_472621_623454081016894_1501431052_o.jpg" />
+   </center></div></a>
+   
+   
+   <div class="inner">
+   <a href="/"><h1>Conchetumadre</h1></a>
+   <div class="description"><!-- inicio codigo contador --><a href="http://contador-de-visitas.com"><img style="border: 0px solid ; display: inline;" alt="contador de visitas" 
+	src="http://contador-de-visitas.com/hit.php?id=1218679&counter=6"></a><br /><a href="http://contador-de-visitas.com">contador visitas</a><!-- fin codigo contador -->
+
+Javier 16 años, antipático, amargado , flojo , matapasiones , enfermo mental, cruel , 
+
+gore, sangre, tetas, sexo , gatitos , bizarro , dark , heridas , cortes blablabla.
+
+mande un ask si no quiere que me aparezca por su casa en la noche</div>
+
+       <ul class="links">
+             
+             <a href="/ask">
+             preguntitas?
+             
+             </a>
+             
+             <a href="/submit">mande su post c:</a>
+              
+             
+              
+             <a href="http://www.facebook.com/javierconchetumadreywea">
+             feibun</a>
+             
+              
+             <a href="http://ask.fm/account/wall">
+             ask fm</a>
+             
+              
+             <a href="http://xat.com/Dragon_Zombie">
+             Chat "Dragon zombie"</a>
+             
+              
+             <a href="/tagged/videos">
+             videos</a>
+             
+             
+        </ul>
+        
+        
+        
+   </div>
+</div>
+
+<div id="center">
+    
+
+    
+    <div class="post photo_post">
+        
+
+        
+            <div class="picture">
+               
+            <img src="http://25.media.tumblr.com/0b68229aa40263fde2c33483e612c099/tumblr_mtltu4F36X1ruc24so1_500.jpg" alt="dynamite-with-a-laserbeam:
+
+Pasquale Taraffo on the Harp Guitar via Retronaut"/>
+            </div>
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+        
+        
+      
+         
+        
+         
+         
+        <div class="caption">
+            <p><a href="http://dynamite-with-a-laserbeam.tumblr.com/post/62108810772/pasquale-taraffo-on-the-harp-guitar-via-retronaut" class="tumblr_blog" target="_blank">dynamite-with-a-laserbeam</a>:</p>
+
+<blockquote><p><span>Pasquale Taraffo on the Harp Guitar via <a href="http://www.retronaut.com/2013/09/pasquale-taraffo-harp-guitar/" title="retronaut" target="_blank">Retronaut</a></span></p></blockquote>
+        </div>
+        <div class="permalink">
+            
+            <a href="http://perturbacionmental.tumblr.com/post/62189570389/dynamite-with-a-laserbeam-pasquale-taraffo-on">♥ 10</a> -
+            
+            <a href="http://perturbacionmental.tumblr.com/post/62189570389/dynamite-with-a-laserbeam-pasquale-taraffo-on">hace 2 días</a>
+             -
+            <a href="http://dynamite-with-a-laserbeam.tumblr.com/post/62108810772/pasquale-taraffo-on-the-harp-guitar-via-retronaut" target="_blank">
+            Source</a></li>
+             
+             -
+            <a href="http://25.media.tumblr.com/0b68229aa40263fde2c33483e612c099/tumblr_mtltu4F36X1ruc24so1_1280.jpg" target="_blank">
+            High-Res</a></li>
+            
+            
+        </div>
+        <div id="share">
+            <div class="tweet_button">
+            <a href="https://twitter.com/share" class="twitter-share-button">Tweet</a><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+            </div>
+            <div class="like_button">
+                <div class="fb-like" data-href="http%3A%2F%2Fperturbacionmental.tumblr.com%2Fpost%2F62189570389%2Fdynamite-with-a-laserbeam-pasquale-taraffo-on" data-send="false" data-layout="button_count" data-width="450" data-show-faces="false"></div>
+            </div>
+            
+            
+                <div id="permalink_navigation">
+                    
+                    <a href="http://perturbacionmental.tumblr.com/post/62189573107" title="Newer Post"><</a>
+                    / 
+                    
+                    <a href="http://perturbacionmental.tumblr.com/post/62189555664" title="Older Post">></a>
+                    
+                </div>
+            
+        </div>
+        
+        
+        
+
+<ol class="notes">
+
+    <!-- START NOTES -->
+                            
+        
+                                                                
+        
+        
+        <li class="note like tumblelog_kevincurbstomp without_commentary">
+
+                                                                                <a rel="nofollow" class="avatar_frame" target="_blank" href="http://kevincurbstomp.tumblr.com/" title="Bumps in the night " rel="nofollow"><img src="http://31.media.tumblr.com/avatar_542857ceda3e_16.png" class="avatar " alt="" /></a>
+                
+                <span class="action">
+                    
+                                            A <a rel="nofollow" href="http://kevincurbstomp.tumblr.com/" title="Bumps in the night" rel="nofollow">kevincurbstomp</a> le gusta esto                                    </span>
+
+                <div class="clear"></div>
+
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note reblog tumblelog_perturbacionmental without_commentary">
+
+                        
+                
+                                                                                        <a rel="nofollow" class="avatar_frame" target="_blank" href="http://perturbacionmental.tumblr.com/" title="Conchetumadre"><img src="http://25.media.tumblr.com/avatar_5f9294c73969_16.png" class="avatar " alt="" /></a>
+                    
+                    <span class="action" data-post-url="http://perturbacionmental.tumblr.com/post/62189570389">
+                                                    
+                                                                                                                                                                                    <a rel="nofollow" href="http://perturbacionmental.tumblr.com/" class="tumblelog" title="Conchetumadre">perturbacionmental</a> ha reblogueado esto desde <a rel="nofollow" href="http://dynamite-with-a-laserbeam.tumblr.com/" class="source_tumblelog" title="you know, her life was saved by rock n roll">dynamite-with-a-laserbeam</a>                                                                                                                                                                                    </span>
+                    <div class="clear"></div>
+
+                                    
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note like tumblelog_ruttileandfigarette without_commentary">
+
+                                                                                <a rel="nofollow" class="avatar_frame" target="_blank" href="http://ruttileandfigarette.tumblr.com/" title="&quot;Catastrophe&quot; " rel="nofollow"><img src="http://31.media.tumblr.com/avatar_b1b78d64fd17_16.png" class="avatar " alt="" /></a>
+                
+                <span class="action">
+                    
+                                            A <a rel="nofollow" href="http://ruttileandfigarette.tumblr.com/" title="&quot;Catastrophe&quot;" rel="nofollow">ruttileandfigarette</a> le gusta esto                                    </span>
+
+                <div class="clear"></div>
+
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note reblog tumblelog_ruttileandfigarette without_commentary">
+
+                        
+                
+                                                                                        <a rel="nofollow" class="avatar_frame" target="_blank" href="http://ruttileandfigarette.tumblr.com/" title="&quot;Catastrophe&quot;"><img src="http://31.media.tumblr.com/avatar_b1b78d64fd17_16.png" class="avatar " alt="" /></a>
+                    
+                    <span class="action" data-post-url="http://ruttileandfigarette.tumblr.com/post/62176305388">
+                                                    
+                                                                                                                                                                                    <a rel="nofollow" href="http://ruttileandfigarette.tumblr.com/" class="tumblelog" title="&quot;Catastrophe&quot;">ruttileandfigarette</a> ha reblogueado esto desde <a rel="nofollow" href="http://dynamite-with-a-laserbeam.tumblr.com/" class="source_tumblelog" title="you know, her life was saved by rock n roll">dynamite-with-a-laserbeam</a>                                                                                                                                                                                    </span>
+                    <div class="clear"></div>
+
+                                    
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note like tumblelog_maxtrager without_commentary">
+
+                                                                                <a rel="nofollow" class="avatar_frame" target="_blank" href="http://maxtrager.tumblr.com/" title="maxtrager xnodoMetaK0m1x " rel="nofollow"><img src="http://25.media.tumblr.com/avatar_450fa1bfe0fd_16.png" class="avatar " alt="" /></a>
+                
+                <span class="action">
+                    
+                                            A <a rel="nofollow" href="http://maxtrager.tumblr.com/" title="maxtrager xnodoMetaK0m1x" rel="nofollow">maxtrager</a> le gusta esto                                    </span>
+
+                <div class="clear"></div>
+
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note reblog tumblelog_agathabagshot without_commentary">
+
+                        
+                
+                                                                                        <a rel="nofollow" class="avatar_frame" target="_blank" href="http://agathabagshot.tumblr.com/" title="The Life &amp; Lusts of Agatha &amp; Minx"><img src="http://31.media.tumblr.com/avatar_3d46bae9f37d_16.png" class="avatar " alt="" /></a>
+                    
+                    <span class="action" data-post-url="http://agathabagshot.tumblr.com/post/62173573134">
+                                                    
+                                                                                                                                                                                    <a rel="nofollow" href="http://agathabagshot.tumblr.com/" class="tumblelog" title="The Life &amp; Lusts of Agatha &amp; Minx">agathabagshot</a> ha reblogueado esto desde <a rel="nofollow" href="http://dynamite-with-a-laserbeam.tumblr.com/" class="source_tumblelog" title="you know, her life was saved by rock n roll">dynamite-with-a-laserbeam</a>                                                                                                                                                                                    </span>
+                    <div class="clear"></div>
+
+                                    
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note like tumblelog_agathabagshot without_commentary">
+
+                                                                                <a rel="nofollow" class="avatar_frame" target="_blank" href="http://agathabagshot.tumblr.com/" title="The Life &amp; Lusts of Agatha &amp; Minx " rel="nofollow"><img src="http://31.media.tumblr.com/avatar_3d46bae9f37d_16.png" class="avatar " alt="" /></a>
+                
+                <span class="action">
+                    
+                                            A <a rel="nofollow" href="http://agathabagshot.tumblr.com/" title="The Life &amp; Lusts of Agatha &amp; Minx" rel="nofollow">agathabagshot</a> le gusta esto                                    </span>
+
+                <div class="clear"></div>
+
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note reblog tumblelog_rosainvertida without_commentary">
+
+                        
+                
+                                                                                        <a rel="nofollow" class="avatar_frame" target="_blank" href="http://rosainvertida.tumblr.com/" title="Musings of the Inverted Chaotic Rose"><img src="http://24.media.tumblr.com/avatar_4ebbacb27683_16.png" class="avatar " alt="" /></a>
+                    
+                    <span class="action" data-post-url="http://rosainvertida.tumblr.com/post/62151827330">
+                                                    
+                                                                                                                                                                                    <a rel="nofollow" href="http://rosainvertida.tumblr.com/" class="tumblelog" title="Musings of the Inverted Chaotic Rose">rosainvertida</a> ha reblogueado esto desde <a rel="nofollow" href="http://dynamite-with-a-laserbeam.tumblr.com/" class="source_tumblelog" title="you know, her life was saved by rock n roll">dynamite-with-a-laserbeam</a>                                                                                                                                                                                    </span>
+                    <div class="clear"></div>
+
+                                    
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note reblog tumblelog_martbel without_commentary">
+
+                        
+                
+                                                                                        <a rel="nofollow" class="avatar_frame" target="_blank" href="http://martbel.tumblr.com/" title=""><img src="http://25.media.tumblr.com/avatar_56ee2f24e158_16.png" class="avatar " alt="" /></a>
+                    
+                    <span class="action" data-post-url="http://martbel.tumblr.com/post/62115555425">
+                                                    
+                                                                                                                                                                                    <a rel="nofollow" href="http://martbel.tumblr.com/" class="tumblelog" title="">martbel</a> ha reblogueado esto desde <a rel="nofollow" href="http://dynamite-with-a-laserbeam.tumblr.com/" class="source_tumblelog" title="you know, her life was saved by rock n roll">dynamite-with-a-laserbeam</a>                                                                                                                                                                                    </span>
+                    <div class="clear"></div>
+
+                                    
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note reblog tumblelog_whentheskygetspurple without_commentary">
+
+                        
+                
+                                                                                        <a rel="nofollow" class="avatar_frame" target="_blank" href="http://whentheskygetspurple.tumblr.com/" title="Lucy in the sky with diamonds"><img src="http://31.media.tumblr.com/avatar_3bfdf9a2e2e2_16.png" class="avatar " alt="" /></a>
+                    
+                    <span class="action" data-post-url="http://whentheskygetspurple.tumblr.com/post/62109850193">
+                                                    
+                                                                                                                                                                                    <a rel="nofollow" href="http://whentheskygetspurple.tumblr.com/" class="tumblelog" title="Lucy in the sky with diamonds">whentheskygetspurple</a> ha reblogueado esto desde <a rel="nofollow" href="http://dynamite-with-a-laserbeam.tumblr.com/" class="source_tumblelog" title="you know, her life was saved by rock n roll">dynamite-with-a-laserbeam</a>                                                                                                                                                                                    </span>
+                    <div class="clear"></div>
+
+                                    
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note reblog tumblelog_dynamite-with-a-laserbeam original_post without_commentary">
+
+                        
+                
+                                                                                        <a rel="nofollow" class="avatar_frame" target="_blank" href="http://dynamite-with-a-laserbeam.tumblr.com/" title="you know, her life was saved by rock n roll"><img src="http://25.media.tumblr.com/avatar_5ee1a73e917e_16.png" class="avatar " alt="" /></a>
+                    
+                    <span class="action" data-post-url="http://dynamite-with-a-laserbeam.tumblr.com/post/62108810772">
+                                                    
+                                                            <a rel="nofollow" href="http://dynamite-with-a-laserbeam.tumblr.com/" class="tumblelog" title="you know, her life was saved by rock n roll">dynamite-with-a-laserbeam</a> ha publicado esto                                                                        </span>
+                    <div class="clear"></div>
+
+                                    
+                        
+        </li>
+    
+    
+    <!-- END NOTES -->
+</ol>
+
+        
+         
+    </div>
+    
+    <div class="clear"></div>
+</div><div class="clear"></div>
+</div><!-- End Container -->
+
+
+    
+<script type="text/javascript">
+$(function() {      
+      $(window).scroll(function() {
+        if($(this).scrollTop() != 0) {
+            $('#go_up').fadeIn();         
+        } 
+        else {
+			$('#go_up').fadeOut(); 		
+        }
+	  });
+ 
+	  $('#up').click(function() {
+		$('body,html').animate({scrollTop:0},800);
+	  });
+});
+</script>
+<!-- BEGIN TUMBLR CODE -->
+        
+    
+        <iframe id="tumblr_controls" width="1" height="1" frameborder="0" scrolling="no" style="position:absolute; z-index:2147483647; top:0; right:0; border:0; background-color:transparent; overflow:hidden; " src="http://assets.tumblr.com/assets/html/iframe/o.html?_v=00c18e3e470095be41311af633109bac#src=http%3A%2F%2Fperturbacionmental.tumblr.com%2Fpost%2F62189570389%2Fdynamite-with-a-laserbeam-pasquale-taraffo-on&amp;pid=62189570389&amp;rk=HukjbqC0&amp;lang=es_ES&amp;name=perturbacionmental&amp;brag=false&amp;avatar=http%3A%2F%2F25.media.tumblr.com%2Favatar_5f9294c73969_64.png&amp;title=Conchetumadre&amp;url=http%3A%2F%2Fperturbacionmental.tumblr.com%2F&amp;page_slide=slide"></iframe>    <div id="teaser_iframe_container" style="display:none;"><iframe scrolling="no" frameborder="0" src="http://www.tumblr.com/assets/html/iframe/teaser.html#src=http%3A%2F%2Fperturbacionmental.tumblr.com%2Fpost%2F62189570389%2Fdynamite-with-a-laserbeam-pasquale-taraffo-on&amp;pid=62189570389&amp;rk=HukjbqC0&amp;lang=es_ES&amp;name=perturbacionmental&amp;brag=false&amp;avatar=http%3A%2F%2F25.media.tumblr.com%2Favatar_5f9294c73969_64.png&amp;title=Conchetumadre&amp;url=http%3A%2F%2Fperturbacionmental.tumblr.com%2F&amp;page_slide=slide" id="teaser_iframe" width="1" height="1"></iframe></div>
+
+<script type="text/javascript">
+    (function(Tumblr){
+        var follow_iframe_initialized = false;
+        if (Tumblr.FollowTeaser && Tumblr.PostMessageListener) {
+            // Don't do anything until the first initialize event
+            Tumblr.PostMessageListener.initialize(function(message, origin) {
+                if (follow_iframe_initialized || message.length < 2) return;
+
+                if (message[0] === 'follow_iframe' && message[1] === 'enable') {
+                    Tumblr.FollowTeaser.current_page = 1;
+                    Tumblr.FollowTeaser.infer_infinite_scroll = true;
+                    Tumblr.FollowTeaser.create_from_tumblr_controls('http://assets.tumblr.com/assets/html/iframe/follow.html?_v=c5638c77a8a6b7821eab58b693b3a051');
+                    Tumblr.FollowTeaser.scroll_listener(true);
+                    follow_iframe_initialized = true;
+                }
+            });
+        }
+    })(this.Tumblr || (this.Tumblr = {}));
+</script>
+    
+    <!--[if IE]><script type="text/javascript">document.getElementById('tumblr_controls').allowTransparency=true;</script><![endif]-->
+    
+        
+<iframe src="http://assets.tumblr.com/analytics.html?63fae489732da54993e4a941e42dcf5e" scrolling="no" width="1" height="1" frameborder="0" style="background-color:transparent; overflow:hidden; position:absolute; top:0; left:0 z-index:9999;" id="ga_target"></iframe>
+
+    <script>
+        var COMSCORE = true;
+        window.setTimeout(function() {
+            var analytics_frame = document.getElementById('ga_target');
+            analytics_frame.contentWindow.postMessage('enable_comscore;' + window.location, analytics_frame.src.split('/analytics.html')[0]);
+        }, 1000);
+    </script>
+
+
+
+    <script type="text/javascript">
+      var _qevents = _qevents || [];
+
+      (function() {
+       var elem = document.createElement('script');
+
+       elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+       elem.async = true;
+       elem.type = "text/javascript";
+       var scpt = document.getElementsByTagName('script')[0];
+       scpt.parentNode.insertBefore(elem, scpt);
+      })();
+    </script>
+    <script type="text/javascript">
+        _qevents.push( { qacct: 'p-19UtqE8ngoZbM' } );
+    </script>
+    <noscript>
+        <div style="display: none;"><img src="//pixel.quantserve.com/pixel/'p-19UtqE8ngoZbM'.gif" height="1" width="1" alt="Quantcast"/></div>
+    </noscript>
+
+
+    <script type="text/javascript">!function(s){s.src='http://www.tumblr.com/impixu?T=1380239394&J=eyJ0eXBlIjoidXJsIiwidXJsIjoiaHR0cDpcL1wvcGVydHVyYmFjaW9ubWVudGFsLnR1bWJsci5jb21cL3Bvc3RcLzYyMTg5NTcwMzg5XC9keW5hbWl0ZS13aXRoLWEtbGFzZXJiZWFtLXBhc3F1YWxlLXRhcmFmZm8tb24iLCJyZXF0eXBlIjowLCJyb3V0ZSI6IlwvcG9zdFwvOmlkXC86c3VtbWFyeSJ9&U=MDGFOFGCDN&K=9a93946098db09d05c9a6aedf460a58720261d01594e2271b8b5e77e2fd1ac7f&R='.replace(/&R=[^&$]*/,'').concat('&R='+escape(document.referrer)).slice(0,2000).replace(/%.?.?$/,'');}(new Image());</script><noscript><img style="position:absolute;z-index:-3334;top:0px;left:0px;visibility:hidden;" src="http://www.tumblr.com/impixu?T=1380239394&J=eyJ0eXBlIjoidXJsIiwidXJsIjoiaHR0cDpcL1wvcGVydHVyYmFjaW9ubWVudGFsLnR1bWJsci5jb21cL3Bvc3RcLzYyMTg5NTcwMzg5XC9keW5hbWl0ZS13aXRoLWEtbGFzZXJiZWFtLXBhc3F1YWxlLXRhcmFmZm8tb24iLCJyZXF0eXBlIjowLCJyb3V0ZSI6IlwvcG9zdFwvOmlkXC86c3VtbWFyeSIsIm5vc2NyaXB0IjoxfQ==&U=MDGFOFGCDN&K=12b2732582a8be0893b2dc2c12c60550522acfe16183ed3ae3f0e290e507ad64&R="></noscript><script type="text/javascript">!function(s){s.src='http://www.tumblr.com/impixu?T=1380239394&J=eyJ0eXBlIjoicG9zdCIsInVybCI6Imh0dHA6XC9cL3BlcnR1cmJhY2lvbm1lbnRhbC50dW1ibHIuY29tXC9wb3N0XC82MjE4OTU3MDM4OVwvZHluYW1pdGUtd2l0aC1hLWxhc2VyYmVhbS1wYXNxdWFsZS10YXJhZmZvLW9uIiwicmVxdHlwZSI6MCwicm91dGUiOiJcL3Bvc3RcLzppZFwvOnN1bW1hcnkiLCJwb3N0cyI6W3sicm9vdF9ibG9naWQiOiI1MzAzMTQyMyIsInJvb3RfcG9zdGlkIjo2MjEwODgxMDc3MiwicG9zdGlkIjoiNjIxODk1NzAzODkiLCJibG9naWQiOiIzNTU1MjAzNyIsInNvdXJjZSI6MzN9XX0=&U=HPEDCENLIP&K=103f4c4928bcc0372e55b40e8eaf0b7dfcfd3c13f7d7dc83d5753ba745aee096&R='.replace(/&R=[^&$]*/,'').concat('&R='+escape(document.referrer)).slice(0,2000).replace(/%.?.?$/,'');}(new Image());</script><noscript><img style="position:absolute;z-index:-3334;top:0px;left:0px;visibility:hidden;" src="http://www.tumblr.com/impixu?T=1380239394&J=eyJ0eXBlIjoicG9zdCIsInVybCI6Imh0dHA6XC9cL3BlcnR1cmJhY2lvbm1lbnRhbC50dW1ibHIuY29tXC9wb3N0XC82MjE4OTU3MDM4OVwvZHluYW1pdGUtd2l0aC1hLWxhc2VyYmVhbS1wYXNxdWFsZS10YXJhZmZvLW9uIiwicmVxdHlwZSI6MCwicm91dGUiOiJcL3Bvc3RcLzppZFwvOnN1bW1hcnkiLCJwb3N0cyI6W3sicm9vdF9ibG9naWQiOiI1MzAzMTQyMyIsInJvb3RfcG9zdGlkIjo2MjEwODgxMDc3MiwicG9zdGlkIjoiNjIxODk1NzAzODkiLCJibG9naWQiOiIzNTU1MjAzNyIsInNvdXJjZSI6MzN9XSwibm9zY3JpcHQiOjF9&U=HPEDCENLIP&K=260e1d55eab8b8d664f1697206ac19cec6d6d9ad10954e8ed76e82244df47d9d&R="></noscript><!-- END TUMBLR CODE -->
+</body><!-- Wikplayer http://www.wikplayer.com -->
+<script type="text/javascript" src="http://www.wikplayer.com/code.js" 
+data-config="{'skin':'skins/wikfull/plainBlack/skin.css','volume':70,'autoplay':true,'shuffle':true,'repeat':0,'showcomment':false,'marqueetexton':true,'placement':'top','showplaylist':false,'playlist':[{'title':'30%20seconds%20to%20mars%20-%20the%20kill%20','url':'http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DzMmQSEaS-w0'},{'title':'30%20seconds%20to%20mars%20-%20this%20is%20war','url':'http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DhMAVLXk9QWA'},{'title':'30%20seconds%20to%20mars%20-%20from%20yesterday','url':'http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DFPWJ8cYxw6M'},{'title':'A%20day%20to%20remember%20-%20all%20i%20want','url':'http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DmC--2Nk6FSo'},{'title':'A%20day%20to%20remember%20-%20if%20it%20means%20a%20lot%20to%20you','url':'http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D21YJcWdiNfI'},{'title':'A%20skilit%20drive%20-%20All%20It%20Takes%20For%20Your%20Dreams%20To%20Come%20True','url':'http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DBrMLAB-ipuw'},{'title':'A%20Skylit%20Drive%20-%20Love%20The%20Way%20You%20Lie','url':'http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DzcLb2wWKulo'},{'title':'Abandon%20All%20Ships%20-%20Take%20One%20Last%20Breath','url':'http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DCDgbYF48UPw'},{'title':'Abandon%20All%20Ships%20-%20Guardian%20Angel%20Ft.%20Lena%20Katina','url':'http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DsZYYTeRwqAk'},{'title':'Alesana%20-%20the%20thespian','url':'http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D8DOFsV0lxtQ'},{'title':'Alesana%20-%20annabel','url':'http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DCl1e9rr3dls'},{'title':'Alesana%20-%20seduction','url':'http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D9cq3m02fhO8'},{'title':'Artist%20vs%20Poet%20-%20Bad%20Romance','url':'http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DFoFtNx8n8Oc'},{'title':'Asking%20Alexandria%20-%20A%20Candlelit%20Dinner%20With%20Inamorta','url':'http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DEqbiO7DDPgE'},{'title':'Asking%20alexandria%20-%20A%20prophecy','url':'http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DE0sT7xfC3QY'},{'title':'Asking%20alexandria%20-%20%20Alerion','url':'http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D6oaKbfaekRM'},{'title':'Asking%20alexandria%20-%20the%20final%20episode','url':'http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DrLQBebfEXpc'},{'title':'Asking%20alexandria%20-%20Fuck%20the%20world','url':'http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DMGNnv9eceUo'},{'title':'Asking%20Alexandria%20-%20If%20You%20Cant%20Ride%20Two%20Horses%20At%20Once%20You%20Should%20Get%20Ou','url':'http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Ds6ZscWPtW7M'},{'title':'asking%20alexandria%20-%20closure','url':'http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DqXLe8baa_5k'},{'title':'Asking%20Alexandria%20-%20Not%20The%20American%20Average','url':'http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DE-S9ErhqPSo'},{'title':'Betraying%20The%20Martyrs%20-%20Man%20Made%20Disaster','url':'http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DYkuf11YkmHo'},{'title':'Breathe%20Carolina%20-%20Blackout','url':'http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dh2S3RvIHwGs'},{'title':'Breathe%20carolina%20-%20Down','url':'http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DB1x6xr_PHsg'},{'title':'Bullet%20For%20My%20Valentine%20-%20Tears%20Don%27t%20Fall','url':'http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D9sTQ0QdkN3Q'},{'title':'Bury%20Tomorrow%20-%20Anything%20with%20teeth','url':'http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DZ_18VDd2fVI'},{'title':'Children%20of%20Bodom%20-%20Downfall%20','url':'http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DBv-oswyPzak'},{'title':'Children%20of%20bodom-Hate%20me!','url':'http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D-1vYvVePj70'},{'title':'Crown%20The%20Empire%20-%20The%20Fallout%20','url':'http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DJvuv_XEZE7o'},{'title':'Dead%20by%20april%20-%20Calling','url':'http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Du0AyLF1NGu8'},{'title':'Dead%20by%20april%20-%20loosing%20you','url':'http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D4xFDmYl3l6w'},{'title':'Dead%20by%20april%20-%20stronger','url':'http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DIme7ZjYobVs'},{'title':'Dead%20by%20April%20-%20Crossroads','url':'http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DHJpiaeCBEFk'},{'title':'Dead%20by%20April%20-%20When%20You%20Wake%20Up','url':'http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dk4ot3_A9qVA'},{'title':'Dead%20by%20April%20-%20Dreaming','url':'http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DvFcu0bN-JSM'},{'title':'Dead%20by%20April%20-%20Within%20My%20Heart','url':'http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Di46Pmw6ydGM'},{'title':'Dead%20By%20April%20-%20Promise%20me','url':'http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D_i7zOwreHlw'},{'title':'Dead%20by%20April%20-%20Last%20Goodby','url':'http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Ds_cyuN8uIgI'},{'title':'Dead%20by%20April%20-%20Leaves%20','url':'http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DZYB6sIZWQHA'},{'title':'Dead%20by%20April%20-%20Sorry%20For%20Everything%20','url':'http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DuCF8tdXFk5g'},{'title':'Dead%20by%20April%20-%20Carry%20Me%20','url':'http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dir3DA27q-38'},{'title':'Dead%20By%20April%20-%20In%20My%20Arms','url':'http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dej_AKEOgW1Y'},{'title':'Disturbed-Liberate','url':'http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D0FhNP1EiBK0'},{'title':'Hopes%20Die%20Last%20-%20Firework','url':'http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DUYgyIe6v2iA'},{'title':'Korn%20-%20Y%27all%20Want%20A%20Single','url':'http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DECE27vtp4WU'},{'title':'Korn%20-%20Right%20Now','url':'http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DVRPxao3e_jY'},{'title':'MAGO%20DE%20OZ-FIESTA%20PAGANA','url':'http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DXTO-toY3Wao'},{'title':'Memphis%20May%20Fire%20-%20Miles%20Away','url':'http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DN3Qz5P-YMdk'},{'title':'Memphis%20May%20Fire%20-%20Vices','url':'http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DT_yCTsL3pOU'},{'title':'Memphis%20May%20Fire%20-%20%22Grenade%22','url':'http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D-Fg4JPORYWs'},{'title':'Memphis%20May%20Fire%20-%20Prove%20Me%20Right','url':'http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D_YEscK-H1t8'},{'title':'Motionless%20In%20White%20-%20%22Immaculate%20Misconception%22','url':'http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dvov0yT7qnVI'},{'title':'Motionless%20In%20White%20-%20%22Devil%27s%20Night%22','url':'http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DRXks5M56aTI'},{'title':'Motionless%20In%20White%20-%20%22America%22','url':'http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DJo4HcMIarEA'},{'title':'Motionless%20In%20White%20-%20%22Black%20Damask%22','url':'http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DAZHZmzknBGc'},{'title':'Motionless%20In%20White%20-%20%22If%20It%27s%20Dead%2C%20We%27ll%20Kill%20it%22','url':'http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DmKyji3uXqOY'},{'title':'Motionless%20in%20White%20-%20%22Abigail%22','url':'http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DLsx5CiK1Z2s'},{'title':'Of%20Mice%20%26%20Men%20-%20The%20Depths','url':'http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DA-0U1RFLFq0'},{'title':'Of%20Mice%20%26%20Men%20-%20The%20Flood','url':'http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D5cgQSTv38_c'},{'title':'Of%20Mice%20%26%20Men%20-%20Product%20of%20a%20Murderer','url':'http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Diy6p-wUJyOY'},{'title':'Of%20Mice%20%26%20Men%20-%20OHIOISONFIRE','url':'http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dai0htHlsqZo'},{'title':'Of%20Mice%20%26%20Men%20-%20Ben%20Threw','url':'http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DTVvfzz4-sxY'},{'title':'Of%20Mice%20%26%20Men%20-%20O.G.%20Loko','url':'http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D9T8Q5Ef2Ql4'},{'title':'Pierce%20The%20Veil%20%22Bulletproof%20Love%22','url':'http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D21HQAGDMDI8'},{'title':'Pierce%20The%20Veil%20%22Caraphernelia%22','url':'http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DFZVYOriINwc'},{'title':'Pierce%20The%20Veil%20-%20King%20for%20a%20Day','url':'http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DicXUkIfZxyg'},{'title':'Pierce%20The%20Veil%20-%20Bulls%20in%20the%20Bronx','url':'http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DWumCI56iYUk'},{'title':'Rage%20Against%20The%20Machine%3A%20Know%20Your%20Enemy','url':'http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D4smim2MNvF8'},{'title':'Rage%20Against%20The%20Machine%20-%20Killing%20In%20The%20Name','url':'http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DbWXazVhlyxQ'},{'title':'Rage%20Against%20The%20Machine%20-%20Bulls%20on%20Parade','url':'http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D3L4YrGaR8E4'},{'title':'Sleeping%20With%20Sirens%20-%20If%20You%20Can%27t%20Hang%20','url':'http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D_UwWYtLWEZg'},{'title':'Sleeping%20With%20Sirens%20covers%20%22Iris%22%20by%20The%20Goo%20Goo%20Dolls','url':'http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DcyOqIKGbYkg'},{'title':'SUICIDE%20SILENCE%20-%20You%20Only%20Live%20Once','url':'http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D312Sb-2PovA'},{'title':'SUICIDE%20SILENCE%20-%20Slaves%20To%20Substance','url':'http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dk27N-jRofrM'},{'title':'SUICIDE%20SILENCE%20-%20Wake%20Up%20','url':'http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DDyOSx62c2Ic'},{'title':'The%20Casualties%20-%20Punk%20musica%20del%20pueblo%20','url':'http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DjJrISJspvQQ'},{'title':'Upon%20This%20Dawning%20-%20%22Call%20Me%20Maybe%22','url':'http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D7xF0vHraxII'},{'title':'We%20Came%20As%20Romans%20-%20%22Glad%20You%20Came%22','url':'http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dfs9TLctYsGI'},{'title':'Upon%20This%20Dawning%20-%20A%20New%20Beginning','url':'http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dl6m1OFrfJ1I'},{'title':'Woe%2C%20Is%20Me%20-%20A%20Story%20To%20Tell','url':'http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Di0sDINQNxII'},{'title':'Woe%2C%20Is%20Me%20-%20Tik%20Tok!','url':'http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DlN98u4E7mRo'}]}" ></script>
+<!-- Wikplayer code end -->
+
+
+</html>    

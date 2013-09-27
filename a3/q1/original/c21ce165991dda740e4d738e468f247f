@@ -1,0 +1,598 @@
+<!DOCTYPE html>
+  <html class="desktop">
+
+
+<head>
+  <meta name="google-site-verification" content="PfFjeZ9OK1RrUrKlmAPn_iZJ_vgHaZO1YQ-QlG2VsJs" />
+
+  <title>Yomarly aka Mrs Herondale’s Reading Progress for Faking It - Sep 24, 2013 12:18pm</title>
+  
+  <meta name="description"
+        content="Yomarly aka Mrs Herondale added a status: on page 79 of 304 of Faking It: mi cell se descargó :| - Sep 24, 2013 12:18pm" />
+  <meta name="verify-v1" content="cEf8XOH0pulh1aYQeZ1gkXHsQ3dMPSyIGGYqmF53690=" />
+  <meta name="apple-itunes-app" content="app-id=355833469"/>
+
+
+          <script type="text/javascript">
+        if (window.Mobvious === undefined) {
+          window.Mobvious = {};
+        }
+        window.Mobvious.device_type = 'desktop';
+        </script>
+
+
+  <link href="http://s.gr-assets.com/assets/goodreads-b62cbdd51e5fed22a9040191c6e6037f.css" media="screen" rel="stylesheet" type="text/css" />
+  <script src="http://s.gr-assets.com/assets/application-005a3ee3c9f68066c77030b9cf28e000.js" type="text/javascript"></script>
+  <meta content="authenticity_token" name="csrf-param" />
+<meta content="hrrC9ygnwjqU7PVNCbi1uMyfXj3/ByzY7xAdFMZHocQ=" name="csrf-token" />
+
+  <meta content="26a5d33f06b67539aa800c477bd3e548" name="request-id" />
+
+      <link rel="canonical" href="http://www.goodreads.com/user_status/show/33300590" />
+
+  <!--[if lte IE 6]>
+    <link href="http://s.gr-assets.com/assets/ie6-ddca8056d44598686b8b37242ef1f168.css" media="screen" rel="stylesheet" type="text/css" />
+
+    <script type="text/javascript">
+//<![CDATA[
+
+      try {
+        document.execCommand("BackgroundImageCache", false, true);
+      }
+      catch(err) {}
+
+//]]>
+</script>  <![endif]-->
+
+  <!--[if lt IE 9]>
+    <link href="http://s.gr-assets.com/assets/ie-265e6d540839d77afed62b4c6f89e3ef.css" media="screen" rel="stylesheet" type="text/css" />
+  <![endif]-->
+
+  <!--[if lt IE 8]>
+    <link href="http://s.gr-assets.com/assets/common_images_ie-d7540d0eb34a8049b3fdaa89da98d760.css" media="screen" rel="stylesheet" type="text/css" />
+  <![endif]-->
+
+  <!--[if gte IE 8]><!-->
+  <link href="http://s.gr-assets.com/assets/common_images-da5f388c6bcd75aa8abd9c7a4e7c3f14.css" media="screen" rel="stylesheet" type="text/css" />
+  <!--<![endif]-->
+
+  <script>
+  //<![CDATA[
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+    (function() {
+      var gads = document.createElement("script");
+      gads.async = true;
+      gads.type = "text/javascript";
+      var useSSL = "https:" == document.location.protocol;
+      gads.src = (useSSL ? "https:" : "http:") +
+      "//www.googletagservices.com/tag/js/gpt.js";
+      var node = document.getElementsByTagName("script")[0];
+      node.parentNode.insertBefore(gads, node);
+    })();
+    // page settings
+    googletag.cmd.push(function() {
+      googletag.pubads().setTargeting("sid", "2e29eff6ea8bf50132644f8b22c78636");
+      googletag.pubads().enableSingleRequest();
+      googletag.enableServices();
+    });
+  //]]>
+</script>
+
+
+
+  
+  <script>
+  //<![CDATA[
+    googletag.cmd.push(function() {
+      googletag
+        .defineSlot(
+          "/4215/goodr.ustatus.top.300x250",
+          [300,250],
+          "div-gpt-ad-3d777ea84d")
+        .addService(googletag.pubads())
+        .setCollapseEmptyDiv(true);
+    });
+  //]]>
+</script>
+
+
+  
+  
+  
+  <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="Goodreads">
+
+
+  <script>
+  //<![CDATA[
+    var GoodreadsAnalytics = GoodreadsAnalytics || {};
+    var _gaq = _gaq || [];
+    var isDebug = false;
+    
+    $j(function () {
+      if (isDebug) {
+        $j("#google-analytics-debug").show();
+      }
+    });
+    
+    GoodreadsAnalytics.push = function () {
+      _gaq.push.apply(_gaq, arguments);
+    
+      if (isDebug) {
+        var args = arguments[0];
+        $j(function () {
+          var li = $j("<li/>").text(JSON.stringify(args));
+          $j("#google-analytics-debug ol").append(li);
+        });
+      }
+    }
+    
+    GoodreadsAnalytics.push(['_setAccount', 'UA-968618-1']);
+    GoodreadsAnalytics.push(['_setCustomVar', 1, 'User Status', 'signed_out', 2]);
+    GoodreadsAnalytics.push(['_trackPageview']);
+    
+    (function () {
+      var ga = document.createElement('script');
+      ga.type = 'text/javascript';
+      ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(ga, s);
+    })();
+  //]]>
+</script>
+
+
+
+  <script type="text/javascript">
+      var _qevents = _qevents || [];
+
+      (function() {
+          var elem = document.createElement('script');
+
+          elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+          elem.async = true;
+          elem.type = "text/javascript";
+          var scpt = document.getElementsByTagName('script')[0];
+          scpt.parentNode.insertBefore(elem, scpt);
+      })();
+  </script>
+
+</head>
+
+
+<body>
+<div class="content">
+  
+
+    <div class='uitext' id='siteheader'>
+<div class='mainContent'>
+<ul class='nav' id='usernav'>
+<li>
+<strong>
+<a href="/user/new" class="navlink" rel="nofollow">register</a>
+</strong>
+</li>
+<li>
+<a href="/about/how_it_works" class="navlink" rel="nofollow">tour</a>
+</li>
+<li>
+<a href="/user/sign_in?returnurl=%2Fuser_status%2Fshow%2F33300590" class="navlink" rel="nofollow">sign in</a>
+</li>
+</ul>
+<div id='logo'>
+<a href='/'>
+<img alt="Goodreads: Book reviews, recommendations, and discussion" border="0" src="http://s.gr-assets.com/assets/layout/goodreads_logo_140-5b3e47356388131c1699f0baca28a234.png" />
+</a>
+</div>
+<div id='sitesearch'>
+<form accept-charset="UTF-8" action="/search" id="headerSearchForm" method="get"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /></div>
+<div class='auto_complete_field_wrapper'>
+<input id="sitesearch_field" name="query" placeholder="Title / Author / ISBN" type="text" />
+<div id='sitesearch_autocomplete'></div>
+<img alt="Loading-trans" class="loading" id="sitesearch_field_loading" src="http://s.gr-assets.com/assets/loading-trans-ff263fd8cb3b52205aacb9f5b25f82c8.gif" style="display: none" />
+</div>
+<a class="submitLink" href="#" onclick="$j('#headerSearchForm').submit(); return false;"><img alt="search" src="http://s.gr-assets.com/assets/layout/magnifying_glass-f6b50ce529bb372c2503aa1c685a2505.png" title="Title / Author / ISBN" width="16" /></a>
+</form>
+</div>
+
+<ul class='nav' id='sitenav'>
+<li>
+<a href="/" class="navlink">Home</a>
+</li>
+<li>
+<a href="/review/list" class="navlink" rel="nofollow">My Books</a>
+</li>
+<li>
+<a href="/friend" class="navlink" rel="nofollow">Friends</a>
+</li>
+<li>
+<a href="/recommendations" class="navlink" rel="nofollow">Recommendations</a>
+</li>
+<li class='withsubnav'>
+<div class='subnav'>
+<ul class='content'>
+<li>
+<a href="/genres">genres</a>
+</li>
+<li>
+<a href="/list" title="Popular lists of books">listopia</a>
+</li>
+<li>
+<a href="/giveaway" title="Free book giveaways">giveaways</a>
+</li>
+<li>
+<a href="/book/popular_by_date/2013/9" title="Popular New Releases">popular</a>
+</li>
+<li>
+<a href="/voice">goodreads voice</a>
+</li>
+<li>
+<a href="/ebooks">ebooks</a>
+</li>
+</ul>
+<ul class='content'>
+<li>
+<b>
+fun
+</b>
+</li>
+<li>
+<a href="/trivia">trivia</a>
+</li>
+<li>
+<a href="/quizzes">quizzes</a>
+</li>
+<li>
+<a href="/quotes">quotes</a>
+</li>
+</ul>
+<ul class='content'>
+<li>
+<b>
+community
+</b>
+</li>
+<li>
+<a href="/group">groups</a>
+</li>
+<li>
+<a href="/story">creative writing</a>
+</li>
+<li>
+<a href="/user/online_now" rel="nofollow">people</a>
+</li>
+<li>
+<a href="/event">events</a>
+</li>
+</ul>
+</div>
+<a href="/book" class="navlink" title="Explore books">Explore</a>
+<a class="subnavlink inlineblock" href="#" onclick="HeaderNav.toggleSubnav({target: this}); return false;">&nbsp;</a>
+</li>
+</ul>
+</div>
+</div>
+
+
+  
+
+  <div class="mainContentContainer ">
+    
+    <div class="mainContent">
+      
+      <div class="mainContentFloat">
+        <div id="flashContainer">
+
+
+</div>
+
+        
+<div class="leftContainer">
+  <h1>
+      <a href="/review/list/20455107-yomarly-aka-mrs-herondale">Yomarly aka Mrs Herondale’s Reviews</a>
+      &gt;
+      <a href="/review/show/707645742">Faking It</a>
+      &gt;
+      Status Update
+  </h1>
+  <div id="user_status_33300590">
+  <a href="/user/show/20455107-yomarly-aka-mrs-herondale" class="leftAlignedImage" title="Yomarly aka Mrs Herondale"><img alt="Yomarly aka Mrs Herondale" src="http://d202m5krfqbpi5.cloudfront.net/users/1380147285p1/20455107.jpg" /></a>
+
+  <div class="left" style="float: left; width: 540px;">
+
+    <span class="uitext greyText inlineblock stacked user_status_header">
+      <a href="/user/show/20455107-yomarly-aka-mrs-herondale">Yomarly aka Mrs Herondale</a>
+      is on page 79 of 304
+    </span>
+
+    <div class="readable body">
+      mi cell se descargó :|
+    </div>
+
+    <span class="greyText uitext smallText">
+      &mdash; <a href="/user_status/show/33300590" class="greyText">Sep 24, 2013 12:18pm</a>
+    </span>
+
+  </div>
+
+  <div class="left bookCover" style="width: 25px; margin-left: 10px">
+      <a href="/book/show/16172634-faking-it"><img alt="Faking It (Losing It, #2)" src="http://d202m5krfqbpi5.cloudfront.net/books/1360560023s/16172634.jpg" style="max-width: 25px" /></a>
+  </div>
+</div>
+
+
+  <br class="clear"/>
+
+	    <span id="like_it_33300590_container" class="likeItContainer"><a href="http://www.goodreads.com/user/new?remember=true&amp;return_url=%2Fuser_status%2Fshow%2F33300590" class="like_it button smallButton" id="like_it_33300590" rel="nofollow">like</a></span>
+
+  <a href="/flagged/new?resource_id=33300590&amp;resource_type=UserStatus&amp;return_url=%2Fuser_status%2Fshow%2F33300590%3Fpage%3D1" class="lightGreyText right" id="flag_link33300590" rel="nofollow" title="Flag this status update as inappropriate.">flag</a>
+
+	<br/>
+	<br/>
+
+
+    <div class=" clearFloats bigBox"><div class="h2Container gradientHeaderContainer"><h2 class="brownBackground">Yomarly’s Previous Updates</h2></div><div class="bigBoxBody"><div class="bigBoxContent containerWithHeaderContent">
+        <div class="elementList">
+          <div id="user_status_33347295">
+  <a href="/user/show/20455107-yomarly-aka-mrs-herondale" class="leftAlignedImage" title="Yomarly aka Mrs Herondale"><img alt="Yomarly aka Mrs Herondale" src="http://d202m5krfqbpi5.cloudfront.net/users/1380147285p1/20455107.jpg" /></a>
+
+  <div class="left" style="float: left; width: 415px;">
+
+    <span class="uitext greyText inlineblock stacked user_status_header">
+      <a href="/user/show/20455107-yomarly-aka-mrs-herondale">Yomarly aka Mrs Herondale</a>
+      is finished
+    </span>
+
+    <div class="readable body">
+      
+    </div>
+
+    <span class="greyText uitext smallText">
+      &mdash; <a href="/user_status/show/33347295" class="greyText">Sep 25, 2013 03:16pm</a>
+    </span>
+
+  </div>
+
+  <div class="left bookCover" style="width: 25px; margin-left: 10px">
+      <a href="/book/show/16172634-faking-it"><img alt="Faking It (Losing It, #2)" src="http://d202m5krfqbpi5.cloudfront.net/books/1360560023s/16172634.jpg" style="max-width: 25px" /></a>
+  </div>
+</div>
+
+
+          <br class="clear"/><br/>
+        </div>
+<div class="clear"></div></div></div><div class="bigBoxBottom"></div></div>
+  
+<div class=" clearFloats bigBox"><div class="h2Container gradientHeaderContainer"><h2 class="brownBackground"><div class="extraHeader"><a href="#comment_form" rel="nofollow">Post a comment »</a></div>Comments</h2></div><div class="bigBoxBody"><div class="bigBoxContent containerWithHeaderContent">
+  <a name="top"></a>
+<div id="comment_list">
+  <div id="ajax_errors"></div>
+    
+</div>
+  <p id="no_comments" class="mediumText">No comments have been added yet.</p>
+
+
+
+
+    
+  <br class="clear"/>
+  <br />
+  <div>
+    <a href="http://www.goodreads.com/user/new?remember=true&amp;return_url=%2Fuser_status%2Fshow%2F33300590%23comment_form" class="actionLink" rel="nofollow">post a comment &raquo;</a>
+  </div>
+<div id="add_mention_box" style="display:none">
+  Add a reference:
+  <br />
+
+  <div class="tabs">
+      <a class=" selectedTab" href="#" id="bookLink" onclick="changeTab(176942092,'book'); return false;">book</a>
+      <a class=" tab" href="#" id="authorLink" onclick="changeTab(176942092,'author'); return false;">author</a>
+<div class="clear"> </div></div><script type="text/javascript" charset="utf-8">
+
+  current_tabs[176942092] = 'book';
+
+  Event.observe(window, 'load', function(e) {
+    // Switch to an anchored tab if specified in the URL
+    if (location.href.include('#')) {
+      var tabID = location.href.split('#')[1];
+      if (tabID != '' && $(tabID)) {
+        changeTab(tabID)
+      }
+    }
+  })
+</script>
+  <div class="tabbedBox">
+    <div id="book">
+        <br/>
+        <form accept-charset="UTF-8" action="/book/mention_search" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="hrrC9ygnwjqU7PVNCbi1uMyfXj3/ByzY7xAdFMZHocQ=" /></div>
+            <input id="search_query" name="search[query]" placeholder="Book" size="30" type="text" />
+            <input class="button" name="commit" type="submit" value="search" />
+</form>        <div id="add_mention_book_results">Search for a book to add a reference</div>
+        <hr/>
+        add:&nbsp;&nbsp;&nbsp;
+        <input checked="checked" id="search_reference_link" name="search[reference]" type="radio" value="link" /> link
+        <input id="search_reference_cover" name="search[reference]" type="radio" value="cover" /> cover
+</div>    <div id="author" style="display:none;">
+        <br/>
+        <form accept-charset="UTF-8" action="/author/mention_search" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="hrrC9ygnwjqU7PVNCbi1uMyfXj3/ByzY7xAdFMZHocQ=" /></div>
+            <div class="left">
+              Author: <input id="quote_author_name" name="quote[author_name]" size="30" type="text" /><div class="auto_complete" id="quote_author_name_auto_complete"></div><script type="text/javascript">
+//<![CDATA[
+var quote_author_name_auto_completer = new Ajax.Autocompleter('quote_author_name', 'quote_author_name_auto_complete', '/quotes/auto_complete_for_quote_author_name', {minChars:3})
+//]]>
+</script><br/>
+            </div>
+            <input class="button smallButton left" name="commit" type="submit" value="search" />
+            <br class="clear"/>
+</form>        <div id="add_mention_author_results"></div>
+        <hr/>
+        add:&nbsp;&nbsp;&nbsp;
+        <input checked="checked" id="author_search_reference_link" name="author_search[reference]" type="radio" value="link" /> link
+        <input id="author_search_reference_photo" name="author_search[reference]" type="radio" value="photo" /> photo
+</div>  </div>
+  <br/>
+</div>
+<script type="text/javascript">
+//<![CDATA[
+
+  var add_mention_box = new MentionChooser('add_mention_box')
+
+  $j('#add_mention_box_form').bind('ajax:beforeSend', function() {
+      $j('#add_mention_book_results').val('loading... <img alt=\"Loading\" src=\"http://s.gr-assets.com/assets/loading.gif\" />');
+  });
+
+  $j('#author_mention_form').bind('ajax:beforeSend', function() {
+      $j('#add_mention_author_results').val('loading... <img alt=\"Loading\" src=\"http://s.gr-assets.com/assets/loading.gif\" />');
+  });
+
+  gr.show_mention_box = function(field) {
+      add_mention_box.set_mention_field(field)
+      Lightbox.showBoxByID(add_mention_box.id, 380)
+  }
+
+  gr.add_reference = function(reference) {
+      add_mention_box.add(reference)
+      Lightbox.hideBox("squish")
+  }
+
+//]]>
+</script>
+
+
+<div style="display:none" id="commentFlagExplanation">
+  <br />
+  <h1>Flag Abuse</h1>
+  Flagging a post will send it to the Goodreads Customer Care team for review.
+  We take abuse seriously in our discussion boards.
+  Only flag comments that clearly need our attention.
+  As a general rule we do not censor any content on the site.
+  The only content we will consider removing is spam,
+  slanderous attacks on other members,
+  or extremely offensive content (eg. pornography, pro-Nazi, child abuse, etc).
+  We will not remove any content for bad language alone, or being critical
+  of a particular book.
+</div>
+<div class="clear"></div></div></div><div class="bigBoxBottom"></div></div>
+</div>
+
+<div class="rightContainer">
+  <a href="/user_status/list/20455107-yomarly-aka-mrs-herondale" class="actionLinkLite">all of Yomarly’s status updates</a><br/>
+  <a href="/user_status/book/16172634" class="actionLinkLite">everyone’s updates from this book</a><br/>
+  <br/>
+
+  <div id='div-gpt-ad-3d777ea84d' style='width: 300px; height: 250px'>
+<script>
+  //<![CDATA[
+    googletag.cmd.push(function() {
+      googletag.display("div-gpt-ad-3d777ea84d");
+    });
+  //]]>
+</script>
+
+</div>
+
+</div>
+
+      </div>
+      <div class="clear"></div>
+    </div>
+    <div class="clear"></div>
+  </div>
+
+  <div class="clear"></div>
+  <div class="footerContainer">
+    <div class="footer">
+      <div class="copyright">
+        &copy; 2013 Goodreads Inc
+      </div>
+      <div class="adminLinksContainer">
+        <ul class="adminLinks">
+          <li>
+            <a href="/about/us" class="first" rel="nofollow">about us</a>
+          </li>
+          <li>
+            <a href="/advertisers" rel="nofollow">advertise</a>
+          </li>
+          <li>
+            <a href="/author/program" rel="nofollow">author program</a>
+          </li>
+          <li>
+            <a href="/jobs" rel="nofollow">jobs</a>
+          </li>
+          <li>
+            <a href="/api" rel="nofollow">api</a>
+          </li>
+          <li>
+            <a href="/blog/index">our blog</a>
+          </li>
+          <li>
+            <a href="/about/terms" rel="nofollow">terms</a>
+          </li>
+          <li>
+            <a href="/about/privacy" rel="nofollow">privacy</a>
+          </li>
+          <li>
+            <a href="/help" class="last" rel="nofollow">help</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+<div id="overlay" style="display:none" onclick="Lightbox.hideBox('dropout')"></div>
+<div id="box" style="display:none">
+	<div id="close" class="xBackground" onclick="Lightbox.hideBox('dropout')" title="Close this window"></div>
+	<div id="boxContents"></div>
+	<div id="boxContentsLeftovers" style="display:none"></div>
+	<a class="right actionLinkLite smallText greyText" href="#" id="lightBoxRightClose" onclick="Lightbox.hideBox('dropout'); return false;" style="padding:10px">close</a>
+	<div class="clear"></div>
+</div>
+
+<div id="fbSigninNotification" style="display:none;">
+  <p>Welcome back. Just a moment while we sign you in to your Goodreads account.</p>
+  <img alt="Login_animation" src="http://s.gr-assets.com/assets/facebook/login_animation-1660888fb1250000f8a98b7bb0987b0e.gif" />
+</div>
+
+
+<div id="fb-root"></div>
+<script type="text/javascript">
+  $grfb.initialize({
+    appId: "2415071772",
+    channelUrl: '//www.goodreads.com/channel.html',
+    grSession: false,
+    serverFBUser: null,
+    serverPublishEnabled: null,
+    suppressAutoLogin: false,
+    brokenFbConnectionTracked: false,
+    publishPermissionVerified: false
+  });
+</script>
+
+    <script type="text/javascript">
+//<![CDATA[
+
+        _qevents.push( { qacct:"p-0dUe_kJAjvkoY"} );
+
+        var _comscore = _comscore || [];
+        _comscore.push({ c1: "2", c2: "6035830", c3: "", c4: "", c5: "", c6: "", c15: ""});
+        (function() {
+        var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+        s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+        el.parentNode.insertBefore(s, el);
+        })();
+
+//]]>
+</script>
+    <noscript>
+      <div style="display: none;"><img src="http://pixel.quantserve.com/pixel/p-0dUe_kJAjvkoY.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/></div>
+    </noscript>
+    <noscript>
+      <img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=6035830&amp;c3=&amp;c4=&amp;c5=&amp;c6=&amp;c15=&amp;cv=2.0&amp;cj=1" style="display:none" width="0" height="0" alt=""/>
+    </noscript>
+
+
+
+
+</body>
+</html>

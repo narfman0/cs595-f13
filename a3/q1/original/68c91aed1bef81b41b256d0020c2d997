@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" class="hl-en not-logged-in 
+
+
+">
+<head>
+    <meta charset="UTF-8" />
+    <title>
+Instagram
+</title>
+
+    <meta name="robots" content="noimageindex" />
+
+    <link rel="Shortcut Icon" type="image/x-icon" href="//d36xtkk24g8jdx.cloudfront.net/bluebar/8e33c64/images/ico/favicon.ico" />
+
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+
+    <link rel="apple-touch-icon-precomposed" href="//d36xtkk24g8jdx.cloudfront.net/bluebar/8e33c64/images/ico/apple-touch-icon-precomposed.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="//d36xtkk24g8jdx.cloudfront.net/bluebar/8e33c64/images/ico/apple-touch-icon-72x72-precomposed.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="//d36xtkk24g8jdx.cloudfront.net/bluebar/8e33c64/images/ico/apple-touch-icon-114x114-precomposed.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="//d36xtkk24g8jdx.cloudfront.net/bluebar/8e33c64/images/ico/apple-touch-icon-144x144-precomposed.png" />
+
+    
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0" />
+    
+
+    
+        <script type="text/javascript" src="//d36xtkk24g8jdx.cloudfront.net/bluebar/8e33c64/scripts/jquery.js"></script>
+        <script type="text/javascript" src="//d36xtkk24g8jdx.cloudfront.net/bluebar/8e33c64/scripts/bluebar.js"></script>
+
+    
+
+    
+
+    <meta property="og:site_name" content="Instagram" />
+    <meta property="og:title" content="" />
+    <meta property="og:image" content="http://distilleryimage4.ak.instagram.com/1b7f6414256f11e3b9da22000a1faf53_7.jpg" />
+    <meta property="og:determiner" content="a" />
+    <meta property="fb:app_id" content="124024574287414" />
+    <meta property="og:url" content="http://instagram.com/p/eqUWoFNhnM/" />
+
+    <meta name="medium" content="image" />
+    <meta property="og:type" content="instapp:photo" />
+    <meta property="og:description" content="domesticduck's photo on Instagram" />
+
+
+
+    
+    
+
+</head>
+<body class="">
+
+
+
+
+
+
+
+
+
+
+
+
+
+        <script type="text/javascript" src="//d36xtkk24g8jdx.cloudfront.net/bluebar/8e33c64/cache/strings/strings_en.js"></script>
+        <script>
+window._csrf_token = '70fe71a282cbd40adacfd6b2635854c6';
+window._jscalls = [
+
+['bluebar', 'init', []],
+
+['framework/config', 'init', [{staticRoot: '//d36xtkk24g8jdx.cloudfront.net/bluebar/8e33c64'}]],
+
+  ["lib\/fullpage\/transitions","bootstrap",[{"componentName":null,"moduleName":"lib\/ui\/media\/DesktopPPage","props":{"viewer":null,"shortcode":"eqUWoFNhnM","prerelease":false,"staticRoot":"\/\/d36xtkk24g8jdx.cloudfront.net\/bluebar\/8e33c64","media":{"code":"eqUWoFNhnM","date":1380064488.0,"comments":{"nodes":[{"text":"Ok sounds great I'll give it a try","viewer_can_delete":false,"id":"552353836622551901","user":{"username":"janey53b","profile_pic_url":"http:\/\/images.ak.instagram.com\/profiles\/profile_224070564_75sq_1369318004.jpg"}}]},"caption":"Penne with bacon, spinach and butternut squash. Yum! @janey53b I followed the recipe except I cooked the pasta until it was barely underdone before I added it to the skillet. It was good!","likes":{"count":4,"viewer_has_liked":false,"nodes":[{"user":{"username":"kmlinton","profile_pic_url":"http:\/\/images.ak.instagram.com\/profiles\/profile_218124024_75sq_1368491732.jpg"}},{"user":{"username":"katiejoramsey","profile_pic_url":"http:\/\/images.ak.instagram.com\/profiles\/profile_11983194_75sq_1375664350.jpg"}},{"user":{"username":"janey53b","profile_pic_url":"http:\/\/images.ak.instagram.com\/profiles\/profile_224070564_75sq_1369318004.jpg"}},{"user":{"username":"leeleedle","profile_pic_url":"http:\/\/images.ak.instagram.com\/profiles\/profile_224809935_75sq_1379121076.jpg"}}]},"owner":{"username":"domesticduck","requested_by_viewer":false,"profile_pic_url":"http:\/\/images.ak.instagram.com\/profiles\/profile_559143461_75sq_1379363699.jpg","id":"559143461","followed_by_viewer":false},"is_video":false,"id":"552343420102121932","display_src":"http:\/\/distilleryimage4.ak.instagram.com\/1b7f6414256f11e3b9da22000a1faf53_7.jpg"}}}]],
+
+];
+</script>
+
+
+<script src="//d36xtkk24g8jdx.cloudfront.net/bluebar/8e33c64/scripts/polyfills/es5-shim.min.js"></script>
+<script src="//d36xtkk24g8jdx.cloudfront.net/bluebar/8e33c64/scripts/polyfills/es5-sham.min.js"></script>
+
+
+<script src="//d36xtkk24g8jdx.cloudfront.net/bluebar/8e33c64/cache/bundles/__runtime.js"></script>
+<script src="//d36xtkk24g8jdx.cloudfront.net/bluebar/8e33c64/cache/bundles/__config.js"></script>
+<script>
+window.commonjsBundler.init(
+    "//d36xtkk24g8jdx.cloudfront.net/bluebar/8e33c64/cache/bundles/",
+    window.__commonjsBundlerConfig
+);
+window.commonjsBundler.fetcher.fetchAndRequire('main', function() {});
+</script>
+</body>
+</html>

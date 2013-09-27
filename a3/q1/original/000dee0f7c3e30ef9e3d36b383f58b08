@@ -1,0 +1,440 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="lang-en">
+<head>
+
+  <meta charset="utf-8" />
+<meta property="og:image" content="http://unfollowers.me/sites/all/themes/jlbase/logo.png" />
+<meta property="og:url" content="http://unfollowers.me/" />
+<meta property="og:site_name" content="Unfollowers.me" />
+<meta property="fb:admins" content="730300351" />
+<link type="text/plain" rel="author" href="http://unfollowers.me/humans.txt" />
+<link rel="shortcut icon" href="http://unfollowers.me/sites/all/themes/jlbase/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta property="og:type" content="website" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<meta name="description" content="Unfollowers.me is almost certainly the best online tool to track twitter followers. Check who is not following you back, who you dont followback, your friends on twitter and much more." />
+<link rel="apple-touch-icon-precomposed" href="http://unfollowers.me/cdn/img/apple-touch-iphone.png" />
+<meta property="og:title" content="Track your twitter unfollowers" />
+<link rel="apple-touch-icon-precomposed" href="http://unfollowers.me/cdn/img/apple-touch-iphone.png" />
+<meta name="google-play-app" content="app-id=me.unfollowers.droid&amp;referrer=utm_source%3Dunfollowers.me%26utm_medium%3Dsmartbanner%26utm_content%3Dopenbtn" />
+  <title>Track your twitter unfollowers | Unfollowers.me</title>
+  <link type="text/css" rel="stylesheet" href="http://unfollowers.me/sites/default/files/css/css_ogjvJnfni1_P_WxvXAHlUOgCs860b3ip9DNMapcIGeM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://unfollowers.me/sites/default/files/css/css_9JYxT7bsU5XOgdrg1leP7bWvDSYLudm1DjjIoD--X1g.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://unfollowers.me/sites/default/files/css/css_Wu8npAzy16WmnnnWKxpexfgsAryolGGaX6yO3GWA5bU.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://unfollowers.me/sites/default/files/css/css_1mFG2SnanOi3gi_aBfF2h5Y1Lrale9aPig_ZShFlcLw.css" media="all" />
+  <script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.google_analytics_uacct = "UA-9018417-9";window.google_analytics_domain_name = ".unfollowers.me";
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://unfollowers.me/sites/default/files/js/js_Y6iJ7zAhVYXCgTYu-gVRccFebKRpfw6LRW5xVN-D_7E.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  (function() {
+  var gads = document.createElement('script');
+  gads.async = true;
+  gads.type = 'text/javascript';
+  var useSSL = 'https:' == document.location.protocol;
+  gads.src = (useSSL ? 'https:' : 'http:') +
+  '//www.googletagservices.com/tag/js/gpt.js';
+  var node = document.getElementsByTagName('script')[0];
+  node.parentNode.insertBefore(gads, node);
+  })();
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://unfollowers.me/sites/default/files/js/js_GM2LDQ3E2UVW2LmebtegwffMy5GxuUozpo4QPGmihho.js"></script>
+<script type="text/javascript" src="http://unfollowers.me/sites/default/files/js/js_UZQtZ5PkrohNISRBiUJT7bgGh_8EMP-iBWrTxABIct4.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+googletag.cmd.push(function() {
+  googletag.pubads().enableSingleRequest();
+googletag.enableServices();
+});
+
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://unfollowers.me/sites/default/files/js/js_RPIMsj6R2PQtlUuaHFglqIFlNbDNP_eKEU-ekV1ZCIs.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-9018417-9"]);_gaq.push(["_setDomainName", ".unfollowers.me"]);_gaq.push(["_trackPageview"]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"jlbase","theme_token":"ccl06gjcHkHATZT1wtgTb6slcK6JCjbrvwU0KCYTjfg","js":{"cdn\/js\/library\/bootstrap\/minified\/bootstrap-transition.min.js":1,"cdn\/js\/library\/bootstrap\/minified\/bootstrap-dropdown.min.js":1,"cdn\/js\/library\/bootstrap\/minified\/bootstrap-alert.min.js":1,"cdn\/js\/uf_commons\/minified\/unfollowersme_commons.min.js":1,"cdn\/js\/uf_commons\/jquery-jsonp-2.2.1.min.js":1,"cdn\/js\/library\/bootstrap\/minified\/bootstrap-carousel.min.js":1,"cdn\/js\/library\/bootstrap\/minified\/bootstrap-collapse.min.js":1,"0":1,"cdn\/js\/jquery_update\/jquery\/jquery-1.8.1.min.js":1,"cdn\/js\/core\/minified\/jquery.once.min.js":1,"1":1,"misc\/drupal.js":1,"cdn\/js\/jquery_update\/external\/jquery.cookie.js":1,"cdn\/js\/uf_commons\/html5.js":1,"cdn\/js\/library\/underscore\/underscore.min.js":1,"cdn\/js\/core\/minified\/ajax.min.js":1,"2":1,"cdn\/js\/core\/minified\/progress.min.js":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"3":1},"css":{"modules\/system\/system.base.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/themes\/jlbase\/css\/bootstrap.css":1,"sites\/all\/themes\/jlbase\/css\/styles.css":1}},"uid":0,"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip","trackDomainMode":"1"}});
+//--><!]]>
+</script>
+</head>
+<body class="html front not-logged-in no-sidebars page-home" >
+
+    
+
+    	
+<header id="activity-header" role="banner">
+  <div class="container" id="nav-container">
+    <div class="navbar">
+      <ul class="nav" role="navigation">
+        <li><a href="/" title="Home"
+          rel="home" id="logo"> Unfollowers.me </a>
+        </li>
+      </ul>
+      <ul class="nav clearfix">
+        <li><a href="/r">Activity</a></li>
+                <li><a href="/contact">Contact us</a></li>
+
+        <li><a href="http://followback.me" target="_blank">Followback.me</a></li>
+        <li><a href="/r">Sign in with twitter</a></li>
+      </ul>
+
+
+    </div>
+  </div>
+
+  </header>
+<!-- /.row, /.span12, /#header -->
+
+
+
+    
+
+<div id="page-wrapper"><div id="page">
+
+  
+
+
+  <div id="main-wrapper" class="container">
+  <div id="main" class="clearfix row">
+
+    <div id="content" class="column span24" role="main">
+      
+      <div class="section">
+
+        <div id="messages-wrapper">
+                  </div>
+
+       
+                <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+      
+  <div class="content">
+    <div class="container">
+
+
+  <div class="row">
+        <div style="text-align: center"><script async src="http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-2412943652958469"
+     data-ad-slot="8813542695"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>  </div>
+
+  <section class="row bg-white billboard" id="signin-promo">
+    <h1>
+      Twitter followers Tracker    </h1>
+    <ul class="features">
+      <li><small>Check twitter<br>unfollowers </small>
+      </li>
+      <li><small>Find who isn't<br>following you back </small>
+      </li>
+      <li><small>And much<br>much more </small>
+      </li>
+    </ul>
+    <aside>
+            <a title="Sign in with twitter"
+        class="btn btn-success btn-large pull-right oauth-redirect"
+        href="/r">Sign in with twitter      </a>
+      <h3 style="display:inline"><small style="margin-top: 5px" class="pull-right row">*No surprise tweets</small></h3>
+          </aside>
+  </section>
+
+  <section class="row">
+
+    <div id="home-main-carousel" class="carousel">
+      <div class="carousel-inner">
+
+        <div class="item active clearfix">
+          <div class="span8">
+            <h2 class="mod-header">
+              Know which of your twitter followers has just unfollowed you            </h2>
+          </div>
+          <div class="span16">
+            <img width="630px"
+              src="http://unfollowers.me/cdn/img/unfollowersme.png"
+              alt="Know which of your twitter followers has just unfollowed you">
+          </div>
+        </div>
+
+        <div class="item clearfix">
+          <div class="span8">
+            <h2 class="mod-header">
+              Get unfollower notifications via email, tweets or direct messages            </h2>
+          </div>
+          <div class="span16">
+            <img width="630px" src="http://unfollowers.me/cdn/img/tweeps.png"
+              alt="Get unfollower notifications via email, tweets or direct messages">
+          </div>
+        </div>
+
+        <div class="item clearfix">
+          <div class="span8">
+            <h3 class="mod-header">
+              Manage your twitter followers with our advanced and powerful interface.            </h3>
+          </div>
+          <div class="span16">
+            <img style="margin-top: 20px;" width="630px"
+              src="http://unfollowers.me/cdn/img/front-dashboard.jpg"
+              alt="Manage your twitter followers with our advanced and powerful interface."
+              title="Manage your twitter followers with our advanced and powerful interface.">
+          </div>
+        </div>
+      </div>
+      <div class="adsense-incarousel">
+                        <div style="text-align: center"><script async src="http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- UF_Home_300x250_Carousel -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-2412943652958469"
+     data-ad-slot="5553180399"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>      </div>
+
+    </div>
+  </section>
+  <hr />
+
+    <div class="row">
+    <h3 style="font-style: italic;font-size: 32px; text-align: center;color: #449483;font-weight: bold; letter-spacing: 5px;">Trusted by <span style="font-style: normal;font-size: 36px;opacity: 0.5;text-shadow: 4px 7px 17px; color: #333;">6,783,009</span> Users</h3>
+  </div>
+  <hr/>
+  
+  <div class="row" id="front-aboutus">
+
+    <section class="span14">
+      <h1>
+        What we do      </h1>
+      Unfollowers.me lets you see who has unfollowed you on twitter.
+          We use optional email or tweet notifications to notify you if someone has
+          unfollowed you. Additionally, you can use our advanced features to easily
+          unfollow/follow, block/unblock users from your dashboard. You can autofollow
+          your followers, compare users, send messages to multiple users, invite
+          multiple users to follow you with just one click and more!    </section>
+
+    <section class="offset1 span9">
+      <h1>
+        How we do it      </h1>
+      <p>
+        We use twitter OAuth authentication -- you don't have to
+            share your password with us! Also, we realize your Twitter account is
+            important to you, and must fully be under your control. We don't do
+            <strong>anything</strong> without your consent.      </p>
+      <p>
+        Just click on "Sign in" to get started!      </p>
+    </section>
+  </div>
+  <hr />
+
+  <div class="row" id="site-features">
+    <h3>
+      4 reasons why Unfollowers.me is the most loved application    </h3>
+
+    <div class="accordion" id="accordion-front">
+      <div class="accordion-group">
+        <div class="accordion-heading">
+          <a class="accordion-toggle" data-toggle="collapse"
+            data-parent="#accordion-front" href="#collapseOne">Unfollowers.me is the most
+            reliable unfollowers tracker</a>
+        </div>
+        <div id="collapseOne" class="accordion-body collapse">
+          <div class="accordion-inner">Unfollowers.me does a 3 times verification
+          of your recent unfollowers. We do this because, from time to time
+          twitter sends us incorrect data. We understand the value each contact
+          brings. So we don't want to give false information just because of inconsistencies with twitter databases.
+          </div>
+        </div>
+      </div>
+
+            <div class="accordion-group">
+        <div class="accordion-heading">
+          <a class="accordion-toggle" data-toggle="collapse"
+            data-parent="#accordion-front" href="#collapseFour">No Surprise tweets</a>
+        </div>
+        <div id="collapseFour" class="accordion-body collapse">
+          <div class="accordion-inner">
+            Unfollowers.me is made to help you grow your twitter account, we never
+            tweet from your account, unless you explicitely click a tweet button.
+            That means you have full customization for your account. Unfollowers.me
+            will never ask you to tweet anything.
+          </div>
+        </div>
+      </div>
+
+      <div class="accordion-group">
+        <div class="accordion-heading">
+          <a class="accordion-toggle" data-toggle="collapse"
+            data-parent="#accordion-front" href="#collapseFive">Unfollow on the go with
+            our mobile web and our android app.</a>
+        </div>
+        <div id="collapseFive" class="accordion-body collapse">
+          <div class="accordion-inner">
+            Unfollowers.me make it easy for you to follow and unfollow people on mobile.
+            So we have a
+            <a href="http://m.unfollowers.me" title="Unfollowers.me mobile website">supereasy mobile web</a>            . For people who are lazy enough to open a browser. We have an
+            <a href="https://play.google.com/store/apps/details?id=me.unfollowers.droid&amp;referrer=utm_source%3Dunfollowers.me%26utm_medium%3Dlink%26utm_content%3Daccordion" target="_blank" title="Unfollowers.me android application" onClick="_gaq.push([&#039;_trackEvent&#039;, &#039;App&#039;, &#039;Google play&#039;, &#039;Collapse Link&#039;])">android app</a>            and we are soon going to launch the iPhone version of our app.
+          </div>
+        </div>
+      </div>
+
+
+      <div class="accordion-group">
+        <div class="accordion-heading">
+          <a class="accordion-toggle" data-toggle="collapse"
+            data-parent="#accordion-front" href="#collapseTwo">Unfollowers.me has
+            everything you need to manage your twitter account</a>
+        </div>
+        <div id="collapseTwo" class="accordion-body collapse">
+          <div class="accordion-inner">
+            Unfollowers.me lets you know:
+            <ul>
+              <li>People who has just unfollowed you</li>
+              <li>People who has just followed you</li>
+              <li>People who you are following but they are not following you back</li>
+              <li>People who follows you, but you don't follow them back</li>
+              <li>People who you follow and they follow you back</li>
+              <li>Everyone who you follow and everyone who follows you</li>
+              <li>People you blocked on twitter</li>
+              <li>Protected users who haven't accepted your following request</li>
+              <li>People you follow who are inactive, fake, without profile image, and
+                those who don't speak your language</li>
+              <li>People you follow who tweets too much or people who are quiet</li>
+              <li>Find and follow people in a twitter list</li>
+              <li>Search people by keywords and follow them</li>
+              <li>Find and follow followers and following of any twitter user</li>
+              <li>Compare any two twitter user</li>
+            </ul>
+            <p>
+              And with our powerful interface you can <strong>list</strong>, <strong>follow/unfollow</strong>,
+              <strong>block/unblock</strong>, <strong>mention</strong>, <strong>dm</strong>,
+              and even <strong>force user to unfollow you</strong> with just simple click.
+              Our dashboard gives you more options, to <strong>sort</strong>, <strong>filter</strong>
+              and even <strong>unfollow and follow multiple users</strong> with just one
+              click, this makes us the best application ever.
+
+            </p>
+            <p>Our sort filter allows you to sort users by:</p>
+            <ul>
+              <li>Tweet count</li>
+              <li>Following count</li>
+              <li>Followers count</li>
+              <li>Following/Followers ratio</li>
+              <li>Twitter Name in alphabetical order</li>
+              <li>Twitter screen name</li>
+              <li>Account age: Order by newest or oldest twitter users</li>
+              <li>Tweets per day</li>
+              <li>Follow order</li>
+            </ul>
+            <p>Our Filter lets you filter users by:</p>
+            <ul>
+              <li>Non english</li>
+              <li>Inactive users</li>
+              <li>Talkative</li>
+              <li>Quiet</li>
+              <li>Verified</li>
+              <li>Non Verified</li>
+              <li>Protected</li>
+              <li>Non Protected</li>
+              <li>Fake following</li>
+              <li>No profile description</li>
+              <li>No profile image</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="front-tuser-form">
+      <form class="container-inline inline-big inline-form-only" action="/" method="post" id="twitter-advance-user-stats-form" accept-charset="UTF-8"><div>I am <div class="form-item form-type-textfield form-item-screen-name">
+  <label class="element-invisible" for="edit-screen-name">Screen name <span class="form-required" title="This field is required.">*</span></label>
+ <span class="field-prefix">@</span> <input type="text" id="edit-screen-name" name="screen_name" value="" size="60" maxlength="128" class="form-text required" />
+</div>
+<input class="btn-inverse btn form-submit" type="submit" id="edit-submit" name="op" value="show me" /> users who dont follow back<input type="hidden" name="form_build_id" value="form-CqF0saF5XT1pkvXJNxJeC2xDjmL1teEku7kNfF6lGls" />
+<input type="hidden" name="form_id" value="twitter_advance_user_stats_form" />
+</div></form>    </div>
+  </div>
+
+
+  <div class="row">
+        <div style="text-align: center"><script async src="http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:inline-block;width:970px;height:90px"
+     data-ad-client="ca-pub-2412943652958469"
+     data-ad-slot="9320500693"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>  </div>
+
+</div>
+
+
+  </div> <!-- /.content -->
+
+</div> <!-- /.block -->
+  </div>
+      
+
+
+    </div></div> <!-- /.section, /#content -->
+
+  </div></div> <!-- /#main, /#main-wrapper -->
+  <footer id="footer" role="contentinfo" class="bg-white"><div class="container">
+                  <div class="row" id="seo-links">
+          <div class="span6">
+  <div class="footer-logo">
+    <a href="/" title="Track your twitter unfollowers" class="active">Unfollowers.me</a>  </div>
+</div>
+<div class="span6">Unfollowers.me is a web app to check unfollowers and manage your twitter account. We are <strong>not</strong> affiliated with Twitter.  <div>©2012 <a href="http://jasonleon.in" title="Jasonleon" target="_blank">Jasonleon</a></div>
+  <a style="display: block; margin-top: 10px; width: 130px; height: 45px;" onClick="_gaq.push(['_trackEvent', 'App', 'Google play', 'Footer link'])" target="_blank" href="https://play.google.com/store/apps/details?id=me.unfollowers.droid&referrer=utm_source%3Dunfollowers.me%26utm_medium%3Dgplay_icon45%26utm_content%3Dfooter%2520link">
+    <img alt="Unfollowers.me Android app on Google Play"
+       src="http://unfollowers.me/cdn/img/gplay_icon45.png" />
+  </a>
+</div>
+<nav class="span6">
+  <ul>
+        <li><a href="/isfollowing" title="Check if a user is following you">Is a User Following Me?</a></li>
+    <li><a href="/tuser/following" title="Check whos not following you back">Who isn&#039;t Following Me Back?</a></li>
+    <li><a href="/tuser/fans" title="Check who you dont follow back">Who am I not following back?</a></li>
+    <li><a href="/tuser/friends" title="Check who you follows follow back">My Friends on twitter?</a></li>
+    <li><a href="/explore" title="Explore and find new interesting twitter followers to follow">Show People like me?</a></li>
+  </ul>
+
+</nav>
+<nav class="span4">
+  <ul>
+    <li><a href="/contact" title="Contact us">Contact us</a></li>
+    <li><a href="/about-us" title="About us">About us</a></li>
+    <li><a href="/faq" title="Frequent asked questions">FAQ</a></li>
+    <li><a href="/r">Sign In</a></li>
+    <li><a href="http://twitter.com/unfollowersme" target="_blank" title="Unfollowersme twitter account">Twitter</a></li>
+  </ul>
+</nav>
+<div class="span24" style="text-align: center;">
+  <a href="//m.unfollowers.me" title="Unfollowers.me mobile version">Mobile Version</a> | Desktop Version</div>
+        </div>
+        </div></footer> <!-- /.container, /#footer -->
+
+</div></div> <!-- /#page, /#page-wrapper -->
+
+  <script type="text/javascript" src="http://unfollowers.me/sites/default/files/js/js_Fu_J7KoemcQCgmMcnCacqeE9JmaYVuy73HhrftkAGUk.js"></script>
+
+</body>
+</html>

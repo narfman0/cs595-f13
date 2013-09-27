@@ -1,0 +1,764 @@
+<!DOCTYPE html>
+<script>var __pbpa = true;</script><script>var translated_warning_string = 'Aviso: Nunca introduzcas tu contrase\u00f1a de Tumblr a menos que la direcci\u00f3n \u201chttps://www.tumblr.com/login\u201d\x0aaparezca en la barra del navegador.\x0a\x0aTambi\u00e9n deber\u00edas ver el emblema verde de \u201cTumblr, Inc.\u201d en la barra de direcciones.\x0a\x0aLos spammers y otras personas malintencionadas utilizan formularios falsos para obtener contrase\u00f1as de forma il\u00edcita.\x0a\x0aTumblr jam\u00e1s te pedir\u00e1 que inicies sesi\u00f3n desde el blog de un usuario.\x0a\x0a\u00bfSeguro que quieres continuar?';</script><script type="text/javascript" language="javascript" src="http://assets.tumblr.com/assets/scripts/pre_tumblelog.js?_v=90496f22ffd4b193ff4f3aa39d43d2af"></script>
+
+ 
+ 
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# blog: http://ogp.me/ns/blog#">
+<style type="text/css">
+a.btn{position:absolute;z-index:999999999999;white-space:nowrap;outline:0;text-decoration:none;cursor:pointer;overflow:hidden;font:600 12px/18px "Helvetica Neue","HelveticaNeue",Helvetica,Arial,sans-serif;height:20px;padding:0 5px;-webkit-font-smoothing:antialiased;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;-ms-box-sizing:border-box;-o-box-sizing:border-box;box-sizing:border-box;-webkit-transition-property:padding;-moz-transition-property:padding;-ms-transition-property:padding;-o-transition-property:padding;transition-property:padding;-webkit-transition-duration:.1s;-moz-transition-duration:.1s;-ms-transition-duration:.1s;-o-transition-duration:.1s;transition-duration:.1s;-webkit-transition-timing-function:ease;-moz-transition-timing-function:ease;-ms-transition-timing-function:ease;-o-transition-timing-function:ease;transition-timing-function:ease}.btn{color:#fff;border:1px solid rgba(0,0,0,0.18);background:rgba(0,0,0,0.38);text-shadow:1px 1px 0 rgba(0,0,0,0.08)}a.btn,a.btn:hover{color:white!important}.btn{margin-bottom:5px;color:#fff;border:1px solid rgba(0,0,0,0.18);background:rgba(0,0,0,0.38);text-shadow:1px 1px 0 rgba(0,0,0,0.08);-webkit-border-radius:2px;-moz-border-radius:2px;border-radius:2px}.btn:hover::after,.btn:focus::after{background:rgba(255,255,255,0.09);color:white}.btn:active::after{background:rgba(255,255,255,0.18) color:white}.btn_label.show{display:block}.btn::after{position:absolute;top:0;right:0;bottom:0;left:0;content:'';-webkit-border-radius:inherit;-moz-border-radius:inherit;border-radius:inherit}.btn.icon::before{display:block;content:'';position:absolute;top:0;left:0;bottom:0;width:20px;border-radius:inherit;background:url('http://static.tumblr.com/tpqedpr/cQ1mbwb60/de.png') 0 0 no-repeat}.btn.theme::before{background-position:0 -0px}.btn img{width:15px}.btn.icon{padding-left:20px}.btn:active::after {background:rgba(255,255,255,0.18)}.clear {clear: both;} #pagination {display: all;}
+
+
+
+
+#scrollToTop:link, #scrollToTop:visited { display: none; position: fixed; top: 20px; right: 20px; } #scrollToTop:hover, #scrollToTop:active {
+
+
+
+
+
+
+</style>
+
+<script type="text/javascript">
+var rev = "fwd";
+function titlebar(val)
+{
+var msg = "~Tinieblas~";
+var res = "F ";
+var speed = 100;
+var pos = val;
+msg = "~Tinieblas~";
+var le = msg.length;
+if(rev == "fwd"){
+if(pos < le){
+pos = pos+1;
+scroll = msg.substr(0,pos);
+document.title = scroll;
+timer = window.setTimeout("titlebar("+pos+")",speed);
+}
+else{
+rev = "bwd";
+timer = window.setTimeout("titlebar("+pos+")",speed);
+}
+}
+else{
+if(pos > 0){
+pos = pos-1;
+var ale = le-pos;
+scrol = msg.substr(ale,le);
+document.title = scrol;
+timer = window.setTimeout("titlebar("+pos+")",speed);
+}
+else{
+rev = "fwd";
+timer = window.setTimeout("titlebar("+pos+")",speed);
+}
+}
+}
+titlebar(0);
+</script>
+<link href="css/adipoli.css" rel="stylesheet" type="text/css"/>
+<script src="js/jquery-1.7.1.js" type="text/javascript"></script>
+<script src="js/jquery.adipoli.min.js" type="text/javascript"></script>
+ 
+    <!-- DEFAULT VARIABLES -->
+    <meta name="color:background" content="#Ffffff" />  
+    <meta name="color:infohover" content="#BE9CBC" />
+    <meta name="color:Question Background" content="#e4e4e4" />
+    <meta name="color:text" content="#aaa8a3" />
+    <meta name="color:bold" content="#646264" />
+    <meta name="color:italic" content="#666366" />
+    <meta name="color:link" content="#8b8b8b" />
+    <meta name="color:infohover" content="#f5f5f2" />
+    <meta name="color:border" content="#766c77" />
+    <meta name="color:title" content="#565357" />
+    <meta name="font:body" content="georgia" />  
+    <meta name="color:navigation BG hover" content="##c6c0c7">
+    <meta name="color:navigation links" content="#6c6c6c">
+    <meta name="color:navigation links background" content="#ffffff">
+    <meta name="color:Stats Text" content="#6c6c6c">
+    <meta name="color:banner links bg" content="#6c6c6c">
+    <meta name="color:Tags Text" content="#746c75">
+    <meta name="color:Stats Link" content="#686467">
+    <meta name="color:Tags Link" content="#6e6974">
+    <meta name="color:scrollbar" content="#b8b1b5">
+    <meta name="color:Stats Background" content="#c4c1c2">
+    <meta name="color:Tags Background" content="#dacdd4">
+    <meta name="color:Description BG" content="#ebe7e9">
+    <meta name="if:Show Tags" content="1"/>
+    <meta name="image:background" content="" />
+    <meta name="image:links bg" content="http://i46.tinypic.com/3461ao2.png" />
+    <meta name="image:banner" content="" />
+    <meta name="text:Second Title" content="" />  
+    <meta name="text:Link1" content="" />  
+    <meta name="text:Link1 Title" content="" />  
+    <meta name="text:Link2" content="" />  
+    <meta name="text:Link2 Title" content="" />  
+    <meta name="text:Link3" content="" />  
+    <meta name="text:Link3 Title" content="" />  
+ 
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title></title>
+    
+    <link rel="shortcut icon" href="http://25.media.tumblr.com/avatar_c8a4fbc8a55c_128.png" />
+    <link rel="alternate" type="application/rss+xml" href="http://lo-quedicta-larazon.tumblr.com/rss" />
+    <link href='http://fonts.googleapis.com/css?family=Satisfy' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Rochester' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Petit+Formal+Script' rel='stylesheet' type='text/css'>
+    <style type="text/css">
+ 
+::-webkit-scrollbar {
+height: 12px;
+width: 10px;}
+ 
+::-webkit-scrollbar-thumb {
+background-color:#606779;
+}
+ 
+::-webkit-scrollbar-track{
+background-color:#Ffffff;}
+ 
+::-webkit-scrollbar-buttom{
+background-color:#606779;}
+ 
+ 
+body {color:#606779; background-color:#Ffffff; background-image: url('http://assets.tumblr.com/images/x.gif'); background-attachment:fixed; font-family:Georgia, Palatino, 'Palatino Linotype', Times, 'Times New Roman', serif; font-size:11px; line-height:110%; text-align:justify}
+ 
+a:link, a:active, a:visited{color: #8b8b8b; text-decoration:none}
+a:hover{color:#Ffffff}
+ 
+links {position:fixed; text-align:center;margin-left:160px;margin-top:100px}
+ 
+links a {margin: 174px 0 -183px -870px; width:100px; display:block; color:#606779; background-color:; font:10px georgia ;font-style:italic; text-transform: lowercase; text-decoration: none; letter-spacing: 3px; padding:3px;}
+ 
+links a:hover {background-color:;
+-webkit-transition: all 0.6s ease-in-out;
+-moz-transition: all 0.6s ease-in-out;
+-o-transition: all 0.6s ease-in-out;
+-ms-transition: all 0.6s ease-in-out;
+transition: all 0.6s ease-in-out;
+}
+ 
+ 
+#banner{
+    position:fixed;
+    width:600px;
+    background-image: url('http://static.tumblr.com/c58bfaba921a58eab6e48479810e4b48/hbm2mhv/luAmtpvh3/tumblr_static_banner.png');
+    height:250px;
+    margin-left:380px;
+    margin-top:-20px;
+}
+ 
+#icon {position:fixed; width-auto; height-auto;margin-top:110px; margin-left:110px;border-top:4px solid#766c77;border-bottom:4px solid#766c77;border-left:4px solid#766c77;border-right:4px solid#766c77}
+ 
+#title {width:260px;text-align:center;font-size:15px; letter-spacing:1px; text-transform:lowercase; color:#565357; font-style:italic;font-family: 'Petit Formal Script', cursive;}
+#title a:hover {
+background-color:#766c77;
+-webkit-transition: all 0.6s ease-in-out;
+-moz-transition: all 0.6s ease-in-out;
+-o-transition: all 0.6s ease-in-out;
+-ms-transition: all 0.6s ease-in-out;
+transition: all 0.6s ease-in-out;
+}
+ 
+ 
+ 
+/* STATISTICS */
+.stats {
+    opacity:1;
+ 
+font-family: ariel;
+font-size: 9px;
+color: #e71414;
+background-color:#606779;
+text-transform:uppercase;
+line-height: 16px;
+text-align: center;
+padding-top: 2px;
+letter-spacing: 1px;
+width: 500px;
+}
+ 
+ 
+.stats b {
+background-color:#606779;
+padding: 2px;
+}
+ 
+.stats a {
+color: #ffffff;
+text-decoration: none;
+}
+ 
+/*TAGS*/
+ 
+.Tags {
+    opacity:1;
+font-family: georgia;
+font-size: 9px;
+color: #0a080a;
+background-color:#f7f5f6;
+text-transform:;
+line-height: 16px;
+text-align: center;
+padding-top: 2px;
+letter-spacing: 1px;
+width: 500px;
+}
+ 
+ 
+.Tags b {
+background-color:#f7f5f6;
+padding: 2px;
+}
+ 
+.Tags a {
+color: #606779;
+text-decoration: none;
+}
+ 
+ 
+.cred {
+    font-family:calibri; letter-spacing:1px; font-size:10px; bottom:2px; right:4px; position:fixed; padding:10px; text-align:right; font-weight:bold; }
+ 
+.cred:hover #name
+{ margin-bottom:0;
+-webkit-transition: all 0.2s ease-out;
+-o-transition: all 0.2s ease-out;
+-webkit-transition: all 0.2s ease-out;
+-moz-transition: all 0.2s ease-out;}
+ 
+.cred:hover #star { opacity:0;
+-webkit-transition: all 0.2s ease-out;
+-o-transition: all 0.2s ease-out;
+-webkit-transition: all 0.2s ease-out;
+-moz-transition: all 0.2s ease-out;}
+ 
+#star { font-size:20px; padding-bottom:10px; }
+#name { margin-bottom:-36px;
+-webkit-transition: all 0.2s ease-out;
+-o-transition: all 0.2s ease-out;
+-webkit-transition: all 0.2s ease-out;
+-moz-transition: all 0.2s ease-out;}
+#name a { color:#666366; }
+   
+ 
+ 
+#second {
+    margin-top:-8px;
+    width:260px;
+    text-align:center;
+    font-size:11px;
+    letter-spacing:1px;
+    text-transform:lowercase;
+    color:;
+    font-style:italic;
+    font-family: georgia;}
+   
+ 
+#audiopost {margin-bottom:5px; width:500px; height:150px}
+.cover {width:150px; height:150px; position:absolute;}
+.cover img {width:150px; height:150px; float:left;}
+.player {opacity: 0.5;position:absolute; z-index:1; background:#fff; width:150px; height:150px; display:block;-webkit-transition: all 0.7s ease;-moz-transition: all 0.7s ease;-o-transition: all 0.7s ease;}
+.playerr {width:25px; height:25px; margin-top:55px; margin-left:55px; overflow:hidden; padding:3px;}
+.track {margin-left:160px; line-height:12px; padding-top: 35px;}
+ 
+ 
+ 
+ 
+ 
+#pagination {width:250px; background:; font-family:georgia; text-align:center; font-style:italic;font-size:12px; padding:4px}
+ 
+#wholeleftarea{
+    width:350px;
+    margin-left:-10px;
+    background-color:;
+    margin-top:-10px;
+    height:200%;
+    position:fixed;}
+ 
+#linksarea{
+    margin-left:85px;
+    margin-top:290px;
+    position:fixed;
+    background-color:;
+}
+ 
+#rightarea{
+    
+    
+    position:fixed;
+    margin-top:80px;
+    background-color:;
+}
+ 
+ 
+.ask {
+background-color: #f1f1f1;
+text-align: justify;
+font-size: 12px;
+font-family: 'Petit Formal Script', cursive;
+padding: 10px;
+margin-left: 63px;
+z-index: 302;
+}
+ 
+.askb {
+width: 0px;
+height: 0px;
+margin-left: 50px;
+border-bottom: 20px solid transparent;
+border-right: 20px solid #f1f1f1;
+position: absolute;
+margin-top: 10px;
+z-index: 301;
+}
+ 
+.askicon {
+margin-left: 0px;
+position: absolute;
+text-align: left;
+}
+ 
+.answer {
+padding: 5px 0px 2px 0px;
+margin-left: 63px;
+text-align: justify;
+margin-top: -3px;
+}
+ 
+ 
+#bannerlinkage{
+    width:600px;
+    margin-top:230px;
+    margin-left:380px;
+    background-image: url('http://assets.tumblr.com/images/x.gif');
+    background-color:#606779;
+    height:30px;
+    position:fixed;}
+ 
+ 
+#sidebarimage img{
+       
+         
+    }
+   
+ 
+#description{
+    margin-left:28px;
+    width:275px;
+    margin-top:50px;
+    opacity:0.1;
+    background-color:#fdfdfd;
+    padding:15px;
+    font-size:9px;
+    color:#606779;
+    font-family: georgia;
+    -webkit-transition: opacity 0.8s linear;-webkit-transition: all 0.5s ease-out; -moz-transition: all 0.5s ease-out;transition: all 0.5s ease-out
+    }
+   
+  #description:hover{
+      -webkit-transition: opacity 0.8s linear;opacity: 1;-webkit-transition: all 0.5s ease-out; -moz-transition: all 0.5s ease-out;transition: all 0.5s ease-out;
+      opacity:1;}
+     
+#rightnavigationarea{
+ 
+    margin-top:290px;
+    margin-left:290px;
+    position:fixed;
+}
+ 
+#realrightbar{
+    margin-left:1000px;
+    margin-top:-10px;
+    height:100%;
+    width:50px;
+    background-color:;
+    position:fixed;
+    }
+   
+#realrightbar2{
+    margin-left:1080px;
+    margin-top:-10px;
+    height:100%;
+    width:30px;
+    background-color:;
+    position:fixed;
+    }
+   
+ 
+#rightnavigation a{
+    width:60px;
+    height:11px;
+    padding:2px;
+    margin-top:-9px;
+    font-style:;
+    display:inline-block;
+    background-color:#ffffff;
+    text-align:center;
+    color:#6c6c6c;
+    text-transform:uppercase;
+    letter-spacing:1px;
+    font-size:9px;
+    font-family: calibri;
+    opacity:0.5;
+    -webkit-transition: opacity 0.8s linear;opacity: 1;-webkit-transition: all 0.5s ease-out; -moz-transition: all 0.5s ease-out;transition: all 0.5s ease-out
+    }
+   
+#rightnavigation a:hover{
+    opacity:1;
+    color:#ffffff;
+    background-color:#606779;
+    -webkit-transition: opacity 0.7s linear;opacity: 1;-webkit-transition: all 0.3s ease-out;-moz-transition: all 0.3s ease-out;transition: all 0.3s ease-out
+    }
+   
+#navigation a{
+    width:40px;
+    padding:4px;
+    font-style:italic;
+    margin-right:5px;
+    display:inline-block;
+    text-align:center;
+    border:1px solid#766c77;
+    background-color:;
+    color:#6c6c6c;
+    font-family:georgia;
+    font-size:9px;
+    text-transform:lowercase;
+    letter-spacing:1px;
+    -webkit-transition: opacity 0.8s linear;opacity: 1;-webkit-transition: all 0.5s ease-out; -moz-transition: all 0.5s ease-out;transition: all 0.5s ease-out}
+#navigation a:hover{
+    background-color:#606779;
+    -webkit-transition: opacity 0.7s linear;opacity: 1;-webkit-transition: all 0.3s ease-out;-moz-transition: all 0.3s ease-out;transition: all 0.3s ease-out}
+   
+ 
+ 
+ 
+#entries {margin: 280px 0 5px 500px; float:left; text-align: justify; margin-left:430px;}
+ 
+#posts {;margin: 20px 0 -5px 0; width: 500px; background-color:transparent; text-align: left; padding: 3px;}
+#posts:hover .stats{-webkit-transition: opacity 0.8s linear;opacity: 1;-webkit-transition: all 0.5s ease-out; -moz-transition: all 0.5s ease-out;transition: all 0.5s ease-out
+    opacity:1}
+ 
+h1{color:#565357; font-style:italic;font-family: 'Petit Formal Script', cursive; font-size:15px; line-height:15px; letter-spacing:0px; font-weight:normal; margin:0px; padding:0px; text-align:left}
+ 
+h2{color:#565357; font-family:; font-size:12px; line-height:12px; letter-spacing:0px; font-weight:normal;  margin:0px; padding:0px; margin-bottom:-0px; text-align:left}
+ 
+h3{color:#8b8b8b; font-family:georgia; font-size:13px; letter-spacing:1px; font-weight:normal; font-style:normal; text-transform:lowercase; line-height:15px; margin-top:-4px; margin-bottom:-10px; text-align:center}
+ 
+h3 a:hover{background-color:transparent}
+ 
+ 
+ 
+#info{font-family:georgia; font-size:9px; text-transform:lowercase; text-align:center; background-color:;letter-spacing:2px;
+-webkit-transition: opacity 0.8s linear;opacity: 1;-webkit-transition: all 0.5s ease-out; -moz-transition: all 0.5s ease-out;transition: all 0.5s ease-out}
+ 
+#info a:hover{background-color:#f5f5f2;font-style: italic;-webkit-transition: opacity 0.7s linear;opacity: 1;-webkit-transition: all 0.3s ease-out;-moz-transition: all 0.3s ease-out;transition: all 0.3s ease-out }
+ 
+#questions {background-color:#606779; color: #606779; padding:10px; margin-bottom:0px;font-family: 'Petit Formal Script', cursive; font-size:11px}
+#questions a {color:#8b8b8b}
+ 
+blockquote {border-left:2px  solid; padding-left:5px; margin:0px 2px 0px 10px}
+ 
+b, strong{color:#646264}
+i, em {color:#666366}
+p{margin-top:5px; margin-bottom:5px}
+blockquote {padding:0px; padding-left:5px; margin:5px; border-left:2px solid #606779}
+ 
+img a{border:none; width:100%}
+.audio{background-color:black; display:block;}
+ 
+.user_1 .label {color:#8b8b8b; font-weight:bold}
+.user_2 .label {color:#606779; font-weight:bold}
+ul.chat, .chat ol, .chat li {list-style:none; margin:0px; padding:0px;}
+ 
+.notes img{width:10px; position:relative; top:1px}
+ol.notes, .notes li{list-style:none; width:490px; margin:-7px 0 7px 5px; padding:4px}
+ 
+        </style>
+    <style type="text/css"></style>
+
+<!-- BEGIN TUMBLR FACEBOOK OPENGRAPH TAGS -->
+<!-- If you'd like to specify your own Open Graph tags, define the og:url and og:title tags in your theme's HTML. -->
+<!-- Read more: http://ogp.me/ -->
+<meta property="fb:app_id" content="48119224995" />
+<meta property="og:site_name" content="lo-quedicta-larazon" />
+<meta property="og:title" content="" />
+<meta property="og:url" content="http://lo-quedicta-larazon.tumblr.com/post/62192810818" />
+<meta property="og:description" content="ksolifeis:
+&ldquo;November. | via Tumblr on We Heart It
+http://weheartit.com/entry/78945140/via/SweetNovember19
+&rdquo;" />
+<meta property="og:determiner" content="a" />
+<meta property="og:type" content="tumblr-feed:photo" />
+<meta property="og:image" content="http://31.media.tumblr.com/cb7b147e1acfcae92a626ee89eb0dac4/tumblr_mtnkl8Atlt1shcxrso1_500.jpg" />
+<!-- END TUMBLR FACEBOOK OPENGRAPH TAGS -->
+
+
+<!-- TWITTER TAGS -->
+<meta charset="utf-8">
+            <meta name="twitter:card" content="photo" />
+            <meta name="twitter:description" content="ksolifeis: &ldquo;November. | via Tumblr on We Heart It http://weheartit.com/entry/78945140/via/SweetNovember19 &rdquo;" />
+            <meta name="twitter:image" content="http://31.media.tumblr.com/cb7b147e1acfcae92a626ee89eb0dac4/tumblr_mtnkl8Atlt1shcxrso1_500.jpg" />
+            <meta name="twitter:url" content="http://lo-quedicta-larazon.tumblr.com/post/62192810818" />
+            <meta name="twitter:site" content="tumblr" />
+            <meta name="twitter:creator" content="Felibin" />
+            <meta name="twitter:app:name:iphone" content="Tumblr" />
+            <meta name="twitter:app:name:ipad" content="Tumblr" />
+            <meta name="twitter:app:name:googleplay" content="Tumblr" />
+            <meta name="twitter:app:id:iphone" content="305343404" />
+            <meta name="twitter:app:id:ipad" content="305343404" />
+            <meta name="twitter:app:id:googleplay" content="com.tumblr" />
+            <meta name="twitter:app:url:iphone" content="tumblr://x-callback-url/blog?blogName=lo-quedicta-larazon&amp;postID=62192810818&amp;referrer=twitter-cards" />
+            <meta name="twitter:app:url:ipad" content="tumblr://x-callback-url/blog?blogName=lo-quedicta-larazon&amp;postID=62192810818&amp;referrer=twitter-cards" />
+            <meta name="twitter:app:url:googleplay" content="tumblr://x-callback-url/blog?blogName=lo-quedicta-larazon&amp;postID=62192810818&amp;referrer=twitter-cards" />
+    
+
+<script type="text/javascript" src="http://assets.tumblr.com/assets/scripts/tumblelog.js?_v=cf7aeb03e820314a6cb2890dfa192802"></script>
+<meta http-equiv="x-dns-prefetch-control" content="off"/>
+</head>
+ 
+<body>
+<div id="all">
+<div id="container">
+ 
+<div id="entries">
+
+<div id="posts">
+ 
+
+
+ 
+
+ 
+
+ 
+<center><a href="http://weheartit.com/entry/78945140/via/SweetNovember19"><img src="http://31.media.tumblr.com/cb7b147e1acfcae92a626ee89eb0dac4/tumblr_mtnkl8Atlt1shcxrso1_500.jpg" alt="ksolifeis:
+
+November. | via Tumblr on We Heart Ithttp://weheartit.com/entry/78945140/via/SweetNovember19"/></a></center><p><a href="http://ksolifeis.tumblr.com/post/62191802178/november-via-tumblr-on-we-heart-it" class="tumblr_blog" target="_blank">ksolifeis</a>:</p>
+
+<blockquote><p>November. | via Tumblr on We Heart It<br/><a href="http://weheartit.com/entry/78945140/via/SweetNovember19" target="_blank"><a href="http://weheartit.com/entry/78945140/via/SweetNovember19" target="_blank">http://weheartit.com/entry/78945140/via/SweetNovember19</a></a></p></blockquote>
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+<div id="info"><div class="stats">
+<a href="http://www.tumblr.com/reblog/62192810818/jIu91FVi" target="_blank">Reblog</a> <a href="http://lo-quedicta-larazon.tumblr.com/post/62192810818">hace 2 días</a>
+, with 3 notas
+</a><a href="http://ksolifeis.tumblr.com/post/62191802178/november-via-tumblr-on-we-heart-it">VIA</a>  | </div>
+<div class="Tags">
+</div><BR></div>
+</div>
+ 
+ 
+ 
+ 
+
+
+
+<ol class="notes">
+
+    <!-- START NOTES -->
+                            
+        
+                                                                
+        
+        
+        <li class="note reblog tumblelog_presosdeestesol without_commentary">
+
+                        
+                
+                                                                                        <a rel="nofollow" class="avatar_frame" target="_blank" href="http://presosdeestesol.tumblr.com/" title="in rainbows"><img src="http://25.media.tumblr.com/avatar_4a58c5c33b95_16.png" class="avatar " alt="" /></a>
+                    
+                    <span class="action" data-post-url="http://presosdeestesol.tumblr.com/post/62198268663">
+                                                    
+                                                                                                                                                                                    <a rel="nofollow" href="http://presosdeestesol.tumblr.com/" class="tumblelog" title="in rainbows">presosdeestesol</a> ha reblogueado esto desde <a rel="nofollow" href="http://lo-quedicta-larazon.tumblr.com/" class="source_tumblelog" title="">lo-quedicta-larazon</a>                                                                                                                                                                                    </span>
+                    <div class="clear"></div>
+
+                                    
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note reblog tumblelog_lo-quedicta-larazon without_commentary">
+
+                        
+                
+                                                                                        <a rel="nofollow" class="avatar_frame" target="_blank" href="http://lo-quedicta-larazon.tumblr.com/" title=""><img src="http://31.media.tumblr.com/avatar_c8a4fbc8a55c_16.png" class="avatar " alt="" /></a>
+                    
+                    <span class="action" data-post-url="http://lo-quedicta-larazon.tumblr.com/post/62192810818">
+                                                    
+                                                                                                                                                                                    <a rel="nofollow" href="http://lo-quedicta-larazon.tumblr.com/" class="tumblelog" title="">lo-quedicta-larazon</a> ha reblogueado esto desde <a rel="nofollow" href="http://ksolifeis.tumblr.com/" class="source_tumblelog" title="Through My Eyes">ksolifeis</a>                                                                                                                                                                                    </span>
+                    <div class="clear"></div>
+
+                                    
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note reblog tumblelog_le-solitaire without_commentary">
+
+                        
+                
+                                                                                        <a rel="nofollow" class="avatar_frame" target="_blank" href="http://le-solitaire.tumblr.com/" title="Tentando Ser Feliz"><img src="http://31.media.tumblr.com/avatar_bbb6a2ce9bf3_16.png" class="avatar " alt="" /></a>
+                    
+                    <span class="action" data-post-url="http://le-solitaire.tumblr.com/post/62191925480">
+                                                    
+                                                                                                                                                                                    <a rel="nofollow" href="http://le-solitaire.tumblr.com/" class="tumblelog" title="Tentando Ser Feliz">le-solitaire</a> ha reblogueado esto desde <a rel="nofollow" href="http://ksolifeis.tumblr.com/" class="source_tumblelog" title="Through My Eyes">ksolifeis</a>                                                                                                                                                                                    </span>
+                    <div class="clear"></div>
+
+                                    
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note reblog tumblelog_ksolifeis original_post without_commentary">
+
+                        
+                
+                                                                                        <a rel="nofollow" class="avatar_frame" target="_blank" href="http://ksolifeis.tumblr.com/" title="Through My Eyes"><img src="http://31.media.tumblr.com/avatar_21ebe2f2c081_16.png" class="avatar " alt="" /></a>
+                    
+                    <span class="action" data-post-url="http://ksolifeis.tumblr.com/post/62191802178">
+                                                    
+                                                            <a rel="nofollow" href="http://ksolifeis.tumblr.com/" class="tumblelog" title="Through My Eyes">ksolifeis</a> ha publicado esto                                                                        </span>
+                    <div class="clear"></div>
+
+                                    
+                        
+        </li>
+    
+    
+    <!-- END NOTES -->
+</ol>
+
+ 
+</div>
+ 
+ 
+<div class="credit"><a href="http://vervainnecklacethemes.tumblr.com">★</a></div>
+ 
+ 
+ 
+<div id="rightarea">
+<br>
+ 
+ 
+ 
+ 
+<div id="navigation"><center>
+</center>
+    </div><br>
+ 
+ 
+</div>
+ 
+<div id="banner">
+<center><div id="description"></div>
+</div></center>
+<div id="bannerlinkage"><center><div style="margin-top:8px;"><div id="rightnavigation">
+  <a href="http://lo-quedicta-larazon.tumblr.com/ask">Dime</a>  <a href="http://lo-quedicta-larazon.tumblr.com/about">Sobre mi</a>  </center></div></div>
+ 
+    </div>
+   
+   
+   
+   <a href="#" id="scrollToTop"><img class="pushbutton4" src="http://viatgeagrecia.wikispaces.com/file/view/flecha_gris.jpg/118286617/45x45/flecha_gris.jpg" /></a>
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+
+<script src="http://static.tumblr.com/ikeq9mi/DfYl6o46t/scrolltotop.min.js"></script>
+
+
+
+
+</html>
+
+
+
+<!-- Song Player http://playlist.me --><script type="text/javascript" src="http://playlist.me/w/script.js" data-config="{'skin':'http://static.tumblr.com/mky4cgu/9Xumbghq4/rockfalsa-moral.css','volume':50,'autoplay':false,'shuffle':true,'repeat':1,'placement':'top','showplaylist':false,'playlist':[{'title':'','url':'https://www.youtube.com/watch?v=xidm8y9fW3U'},{'title':'','url':'https://www.youtube.com/watch?v=sAwDOOZrRmA'},{'title':'','url':'https://www.youtube.com/watch?v=N8C7J7deHI8'},{'title':'','url':'https://www.youtube.com/watch?v=NArPjwTrBk0'},{'title':'','url':'https://www.youtube.com/watch?v=tdZc4locEpo'}]}" ></script><noscript><a href="http://playlist.me/songs/">player playlist</a></noscript><!-- playlist.me script end -->
+
+
+
+
+
+
+
+<!-- BEGIN TUMBLR CODE -->
+        
+    
+        <iframe id="tumblr_controls" width="1" height="1" frameborder="0" scrolling="no" style="position:absolute; z-index:2147483647; top:0; right:0; border:0; background-color:transparent; overflow:hidden; " src="http://assets.tumblr.com/assets/html/iframe/o.html?_v=00c18e3e470095be41311af633109bac#src=http%3A%2F%2Flo-quedicta-larazon.tumblr.com%2Fpost%2F62192810818&amp;pid=62192810818&amp;rk=jIu91FVi&amp;lang=es_ES&amp;name=lo-quedicta-larazon&amp;avatar=http%3A%2F%2F31.media.tumblr.com%2Favatar_c8a4fbc8a55c_64.png&amp;url=http%3A%2F%2Flo-quedicta-larazon.tumblr.com%2F&amp;page_slide=slide"></iframe>    <div id="teaser_iframe_container" style="display:none;"><iframe scrolling="no" frameborder="0" src="http://www.tumblr.com/assets/html/iframe/teaser.html#src=http%3A%2F%2Flo-quedicta-larazon.tumblr.com%2Fpost%2F62192810818&amp;pid=62192810818&amp;rk=jIu91FVi&amp;lang=es_ES&amp;name=lo-quedicta-larazon&amp;avatar=http%3A%2F%2F31.media.tumblr.com%2Favatar_c8a4fbc8a55c_64.png&amp;url=http%3A%2F%2Flo-quedicta-larazon.tumblr.com%2F&amp;page_slide=slide" id="teaser_iframe" width="1" height="1"></iframe></div>
+
+<script type="text/javascript">
+    (function(Tumblr){
+        var follow_iframe_initialized = false;
+        if (Tumblr.FollowTeaser && Tumblr.PostMessageListener) {
+            // Don't do anything until the first initialize event
+            Tumblr.PostMessageListener.initialize(function(message, origin) {
+                if (follow_iframe_initialized || message.length < 2) return;
+
+                if (message[0] === 'follow_iframe' && message[1] === 'enable') {
+                    Tumblr.FollowTeaser.current_page = 1;
+                    Tumblr.FollowTeaser.infer_infinite_scroll = true;
+                    Tumblr.FollowTeaser.create_from_tumblr_controls('http://assets.tumblr.com/assets/html/iframe/follow.html?_v=c5638c77a8a6b7821eab58b693b3a051');
+                    Tumblr.FollowTeaser.scroll_listener(true);
+                    follow_iframe_initialized = true;
+                }
+            });
+        }
+    })(this.Tumblr || (this.Tumblr = {}));
+</script>
+    
+    <!--[if IE]><script type="text/javascript">document.getElementById('tumblr_controls').allowTransparency=true;</script><![endif]-->
+    
+        
+<iframe src="http://assets.tumblr.com/analytics.html?63fae489732da54993e4a941e42dcf5e" scrolling="no" width="1" height="1" frameborder="0" style="background-color:transparent; overflow:hidden; position:absolute; top:0; left:0 z-index:9999;" id="ga_target"></iframe>
+
+    <script>
+        var COMSCORE = true;
+        window.setTimeout(function() {
+            var analytics_frame = document.getElementById('ga_target');
+            analytics_frame.contentWindow.postMessage('enable_comscore;' + window.location, analytics_frame.src.split('/analytics.html')[0]);
+        }, 1000);
+    </script>
+
+
+
+    <script type="text/javascript">
+      var _qevents = _qevents || [];
+
+      (function() {
+       var elem = document.createElement('script');
+
+       elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+       elem.async = true;
+       elem.type = "text/javascript";
+       var scpt = document.getElementsByTagName('script')[0];
+       scpt.parentNode.insertBefore(elem, scpt);
+      })();
+    </script>
+    <script type="text/javascript">
+        _qevents.push( { qacct: 'p-19UtqE8ngoZbM' } );
+    </script>
+    <noscript>
+        <div style="display: none;"><img src="//pixel.quantserve.com/pixel/'p-19UtqE8ngoZbM'.gif" height="1" width="1" alt="Quantcast"/></div>
+    </noscript>
+
+
+    <script type="text/javascript">!function(s){s.src='http://www.tumblr.com/impixu?T=1380239508&J=eyJ0eXBlIjoidXJsIiwidXJsIjoiaHR0cDpcL1wvbG8tcXVlZGljdGEtbGFyYXpvbi50dW1ibHIuY29tXC9wb3N0XC82MjE5MjgxMDgxOCIsInJlcXR5cGUiOjAsInJvdXRlIjoiXC9wb3N0XC86aWQifQ==&U=MIAPBIBGOJ&K=de178258098b7778f1e946b035ef081f01a758a3eeb3d0c10306c011ea4c78d6&R='.replace(/&R=[^&$]*/,'').concat('&R='+escape(document.referrer)).slice(0,2000).replace(/%.?.?$/,'');}(new Image());</script><noscript><img style="position:absolute;z-index:-3334;top:0px;left:0px;visibility:hidden;" src="http://www.tumblr.com/impixu?T=1380239508&J=eyJ0eXBlIjoidXJsIiwidXJsIjoiaHR0cDpcL1wvbG8tcXVlZGljdGEtbGFyYXpvbi50dW1ibHIuY29tXC9wb3N0XC82MjE5MjgxMDgxOCIsInJlcXR5cGUiOjAsInJvdXRlIjoiXC9wb3N0XC86aWQiLCJub3NjcmlwdCI6MX0=&U=MIAPBIBGOJ&K=e1518359df08732db46ac945f739341cc657d11e388d817c25d0266601cfc2a7&R="></noscript><script type="text/javascript">!function(s){s.src='http://www.tumblr.com/impixu?T=1380239508&J=eyJ0eXBlIjoicG9zdCIsInVybCI6Imh0dHA6XC9cL2xvLXF1ZWRpY3RhLWxhcmF6b24udHVtYmxyLmNvbVwvcG9zdFwvNjIxOTI4MTA4MTgiLCJyZXF0eXBlIjowLCJyb3V0ZSI6IlwvcG9zdFwvOmlkIiwicG9zdHMiOlt7InJvb3RfYmxvZ2lkIjoiMTM1MzU2Mjk1Iiwicm9vdF9wb3N0aWQiOjYyMTkxODAyMTc4LCJwb3N0aWQiOiI2MjE5MjgxMDgxOCIsImJsb2dpZCI6IjYwNzY4NTgxIiwic291cmNlIjozM31dfQ==&U=KEHHMGAKOP&K=aa1ae45e8c52db032dc37c94ac5cd2430708fb7de4dd114147deb0b973bda776&R='.replace(/&R=[^&$]*/,'').concat('&R='+escape(document.referrer)).slice(0,2000).replace(/%.?.?$/,'');}(new Image());</script><noscript><img style="position:absolute;z-index:-3334;top:0px;left:0px;visibility:hidden;" src="http://www.tumblr.com/impixu?T=1380239508&J=eyJ0eXBlIjoicG9zdCIsInVybCI6Imh0dHA6XC9cL2xvLXF1ZWRpY3RhLWxhcmF6b24udHVtYmxyLmNvbVwvcG9zdFwvNjIxOTI4MTA4MTgiLCJyZXF0eXBlIjowLCJyb3V0ZSI6IlwvcG9zdFwvOmlkIiwicG9zdHMiOlt7InJvb3RfYmxvZ2lkIjoiMTM1MzU2Mjk1Iiwicm9vdF9wb3N0aWQiOjYyMTkxODAyMTc4LCJwb3N0aWQiOiI2MjE5MjgxMDgxOCIsImJsb2dpZCI6IjYwNzY4NTgxIiwic291cmNlIjozM31dLCJub3NjcmlwdCI6MX0=&U=KEHHMGAKOP&K=8e0ccace661f0ab93b3fedba2cd4a5af08d66b72880ecd2d8b21e022af5b9aae&R="></noscript><!-- END TUMBLR CODE -->

@@ -1,0 +1,671 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+    <head>      
+        
+<title>Freedom of Travel Act Aims to Reaffirm Americans' 4th Amendment Freedoms</title>        
+        
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="description" content="When traveling by air, Americans expect to encounter the security methods of the Transportation Security Administration (TSA). Like clockwork, we take off our shoes and submit to X-ray scanners, invasive pat downs, and baggage searches. But most Americans are unaware that the TSA is not just for airports anymore.">
+    <meta name="keywords" content="TSA, VIPR, 4th amendment, search, travel, security, amtrak, freedom of travel act">
+
+    <!-- mobile device support; -->
+    <meta name="viewport" content="width=1010">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <!-- ShareThis meta data for the Sharing Widget; -->
+    
+    <meta property="og:image" content="http://cdn.breitbart.com/mediaserver/Breitbart/Big-Government/2013/09/24/tsa_glove_reuters.jpg?w=200">
+    <meta property="og:description" content="When traveling by air, Americans expect to encounter the security methods of the Transportation Security Administration (TSA). Like clockwork, we take off our shoes and submit to X-ray scanners, invasive pat downs, and baggage searches. But most Americans are unaware that the TSA is not just for airports anymore.">
+    <meta property="og:site_name" content="Breitbart News Network">
+    <!-- Facebook meta data for the Recommend IFRAME (og:image adn og:sitename already defined in ShareThis); -->
+    <meta property="og:title" content="Freedom of Travel Act Aims to Reaffirm Americans' 4th Amendment Freedoms">
+    <meta property="og:type" content="article">
+    <meta property="og:url" content="http://www.breitbart.com/Big-Government/2013/09/24/Freedom-of-Travel-Act">
+    
+
+    
+    <meta property="fb:admins" content="686155194">
+
+        
+        
+<!-- Dynamic CSS for Disqus Comments -->
+
+<style type="text/css">    
+    /* Hide the comment entry block in Disqus */
+    div#dsq-reply { display: none; }
+</style>
+
+
+<!-- Dynamic JavaScript for Disqus Comments -->
+<script>
+// Disqus configuration variables; 
+// view all Disqus vars here: http://docs.disqus.com/help/2/
+var disqus_identifier = '4a848023-7d99-49e2-bdce-a1ceea3224a4', 
+disqus_url = 'http://www.breitbart.com/Big-Government/2013/09/24/Freedom-of-Travel-Act', 
+disqus_config = function () { 
+this.page.remote_auth_s3 = 'eyJpZCI6IiIsInVzZXJuYW1lIjoiIiwiZW1haWwiOiIifQ== db6e0d624e4da1fb9da1767fa69dae7e3a2b263f 1380242861'; 
+this.page.api_key = '6w8lrvjFnPwmAAXX2ZNKmhxTA0CNmhgV0UaHRCFCFHDFy5n1FRP79SE8pNmJdlaz'; 
+ }, 
+disqus_shortname = 'breitbartproduction', 
+disqus_developer = 0; 
+
+</script>
+
+
+
+        
+
+<link rel="alternate" type="application/rss+xml" title="RSS" href="http://feeds.feedburner.com/BreitbartFeed">
+<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Fjalla+One">
+<link rel="shortcut icon" href="http://cdn.breitbart.com/_res/img/icons/favicon.ico">
+<link rel="stylesheet" href="http://cdn.breitbart.com/_res/css/style.css?v=20130503">
+<!--[if lt IE 9]>
+<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+
+<!-- jQuery CDN, and a fallback;-->
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+    <script>        window.jQuery || document.write('<script src="/_res/js/jquery.min.js"><\/script>');</script>
+
+<script src="http://cdn.breitbart.com/_res/js/plugins.js?v=20130503"></script>
+<script src="http://w.sharethis.com/button/buttons.js"></script>
+<script src="http://cdn.breitbart.com/_res/js/script.js?v=20130503"></script>
+
+<script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(["_setAccount", "UA-715222-1"]);
+    _gaq.push(['_setSiteSpeedSampleRate', 1]);
+    _gaq.push(["_trackPageview"]);
+</script>
+
+<script type="text/javascript">
+
+(function(s,o,l,v,e,d){if(s[o]==null&&s[l+e]){s[o]="loading";s[l+e](d,l=function(){s[o]="complete";s[v+e](d,l,!1)},!1)}})(document,"readyState","add","remove","EventListener","DOMContentLoaded");
+
+(function() {
+
+var s = document.createElement("script"); s.type = "text/javascript"; s.async = true;
+
+s.src = "http://cdn.engine.4dsply.com/Scripts/infinity.js.aspx";
+
+s.id = "infinity"; s.setAttribute("data-guid", "5a2c9624-3120-4cd9-b591-f687bd3cc1bb"); s.setAttribute("data-version", "async");
+
+var e = document.getElementsByTagName('script')[0]; e.parentNode.insertBefore(s, e);
+
+})();
+
+</script>
+
+<!-- Google Custom Search JS; -->
+<script src="http://www.google.com/jsapi"></script>
+<script type="text/javascript">
+    function parseQueryFromUrl() {
+        var queryParamName = "q",
+            search = window.location.search.substr(1),
+            parts = search.split("&");
+        for (var i = 0; i < parts.length; i++) {
+            var keyvaluepair = parts[i].split("=");
+            if (decodeURIComponent(keyvaluepair[0]) == queryParamName) {
+                return decodeURIComponent(keyvaluepair[1].replace(/\+/g, " "));
+            }
+        }
+        return "";
+    }
+    google.load("search", "1", { language: "en" });
+    google.setOnLoadCallback(function () {
+        var customSearchOptions = {},
+            imageSearchOptions = {};
+        imageSearchOptions["layout"] = google.search.ImageSearch.LAYOUT_CLASSIC;
+        customSearchOptions["enableImageSearch"] = true;
+        customSearchOptions["imageSearchOptions"] = imageSearchOptions;
+        var customSearchControl = new google.search.CustomSearchControl("005692200716746956841:susmivxub8w", customSearchOptions);
+        customSearchControl.setResultSetSize(google.search.Search.FILTERED_CSE_RESULTSET);
+        var options = new google.search.DrawOptions();
+        options.setAutoComplete(true);
+        customSearchControl.draw("cse", options);
+        var queryFromUrl = parseQueryFromUrl();
+        if (queryFromUrl) {
+            customSearchControl.execute(queryFromUrl);
+        }
+    }, true);
+</script>
+
+
+<script type='text/javascript'>
+(function() {
+var useSSL = 'https:' == document.location.protocol;
+var src = (useSSL ? 'https:' : 'http:') +
+'//www.googletagservices.com/tag/js/gpt.js';
+document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
+})();
+</script>
+
+<script type='text/javascript'>
+googletag.defineSlot('/1003622/Breitbart.BigGov.Bottom.Leader', [728, 90], 'div-gpt-ad-1371061865214-0').addService(googletag.pubads());
+googletag.defineSlot('/1003622/Breitbart.BigGov.Rail1', [300, 250], 'div-gpt-ad-1371061865214-1').addService(googletag.pubads());
+googletag.defineSlot('/1003622/Breitbart.BigGov.Rail2', [300, 250], 'div-gpt-ad-1371061865214-2').addService(googletag.pubads());
+googletag.defineSlot('/1003622/Breitbart.BigGov.Rail3', [300, 250], 'div-gpt-ad-1371061865214-3').addService(googletag.pubads());
+googletag.defineSlot('/1003622/Breitbart.BigGov.Rail4', [300, 250], 'div-gpt-ad-1371061865214-4').addService(googletag.pubads());
+googletag.defineSlot('/1003622/Breitbart.BigGov.Top.Leader', [728, 90], 'div-gpt-ad-1371061865214-5').addService(googletag.pubads());
+googletag.defineSlot('/1003622/Breitbart.ROS.1X1', [1, 1], 'div-gpt-ad-1371061865214-6').addService(googletag.pubads());
+googletag.pubads().enableSyncRendering();
+googletag.pubads().enableSingleRequest();
+googletag.enableServices();
+</script>
+
+        <!-- Needed for DMS Analytics -->
+        
+    </head>
+    <body>
+        <form method="post" action="Freedom-of-Travel-Act" id="form1">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTEwMTUyOTQ4MDAPZBYIAgUPZBYCZg9kFgJmDxYCHgdWaXNpYmxlaGQCBw9kFgJmD2QWBGYPZBYEAgIPFgIfAGdkAgQPFgIeBFRleHQF5gN2YXIgZGlzcXVzX2lkZW50aWZpZXIgPSAnNGE4NDgwMjMtN2Q5OS00OWUyLWJkY2UtYTFjZWVhMzIyNGE0JywgDQpkaXNxdXNfdXJsID0gJ2h0dHA6Ly93d3cuYnJlaXRiYXJ0LmNvbS9CaWctR292ZXJubWVudC8yMDEzLzA5LzI0L0ZyZWVkb20tb2YtVHJhdmVsLUFjdCcsIA0KZGlzcXVzX2NvbmZpZyA9IGZ1bmN0aW9uICgpIHsgDQp0aGlzLnBhZ2UucmVtb3RlX2F1dGhfczMgPSAnZXlKcFpDSTZJaUlzSW5WelpYSnVZVzFsSWpvaUlpd2laVzFoYVd3aU9pSWlmUT09IGRiNmUwZDYyNGU0ZGExZmI5ZGExNzY3ZmE2OWRhZTdlM2EyYjI2M2YgMTM4MDI0Mjg2MSc7IA0KdGhpcy5wYWdlLmFwaV9rZXkgPSAnNnc4bHJ2akZuUHdtQUFYWDJaTkttaHhUQTBDTm1oZ1YwVWFIUkNGQ0ZIREZ5NW4xRlJQNzlTRThwTm1KZGxheic7IA0KIH0sIA0KZGlzcXVzX3Nob3J0bmFtZSA9ICdicmVpdGJhcnRwcm9kdWN0aW9uJywgDQpkaXNxdXNfZGV2ZWxvcGVyID0gMDsgDQpkAgIPFgIfAGhkAgkPZBYCZg9kFgRmDxYCHwEF9gQ8c2NyaXB0IHR5cGU9InRleHQvamF2YXNjcmlwdCI+CgooZnVuY3Rpb24ocyxvLGwsdixlLGQpe2lmKHNbb109PW51bGwmJnNbbCtlXSl7c1tvXT0ibG9hZGluZyI7c1tsK2VdKGQsbD1mdW5jdGlvbigpe3Nbb109ImNvbXBsZXRlIjtzW3YrZV0oZCxsLCExKX0sITEpfX0pKGRvY3VtZW50LCJyZWFkeVN0YXRlIiwiYWRkIiwicmVtb3ZlIiwiRXZlbnRMaXN0ZW5lciIsIkRPTUNvbnRlbnRMb2FkZWQiKTsKCihmdW5jdGlvbigpIHsKCnZhciBzID0gZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgic2NyaXB0Iik7IHMudHlwZSA9ICJ0ZXh0L2phdmFzY3JpcHQiOyBzLmFzeW5jID0gdHJ1ZTsKCnMuc3JjID0gImh0dHA6Ly9jZG4uZW5naW5lLjRkc3BseS5jb20vU2NyaXB0cy9pbmZpbml0eS5qcy5hc3B4IjsKCnMuaWQgPSAiaW5maW5pdHkiOyBzLnNldEF0dHJpYnV0ZSgiZGF0YS1ndWlkIiwgIjVhMmM5NjI0LTMxMjAtNGNkOS1iNTkxLWY2ODdiZDNjYzFiYiIpOyBzLnNldEF0dHJpYnV0ZSgiZGF0YS12ZXJzaW9uIiwgImFzeW5jIik7Cgp2YXIgZSA9IGRvY3VtZW50LmdldEVsZW1lbnRzQnlUYWdOYW1lKCdzY3JpcHQnKVswXTsgZS5wYXJlbnROb2RlLmluc2VydEJlZm9yZShzLCBlKTsKCn0pKCk7Cgo8L3NjcmlwdD5kAgEPFgIfAQW1CjxzY3JpcHQgdHlwZT0ndGV4dC9qYXZhc2NyaXB0Jz4KKGZ1bmN0aW9uKCkgewp2YXIgdXNlU1NMID0gJ2h0dHBzOicgPT0gZG9jdW1lbnQubG9jYXRpb24ucHJvdG9jb2w7CnZhciBzcmMgPSAodXNlU1NMID8gJ2h0dHBzOicgOiAnaHR0cDonKSArCicvL3d3dy5nb29nbGV0YWdzZXJ2aWNlcy5jb20vdGFnL2pzL2dwdC5qcyc7CmRvY3VtZW50LndyaXRlKCc8c2NyJyArICdpcHQgc3JjPSInICsgc3JjICsgJyI+PC9zY3InICsgJ2lwdD4nKTsKfSkoKTsKPC9zY3JpcHQ+Cgo8c2NyaXB0IHR5cGU9J3RleHQvamF2YXNjcmlwdCc+Cmdvb2dsZXRhZy5kZWZpbmVTbG90KCcvMTAwMzYyMi9CcmVpdGJhcnQuQmlnR292LkJvdHRvbS5MZWFkZXInLCBbNzI4LCA5MF0sICdkaXYtZ3B0LWFkLTEzNzEwNjE4NjUyMTQtMCcpLmFkZFNlcnZpY2UoZ29vZ2xldGFnLnB1YmFkcygpKTsKZ29vZ2xldGFnLmRlZmluZVNsb3QoJy8xMDAzNjIyL0JyZWl0YmFydC5CaWdHb3YuUmFpbDEnLCBbMzAwLCAyNTBdLCAnZGl2LWdwdC1hZC0xMzcxMDYxODY1MjE0LTEnKS5hZGRTZXJ2aWNlKGdvb2dsZXRhZy5wdWJhZHMoKSk7Cmdvb2dsZXRhZy5kZWZpbmVTbG90KCcvMTAwMzYyMi9CcmVpdGJhcnQuQmlnR292LlJhaWwyJywgWzMwMCwgMjUwXSwgJ2Rpdi1ncHQtYWQtMTM3MTA2MTg2NTIxNC0yJykuYWRkU2VydmljZShnb29nbGV0YWcucHViYWRzKCkpOwpnb29nbGV0YWcuZGVmaW5lU2xvdCgnLzEwMDM2MjIvQnJlaXRiYXJ0LkJpZ0dvdi5SYWlsMycsIFszMDAsIDI1MF0sICdkaXYtZ3B0LWFkLTEzNzEwNjE4NjUyMTQtMycpLmFkZFNlcnZpY2UoZ29vZ2xldGFnLnB1YmFkcygpKTsKZ29vZ2xldGFnLmRlZmluZVNsb3QoJy8xMDAzNjIyL0JyZWl0YmFydC5CaWdHb3YuUmFpbDQnLCBbMzAwLCAyNTBdLCAnZGl2LWdwdC1hZC0xMzcxMDYxODY1MjE0LTQnKS5hZGRTZXJ2aWNlKGdvb2dsZXRhZy5wdWJhZHMoKSk7Cmdvb2dsZXRhZy5kZWZpbmVTbG90KCcvMTAwMzYyMi9CcmVpdGJhcnQuQmlnR292LlRvcC5MZWFkZXInLCBbNzI4LCA5MF0sICdkaXYtZ3B0LWFkLTEzNzEwNjE4NjUyMTQtNScpLmFkZFNlcnZpY2UoZ29vZ2xldGFnLnB1YmFkcygpKTsKZ29vZ2xldGFnLmRlZmluZVNsb3QoJy8xMDAzNjIyL0JyZWl0YmFydC5ST1MuMVgxJywgWzEsIDFdLCAnZGl2LWdwdC1hZC0xMzcxMDYxODY1MjE0LTYnKS5hZGRTZXJ2aWNlKGdvb2dsZXRhZy5wdWJhZHMoKSk7Cmdvb2dsZXRhZy5wdWJhZHMoKS5lbmFibGVTeW5jUmVuZGVyaW5nKCk7Cmdvb2dsZXRhZy5wdWJhZHMoKS5lbmFibGVTaW5nbGVSZXF1ZXN0KCk7Cmdvb2dsZXRhZy5lbmFibGVTZXJ2aWNlcygpOwo8L3NjcmlwdD5kAgsPZBYQAgEPZBYCZg9kFgICAQ8WAh8BBc4BPCEtLSBCcmVpdGJhcnQuQmlnR292LlRvcC5MZWFkZXIgLS0+CjxkaXYgaWQ9J2Rpdi1ncHQtYWQtMTM3MTA2MTg2NTIxNC01JyBzdHlsZT0nd2lkdGg6NzI4cHg7IGhlaWdodDo5MHB4Oyc+CjxzY3JpcHQgdHlwZT0ndGV4dC9qYXZhc2NyaXB0Jz4KZ29vZ2xldGFnLmRpc3BsYXkoJ2Rpdi1ncHQtYWQtMTM3MTA2MTg2NTIxNC01Jyk7Cjwvc2NyaXB0Pgo8L2Rpdj5kAgUPZBYCZg9kFgICAQ8PFgQeCENzc0NsYXNzBQRsb2dvHgRfIVNCAgJkZAILD2QWAmYPZBYEAgMPFgIfAGcWBAIBDxYCHgRocmVmBU0vU3lzdGVtL0xvZ2luP3BhZ2U9JTJmQmlnLUdvdmVybm1lbnQlMmYyMDEzJTJmMDklMmYyNCUyZkZyZWVkb20tb2YtVHJhdmVsLUFjdGQCAw8WAh8EBVovU3lzdGVtL1JlZ2lzdGVyLVN1YnNjcmliZT9wYWdlPSUyZkJpZy1Hb3Zlcm5tZW50JTJmMjAxMyUyZjA5JTJmMjQlMmZGcmVlZG9tLW9mLVRyYXZlbC1BY3RkAgUPFgIfBAVaL1N5c3RlbS9SZWdpc3Rlci1TdWJzY3JpYmU/cGFnZT0lMmZCaWctR292ZXJubWVudCUyZjIwMTMlMmYwOSUyZjI0JTJmRnJlZWRvbS1vZi1UcmF2ZWwtQWN0ZAIND2QWAmYPZBYQAgEPZBYCZg8PFgIeC05hdmlnYXRlVXJsBQ0vYnJlaXRiYXJ0LXR2ZGQCAw9kFgJmDw8WAh8FBQ4vYmlnLWhvbGx5d29vZGRkAgUPZBYCZg8PFgIfBQURL2JyZWl0YmFydC1zcG9ydHNkZAIHDxYCHgVjbGFzcwUIc2VsZWN0ZWQWAmYPDxYCHwUFDy9iaWctZ292ZXJubWVudGRkAgkPZBYCZg8PFgIfBQUPL2JpZy1qb3VybmFsaXNtZGQCCw9kFgJmDw8WAh8FBQovYmlnLXBlYWNlZGQCDQ9kFgJmDw8WAh8FBQ4vaW5zdGFibG9nL2FsbGRkAg8PZBYCZg8PFgIfBQUKL25ld3N3aXJlc2RkAg8PZBYCZg9kFgJmD2QWDAIBD2QWAmYPZBYCZg9kFgICAg9kFgJmDw8WAh4ISW1hZ2VVcmwFXmh0dHA6Ly9jZG4uYnJlaXRiYXJ0LmNvbS9tZWRpYXNlcnZlci9CcmVpdGJhcnQvQmlnLUdvdmVybm1lbnQvMjAxMy8wOS8yNC90c2FfZ2xvdmVfcmV1dGVycy5qcGdkZAICDxYCHwYFE2dyaWRfMTIgYWxwaGEgb21lZ2EWAgIBD2QWAmYPZBYCZg9kFhhmDxYCHwBoZAICDxYCHwBoZAIEDxYCHwBoZAIGDxYCHwBoZAIIDxYCHwYFFHN0b3J5IHN0b3J5LW1ldGFkYXRhFgZmD2QWBAIBDxYCHwEFAmJ5ZAIDDw8WBB8BBRJSZXAuIFNjb3R0IEdhcnJldHQfBQUdL0NvbHVtbmlzdHMvUmVwLVNjb3R0LUdhcnJldHRkZAIBD2QWAmYPZBYEZg9kFgQCAQ8WBB8EBT4vQmlnLUdvdmVybm1lbnQvMjAxMy8wOS8yNC9GcmVlZG9tLW9mLVRyYXZlbC1BY3QjZGlzcXVzX3RocmVhZB4WZGF0YS1kaXNxdXMtaWRlbnRpZmllcgUkNGE4NDgwMjMtN2Q5OS00OWUyLWJkY2UtYTFjZWVhMzIyNGE0ZAIDDw8WAh8FBTAvQmlnLUdvdmVybm1lbnQvMjAxMy8wOS8yNC9GcmVlZG9tLW9mLVRyYXZlbC1BY3RkZAIBD2QWAgIBDxYCHwQFOS9CaWctR292ZXJubWVudC8yMDEzLzA5LzI0L0ZyZWVkb20tb2YtVHJhdmVsLUFjdCNjb21tZW50c2QCAg8WAh8AaGQCCg8WAh8AaGQCDA9kFgJmD2QWAmYPFgIfAGhkAg4PDxYCHwBoZGQCEA8WAh8BBeYnPGgyPldoZW4gdHJhdmVsaW5nIGJ5IGFpciwgQW1lcmljYW5zIGV4cGVjdCB0byBlbmNvdW50ZXIgdGhlIHNlY3VyaXR5IG1ldGhvZHMgb2YgdGhlIFRyYW5zcG9ydGF0aW9uIFNlY3VyaXR5IEFkbWluaXN0cmF0aW9uIChUU0EpLiBMaWtlIGNsb2Nrd29yaywgd2UgdGFrZSBvZmYgb3VyIHNob2VzIGFuZCBzdWJtaXQgdG8gWC1yYXkgc2Nhbm5lcnMsIGludmFzaXZlIHBhdCBkb3ducywgYW5kIGJhZ2dhZ2Ugc2VhcmNoZXMuIEJ1dCBtb3N0IEFtZXJpY2FucyBhcmUgdW5hd2FyZSB0aGF0IHRoZSBUU0EgaXMgbm90IGp1c3QgZm9yIGFpcnBvcnRzIGFueW1vcmUuPC9oMj4KPHA+U2luY2UgMjAwNSwgdGhlIFRTQSBoYXMgZGVwbG95ZWQgVmlzaWJsZSBJbnRlcm1vZGFsIFByZXZlbnRpb24gYW5kIFJlc3BvbnNlIChWSVBSKSB0ZWFtcyB0byBjb25kdWN0IHRob3VzYW5kcyBvZiB1bmFubm91bmNlZCwgcmFuZG9tIHN3ZWVwcyBvZiBidXMsIHRyYWluLCBhbmQgc3Vid2F5IHN0YXRpb25zIGFzIHdlbGwgYXMgZmVycnkgdGVybWluYWxzLiBWSVBSIHRlYW1zIGhhdmUgdGhlIGF1dGhvcml0eSB0byBlbnRlciBhbnkgdHJhbnNwb3J0YXRpb24gZmFjaWxpdHkg4oCTIGFueXRpbWUsIGFueXdoZXJlIOKAkyBhbmQgc3ViamVjdCBjaXRpemVucyB0byBhIHNlYXJjaCBvZiB0aGVpciBwZXJzb24gYW5kIHByb3BlcnR5LjwvcD4KPHA+QnV0IHRoZSByZWFjaCBvZiB0aGUgVFNBIGdvZXMgZmFyIGJleW9uZCBtYXNzIHRyYW5zaXQgc3lzdGVtcyBhbmQgaW50byBvdXIgaGlnaHdheXMgYW5kIHByaXZhdGUgdmVoaWNsZXMuIEZvciBleGFtcGxlLCBWSVBSIGNvbmR1Y3RlZCBhbiBvcGVyYXRpb24gb24gPGEgaHJlZj0iaHR0cDovL3d3dy5uZXdzY2hhbm5lbDUuY29tL3N0b3J5LzE1NzI1MDM1L29mZmljaWFscy1jbGFpbS10ZW5uZXNzZWUtYmVjb21lcy1maXJzdC1zdGF0ZS10by1kZXBsb3ktdmlwci1zdGF0ZXdpZGUiPlRlbm5lc3NlZSBoaWdod2F5czwvYT4gaW4gd2hpY2ggZHJpdmVycyB3aG8gcGFzc2VkIHRocm91Z2ggcmFuZG9tIGNoZWNrcG9pbnRzIHdlcmUgc3ViamVjdCB0byBhbiBpbnNwZWN0aW9uLCBjb3N0aW5nIGRyaXZlcnMgdGhlaXIgdGltZSBhbmQgZnVlbCB3aXRob3V0IGdvb2QgcmVhc29uLjwvcD4KPHA+SW4gZmFjdCwgdGhlIHJlYWNoIG9mIHRoZSBhZ2VuY3kgaGFzIGV4dGVuZGVkIHNvIGZhciB0aGF0IHRoZSBUcmFuc3BvcnRhdGlvbiBTZWN1cml0eSBBZG1pbmlzdHJhdGlvbiBjYW4gc2NyZWVuIGluZGl2aWR1YWxzIG5vdCBlbmdhZ2VkIGluIHRyYXZlbC4gVklQUiB0ZWFtcyBhcmUgYXV0aG9yaXplZCB0byBjb3ZlciBsYXJnZSBldmVudHMgYW5kIGhhdmUgYWxyZWFkeSBhcHBlYXJlZCBhdCBORkwgZ2FtZXMgYW5kIE5BU0NBUiByYWNlcy48L3A+CjxwPlRoZSB0eXBlIG9mIHNlYXJjaCB0aGF0IEFtZXJpY2FucyB3b3VsZCBleHBlY3QgdG8gc3VibWl0IHRvIGJlZm9yZSBib2FyZGluZyBhbiBhaXJwbGFuZSBjb3VsZCBjb21lIHdpdGhvdXQgd2FybmluZyB3aGlsZSBjb21tdXRpbmcgdG8gd29yaywgcnVubmluZyBlcnJhbmRzLCBvciBhdHRlbmRpbmcgYSBzcG9ydGluZyBldmVudC4gU2ltcGx5IHB1dCwgdGhlcmUgaXMgbm8gY29uY2VpdmFibGUgYXNwZWN0IG9mIGxpZmUgdGhhdCBpcyBmcmVlIGZyb20gdGhlIFRTQSBhbmQgaXRzIFZJUFIgc3F1YWRzLjwvcD4KPHA+WWV0LCBkZXNwaXRlIGl0cyBhbGwgZW5jb21wYXNzaW5nIHJlYWNoLCB0aGUgVklQUiBwcm9ncmFtIGhhcyBsaXR0bGUgcmVjb3JkIG9mIG1ha2luZyB0aGUgQW1lcmljYW4gcGVvcGxlIHNhZmVyLjwvcD4KPHA+VklQUiBzZWFyY2hlcyBhcmUgdHlwaWNhbGx5IHJhbmRvbSBhbmQgdGh1cyBhcmUgbm90IGJhc2VkIG9uIGFueSBhY3R1YWwgc3BlY2lmaWMgdGhyZWF0IG9yIGNyaW1pbmFsIGFjdGl2aXR5LiBTbyBpdCBzaG91bGQgY29tZSBhcyBubyBzdXJwcmlzZSB0aGF0IGEgMjAxMSA8ZW0+TG9zIEFuZ2VsZXMgVGltZXM8L2VtPiBhcnRpY2xlIDxhIGhyZWY9Imh0dHA6Ly9hcnRpY2xlcy5sYXRpbWVzLmNvbS8yMDExL2RlYy8yMC9uYXRpb24vbGEtbmEtdGVycm9yLWNoZWNrcG9pbnRzLTIwMTExMjIwIj5yZXZlYWxlZDwvYT4gdGhhdCBhZnRlciBWSVBSIHRlYW1zIGhhZCBjb25kdWN0ZWQgdGhvdXNhbmRzIG9mIG9wZXJhdGlvbnMsIOKAnFRTQSBvZmZpY2lhbHMgc2F5IHRoZXkgaGF2ZSBubyBwcm9vZiB0aGF0IHJvdmluZyBWSVBSIHRlYW1zIGhhdmUgZm9pbGVkIGFueSB0ZXJyb3Jpc3QgcGxvdHMgb3IgdGh3YXJ0ZWQgYW55IG1ham9yIHRocmVhdCB0byBwdWJsaWMgc2FmZXR5LuKAnSBUaGUgVFNBIG5vdyByZWZ1c2VzIHRvIGNvbW1lbnQgb24gdGhlIGVmZmVjdGl2ZW5lc3Mgb2YgVklQUiB0ZWFtcyB0byBmb2lsIHRlcnJvcmlzdCBhdHRhY2tzLCBidXQgaXQgaXMgd2lsbGluZyB0byB0YWtlIGNyZWRpdCBmb3IgZGV0ZXJyZW5jZSwgd2hpY2ggcHJlc3VtYWJseSBpcyBhY2hpZXZlZCBieSB0aGVpciBtZXJlIHByZXNlbmNlLjwvcD4KPHA+VGhlIFRTQSBWSVBSIHByb2dyYW0gZG9lcyBub3QgcHJvbW90ZSBzZWN1cml0eSBidXQgcmF0aGVyIHNlY3VyaXR5IHRoZWF0ZXIuIFBlcmhhcHMgbm8gZXhhbXBsZSBtb3JlIGNsZWFybHkgZGVtb25zdHJhdGVzIHRoaXMgdGhhbiBhIFZJUFIgb3BlcmF0aW9uIGluIFNhdmFubmEsIEdlb3JnaWEgaW4gd2hpY2ggPGEgaHJlZj0iaHR0cDovL3d3dy5ueXRpbWVzLmNvbS8yMDEzLzA4LzA2L3VzL3RzYS1leHBhbmRzLWR1dGllcy1iZXlvbmQtYWlycG9ydC1zZWN1cml0eS5odG1sP3BhZ2V3YW50ZWQ9YWxsJl9yPTEmIj5BbXRyYWsgcGFzc2VuZ2VycyB3ZXJlIHNlYXJjaGVkPC9hPsKgPGVtPmFmdGVyPC9lbT7CoHRoZXkgaGFkIGRpc2VtYmFya2VkIGZyb20gdGhlIHRyYWluLiBUaGlzIHNlcnZlZCBhYnNvbHV0ZWx5IG5vIHB1cnBvc2UgaW4gc2VjdXJpbmcgdGhlIHNhZmV0eSBvZiB0aGUgdHJhdmVsaW5nIHB1YmxpYy48L3A+CjxwPlRoZSBUU0HigJlzIG1pc3Npb24gY3JlZXAgZnJvbSB0aGUgbGltaXRlZCBzY29wZSBvZiBhaXIgdHJhdmVsIHRvIGV2ZXJ5IGNvbmNlaXZhYmxlIG1vZGUgb2YgdHJhbnNwb3J0YXRpb24sIGFzIHdlbGwgYXMgbGFyZ2UgZXZlbnRzLCBpcyBhbiB1bmNvbnN0aXR1dGlvbmFsIHZpb2xhdGlvbiBvZiB0aGUgRm91cnRoIEFtZW5kbWVudCBndWFyYW50ZWUgYWdhaW5zdCB1bnJlYXNvbmFibGUgc2VhcmNoZXMgYW5kIGltcGVkZXMgdGhlIGFiaWxpdHkgb2YgZXZlcnkgQW1lcmljYW4gdG8gdHJhdmVsIGZyZWVseS4gQWN0dWFsIHRocmVhdHMgdG8gb3VyIHNlY3VyaXR5IHNob3VsZCBiZSBkZWFsdCB3aXRoIGJ5IGxhdyBlbmZvcmNlbWVudCBhZ2VuY2llcyBhdCB2YXJpb3VzIGxldmVscyBvZiBnb3Zlcm5tZW50LsKgPC9wPgo8cD5XZSBtdXN0IHByb3RlY3QgdGhlIEFtZXJpY2FuIHBlb3BsZSB3aGlsZSBhbHNvIGtlZXBpbmcgdGhlaXIgRm91cnRoIEFtZW5kbWVudCByaWdodHMgaW50YWN0LjwvcD4KPHA+VG8gdGhhdCBlbmQsIEkgaGF2ZSBpbnRyb2R1Y2VkIHRoZSA8YSBocmVmPSJodHRwOi8vZ2FycmV0dC5ob3VzZS5nb3YvcHJlc3MtcmVsZWFzZS9yZXAtZ2FycmV0dC1pbnRyb2R1Y2VzLWZyZWVkb20tdHJhdmVsLWFjdCI+RnJlZWRvbSBvZiBUcmF2ZWwgQWN0PC9hPi4gVGhpcyBsZWdpc2xhdGlvbiB3b3VsZCBwcm90ZWN0IHRoZSBGb3VydGggQW1lbmRtZW50IHJpZ2h0cyBvZiBjaXRpemVucyBieSBhYm9saXNoaW5nIHRoZSBWSVBSIHByb2dyYW0gYXMgd2VsbCBhcyBkZW55aW5nIHRoZSBUU0EgdGhlIGF1dGhvcml0eSB0byBjb25kdWN0IHNlY3VyaXR5IHNjcmVlbmluZ3Mgb3V0c2lkZSBvZiBhbiBhaXJwb3J0LiA8L3A+CjxwPlRoZSBGb3VydGggQW1lbmRtZW50IGlzIG5vdCBqdXN0IGEgbGltaXRhdGlvbiBvbiBnb3Zlcm5tZW50IGFjdGlvbi4gSXQgaXMgYSBmdW5kYW1lbnRhbCBjb21wb25lbnQgb2YgdGhlIHByaW5jaXBsZSBvZiBsaWJlcnR5IHRoYXQgY29udHJpYnV0ZWQgdG8gQW1lcmljYW4gaW5kZXBlbmRlbmNlLiA8L3A+CjxwPlRoZSBGb3VydGggQW1lbmRtZW50IHdhcyBsYXJnZWx5IGEgcmVzcG9uc2UgdG8gQnJpdGlzaCDigJx3cml0cyBvZiBhc3Npc3RhbmNlLOKAnSB3aGljaCBzZXJ2ZWQgYXMgZ2VuZXJhbCB3YXJyYW50cyB0aGF0IHBlcm1pdHRlZCBhbG1vc3QgbGltaXRsZXNzIHNlYXJjaGVzIG9mIGNvbG9uaWFsIGhvbWVzIGFuZCBzaGlwcyBieSBCcml0aXNoIG9mZmljaWFscy4gSW4gMTc2MSwgYXQgdGhlIE9sZCBTdGF0ZSBIb3VzZSBpbiBCb3N0b24sIGFuIGF0dG9ybmV5IG5hbWVkIEphbWVzIE90aXMgZm9yY2VmdWxseSBhdHRhY2tlZCB0aGUgd3JpdHMgYXMgYW4gaW5mcmluZ2VtZW50IG9mIGluZGl2aWR1YWwgcmlnaHRzLiBKb2huIEFkYW1zIHdhcyBzbyBpbnNwaXJlZCBieSB0aGUgZWxvcXVlbmNlIG9mIE90aXPigJlzIGFyZ3VtZW50cyB0aGF0IGhlIHdyb3RlLCDigJx0aGVuIGFuZCB0aGVyZSB0aGUgY2hpbGQgb2YgaW5kZXBlbmRlbmNlIHdhcyBib3JuLuKAncKgPC9wPgo8cD5Ub2RheSwgdGhlIGdvdmVybm1lbnQgdGhhdCBPdGlzIGFuZCBBZGFtcyBoZWxwZWQgZm91bmQgY2xhaW1zIGFuIGFsbW9zdCBsaW1pdGxlc3MgcG93ZXIgdG8gc2VhcmNoLCBzZWl6ZSwgYW5kIGluY29udmVuaWVuY2Ugc3VwcG9zZWRseSBmcmVlIGNpdGl6ZW5zIG5vdCBzdXNwZWN0ZWQgb2YgYW55IGNyaW1lLsKgPC9wPgo8cD5JdCBpcyB0aW1lIHRvIGVuZCB0aGUgc3RlYWR5IGVyb3Npb24gb2YgdGhlIEZvdXJ0aCBBbWVuZG1lbnQuIEFzIGZyZWUgbWVuIGFuZCB3b21lbiwgd2UgbXVzdCBjb21iYXQgdGhlIG5vdGlvbiB0aGF0IGxhdyBhYmlkaW5nIGNpdGl6ZW5zIGFyZSBhdCBhbGwgdGltZXMgc3ViamVjdCB0byBiZSBzZWFyY2hlZCBieSB0aGVpciBnb3Zlcm5tZW50LiBUaGUgRnJlZWRvbSBvZiBUcmF2ZWwgQWN0IHdvdWxkIHRha2UgYSBzaWduaWZpY2FudCBzdGVwIGluIHJlc3RvcmluZyB0aGUgRm91cnRoIEFtZW5kbWVudCBieSBwdXR0aW5nIHRvIGFuIGVuZCB0aGUgZXhpc3RlbmNlIG9mIFZJUFIgdGVhbXMgYW5kIGhhbHRpbmcgdGhlIFRTQeKAmXMgbWlzc2lvbiBjcmVlcC48L3A+ZAISDxYCHwBoZAIUDxYCHwBoZAIWDxYCHwBoZAIED2QWBGYPZBYCZg9kFgRmDxYCHwBoFgICAQ8WAh8AaGQCAg9kFgICAQ8WAh8BBaACPCEtLSBCcmVpdGJhcnQuQmlnR292LkFSVElDTEUuQ2VudGVyLlRleHRBZCAtLT48c2NyaXB0IHR5cGU9InRleHQvamF2YXNjcmlwdCI+YWRzb25hcl9wbGFjZW1lbnRJZD0xNTQ5ODc3O2Fkc29uYXJfcGlkPTE5MjQ3Njc7YWRzb25hcl9wcz0wO2Fkc29uYXJfenc9NDc1O2Fkc29uYXJfemg9MjUwO2Fkc29uYXJfanY9J2Fkcy5hZHNvbmFyLmNvbSc7PC9zY3JpcHQ+PHNjcmlwdCBsYW5ndWFnZT0iSmF2YVNjcmlwdCIgc3JjPSJodHRwOi8vanMuYWRzb25hci5jb20vanMvYWRzb25hci5qcyI+PC9zY3JpcHQ+ZAIBD2QWAmYPZBYCAgIPFgIfAGhkAgUPZBYCZg9kFgJmD2QWDGYPZBYCZg9kFgICAQ8WAh8BBbwBPCEtLSBCcmVpdGJhcnQuQmlnR292LlJhaWwxIC0tPgo8ZGl2IGlkPSdkaXYtZ3B0LWFkLTEzNzEwNjE4NjUyMTQtMScgc3R5bGU9J3dpZHRoOjMwMHB4Oyc+CjxzY3JpcHQgdHlwZT0ndGV4dC9qYXZhc2NyaXB0Jz4KZ29vZ2xldGFnLmRpc3BsYXkoJ2Rpdi1ncHQtYWQtMTM3MTA2MTg2NTIxNC0xJyk7Cjwvc2NyaXB0Pgo8L2Rpdj5kAgIPZBYCZg9kFgICAQ8WAh8BBbwBPCEtLSBCcmVpdGJhcnQuQmlnR292LlJhaWwyIC0tPgo8ZGl2IGlkPSdkaXYtZ3B0LWFkLTEzNzEwNjE4NjUyMTQtMicgc3R5bGU9J3dpZHRoOjMwMHB4Oyc+CjxzY3JpcHQgdHlwZT0ndGV4dC9qYXZhc2NyaXB0Jz4KZ29vZ2xldGFnLmRpc3BsYXkoJ2Rpdi1ncHQtYWQtMTM3MTA2MTg2NTIxNC0yJyk7Cjwvc2NyaXB0Pgo8L2Rpdj5kAgQPZBYCZg9kFgJmDxYCHwYFKWxpc3QgbGlzdC1mb3gtbmV3cyBsaXN0LWZveC1uZXdzLW5hdGlvbmFsFgQCAQ8WAh8BBRFGb3ggTmV3cyBOYXRpb25hbGQCAw8WAh4LXyFJdGVtQ291bnQCBRYKZg9kFgQCAQ8PFgQfAQVQRmxvcmlkYSBjaXR5IGZpZ2h0cyB0byBrZWVwIDEzMS15ZWFyLW9sZCBzZWFsIGF0IGNlbnRlciBvZiBjaHVyY2gtc3RhdGUgZGlzcHV0ZSAfBQU8aHR0cDovL2ZlZWRzLmZveG5ld3MuY29tL35yL2ZveG5ld3MvbmF0aW9uYWwvfjMvOHlvNHNoazF1MjQvFgIeCGRhdGEtZ2FxBW5Gb3hOZXdzLEZyZWVkb20tb2YtVHJhdmVsLUFjdCxGbG9yaWRhIGNpdHkgZmlnaHRzIHRvIGtlZXAgMTMxLXllYXItb2xkIHNlYWwgYXQgY2VudGVyIG9mIGNodXJjaC1zdGF0ZSBkaXNwdXRlIGQCAw8WAh8BBRgyNiBTZXAgMjAxMywgODo1NCBQTSBQRFRkAgEPZBYEAgEPDxYEHwEFWkFyc29uIGludmVzdGlnYXRvcnMgdGFraW5nIG92ZXIgZnJvbSBmaXJlZmlnaHRlcnMgYXQgZ3V0dGVkIGZhY3Rvcnkgb24gRGV0cm9pdCdzIHdlc3Qgc2lkZR8FBTxodHRwOi8vZmVlZHMuZm94bmV3cy5jb20vfnIvZm94bmV3cy9uYXRpb25hbC9+My9mRmhIUmt4Q0syVS8WAh8KBXhGb3hOZXdzLEZyZWVkb20tb2YtVHJhdmVsLUFjdCxBcnNvbiBpbnZlc3RpZ2F0b3JzIHRha2luZyBvdmVyIGZyb20gZmlyZWZpZ2h0ZXJzIGF0IGd1dHRlZCBmYWN0b3J5IG9uIERldHJvaXQncyB3ZXN0IHNpZGVkAgMPFgIfAQUYMjYgU2VwIDIwMTMsIDQ6MjYgUE0gUERUZAICD2QWBAIBDw8WBB8BBVtIZXJuYW5kZXogYXNzb2NpYXRlIG9yZGVyZWQgaGVsZCBvbiAkNTAwSyBiYWlsIG9uIGFjY2Vzc29yeSBjaGFyZ2U7IHdpdG5lc3MgY2hhbmdlcyBhY2NvdW50HwUFPGh0dHA6Ly9mZWVkcy5mb3huZXdzLmNvbS9+ci9mb3huZXdzL25hdGlvbmFsL34zL3BrWFZZWTdZNVlvLxYCHwoFeUZveE5ld3MsRnJlZWRvbS1vZi1UcmF2ZWwtQWN0LEhlcm5hbmRleiBhc3NvY2lhdGUgb3JkZXJlZCBoZWxkIG9uICQ1MDBLIGJhaWwgb24gYWNjZXNzb3J5IGNoYXJnZTsgd2l0bmVzcyBjaGFuZ2VzIGFjY291bnRkAgMPFgIfAQUYMjYgU2VwIDIwMTMsIDM6MzIgUE0gUERUZAIDD2QWBAIBDw8WBB8BBVxOWSBvZmZpY2lhbHMgcHVsbCBvdmVyIGNoZWF0ZXJzIG9uIGRyaXZlcidzIGxpY2Vuc2UgdGVzdHMgZm9yIHRyYWN0b3IgdHJhaWxlcnMsIHNjaG9vbCBidXNlcx8FBTxodHRwOi8vZmVlZHMuZm94bmV3cy5jb20vfnIvZm94bmV3cy9uYXRpb25hbC9+My9nNjBYal9KYjFHZy8WAh8KBXpGb3hOZXdzLEZyZWVkb20tb2YtVHJhdmVsLUFjdCxOWSBvZmZpY2lhbHMgcHVsbCBvdmVyIGNoZWF0ZXJzIG9uIGRyaXZlcidzIGxpY2Vuc2UgdGVzdHMgZm9yIHRyYWN0b3IgdHJhaWxlcnMgIHNjaG9vbCBidXNlc2QCAw8WAh8BBRgyNiBTZXAgMjAxMywgMzowNCBQTSBQRFRkAgQPZBYEAgEPDxYEHwEFWkV4aGliaXQgaW4gT2tsYS4gaG9ub3JpbmcgY29udHJpYnV0aW9ucyBvZiBDb21hbmNoZSBDb2RlIFRhbGtlcnMgZHVyaW5nIFdvcmxkIFdhciBJSSBvcGVucx8FBTxodHRwOi8vZmVlZHMuZm94bmV3cy5jb20vfnIvZm94bmV3cy9uYXRpb25hbC9+My8tYW9aMDExdF9Tdy8WAh8KBXhGb3hOZXdzLEZyZWVkb20tb2YtVHJhdmVsLUFjdCxFeGhpYml0IGluIE9rbGEuIGhvbm9yaW5nIGNvbnRyaWJ1dGlvbnMgb2YgQ29tYW5jaGUgQ29kZSBUYWxrZXJzIGR1cmluZyBXb3JsZCBXYXIgSUkgb3BlbnNkAgMPFgIfAQUYMjYgU2VwIDIwMTMsIDI6MzMgUE0gUERUZAIFD2QWAmYPZBYCAgEPFgIfAQWXAjwhLS0gQnJlaXRiYXJ0LkJpZ0dvdi5RdWlnby5SUmFpbCAtLT4KPHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiPmFkc29uYXJfcGxhY2VtZW50SWQ9MTU0OTg4MDthZHNvbmFyX3BpZD0xOTI0NzY3O2Fkc29uYXJfcHM9MDthZHNvbmFyX3p3PTMwMDthZHNvbmFyX3poPTE3NTthZHNvbmFyX2p2PSdhZHMuYWRzb25hci5jb20nOzwvc2NyaXB0PjxzY3JpcHQgbGFuZ3VhZ2U9IkphdmFTY3JpcHQiIHNyYz0iaHR0cDovL2pzLmFkc29uYXIuY29tL2pzL2Fkc29uYXIuanMiPjwvc2NyaXB0PmQCBg9kFgJmD2QWAmYPFgIeEWRhdGEtY29sb3Jib3gtdXJsBVovU3lzdGVtL1JlZ2lzdGVyLVN1YnNjcmliZT9wYWdlPSUyZkJpZy1Hb3Zlcm5tZW50JTJmMjAxMyUyZjA5JTJmMjQlMmZGcmVlZG9tLW9mLVRyYXZlbC1BY3RkAgcPZBYCZg9kFgICAQ8WAh8BBbwBPCEtLSBCcmVpdGJhcnQuQmlnR292LlJhaWwzIC0tPgo8ZGl2IGlkPSdkaXYtZ3B0LWFkLTEzNzEwNjE4NjUyMTQtMycgc3R5bGU9J3dpZHRoOjMwMHB4Oyc+CjxzY3JpcHQgdHlwZT0ndGV4dC9qYXZhc2NyaXB0Jz4KZ29vZ2xldGFnLmRpc3BsYXkoJ2Rpdi1ncHQtYWQtMTM3MTA2MTg2NTIxNC0zJyk7Cjwvc2NyaXB0Pgo8L2Rpdj5kAgYPZBYCZg9kFgYCAQ8WAh8JAgUWCmYPZBYEAgEPDxYEHwEFOE1pbm4uIFNlbmF0ZSBhZ3JlZXMgdG8gc2V0dGxlIGxhd3N1aXQgZnJvbSBmaXJlZCBzdGFmZmVyHwUFPGh0dHA6Ly9mZWVkcy5mb3huZXdzLmNvbS9+ci9mb3huZXdzL3BvbGl0aWNzL34zL1UwbHJ0WUVhX0VRLxYCHwoFVkZveE5ld3MsRnJlZWRvbS1vZi1UcmF2ZWwtQWN0LE1pbm4uIFNlbmF0ZSBhZ3JlZXMgdG8gc2V0dGxlIGxhd3N1aXQgZnJvbSBmaXJlZCBzdGFmZmVyZAIDDxYCHwEFGDI2IFNlcCAyMDEzLCAzOjQzIFBNIFBEVGQCAQ9kFgQCAQ8PFgQfAQU6SnVkZ2Ugc2F5cyBJbGxpbm9pcyBnb3Zlcm5vciBtdXN0IHJlaW5zdGF0ZSBsYXdtYWtlcnMnIHBheR8FBTxodHRwOi8vZmVlZHMuZm94bmV3cy5jb20vfnIvZm94bmV3cy9wb2xpdGljcy9+My9kV2pCM01Wd1QwNC8WAh8KBVhGb3hOZXdzLEZyZWVkb20tb2YtVHJhdmVsLUFjdCxKdWRnZSBzYXlzIElsbGlub2lzIGdvdmVybm9yIG11c3QgcmVpbnN0YXRlIGxhd21ha2VycycgcGF5ZAIDDxYCHwEFGDI2IFNlcCAyMDEzLCAzOjE0IFBNIFBEVGQCAg9kFgQCAQ8PFgQfAQVTS2VycnkgYW5kIElyYW5pYW4gY291bnRlcnBhcnQgbWVldCwgc2V0IHN0YWdlIGZvciBuZXcgcm91bmQgb2YgbnVjbGVhciBuZWdvdGlhdGlvbnMfBQU8aHR0cDovL2ZlZWRzLmZveG5ld3MuY29tL35yL2ZveG5ld3MvcG9saXRpY3MvfjMvMHZfOFdwbjBKN1kvFgIfCgVxRm94TmV3cyxGcmVlZG9tLW9mLVRyYXZlbC1BY3QsS2VycnkgYW5kIElyYW5pYW4gY291bnRlcnBhcnQgbWVldCAgc2V0IHN0YWdlIGZvciBuZXcgcm91bmQgb2YgbnVjbGVhciBuZWdvdGlhdGlvbnNkAgMPFgIfAQUYMjYgU2VwIDIwMTMsIDM6MTIgUE0gUERUZAIDD2QWBAIBDw8WBB8BBVFKdXN0aWNlIERlcGFydG1lbnQgaGFzIHNwZW50IG5lYXJseSAkNSBtaWxsaW9uIG9uIGRyb25lcywgd2F0Y2hkb2cgcmVwb3J0IHJldmVhbHMfBQU8aHR0cDovL2ZlZWRzLmZveG5ld3MuY29tL35yL2ZveG5ld3MvcG9saXRpY3MvfjMvTWJ5RnVHR2lXekkvFgIfCgVvRm94TmV3cyxGcmVlZG9tLW9mLVRyYXZlbC1BY3QsSnVzdGljZSBEZXBhcnRtZW50IGhhcyBzcGVudCBuZWFybHkgJDUgbWlsbGlvbiBvbiBkcm9uZXMgIHdhdGNoZG9nIHJlcG9ydCByZXZlYWxzZAIDDxYCHwEFGDI2IFNlcCAyMDEzLCAyOjQ4IFBNIFBEVGQCBA9kFgQCAQ8PFgQfAQVHVGhlIEFtZXJpY2FuIERyZWFtOiBuZXcgbW9kZWxzIHNob3cgaG93IGNsb3NlIOKAkyBvciBmYXIgYXdheSDigJMgaXQgaXMfBQU8aHR0cDovL2ZlZWRzLmZveG5ld3MuY29tL35yL2ZveG5ld3MvcG9saXRpY3MvfjMvZjY4WHYzWHBBVGMvFgIfCgVlRm94TmV3cyxGcmVlZG9tLW9mLVRyYXZlbC1BY3QsVGhlIEFtZXJpY2FuIERyZWFtOiBuZXcgbW9kZWxzIHNob3cgaG93IGNsb3NlIOKAkyBvciBmYXIgYXdheSDigJMgaXQgaXNkAgMPFgIfAQUYMjYgU2VwIDIwMTMsIDI6MzYgUE0gUERUZAIDDxYCHwkCBRYKZg9kFgQCAQ8PFgQfAQVQRmxvcmlkYSBjaXR5IGZpZ2h0cyB0byBrZWVwIDEzMS15ZWFyLW9sZCBzZWFsIGF0IGNlbnRlciBvZiBjaHVyY2gtc3RhdGUgZGlzcHV0ZSAfBQU8aHR0cDovL2ZlZWRzLmZveG5ld3MuY29tL35yL2ZveG5ld3MvbmF0aW9uYWwvfjMvOHlvNHNoazF1MjQvFgIfCgVuRm94TmV3cyxGcmVlZG9tLW9mLVRyYXZlbC1BY3QsRmxvcmlkYSBjaXR5IGZpZ2h0cyB0byBrZWVwIDEzMS15ZWFyLW9sZCBzZWFsIGF0IGNlbnRlciBvZiBjaHVyY2gtc3RhdGUgZGlzcHV0ZSBkAgMPFgIfAQUYMjYgU2VwIDIwMTMsIDg6NTQgUE0gUERUZAIBD2QWBAIBDw8WBB8BBVpBcnNvbiBpbnZlc3RpZ2F0b3JzIHRha2luZyBvdmVyIGZyb20gZmlyZWZpZ2h0ZXJzIGF0IGd1dHRlZCBmYWN0b3J5IG9uIERldHJvaXQncyB3ZXN0IHNpZGUfBQU8aHR0cDovL2ZlZWRzLmZveG5ld3MuY29tL35yL2ZveG5ld3MvbmF0aW9uYWwvfjMvZkZoSFJreENLMlUvFgIfCgV4Rm94TmV3cyxGcmVlZG9tLW9mLVRyYXZlbC1BY3QsQXJzb24gaW52ZXN0aWdhdG9ycyB0YWtpbmcgb3ZlciBmcm9tIGZpcmVmaWdodGVycyBhdCBndXR0ZWQgZmFjdG9yeSBvbiBEZXRyb2l0J3Mgd2VzdCBzaWRlZAIDDxYCHwEFGDI2IFNlcCAyMDEzLCA0OjI2IFBNIFBEVGQCAg9kFgQCAQ8PFgQfAQVbSGVybmFuZGV6IGFzc29jaWF0ZSBvcmRlcmVkIGhlbGQgb24gJDUwMEsgYmFpbCBvbiBhY2Nlc3NvcnkgY2hhcmdlOyB3aXRuZXNzIGNoYW5nZXMgYWNjb3VudB8FBTxodHRwOi8vZmVlZHMuZm94bmV3cy5jb20vfnIvZm94bmV3cy9uYXRpb25hbC9+My9wa1hWWVk3WTVZby8WAh8KBXlGb3hOZXdzLEZyZWVkb20tb2YtVHJhdmVsLUFjdCxIZXJuYW5kZXogYXNzb2NpYXRlIG9yZGVyZWQgaGVsZCBvbiAkNTAwSyBiYWlsIG9uIGFjY2Vzc29yeSBjaGFyZ2U7IHdpdG5lc3MgY2hhbmdlcyBhY2NvdW50ZAIDDxYCHwEFGDI2IFNlcCAyMDEzLCAzOjMyIFBNIFBEVGQCAw9kFgQCAQ8PFgQfAQVcTlkgb2ZmaWNpYWxzIHB1bGwgb3ZlciBjaGVhdGVycyBvbiBkcml2ZXIncyBsaWNlbnNlIHRlc3RzIGZvciB0cmFjdG9yIHRyYWlsZXJzLCBzY2hvb2wgYnVzZXMfBQU8aHR0cDovL2ZlZWRzLmZveG5ld3MuY29tL35yL2ZveG5ld3MvbmF0aW9uYWwvfjMvZzYwWGpfSmIxR2cvFgIfCgV6Rm94TmV3cyxGcmVlZG9tLW9mLVRyYXZlbC1BY3QsTlkgb2ZmaWNpYWxzIHB1bGwgb3ZlciBjaGVhdGVycyBvbiBkcml2ZXIncyBsaWNlbnNlIHRlc3RzIGZvciB0cmFjdG9yIHRyYWlsZXJzICBzY2hvb2wgYnVzZXNkAgMPFgIfAQUYMjYgU2VwIDIwMTMsIDM6MDQgUE0gUERUZAIED2QWBAIBDw8WBB8BBVpFeGhpYml0IGluIE9rbGEuIGhvbm9yaW5nIGNvbnRyaWJ1dGlvbnMgb2YgQ29tYW5jaGUgQ29kZSBUYWxrZXJzIGR1cmluZyBXb3JsZCBXYXIgSUkgb3BlbnMfBQU8aHR0cDovL2ZlZWRzLmZveG5ld3MuY29tL35yL2ZveG5ld3MvbmF0aW9uYWwvfjMvLWFvWjAxMXRfU3cvFgIfCgV4Rm94TmV3cyxGcmVlZG9tLW9mLVRyYXZlbC1BY3QsRXhoaWJpdCBpbiBPa2xhLiBob25vcmluZyBjb250cmlidXRpb25zIG9mIENvbWFuY2hlIENvZGUgVGFsa2VycyBkdXJpbmcgV29ybGQgV2FyIElJIG9wZW5zZAIDDxYCHwEFGDI2IFNlcCAyMDEzLCAyOjMzIFBNIFBEVGQCBQ8WAh8JAgUWCmYPZBYEAgEPDxYEHwEFH1doYXQgdG8gd2F0Y2ggaW4gV2VlayA0OiBFYWdsZXMfBQU6aHR0cDovL2ZlZWRzLmZveG5ld3MuY29tL35yL2ZveG5ld3Mvc3BvcnRzL34zL2s4QVNucV9uRS1vLxYCHwoFPUZveE5ld3MsRnJlZWRvbS1vZi1UcmF2ZWwtQWN0LFdoYXQgdG8gd2F0Y2ggaW4gV2VlayA0OiBFYWdsZXNkAgMPFgIfAQUYMjYgU2VwIDIwMTMsIDU6NTEgUE0gUERUZAIBD2QWBAIBDw8WBB8BBVZNb3JlIGZhbWlsaWFyIHdpdGggbmV3IG9mZmVuc2UsIENvbHRzIFJCIFRyZW50IFJpY2hhcmRzb24gZmFjZXMgcnVuLXN0cnVnZ2xpbmcgSmFndWFycx8FBTpodHRwOi8vZmVlZHMuZm94bmV3cy5jb20vfnIvZm94bmV3cy9zcG9ydHMvfjMva2J0aFdzVkhhLWMvFgIfCgV0Rm94TmV3cyxGcmVlZG9tLW9mLVRyYXZlbC1BY3QsTW9yZSBmYW1pbGlhciB3aXRoIG5ldyBvZmZlbnNlICBDb2x0cyBSQiBUcmVudCBSaWNoYXJkc29uIGZhY2VzIHJ1bi1zdHJ1Z2dsaW5nIEphZ3VhcnNkAgMPFgIfAQUYMjYgU2VwIDIwMTMsIDQ6NDAgUE0gUERUZAICD2QWBAIBDw8WBB8BBUhCdWNjYW5lZXJzICB0dXJuIHRvIHJvb2tpZSBRQiBHbGVubm9uIHRvIHNwYXJrIG9mZmVuc2UgYWdhaW5zdCBDYXJkaW5hbHMfBQU6aHR0cDovL2ZlZWRzLmZveG5ld3MuY29tL35yL2ZveG5ld3Mvc3BvcnRzL34zL1VTY2hNZVoyYXA0LxYCHwoFZkZveE5ld3MsRnJlZWRvbS1vZi1UcmF2ZWwtQWN0LEJ1Y2NhbmVlcnMgIHR1cm4gdG8gcm9va2llIFFCIEdsZW5ub24gdG8gc3Bhcmsgb2ZmZW5zZSBhZ2FpbnN0IENhcmRpbmFsc2QCAw8WAh8BBRgyNiBTZXAgMjAxMywgNDozMCBQTSBQRFRkAgMPZBYEAgEPDxYEHwEFIFdoYXQgdG8gd2F0Y2ggaW4gV2VlayA0OiBCcm9uY29zHwUFOmh0dHA6Ly9mZWVkcy5mb3huZXdzLmNvbS9+ci9mb3huZXdzL3Nwb3J0cy9+My9YNEpSWmE1blBGRS8WAh8KBT5Gb3hOZXdzLEZyZWVkb20tb2YtVHJhdmVsLUFjdCxXaGF0IHRvIHdhdGNoIGluIFdlZWsgNDogQnJvbmNvc2QCAw8WAh8BBRgyNiBTZXAgMjAxMywgNDoxMyBQTSBQRFRkAgQPZBYEAgEPDxYEHwEFVFJlZHNraW5zIFFCIEdyaWZmaW4sIFJhaWRlcnMgUUIgRmx5bm4gbG9vayB0byByZXZlcnNlIGRpc2FwcG9pbnRpbmcgc3RhcnRzIHRvIHNlYXNvbh8FBTpodHRwOi8vZmVlZHMuZm94bmV3cy5jb20vfnIvZm94bmV3cy9zcG9ydHMvfjMvUXNQdjF1WlFzV0EvFgIfCgVyRm94TmV3cyxGcmVlZG9tLW9mLVRyYXZlbC1BY3QsUmVkc2tpbnMgUUIgR3JpZmZpbiAgUmFpZGVycyBRQiBGbHlubiBsb29rIHRvIHJldmVyc2UgZGlzYXBwb2ludGluZyBzdGFydHMgdG8gc2Vhc29uZAIDDxYCHwEFGDI2IFNlcCAyMDEzLCA0OjEwIFBNIFBEVGQCBw9kFgJmD2QWAgIBDxYCHwEF0QE8IS0tIEJyZWl0YmFydC5CaWdHb3YuQm90dG9tLkxlYWRlciAtLT4KPGRpdiBpZD0nZGl2LWdwdC1hZC0xMzcxMDYxODY1MjE0LTAnIHN0eWxlPSd3aWR0aDo3MjhweDsgaGVpZ2h0OjkwcHg7Jz4KPHNjcmlwdCB0eXBlPSd0ZXh0L2phdmFzY3JpcHQnPgpnb29nbGV0YWcuZGlzcGxheSgnZGl2LWdwdC1hZC0xMzcxMDYxODY1MjE0LTAnKTsKPC9zY3JpcHQ+CjwvZGl2PmQCFw9kFgJmD2QWAgIBDw8WBB8BBRFBZHZlcnRpc2UgV2l0aCBVcx8FBV0vU3lzdGVtL0FkdmVydGlzZSUyMFdpdGglMjBVcz9wYWdlPSUyZkJpZy1Hb3Zlcm5tZW50JTJmMjAxMyUyZjA5JTJmMjQlMmZGcmVlZG9tLW9mLVRyYXZlbC1BY3RkZAIZDxYCHwBoZAIdD2QWAmYPZBYCZg8WAh8BBQdDb25uZWN0ZGSX4wJW70hBtwW1oTtC66F9TYHMdw==" />
+
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBgK7xol9ArygyvQCAvO/8OsLAou8tbwIAuzMmpMPAo7KqsEGeJcIe0OPPw9KhG2Wu8UGh+Bm9no=" />
+       
+        
+
+<!-- Google Ad goes here -->
+<div class="wrapperBanner">
+    <!-- Breitbart.BigGov.Top.Leader -->
+<div id='div-gpt-ad-1371061865214-5' style='width:728px; height:90px;'>
+<script type='text/javascript'>
+googletag.display('div-gpt-ad-1371061865214-5');
+</script>
+</div>
+</div>
+
+        
+        
+
+        <header class="siteHeader container_18">
+            
+<h1 class="hidden">Breitbart.com</h1>
+<a id="ctl06_hplLogo" class="logo" href="/">
+    <img src="http://cdn.breitbart.com/_res/img/logo.png" alt="Breitbart Logo" height="72" width="93">
+</a>
+            
+<nav class="connectWithBreitbart">
+    <h1>Connect</h1>
+    <ul>
+        <li><a href="http://www.facebook.com/pages/Breitbart/95475020353" class="fb">Facebook</a></li>
+        <li><a href="https://twitter.com/#!/BreitbartNews" class="tw">Twitter</a></li>
+        <li><a href="http://feeds.feedburner.com/BreitbartFeed" class="rs">RSS</a></li>
+    </ul>
+</nav>
+
+        </header>
+       
+        <div class="wrapperNav" id="v2">
+            <div class="container_18">
+                
+                <div class="siteSearch">
+                    <label for="ctl08_txtSearch" id="ctl08_lblSearch">Search</label>
+                    <input name="ctl08$txtSearch" type="text" id="ctl08_txtSearch" placeholder="SEARCH" /> 
+                    <input type="submit" name="ctl08$btnSubmitSearch" value="" id="ctl08_btnSubmitSearch" class="hidden" />
+                </div>
+                
+
+<nav class="navGlobal">
+    <h1 class="hidden">Global Navigation</h1>
+    <ul class="clearfix">
+        
+        
+        
+        
+        
+            <li><a href="/System/Login?page=%2fBig-Government%2f2013%2f09%2f24%2fFreedom-of-Travel-Act" id="ctl09_aLogin" data-cbox="true" data-ga-action="Login" data-ga-label="Header">Login</a></li>
+            <li><a href="/System/Register-Subscribe?page=%2fBig-Government%2f2013%2f09%2f24%2fFreedom-of-Travel-Act" id="ctl09_aRegister" data-cbox="true" data-ga-action="Register" data-ga-label="Header">Register</a></li>
+        
+
+        <li><a href="/System/Register-Subscribe?page=%2fBig-Government%2f2013%2f09%2f24%2fFreedom-of-Travel-Act" id="ctl09_aSubscribe" data-cbox="true" data-ga-action="Register" data-ga-label="Header">Subscribe</a></li>
+        
+    </ul>
+</nav>
+
+                
+<nav class="navMain">
+    <h1 class="hidden">Primary Navigation</h1>
+    <ul class="clearfix">
+        <li id="ctl10_liTV" class="tv"><a id="ctl10_hplTV" data-gaq="menutracking,click,BBTVLeftWithoutIcon-Position1-BreitbartTV" href="/breitbart-tv">Breitbart TV</a></li>
+        <li id="ctl10_liHollywood"><a id="ctl10_hplHollywood" data-gaq="menutracking,click,BBTVLeftWithoutIcon-Position2-BigHollywood" href="/big-hollywood">Big Hollywood</a></li>
+        <li id="ctl10_liSports"><a id="ctl10_hplSports" data-gaq="menutracking,click,BBTVLeftWithoutIcon-Position3-BreitbartSports" href="/breitbart-sports">Breitbart Sports</a></li>
+        <li id="ctl10_liGovernment" class="selected"><a id="ctl10_hplGovernment" data-gaq="menutracking,click,BBTVLeftWithoutIcon-Position4-BigGovernment" href="/big-government">Big Government</a></li>
+        <li id="ctl10_liJournalism"><a id="ctl10_hplJournalism" data-gaq="menutracking,click,BBTVLeftWithoutIcon-Position5-BigJournalism" href="/big-journalism">Big Journalism</a></li>        
+        <li id="ctl10_liPeace"><a id="ctl10_hplPeace" data-gaq="menutracking,click,BBTVLeftWithoutIcon-Position6-BigPeace" href="/big-peace">Big Peace</a></li>        
+        <li id="ctl10_liTheConversation"><a id="ctl10_hplTheConversation" data-gaq="menutracking,click,BBTVLeftWithoutIcon-Position7-TheConversation" href="/instablog/all">The Conversation</a></li>        
+        <li id="ctl10_liTheWires"><a id="ctl10_hplTheWires" data-gaq="menutracking,click,BBTVLeftWithoutIcon-Position8-TheWires" href="/newswires">The Wires</a></li>
+    </ul>
+</nav>                  
+            </div>
+        </div>
+
+        
+<div class="wrapperContent" style="background-image: url();">
+    <div class="wrapperContent1">
+        <div id="content" class="container_18">
+            <div class="clearfix">
+                <div class="grid_12">
+                    
+                    <article>
+                        <h1 id="content_0_headlineimage_0_h1Headline">Freedom of Travel Act Aims to Reaffirm Americans' 4th Amendment Freedoms</h1>
+<div id="content_0_headlineimage_0_divImageShareStatic" class="clearfix">
+    <div class="grid_9 alpha">
+        <img id="content_0_headlineimage_0_imgMain" class="featured" src="http://cdn.breitbart.com/mediaserver/Breitbart/Big-Government/2013/09/24/tsa_glove_reuters.jpg" style="height:356px;width:475px;" />
+    </div>
+    <div class="grid_3 omega">
+        <div class="utilityStatic">
+            <div class="shareThisWrapper">
+                <span class="st_twitter_hcount" displayText="Tweet" st_via="BreitbartNews"></span>
+            </div>
+            <div class="shareThisWrapper">
+                <span class="st_linkedin_hcount" displayText="LinkedIn"></span>
+            </div>
+            <div class="shareThisWrapper">
+                <span class="st_facebook_hcount" displayText="Facebook"></span>
+            </div>
+            <div class="shareThisWrapper shareThisGoogle">
+                <span class="st_plusone_hcount"></span>
+            </div>
+            <hr>
+            <div class="shareThisWrapper shareThisEmail">
+                <span class="st_email" displayText="Email Article"></span>
+            </div>
+            <a class="print">Print Article</a>
+            <a href="/System/Breitbart%20Send%20A%20Tip?page=%2fBig-Government%2f2013%2f09%2f24%2fFreedom-of-Travel-Act" data-cbox="true" class="tip" data-ga-action="Send Tip" data-ga-label="Article">Send a Tip</a>
+        </div>
+    </div>
+</div>
+                        <div class="clearfix">
+                            <div id="content_0_divMainContent" class="grid_12 alpha omega">
+                                
+
+
+    
+    <div id="content_0_maincontent_0_divArticleInfo" class="story story-metadata">
+        <span id="content_0_maincontent_0_spanAuthor" class="story-author">
+            by
+            <a id="content_0_maincontent_0_hplAuthor" href="/Columnists/Rep-Scott-Garrett">Rep. Scott Garrett</a>
+        </span>
+        <span class="story-time">24 Sep 2013</span>
+        <span id="content_0_maincontent_0_disqusCommentCount01_spanArticleComments" class="story-comments">
+    <a href="/Big-Government/2013/09/24/Freedom-of-Travel-Act#disqus_thread" id="content_0_maincontent_0_disqusCommentCount01_aDisqusThread" class="commentNumber" data-disqus-identifier="4a848023-7d99-49e2-bdce-a1ceea3224a4"></a>
+    
+</span><span id="content_0_maincontent_0_disqusCommentCount01_spanPostComment" class="story-comment-link">
+    <a href="/Big-Government/2013/09/24/Freedom-of-Travel-Act#comments" id="content_0_maincontent_0_disqusCommentCount01_aPostComment">post a comment</a>
+</span>
+
+
+        
+    </div>
+    
+    
+
+
+<div id="ndn-video-single" class="ndn-widget" style="display: none;"></div>
+<h2>When traveling by air, Americans expect to encounter the security methods of the Transportation Security Administration (TSA). Like clockwork, we take off our shoes and submit to X-ray scanners, invasive pat downs, and baggage searches. But most Americans are unaware that the TSA is not just for airports anymore.</h2>
+<p>Since 2005, the TSA has deployed Visible Intermodal Prevention and Response (VIPR) teams to conduct thousands of unannounced, random sweeps of bus, train, and subway stations as well as ferry terminals. VIPR teams have the authority to enter any transportation facility – anytime, anywhere – and subject citizens to a search of their person and property.</p>
+<p>But the reach of the TSA goes far beyond mass transit systems and into our highways and private vehicles. For example, VIPR conducted an operation on <a href="http://www.newschannel5.com/story/15725035/officials-claim-tennessee-becomes-first-state-to-deploy-vipr-statewide">Tennessee highways</a> in which drivers who passed through random checkpoints were subject to an inspection, costing drivers their time and fuel without good reason.</p>
+<p>In fact, the reach of the agency has extended so far that the Transportation Security Administration can screen individuals not engaged in travel. VIPR teams are authorized to cover large events and have already appeared at NFL games and NASCAR races.</p>
+<p>The type of search that Americans would expect to submit to before boarding an airplane could come without warning while commuting to work, running errands, or attending a sporting event. Simply put, there is no conceivable aspect of life that is free from the TSA and its VIPR squads.</p>
+<p>Yet, despite its all encompassing reach, the VIPR program has little record of making the American people safer.</p>
+<p>VIPR searches are typically random and thus are not based on any actual specific threat or criminal activity. So it should come as no surprise that a 2011 <em>Los Angeles Times</em> article <a href="http://articles.latimes.com/2011/dec/20/nation/la-na-terror-checkpoints-20111220">revealed</a> that after VIPR teams had conducted thousands of operations, “TSA officials say they have no proof that roving VIPR teams have foiled any terrorist plots or thwarted any major threat to public safety.” The TSA now refuses to comment on the effectiveness of VIPR teams to foil terrorist attacks, but it is willing to take credit for deterrence, which presumably is achieved by their mere presence.</p>
+<p>The TSA VIPR program does not promote security but rather security theater. Perhaps no example more clearly demonstrates this than a VIPR operation in Savanna, Georgia in which <a href="http://www.nytimes.com/2013/08/06/us/tsa-expands-duties-beyond-airport-security.html?pagewanted=all&_r=1&">Amtrak passengers were searched</a> <em>after</em> they had disembarked from the train. This served absolutely no purpose in securing the safety of the traveling public.</p>
+<p>The TSA’s mission creep from the limited scope of air travel to every conceivable mode of transportation, as well as large events, is an unconstitutional violation of the Fourth Amendment guarantee against unreasonable searches and impedes the ability of every American to travel freely. Actual threats to our security should be dealt with by law enforcement agencies at various levels of government. </p>
+<p>We must protect the American people while also keeping their Fourth Amendment rights intact.</p>
+<p>To that end, I have introduced the <a href="http://garrett.house.gov/press-release/rep-garrett-introduces-freedom-travel-act">Freedom of Travel Act</a>. This legislation would protect the Fourth Amendment rights of citizens by abolishing the VIPR program as well as denying the TSA the authority to conduct security screenings outside of an airport. </p>
+<p>The Fourth Amendment is not just a limitation on government action. It is a fundamental component of the principle of liberty that contributed to American independence. </p>
+<p>The Fourth Amendment was largely a response to British “writs of assistance,” which served as general warrants that permitted almost limitless searches of colonial homes and ships by British officials. In 1761, at the Old State House in Boston, an attorney named James Otis forcefully attacked the writs as an infringement of individual rights. John Adams was so inspired by the eloquence of Otis’s arguments that he wrote, “then and there the child of independence was born.” </p>
+<p>Today, the government that Otis and Adams helped found claims an almost limitless power to search, seize, and inconvenience supposedly free citizens not suspected of any crime. </p>
+<p>It is time to end the steady erosion of the Fourth Amendment. As free men and women, we must combat the notion that law abiding citizens are at all times subject to be searched by their government. The Freedom of Travel Act would take a significant step in restoring the Fourth Amendment by putting to an end the existence of VIPR teams and halting the TSA’s mission creep.</p>
+<div id="ndn-video-single-02" class="ndn-widget" style="display: none;"></div>
+<br />
+
+
+
+
+                            </div>
+                            
+                        </div>
+                        
+
+<!-- text based ads; -->
+<div id="content_0_comments_0_divSponsoredLinks" class="sponsoredLinks">
+    <!-- Breitbart.BigGov.ARTICLE.Center.TextAd --><script type="text/javascript">adsonar_placementId=1549877;adsonar_pid=1924767;adsonar_ps=0;adsonar_zw=475;adsonar_zh=250;adsonar_jv='ads.adsonar.com';</script><script language="JavaScript" src="http://js.adsonar.com/js/adsonar.js"></script>
+</div>
+<section id="comments">
+    <h1 class="hidden">Comments</h1>
+    <div id="disqus_thread"></div>
+</section>
+ 
+
+
+                    </article>
+                    
+                </div>
+                <div class="grid_6 rightRail">
+                    
+    
+<!-- Google Ad goes here -->
+<div class="ad">
+    <div class="adWrapper">
+        <!-- Breitbart.BigGov.Rail1 -->
+<div id='div-gpt-ad-1371061865214-1' style='width:300px;'>
+<script type='text/javascript'>
+googletag.display('div-gpt-ad-1371061865214-1');
+</script>
+</div>
+    </div>
+    <p class="adLabel">
+        advertisement
+    </p>
+</div>
+
+
+<section class="sendTip">
+    <a href="/System/Breitbart%20Send%20A%20Tip?page=%2fBig-Government%2f2013%2f09%2f24%2fFreedom-of-Travel-Act" data-cbox="true" class="cboxElement" data-ga-action="Send Tip" data-ga-label="Right Rail">
+        <h1>Send A Tip</h1>
+        <img src="http://cdn.breitbart.com/mediaserver/Placeholders/sendTip.jpg" alt="" height="170" width="310">
+    </a>
+</section>
+    
+<!-- Google Ad goes here -->
+<div class="ad">
+    <div class="adWrapper">
+        <!-- Breitbart.BigGov.Rail2 -->
+<div id='div-gpt-ad-1371061865214-2' style='width:300px;'>
+<script type='text/javascript'>
+googletag.display('div-gpt-ad-1371061865214-2');
+</script>
+</div>
+    </div>
+    <p class="adLabel">
+        advertisement
+    </p>
+</div>
+
+
+<!-- Generic rail widget; -->
+<div class="railWidget">
+    <h1>Breitbart Video Picks</h1>
+    <div class="railWidgetBody">
+        <div id="ndn_launcher_10450"><script type="text/javascript" src="http://embed.newsinc.com/thumbnail/embed.js?wid=10450&parent=ndn_launcher_10450"></script></div>
+    </div>
+</div><section id="content_0_rightrail_0_ctl13_sectionTag" class="list list-fox-news list-fox-news-national">
+    <h1 class="list-header">Fox News National</h1>
+    
+        <article class="story">
+            <h1 class="story-title"><a id="content_0_rightrail_0_ctl13_rptArticles_hplArticle_0" data-gaq="FoxNews,Freedom-of-Travel-Act,Florida city fights to keep 131-year-old seal at center of church-state dispute " href="http://feeds.foxnews.com/~r/foxnews/national/~3/8yo4shk1u24/">Florida city fights to keep 131-year-old seal at center of church-state dispute </a></h1><span class="story-time">26 Sep 2013, 8:54 PM PDT</span>
+            </article>
+        
+        <article class="story">
+            <h1 class="story-title"><a id="content_0_rightrail_0_ctl13_rptArticles_hplArticle_1" data-gaq="FoxNews,Freedom-of-Travel-Act,Arson investigators taking over from firefighters at gutted factory on Detroit&#39;s west side" href="http://feeds.foxnews.com/~r/foxnews/national/~3/fFhHRkxCK2U/">Arson investigators taking over from firefighters at gutted factory on Detroit's west side</a></h1><span class="story-time">26 Sep 2013, 4:26 PM PDT</span>
+            </article>
+        
+        <article class="story">
+            <h1 class="story-title"><a id="content_0_rightrail_0_ctl13_rptArticles_hplArticle_2" data-gaq="FoxNews,Freedom-of-Travel-Act,Hernandez associate ordered held on $500K bail on accessory charge; witness changes account" href="http://feeds.foxnews.com/~r/foxnews/national/~3/pkXVYY7Y5Yo/">Hernandez associate ordered held on $500K bail on accessory charge; witness changes account</a></h1><span class="story-time">26 Sep 2013, 3:32 PM PDT</span>
+            </article>
+        
+        <article class="story">
+            <h1 class="story-title"><a id="content_0_rightrail_0_ctl13_rptArticles_hplArticle_3" data-gaq="FoxNews,Freedom-of-Travel-Act,NY officials pull over cheaters on driver&#39;s license tests for tractor trailers  school buses" href="http://feeds.foxnews.com/~r/foxnews/national/~3/g60Xj_Jb1Gg/">NY officials pull over cheaters on driver's license tests for tractor trailers, school buses</a></h1><span class="story-time">26 Sep 2013, 3:04 PM PDT</span>
+            </article>
+        
+        <article class="story">
+            <h1 class="story-title"><a id="content_0_rightrail_0_ctl13_rptArticles_hplArticle_4" data-gaq="FoxNews,Freedom-of-Travel-Act,Exhibit in Okla. honoring contributions of Comanche Code Talkers during World War II opens" href="http://feeds.foxnews.com/~r/foxnews/national/~3/-aoZ011t_Sw/">Exhibit in Okla. honoring contributions of Comanche Code Talkers during World War II opens</a></h1><span class="story-time">26 Sep 2013, 2:33 PM PDT</span>
+            </article>
+        
+</section>
+    
+<!-- Google Ad goes here -->
+<div class="ad">
+    <div class="adWrapper">
+        <!-- Breitbart.BigGov.Quigo.RRail -->
+<script type="text/javascript">adsonar_placementId=1549880;adsonar_pid=1924767;adsonar_ps=0;adsonar_zw=300;adsonar_zh=175;adsonar_jv='ads.adsonar.com';</script><script language="JavaScript" src="http://js.adsonar.com/js/adsonar.js"></script>
+    </div>
+    <p class="adLabel">
+        advertisement
+    </p>
+</div>
+<section id="content_0_rightrail_0_ctl15_sectionSubscribe" class="newsletterSignup" data-colorbox-url="/System/Register-Subscribe?page=%2fBig-Government%2f2013%2f09%2f24%2fFreedom-of-Travel-Act">
+    <h1>Sign up for our <span>newsletter</span></h1>
+    <div class="clearfix">
+        <input name="content_0$rightrail_0$ctl15$inputEmail" type="text" id="content_0_rightrail_0_ctl15_inputEmail" placeholder="e-mail address" data-validate="{email:true}" />
+        <input type="submit" value="Subscribe" />
+    </div>
+</section>
+    
+<!-- Google Ad goes here -->
+<div class="ad">
+    <div class="adWrapper">
+        <!-- Breitbart.BigGov.Rail3 -->
+<div id='div-gpt-ad-1371061865214-3' style='width:300px;'>
+<script type='text/javascript'>
+googletag.display('div-gpt-ad-1371061865214-3');
+</script>
+</div>
+    </div>
+    <p class="adLabel">
+        advertisement
+    </p>
+</div>
+
+
+<!-- Generic rail widget; -->
+<div class="railWidget">
+    <h1></h1>
+    <div class="railWidgetBody">
+        <!-- Breitbart.BigGov.Rail4 -->
+<div id='div-gpt-ad-1371061865214-4' style='width:300px;'>
+<script type='text/javascript'>
+googletag.display('div-gpt-ad-1371061865214-4');
+</script>
+</div>
+    </div>
+</div>
+                </div>
+            </div>
+            
+
+<section class="partners clearfix">
+    <div class="grid_18">
+    <h1 class="partner-header">From Our Partners</h1>
+    </div>
+    <div class="grid_6">
+    <section class="list list-fox-news list-fox-news-politics">
+        <h1 class="list-header">Fox News Politics</h1>
+        
+            <article class="story">
+                <h1 class="story-title"><a id="content_0_ctl00_rptPolitics_hplPoliticsStory_0" data-gaq="FoxNews,Freedom-of-Travel-Act,Minn. Senate agrees to settle lawsuit from fired staffer" href="http://feeds.foxnews.com/~r/foxnews/politics/~3/U0lrtYEa_EQ/">Minn. Senate agrees to settle lawsuit from fired staffer</a></h1><span class="story-time">26 Sep 2013, 3:43 PM PDT</span>
+                </article>
+            
+            <article class="story">
+                <h1 class="story-title"><a id="content_0_ctl00_rptPolitics_hplPoliticsStory_1" data-gaq="FoxNews,Freedom-of-Travel-Act,Judge says Illinois governor must reinstate lawmakers&#39; pay" href="http://feeds.foxnews.com/~r/foxnews/politics/~3/dWjB3MVwT04/">Judge says Illinois governor must reinstate lawmakers' pay</a></h1><span class="story-time">26 Sep 2013, 3:14 PM PDT</span>
+                </article>
+            
+            <article class="story">
+                <h1 class="story-title"><a id="content_0_ctl00_rptPolitics_hplPoliticsStory_2" data-gaq="FoxNews,Freedom-of-Travel-Act,Kerry and Iranian counterpart meet  set stage for new round of nuclear negotiations" href="http://feeds.foxnews.com/~r/foxnews/politics/~3/0v_8Wpn0J7Y/">Kerry and Iranian counterpart meet, set stage for new round of nuclear negotiations</a></h1><span class="story-time">26 Sep 2013, 3:12 PM PDT</span>
+                </article>
+            
+            <article class="story">
+                <h1 class="story-title"><a id="content_0_ctl00_rptPolitics_hplPoliticsStory_3" data-gaq="FoxNews,Freedom-of-Travel-Act,Justice Department has spent nearly $5 million on drones  watchdog report reveals" href="http://feeds.foxnews.com/~r/foxnews/politics/~3/MbyFuGGiWzI/">Justice Department has spent nearly $5 million on drones, watchdog report reveals</a></h1><span class="story-time">26 Sep 2013, 2:48 PM PDT</span>
+                </article>
+            
+            <article class="story">
+                <h1 class="story-title"><a id="content_0_ctl00_rptPolitics_hplPoliticsStory_4" data-gaq="FoxNews,Freedom-of-Travel-Act,The American Dream: new models show how close – or far away – it is" href="http://feeds.foxnews.com/~r/foxnews/politics/~3/f68Xv3XpATc/">The American Dream: new models show how close – or far away – it is</a></h1><span class="story-time">26 Sep 2013, 2:36 PM PDT</span>
+                </article>
+            
+    </section>
+    </div>
+    <div class="grid_6">
+    <section class="list list-fox-news list-fox-news-national">
+        <h1 class="list-header">Fox News National</h1>
+        
+            <article class="story">
+                <h1 class="story-title"><a id="content_0_ctl00_rptUS_hplUsStory_0" data-gaq="FoxNews,Freedom-of-Travel-Act,Florida city fights to keep 131-year-old seal at center of church-state dispute " href="http://feeds.foxnews.com/~r/foxnews/national/~3/8yo4shk1u24/">Florida city fights to keep 131-year-old seal at center of church-state dispute </a></h1><span class="story-time">26 Sep 2013, 8:54 PM PDT</span>
+                </article>
+            
+            <article class="story">
+                <h1 class="story-title"><a id="content_0_ctl00_rptUS_hplUsStory_1" data-gaq="FoxNews,Freedom-of-Travel-Act,Arson investigators taking over from firefighters at gutted factory on Detroit&#39;s west side" href="http://feeds.foxnews.com/~r/foxnews/national/~3/fFhHRkxCK2U/">Arson investigators taking over from firefighters at gutted factory on Detroit's west side</a></h1><span class="story-time">26 Sep 2013, 4:26 PM PDT</span>
+                </article>
+            
+            <article class="story">
+                <h1 class="story-title"><a id="content_0_ctl00_rptUS_hplUsStory_2" data-gaq="FoxNews,Freedom-of-Travel-Act,Hernandez associate ordered held on $500K bail on accessory charge; witness changes account" href="http://feeds.foxnews.com/~r/foxnews/national/~3/pkXVYY7Y5Yo/">Hernandez associate ordered held on $500K bail on accessory charge; witness changes account</a></h1><span class="story-time">26 Sep 2013, 3:32 PM PDT</span>
+                </article>
+            
+            <article class="story">
+                <h1 class="story-title"><a id="content_0_ctl00_rptUS_hplUsStory_3" data-gaq="FoxNews,Freedom-of-Travel-Act,NY officials pull over cheaters on driver&#39;s license tests for tractor trailers  school buses" href="http://feeds.foxnews.com/~r/foxnews/national/~3/g60Xj_Jb1Gg/">NY officials pull over cheaters on driver's license tests for tractor trailers, school buses</a></h1><span class="story-time">26 Sep 2013, 3:04 PM PDT</span>
+                </article>
+            
+            <article class="story">
+                <h1 class="story-title"><a id="content_0_ctl00_rptUS_hplUsStory_4" data-gaq="FoxNews,Freedom-of-Travel-Act,Exhibit in Okla. honoring contributions of Comanche Code Talkers during World War II opens" href="http://feeds.foxnews.com/~r/foxnews/national/~3/-aoZ011t_Sw/">Exhibit in Okla. honoring contributions of Comanche Code Talkers during World War II opens</a></h1><span class="story-time">26 Sep 2013, 2:33 PM PDT</span>
+                </article>
+            
+    </section>
+    </div>
+    <div class="grid_6">
+    <section class="list list-fox-news list-fox-news-sports">
+        <h1 class="list-header">Fox News Sports</h1>
+        
+            <article class="story">
+                <h1 class="story-title"><a id="content_0_ctl00_rptSports_hplSportsStory_0" data-gaq="FoxNews,Freedom-of-Travel-Act,What to watch in Week 4: Eagles" href="http://feeds.foxnews.com/~r/foxnews/sports/~3/k8ASnq_nE-o/">What to watch in Week 4: Eagles</a></h1><span class="story-time">26 Sep 2013, 5:51 PM PDT</span>
+                </article>
+            
+            <article class="story">
+                <h1 class="story-title"><a id="content_0_ctl00_rptSports_hplSportsStory_1" data-gaq="FoxNews,Freedom-of-Travel-Act,More familiar with new offense  Colts RB Trent Richardson faces run-struggling Jaguars" href="http://feeds.foxnews.com/~r/foxnews/sports/~3/kbthWsVHa-c/">More familiar with new offense, Colts RB Trent Richardson faces run-struggling Jaguars</a></h1><span class="story-time">26 Sep 2013, 4:40 PM PDT</span>
+                </article>
+            
+            <article class="story">
+                <h1 class="story-title"><a id="content_0_ctl00_rptSports_hplSportsStory_2" data-gaq="FoxNews,Freedom-of-Travel-Act,Buccaneers  turn to rookie QB Glennon to spark offense against Cardinals" href="http://feeds.foxnews.com/~r/foxnews/sports/~3/USchMeZ2ap4/">Buccaneers  turn to rookie QB Glennon to spark offense against Cardinals</a></h1><span class="story-time">26 Sep 2013, 4:30 PM PDT</span>
+                </article>
+            
+            <article class="story">
+                <h1 class="story-title"><a id="content_0_ctl00_rptSports_hplSportsStory_3" data-gaq="FoxNews,Freedom-of-Travel-Act,What to watch in Week 4: Broncos" href="http://feeds.foxnews.com/~r/foxnews/sports/~3/X4JRZa5nPFE/">What to watch in Week 4: Broncos</a></h1><span class="story-time">26 Sep 2013, 4:13 PM PDT</span>
+                </article>
+            
+            <article class="story">
+                <h1 class="story-title"><a id="content_0_ctl00_rptSports_hplSportsStory_4" data-gaq="FoxNews,Freedom-of-Travel-Act,Redskins QB Griffin  Raiders QB Flynn look to reverse disappointing starts to season" href="http://feeds.foxnews.com/~r/foxnews/sports/~3/QsPv1uZQsWA/">Redskins QB Griffin, Raiders QB Flynn look to reverse disappointing starts to season</a></h1><span class="story-time">26 Sep 2013, 4:10 PM PDT</span>
+                </article>
+            
+    </section>
+    </div>
+</section>
+            
+
+<!-- Google Ad goes here -->
+<div class="ad wrapperBannerContent">
+    <!-- Breitbart.BigGov.Bottom.Leader -->
+<div id='div-gpt-ad-1371061865214-0' style='width:728px; height:90px;'>
+<script type='text/javascript'>
+googletag.display('div-gpt-ad-1371061865214-0');
+</script>
+</div>
+</div>
+        </div>
+    </div>
+</div>
+
+<div class="utilityFixed">
+    <span class="st_twitter_large" st_via="BreitbartNews"></span>
+    <span class="st_linkedin_large"></span>
+    <span class="st_facebook_large"></span>
+    <span class="st_plusone_large"></span>
+    <hr>
+    <span class="st_email_large"></span>
+</div>
+<script type="text/javascript" src="http://dmeserv.newsinc.com/repub/breitbart_90085/dynamicWidgets.js"></script> 
+<script type="text/javascript">
+    NDNDynVideoWidgets(); 
+</script>        
+        
+        <div class="wrapperFooter">
+            <footer class="siteFooter container_18">
+                <div class="clearfix">
+                    <div class="grid_7">
+                        <div class="siteSearchFooter">
+                            
+<a href="/" class="logo">
+    <img src="http://cdn.breitbart.com/_res/img/logo.png" alt="Breitbart Logo" height="72" width="93">
+</a>
+                            
+ <h1>Copyright &copy; 2013 Breitbart</h1>
+                            
+                <div class="siteSearch">
+                    <label for="ctl13_txtSearch" id="ctl13_lblSearch">Search</label>
+                    <input name="ctl13$txtSearch" type="text" id="ctl13_txtSearch" placeholder="SEARCH" /> 
+                    <input type="submit" name="ctl13$btnSubmitSearch" value="" id="ctl13_btnSubmitSearch" class="hidden" />
+                </div>
+                            
+
+
+<div class="advertise"><a id="ctl14_hplAdvertiseWithUs" data-cbox="true" data-gaq="Colorbox,Advertise,Footer" href="/System/Advertise%20With%20Us?page=%2fBig-Government%2f2013%2f09%2f24%2fFreedom-of-Travel-Act">Advertise With Us</a></div>
+                        </div>
+                    </div>
+                    
+                    
+<div class="grid_8">
+                        <nav class="navFooter">
+                            <h1>EXPLORE BREITBART</h1>
+                            <div class="clearfix">
+                                <div class="grid_33">
+                                    
+                                            <ul>
+                                        
+                                            <li><a id="ctl15_rptNavColumn1_hplFooterLink_0" href="/"> Breitbart</a></li>
+                                        
+                                            <li><a id="ctl15_rptNavColumn1_hplFooterLink_1" href="/Breitbart-TV"> Breitbart TV</a></li>
+                                        
+                                            <li><a id="ctl15_rptNavColumn1_hplFooterLink_2" href="/System/About-Us/Privacy-Policy"> Privacy Policy</a></li>
+                                        
+                                            </ul>
+                                        
+                                </div>
+                                <div class="grid_33">
+                                    
+                                            <ul>
+                                        
+                                            <li><a id="ctl15_rptNavColumn2_hplFooterLink_0" href="/Big-Hollywood"> <span>Big</span> Hollywood</a></li>
+                                        
+                                            <li><a id="ctl15_rptNavColumn2_hplFooterLink_1" href="/Big-Government"> <span>Big</span> Government</a></li>
+                                        
+                                            <li><a id="ctl15_rptNavColumn2_hplFooterLink_2" href="/System/About-Us/Terms-of-Use"> Terms of Use</a></li>
+                                        
+                                            </ul>
+                                        
+                                </div>
+                                <div class="grid_33">
+                                    
+                                            <ul>
+                                        
+                                            <li><a id="ctl15_rptNavColumn3_hplFooterLink_0" href="/Big-Journalism"> <span>Big</span> Journalism</a></li>
+                                        
+                                            <li><a id="ctl15_rptNavColumn3_hplFooterLink_1" href="/Big-Peace"> <span>Big</span> Peace </a></li>
+                                        
+                                            </ul>
+                                        
+                                </div>
+                            </div>
+                        </nav>
+                    </div>
+                    
+
+<div class="grid_3">
+    <section class="connectFooter">
+        <h1>Connect</h1>                            
+        <ul>
+            <li><a href="http://www.facebook.com/pages/Breitbart/95475020353"><span class="fb"></span>Facebook</a></li>
+            <li><a href="https://twitter.com/#!/BreitbartNews"><span class="tw"></span>Twitter</a></li>
+            <li><a href="http://feeds.feedburner.com/BreitbartFeed"><span class="rs"></span>RSS</a></li>                                
+            <li><a href="/System/Breitbart%20Send%20A%20Tip?page=%2fBig-Government%2f2013%2f09%2f24%2fFreedom-of-Travel-Act" data-cbox="true" data-ga-action="Send Tip" data-ga-label="Footer"><span class="tp"></span>Send us a tip</a></li>
+        </ul>                            
+        <h2><a href="/System/Register-Subscribe?page=%2f" data-cbox="true" class="cboxElement" data-ga-action="Subscribe" data-ga-label="Footer">SUBSCRIBE TO THE BREITBART NEWSLETTER</a></h2>
+    </section>
+</div>                    
+                </div>
+            </footer>
+        </div>
+        </form>
+    </body>
+</html>
+
+

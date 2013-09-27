@@ -1,0 +1,557 @@
+<!DOCTYPE html>
+<html>
+    <head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta name="apple-itunes-app" content="app-id=486185699"/>
+    <link rel="profile" href="http://gmpg.org/xfn/11" />
+    <link rel="pingback" href="http://www.vod.io/xmlrpc.php" />
+    <meta name="copyright" content="Copyright (c) February 2012" />
+    <meta name="description" content="Drake talks about his friendship with Texas A&M QB Johnny Manziel with SportsCenter's Jay Crawford and Paul Finebaum." />
+    <meta property="og:title" content="Drake Talks Johnny Manziel With Paul Finebaum" />
+    <meta property="og:description" content="Drake talks about his friendship with Texas A&M QB Johnny Manziel with SportsCenter's Jay Crawford and Paul Finebaum." />
+    <meta property="og:url" content="http://vod.io/yRfct/" />
+    <meta property="og:image" content="http://app.vod.io/video/img/621540559" />
+    <meta property="og:site_name" content="Vod.io" />
+
+
+<meta name="twitter:card" content="player">
+<meta name="twitter:site" content="@vodioapp">
+<meta name="twitter:creator" content="@vodioapp">
+<meta name="twitter:title" content="Drake Talks Johnny Manziel With Paul Finebaum">
+<meta name="twitter:description" content="Drake talks about his friendship with Texas A&M QB Johnny Manziel with SportsCenter's Jay Crawford and Paul Finebaum.">
+<meta name="twitter:image:src" content="http://i1.ytimg.com/vi/TVK46UQ61V0/sddefault.jpg">
+<meta name="twitter:player" content="https://www.youtube.com/v/TVK46UQ61V0">
+<meta name="twitter:player:height" content="470">
+<meta name="twitter:player:width" content="604">
+<meta name="twitter:domain" content="vod.io">
+<meta name="twitter:app:name:iphone" content="Vodio">
+<meta name="twitter:app:name:ipad" content="Vodio">
+<meta name="twitter:app:url:iphone" content="vodio://v/93582sxlkjf">
+<meta name="twitter:app:url:ipad" content="vodio://v/93582sxlkjf">
+<meta name="twitter:app:id:iphone" content="486185699">
+<meta name="twitter:app:id:ipad" content="486185699">
+
+
+
+
+        <meta property="og:type" content="video.other" />
+    <meta property="og:video:url" content="http://vod.io/yRfct/" />
+    <!-- <meta property="og:video:type" content="text/html" /> -->
+    <meta property="og:video:width" content="604" />
+    <meta property="og:video:height" content="470" />
+        <meta property="fb:app_id" content="163761637007550"/>
+    <meta property="fb:admins" content="673328682,701008293"/>
+    <link rel='canonical' href='http://vod.io/yRfct/' />
+    <link rel="image_src" href="http://app.vod.io/video/img/621540559" />
+        <title>Vodio: Drake Talks Johnny Manziel With Paul Finebaum</title>
+        <link type="text/css" href="http://www.vod.io/new_player/scroll/jquery.jscrollpane.css" rel="stylesheet" media="all" />
+        <link rel="stylesheet" href="http://www.vod.io/new_player/player.css" type="text/css" media="all" />
+        <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js" type="text/javascript"></script>
+        <!-- the mousewheel plugin - optional to provide mousewheel support -->
+        <script type="text/javascript" src="http://www.vod.io/new_player/scroll/jquery.mousewheel.js"></script>
+        <!-- the jScrollPane script -->
+        <script type="text/javascript" src="http://www.vod.io/new_player/scroll/jquery.jscrollpane.min.js"></script>
+        <script type="text/javascript" src="http://use.typekit.com/cnk5hwb.js"></script>
+        <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+        <script type="text/javascript">
+        
+        $.support.cors = true;
+        
+        
+        //vars for recommended videos
+        var channel_videos = [];
+        var video_map = {};
+        var post_map = {};
+        var scrollbar;
+        var scrollApi;
+        var platfromIcon = {"1": "rss", "2": "Facebook", "3": "Twitter", "4": "YouTube", "6": "DailyMotion", "7": "AOL"};
+        var ieaddon;
+        if($.browser.msie) ieaddon = '&callback=?';
+        else ieaddon = '';
+        
+        //publish alerts vars
+        var firsttime=false;
+        var alertTO;
+        var pubOn = "The videos you watch will be published onto your Facebook Timeline.";
+        var pubOff = "The videos you watch will no longer be published onto your Timeline.";
+        var bcastStatus = "Off";
+        
+        $(document).ready(function(){
+                
+                //facebook publish toggle event 
+                $("#facebook").on('click', "#toggle", function(){
+
+                        if (bcastStatus == "On") bcastStatus = "Off";
+                        else bcastStatus = "On";
+
+                        $("#bcastMsg").fadeOut('fast',function(){
+                                if (bcastStatus == "On") $("#bcastMsg").html(pubOn);
+                                else $("#bcastMsg").html(pubOff);
+                        }).fadeIn('fast');
+                        setCookie("vodioBcastNew",bcastStatus);
+                        
+                        $('#toggle img').animate({left: 39-parseFloat($('#toggle img').css('left'))},'fast');
+                        
+                        clearTimeout(alertTO);
+                        $('#header').animate({ height: 115},'fast');
+                        
+                        alertTO=setTimeout(function(){
+                                $("#bcastMsg").fadeOut('fast',function(){
+                                        $('#header').animate({ height: 80},'fast');
+                                });
+                        },3000);
+                });
+                
+                //video switch event
+                $("#vids").on('click', '.recVid', function(){
+                        var vid = $(this).attr("vid");
+                        var pid = $(this).attr("pid");
+                        changeVid(vid,pid);
+                });
+                
+                //analytics event
+                $("#footer #social_links a").click(function(){
+                        var title = $(this).attr('title');
+                        _gaq.push(['_trackEvent', title, 'Regular player', 'footer links']);                      
+                });
+
+                $(".appleDlBut").click(function(){
+                        _gaq.push(['_trackEvent', 'itunes', 'Regular player', 'download button']);
+                });
+                
+                $(".androidDlBut").click(function(){
+                        _gaq.push(['_trackEvent', 'android', 'Regular player', 'download button']);
+                });
+                
+                $("#ftBtn").click(function(){
+                        $("#firstAlert").hide();
+                });
+                
+                //initialize FB SDK
+                window.fbAsyncInit = function() {
+                    FB.init({
+                            appId      : '163761637007550',
+                            channelUrl : '//vod.io/channel.html', // Channel File
+                            status     : true, 
+                            cookie     : true,
+                            xfbml      : true,
+                            oauth      : true
+                    });
+                    
+                    //get FB rights status
+                    FB.Event.subscribe('auth.statusChange', function(auth) {
+                            if (auth.status === 'connected')
+                            {
+                                $.get("http://app.vod.io/user_data/sfbt?token="+auth.authResponse.accessToken+"&fb_user_id="+auth.authResponse.userID+"&r=" + (Math.random() * 999+ieaddon));
+                                // prepare and dispaly facebook box
+                                FB.api('/me', {fields: 'picture,name'}, function(user) {
+                                        if (user) {
+                                            $('#facebook #facebookPic').attr('src',user.picture.data.url);
+                                            $('#facebook #facebookName').html(user.name);
+                                            $('#fbLoginContainer').hide();
+                                            $('#fbLoggedContainer').show();
+                                            $('#fbLogout').click(function(){
+                                                    FB.logout(function(response) {
+                                                            //alert('thanks');
+                                                            $('#fbLoggedContainer').hide();
+                                                            $('#fbLoginContainer').show();
+                                                    })
+                                            });
+                                        }
+                                });
+                                
+                                bcastStatus=getCookie("vodioBcastNew");
+                                if (bcastStatus==null){
+                                    bcastStatus="On";
+                                    $("#firstAlert").show();
+                                }
+
+                                if (bcastStatus=='On') $('#toggle img').css('left', '39px').show();
+                                else $('#toggle img').css('left', '0px').show();
+                                
+                                                                    // publish video
+                                    if (bcastStatus=="On") publishVid('http://vod.io/yRfct/', 252);
+                                                            }
+                    });
+                };
+                
+                (function(d){
+                        var js, id = 'facebook-jssdk'; if (d.getElementById(id)) {return;}
+                        js = d.createElement('script'); js.id = id; js.async = true;
+                        js.src = "//connect.facebook.net/en_US/all.js";
+                        d.getElementsByTagName('head')[0].appendChild(js);
+                }(document));
+                
+                //load twitter sdk
+                !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
+                
+                //load google plus sdk
+                (function() {
+                        var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+                        po.src = 'https://apis.google.com/js/plusone.js';
+                        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+                })();
+                
+                //make pretty scrollers
+                scrollbar = $('#vids').jScrollPane({});
+                scrollApi = scrollbar.data('jsp');
+                
+                //when scroll reach the end, call for 4 more vids
+                $("#vids").bind("jsp-scroll-y", function(event, scrollPositionY, isAtBottom, isAtTop) {
+                        var height = $('#more #vids .jspPane').height();
+                        var pos = parseInt($('#more #vids .jspPane').css('top').replace("px",""));
+                        var viewport = $('#more #vids').height();
+                        if (height + pos <= viewport + 50)
+                            getNextVideos($(".recVid").length,4);
+                });
+                
+                //call for recommended videos list, add first 4 visd to map, then populate them (call to getNextVids but since they already in map they will be populated)
+                $.getJSON('http://app.vod.io/user_data/get_channel/?channel_id=219018&user_id=1'+ieaddon,function(data){
+                        channel_videos = data.channel.videos;
+                        for(var i = 0, vid; vid = data.initial_data.videos[i]; i++){
+                            video_map[vid.v] = vid;
+                        }
+                        for(var i = 0, post; post = data.initial_data.posts[i]; i++){
+                            post_map[post.p] = post;
+                        }
+                        $("#channelName").html(data.channel.name);
+                        getNextVideos(0,4);
+                        
+                                        });
+                
+                //setTimeout("checkIpad()",5);
+
+        });
+        
+        function getNextVideos(start,num){
+            var urlString='';
+            for(var i=start;i<(start+num);i++)
+            {
+                var v = (channel_videos[i]).v
+                var p = (channel_videos[i]).p
+                
+                //add place holder for vid
+                addVid(v,p);
+                
+                //add vid details or save for retrieval
+                if(video_map[v])
+                    populateVideo(video_map[v]);
+                else
+                urlString+='&v='+v;
+                if(post_map[p])
+                    populatePost(post_map[p]);
+                else
+                urlString+='&p='+p;
+            }
+            
+            //retrieve missing vids
+            if(urlString!='')
+            {
+                //call for details
+                $.getJSON('http://app.vod.io/video/get_videos_posts/',urlString+ieaddon,function(data){
+                        
+                        //populate and save in map
+                        for(var i = 0, vid; vid = data.videos[i]; i++){
+                            populateVideo(vid);
+                            video_map[vid.v] = vid;
+                        }
+                        for(var i = 0, post; post = data.posts[i]; i++){
+                            populatePost(post);
+                            post_map[post.p] = post;
+                        }
+                        
+                });
+            }
+        }
+        
+        function addVid(v,p) //add placeholder vid
+        {
+            $('#more #vids #vidLoader').before('<div class="recVid" id="v'+v+'" vid="'+v+'" pid="'+p+'">'+
+                '<img src="http://www.vod.io/new_player/images/recVid.png" class="vidThumb">'+
+                '<div class="vidNotif p'+p+'">'+
+                '<div class="socialConnection"></div>'+
+                '<span class="vidTitle"></span>'+
+                '<strong class="sharer"></strong>'+
+                '<span class="time"></span>'+
+                '</div>'+
+                '</div>');
+            scrollApi.reinitialise();
+            //scrollbar.tinyscrollbar_update(parseInt($('#more .overview').css('top').replace("px","")));
+        }
+        
+        function populateVideo(videoData) //add vid details to right place
+        {
+            $('#v'+videoData.v+' .vidThumb').attr("src",videoData.thumbnail);
+            $('#v'+videoData.v+' .vidTitle').html(videoData.title);
+        }
+        
+        function populatePost(postData) //ad post details to right place
+        {
+            $('.p'+postData.p+' .socialConnection').html('<img src="'+postData.sharer_thumb+'" class="sharerThumb"><!-- <img src="http://www.vod.io/new_player/images/'+ platfromIcon[postData.type] +'Icon.png" class="socialPlatform"> -->');
+            $('.p'+postData.p+' .sharer').html(postData.sharer_name);
+            var posttime = postData.time.replace(/-/g,'/');
+            var posttimeParsed = Date.parse(posttime);
+            $('.p'+postData.p+' .time').html(humanTiming(posttimeParsed)+' ago');            
+        }
+        
+        function setCookie(c_name,value)
+        {
+            var exdate=new Date();
+            exdate.setDate(exdate.getDate() + 365);
+            var c_value=escape(value) + ((365==null) ? "" : "; path=/; expires="+exdate.toUTCString());
+            document.cookie=c_name + "=" + c_value;
+        }
+        
+        function getCookie(c_name)
+        {
+            var i,x,y,ARRcookies=document.cookie.split(";");
+            for (i=0;i<ARRcookies.length;i++)
+            {
+                x=ARRcookies[i].substr(0,ARRcookies[i].indexOf("="));
+                y=ARRcookies[i].substr(ARRcookies[i].indexOf("=")+1);
+                x=x.replace(/^\s+|\s+$/g,"");
+                if (x==c_name)
+                {
+                    return unescape(y);
+                }
+            }
+        }
+        
+        function publishVid(vidUrl,vidDur){
+            FB.api('/me/video.watches', 'post', { video: vidUrl, expires_in: vidDur },function(response) {
+                    if (response.error) console.error(response.error);
+            });
+        }
+        
+        function changeVid(vid,pid)
+        {
+            var video = video_map[vid];
+            var post = post_map[pid];
+            var embedCode;
+            switch (video.type)
+            {
+                case 4:
+                    embedCode = '<object type="application/x-shockwave-flash" style="width:606px; height:368px;" data="http://www.youtube.com/v/'+video.original_id+'?rel=0&amp;hd=1&amp;autoplay=1&amp;showsearch=0&amp;version=3&amp;modestbranding=1&amp;fs=1">'+
+                    '<param name="movie" value="http://www.youtube.com/v/'+video.original_id+'?rel=0&amp;hd=1&amp;autoplay=1&amp;showsearch=0&amp;version=3&amp;modestbranding=1&amp;fs=1" />'+
+                    '<param name="allowFullScreen" value="true" />'+
+                    '<param name="allowscriptaccess" value="always" />'+
+                    '<param name="wmode" value="opaque">'+
+                    '</object>';
+                    break;
+                    
+                case 6:
+                    embedCode = '<iframe frameborder="0" width="606" height="368" src="http://www.dailymotion.com/embed/video/'+video.original_id+'?logo=0&autoPlay=1"></iframe>';
+                    break;
+                    
+                case 7:
+                    embedCode = '<object width="606" height="368" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000">'+
+                    '<param name="allowfullscreen" value="true"/>'+
+                    '<param name="allowScriptAccess" value="always"/>'+
+                    '<param name="movie" value="http://embed.5min.com/'+video.original_id+'/&autoStart=true"/>'+
+                    '<param name="wmode" value="opaque" />'+
+                    '<embed src="http://embed.5min.com/'+video.original_id+'/&autoStart=true" type="application/x-shockwave-flash" width="606" height="368" allowfullscreen="true" allowScriptAccess="always" wmode="opaque">'+
+                    '</embed>'+
+                    '</object>';
+                    break;
+                
+                case 5:
+                    embedCode = '<iframe src="http://player.vimeo.com/video/'+video.original_id+'?title=0&amp;byline=0&amp;portrait=0&amp;autoplay=1" width="606" height="368" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>';
+                    break;
+        
+                case 2:
+                    embedCode = '<object width="606" height="368" >'+
+                    '<param name="allowfullscreen" value="true" />'+
+                    '<param name="movie" value="http://www.facebook.com/v/'+video.original_id+'" />'+
+                    '<embed src="http://www.facebook.com/v/'+video.original_id+'" type="application/x-shockwave-flash" allowfullscreen="true" width="606" height="368">'+
+                    '</embed>'+
+                    '</object>';
+                    break;
+    
+                case 8:
+                    embedCode = '<embed allowfullscreen="true" allowscriptaccess="always" id="viddy-player-'+video.original_id+'" name="viddy-player-'+video.original_id+'" src="http://www.viddy.com/swf/player.swf?file=http%3a%2f%2fcdn.viddy.com%2fmedia%2fvideo%2f'+video.original_id+'-high.mp4%3ft%3d634715037006636870&image=http%3a%2f%2fcdn.viddy.com%2fimages%2fvideo%2f'+video.original_id+'.jpg%3ft%3d634715037006636870&skin=http%3a%2f%2fwww.viddy.com/player/assets/skins/viddy.xml" width="606" height="368"/>';
+                    break;
+            }
+
+            var posttime = post.time.replace(/-/g,'/');
+            var posttimeParsed = Date.parse(posttime);
+            var timeAgo = humanTiming(posttimeParsed);
+
+            $("#player").html('<h1>'+video.title+'</h1>'+
+                '<div id="actualPlayer">'+
+                    embedCode+
+                    '<!-- <div style="background:#fff;height:368px;width:606px;border:1px solid #333;margin-bottom:8px;"></div> -->'+
+                '</div>'+
+                '<div id="vidLikes">'+
+                    '<a href="https://twitter.com/share" class="twitter-share-button" data-text="'+video.title+'" data-url="'+video.url+'" data-via="vodioapp" data-count="none">Tweet</a> '+
+                    '<a href="http://pinterest.com/pin/create/button/?url='+video.url+'>/&media='+video.thumbnail+'&description='+video.title+'" class="pin-it-button" count-layout="none">Pin It</a> '+
+                    '<g:plusone size="medium" annotation="none" href="'+video.url+'"></g:plusone>'+
+                    '<div class="fb-like" data-send="false" data-show-faces="false" data-width="71" data-layout="button_count" data-href="'+video.url+'"></div> '+
+                '</div>'+
+                '<div id="post">'+
+                    '<div class="socialConnection"><img src="'+post.sharer_thumb+'" style="width:42px;height:42px;"><img src="http://www.vod.io/new_player/images/'+ platfromIcon[post.type]+'Icon.png" class="socialPlatform"></div>'+
+                    '<span>'+timeAgo+' ago by '+post.sharer_name+' via '+ platfromIcon[post.type]+'</span>'+
+                '</div>');
+            
+            FB.XFBML.parse(document.getElementById('vidLikes'));
+            twttr.widgets.load();
+            $.ajax({ url: 'http://assets.pinterest.com/js/pinit.js', dataType: 'script', cache:true});
+            gapi.plusone.go("vidLikes");
+            if (bcastStatus=="On") publishVid(video.url, video.duration);
+            
+        }
+        
+        function humanTiming (time)
+        {
+            var d = new Date();
+            var offset = d.getTimezoneOffset()*60*1000
+            var currentTime = d.getTime() + offset;
+            var time = currentTime - time; // to get the time since that moment
+            time = time / 1000;
+            
+            var tokens = [
+            {'unit': 31536000, 'text': 'year'},
+            {'unit': 2592000, 'text': 'month'},
+            {'unit': 604800, 'text': 'week'},
+            {'unit': 86400, 'text': 'day'},
+            {'unit': 3600, 'text': 'hour'},
+            {'unit': 60, 'text': 'minute'},
+            {'unit': 1, 'text': 'second'}
+            ];
+            
+            for (var i=0; i<tokens.length;i++) {
+                if (time < tokens[i].unit) continue;
+                numberOfUnits = Math.floor(time / tokens[i].unit);
+                return numberOfUnits+' '+tokens[i].text+((numberOfUnits>1)?'s':'');
+            }
+
+        }
+        
+        function checkIpad(){
+        	//ipad alert
+        	var isiPad = navigator.userAgent.match(/iPad/i) != null;
+        	if(isiPad)
+        	{
+        		var ipadcookie=getCookie("ipad_user_alertedNew");
+        		if (ipadcookie==null)
+        		{
+				setCookie("ipad_user_alertedNew","yes");
+				var r = confirm("Hello iPad User!\nTo enjoy Vodio as it's meant to be, download the iPad app");
+				if(r==true)
+				{
+					_gaq.push(['_trackEvent', 'itunes' , 'Regular player', 'popup']);
+					window.location = 'http://app.appsflyer.com/vodio/?c=regular_player_popup';
+				}
+			}
+		}
+	}
+
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-27156488-1']);
+        _gaq.push(['_setDomainName', 'vod.io']);
+        _gaq.push(['_trackPageview']);
+        
+        (function() {
+        		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+
+        </script>
+    </head>
+    <body>
+    <div id="fb-root"></div>
+    <div id="wrapper">
+        <div id="header">
+            <div class="canvasSize">
+                <a href="http://www.vod.io/"><img src="http://www.vod.io/wp-content/themes/skeleton-2/images/logo.png"></a>
+                <img src="http://www.vod.io/new_player/images/headerSep.png" class="sep">
+                <a href="http://vod.io/hot100">Hot 100</a>
+                <img src="http://www.vod.io/new_player/images/headerSep.png" class="sep">
+                <a href="http://www.vod.io/blog/">Blog</a>
+                <img src="http://www.vod.io/new_player/images/headerSep.png" class="sep">
+                <!-- <a href="">Categories</a>
+                <img src="http://www.vod.io/new_player/images/headerSep.png" class="sep"> -->
+                <div id="facebook">
+                    <div id="fbLoginContainer">
+                        <img src="http://www.vod.io/new_player/images/headerSep.png" class="sep">
+                        <div class="fb-login-button" data-scope="publish_actions, email">Login with Facebook</div>
+                    </div>
+                    <div id="fbLoggedContainer">
+                        <div id="facebookText"><span id="facebookName"></span><br><span class="textLink" id="fbLogout">Logout</span></div>
+                        <img src="http://www.vod.io/new_player/images/headerSep.png" class="sep">
+                        Publishing: <div id="toggle"><img src="http://www.vod.io/new_player/images/toggleBtn.png"></div>
+                        <img src="http://www.vod.io/new_player/images/headerSep.png" class="sep">
+                        <img src="http://www.vod.io/new_player/images/facebookImage.png" id="facebookPic">
+                    </div>
+                </div>
+                <div id="firstAlert">
+                    <span id="ftTitle"><img src="http://www.vod.io/new_player/images/fb4ft.png">&nbsp;&nbsp;&nbsp;New! Add Vodio to your Facebook Timeline.</span>
+                    <div id="ftBody">
+                        <p id="ftVodio">Vodio keeps you updated with everything you're interested in by matching your personal taste and preference.</p>
+                        <img src="http://www.vod.io/new_player/images/logo.png">
+                        <div id="ftText">Click the button above to turn publishing On or Off.</div>
+                        <div id="ftBtn">Close Window</div>
+                    </div>
+                </div>
+            </div>
+            <div id="bcastMsg"></div>
+        </div>
+        <div id="content" class="canvasSize">
+            <div id="player" class="blackBG">
+                            <h1>Drake Talks Johnny Manziel With Paul Finebaum</h1>
+                <div id="actualPlayer">
+                    <object type="application/x-shockwave-flash" style="width:606px; height:368px;" data="http://www.youtube.com/v/TVK46UQ61V0?rel=0&amp;hd=1&amp;autoplay=1&amp;showsearch=0&amp;version=3&amp;modestbranding=1&amp;fs=1">
+                <param name="movie" value="http://www.youtube.com/v/TVK46UQ61V0?rel=0&amp;hd=1&amp;autoplay=1&amp;showsearch=0&amp;version=3&amp;modestbranding=1&amp;fs=1" />
+                <param name="allowFullScreen" value="true" />
+                <param name="allowscriptaccess" value="always" />
+                <param name="wmode" value="opaque">
+                </object>                    <!-- <div style="background:#fff;height:368px;width:606px;border:1px solid #333;margin-bottom:8px;"></div> -->
+                </div>
+                <div id="vidLikes">
+                    <a href="https://twitter.com/share" class="twitter-share-button" data-text="Drake Talks Johnny Manziel With Paul Finebaum" data-via="vodioapp" data-count="none">Tweet</a>
+                    
+                    <a href="http://pinterest.com/pin/create/button/?url=http://vod.io/yRfct/&media=http://app.vod.io/video/img/621540559&description=Drake Talks Johnny Manziel With Paul Finebaum" class="pin-it-button" count-layout="none">Pin It</a>
+                    <script type="text/javascript" src="http://assets.pinterest.com/js/pinit.js"></script>
+                    
+                    <g:plusone size="medium" annotation="none"></g:plusone>
+
+                    <div class="fb-like" data-send="false" data-show-faces="false" data-width="71" data-layout="button_count" ></div>
+                </div>
+                                <div id="post">
+                    <div class="socialConnection"><img src="http://graph.facebook.com/147262525292598/picture" style="width:42px;height:42px;"><img src="http://www.vod.io/new_player/images/TwitterIcon.png" class="socialPlatform"></div>
+                    <span>2 days ago by SportsCenter via Twitter</span>
+                </div>
+                                        </div>
+            <div id="more" class="blackBG">
+                <h2 id="channelName"></h2>
+                <img src="http://www.vod.io/new_player/images/shadeTop.png" id="ST">
+                <img src="http://www.vod.io/new_player/images/shadeBottom.png" id="SB">
+                <div id="vids">
+                            <img src="http://www.vod.io/new_player/images/loader.gif" id="vidLoader" style="height:50px;display:block;margin:0px auto;">
+                </div>
+                
+            </div>
+            <p id="tag">We make video discovery fun and easy.<br>
+                <a href="http://app.appsflyer.com/vodio/?c=regular_player" target="_blank" class="appleDlBut"><img src="/wp-content/themes/skeleton-2/images/apple.png"></a>
+                &nbsp;&nbsp;&nbsp;
+                <a href="https://play.google.com/store/apps/details?id=com.app.vodio" target="_blank" class="androidDlBut"><img src="/wp-content/themes/skeleton-2/images/android.png"></a>
+            </p>
+        </div>
+        <div class="push"></div>
+    </div>
+    <div class="footer">
+        <div class="canvasSize">
+        <div id="socialLinks">Follow us: <a href="https://www.facebook.com/VodioApp" title="facebook" target="_blank"><img src="http://www.vod.io/new_player/images/icnFB.png"></a><a href="https://twitter.com/#!/vodioapp" title="twitter" target="_blank"><img src="http://www.vod.io/new_player/images/icnTwitter.png"></a><a href="https://plus.google.com/u/0/108789935744304002918/posts" title="rss" target="_blank"><img src="http://www.vod.io/new_player/images/icnG.png"></a><a href="http://www.youtube.com/user/VodioApp/videos" title="youtube" target="_blank"><img src="http://www.vod.io/new_player/images/icnYT.png"></a><a href="http://www.vod.io/blog/category/blog/feed/" title="rss" target="_blank"><img src="http://www.vod.io/new_player/images/icnRSS.png"></a></div>
+        <div class="credit">UX/GUI by <a href="http://www.matnasinteractive.com/?en">MTNS</a> Developed by <a href="http://www.boaideas.com">BOA Ideas</a></div>
+            <span>&copy; 2012 Vodio Labs Ltd.
+            <a href="http://www.vod.io/about-us/" class="first">About</a>
+            <a href="https://getsatisfaction.com/vodio">Help</a>
+            <a href="http://www.vod.io/blog/">Blog</a>
+            <a href="http://www.vod.io/reach-out-to-us/">Contact</a>
+            <a href="http://www.vod.io/terms/">Terms</a>
+            <a href="http://www.vod.io/privacy/">Privacy</a></span>
+        </div>
+    </div>
+    </body>
+</html>
+

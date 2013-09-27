@@ -1,0 +1,1231 @@
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+
+
+
+	
+	
+	
+	
+	
+
+
+<html lang="en" class="no-js">
+	
+<!-- fi:/csp/mediapool/sites/Advocate/assets/csp/head.csp -->
+<head>
+	<script>
+		if (location.href.indexOf("http://classifieds.theadvocate.com") >= 0 || location.href.indexOf("http://www.classifieds.theadvocate.com") >= 0) {
+			location.href = "http://theadvocate.com";
+		}
+	</script>
+	
+	
+	
+	<meta http-equiv="content-type" content="text/html; charset=utf-8">
+	
+	
+	
+	<title>Saints’ defense up 7 spots to 4th in NFL rankings | Sports | The Advocate &mdash; Baton Rouge, LA</title>
+	
+	<meta name="description" content="With three encouraging defensive performances behind them, the Saints continued their rapid rise up the NFL stats on Tuesday.
+After allowin&hellip;">
+	<meta name="keywords" content="Baton Rouge, Louisiana, 2theadvocate, The Advocate, Advocate, Louisiana Legislature, Louisiana News, Louisiana Politics, Louisiana Entertainment, Louisiana Weather, LSU, SU, The Saints, Louisiana Business, Louisiana Obituaries, Louisiana Classifieds, Louisiana Autos, Louisiana Homes, Louisiana Jobs, Louisiana High School Sports, Louisiana Prep Sports, Louisiana State University, Southern University, Louisiana Breaking News, Louisiana Music, Louisiana Movies">
+	
+	
+	
+	
+		
+		<meta property="og:title" content="Saints’ defense up 7 spots to 4th in NFL rankings">
+		<meta property="og:type" content="article">
+		
+		
+		
+		
+		<meta property="og:image" content="http://theadvocate.com/csp/mediapool/sites/dt.common.streams.StreamServer.cls?STREAMOID=eNNRTRF6qoqp8nWmYextjc$daE2N3K4ZzOUsqbU5sYv0Mbra6t$n7MG0wcNI91HOWCsjLu883Ygn4B49Lvm9bPe2QeMKQdVeZmXF$9l$4uCZ8QDXhaHEp3rvzXRJFdy0KqPHLoMevcTLo3h8xh70Y6N_U_CryOsw6FTOdKL_jpQ-&CONTENTTYPE=image/jpeg">
+		<meta property="og:url" content="http://theadvocate.com/sports/7144299-128/saints-defense-up-seven-spots">
+		<meta property='og:description' content='With three encouraging defensive performances behind them, the Saints continued their rapid rise up the NFL stats on Tuesday. After allowing a season-low 247 total yards in &hellip;'>
+		<meta property="fb:app_id" content="514908288573846">
+		
+		<link rel="canonical" href="http://theadvocate.com/sports/7144299-128/saints-defense-up-seven-spots">
+	
+	
+		
+	
+	<meta name="viewport" content="width=1050">
+		
+	<link rel="shortcut icon" href="/csp/mediapool/sites/Advocate/assets/img/theadvocate.ico">
+	
+	<!--[if lt IE 9]>
+	<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+	<!--[if !IE 6]><!-->
+	<link rel="stylesheet" type="text/css" href="/csp/mediapool/sites/Advocate/assets/css/screen.v2.css" media="all">
+	<!--<![endif]-->
+	<!--[if IE 6]>
+	<csp:comment>TODO Add IE 6 upgrade message. -NGS</csp:comment>
+	<![endif]-->
+	<!--[if lt IE 9]>
+	<style type="text/css">
+	#nav, #sub-nav, #content, #footer { width: 990px; }
+	</style>
+	<![endif]-->
+	
+	<link rel="stylesheet" type="text/css" href="/csp/mediapool/sites/Advocate/assets/css/jd.gallery.css" media="screen">
+	<link rel="stylesheet" type="text/css" href="/csp/mediapool/sites/Advocate/assets/css/signin.css" media="screen"/>
+	<!--[if lt IE 9]>
+	<script src="#(gPublication.getPublicationPath())#/assets/js/ie-css3.js"></script>
+	<![endif]-->
+	<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+	<script type="text/javascript">var $j = jQuery.noConflict();</script>
+	<script type="text/javascript" src="/csp/mediapool/sites/Advocate/assets/js/jquery.cookie.js"></script>
+	<script type="text/javascript" src="/csp/mediapool/sites/Advocate/assets/js/jquery.timers.js"></script>
+	<script type="text/javascript" src="/csp/mediapool/sites/Advocate/assets/js/jquery.fancybox-1.3.1.pack.js"></script>
+	<script type="text/javascript" src="/csp/mediapool/sites/Advocate/assets/js/onload.js"></script>
+	<script type="text/javascript" src="/csp/mediapool/sites/Advocate/assets/js/get-user.2.js"></script>
+	<script type="text/javascript" src="/csp/mediapool/sites/Advocate/assets/js/mootools.v1.11.js"></script>
+	<script type="text/javascript" src="/csp/mediapool/sites/Advocate/assets/js/jd.gallery.js"></script>
+	<script type="text/javascript" src="/csp/mediapool/sites/Advocate/assets/js/jd.gallery.transitions.js"></script>
+	<script src="/csp/mediapool/sites/Advocate/assets/js/jquery.colorbox-min.js" type="text/javascript"></script>
+	<script src="/csp/mediapool/sites/Advocate/assets/js/audio-player.js" type="text/javascript"></script>
+	<script type="text/javascript">
+		AudioPlayer.setup('/csp/mediapool/sites/Advocate/assets/swf/audio-player.swf', {
+			width: 400,
+			animation: 'no'
+		});
+	</script>
+	
+<!-- fi:/csp/mediapool/sites/Advocate/assets/csp/loadjquery.csp -->
+
+	
+		<script type="text/javascript">
+			jQuery.noConflict();
+			try {
+				jQuery(document).ready(function() {
+					// Sign In Form
+					jQuery(".signin").click(function(e) {          
+						e.preventDefault();
+						jQuery("fieldset#signin_menu").toggle();
+						jQuery(".signin").toggleClass("menu-open");
+					});
+					jQuery("fieldset#signin_menu").mouseup(function() {
+						return false
+					});
+					jQuery(document).mouseup(function(e) {
+						if(jQuery(e.target).parent("a.signin").length==0) {
+							jQuery(".signin").removeClass("menu-open");
+							jQuery("fieldset#signin_menu").hide();
+						}
+					});
+					// Close Sign In Form
+					jQuery("#signin_close").click(function() {
+						jQuery(".signin").removeClass("menu-open");
+						jQuery("fieldset#signin_menu").hide();
+					});
+	
+			  });
+			} catch (e) {
+				alert(e);
+			}
+		</script>
+	
+
+<!--/fi:/csp/mediapool/sites/Advocate/assets/csp/loadjquery.csp, e:.000091 -->
+
+	<script type="text/javascript" src="/csp/mediapool/sites/Advocate/assets/js/mediamind.js"></script>
+	
+	<script src="http://maps.google.com/maps/api/js?sensor=false&amp;key=AIzaSyC-WX8PRakfllanhIHh5DqSv8vCLSBjrSo"></script>
+ 
+	<script type="text/javascript">
+	  var _gaq = _gaq || [];
+	  _gaq.push(['_setAccount', 'UA-24610917-1']);
+	  _gaq.push(['_setDomainName', 'none']);
+	  _gaq.push(['_setAllowLinker', true]);
+	  _gaq.push(['_trackPageview']);
+	
+	  (function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	  })();
+	</script>
+			
+	<script type='text/javascript'>
+	var googletag = googletag || {};
+	googletag.cmd = googletag.cmd || [];
+	(function() {
+	var gads = document.createElement('script');
+	gads.async = true;
+	gads.type = 'text/javascript';
+	var useSSL = 'https:' == document.location.protocol;
+	gads.src = (useSSL ? 'https:' : 'http:') + 
+	'//www.googletagservices.com/tag/js/gpt.js';
+	var node = document.getElementsByTagName('script')[0];
+	node.parentNode.insertBefore(gads, node);
+	})();
+	</script>
+
+	
+<!-- fi:/csp/mediapool/sites/Advocate/assets/dfp/loader.csp -->
+
+	
+
+	
+	
+	<meta name="dfp-story-category" content="sports">
+	
+	<script type='text/javascript'>
+	googletag.cmd.push(function() {
+	
+		
+<!-- fi:/csp/mediapool/sites/advocate/assets/dfp/sections/sports.csp -->
+googletag.defineSlot('/9125322/Advocate_News-Sports_McDonalds_300x250', [300, 250], 'div-gpt-ad-1340671644460-0').addService(googletag.pubads());
+googletag.defineSlot('/9125322/Advocate_Sports_300x250', [300, 250], 'div-gpt-ad-1340477828418-0').addService(googletag.pubads());
+googletag.defineSlot('/9125322/Advocate_Sports_300x250', [300, 250], 'div-gpt-ad-1340671644460-6').addService(googletag.pubads());
+googletag.defineSlot('/9125322/Advocate_Sports_300x250', [300, 250], 'div-gpt-ad-1340671644460-7').addService(googletag.pubads());
+googletag.defineSlot('/9125322/Advocate_Sports_300x250', [300, 250], 'div-gpt-ad-1340671644460-8').addService(googletag.pubads());
+googletag.defineSlot('/9125322/Advocate_Sports_728x90', [728, 90], 'div-gpt-ad-1340671644460-2').addService(googletag.pubads());
+googletag.defineSlot('/9125322/Advocate_Sports_FFanatics_160x300', [160, 300], 'div-gpt-ad-1340671644460-3').addService(googletag.pubads());
+googletag.defineSlot('/9125322/Advocate_Sports_Poll_300x30', [300, 30], 'div-gpt-ad-1340671644460-4').addService(googletag.pubads());
+googletag.defineSlot('/9125322/Advocate_SportsHub_160x600', [160, 600], 'div-gpt-ad-1340671644460-5').addService(googletag.pubads());
+googletag.defineSlot('/9125322/Advocate_BusinessBuilder_HomeSports_300x250', [300, 250], 'div-gpt-ad-1358178147893-0').addService(googletag.pubads());
+googletag.defineSlot('/9125322/Advocate_Sports_960x30', [960, 30], 'div-gpt-ad-1352402072201-1').addService(googletag.pubads());
+googletag.defineSlot('/9125322/Advocate_HeaderAd_240x90', [240, 90], 'div-gpt-ad-1345480896925-13').addService(googletag.pubads());
+<!--/fi:/csp/mediapool/sites/advocate/assets/dfp/sections/sports.csp, e:.000618 -->
+
+	
+	googletag.pubads().enableSingleRequest();
+	googletag.enableServices();
+	});
+	</script>
+
+<!--/fi:/csp/mediapool/sites/Advocate/assets/dfp/loader.csp, e:.001088 -->
+
+</head>
+<!--/fi:/csp/mediapool/sites/Advocate/assets/csp/head.csp, e:.003872 -->
+
+
+	<body class="sports story" id="theadvocate-com">
+		
+<!-- fi:/csp/mediapool/sites/Advocate/assets/csp/comscoretag.csp -->
+<script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "15284153" });
+  (function() {
+	var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+	s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b" <http://b%22> ) + ".scorecardresearch.com/beacon.js";
+	el.parentNode.insertBefore(s, el);
+  })();
+</script>
+<noscript>
+  <img src="http://b.scorecardresearch.com/p?c1=2&c2=15284153&cv=2.0&cj=1"/>
+</noscript>
+<!--/fi:/csp/mediapool/sites/Advocate/assets/csp/comscoretag.csp, e:.000143 -->
+
+		
+<!-- fi:/csp/mediapool/sites/Advocate/assets/csp/quantservetag.csp -->
+<script type="text/javascript">
+	var _qevents = _qevents || [];
+	 
+	(function() {
+	var elem = document.createElement('script');
+	elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+	elem.async = true;
+	elem.type = "text/javascript";
+	var scpt = document.getElementsByTagName('script')[0];
+	scpt.parentNode.insertBefore(elem, scpt);
+	})();
+	 
+	_qevents.push({
+	qacct:"p-JCQx0zyk3pgwT"
+	});
+</script>
+<noscript>
+	<div style="display:none;">
+		<img src="//pixel.quantserve.com/pixel/p-JCQx0zyk3pgwT.gif" border="0" height="1" width="1" alt="Quantcast"/>
+	</div>
+</noscript>
+<!--/fi:/csp/mediapool/sites/Advocate/assets/csp/quantservetag.csp, e:.000084 -->
+
+		
+	
+		<div id="fb-root"></div>
+		<script>(function(d, s, id) {
+			var js, fjs = d.getElementsByTagName(s)[0];
+			if (d.getElementById(id)) return;
+			js = d.createElement(s); js.id = id;
+			js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=514908288573846";
+			fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));</script>
+		
+		
+		
+		
+<!-- fi:/csp/mediapool/sites/Advocate/assets/csp/subscriptionbar.csp -->
+
+
+<script type="text/javascript">
+$j(document).ready(function() {
+	var open = false;
+	// Subscription panel
+	$j('#subscribe_adv_2 a[href=#subscribe_adv_1]').click(function() {
+		if (!open) {
+			$j('#subscribe_adv_1').slideDown(500);
+			$j('#peelback').animate({ top: '+=121px' }, 500);
+			open = true;
+		} else {
+			$j('#subscribe_adv_1').slideUp(500);
+			$j('#peelback').animate({ top: '-=121px' }, 500);
+			open = false;
+		}
+	});
+});
+</script>
+
+<div id="subscribe_adv_1">
+	<div class="inner">
+		<div style="width: 468px; height: 60px; position: relative; background: url(/csp/mediapool/sites/Advocate/assets/img/subbar-2_01.jpg) no-repeat; float: left;">
+			<a title="Connect with us on Facebook (This link will open in a new window)" href="http://www.facebook.com/pages/The-Advocate-Baton-Rouge-LA/116940102523" target="_blank" style="display: block; width: 130px; height: 60px; position: absolute; left: 189px; top: 0; background: url(/csp/mediapool/sites/Advocate/assets/img/subbar-2_02.jpg); text-indent: -9999px;">theadvocate on Facebook</a>
+			<a title="Follow us on Twitter (This link will open in a new window)" href="http://twitter.com/theadvocate" target="_blank" style="display: block; width: 131px; height: 60px; position: absolute; left: 319px; top: 0; background: url(/csp/mediapool/sites/Advocate/assets/img/subbar-2_03.jpg); text-indent: -9999px;">theadvocate on Twitter</a>
+		</div>
+		<div class="subscribe_adv_a">
+			<h1>Subscriber services</h1>
+			<ul>
+				<li><a href="/subscriptions/">Temporary stop delivery (vacation)</a></li>
+				<!--<li><a href="/subscriptions/">Gift subscriptions</a></li>-->
+				<li><a href="/help/contact/">Contact us</a></li>
+			</ul>
+		</div>
+		<div class="subscribe_adv_b">
+			<h1>Subscribe to The Advocate</h1>
+			<ul>
+				<li><a href="/subscriptions/">Start a Home Delivery subscription</a></li>
+				<li><a href="http://eeidtion.theadvocate.com">Start an eEdition subscription</a></li>
+				<li><a href="/subscriptions/">Customer service</a></li>
+			</ul>
+		</div>
+	</div>
+</div>
+
+<div id="subscribe_adv_2">
+	<div class="inner">
+		<ul class="links">
+			<li style="margin-right:25px;"><a href="/subscriptions/">Subscribe to The Advocate</a></li>
+			<li style="margin-right:25px;"><a href="http://eedition.theadvocate.com">eEdition Login</a></li>
+			<li><a href="https://braiservices.dticloud.com/cgi-bin/cmo_cmo.sh/custservice/web/login.html">Manage Subscriptions</a></li>
+		</ul>
+		
+		<a id="media-kit-link" href="/mediakit/">Advertise</a>
+		
+		<style type="text/css">
+			#subscribe_adv_2 .links li a {
+				border: none;
+				padding: 0;
+			}
+			
+			#media-kit-link {
+				float: right;
+				font-size: 11px;
+				font-weight: bold;
+				line-height: 30px;
+				margin-right: 370px;
+			}
+		
+			#user-management {
+				background: #333;
+				border: 1px solid #111;
+				border-radius: 0 0 3px 3px;
+				border-top: none;
+				box-shadow: 0 0 5px rgba(0,0,0,0.4);
+				position: absolute;
+				right: 0;
+				top: 0;
+				text-shadow: none;
+				width: 350px;
+			}
+			
+			#user-management .contents {
+				border: 1px solid #666;
+				border-radius:  0 0 3px 3px;
+				border-top: none;
+				height: 35px;
+				line-height: 35px;
+				overflow: hidden;
+				padding: 0 10px;
+			}
+			
+			#user-management p {
+				font-size: 13px;
+				font-style: italic;
+				font-family: Georgia;
+				float: left;
+			}
+			
+			#user-management p.not-logged-in {
+				font-style: normal;
+			}
+			
+			#user-management .options {
+				float: right;
+			}
+			
+			#user-management .button {
+				padding: 3px 5px;
+				border: 1px solid #333;
+				border-bottom: 1px solid #222;
+				font: bold 10px "Helvetica Neue", Arial, sans-serif;
+				color: #333;
+				text-shadow: 1px -1px 0 rgba(255,255,255,0.8);
+				border-radius: 4px;
+				cursor: pointer;
+				background: #e5e5e5;
+				background: -webkit-gradient(linear, left top, left bottom, from(#ededed), to(#e5e5e5));
+				background: -moz-linear-gradient(top, #ddd, #d5d5d5);
+				text-transform: uppercase;
+				opacity: 0.9;
+				margin: -3px 0 0 5px;
+			}
+			
+			#user-management .button:hover {
+				opacity: 1;
+				text-decoration: none;
+			}
+		</style>
+	
+		<div id="user-management">
+			<div class="contents">
+				
+					<p class="not-logged-in">Welcome to theadvocate.com!&rarr;</p>
+					<div class="options" style="background: url(http://theadvocate.com/csp/mediapool/sites/Advocate/assets/img/signin-loader.gif) center no-repeat; height: 35px; min-width: 80px;">
+						<div class="wait" style="display: none;">
+							<a href="/csp/mediapool/sites/Advocate/UserAccount/index.csp?type=signup">Register</a>
+							<a class="button" href="http://theadvocate.com/csp/mediapool/sites/Advocate/assets/csp/simplesignin.csp">Sign In</a>
+						</div>
+					</div>
+				
+			</div>
+		</div>
+	</div>
+</div>
+
+
+<!--/fi:/csp/mediapool/sites/Advocate/assets/csp/subscriptionbar.csp, e:.001277 -->
+
+
+		<div id="page">
+			
+<!-- fi:/csp/mediapool/sites/Advocate/assets/csp/siteheader.csp -->
+
+
+<div id="pre">
+    <div class="advertisement leaderboard">
+        
+<!-- fi:/csp/mediapool/sites/Advocate/assets/csp/leaderboard.csp -->
+
+
+<!-- test -->
+
+
+	
+	
+		
+		
+			
+<!-- fi:/csp/mediapool/sites/Advocate/assets/csp/storyleaderboard.csp -->
+
+	<div id='div-gpt-ad-1340671644460-2' style='width: 728px; height: 90px;'><script type='text/javascript'>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1340671644460-2'); });</script></div>
+
+<!--/fi:/csp/mediapool/sites/Advocate/assets/csp/storyleaderboard.csp, e:.00008 -->
+
+			
+		
+		
+	
+
+<!--/fi:/csp/mediapool/sites/Advocate/assets/csp/leaderboard.csp, e:.000244 -->
+
+    </div>
+
+    
+        <div style="width:240px;height:90px;background:#eee; margin-top:5px;float:right;">
+            <div id='div-gpt-ad-1345480896925-13' style='width: 240px; height: 90px;'><script type='text/javascript'>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1345480896925-13'); });</script></div>
+        </div>
+    
+</div>
+
+<header id="header">
+    <div class="edition col-3 alpha">
+        <div><span class="today">Thursday Edition</span></div>
+        <div>September 26, 2013</div>
+        <div>Updated continually</div>
+    </div>
+    
+    <div class="col-6">
+        <h1 id="logo">theadvocate.com</h1>
+    </div>
+
+    
+    
+        <div class="current-weather col-3 omega" style="background: url('http://theadvocate.com/csp/mediapool/sites/Advocate/assets/img/weather/fair-day.png') 15px 0 no-repeat;">
+            <div class="loc">Baton Rouge, <abbr title="Louisiana">LA</abbr></div>
+            <div class="weather"><span class="condition">Fair</span> &#151; <span class="temp">79&#176;</span></div>
+            <a href="/weather" title="View a five-day forecast">Full forecast</a>
+        </div>
+    
+    
+    <style type="text/css">
+        #header { padding: 20px 0 43px; border-bottom: 1px solid #222; position: relative; }
+        
+        #verticals-nav { position: absolute; right: 0; bottom: 0; width: 595px; }
+        #verticals-nav a { background-image: url("http://theadvocate.com/csp/mediapool/sites/Advocate/assets/img/verticals-tabs-sprite.png"); display: block; height: 22px; position: absolute; bottom: 0; text-indent: -9999px; } 
+        #verticals-nav a.classifieds { width: 111px; background-position: 0 0; left: 29px; z-index: 5000; }
+        #verticals-nav a.jobs { width: 85px; background-position: 0 -24px; left: 120px; z-index: 4999; }
+        #verticals-nav a.homes { width: 97px; background-position: 0 -70px; left: 185px; z-index: 4998; }
+        #verticals-nav a.celebrations { width: 111px; background-position: 0 -138px; left: 264px; z-index: 4997; }
+        #verticals-nav a.wheels { width: 97px; background-position: 0 -47px; left: 356px; z-index: 4996; }
+        #verticals-nav a.shop { width: 85px; background-position: 0 -93px; left: 436px; z-index: 4995; }
+        #verticals-nav a.pets { width: 85px; background-position: 0 -116px; left: 502px; z-index: 4994; }
+        
+        #verticals-nav a.classifieds:hover { background-position: 111px 0; z-index: 5001; }
+        #verticals-nav a.jobs:hover { background-position: 111px -24px; z-index: 5001; }
+        #verticals-nav a.homes:hover { background-position: 111px -70px; z-index: 5001; }
+        #verticals-nav a.celebrations:hover { background-position: 111px -138px; z-index: 5001; }
+        #verticals-nav a.wheels:hover { background-position: 111px -47px; z-index: 5001; }
+        #verticals-nav a.shop:hover { background-position: 111px -93px; z-index: 5001; }
+        #verticals-nav a.pets:hover { background-position: 111px -116px; z-index: 5001; }
+        
+        #nav { border-top: none; }
+        
+        #header ul.editions { position: absolute; left: 65px; bottom: 10px; }
+        #header ul.editions a { border-radius: 8px; font-size:9px; font-weight: normal; padding: 6px; background: #7f0606; border: 1px solid #6c0a0a; border-top: 1px solid #e35454; }
+    </style>
+
+    <nav id="editions-nav">
+        <ul class="editions v2">
+            
+                <li><a href="/subscriptions/">Subscribe Today</a></li>
+            
+        </ul>
+    </nav>
+
+    <nav id="verticals-nav">
+        <ul>
+            <li><a class="classifieds" href="http://theadvocate.kaango.com/" target="_top">Classifieds</a></li>
+            <li><a class="jobs" href="http://jobs.theadvocate.com/" target="_top">Jobs</a></li>
+            <li><a class="homes" href="http://homes.theadvocate.com" target="_top">Homes</a></li>
+            <li><a class="celebrations" href="http://www.legacy.com/celebration/theadvocate/" target="_top">Celebrations</a></li>
+            <li><a class="wheels" href="http://wheels.theadvocate.com" target="_top">Wheels</a></li>
+            <li><a class="shop" href="http://shop.theadvocate.com/" target="_top">Shop</a></li>
+            <li><a class="pets" href="http://www.gadzoo.com/TheAdvocate/pets.aspx" target="_top">Pets</a></li>
+        </ul>
+    </nav>
+</header>
+
+
+<!-- fi:/csp/mediapool/sites/Advocate/assets/csp/navigation.csp -->
+
+
+
+
+<nav id="nav">
+	<ul class="primary">
+		
+			<li><a class="first" href="/" rel="nav-home" target="_top">Home</a></li>
+		
+
+		
+			<li><a href="/news/" rel="nav-news" target="_top">News</a></li>
+		
+		
+			<li><a href="http://theneworleansadvocate.com" rel="nav-neworleans" target="_top">New Orleans</a></li>
+		
+		<!--<csp:if condition=(cs="acadiana")>
+			<li><a class="current" href="/news/acadiana/" rel="nav-acadiana" target="_top">Acadiana</a></li>
+		<csp:else>
+			<li><a href="/news/acadiana" rel="nav-acadiana" target="_top">Acadiana</a></li>
+		</csp:if>-->
+		
+			<li><a href="/news/" rel="nav-bureaus" target="_top">Bureaus</a></li>
+		
+		
+			<li><a class="current" href="/sports/" rel="nav-sports" target="_top">Sports</a></li>
+		
+		
+		
+			<li><a href="/features/" rel="nav-features" target="_top">EatPlayLive</a></li>
+		
+		
+		
+			<li><a href="/entertainment/" rel="nav-entertainment" target="_top">Entertainment</a></li>
+		
+		
+		
+			<li><a href="/multimedia/photos/" rel="nav-multimedia" target="_top">Photos</a></li>
+		
+		
+			<li><a href="/blogs/" rel="nav-blogs" target="_top">Blogs</a></li>
+		
+		
+		
+			<li><a href="/help/" rel="nav-contact" target="_top">Help</a></li>
+		
+
+		<li><a href="http://www.legacy.com/obituaries/theadvocate" rel="nav-obits" target="_top">Obituaries</a></li>
+		
+		
+			<li><a href="" rel="nav-extra" target="_top">Extra</a></li>
+		
+		
+		
+			<li><a href="/mediaKit/" rel="nav-mediaKit" target="_top">Media Kit</a></li>
+		
+		
+		
+			<li><a href="http://nie.theadvocate.com" rel="nav-nie" target="_top">NIE-LA</a></li>
+		
+	</ul>
+</nav>
+
+<nav id="sub-nav">
+	
+		<ul id="nav-home">
+	
+		<li><a href="/weather/" target="_top">Weather</a></li>
+		<li><a href="/traffic/" target="_top">Traffic</a></li>
+		<li><a href="/archives/" target="_top">Archives</a></li>
+		<li><a href="/subscriptions/" target="_top">Subscribe</a></li>
+		<li><a href="/subscriptions/" target="_top">Subscribe - The New Orleans Advocate</a></li>
+		<li><a href="http://eedition.theadvocate.com/" target="_top">The Advocate eEdition</a></li>
+		<!-- <li><a href="" target="_top">Site Map</a></li> -->
+		<li><a href="/help/162826-75/the-advocate-history.html" target="_top">The Advocate History</a></li>
+		<li><a href="http://theadvocate.com/csp/mediapool/sites/Advocate/assets/csp/gasprices.csp" target="_top">Gas Prices</a></li>
+	</ul>
+	
+	
+		<ul id="nav-news">
+	
+		<li><a href="/news/" target="_top">Today&rsquo;s News</a></li>
+		<li><a href="http://hosted.ap.org/dynamic/fronts/HOME?SITE=LABAT&amp;SECTION=HOME" target="_top"><abbr title="Associated Press">AP</abbr></a></li>
+		<li><a href="/news/acadiana/" target="_top">Acadiana</a></li>
+		<li><a href="/news/ascension/" target="_top">Ascension</a></li>
+		<li><a href="/news/bakerzachary/" target="_top">Baker/Zachary</a></li>
+		<li><a href="/news/business/" target="_top">Business</a></li>
+		<li><a href="/columnists/" target="_top">Columnists</a></li>
+		<li><a href="/news/education/" target="_top">Education</a></li>
+		<!--<li><a href="/news/elections/" target="_top">Elections</a></li>-->
+		<li><a href="/news/livingston/" target="_top">Livingston</a></li>
+		<li><a href="/news/opinion/" target="_top">Opinion</a></li>
+		<li><a href="/news/police/" target="_top">Police</a></li>
+		<li><a href="/news/politics/" target="_top">Politics</a></li>
+		<li><a href="/news/westside/" target="_top">West Side</a></li>
+	</ul>
+	
+		<ul id="nav-bureaus">
+	
+		<li><a href="/news/" target="_top">Today&rsquo;s News</a></li>
+		<li><a href="http://theneworleansadvocate.com" target="_top">New Orleans</a></li>
+		<li><a href="/news/acadiana/" target="_top">Acadiana</a></li>
+		<li><a href="/news/ascension/" target="_top">River Parishes</a></li>
+		<li><a href="/news/bakerzachary/" target="_top">Baker/Zachary</a></li>
+		<li><a href="/news/livingston/" target="_top">Florida Parishes</a></li>
+		<li><a href="/news/westside/" target="_top">West Side</a></li>
+	</ul>
+	
+		<ul id="nav-neworleans">
+	
+		<li><a href="http://theneworleansadvocate.com" target="_top">New Orleans Edition</a></li>
+		<li><a href="http://theneworleansadvocate.com/news" target="_top">Today&rsquo;s News</a></li>
+		<li><a href="http://theneworleansadvocate.com/features" target="_top">EatPlayLive</a></li>
+		<li><a href="http://neworleanscalendar.theadvocate.com" target="_top">Calendar</a></li>
+		<li><a href="http://hosted.ap.org/dynamic/fronts/HOME?SITE=LABAT&amp;SECTION=HOME" target="_top"><abbr title="Associated Press">AP</abbr></a></li>
+		<li><a href="http://theneworleansadvocate.com/sports/saints" target="_top">Saints</a></li>
+		<li><a href="http://theneworleansadvocate.com/sports/pelicans" target="_top">Pelicans</a></li>
+		<li><a href="https://www.facebook.com/TheAdvocateNewOrleans" target="_blank">New Orleans Facebook</a></li>
+		<li><a href="http://www.legacy.com/obituaries/theneworleansadvocate/" target="_top">New Orleans Obituaries</a></li>
+		<li><a href="/weather/neworleansweather/" target="_top">Weather</a>
+	</ul>
+	
+	
+		<ul class="current" id="nav-sports">
+	
+		<li><a href="/sports/" target="_top">Today&rsquo;s Sports</a></li>
+		<li><a href="/football/" target="_top">Football 2013</a></li>
+		<li><a href="/sports/lsu/" target="_top"><abbr title="Louisiana State University">LSU</abbr> Tigers</a></li>
+		<li><a href="/sports/southern/" target="_top"><abbr title="Southern University">SU</abbr> Jaguars</a></li>
+		<li><a href="/sports/preps/" target="_top">High School</a></li>
+		<li><a href="/sports/stateschools/" target="_top">State Schools</a></li>
+		<li><a href="/sports/outdoors/" target="_top">Outdoors</a></li>
+		<li><a href="/sports/saints/" target="_top">New Orleans Saints</a></li>
+		<li><a href="/sports/pelicans/" target="_top">New Orleans Pelicans</a></li>
+		<li><a href="/blogs/" target="_top">Blogs</a></li>
+		<li><a href="/multimedia/photos/" target="_top">Photos</a></li>
+	</ul>
+	
+	
+		<ul id="nav-business">
+	
+		<li><a href="/news/business/" target="_top">Today&rsquo;s Business</a></li>
+		<li><a href="http://hosted.ap.org/dynamic/fronts/BUSINESS?SITE=LABAT&amp;SECTION=BUSINESS" target="_top">National Business News</a></li>
+		<li><a href="/dailydigest/archive" target="_top">Daily Digests</a></li>
+		<li><a href="http://hosted.ap.org/dynamic/external/ibd.morningstar.com/AP/StockMover2.html?local=LABAT&amp;CN=AP707&amp;SITE=LABAT&amp;SECTION=MULTIMEDIA" target="_top"><abbr title="Associated Press">AP</abbr> Stocks Pages</a></li>
+		<li><a href="http://hosted.ap.org/dynamic/external/quickquote.hosted.ap.org/finance?SITE=LABAT&amp;SECTION=HOME" target="_top"><abbr title="Associated Press">AP</abbr> Markets Summary</a></li>
+	</ul>
+	
+	
+		<ul id="nav-features">
+	
+		<li><a href="/features/" target="_top">Today&rsquo;s Features</a></li>
+		<li><a href="/features/people/" target="_top">People</a></li>
+		<li><a href="/features/faith/" target="_top">Faith</a></li>
+		<li><a href="/features/food/" target="_top">Food</a></li>
+		<li><a href="/features/healthfitness/" target="_top">Health/Fitness</a></li>
+		<li><a href="/features/recipes/" target="_top">Recipes</a></li>
+		<!--<li><a href="/features/gardening/" target="_top">Louis Miller</a></li>-->
+		<li><a href="/features/foodreviews/" target="_top">Food Reviews</a></li>
+		<li><a href="/features/teenkids/" target="_top">Teen &amp; Kids</a></li>
+		<li><a href="/features/stylefile/" target="_top">Style File</a></li>
+		<li><a href="/features/realestate/" target="_top">Real Estate</a></li>
+		<li><a href="http://www.legacy.com/celebration/theadvocate/" target="_top">Weddings</a></li>
+		<li><a href="/features/horoscopes/" target="_top">Horoscopes</a></li>
+	</ul>
+	
+	
+		<ul id="nav-entertainment">
+	
+		<li><a href="/entertainment/" target="_top">Today&rsquo;s Entertainment</a></li>
+		<li><a href="/entertainment/art/" target="_top">Arts</a></li>
+		<li><a href="/entertainment/books/" target="_top">Books</a></li>
+		<li><a href="http://calendar.2theadvocate.com/" target="_top">Calendars</a></li>
+		<li><a href="/entertainment/comics/" target="_top">Comics</a></li>
+		<li><a href="/entertainment/crossword/" target="_top">Crosswords</a></li>
+		<li><a href="/entertainment/calendarsevents/" target="_top">Fun</a></li>
+		<li><a href="/entertainment/games/" target="_top">Games</a></li>
+		<li><a href="/entertainment/movies/" target="_top">Movies</a></li>
+		<li><a href="http://calendar.theadvocate.com/movies" target="_top">Movie Times</a></li>
+		<li><a href="/entertainment/music/" target="_top">Music</a></li>
+		<li><a href="/entertainment/sudoku/" target="_top">Sudoku</a></li>
+		<li><a href="http://affiliate.zap2it.com/tvlistings/ZCGrid.do?aid=labrad" target="_top">TV Grid</a></li>
+		<li><a href="/entertainment/travel/" target="_top">Travel</a></li>
+		<!--<li><a href="/entertainment/wordsearch/" target="_top">Word Search</a></li>-->
+	</ul>
+	
+	
+		<ul id="nav-multimedia">
+	
+		<li><a href="/multimedia/photos/" target="_top">Today&rsquo;s Multimedia</a></li>
+		<!--<li><a href="/multimedia/photos/dailyphotos/" target="_top">Daily photos</a></li>
+		<li><a href="/multimedia/photos/news/" target="_top">News</a></li>
+		<li><a href="/multimedia/photos/sports/" target="_top">Sports</a></li>
+		<li><a href="/multimedia/photos/lsufootball/" target="_top"><abbr title="Louisiana State University">LSU</abbr></a></li>
+		<li><a href="/multimedia/photos/sufootball/" target="_top">Southern</a></li>
+		<li><a href="/multimedia/photos/saints/" target="_top">Saints</a></li>
+		<li><a href="/multimedia/photos/prepfootball/" target="_top">Preps</a></li>
+		<li><a href="/multimedia/photos/ascension/" target="_top">Ascension</a></li>
+		<li><a href="/multimedia/photos/ap/" target="_top"><abbr title="Associated Press">AP</abbr></a></li>
+		<li><a href="/multimedia/photos/features/" target="_top">Features</a></li>
+		<li><a href="/multimedia/photos/weather/" target="_top">Weather</a></li>-->
+		<li><a href="http://sendphoto.theadvocate.com/" target="_top">Submit photos</a></li>
+		<li><a href="/help/170104-75/photo-reprints-request.html" target="_top">Buy photos</a></li>
+	</ul>
+	
+	
+		<ul id="nav-blogs">
+	
+		<!-- <li><a href="http://blogs.theadvocate.com/politicsblog/" target="_top">Politics Blog</a></li> -->
+		<li><a href="http://blogs.theadvocate.com/sports/" target="_top">Sports Blog</a>
+		<li><a href="http://blogs.theadvocate.com/tigertracks/" target="_top">Tiger Tracks</a></li>
+		<li><a href="http://blogs.theadvocate.com/linedrives/" target="_top">Line Drives</a></li>
+		<li><a href="http://blogs.theadvocate.com/fullcourtpress/" target="_top">Full Court Press</a></li>
+		<li><a href="http://blogs.theadvocate.com/jaguarnation/" target="_top">Jaguar Nation</a></li>
+		<li><a href="http://blogs.theadvocate.com/blackandgold/" target="_top">Black and Gold</a></li>
+		<!--<li><a href="http://blogs.theadvocate.com/thestir/" target="_top">The Stir</a></li>-->
+		<!--<li><a href="http://blogs.theadvocate.com/stjosephs/" target="_top">St. Joseph's Blog</a></li>-->
+	</ul>
+	
+	
+		<ul id="nav-contact">
+	
+		<li><a href="/help/contact/" target="_top">Contact Us</a></li>
+		<li><a href="/subscriptions/" target="_top">Subscribe</a></li> 
+		<li><a href="/help/letters/" target="_top">Letters to the Editor</a></li>
+		<li><a href="http://theadvocate.com/mediakit">Advertising/Media Kit</a></li>
+		
+	</ul>
+		
+	<ul id="nav-obits">
+		<li><a href="http://www.legacy.com/obituaries/theadvocate/" target="_top">Today&rsquo;s Obituaries</a></li>
+		<li><a href="/obits/316793-113/obits-instructions.html" target="_top">Place an Obituary</a></li>
+		<li><a href="/obits/316813-113/obituary-laminations.html" target="_top">Obituary Laminations</a></li>
+		<li><a href="http://www.legacy.com/theadvocate/DeathNotices.asp?Page=GBGateway" target="_top">Guest Books</a></li>
+		<li><a href="/obits/316061-113/local-charitable-organizations.html" target="_top">BR Charities</a></li>
+	</ul>
+	
+	
+		<ul id="nav-extra">
+	
+		<li><a href="/contests/" target="_top">Contests</a></li>
+		<li><a href="http://www.facebook.com/theadvocatebr" target="_top">Facebook</a>
+		<!--<li><a href="help/" target="_top">Feeds</a></li>-->
+		<li><a href="/features/horoscopes/" target="_top">Horoscopes</a></li>
+		<li><a href="https://play.google.com/store/apps/details?id=com.spreedinc.providers.capitalcitypress.batonrougeadvocate&feature=search_result#?t=W251bGwsMSwxLDEsImNvbS5zcHJlZWRpbmMucHJvdmlkZXJzLmNhcGl0YWxjaXR5cHJlc3MuYmF0b25yb3VnZWFkdm9jYXRlIl0." target="_top">Android App</a></li>
+		<li><a href="http://itunes.apple.com/us/app/the-advocate/id526419462?mt=8" target="_top">iPhone App</a></li>
+		<li><a href="http://itunes.apple.com/us/app/the-advocate/id441135794?mt=8" target="_top">iPad App</a></li>
+		<li><a href="/newsletters/" target="_top">Newsletters</a></li>
+		<li><a href="/textalerts" target="_top">Text Alerts</a></li>
+		<li><a href="http://twitter.com/theadvocatebr " target="_top">Twitter</a></li>
+	</ul>
+		
+		<ul id="nav-mediaKit">
+	
+	<li><a href="/mediakit/" target="_top">Media Kit</a></li>
+	<li><a href="/mediakit/rfp" target="_top">Request a Quote</a></li>
+	</ul>
+</nav>
+<!--/fi:/csp/mediapool/sites/Advocate/assets/csp/navigation.csp, e:.000928 -->
+
+<!-- Password Recovery - pass username -->
+<script>
+   function jsPasswordRecovery(){
+            var loginValue = document.getElementById('DTILogin').value;
+            window.location = '/csp/mediapool/sites/Advocate/templates/accountManagement/passwordRecovery.csp?accountUsername='+loginValue
+    } 
+   function jsUpgradeReset(){
+            var loginValue = document.getElementById('DTILogin').value;
+            window.location = '/csp/mediapool/sites/Advocate/templates/accountManagement/passwordUpgradeReset.csp?accountUsername='+loginValue
+    } 
+</script>
+
+
+<!--/fi:/csp/mediapool/sites/Advocate/assets/csp/siteheader.csp, e:.002146 -->
+
+			
+
+<!-- fi:/csp/mediapool/sites/Advocate/templates/sections/GenericSection.csp?sid=54&cid=7144299&fid=123&fullstory=1 -->
+
+<!-- fi:/csp/mediapool/sites/Advocate/templates/stories/full/FullStory.csp -->
+
+
+
+
+
+
+
+	
+	
+	
+	
+
+
+
+
+
+
+
+
+	
+		
+			
+<!-- fi:/csp/mediapool/sites/Advocate/assets/templates/FullStoryMedium.csp -->
+
+<!-- fi:/csp/mediapool/sites/Advocate/assets/templates/common/Header.csp -->
+
+
+
+<!-- fi:/csp/mediapool/sites/Advocate/assets/csp/sectionheader.csp -->
+<header class="section-header">
+	<h1>Sports</h1>
+	
+	
+	
+	<form method="get" action="http://theadvocate.com/search/searchresults/">
+
+
+		<input type="text" name="q" placeholder="Search The Advocate">
+		<button>Search</button>
+	</form>
+</header>
+<!--/fi:/csp/mediapool/sites/Advocate/assets/csp/sectionheader.csp, e:.000131 -->
+
+
+<div role="main">
+	<div class="col-8 alpha">
+		<article class="hentry">
+			<header>
+				<h1>
+<!-- fi:/csp/mediapool/sites/Advocate/assets/csp/storyheadline.csp -->
+Saints&rsquo; defense up 7 spots to 4th in NFL rankings
+<!--/fi:/csp/mediapool/sites/Advocate/assets/csp/storyheadline.csp, e:.000168 -->
+</h1>
+			</header>
+<!--/fi:/csp/mediapool/sites/Advocate/assets/templates/common/Header.csp, e:.002943 -->
+
+  <!-- test -->
+	
+  
+    
+
+	<!-- py: #(pubYear)#, vp: #(videoProvider)# -->
+
+	
+	
+	<div class="main col-6 alpha">
+		
+			<figure class="medium">
+				
+				
+					<img src="http://theadvocate.com/csp/mediapool/sites/dt.common.streams.StreamServer.cls?STREAMOID=jxl2wcWufjEZROsli33Xk8$daE2N3K4ZzOUsqbU5sYuq7$tEkmzmXSxQES67NTvuWCsjLu883Ygn4B49Lvm9bPe2QeMKQdVeZmXF$9l$4uCZ8QDXhaHEp3rvzXRJFdy0KqPHLoMevcTLo3h8xh70Y6N_U_CryOsw6FTOdKL_jpQ-&amp;CONTENTTYPE=image/jpeg" alt="Arizona Cardinals quarterback Carson Palmer (3) passes as New Orleans Saints defensive end Cameron Jordan (94) and outside linebacker Junior Galette (93) pressure him in the first half of an NFL football game in New Orleans, Sunday, Sept. 22, 2013. (AP Photo/Bill Haber)">
+					<a class="show-caption" href="#main-photo-caption">Show caption</a>
+					<figcaption id="main-photo-caption">
+						Arizona Cardinals quarterback Carson Palmer (3) passes as New Orleans Saints defensive end Cameron Jordan (94) and outside linebacker Junior Galette (93) pressure him in the first half of an NFL football game in New Orleans, Sunday, Sept. 22, 2013. (AP Photo/Bill Haber)
+					</figcaption>           
+				
+			</figure>
+		
+		
+		
+<!-- fi:/csp/mediapool/sites/Advocate/assets/templates/common/Main.csp?videoExists=0 -->
+
+	
+
+
+<div class="story-info">
+	<div class="author">
+		<p class="Byline">by sheldon mickles</p>
+<p class="Byline credit"> smickles@theadvocate.com</p>
+		<p class="published">September 26, 2013</p>
+	</div>
+	
+	<div class="comment-count">
+		<a href="#comments"><fb:comments-count href=http://theadvocate.com/sports/7144299-128/saints-defense-up-seven-spots></fb:comments-count> Comments</a>
+	</div>
+</div>
+
+
+
+<div class="body">
+	
+	
+	
+	
+	
+		<p>With three encouraging defensive performances behind them, the Saints continued their rapid rise up the NFL stats on Tuesday.</p><p>After allowing a season-low 247 total yards in a smothering 31-7 win against the Arizona Cardinals on Sunday, the Saints&rsquo; defense jumped up seven spots to fourth in fewest yards allowed at 295.7 yards per game. The Saints also moved up seven spots last week after ranking 18th following Week 1 games.</p><p>The 3-0 Saints, who play the Miami Dolphins (3-0) on Monday night, also moved up four spots from eighth to fourth against the pass at 184.3 yards a game and improved seven spots against the run, going from 27th to 20th at 111.3 per game.</p><p>In scoring defense, the Saints dropped their season average from 15.5 points per game to 12.7 and now rank fifth after being tied for sixth a week ago.</p><p>After allowing an NFL single-season record of 440.1 yards per game in 2012, the Saints&rsquo; defense actually is ranked higher than its record-setting offense &mdash; for one of the few times since Sean Payton arrived in 2006.</p><p>The Saints&rsquo; offense ranks sixth at 404.3 yards per game, up three spots from last week, and are fourth in passing with 318.7 yards a game and remained 24th in rushing despite a 12.2-yard increase over last week at 85.7 yards a contest.</p><p>The Dolphins, who shocked the Atlanta Falcons 27-23 on Sunday, rank 26th in total offense at 319.3 yards per game and are 22nd in total defense in allowing 372.0 yards per game.</p><p>The Saints and Dolphins are tied for ninth in turnover differential at plus-2. Both teams have six takeaways and four giveaways.</p><p>Here are the pertinent numbers for Monday night&rsquo;s game in the Mercedes-Benz Superdome:</p><p>SAINTS</p><p>Offense: Total yards, 404.3 (6); rushing, 85.7 (24); passing, 318.7 (4); scoring, 23.3 (t15).</p><p>Defense: Total yards, 295.7 (4); rushing, 111.1 (20); passing, 184.3 (4); scoring, 12.7 (5).</p><p>Turnover differential: plus-2 (t9)/4 giveaways, 6 takeaways.</p><p>DOLPHINS</p><p>Offense: Total yards, 319.3 (26); rushing, 70.3 (28); passing, 249.0 (14); scoring, 23.3 (t15).</p><p>Defense: Total yards, 372.0 (22); rushing, 108.7 (19); passing, 263.3 (20); scoring, 17.7 (8).</p><p>Turnover differential: plus-2 (t9)/4 giveaways, 6 takeaways.</p>
+		
+		<style type="text/css">
+			.in-body-image img { width: 100%; }
+			.in-body-image figcaption { color: #444; font-family: "Helvetica Neue", Arial, sans-serif; font-size: 11px; }
+		</style>
+	
+</div>
+
+
+<!-- fi:/csp/mediapool/sites/Advocate/assets/csp/outbrain.csp -->
+<section id="outbrain">
+	<script type="text/JavaScript">
+		var OB_permalink= 'http://theadvocate.com/sports/7144299-128/saints-defense-up-seven-spots';
+		var OB_Template="TheAdvocate";
+		var OB_widgetId= 'AR_1';
+		var OB_langJS ='http://widgets.outbrain.com/lang_en.js';
+		if ( typeof(OB_Script)!='undefined' )
+		OutbrainStart();
+		else
+		{
+		var OB_Script = true;
+		var str = "<script src='http://widgets.outbrain.com/outbrainWidget.js'; type='text/javascript'></"+"script>";
+		document.write(str);
+		}
+	</script>
+</section>
+
+<style type="text/css">
+	#outbrain { margin: 30px 0 10px; }
+	#outbrain h2 { background: url("http://theadvocate.com/csp/mediapool/sites/Advocate/assets/img/panel-link-blank.png") 0 bottom repeat-x; border-top: 3px solid #333; padding: 10px 0 23px; font: bold 13px/1 "Helvetica Neue", Arial, sans-serif; text-transform: uppercase; }
+	#outbrain outbrain-org { float: left; padding-right: 5px; width: 238px; }
+	#outbrain outbrain-paid { float: right; padding-left: 5px; width: 238px; }
+	#outbrain fieldset { border: none; padding: 0; }
+	#outbrain legend { display: none; }
+	#outbrain ul { margin: 0; padding: 0; }
+	#outbrain li { background: url("http://theadvocate.com/csp/mediapool/sites/Advocate/assets/img/designimages/link-default.gif") 0 7px no-repeat; font-size: 13px; padding: 5px 0 5px 20px; }
+	#outbrain li:last-child { border-bottom: none; }
+	#outbrain .rec-src-link { display: none; }
+	#outbrain_container_0_dual { padding: 0; }
+</style>
+<!--/fi:/csp/mediapool/sites/Advocate/assets/csp/outbrain.csp, e:.000181 -->
+
+<!--/fi:/csp/mediapool/sites/Advocate/assets/templates/common/Main.csp?videoExists=0, e:.00302 -->
+
+	</div>
+  
+    <aside class="col-2 omega">
+      
+<!-- fi:/csp/mediapool/sites/Advocate/assets/csp/articletools.csp -->
+
+
+	
+
+
+
+
+<div class="widget twitter">
+	<a href="https://twitter.com/share" class="twitter-share-button" data-url="http://theadvocate.com/sports/7144299-123/saints-defense-up-7-spots" data-text="Saints’ defense up 7 spots to 4th in NFL rankings" data-count="horizontal" data-via="theadvocatebr">Tweet</a><script type="text/javascript" src="//platform.twitter.com/widgets.js"></script>
+</div>
+
+<div class="widget facebook">
+	<!-- <div class="fb-like" data-send="false" data-layout="button_count" data-width="150" data-show-faces="false" data-action="recommend"></div>-->
+	<a href="#" style="background:#eceef5;border:1px solid #cad4e7;color:#333;padding:2px;font: bold 11px/18px 'Helvetica Neue',Arial,sans-serif;overflow:hidden;text-decoration:none;" onclick="
+    window.open(
+      'https://www.facebook.com/sharer/sharer.php?u='+encodeURIComponent(location.href), 
+      'facebook-share-dialog', 
+      'width=626,height=436'); 
+    return false;">
+  <img src="/csp/mediapool/sites/Advocate/assets/img/facebook-16x16.png" style="position:relative;top:3px;left:1px;overflow:hidden;width:14px;height:14px;"> Share</a>
+</div>
+
+<div class="widget gplusone">
+	<g:plusone></g:plusone>
+</div>
+
+<div class="widget addthis">
+	<div class="addthis_toolbox addthis_default_style ">
+		<a class="addthis_button_email"></a>
+		<a class="addthis_button_google"></a>
+		<a class="addthis_button_reddit"></a>
+		<a class="addthis_button_compact"></a>
+		<a class="addthis_counter addthis_bubble_style"></a>
+	</div>
+	
+	<script type="text/javascript">
+		var addthis_config = {
+			data_track_clickback: true,
+			services_compact: "email, favorites, delicious, messenger, myspace, print, google, digg, more",
+			services_exclude: "facebook, twitter"
+		}
+	</script>
+	<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4de50d6d691ede4d"></script>
+</div>
+
+<div class="widget print-this">
+	<a style="display: none;" class="button" id="print-this" href="http://theadvocate.com/csp/mediapool/sites/Advocate/assets/templates/FullStoryPrint.csp?cid=7144299&amp;preview=y">Print article</a>
+</div>
+<!--/fi:/csp/mediapool/sites/Advocate/assets/csp/articletools.csp, e:.000569 -->
+
+      
+<!-- fi:/csp/mediapool/sites/Advocate/assets/templates/common/Supplements.csp -->
+
+	
+
+
+
+
+
+<!--Related Story link-->
+<div class="section">
+	<div class="header">
+		<h1>Related story:</h1>
+	</div>
+	
+		
+	
+</div>
+<!--Related Story end-->
+
+<!--Begin PDF link-->
+
+
+
+<!--End PDF link-->
+
+
+
+
+
+
+	<div id="DTElementID-82636" class="HTMLContent"><div class="section">
+<div class="header">
+<h1>Resources</h1>
+</div>
+<ul>
+<li><a href="http://theadvocate.com/help/letters/"><span class="title">Letter to the editor</span></a>
+<p>Send a letter to the editor to voice your opinion.</p>
+</li>
+<li><a class="title" href="http://theadvocate.com/multimedia/homicidemap">BR Homicides Maps</a>
+<p>Maps listing homicides or suspected homicides in EBR Parish for 2012.</p>
+</li>
+<li><a class="title" href="http://theadvocate.com/csp/mediapool/sites/Advocate/assets/csp/gasprices.csp">Gas Prices in BR</a>
+<p>Current gas prices in BR area.</p>
+</li>
+</ul>
+</div>
+<div class="section">
+<div class="header">
+<h1>Blogs</h1>
+</div>
+<ul>
+<li><a href="http://blogs.theadvocate.com/tigertracks">LSU Football</a></li>
+<!--
+<li><a href="http://blogs.theadvocate.com/politicsblog" mce_href="http://blogs.theadvocate.com/politicsblog">Louisiana Politics</a></li>
+-->
+<li><a href="http://blogs.theadvocate.com/linedrives">LSU Baseball</a></li>
+<li><a href="http://blogs.theadvocate.com/jaguarnation">Southern Sports</a></li>
+<li><a href="http://blogs.theadvocate.com/blackandgold">Saints Football</a></li>
+</ul>
+</div>
+<div class="section">
+<div class="header">
+<h1>Newsletters</h1>
+</div>
+<ul>
+<li><a href="http://theadvocate.com/newsletters/">Breaking News Alerts</a></li>
+<li><a href="http://theadvocate.com/newsletters/">Breaking Sports Alerts</a></li>
+<li><a href="http://theadvocate.com/newsletters/">The Advocate's Daily Digest</a></li>
+</ul>
+</div></div>
+
+<!--/fi:/csp/mediapool/sites/Advocate/assets/templates/common/Supplements.csp, e:.001468 -->
+
+    </aside>
+  
+
+
+<!-- fi:/csp/mediapool/sites/Advocate/assets/templates/common/Footer.csp -->
+		</article>
+	
+		<div id="comments" style="padding-top: 20px;">
+			<div class="fb-comments" data-href="http://theadvocate.com/sports/7144299-128/saints-defense-up-seven-spots" data-width="654"></div>
+		</div>
+	</div>
+	
+	<div class="col-4 omega">
+		
+<!-- fi:/csp/mediapool/sites/Advocate/assets/csp/storyads.csp -->
+
+	<div class='iab-medium-rectangle advertising h'><div id='div-gpt-ad-1340671644460-1' style='width: 300px; height: 250px;'><script type='text/javascript'>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1340671644460-1'); });</script></div></div>
+	<div class='iab-medium-rectangle advertising h'><div id='div-gpt-ad-1358178147893-0' style='width: 300px; height: 250px;'><script type='text/javascript'>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1358178147893-0'); });</script></div></div>
+	<div class='iab-medium-rectangle advertising h'><div id='div-gpt-ad-1340671644460-6' style='width: 300px; height: 250px;'><script type='text/javascript'>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1340671644460-6'); });</script></div></div>
+	<div class='iab-medium-rectangle advertising h'><div id='div-gpt-ad-1340671644460-7' style='width: 300px; height: 250px;'><script type='text/javascript'>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1340671644460-7'); });</script></div></div>
+
+<!--/fi:/csp/mediapool/sites/Advocate/assets/csp/storyads.csp, e:.000534 -->
+
+	</div>
+</div>
+<!--/fi:/csp/mediapool/sites/Advocate/assets/templates/common/Footer.csp, e:.001414 -->
+
+<!--/fi:/csp/mediapool/sites/Advocate/assets/templates/FullStoryMedium.csp, e:.012401 -->
+
+		
+	
+
+<!--/fi:/csp/mediapool/sites/Advocate/templates/stories/full/FullStory.csp, e:.108706 -->
+
+<!--/fi:/csp/mediapool/sites/Advocate/templates/sections/GenericSection.csp?sid=54&cid=7144299&fid=123&fullstory=1, e:.10899 -->
+
+
+<!-- fi:/csp/mediapool/sites/Advocate/assets/csp/finis.csp -->
+
+
+
+		
+<!-- fi:/csp/mediapool/sites/Advocate/assets/csp/sitefooter.csp -->
+<footer id="footer">
+	<div id="affiliates">
+		<a id="have-a-question" href="/help/contact/"><strong>Contact Us</strong></a>
+		<ul>
+			<!--<li><a class="dailydeals" href="http://dailydeals.theadvocate.com/">dailydeals.theadvocate.com</a></li>-->
+			<li><a class="classifieds" href="http://theadvocate.kaango.com/">classifieds.theadvocate.com</a></li>
+			<li><a class="jobs" href="http://jobs.theadvocate.com/">jobs.theadvocate.com</a></li>
+			<li><a class="homes" href="http://homes.theadvocate.com/">homes.theadvocate.com</a></li>
+			<li><a class="wheels" href="http://wheels.theadvocate.com">wheels.theadvocate.com</a></li>
+			<li><a class="shop" href="http://shop.theadvocate.com/">shop.theadvocate.com</a></li>
+			<li><a class="pets" href="http://pets.theadvocate.com/">pets.theadvocate.com</a></li>
+		</ul>
+	</div>
+	<ul id="legal">
+		<li style="margin-top: 10px;">Copyright &copy; 2013, Capital City Press LLC &bull; 7290 Bluebonnet Blvd., Baton Rouge, LA 70810 &bull; All Rights Reserved</li>
+		<li style="margin-top: 10px;"><a href="/policies/">Terms of Use </a>| <a href="/help/172750-75/terms-of-use.html">Privacy Policies </a>|<a href="/help/172750-75/terms-of-use.html"> Supported browsers</a> |<a href="/archives/"> Newspaper Archives</a> |<a href="http://theadvocate.com/mediakit"> Media Kit</a></li>
+	</ul>
+</footer>
+
+<!--/fi:/csp/mediapool/sites/Advocate/assets/csp/sitefooter.csp, e:.000161 -->
+		
+		</div>
+					
+		
+		
+		<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+		
+		
+			<script type="text/javascript">ggv2id='6389a3cd';</script>
+			<script type="text/javascript" src="http://g2.gumgum.com/javascripts/ggv2.js"></script>
+		
+		
+		
+			<script language="JavaScript">
+				var zflag_nid="1642"; var zflag_cid="1"; var zflag_sid="0"; var zflag_width="160"; var zflag_height="600"; var zflag_sz="7"; 
+			</script>
+			<script language="JavaScript" src="http://c4.zedo.com/jsc/c4/fhs.js"></script>
+			
+		
+		
+		
+		<!-- Compete XL Code for theadvocate.com -->
+		<script type="text/javascript">
+		__compete_code = '9597454c1713fae7304686a1cddf9486';
+		/* Set control variables below this line. */ 
+		</script>
+		<script type="text/javascript" src="//c.compete.com/bootstrap/s/9597454c1713fae7304686a1cddf9486/theadvocate-com/bootstrap.js"></script>
+		<noscript>
+			<img width="1" height="1" src="https://ssl-theadvocate-com-959745.c-col.com"/>
+		</noscript> 
+		
+		<!-- Google Code for Remarketing tag -->
+		<script type="text/javascript">
+		/* <![CDATA[ */
+		var google_conversion_id = 997875085;
+		var google_conversion_label = "wacKCPuPxQMQjbvp2wM";
+		var google_custom_params = window.google_tag_params;
+		var google_remarketing_only = true;
+		/* ]]> */
+		</script>
+
+				
+
+		<script type='text/javascript'>
+		var _sf_async_config={};
+		/** CONFIGURATION START **/
+		_sf_async_config.uid = 48330;
+		_sf_async_config.domain = 'theadvocate.com';
+		_sf_async_config.useCanonical = true;
+		_sf_async_config.sections = '/Sports/';
+		
+			_sf_async_config.authors = 'Sheldon Mickles';
+		
+		/** CONFIGURATION END **/
+		(function(){
+		function loadChartbeat() {
+		window._sf_endpt=(new Date()).getTime();
+		var e = document.createElement('script');
+		e.setAttribute('language', 'javascript');
+		e.setAttribute('type', 'text/javascript');
+		e.setAttribute('src', '//static.chartbeat.com/js/chartbeat.js');
+		document.body.appendChild(e);
+		}
+		var oldonload = window.onload;
+		window.onload = (typeof window.onload != 'function') ?
+		loadChartbeat : function() { oldonload(); loadChartbeat(); };
+		})();
+		</script>
+		
+	</body>
+</html>
+<!--/fi:/csp/mediapool/sites/Advocate/assets/csp/finis.csp, e:.000605 -->
+<!--
+Elapsed:.238227
+Globals:2046
+Lines:48399
+-->

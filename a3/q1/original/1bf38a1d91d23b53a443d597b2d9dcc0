@@ -1,0 +1,572 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="https://www.facebook.com/2008/fbml">
+<head>
+<title>Business Travel News</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+ <meta property="og:image" content="http://businesstravel.com.au/images/logo.png"/>
+ <meta property="og:type" content="website" />
+
+
+<meta name="description" content="Business Travel news site dedicated to aggregating the best Business Travel News across the web.">
+<meta name="keywords" content="Business Travel,news," >
+	
+   <meta property="og:title" content="Business Travel" />
+   <meta property="og:site_name" content="Business Travel"/>
+    <meta property="og:url" content="http://businesstravel.com.au//feed/show_entry/59452/deals_of_the_week_-_woodstock_cathay_pacific_sale_miami"/>
+  
+<link href="http://businesstravel.com.au/css/core.css" rel="stylesheet" type="text/css" /><link href="http://businesstravel.com.au/favicon.ico" rel="shortcut icon" type="image/ico" />
+<link href='http://fonts.googleapis.com/css?family=PT+Sans:400,700' rel='stylesheet' type='text/css'>
+  
+<script type="text/javascript" src="http://businesstravel.com.au/js/jquery-1.5.min.js"></script>
+
+<script type="text/javascript" src="http://businesstravel.com.au/js/custom.js"></script>
+<script type="text/javascript" src="http://businesstravel.com.au/js/jquery.cycle.lite2.js"></script>
+<script type="text/javascript" src="http://businesstravel.com.au/js/viator.js"></script>
+<script type="text/javascript" src="http://businesstravel.com.au/js/facebook.js"></script>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-323697-56']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</head>
+<body>
+
+<div class="body-container">
+<div class="content-container">
+<div class="header">
+	<div class="header-container">
+		<div class="header-menu">
+			<div class="header-menu-elements">
+				<h1 style="position: absolute; text-indent: -9999px;">BUSINESS TRAVEL</h1>
+				<div class="logo"></div>
+				<form action="http://businesstravel.com.au/feed/show_search" method="get">
+				<input type="text" size="30" class="searchbox_back" name="searchbox" value="Enter your Destination City" rel="Enter your Destination City" id="searchbox" />
+				<input type="submit" value="Submit" name="searchbtn" class="searchbtn_back" id="searchbtn" />
+				<script type="text/javascript">
+
+				$("#searchbox").live("blur", function(){
+					var default_value = $(this).attr("rel");
+					if ($(this).val() == ""){
+						$(this).val(default_value);
+					}
+				}).live("focus", function(){
+					var default_value = $(this).attr("rel");
+					if ($(this).val() == default_value){
+						$(this).val("");
+					}
+				});
+				</script>
+				</form>
+				<div class="clear40"></div>
+			</div>
+		</div>			
+		<div id="menu">
+			<ul>
+			  <li><a href="http://businesstravel.com.au/"><span>Home</span></a></li>
+			  			    			      			      <li title="1">
+				      <a href="http://businesstravel.com.au/Rewards">Rewards</a>				      <div>
+					<div class="left-border"></div>
+					<div style="border: 3px solid #e21e2f;"></div>
+					<div style="border: 1px solid #f7c8b8; margin-bottom: 2px;"></div>
+					
+					<div class="red-header">
+					<h5>MOST POPULAR NEWS</h5>
+					</div>
+					<div class="feeds">
+					  <div id="ajaxfeedentries1">
+						  <div style="margin-top: 4px;" id="feedentries1">
+						  </div>
+					  </div>
+					</div>
+					<div class="right-border"></div>
+				      </div>
+			      </li>
+			     			    			      			      <li title="5">
+				      <a href="http://businesstravel.com.au/Hotels">Hotels</a>				      <div>
+					<div class="left-border"></div>
+					<div style="border: 3px solid #e21e2f;"></div>
+					<div style="border: 1px solid #f7c8b8; margin-bottom: 2px;"></div>
+					
+					<div class="red-header">
+					<h5>MOST POPULAR NEWS</h5>
+					</div>
+					<div class="feeds">
+					  <div id="ajaxfeedentries5">
+						  <div style="margin-top: 4px;" id="feedentries5">
+						  </div>
+					  </div>
+					</div>
+					<div class="right-border"></div>
+				      </div>
+			      </li>
+			     			    			      			      <li title="6">
+				      <a href="http://businesstravel.com.au/Airlines">Airlines</a>				      <div>
+					<div class="left-border"></div>
+					<div style="border: 3px solid #e21e2f;"></div>
+					<div style="border: 1px solid #f7c8b8; margin-bottom: 2px;"></div>
+					
+					<div class="red-header">
+					<h5>MOST POPULAR NEWS</h5>
+					</div>
+					<div class="feeds">
+					  <div id="ajaxfeedentries6">
+						  <div style="margin-top: 4px;" id="feedentries6">
+						  </div>
+					  </div>
+					</div>
+					<div class="right-border"></div>
+				      </div>
+			      </li>
+			     			    			      			      <li title="4">
+				      <a href="http://businesstravel.com.au/Cars">Cars</a>				      <div>
+					<div class="left-border"></div>
+					<div style="border: 3px solid #e21e2f;"></div>
+					<div style="border: 1px solid #f7c8b8; margin-bottom: 2px;"></div>
+					
+					<div class="red-header">
+					<h5>MOST POPULAR NEWS</h5>
+					</div>
+					<div class="feeds">
+					  <div id="ajaxfeedentries4">
+						  <div style="margin-top: 4px;" id="feedentries4">
+						  </div>
+					  </div>
+					</div>
+					<div class="right-border"></div>
+				      </div>
+			      </li>
+			     			    			      			      <li title="9">
+				      <a href="http://businesstravel.com.au/News">News</a>				      <div>
+					<div class="left-border"></div>
+					<div style="border: 3px solid #e21e2f;"></div>
+					<div style="border: 1px solid #f7c8b8; margin-bottom: 2px;"></div>
+					
+					<div class="red-header">
+					<h5>MOST POPULAR NEWS</h5>
+					</div>
+					<div class="feeds">
+					  <div id="ajaxfeedentries9">
+						  <div style="margin-top: 4px;" id="feedentries9">
+						  </div>
+					  </div>
+					</div>
+					<div class="right-border"></div>
+				      </div>
+			      </li>
+			     			    			      			    			    
+			    <script type="text/javascript">
+				    
+				    $("#menu > ul > li").hover(
+				      function () {
+					  var catID = $(this).attr("title");
+					  $("#feedentries" + catID).html('<img src="http://businesstravel.com.au/images/spinner.gif" alt="Loading" />');
+					  $("#ajaxfeedentries" + catID).load('/feed/show_menu_feed/' + catID, function(response, status, xhr) {
+						  $("#feedentries" + catID).html('');
+						  if (status == "error") {
+							  var msg = "Sorry but there was an error: ";
+							  $("#feedentries" + catID).html(msg + xhr.status + " " + xhr.statusText);
+						  }
+					  });
+				      },  
+				      function () {
+					//$("#feedentries11").html('');
+				      }
+				    );
+
+				  </script>
+			  			  <li><a href="http://businesstravel.com.au/events"><span>Events</span></a></li>
+			  <li><a href="http://businesstravel.com.au/products"><span>Products</span></a></li>
+			</ul>
+			<a target="_blank" class="twitter-link" href="http://www.twitter.com/Bustrav">
+			  <img src="http://businesstravel.com.au/images/twitter.png" alt="Twitter" />
+			  Follow us on Twitter
+			</a>
+		</div>					
+	<div class="clear"></div>
+	</div>
+</div>
+
+<div class="clear"></div>
+
+<div class="inner-container">
+    <div class="left-column">
+        <div class="left-column-header"><h5>Breaking Business Travel News</h5></div>
+
+	
+<div id="entries">
+<div class="entry-left">
+            <a onClick="_gaq.push(['_trackEvent', 'Independent News and Advice', 'http://rss.feedsportal.com/c/266/f/3852/s/31a73db8/sc/10/l/0L0Sindependent0O0Ctravel0Cnews0Eand0Eadvice0Cdeals0Eof0Ethe0Eweek0E0Ewoodstock0Ecathay0Epacific0Esale0Emiami0E88373570Bhtml/story01.htm']);" href="http://rss.feedsportal.com/c/266/f/3852/s/31a73db8/sc/10/l/0L0Sindependent0O0Ctravel0Cnews0Eand0Eadvice0Cdeals0Eof0Ethe0Eweek0E0Ewoodstock0Ecathay0Epacific0Esale0Emiami0E88373570Bhtml/story01.htm" ><img src="http://businesstravel.com.au/images/logos/independent.jpg" alt="Feed" /></a>
+    </div>
+<div class="entry-right" itemscope itemtype="http://schema.org/NewsArticle">
+    <h3><a itemprop="url" onClick="_gaq.push(['_trackEvent', 'Independent News and Advice', 'http://rss.feedsportal.com/c/266/f/3852/s/31a73db8/sc/10/l/0L0Sindependent0O0Ctravel0Cnews0Eand0Eadvice0Cdeals0Eof0Ethe0Eweek0E0Ewoodstock0Ecathay0Epacific0Esale0Emiami0E88373570Bhtml/story01.htm']);" href="http://rss.feedsportal.com/c/266/f/3852/s/31a73db8/sc/10/l/0L0Sindependent0O0Ctravel0Cnews0Eand0Eadvice0Cdeals0Eof0Ethe0Eweek0E0Ewoodstock0Ecathay0Epacific0Esale0Emiami0E88373570Bhtml/story01.htm">Deals of the week - Woodstock, Cathay Pacific sale, Miami</a></h3>
+    <p>Less than £200... The Feathers Hotel in the Oxfordshire village of Woodstock has a "Culture Package", that combines tickets to the Francis Bacon and Henry Moore exhibition at the Ashmolean Museum, a night's B&amp;B and a three-course dinner for £125pp until 18 January, 2014. Feathers.co.uk<br clear='all'/>&nbsp;&nbsp;&nbsp;&nbsp;<br/><br/><br/><br/><br/><br/></p>
+    <div class="feed-divider"></div>
+</div>
+
+<div class="entry-right-buttons" data-link="http://businesstravel.com.au/feed/show_entry/59452/httprss.feedsportal.comc266f3852s31a73db8sc10l0l0sindependent0o0ctravel0cnews0eand0eadvice0cdeals0eof0ethe0eweek0e0ewoodstock0ecathay0epacific0esale0emiami0e88373570bhtmlstory01.htm">
+    <small>2 days ago</small>
+    <div class="social-buttons"><div class="facebook"></div><div class="twitter"></div></div>
+</div>`
+    
+<div class="clear5"></div>
+</div>
+
+<div class="top_border"><h2>Related Articles - News</h2></div>
+
+<div id="entries">
+    		
+					
+	<div class="entry-left">
+	    	    		<a href="http://businesstravel.com.au/feed/show_entry/58106/httpwww.odysseymediagroup.comapneditorial-airlines-and-airports.aspreportid604118" ><img src="http://businesstravel.com.au/images/logos/default.jpg" alt="Feed" /></a>
+	    	</div>
+	<div class="entry-right" itemscope itemtype="http://schema.org/NewsArticle">
+	    <h3><a itemprop="url" href="http://businesstravel.com.au/feed/show_entry/58106/httpwww.odysseymediagroup.comapneditorial-airlines-and-airports.aspreportid604118">Asia Pacific News - Etihad Airways Boosts Flights To Islamabad</a></h3>
+	    <p>Etihad Airways, the national airline of the United Arab Emirates, has further increased its flights to Pakistan's capital city, Islamabad, from nine to eleven a week offering passengers more convenient travel options. With the addition of the new services, Etihad Airways will now offer 31 weekly flights&#8230;</p> 
+	    <div class="feed-divider"></div>
+	</div>
+	
+	<div class="entry-right-buttons" data-link="http://businesstravel.com.au/feed/show_entry/58106/httpwww.odysseymediagroup.comapneditorial-airlines-and-airports.aspreportid604118">
+	    <small>-5 years ago	    </small>
+	    <div class="social-buttons">
+		<div class="facebook"></div>
+		<div class="twitter"></div>
+	    </div>
+	</div>
+	
+	<div class="clear5"></div>
+    		
+					
+	<div class="entry-left">
+	    	    		<a href="http://businesstravel.com.au/feed/show_entry/60318/httpfeedproxy.google.comrentrepreneurlatest32ruvbsvsbyystory01.htm" ><img src="http://businesstravel.com.au/images/logos/entrepreneur.jpg" alt="Feed" /></a>
+	    	</div>
+	<div class="entry-right" itemscope itemtype="http://schema.org/NewsArticle">
+	    <h3><a itemprop="url" href="http://businesstravel.com.au/feed/show_entry/60318/httpfeedproxy.google.comrentrepreneurlatest32ruvbsvsbyystory01.htm">Apple Tops List of World's Most Innovative Companies... Again</a></h3>
+	    <p>For the ninth year in a row, Apple has topped Boston Consulting Group's annual list of the companies leading the charge in defining what?s new and cool.
+    
+</p> 
+	    <div class="feed-divider"></div>
+	</div>
+	
+	<div class="entry-right-buttons" data-link="http://businesstravel.com.au/feed/show_entry/60318/httpfeedproxy.google.comrentrepreneurlatest32ruvbsvsbyystory01.htm">
+	    <small>-1 years, 12 months ago	    </small>
+	    <div class="social-buttons">
+		<div class="facebook"></div>
+		<div class="twitter"></div>
+	    </div>
+	</div>
+	
+	<div class="clear5"></div>
+    		
+					
+	<div class="entry-left">
+	    	    		<a href="http://businesstravel.com.au/feed/show_entry/60247/httpfeedproxy.google.comrentrepreneurlatest3ehp6ppol3hgstory01.htm" ><img src="http://businesstravel.com.au/images/logos/entrepreneur.jpg" alt="Feed" /></a>
+	    	</div>
+	<div class="entry-right" itemscope itemtype="http://schema.org/NewsArticle">
+	    <h3><a itemprop="url" href="http://businesstravel.com.au/feed/show_entry/60247/httpfeedproxy.google.comrentrepreneurlatest3ehp6ppol3hgstory01.htm">Target to Bring Baby Goods to Your Door Through New Subscription Service</a></h3>
+	    <p>Target has joined the market for auto-delivery subscription goods, competing with the likes of Amazon, Diapers.com and Walmart.
+    
+</p> 
+	    <div class="feed-divider"></div>
+	</div>
+	
+	<div class="entry-right-buttons" data-link="http://businesstravel.com.au/feed/show_entry/60247/httpfeedproxy.google.comrentrepreneurlatest3ehp6ppol3hgstory01.htm">
+	    <small>-1 years, 12 months ago	    </small>
+	    <div class="social-buttons">
+		<div class="facebook"></div>
+		<div class="twitter"></div>
+	    </div>
+	</div>
+	
+	<div class="clear5"></div>
+    		
+					
+	<div class="entry-left">
+	    	    		<a href="http://businesstravel.com.au/feed/show_entry/60224/httpfeedproxy.google.comrentrepreneurlatest3hsdlejrf8tistory01.htm" ><img src="http://businesstravel.com.au/images/logos/entrepreneur.jpg" alt="Feed" /></a>
+	    	</div>
+	<div class="entry-right" itemscope itemtype="http://schema.org/NewsArticle">
+	    <h3><a itemprop="url" href="http://businesstravel.com.au/feed/show_entry/60224/httpfeedproxy.google.comrentrepreneurlatest3hsdlejrf8tistory01.htm">SecondMarket Establishes New Bitcoin Trust for Accredited Investors</a></h3>
+	    <p>Investors who would like to make a mint off the Bitcoin market, but who can't be bothered to buy and store bitcoins themselves, may flock to SecondMarket.
+    
+</p> 
+	    <div class="feed-divider"></div>
+	</div>
+	
+	<div class="entry-right-buttons" data-link="http://businesstravel.com.au/feed/show_entry/60224/httpfeedproxy.google.comrentrepreneurlatest3hsdlejrf8tistory01.htm">
+	    <small>-1 years, 12 months ago	    </small>
+	    <div class="social-buttons">
+		<div class="facebook"></div>
+		<div class="twitter"></div>
+	    </div>
+	</div>
+	
+	<div class="clear5"></div>
+    		
+					
+	<div class="entry-left">
+	    	    		<a href="http://businesstravel.com.au/feed/show_entry/60205/httpfeedproxy.google.comrentrepreneurlatest376hzdvaaobgstory01.htm" ><img src="http://businesstravel.com.au/images/logos/entrepreneur.jpg" alt="Feed" /></a>
+	    	</div>
+	<div class="entry-right" itemscope itemtype="http://schema.org/NewsArticle">
+	    <h3><a itemprop="url" href="http://businesstravel.com.au/feed/show_entry/60205/httpfeedproxy.google.comrentrepreneurlatest376hzdvaaobgstory01.htm">Hyperloop Team to be Led by SpaceX Alum, Former Bush Appointee</a></h3>
+	    <p>Elon Musk's Hyperloop is one step closer to becoming a reality with two seasoned engineers agreeing to manage the project.
+    
+</p> 
+	    <div class="feed-divider"></div>
+	</div>
+	
+	<div class="entry-right-buttons" data-link="http://businesstravel.com.au/feed/show_entry/60205/httpfeedproxy.google.comrentrepreneurlatest376hzdvaaobgstory01.htm">
+	    <small>-1 years, 12 months ago	    </small>
+	    <div class="social-buttons">
+		<div class="facebook"></div>
+		<div class="twitter"></div>
+	    </div>
+	</div>
+	
+	<div class="clear5"></div>
+    		
+					
+	<div class="entry-left">
+	    	    		<a href="http://businesstravel.com.au/feed/show_entry/60157/httpfeedproxy.google.comrentrepreneurlatest3q8mnxgkuyc0story01.htm" ><img src="http://businesstravel.com.au/images/logos/entrepreneur.jpg" alt="Feed" /></a>
+	    	</div>
+	<div class="entry-right" itemscope itemtype="http://schema.org/NewsArticle">
+	    <h3><a itemprop="url" href="http://businesstravel.com.au/feed/show_entry/60157/httpfeedproxy.google.comrentrepreneurlatest3q8mnxgkuyc0story01.htm">How Well Are Managers Really Evaluating Their Employees? (Infographic)</a></h3>
+	    <p>Most managers have some system of evaluating and rewarding employees, but are their systems consistent and do they work? This graphic shows where many managers are falling short.
+    
+</p> 
+	    <div class="feed-divider"></div>
+	</div>
+	
+	<div class="entry-right-buttons" data-link="http://businesstravel.com.au/feed/show_entry/60157/httpfeedproxy.google.comrentrepreneurlatest3q8mnxgkuyc0story01.htm">
+	    <small>-1 years, 12 months ago	    </small>
+	    <div class="social-buttons">
+		<div class="facebook"></div>
+		<div class="twitter"></div>
+	    </div>
+	</div>
+	
+	<div class="clear5"></div>
+    		
+					
+	<div class="entry-left">
+	    	    		<a href="http://businesstravel.com.au/feed/show_entry/60158/httpfeedproxy.google.comrentrepreneurlatest3zdmg6ozjtyustory01.htm" ><img src="http://businesstravel.com.au/images/logos/entrepreneur.jpg" alt="Feed" /></a>
+	    	</div>
+	<div class="entry-right" itemscope itemtype="http://schema.org/NewsArticle">
+	    <h3><a itemprop="url" href="http://businesstravel.com.au/feed/show_entry/60158/httpfeedproxy.google.comrentrepreneurlatest3zdmg6ozjtyustory01.htm">Who's Hit Hardest by Obamacare</a></h3>
+	    <p>What industry is yelling loudest about the Patient Protection and Affordable Care Act? Meet the trade group leading a charge to water down and repeal Obamacare.
+    
+</p> 
+	    <div class="feed-divider"></div>
+	</div>
+	
+	<div class="entry-right-buttons" data-link="http://businesstravel.com.au/feed/show_entry/60158/httpfeedproxy.google.comrentrepreneurlatest3zdmg6ozjtyustory01.htm">
+	    <small>-1 years, 12 months ago	    </small>
+	    <div class="social-buttons">
+		<div class="facebook"></div>
+		<div class="twitter"></div>
+	    </div>
+	</div>
+	
+	<div class="clear5"></div>
+    		
+					
+	<div class="entry-left">
+	    	    		<a href="http://businesstravel.com.au/feed/show_entry/60133/httpfeedproxy.google.comrentrepreneurlatest3yolz9aiw3vustory01.htm" ><img src="http://businesstravel.com.au/images/logos/entrepreneur.jpg" alt="Feed" /></a>
+	    	</div>
+	<div class="entry-right" itemscope itemtype="http://schema.org/NewsArticle">
+	    <h3><a itemprop="url" href="http://businesstravel.com.au/feed/show_entry/60133/httpfeedproxy.google.comrentrepreneurlatest3yolz9aiw3vustory01.htm">Forget Mentors. Find a Mirror</a></h3>
+	    <p>"Mirrors," whether friends or colleagues, can keep you honest with yourself and on track with your goals.
+    
+</p> 
+	    <div class="feed-divider"></div>
+	</div>
+	
+	<div class="entry-right-buttons" data-link="http://businesstravel.com.au/feed/show_entry/60133/httpfeedproxy.google.comrentrepreneurlatest3yolz9aiw3vustory01.htm">
+	    <small>-1 years, 12 months ago	    </small>
+	    <div class="social-buttons">
+		<div class="facebook"></div>
+		<div class="twitter"></div>
+	    </div>
+	</div>
+	
+	<div class="clear5"></div>
+    		
+					
+	<div class="entry-left">
+	    	    		<a href="http://businesstravel.com.au/feed/show_entry/60134/httpfeedproxy.google.comrentrepreneurlatest3t-dmjcbjks0story01.htm" ><img src="http://businesstravel.com.au/images/logos/entrepreneur.jpg" alt="Feed" /></a>
+	    	</div>
+	<div class="entry-right" itemscope itemtype="http://schema.org/NewsArticle">
+	    <h3><a itemprop="url" href="http://businesstravel.com.au/feed/show_entry/60134/httpfeedproxy.google.comrentrepreneurlatest3t-dmjcbjks0story01.htm">eBay to Buy Online Payment Services Startup Braintree for $800 Million</a></h3>
+	    <p>Acquisition aimed at expanding and accelerating PayPal's mobile payments business
+    
+</p> 
+	    <div class="feed-divider"></div>
+	</div>
+	
+	<div class="entry-right-buttons" data-link="http://businesstravel.com.au/feed/show_entry/60134/httpfeedproxy.google.comrentrepreneurlatest3t-dmjcbjks0story01.htm">
+	    <small>-1 years, 12 months ago	    </small>
+	    <div class="social-buttons">
+		<div class="facebook"></div>
+		<div class="twitter"></div>
+	    </div>
+	</div>
+	
+	<div class="clear5"></div>
+    		
+					
+	<div class="entry-left">
+	    	    		<a href="http://businesstravel.com.au/feed/show_entry/60135/httpfeedproxy.google.comrentrepreneurlatest3yrtshe2uaa4story01.htm" ><img src="http://businesstravel.com.au/images/logos/entrepreneur.jpg" alt="Feed" /></a>
+	    	</div>
+	<div class="entry-right" itemscope itemtype="http://schema.org/NewsArticle">
+	    <h3><a itemprop="url" href="http://businesstravel.com.au/feed/show_entry/60135/httpfeedproxy.google.comrentrepreneurlatest3yrtshe2uaa4story01.htm">How to Encourage Employee Wellness Without Being a Jerk</a></h3>
+	    <p>Lessons on how to build an employee wellness program from Penn State's recent misstep, to three companies who are getting it right.
+    
+</p> 
+	    <div class="feed-divider"></div>
+	</div>
+	
+	<div class="entry-right-buttons" data-link="http://businesstravel.com.au/feed/show_entry/60135/httpfeedproxy.google.comrentrepreneurlatest3yrtshe2uaa4story01.htm">
+	    <small>-1 years, 12 months ago	    </small>
+	    <div class="social-buttons">
+		<div class="facebook"></div>
+		<div class="twitter"></div>
+	    </div>
+	</div>
+	
+	<div class="clear5"></div>
+    </div>
+    </div>
+    
+    <div class="right-column">
+	<div class="left-column-header" style="background: #339999;"><h5>Travel Products</h5></div>
+	<div class="right-column-content">
+		<div class="globaltravel">
+					<div class="globaltravel-slide">
+			    <a href="http://www.globaltravelproducts.com.au/promo/wwwshop/store/neck-safe.html"><img src="/images/thumbnails/item-1168.png" /></a>
+			    <div class="globaltravel-details">
+				<a href="http://www.globaltravelproducts.com.au/promo/wwwshop/store/neck-safe.html">Money Pouch Neck Safe - Tan</a>
+				<p>From AUD $14.95</p>
+				<a class="orderbtn" href="http://www.globaltravelproducts.com.au/promo/wwwshop/store/neck-safe.html">Order</a>
+			    </div>
+			</div>
+		    			<div class="globaltravel-slide">
+			    <a href="http://www.globaltravelproducts.com.au/promo/wwwshop/store/inflatable-neck-head-rest-travel-pillow.html"><img src="/images/thumbnails/item-31.png" /></a>
+			    <div class="globaltravel-details">
+				<a href="http://www.globaltravelproducts.com.au/promo/wwwshop/store/inflatable-neck-head-rest-travel-pillow.html">Travel Pillow - Neck & Head Rest</a>
+				<p>From AUD $12.95</p>
+				<a class="orderbtn" href="http://www.globaltravelproducts.com.au/promo/wwwshop/store/inflatable-neck-head-rest-travel-pillow.html">Order</a>
+			    </div>
+			</div>
+		    			<div class="globaltravel-slide">
+			    <a href="http://www.globaltravelproducts.com.au/promo/wwwshop/store/search-alert-luggage-locks.html"><img src="/images/thumbnails/item-1449.png" /></a>
+			    <div class="globaltravel-details">
+				<a href="http://www.globaltravelproducts.com.au/promo/wwwshop/store/search-alert-luggage-locks.html">SearchAlert TSA Indicator Combination Lock - Black</a>
+				<p>From AUD $15.96</p>
+				<a class="orderbtn" href="http://www.globaltravelproducts.com.au/promo/wwwshop/store/search-alert-luggage-locks.html">Order</a>
+			    </div>
+			</div>
+		    			<div class="globaltravel-slide">
+			    <a href="http://www.globaltravelproducts.com.au/promo/wwwshop/store/clip-safe.html"><img src="/images/thumbnails/item-1009.png" /></a>
+			    <div class="globaltravel-details">
+				<a href="http://www.globaltravelproducts.com.au/promo/wwwshop/store/clip-safe.html">Money Pouch Clip Safe - Tan</a>
+				<p>From AUD $12.95</p>
+				<a class="orderbtn" href="http://www.globaltravelproducts.com.au/promo/wwwshop/store/clip-safe.html">Order</a>
+			    </div>
+			</div>
+		    			<div class="globaltravel-slide">
+			    <a href="http://www.globaltravelproducts.com.au/promo/wwwshop/store/keepsafe-mens-security-singlets.html"><img src="/images/thumbnails/item-1286.png" /></a>
+			    <div class="globaltravel-details">
+				<a href="http://www.globaltravelproducts.com.au/promo/wwwshop/store/keepsafe-mens-security-singlets.html">Slim Fit Mens XXL Black Singlet 115(C) 75cm (L)</a>
+				<p>From AUD $15.00</p>
+				<a class="orderbtn" href="http://www.globaltravelproducts.com.au/promo/wwwshop/store/keepsafe-mens-security-singlets.html">Order</a>
+			    </div>
+			</div>
+		    		</div>
+		
+		<script type="text/javascript">
+		    $(document).ready(function() {
+			$('.globaltravel').cycle({
+			    fx: 'fade',
+			});
+		    });
+		</script>
+
+
+		<div id="ajaxresult">
+			<div id="message">
+			</div>
+		</div>
+
+		<script type="text/javascript">
+		
+		$("#message").html('<img src="http://businesstravel.com.au/images/spinner.gif" alt="Loading" />');
+		$("#ajaxresult").load('/feed/show_feed_column_categories', function(response, status, xhr) {
+			$("#message").html('');
+		});
+		
+		</script> 
+	</div>
+	<div class="clear5"></div>
+</div>
+    <div class="clear5"></div>
+</div>
+
+<div class="clear40"></div>
+<div class="footer">
+	<div class="footer-links">
+		<h2 style="margin-bottom: 14px;">News by Category</h2>
+		  							<div class="footer-category">
+				<a href="http://businesstravel.com.au/rewards">Rewards</a>								</div>
+							<div class="footer-category">
+				<a href="http://businesstravel.com.au/hotels">Hotels</a>								</div>
+							<div class="footer-category">
+				<a href="http://businesstravel.com.au/airlines">Airlines</a>								</div>
+							<div class="footer-category">
+				<a href="http://businesstravel.com.au/cars">Cars</a>								</div>
+							<div class="footer-category">
+				<a href="http://businesstravel.com.au/news">News</a>								</div>
+							<div class="footer-category">
+				<a href="http://businesstravel.com.au/travel_advice">Warning</a>								</div>
+					      	</div>
+	<div class="footer-links">
+		<form id="suggestfeed" method="post" action="">
+			<div class="footer-title">
+				<img src="http://businesstravel.com.au/images/footerSuggestFeed.png" alt="Suggest Feed" />
+				<h2>Suggest a Feed</h2>
+			</div>
+			<div class="clear"></div>
+			 			 <p>If there's a feed you like and use and would prefer to see it here just bang the URL in below and we'll add it...providing we can.
+			 We'll email you when it's in - then we'll delete your email address...promise.</p>
+			 <table>
+			 <tr><td>Feed url:</td><td><input type="text" size="30" id="feed" name="feed" value="" /></td></tr>
+			 <tr><td>Email:</td><td><input type="text" size="30" id="email" name="email" value="" /></td></tr>
+			 <tr><td></td><td><input style="float: right;" type="submit" value="Submit" name="feedbtn" id="feedbtn" /></td></tr>
+			 <tr><td></td><td>			 </td></tr>
+			 </table>
+			 		</form>
+	</div>
+	<div class="footer-links" style="background: none;">
+		<div class="footer-title">
+			<img src="http://businesstravel.com.au/images/footerHowItWorks.png" alt="How it works" />
+			<h2>How it Works</h2>
+		</div>
+		<div class="clear"></div>
+		<p>We have developed links to a range of existing Business Travel feeds.</p>
+		<p>We use an algorithm based around likes and tweets over time to try and rank popular and most recent articles first.</p>
+		<p>This should keep the news fresh and always changing. We would love to get your feedback on improvements or additions,
+		just let us know <a style="padding: none; display: inline;" href="http://www.twitter.com/Bustrav" target="_blank" >here</a>.
+	</div>
+	<div class="clear"></div>
+</div>
+<div class="copyright">&copy; Copyright Business Travel 2011-2013 | <a title="PHP Webside Developer Melbourne" href="http://wwwshop.com.au" target="_blank">Melbourne PHP Developers</a> WWWShop</div>
+</div>
+</div>
+</body>
+</html>

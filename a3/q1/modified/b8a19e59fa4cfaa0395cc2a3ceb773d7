@@ -1,0 +1,1196 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+  <title>Blackpool - Basham Happy to play any where</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+  <meta name="keywords" lang="en" content="Blackpool, Blackpool FC, FC, Football, Club, Football Club, News, League One, Seasiders, The Seasiders, Bloomfield Road, Tangerines, The Tangerines" />
+  <meta name="description" lang="en" content="Basham happy to play in the utility role...." />
+  <meta name="distribution" content="global>" />
+  <meta name="rating" content="general" />
+  <meta name="author" content="Vitalnetwork Ltd" />
+  <meta name="copyright" content="Vitalnetwork Ltd" />
+  <meta http-equiv="Refresh" content="" />
+  <!--  OneAll Begin -->
+<script type="text/javascript">
+ var oneall_js_protocol = (("https:" == document.location.protocol) ? "https" : "http");
+ document.write(unescape("%3Cscript src='" + oneall_js_protocol + "://vitalfootball.api.oneall.com/socialize/library.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<!--  OneAll End -->
+
+<script type="text/javascript" src="/resource/includes/js_include.js"></script>
+
+  <link rel="shortcut icon" href="http://www.vitalfootball.co.uk/sitemedia/vf.ico" />
+     <!--[if !IE]><!-->  
+     <style type="text/css">@import 'style_alternative.css';</style>  
+   <!--<![endif]-->  
+   <!--[if IE 6]>  
+     <style type="text/css">@import 'style_alternativeIE6.css';</style>  
+   <![endif]-->  
+   <!--[if gte IE 7]>  
+     <style type="text/css">@import 'style_alternative.css';</style>  
+   <![endif]-->
+    <script type="text/javascript" src="https://apis.google.com/js/plusone.js">
+      {lang: 'en-GB'}
+    </script>
+
+    <script type="text/javascript" src="/resource/football/includes/ads/respondbutton.js"></script>    
+
+
+
+ <!-- Begin New new Supernovacy -->
+
+<link rel="stylesheet" href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.10.2/themes/cupertino/jquery-ui.css" />
+<style media="screen" type="text/css">
+
+.ui-dialog { overflow: visible; }
+.ui-dialog-title-bar { position: absolute; top: -10px; right: -10px; width: 4px; height: 20px; z-index: 2000; }
+.ui-dialog-title { display: none; }
+.overlay{
+    color:#fff;
+    cursor:pointer;
+    background:rgba(0,0,0,0.1);
+    position:absolute;
+    top:0px;
+    left:0px;
+}
+.overlay:hover{
+    background:rgba(0,0,0,0);
+}
+</style>
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.10.2/jquery-ui.min.js"></script>
+<script language="javascript" src="http://cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.3.1/jquery.cookie.min.js"></script>
+<script>
+//ISO-3166-alpha2
+var dict_ads = {
+    "else": 
+{
+"provider1": 
+[   
+'400',//first section: width
+60*24,//second section : cookie frequency cap in minutes
+"http://affiliatehub.skybet.com/processing/clickthrgh.asp?btag=a_11268b_561&aid=VITAL",//third section : on close url
+'400'  //fourth section: height
+],
+"provider2": 
+[   
+'400',//first section: width
+60*24,//second section : cookie frequency cap in minutes
+"http://partners.betfredaffiliates.com/processing/clickthrgh.asp?btag=a_16953b_2337&aid=VITAL",//third section : on close url
+'400'  //fourth section: height
+],
+"provider3": 
+[   
+'400',//first section: width
+60*24,//second section : cookie frequency cap in minutes
+"http://affiliatehub.skybet.com/processing/clickthrgh.asp?btag=a_11268b_614&aid=VITAL",//third section : on close url
+'400'  //fourth section: height
+]
+}
+};
+
+var limit_per_day=1;
+
+
+
+$(window).resize(function() {$("#dialog").dialog("option", "position", ['right','bottom']);});
+$(window).scroll(function() {$("#dialog").dialog("option", "position", ['right','bottom']);});
+$(document).ready(function() {
+
+    //alert(screen.availWidth+'x'+screen.availHeight)
+    var url_to_load     = null;
+    var name_to_load    = null;
+    var html_to_load    = null;
+    var time_to_load    = null;    
+    var width_to_load   = 300;
+    var height_to_load   = 300;
+    var country_to_load = null;
+
+   
+        country_to_load = 'else'
+    
+        _dict_ads = dict_ads['else'] 
+        
+        for (_key in _dict_ads) {
+            if ( jQuery.cookie("steponlayer_corner_"+_key)!=1 ){
+                name_to_load   = _key
+                time_to_load   = _dict_ads[_key][1]
+                url_to_load    = _dict_ads[_key][2]
+                height_to_load = _dict_ads[_key][3]
+                width_to_load  = _dict_ads[_key][0]
+
+                break;// outer_loop;
+            }
+        }
+        if (name_to_load == null){
+        } //if has all the cookies and none has expired cancel popup
+        else if(screen.availWidth<650 || screen.availHeight<600){}//too small
+        else if(jQuery.cookie("steponlayer_corner_"+"___capoday")!=1){
+
+            $( "#dialog" ).dialog({
+
+                autoOpen: false,
+                            width: width_to_load,
+                            height: height_to_load,
+                position:['right','bottom'],
+                    });
+            $( "#dialog").html("<a href='"+url_to_load+ "' target='_blank'><iframe id='framex' style='overflow:hidden;padding:0px;margin:0px' width='"+width_to_load+"' height='"+height_to_load+"' frameborder='0' src='"+url_to_load+"'></iframe></a>") 
+            $("#dialog").dialog("open");  
+                  setcookie(name_to_load,time_to_load)
+          setcookie("___capoday",60*24)
+
+  var W=0, H=0, X=0, Y=0;
+
+   W = $("#framex").width();
+   H = $("#framex").height();
+   X = $("#framex").position().left;
+   Y = $("#framex").position().top;
+   $("#framex").after('<div class="overlay" />');
+   $("#framex").next('.overlay').css({
+        width: W,
+        height: H,
+        left: X,
+        top: Y        
+    });
+        }
+   
+});
+
+
+function setcookie(name,time_min){
+        var date = new Date();
+        date.setTime(date.getTime() + (time_min * 60 * 1000));
+        $.cookie("steponlayer_corner_"+name, 1, { expires : date , path: '/' });
+} 
+
+     
+</script>
+
+<!-- End New new Supernovacy -->
+<script type='text/javascript'src='http://delivery.ads-creativesyndicator.com/adserver/www/delivery/apu.php?n=&zoneid=3896&charset=UTF-8&ct0=INSERT_CLICK_MACRO'></script>
+</head>
+<body id="blackpool">
+
+<!-- <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script> -->
+<script src="/app-interstitial/resource/js/cookie.js"></script>
+<script src="/app-interstitial/resource/js/detect.js"></script>
+<div id="outer_container">
+<!-- AMG Tag 970x250 -->
+<!--
+<iframe width="970" height="250" src="http://ad.amgdgt.com/ads/?t=i&f=i&p=8224&pl=e93ceb50&rnd=[cache_buster]" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+-->
+  <div id="gutter_container">
+   
+  <div id="container" class="clearfix">
+  
+	  
+<div id="header">
+  <div id="logo_link"><a href="http://www.vitalfootball.co.uk" title="Vital Football News and Fans Community"><!-- --></a></div>
+  <div id="leaderboard">
+<!--/* SPORT SYNDICATOR v3.0.0 - Vital Football - Vital Football - ROS - 728x90 - 728x90 */-->
+
+<script type='text/javascript'><!--//<![CDATA[
+   document.MAX_ct0 ='INSERT_CLICKURL_HERE';
+
+   var m3_u = (location.protocol=='https:'?'https://delivery.ads-creativesyndicator.com/adserver/www/delivery/ajs.php':'http://delivery.ads-creativesyndicator.com/adserver/www/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=595");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if ((typeof(document.MAX_ct0) != 'undefined') && (document.MAX_ct0.substring(0,4) == 'http')) {
+       document.write ("&amp;ct0=" + escape(document.MAX_ct0));
+   }
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script><noscript><a href='http://delivery.ads-creativesyndicator.com/adserver/www/delivery/ck.php?n=afbabd42&amp;cb=48058' target='_blank'><img src='http://delivery.ads-creativesyndicator.com/adserver/www/delivery/avw.php?zoneid=595&amp;cb=48058&amp;n=afbabd42&amp;ct0=INSERT_CLICKURL_HERE' border='0' alt='' /></a></noscript>
+</div>
+</div>
+
+      <div class="clearfix">
+        <!-- -->
+      </div>
+    <div id="sub_container">
+      
+        <div id="columnA">
+UK time is: 00:38:16
+        <div class="home_link">
+	  <a href="http://www.vitalfootball.co.uk"><img border="0" alt="Home" src="/resource/football/globalmedia/home.png"/></a>
+
+	  <a href="http://www.facebook.com/profile.php?id=1739690877&ref=ts" target=_blank"><img border="0" alt="Vital Football on Facebook" src="/resource/football/globalmedia/face20.png"/></a>
+
+	  <a href="http://twitter.com/vitalblackpool" target=_blank"><img border="0" alt="Vital Football on Twitter" src="/resource/football/globalmedia/twit20.png"/></a>
+
+	  <a href="http://www.vitalfootball.co.uk/rss.asp?t=4DFECA4E-407F-4538-8923-B541609996D1"target=_blank"><img border="0" alt="Vital Football via RSS Feed" src="/resource/football/globalmedia/rss20.png"/></a>
+
+        </div>
+
+<div><span style="font-size:14px; font-weight: bold; padding-left: 5px; marin-top: 5px;">Vital Login</span></div>
+        <form id="frmLogin" action="http://www.blackpool.vitalfootball.co.uk/article.asp?a=537436" method="post" name="frmLogin">
+          <div class="username">
+            <label for="username">Username:</label>
+            <input id="username" type="text" size="16" class="form_a" name="txtU" />
+          </div>
+          <div class="password">
+            <label for="password">Password:</label>
+            <input id="password" type="password" size="16" class="form_a" name="txtP" />
+          </div>
+          <div class="links"><a href="http://www.vitalfootball.co.uk/forum/register.asp?p=4DFECA4E-407F-4538-8923-B541609996D1">Need to Register?</a> <a href="forum/forgot-password.asp">Forgotten details?</a></div>
+          <div class="login_button">
+            <input type="image" src="/images/button_login.jpg" onclick="flogin()" value="Login" class="form_abut" name="Submit" />
+          </div>
+          <input type="hidden" name="txtAction" />
+        </form>
+
+    <div><span style="font-size:14px; font-weight: bold; padding-left: 5px;">Social Login</span></div>
+    <div id="social_login_container2"style="width: 130px; padding-left: 25px;"></div>
+
+<script type="text/javascript">
+ oneall.api.plugins.social_login.build("social_login_container2", {
+  'providers' :  ['facebook', 'google', 'linkedin', 'twitter'], 
+  'grid_size_x': 2,
+  'callback_uri': 'http://www.vitalfootball.co.uk/forum/callback.asp?goto=http://www.blackpool.vitalfootball.co.uk/article.asp?a=537436',
+   css_theme_uri: "http://public.oneallcdn.com/css/api/socialize/themes/wordpress/default.css"
+ });
+</script>
+
+	<ul class="left_nav">
+	  <li>
+	    <div style="width:119px;font-size:8px;line-height:11px;font-family:Verdana,Arial,Helvetica,sans-serif;text-align:center">
+	      <a href="http://www.newsnow.co.uk/h/Sport/Football" style="text-decoration:none;color:#444" target="_blank">
+		<img src="/resource/globalmedia/NNNav.gif" style="width:119px;height:47px;border:0;display:block;padding-bottom:2px" alt="As featured on NewsNow:Blackpool news" title="Click here for more Blackpool news from NewsNow"/>Blackpool News 24/7</a>
+	    </div>
+	  </li>
+	</ul>
+        <div class="section_header">
+          <h3>Choose your club</h3>
+        </div>
+        <div class="section_container">
+          <form id="frmTeam" method="post" action="" name="frmTeam">
+            <select id="select_team" onchange="javascript:document.frmTeam.action = document.frmTeam.optTeam.value; document.frmTeam.submit();" class="vf_select" name="optTeam">
+              <option value="" selected ="selected">Club Selector</option>
+
+		      <option value="http://www.england.vitalfootball.co.uk">England</option>
+		      <option value="http://www.scotland.vitalfootball.co.uk">Scotland</option>
+
+              <option value="http://www.vitalfootball.co.uk/championship.asp">--- Championship Home Page ---</option>
+              <option value="http://www.barnsley.vitalfootball.co.uk">Barnsley</option>
+              <option value="http://www.birmingham.vitalfootball.co.uk">Birmingham</option>
+              <option value="http://www.blackpool.vitalfootball.co.uk">Blackpool</option>
+              <option value="http://www.blackburn.vitalfootball.co.uk">Blackburn</option>
+	      <option value="http://www.bolton.vitalfootball.co.uk">Bolton</option>            
+              <option value="http://www.bournemouth.vitalfootball.co.uk">Bournemouth</option>
+              <option value="http://www.bha.vitalfootball.co.uk">Brighton</option>
+	      <option value="http://www.burnley.vitalfootball.co.uk">Burnley</option>
+	      <option value="http://www.charlton.vitalfootball.co.uk">Charlton</option>        
+              <option value="http://www.derby.vitalfootball.co.uk">Derby County</option>
+              <option value="http://www.doncaster.vitalfootball.co.uk">Doncaster</option>
+              <option value="http://www.huddersfield.vitalfootball.co.uk">Huddersfield</option>
+              <option value="http://www.ipswich.vitalfootball.co.uk">Ipswich</option>
+	      <option value="http://www.leeds.vitalfootball.co.uk">Leeds Utd</option>  
+	      <option value="http://www.leicester.vitalfootball.co.uk">Leicester City</option>              
+	      <option value="http://www.middlesbrough.vitalfootball.co.uk">Middlesbrough</option>
+              <option value="http://www.millwall.vitalfootball.co.uk">Millwall</option>
+              <option value="http://www.forest.vitalfootball.co.uk">Nottingham Forest</option>
+	      <option value="http://www.qpr.vitalfootball.co.uk">Q.P.R.</option>
+              <option value="http://www.reading.vitalfootball.co.uk">Reading</option>
+              <option value="http://www.sheffwed.vitalfootball.co.uk">Sheff Wed</option>           
+              <option value="http://www.watford.vitalfootball.co.uk">Watford</option>
+              <option value="http://www.wigan.vitalfootball.co.uk">Wigan</option>
+	      <option value="http://www.yeovil.vitalfootball.co.uk">Yeovil</option>
+
+		      <option value="http://www.vitalfootball.co.uk/sitemap.asp">---- Other Clubs ----</option>             
+            </select>
+          </form>
+        </div>
+
+        <div class="section_header">
+          <h3>Other Sites</h3>
+        </div>
+        <div class="section_container">
+          <form id="frmOtherSites" method="post" action="" name="frmOtherSites">
+            <select id="select_other_sites" onchange="javascript:document.frmOtherSites.action = document.frmOtherSites.optOtherSites.value; document.frmOtherSites.submit();" class="vf_select" name="optOtherSites">
+              <option value="" selected ="selected">Site Selector</option>
+	      <option value="http://www.vitalf1.com">Vital F1</option>
+	      <option value="http://www.vitalcricket.com">Vital Cricket</option>
+	      <option value="http://www.vitalboxing.com">Vital Boxing</option>
+	      <option value="http://www.pfyc.vitalfootball.co.uk">Play For Your Club</option>
+	      <option value="http://www.broadcasting.vitalfootball.co.uk">Vital Broadcasting</option>
+	      <option value="http://www.susd.vitalfootball.co.uk/forum/category-view.asp">StandUpSitDown</option>
+	      <option value="http://www.lionsandlegends.co.uk">Lions and Legends</option>
+            </select>
+          </form>
+        </div>
+
+  <!--  <div class="section_header">
+          <h3>Vital Shop</h3>
+        </div> -->
+
+
+
+        <div class="section_header">
+          <h3>Network Navigation</h3>
+        </div>
+        <ul class="left_nav">
+	  <li><a href="http://www.vitalfootball.co.uk/about.asp" target="_blank">About Vital Football</a></li>
+          <li><a href="http://www.vitalfootball.co.uk/sitemap.asp">Site Map</a></li>
+          <li><a href="http://www.masterleague.vitalfootball.co.uk/" target="_blank">Members League</a></li>    
+	  <li><a href="http://www.vitalfootball.co.uk/advertise.asp">Advertising Opportunities</a></li>   
+        </ul>
+        <div class="section_header">
+          <h3>Vital Partners</h3>
+        </div>
+        <ul class="left_nav">
+	  <li><a href="http://www.fsf.org.uk/" target="blank">Safe Standing!</a></li>
+	  <li><a href="http://www.SofaScore.com" target="blank">SofaScore livescore</a></li>
+        </ul>
+        <div class="section_container slogan">'If It's Football, It's Vital' </div>
+      </div>
+
+      <div id="columnB">
+         <div>
+
+</div>
+	<div class="white_bg">
+          
+  <div class="clearfix">
+    <!-- -->
+  </div>
+   <div id="main_banner"><img alt="Blackpool Football Club News" src="/images/banner.jpg" width="854" height="114" /></div>
+  <div class="clearfix">
+    <!-- -->
+  </div><div id="menu_container">
+  <ul id="clubmenu" class="nav" >
+    <li class="drop"><a href="/">Vital Blackpool Home</a></li>
+
+    <li class="drop"><a href="#">Vital Blackpool Menu<!--[if gte IE 7]><!--></a><!--<![endif]-->
+	<!--[if lte IE 6]><table><tr><td><![endif]-->
+      <ul>
+	  <<li><a href="/forum">Vital Blackpool Forums</a></li>
+
+		<li><a href="/site.asp?cat=129">News</a></li>
+
+		<li><a href="/site.asp?cat=243">Match Preview</a></li>
+
+		<li><a href="/site.asp?cat=357">Match Reports</a></li>
+
+		<li><a href="/site.asp?cat=471">Match Stats</a></li>
+
+		<li><a href="/site.asp?cat=787">Directions</a></li>
+
+		<li><a href="/site.asp?cat=788">Contact The Club</a></li>
+
+		<li><a href="/site.asp?cat=790">History</a></li>
+
+		<li><a href="/site.asp?cat=818">Site Poll</a></li>
+
+		<li><a href="/site.asp?cat=1158">Features</a></li>
+
+		<li><a href="/squad.asp?cat=1611">Squad</a></li>
+
+		<li><a href="/site.asp?cat=2015">Man of the Match</a></li>
+
+		<li><a href="/site.asp?cat=2016">Men In Black</a></li>
+
+		<li><a href="/site.asp?cat=2017">Away Ground Guides</a></li>
+
+		<li><a href="/site.asp?cat=2018">Head To Head</a></li>
+
+		<li><a href="/site.asp?cat=2023">Transfer Talk</a></li>
+
+		<li><a href="/site.asp?cat=2096">Scouting Report</a></li>
+
+		<li><a href="/site.asp?cat=2098">On This Day</a></li>
+
+		<li><a href="/site.asp?cat=2099">2013-2014 Predictions</a></li>
+	
+		<li><a href="/results.asp">Results</a></li>									
+        <li><a href="/Links.asp">Links</a></li>
+        <li><a href="/Polls.asp">Polls</a></li>
+        <li><a href="/input.asp?a">Suggest an article</a></li>
+        <li><a href="/input.asp?p">Suggest a poll</a></li>
+       <li><a href="http://www.facebook.com/profile.php?id=1739690877&ref=ts" target="blank">Vital Blackpool Facebook</a></li>
+       <li><a href="http://twitter.com/vitalblackpool" target="blank">Vital Blackpool Twitter</a></li>
+      </ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+<!--</ul>moved up-->
+    </li>
+   <li class="drop"><a href="/forum">Vital Blackpool Forums<!--[if gte IE 7]><!--></a><!--<![endif]-->
+	<!--[if lte IE 6]><table><tr><td><![endif]-->
+      <ul>
+        <li><a href="/forum/search/query.asp?collapsethreads=1">Search</a></li>
+      </ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+<!--</ul>moved up-->	  
+    </li>
+    <li class="drop"><a href="#">Vital Membership<!--[if gte IE 7]><!--></a><!--<![endif]-->
+	<!--[if lte IE 6]><table><tr><td><![endif]-->
+      <ul>      
+        <li><a href="http://www.vitalfootball.co.uk/forum/register.asp?p=4DFECA4E-407F-4538-8923-B541609996D1">Register an account</a></li>
+        <li><a href="/input.asp?a">Suggest an article</a></li>
+        <li><a href="/input.asp?p">Suggest a poll</a></li>
+       <li><a href="http://www.facebook.com/profile.php?id=1739690877&ref=ts" target="blank">Vital Blackpool Facebook</a></li>
+       <li><a href="http://twitter.com/vitalblackpool" target="blank">Vital Blackpool Twitter</a></li>
+        <li><a href="http://www.vitalfootball.co.uk/joinus.asp" target="_blank">Apply to be a Vital Journalist </a></li>
+        <li><a href="http://www.masterleague.vitalfootball.co.uk" target="_blank">Vital Members League </a></li>
+      </ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+<!--</ul>moved up-->
+    </li>
+  </ul>
+</div> 
+		</div>  	  
+      <div id="column01">
+            <div id="flash" style="background-image: url(resource/teams/blackpool/210_b.jpg)"></div>
+            <div class="main_article">
+			  <div class="section_container club_forum">
+
+ <p><br /><a href="forum/category-view.asp" ><span style="color:#FFFFFF;">Check out the forum! There are 1 members viewing right now. Click here to join in!</span></a></p>
+</div>
+
+              <h1>Basham Happy to play any where</h1>
+ 	    	  <!--  Share buttons start -->
+<div >
+  <div>
+<ul style="display: inline;"> 
+	<li style="float: left; list-style:none;"> 
+	    <a name="fb_share" type="button_count" href="http://www.facebook.com/sharer.php">Share</a>
+	    <script src="http://static.ak.fbcdn.net/connect.php/js/FB.Share" type="text/javascript"></script>
+	</li>
+	<li style="float: left; list-style:none; padding-left:5px; padding-right:7px;">
+<a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal">Tweet</a>
+<script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+	</li>
+	<li style="float: left; list-style:none;">
+		<g:plusone size="medium" count="true"></g:plusone> 	
+	</li>
+</ul>
+  </div>
+  <div class="clear">
+    <!-- -->
+  </div>
+</div>   
+<!--  Share buttons end --><respond_button buttonType="2" title="Basham Happy to play any where" ></respond_button>
+
+              <p>Today the Blackpool Gazette has reported that Chris Basham is happy to play in his utility role at Blackpool this season.<br><br>Chris has so far played in six positions during the eight games so far this season, and has scored two goals so far this season. Speaking to Blackpool gazette Basham says<br><br>"I think that`s what the players are like here. If you are told to do a job by the gaffer, then you just do it.'<br><br>"Everyone knows I`m the utility man and I don`t mind that. I don`t mind playing wherever I`m put.'<br><br>"If sometimes I have to go centre-half, then I`ll play there.'<br><br> "Obviously I`m not a jinky winger like Tom Ince, but I`ve got legs and can run past people.'<br><br>"It was brilliant to score on Saturday. Ricardo (Fuller) fired a brilliant ball in and I was able to get on to the end of it.'<br><br><BR>"I leapt early, which the gaffer has been teaching me to do in training. I`ve been told that jumping early puts the defenders off. In the first half I don`t think we`d have been happy with a point but in the end we were.'<br><br>"I think Leicester only had two shots at goal, one a penalty and the other which went flying into the top corner.'<br><br>"The result kept the home run going (10 points from 12), which we really wanted to do.'<br><br>"I think we`ve looked solid at home and that`s going to be important."</p>
+	  <div id="taboola-autosized-2r"></div>
+<script type="text/javascript">
+window._taboola = window._taboola || [];
+_taboola.push({mode:'autosized-2r', container:'taboola-autosized-2r'});
+</script><br/>
+<br/><br/><span style='color: #cc0000; font-weight: bold;'>Use your social login to comment on front page articles. Login using you Facebook, Twitter, Google or LinkedIn accounts and have your say!</span>
+              <p><br /><br /><b><span class="s_link"><a href='forum/forums/thread-view.asp?tid=32264'>Click here to join in the debate on the club forum.</a></span></b><br /></p>
+            </div>   
+			
+<div class="journalist">
+  <div class="image"><img height="50" width="50" src="/resource/globalmedia/catchall_j.jpg" alt="The journalist" /></div>
+  <div class="text">
+    <h3>Writer:&nbsp;<a href="journo.asp?1252">Jon Pearcy</a>&nbsp;<a href="mailto:blackpool@vitalfootball.co.uk" ><img height="13" border="0" width="16" src="resource/globalmedia/env.gif" alt="Mail feedback, articles or suggestions" /></a></h3>
+    <p>Date:Wednesday September 25 2013</p>
+	<p>Time: 12:20AM</p>
+  </div>
+  <div class="social">
+ 
+  <a href="http://www.facebook.com/profile.php?id=1739690877&ref=ts" target="_blank"><img height="50" width="50" src="/resource/globalmedia/face50.jpg" alt="Vital Blackpool&nbsp;on Facebook" border="0" /></a>
+
+  <a href="http://twitter.com/vitalblackpool" target="_blank"><img height="50" width="50" src="/resource/globalmedia/twit50.jpg" alt="Vital Blackpool&nbsp;on Twitter" border="0" /></a>
+  
+  <a href="http://www.vitalfootball.co.uk/rss.asp?t=4DFECA4E-407F-4538-8923-B541609996D1" target="_blank"><img height="50" width="50" src="/resource/globalmedia/rss50.jpg" alt="Vital Blackpool&nbsp;via RSS Feed" border="0" /></a>  
+  </div>
+  <div class="clearfix">
+    <!-- -->
+  </div>
+</div><div align="center" style="background-color:#eeeeee; padding-bottom:2px;">&nbsp;</div>	
+<div class="section_header_top"><h3>Have Your Say</h3></div>
+<div class="section_container have_your_say_submit">
+  <form class="formbuster" action="http://www.blackpool.vitalfootball.co.uk/article.asp?a=537436" method="post" name="frmComment">
+    <textarea rows="5" cols="64" class="fb_form" name="txtComment">In order to post your thoughts and comments you must be logged in.  You can do that with your Vital Football account details OR via your Facebook, Twitter, LinkedIn or Google passwords.</textarea>
+    <div align="right"><input type="hidden" value="C" name="txtAction" /><input type="button" onClick="AddComment();" value="Submit" class="form_abut" name="Submit" /></div>
+  </form>
+</div>
+
+<div id="soc_container" style="width:430px">
+  <div id="soc_header" style="background-color:#999999; padding-top: 5px; padding-left: 5px;"><span style="margin-bottom:0; font-size:18px; font-weight:bold;">Log in... </span></div>
+  <div id="soc_sub_header" style="background-color:#999999; padding-top: 3px; padding-bottom: 3px; padding-left: 5px; margin-bottom:5px;"><span style="margin-bottom:0; font-size:14px;">with your social network&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>OR</b>&nbsp&nbsp;&nbsp;&nbsp;&nbsp;with your Vital account</span></div>
+
+  <div id="soc_menu" style="background-color:#dddddd;height: 150px; width:215px;float:left;">
+    <div id="social_login_container" style="width: 215px; background-color:#dddddd;"></div>
+
+<script type="text/javascript">
+ oneall.api.plugins.social_login.build("social_login_container", {
+  'providers' :  ['facebook', 'google', 'linkedin', 'twitter'], 
+  'callback_uri': 'http://www.vitalfootball.co.uk/forum/callback.asp?goto=http://www.blackpool.vitalfootball.co.uk/article.asp?a=537436',
+   css_theme_uri: "http://public.oneallcdn.com/css/api/socialize/themes/wordpress/default.css"
+ });
+</script>
+
+    </div>
+
+<div id="soc_content" style="background-color:#eeeeee;width:215px;float:left; margin-bottom:5px;">
+  <form id="frmLogin2" action="http://www.blackpool.vitalfootball.co.uk/article.asp?a=537436" method="post" name="frmLogin2">
+    <div class="username2" align="right" style="padding-top: 5px; padding-left: 5px; padding-right: 5px;">
+      <label for="username2">Username:</label>
+      <input id="username2" type="text" size="16" class="form_a2" name="txtU2" />
+    </div>
+    <div class="password2" align="right" style="padding-top: 5px; padding-left: 5px; padding-right: 5px;">
+      <label for="password2">Password:</label>
+      <input id="password2" type="password" size="16" class="form_a2" name="txtP2" />
+    </div>
+    <div class="login_button2" align="right" style="padding-left: 5px; padding-top: 5px;">
+      <input type="image" src="/resource/football/globalmedia/button_login2.jpg" onclick="flogin2()" value="Login" class="form_abut" name="Submit2" />
+    </div>
+    <div class="links2" style="padding-top: 5px; padding-left: 5px;"><a href="http://www.vitalfootball.co.uk/forum/register.asp?p=4DFECA4E-407F-4538-8923-B541609996D1">Need to Register?</a> <a href="forum/forgot-password.asp">Forgotten details?</a></div>
+    <input type="hidden" name="txtAction2" />
+  </form>
+</div>
+</div>
+<div class="clear">
+  <!-- -->
+</div>
+
+			<!-- include virtual="/resource/football/includes/ads/LHMPU.html"-->
+								<div class="section_header_top"><h3>Recent Articles</h3></div>
+					<div class="section_container recent_articles">
+
+      				  <div class="recent_low"><p><a href="http://www.blackpool.vitalfootball.co.uk/sitepage.asp?a=537472">Meet the referee - Huddersfield v Blackpool</a> (Thursday September 26 2013)</p></div>
+
+      				  <div class="recent_high"><p><a href="http://www.blackpool.vitalfootball.co.uk/article.asp?a=537438">Your man of the match v Leicester</a> (Wednesday September 25 2013)</p></div>
+
+      				  <div class="recent_low"><p><a href="http://www.blackpool.vitalfootball.co.uk/article.asp?a=537437">Blackpool v Leeds Changed</a> (Wednesday September 25 2013)</p></div>
+
+      				  <div class="recent_high"><p><a href="http://www.blackpool.vitalfootball.co.uk/article.asp?a=537408">Can Blackpool beat the Sky curse?</a> (Monday September 23 2013)</p></div>
+
+      				  <div class="recent_low"><p><a href="http://www.blackpool.vitalfootball.co.uk/article.asp?a=537383">Todays man of the Match</a> (Saturday September 21 2013)</p></div>
+
+      				  <div class="recent_high"><p><a href="http://www.blackpool.vitalfootball.co.uk/stats.asp?a=537382">Stats: Blackpool v Leicester City </a> (Saturday September 21 2013)</p></div>
+
+      				  <div class="recent_low"><p><a href="http://www.blackpool.vitalfootball.co.uk/article.asp?a=537278">A view from Millwall Vital</a> (Tuesday September 17 2013)</p></div>
+
+      				  <div class="recent_high"><p><a href="http://www.blackpool.vitalfootball.co.uk/stats.asp?a=537259">Stats: Bournemouth v Blackpool </a> (Sunday September 15 2013)</p></div>
+
+      				  <div class="recent_low"><p><a href="http://www.blackpool.vitalfootball.co.uk/article.asp?a=537202">A view from Bournemouth Vital</a> (Friday September 13 2013)</p></div>
+
+      				  <div class="recent_high"><p><a href="http://www.blackpool.vitalfootball.co.uk/sitepage.asp?a=537200">Goldsands Stadium - Bournemouth</a> (Friday September 13 2013)</p></div>
+
+					</div>	
+				    <div class="section_header_top"><h3>Archived Articles</h3></div>
+	                <div class="article">
+                      <div class="image"><a href="#"><img height="100" border="0" width="100" src="/resource/globalmedia/magsmall.jpg" alt="List All Vital Blackpool Articles" /></a></div>
+                      <div class="text" style="text-align:center ">			   
+
+                        <a href="archives.asp?year=2005" title="Vital Blackpool Articles from 2005">Vital Blackpool Articles from 2005</a><br />
+
+                        <a href="archives.asp?year=2006" title="Vital Blackpool Articles from 2006">Vital Blackpool Articles from 2006</a><br />
+
+                        <a href="archives.asp?year=2007" title="Vital Blackpool Articles from 2007">Vital Blackpool Articles from 2007</a><br />
+
+                        <a href="archives.asp?year=2008" title="Vital Blackpool Articles from 2008">Vital Blackpool Articles from 2008</a><br />
+
+                        <a href="archives.asp?year=2009" title="Vital Blackpool Articles from 2009">Vital Blackpool Articles from 2009</a><br />
+
+                        <a href="archives.asp?year=2010" title="Vital Blackpool Articles from 2010">Vital Blackpool Articles from 2010</a><br />
+
+                        <a href="archives.asp?year=2011" title="Vital Blackpool Articles from 2011">Vital Blackpool Articles from 2011</a><br />
+
+                        <a href="archives.asp?year=2012" title="Vital Blackpool Articles from 2012">Vital Blackpool Articles from 2012</a><br />
+
+                        <a href="archives.asp?year=2013" title="Vital Blackpool Articles from 2013">Vital Blackpool Articles from 2013</a><br />
+						
+                      </div>
+                      <div class="clearfix">
+                        <!-- -->
+                      </div>
+                      </div>
+          </div>
+          <div id="column02">
+			
+<div style="width:300px; height:360px; margin:0 auto;"><div id='perf1bekxqq6578m21opt8gzo5aayk'><a href='http://www.adobe.com/go/getflashplayer' target='_blank'> <img  src='http://images.eplayer.performgroup.com/namedImage/12637/install_flash.gif' alt='Get Adobe Flash player' /></a></div> <script type='text/javascript' src='http://static.eplayer.performgroup.com/flash/js/swfobject.js'></script><script type='text/javascript' src='http://static.eplayer.performgroup.com/flash/js/performgroup.js'></script><script>addCustomPlayer('1bekxqq6578m21opt8gzo5aayk', '', '', 300, 360, 'perf1bekxqq6578m21opt8gzo5aayk', 'eplayer2');</script></div>
+			
+            <div class="clearfix">
+                <!-- -->
+            </div>
+<div align="center" style="width:300px; padding-bottom:5px;">
+  <div style="width:300px">
+    <div><img src="/images/hys_1b.gif" alt="Have your say" width="300" height="25" /></div>
+    <div style="float:left;"><a href="/input.asp?a"><img src="/images/hys_2b.gif" alt="Click here to suggest an article" width="200" height="32" border="0" /></a></div>
+    <div style="float:left;"><a href="/input.asp?p"><img src="/images/hys_3b.gif" alt="Click here to suggest a poll" width="100" height="32" border="0" /></a></div>
+    <div><img src="/images/hys_4b.gif" alt="" width="300" height="6" /></div>
+  </div>	
+</div>
+<div class="clearfix">
+  <!-- -->
+</div><div class="mpu">
+<!--/* SPORT SYNDICATOR v3.0.0 - Vital Football - Vital Football - ROS - 300x250 - 300x250 */-->
+
+<script type='text/javascript'><!--//<![CDATA[
+   document.MAX_ct0 ='INSERT_CLICKURL_HERE';
+
+   var m3_u = (location.protocol=='https:'?'https://delivery.ads-creativesyndicator.com/adserver/www/delivery/ajs.php':'http://delivery.ads-creativesyndicator.com/adserver/www/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=594");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if ((typeof(document.MAX_ct0) != 'undefined') && (document.MAX_ct0.substring(0,4) == 'http')) {
+       document.write ("&amp;ct0=" + escape(document.MAX_ct0));
+   }
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script><noscript><a href='http://delivery.ads-creativesyndicator.com/adserver/www/delivery/ck.php?n=acd7dc4b&amp;cb=48060' target='_blank'><img src='http://delivery.ads-creativesyndicator.com/adserver/www/delivery/avw.php?zoneid=594&amp;cb=48060&amp;n=acd7dc4b&amp;ct0=INSERT_CLICKURL_HERE' border='0' alt='' /></a></noscript>
+</div>
+
+<div class="section_header_top">
+  <h3>Vital Members League <a href="http://www.masterleague.vitalfootball.co.uk" class="view_all" target="_blank">(view all)</a></h3>
+</div>
+<div class="section_container">
+  <div class="new_prizes"><!--<img src="images/new_monthly_prizes.gif" alt="new monthly prizes" width="101" height="98" />--></div>
+    <table cellspacing="0" cellpadding="0" border="0" width="170">
+      <tbody>
+
+        <tr class="table_results_row">
+          <td width="25" class="table_results_t">1.</td>
+          <td class="table_results_t"><a target="_blank" title="premier 1" href="http://www.masterleague.vitalfootball.co.uk">premier 1</a></td>
+          <td class="table_results_d">270</td>
+       </tr>
+
+        <tr class="table_results_row_alt">
+          <td width="25" class="table_results_t">2.</td>
+          <td class="table_results_t"><a target="_blank" title="Bear1951" href="http://www.masterleague.vitalfootball.co.uk">Bear1951</a></td>
+          <td class="table_results_d">260</td>
+        </tr>
+
+        <tr class="table_results_row">
+          <td width="25" class="table_results_t">3.</td>
+          <td class="table_results_t"><a target="_blank" title="SeasideEssexXile" href="http://www.masterleague.vitalfootball.co.uk">SeasideEssexXile</a></td>
+          <td class="table_results_d">214</td>
+       </tr>
+
+        <tr class="table_results_row_alt">
+          <td width="25" class="table_results_t">4.</td>
+          <td class="table_results_t"><a target="_blank" title="UAE Seasider" href="http://www.masterleague.vitalfootball.co.uk">UAE Seasider</a></td>
+          <td class="table_results_d">202</td>
+        </tr>
+
+        <tr class="table_results_row">
+          <td width="25" class="table_results_t">5.</td>
+          <td class="table_results_t"><a target="_blank" title="sandgrown un" href="http://www.masterleague.vitalfootball.co.uk">sandgrown un</a></td>
+          <td class="table_results_d">138</td>
+       </tr>
+
+        <tr class="table_results_row_alt">
+          <td width="25" class="table_results_t">6.</td>
+          <td class="table_results_t"><a target="_blank" title="Poole-Pool" href="http://www.masterleague.vitalfootball.co.uk">Poole-Pool</a></td>
+          <td class="table_results_d">117</td>
+        </tr>
+
+        <tr class="table_results_row">
+          <td width="25" class="table_results_t">7.</td>
+          <td class="table_results_t"><a target="_blank" title="BobHatton" href="http://www.masterleague.vitalfootball.co.uk">BobHatton</a></td>
+          <td class="table_results_d">106</td>
+       </tr>
+
+        <tr class="table_results_row_alt">
+          <td width="25" class="table_results_t">8.</td>
+          <td class="table_results_t"><a target="_blank" title="Hastings" href="http://www.masterleague.vitalfootball.co.uk">Hastings</a></td>
+          <td class="table_results_d">92</td>
+        </tr>
+
+        <tr class="table_results_row">
+          <td width="25" class="table_results_t">9.</td>
+          <td class="table_results_t"><a target="_blank" title="Layton_Seasider" href="http://www.masterleague.vitalfootball.co.uk">Layton_Seasider</a></td>
+          <td class="table_results_d">89</td>
+       </tr>
+
+        <tr class="table_results_row_alt">
+          <td width="25" class="table_results_t">10.</td>
+          <td class="table_results_t"><a target="_blank" title="53CODGER" href="http://www.masterleague.vitalfootball.co.uk">53CODGER</a></td>
+          <td class="table_results_d">72</td>
+        </tr>
+
+      </tbody>
+   </table>
+</div>
+<div class="section_header_top">
+  <h3>League Results <a href="results.asp" class="view_all">(view all)</a></h3>
+</div>
+<div class="section_container">
+  <table cellspacing="0" cellpadding="0" border="0" width="100%">
+    <tbody>
+      <tr>
+        <td class="table_results_hdr_t" colspan="5">Latest Results</td>
+      </tr>
+
+      <tr class="table_results_row">
+        <td class="table_results_t"><a title="Blackpool" href="http://www.blackpool.vitalfootball.co.uk">Blackpool</a></td>
+        <td class="table_results_row">2</td>
+        <td class="table_results_row">-</td>
+        <td class="table_results_row">2</td>
+        <td class="table_results_t"><a title="Leicester City" href="http://www.leicester.vitalfootball.co.uk">Leicester City</a></td>
+      </tr>
+
+      <tr class="table_results_row_alt">
+        <td class="table_results_t"><a title="Millwall" href="http://www.millwall.vitalfootball.co.uk">Millwall</a></td>
+        <td class="table_results_row_alt">3</td>
+        <td class="table_results_row_alt">-</td>
+        <td class="table_results_row_alt">1</td>
+        <td class="table_results_t"><a title="Blackpool" href="http://www.blackpool.vitalfootball.co.uk">Blackpool</a></td>
+      </tr>
+
+      <tr class="table_results_row">
+        <td class="table_results_t"><a title="Bournemouth" href="http://www.bournemouth.vitalfootball.co.uk">Bournemouth</a></td>
+        <td class="table_results_row">1</td>
+        <td class="table_results_row">-</td>
+        <td class="table_results_row">2</td>
+        <td class="table_results_t"><a title="Blackpool" href="http://www.blackpool.vitalfootball.co.uk">Blackpool</a></td>
+      </tr>
+
+      <tr class="table_results_row_alt">
+        <td class="table_results_t"><a title="Blackpool" href="http://www.blackpool.vitalfootball.co.uk">Blackpool</a></td>
+        <td class="table_results_row_alt">1</td>
+        <td class="table_results_row_alt">-</td>
+        <td class="table_results_row_alt">0</td>
+        <td class="table_results_t"><a title="Watford" href="http://www.watford.vitalfootball.co.uk">Watford</a></td>
+      </tr>
+
+      <tr class="table_results_row">
+        <td class="table_results_t"><a title="Blackpool" href="http://www.blackpool.vitalfootball.co.uk">Blackpool</a></td>
+        <td class="table_results_row">1</td>
+        <td class="table_results_row">-</td>
+        <td class="table_results_row">0</td>
+        <td class="table_results_t"><a title="Reading" href="http://www.reading.vitalfootball.co.uk">Reading</a></td>
+      </tr>
+
+      <tr class="table_results_row_alt">
+        <td class="table_results_t"><a title="Middlesbrough" href="http://www.middlesbrough.vitalfootball.co.uk">Middlesbrough</a></td>
+        <td class="table_results_row_alt">1</td>
+        <td class="table_results_row_alt">-</td>
+        <td class="table_results_row_alt">1</td>
+        <td class="table_results_t"><a title="Blackpool" href="http://www.blackpool.vitalfootball.co.uk">Blackpool</a></td>
+      </tr>
+
+    </tbody>
+  </table>
+</div>
+<div align="center" style="margin: 10px;">
+<!--/* FM AD: ViF-MPU */-->
+<script type="text/javascript">
+if (!window.OX_ads) { OX_ads = []; }
+OX_ads.push({ "auid" : "365434" });
+</script>
+<script type="text/javascript">
+document.write('<scr'+'ipt src="http://ox-d.footballmedia.com/w/1.0/jstag"><\/scr'+'ipt>');
+</script>
+
+</div>
+<div class="section_header_top">
+  <h3>League Table <a href="results.asp" class="view_all">(view table)</a></h3>
+</div>
+<div class="section_container">
+  <table cellspacing="0" cellpadding="0" border="0" width="100%">
+    <tbody>
+      <tr>
+        <td class="table_results_hdr_t">Team</td>
+        <td class="table_results_hdr_d">P</td>
+        <td class="table_results_hdr_d">W</td>
+        <td class="table_results_hdr_d">D</td>
+        <td class="table_results_hdr_d">L</td>
+        <td class="table_results_hdr_d">GD</td>
+        <td class="table_results_hdr_d">Pts</td>
+      </tr>
+
+      <tr class="table_results_row_hgh">
+        <td class="table_results_t">1. <a title="Q.P.R.a" href="http://www.qpr.vitalfootball.co.uk">Q.P.R.</a></td>
+        <td class="table_results_d">8</td>
+        <td class="table_results_d">6</td>
+        <td class="table_results_d">2</td>
+        <td class="table_results_d">0</td>
+        <td class="table_results_d">6</td>
+        <td class="table_results_d">20</td>
+      </tr>
+
+      <tr class="table_results_row">
+        <td class="table_results_t">2. <a title="Burnley" href="http://www.burnley.vitalfootball.co.uk">Burnley</a></td>
+        <td class="table_results_d">8</td>
+        <td class="table_results_d">5</td>
+        <td class="table_results_d">2</td>
+        <td class="table_results_d">1</td>
+        <td class="table_results_d">8</td>
+        <td class="table_results_d">17</td>
+      </tr>
+
+      <tr class="table_results_row_hgh">
+        <td class="table_results_t">3. <a title="Leicester Citya" href="http://www.leicester.vitalfootball.co.uk">Leicester City</a></td>
+        <td class="table_results_d">8</td>
+        <td class="table_results_d">5</td>
+        <td class="table_results_d">2</td>
+        <td class="table_results_d">1</td>
+        <td class="table_results_d">5</td>
+        <td class="table_results_d">17</td>
+      </tr>
+
+      <tr class="table_results_row">
+        <td class="table_results_t">4. <a title="Blackpool" href="http://www.blackpool.vitalfootball.co.uk">Blackpool</a></td>
+        <td class="table_results_d">8</td>
+        <td class="table_results_d">5</td>
+        <td class="table_results_d">2</td>
+        <td class="table_results_d">1</td>
+        <td class="table_results_d">4</td>
+        <td class="table_results_d">17</td>
+     </tr>
+
+      <tr class="table_results_row_hgh">
+        <td class="table_results_t">5. <a title="Watforda" href="http://www.watford.vitalfootball.co.uk">Watford</a></td>
+        <td class="table_results_d">8</td>
+        <td class="table_results_d">4</td>
+        <td class="table_results_d">3</td>
+        <td class="table_results_d">1</td>
+        <td class="table_results_d">10</td>
+        <td class="table_results_d">15</td>
+      </tr>
+
+      <tr class="table_results_row">
+        <td class="table_results_t">6. <a title="Forest" href="http://www.forest.vitalfootball.co.uk">Forest</a></td>
+        <td class="table_results_d">8</td>
+        <td class="table_results_d">4</td>
+        <td class="table_results_d">3</td>
+        <td class="table_results_d">1</td>
+        <td class="table_results_d">5</td>
+        <td class="table_results_d">15</td>
+      </tr>
+
+      <tr class="table_results_row_hgh">
+        <td class="table_results_t">7. <a title="Readinga" href="http://www.reading.vitalfootball.co.uk">Reading</a></td>
+        <td class="table_results_d">8</td>
+        <td class="table_results_d">4</td>
+        <td class="table_results_d">3</td>
+        <td class="table_results_d">1</td>
+        <td class="table_results_d">4</td>
+        <td class="table_results_d">15</td>
+      </tr>
+
+    </tbody>
+  </table>
+</div><div class="mpu">
+<!-- Beginning PassBack for Ad unit Fanatix_Web ### size: [[300,250]] -->
+<script type='text/javascript' src='http://www.googletagservices.com/tag/js/gpt.js'>
+googletag.pubads().definePassback('51159526/Fanatix_Web', [[300,250]]).display();
+</script>
+<!-- End Passback -->
+</div><div class="section_header_top">
+ <h3>Breaking League News</h3>
+</div>
+<div class="section_container">
+  <table cellspacing="0" cellpadding="0" border="0" width="100%">
+    <tbody>
+
+      <tr class="table_results_row">
+        <td class="table_results_t"><a title="Wigan" href="http://www.wigan.vitalfootball.co.uk/article.asp?a=333674" target="_blank">Latics v QPR New Date Announced</a>
+          <div style="font-size: 9px; color: rgb(153, 153, 153);"> » Wigan : 26/09/2013 22:22:00</div>
+        </td>
+     </tr>
+
+      <tr class="table_results_row_alt">
+        <td class="table_results_t"><a title="Bolton" href="http://www.bolton.vitalfootball.co.uk/matchprere.asp?a=333668" target="_blank">The Ice Man</a>
+          <div style="font-size: 9px; color: rgb(153, 153, 153);"> » Bolton : 26/09/2013 21:48:00</div>
+       </td>
+    </tr>
+
+      <tr class="table_results_row">
+        <td class="table_results_t"><a title="Leeds Utd" href="http://www.leeds.vitalfootball.co.uk/article.asp?a=333667" target="_blank">LUFC 29-hour trip for the Thames Valley Whites</a>
+          <div style="font-size: 9px; color: rgb(153, 153, 153);"> » Leeds Utd : 26/09/2013 21:38:00</div>
+        </td>
+     </tr>
+
+      <tr class="table_results_row_alt">
+        <td class="table_results_t"><a title="Yeovil" href="http://www.yeovil.vitalfootball.co.uk/article.asp?a=333666" target="_blank">Defender Shane Duffy Signs On</a>
+          <div style="font-size: 9px; color: rgb(153, 153, 153);"> » Yeovil : 26/09/2013 21:15:00</div>
+       </td>
+    </tr>
+
+      <tr class="table_results_row">
+        <td class="table_results_t"><a title="Doncaster" href="http://www.doncaster.vitalfootball.co.uk/article.asp?a=333665" target="_blank">DRFC Dickov wants to win for the fans</a>
+          <div style="font-size: 9px; color: rgb(153, 153, 153);"> » Doncaster : 26/09/2013 21:07:00</div>
+        </td>
+     </tr>
+
+      <tr class="table_results_row_alt">
+        <td class="table_results_t"><a title="Birmingham" href="http://www.birmingham.vitalfootball.co.uk/article.asp?a=333663" target="_blank">James Adcock In Charge Of Reading v Blues</a>
+          <div style="font-size: 9px; color: rgb(153, 153, 153);"> » Birmingham : 26/09/2013 21:05:00</div>
+       </td>
+    </tr>
+
+      <tr class="table_results_row">
+        <td class="table_results_t"><a title="Millwall" href="http://www.millwall.vitalfootball.co.uk/article.asp?a=537481" target="_blank">Dunne - Improve At Home</a>
+          <div style="font-size: 9px; color: rgb(153, 153, 153);"> » Millwall : 26/09/2013 21:02:00</div>
+        </td>
+     </tr>
+
+    </tbody>
+  </table>
+</div><div class="section_header_top"><h3>Current Site Poll <a href="polls.asp" class="view_all">(view all polls)</a></h3></div>
+<div class="section_container">
+  <form class="formbuster" action="index.asp?a=&amp;c=" method="post" name="frmPoll">
+    <table cellspacing="0" cellpadding="0" border="0" width="100%" class="pollpane">
+      <tbody>
+        <tr>
+          <td class="poll_question"><div align="left" class="nav"><a title="Click here to suggest a poll for the site.." href="input.asp?p">Click here to suggest a poll...</a></div></td>
+        </tr>
+
+       <tr>
+         <td class="poll_square"><strong>What will the result be on friday?<br /></strong></td>
+       </tr>
+
+      <tr>
+        <td class="poll_square">Suggested By: <font color="#999999">&nbsp; </font></td>
+	  </tr>
+
+	  <tr>
+		<td class="poll_square">
+		  <table cellspacing="0" cellpadding="0" border="0" width="100%">
+			<tbody>
+
+			  <tr class="table_results_row">
+				<td width="12%"><input type="radio" value="1" name="grpPoll" /></td>
+                <td width="76%">Pool Win</td>
+                <td width="12%">67%</td>
+              </tr>
+
+			  <tr class="table_results_row_alt">
+				<td width="12%"><input type="radio" value="2" name="grpPoll" /></td>
+                <td width="76%">Pool Lose</td>
+                <td width="12%">0%</td>
+              </tr>
+
+			  <tr class="table_results_row">
+				<td width="12%"><input type="radio" value="3" name="grpPoll" /></td>
+                <td width="76%">Draw</td>
+                <td width="12%">33%</td>
+              </tr>
+
+			  <tr>
+				<td></td>
+                <td></td>
+                <td><div align="right"><input type="hidden" name="txtMode" /><input type="submit" onclick="document.frmPoll.txtMode.value='V';document.frmPoll.submit();" value="Submit" class="form_abut" name="Submit" /></div></td>
+              </tr>
+            </tbody>
+          </table>
+        </td>
+      </tr>
+
+    </tbody>
+  </table>
+</form>
+</div>
+<div align="center" style="margin: 10px;">
+
+<!--/* Sports v3.8.2.1.UI-56 - Vital Football - Vital Football - ROS - 300x* - 300x-1 */-->
+
+<script type='text/javascript'><!--//<![CDATA[
+   document.MAX_ct0 ='INSERT_CLICK_MACRO';
+
+   var m3_u = (location.protocol=='https:'?'https://delivery.ads-creativesyndicator.com/adserver/www/delivery/ajs.php':'http://delivery.ads-creativesyndicator.com/adserver/www/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=3743&amp;charset=UTF-8");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write ('&amp;charset=UTF-8');
+   document.write ("&amp;loc=" + escape(window.location));
+   document.write ("&amp;tzo=" + (new Date().getTimezoneOffset()));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if ((typeof(document.MAX_ct0) != 'undefined') && (document.MAX_ct0.substring(0,4) == 'http')) {
+       document.write ("&amp;ct0=" + escape(document.MAX_ct0));
+   }
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script><noscript><a href='http://delivery.ads-creativesyndicator.com/adserver/www/delivery/ck.php?n=ae175207&amp;cb=INSERT_RANDOM_NUMBER' target='_blank'><img src='http://delivery.ads-creativesyndicator.com/adserver/www/delivery/avw.php?zoneid=3743&amp;charset=UTF-8&amp;cb=INSERT_RANDOM_NUMBER&amp;n=ae175207&amp;ct0=INSERT_CLICK_MACRO' border='0' alt='' /></a></noscript>
+
+</div>
+
+				<div class="clearfix">
+		                <!-- -->
+		            </div>
+			        
+          </div>
+		  <div id="column03">
+    
+  
+  <div class="skyscraper">
+<table width="100%"  border="0" cellspacing="0" cellpadding="0">
+
+<tr><td style="padding-bottom:1px;"> 
+<!--/* SPORT SYNDICATOR v3.0.0 - Vital Football - Vital Football - ROS - 120x600 - 120x600 */-->
+
+<script type='text/javascript'><!--//<![CDATA[
+   document.MAX_ct0 ='INSERT_CLICKURL_HERE';
+
+   var m3_u = (location.protocol=='https:'?'https://delivery.ads-creativesyndicator.com/adserver/www/delivery/ajs.php':'http://delivery.ads-creativesyndicator.com/adserver/www/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=593");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if ((typeof(document.MAX_ct0) != 'undefined') && (document.MAX_ct0.substring(0,4) == 'http')) {
+       document.write ("&amp;ct0=" + escape(document.MAX_ct0));
+   }
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script><noscript><a href='http://delivery.ads-creativesyndicator.com/adserver/www/delivery/ck.php?n=a4ac85eb&amp;cb=48059' target='_blank'><img src='http://delivery.ads-creativesyndicator.com/adserver/www/delivery/avw.php?zoneid=593&amp;cb=48059&amp;n=a4ac85eb&amp;ct0=INSERT_CLICKURL_HERE' border='0' alt='' /></a></noscript>
+</td></tr>
+</table>
+
+<table width="100%"  border="0" cellspacing="0" cellpadding="0">
+<tr><td style="padding-bottom:1px;">
+
+
+<!--/* FM AD: ViF-Skyscraper */-->
+<script type="text/javascript">
+if (!window.OX_ads) { OX_ads = []; }
+OX_ads.push({ "auid" : "365436" });
+</script>
+<script type="text/javascript">
+document.write('<scr'+'ipt src="http://ox-d.footballmedia.com/w/1.0/jstag"><\/scr'+'ipt>');
+</script>
+
+</td></tr>
+</table>
+</div>
+  
+</div>                  <div class="clearfix">
+                      <!-- -->
+                  </div>
+                </div>
+                <div class="clearfix">
+                    <!-- -->
+                </div>
+            </div>
+        
+        <div class="clearfix">
+             <!-- -->
+        </div>   <div id="footer">
+    <ul class="nav">
+      <li><a href="http://www.vitalfootball.co.uk/links.asp">Vital Football Links</a></li>
+      <li><a href="http://www.vitalfootball.co.uk/privacypolicy.asp">Privacy Policy</a></li>
+      <li><a href="http://www.vitalfootball.co.uk/termsandconditions.asp">Terms &amp; Conditions</a></li>
+      <li><a href="http://www.vitalfootball.co.uk/advertise.asp">Advertising Opportunities</a></li>
+      <li><a href="http://www.vitalfootball.co.uk/sitemap.asp">Site Map</a></li>
+    </ul>
+  </div>
+<div id="sub_footer">
+  <p class="copyright">4 &copy; - All content copyright Vital Network Ltd, not to be reproduced without explicit permission <a href="http://www.vitalfootball.co.uk/termsandconditions.asp">Copyright Issues</a></p>
+
+  <p class="links"><a href="http://validator.w3.org/check?uri=referer" target="_blank"><img src="/resource/globalmedia/valid-html401.gif" width="88" height="31" alt="Valid HTML 4.01 Transitional" border="0" /></a> <a href="http://jigsaw.w3.org/css-validator/" target="_blank"><img src="/resource/globalmedia/vcss.gif" width="88" height="31" alt="Valid CSS!" border="0" /></a> <a href="http://www.icra.org/sitelabel/" target="_blank"><img src="/resource/globalmedia/icra_sw.gif" width="88" height="31" alt="Labelled with ICRA" border="0" /></a></p>
+
+<br />
+
+
+<div align="center"><!--/* FM AD: ViF-Leaderboard */-->
+<script type="text/javascript">
+if (!window.OX_ads) { OX_ads = []; }
+OX_ads.push({ "auid" : "365435" });
+</script>
+<script type="text/javascript">
+document.write('<scr'+'ipt src="http://ox-d.footballmedia.com/w/1.0/jstag"><\/scr'+'ipt>');
+</script>
+
+
+
+</div>
+
+
+<p align="left" class="caveat"><strong>Cookie Policy</strong><br />
+At Vital Football, we along with most other modern websites use small files called 'cookies' to create the most secure, effective and functional website possible for our users. Without these files our business model, based on advertising, breaks down and we would be unable to continue to provide the services that you are here to utilise. By continuing to use this website after seeing this message, you consent to our use of cookies on this device unless you have disabled them. For full details please read our Cookie Policy which can be found <a style="text-decoration: underline;" href="http://www.vitalfootball.co.uk/cookiepolicy.asp" title="Cookie policy">here</a>. However, if you would like to disable cookies on this device, please view our <a style="text-decoration: underline;" href="http://www.vitalfootball.co.uk/cookiepolicy.asp" title="Cookie policy">Cookie Policy</a> which contains an opt-out tool for disabling advertising cookies. Please also visit our information pages on <a style="text-decoration: underline;" href="http://www.vitalfootball.co.uk/cookiemanagement.asp" title="Cookie Management">'How to manage cookies'</a> if you would also like to block all other types of cookies. Please be aware that parts of this site will not function correctly if you disable cookies.</p>
+
+<div class="clearfix">
+<iframe width="728" scrolling="no" height="90" frameborder="0" marginwidth="0" marginheight="0" style="border: 0px none; vertical-align: bottom;" src="/resource/football/includes/ads/leaderboardFinal.html"></iframe>
+</div>
+
+</div>
+
+<!--/* FM AD: ViF-1x1 */-->
+
+<!--
+<script type="text/javascript">
+if (!window.OX_ads) { OX_ads = []; }
+OX_ads.push({ "auid" : "388101" });
+</script>
+<script type="text/javascript">
+document.write('<scr'+'ipt src="http://ox-d.footballmedia.com/w/1.0/jstag"><\/scr'+'ipt>');
+</script>
+
+-->
+
+<!--/* FM TRACKER */-->
+<script src="http://www.footballmedia.com/tracking/vitalfootball.js" type="text/javascript"></script>
+		</div>
+		
+    </div>
+	</div>
+	<!-- Google Analytics Code -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-1325942-1");
+pageTracker._setDomainName(".vitalfootball.co.uk");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+
+<script type="text/javascript">tyntVariables = {"ap":"Read more: "};</script> <script type="text/javascript" src="http://tcr.tynt.com/javascripts/Tracer.js?user=cQLVPyqLCr34IyadbiUt4I&amp;s=161&amp;lang=en"></script>
+
+<!-- start Vibrant Media IntelliTXT script section -->
+<script type="text/javascript" src="http://vitalfootball.uk.intellitxt.com/intellitxt/front.asp?ipid=11074"></script>
+<!-- end Vibrant Media IntelliTXT script section -->
+
+<!--
+<script type="text/javascript">
+sas_tmstp=Math.round(Math.random()*10000000000);sas_masterflag=1;
+function SmartAdServer(sas_pageid,sas_formatid,sas_target) {
+ if (sas_masterflag==1) {sas_masterflag=0;sas_master='M';} else {sas_master='S';};
+ document.write('<scr'+'ipt src="http://www4.smartadserver.com/call/pubj/' + sas_pageid + '/' + sas_formatid + '/' + sas_master + '/' + sas_tmstp + '/' + escape(sas_target) + '?"></scr'+'ipt>');
+}
+</script>
+<script type="text/javascript">
+sas_pageid='23601/160786';	// Page : VitalFootball.co.uk/homepage
+sas_formatid=9855;		// Format : Popunder1x1 1x1
+sas_target='';			// Targeting
+SmartAdServer(sas_pageid,sas_formatid,sas_target);
+</script>
+-->
+
+<!-- place directly above the closing </body> tag -->
+<script type="text/javascript">
+window._taboola = window._taboola || [];
+_taboola.push({article:'auto'});
+</script>
+<script type="text/javascript" src="http://cdn.taboolasyndication.com/libtrc/vitalfootball/loader.js"></script>
+
+    
+
+        
+ <!-- Supernovacy -->
+<div id="dialog"  title="" style="overflow:hidden;padding:0px;margin:0px" ></div>
+</body>
+</html>

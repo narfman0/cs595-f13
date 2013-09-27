@@ -1,0 +1,1099 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html dir="ltr" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="description" content="" />
+<meta name="keywords" content="" />    <title>ThePowerOfU.com  &quot;The DIY Search Leader WorldWide!&quot;</title>
+    <link rel="icon" href="http://www.thepowerofu.com/template/default/images/favicon.ico" type="image/x-icon" />
+    <link rel="shortcut icon" href="http://www.thepowerofu.com/template/default/images/favicon.ico" type="image/x-icon" />
+            <link rel="canonical" href="http://www.thepowerofu.com/" />    <link rel="stylesheet" type="text/css" href="http://www.thepowerofu.com/includes/jquery/jquery.css" />
+<link rel="stylesheet" type="text/css" href="http://www.thepowerofu.com/template/default/css.css" />
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.18/jquery-ui.min.js"></script>
+<script type="text/javascript" src="http://www.thepowerofu.com/includes/javascript_global.js"></script>
+<script type="text/javascript" src="http://www.thepowerofu.com/template/default/javascript.js"></script>
+<script type="text/javascript">
+//<![CDATA[
+$(window).load(function(){$.ajaxSetup({url:"http://www.thepowerofu.com/ajax.php",type:"POST",data:{from_pmd:"282e2cfa02bff525053e53924cea368d"}});$.getScript("http://www.thepowerofu.com/cron.php?type=javascript");});
+//]]>
+</script>
+
+</head>
+<body>
+<div id="header">
+    <div id="status-line">
+        <span id="breadcrumbs">
+            <a href="http://www.thepowerofu.com"><img id="home" src="http://www.thepowerofu.com/template/default/images/icon_home.gif" border="0" alt="Home" /></a>
+            <a href="http://www.thepowerofu.com">Home</a>
+                    </span>
+        <span id="login-status">
+                            <a href="http://www.thepowerofu.com/members/index.php">Login Now</a>
+                    </span>
+    </div><center>
+    <a href="http://www.thepowerofu.com" title="ThePowerOfU.com  &quot;The DIY Search Leader WorldWide!&quot;"><img id="logo" src="http://www.thepowerofu.com/template/default/images/tpu.jpg" border="0" alt="ThePowerOfU.com  &quot;The DIY Search Leader WorldWide!&quot;" /></a></center>
+</div><div id="container">
+    <div id="center" class="column">
+        <!-- MIDDLE COLUMN -->
+        <table cellpadding="0" cellspacing="0" border="0" width="100%">
+        <tr>
+            <td valign="middle" align="center" width="100%"><a href="http://click.linksynergy.com/fs-bin/click?id=QcmfnR4lZhI&offerid=53964.10000047&subid=0&type=4" target="_blank" onclick="$.ajax({async: false, cache: false, timeout: 30000, data: ({action: 'banner_click', id: 97}), error: function() { return true; }, success: function() { return true; }});"><img id="banner97" class="banner_type1" src="http://www.thepowerofu.com/files/banner/97.gif?random=1355765000" width="728" height="90" border="0" alt="" /></a></td>
+        </tr>
+            </table>
+                            <div class="box">
+                    <div class="box-header">
+                        <div class="box-side">Search</div>
+                    </div>
+                    <div class="box-body">
+                        <div class="box-side">
+                            <div class="box-content">
+                                <div id="searchform">
+    <div class="form-container">
+        <form action="http://www.thepowerofu.com/search_results.php" method="get">
+            <table style="margin: 0 auto;">
+                <tr>
+                    <td><strong>Find:</strong></td>
+                    <td><strong>Category:</strong></td>
+                    <td><strong>Location:</strong></td>
+                    <td><strong>Within:</strong></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td><input type="text" value="" id="keyword" name="keyword" class="text" /></td>
+                    <td><select id="category" name="category" class="select"><option value=""></option><option value="257">Auto, Trucks, & Boats</option><option value="380">Building & Exterior</option><option value="434">Decorating & Painting</option><option value="365">Flooring</option><option value="338">Green Home & Green Living</option><option value="258">Home & Garden</option><option value="305">Labor</option><option value="261">Lifestyle, Crafts & Recreation</option><option value="212">Other</option><option value="325">Outdoor</option><option value="259">Periodicals</option><option value="264">Personal Finance & Legal</option><option value="417">Plumbing & HVAC</option><option value="415">Printing & Publishing</option><option value="263">Store</option><option value="292">Sewing</option><option value="411">Technology</option><option value="260">Tools</option><option value="294">Wedding</option><option value="290">Woodworking</option></select></td>
+                    <td>
+                        <input type="text" value="" id="location" name="location" class="text" />                        <!-- <select id="location_id" name="location_id" class="select"><option value=""></option><option value="91961">United States</option><option value="91788">Australia</option><option value="91810">Canada</option><option value="91960">United Kingdom</option><option value="91780">Afghanistan</option><option value="91781">Albania</option><option value="91782">Algeria</option><option value="91783">Andorra</option><option value="91784">Angola</option><option value="91785">Antigua and Barbuda</option><option value="91786">Argentina</option><option value="91787">Armenia</option><option value="91789">Austria</option><option value="91790">Azerbaijan</option><option value="91791">Bahamas</option><option value="91792">Bahrain</option><option value="91793">Bangladesh</option><option value="91794">Barbados</option><option value="91795">Belarus</option><option value="91796">Belgium</option><option value="91797">Belize</option><option value="91798">Benin</option><option value="91799">Bhutan</option><option value="91800">Bolivia</option><option value="91801">Bosnia and Herzegovina</option><option value="91802">Botswana</option><option value="91803">Brazil</option><option value="91804">Brunei</option><option value="91805">Bulgaria</option><option value="91806">Burkina Faso</option><option value="91807">Burundi</option><option value="91808">Cambodia</option><option value="91809">Cameroon</option><option value="91811">Cape Verde</option><option value="91812">Central African Republic</option><option value="91813">Chad</option><option value="91814">Chile</option><option value="91815">China</option><option value="91816">Colombia</option><option value="91817">Comoros</option><option value="91818">Congo</option><option value="91819">Costa Rica</option><option value="91820">Croatia</option><option value="91821">Cuba</option><option value="91822">Cyprus</option><option value="91823">Czech Republic</option><option value="91824">Denmark</option><option value="91825">Djibouti</option><option value="91826">Dominica</option><option value="91827">Dominican Republic</option><option value="91828">East Timor</option><option value="91829">Ecuador</option><option value="91830">Egypt</option><option value="91831">El Salvador</option><option value="91832">Equatorial Guinea</option><option value="91833">Eritrea</option><option value="91834">Estonia</option><option value="91835">Ethiopia</option><option value="91836">Fiji</option><option value="91837">Finland</option><option value="91838">France</option><option value="91839">Gabon</option><option value="91840">Gambia</option><option value="91841">Georgia</option><option value="91842">Germany</option><option value="91843">Ghana</option><option value="91844">Greece</option><option value="91845">Grenada</option><option value="91846">Guatemala</option><option value="91847">Guinea</option><option value="91848">Guinea-Bissau</option><option value="91849">Guyana</option><option value="91850">Haiti</option><option value="91851">Honduras</option><option value="91852">Hungary</option><option value="91853">Iceland</option><option value="91854">India</option><option value="91855">Indonesia</option><option value="91856">Iran</option><option value="91857">Iraq</option><option value="91858">Ireland</option><option value="91859">Israel</option><option value="91860">Italy</option><option value="91861">Jamaica</option><option value="91862">Japan</option><option value="91863">Jordan</option><option value="91864">Kazakhstan</option><option value="91865">Kenya</option><option value="91866">Kiribati</option><option value="91867">North Korea</option><option value="91868">South Korea</option><option value="91869">Kuwait</option><option value="91870">Kyrgyzstan</option><option value="91871">Laos</option><option value="91872">Latvia</option><option value="91873">Lebanon</option><option value="91874">Lesotho</option><option value="91875">Liberia</option><option value="91876">Libya</option><option value="91877">Liechtenstein</option><option value="91878">Lithuania</option><option value="91879">Luxembourg</option><option value="91880">Macedonia</option><option value="91881">Madagascar</option><option value="91882">Malawi</option><option value="91883">Malaysia</option><option value="91884">Maldives</option><option value="91885">Mali</option><option value="91886">Malta</option><option value="91887">Marshall Islands</option><option value="91888">Mauritania</option><option value="91889">Mauritius</option><option value="91890">Mexico</option><option value="91891">Micronesia</option><option value="91892">Moldova</option><option value="91893">Monaco</option><option value="91894">Mongolia</option><option value="91895">Morocco</option><option value="91896">Mozambique</option><option value="91897">Myanmar</option><option value="91898">Namibia</option><option value="91899">Nauru</option><option value="91900">Nepal</option><option value="91901">Netherlands</option><option value="91902">New Zealand</option><option value="91903">Nicaragua</option><option value="91904">Niger</option><option value="91905">Nigeria</option><option value="91906">Norway</option><option value="91907">Oman</option><option value="91908">Pakistan</option><option value="91909">Palau</option><option value="91910">Panama</option><option value="91911">Papua New Guinea</option><option value="91912">Paraguay</option><option value="91913">Peru</option><option value="91914">Philippines</option><option value="91915">Poland</option><option value="91916">Portugal</option><option value="91917">Qatar</option><option value="91918">Romania</option><option value="91919">Russia</option><option value="91920">Rwanda</option><option value="91921">Saint Kitts and Nevis</option><option value="91922">Saint Lucia</option><option value="91923">Saint Vincent and The Grenadines</option><option value="91924">Samoa</option><option value="91925">San Marino</option><option value="91926">Sao Tome and Principe</option><option value="91927">Saudi Arabia</option><option value="91928">Senegal</option><option value="91929">Serbia and Montenegro</option><option value="91930">Seychelles</option><option value="91931">Sierra Leone</option><option value="91932">Singapore</option><option value="91933">Slovakia</option><option value="91934">Slovenia</option><option value="91935">Solomon Islands</option><option value="91936">Somalia</option><option value="91937">South Africa</option><option value="91938">Spain</option><option value="91939">Sri Lanka</option><option value="91940">Sudan</option><option value="91941">Suriname</option><option value="91942">Swaziland</option><option value="91943">Sweden</option><option value="91944">Switzerland</option><option value="91945">Syria</option><option value="91946">Taiwan</option><option value="91947">Tajikistan</option><option value="91948">Tanzania</option><option value="91949">Thailand</option><option value="91950">Togo</option><option value="91951">Tonga</option><option value="91952">Trinidad and Tobago</option><option value="91953">Tunisia</option><option value="91954">Turkey</option><option value="91955">Turkmenistan</option><option value="91956">Tuvalu</option><option value="91957">Uganda</option><option value="91958">Ukraine</option><option value="91959">United Arab Emirates</option><option value="91962">Uruguay</option><option value="91963">Uzbekistan</option><option value="91964">Vanuatu</option><option value="91965">Vatican City</option><option value="91966">Venezuela</option><option value="91967">Vietnam</option><option value="91968">Western Sahara</option><option value="91969">Yemen</option><option value="91970">Zambia</option><option value="91971">Zimbabwe</option></select> -->
+                    </td>
+                    <td><select id="zip_miles" name="zip_miles" class="select"><option value="" selected="selected">-</option><option value="5">5</option><option value="10">10</option><option value="25">25</option><option value="50">50</option><option value="100">100</option></select></td>
+                    <td>
+                <input type="submit" id="submit_search" name="submit_search" class="btn submit" value="Search" /></td>
+                </tr>
+                <tr>
+                    <td valign="top" style="padding-bottom: 15px"><p class="note">Keyword</p></td>
+                    <td valign="top" style="padding-bottom: 15px"><p class="note">Specific Category</p></td>
+                    <td valign="top" style="padding-bottom: 15px"><p class="note">City/State, or Zipcode</p></td>
+                    <td valign="top" style="padding-bottom: 15px"><p class="note">Miles</p></td>
+                    <td></td>
+                </tr>
+            </table>
+        </form>
+    </div>
+</div>
+<script type="text/javascript">
+if(navigator.geolocation) {
+    navigator.geolocation.getCurrentPosition(function(position) {
+        if(position.address.city && position.address.region) {
+            $("#location").val(position.address.city+", "+position.address.region);
+        }
+    });
+}
+</script>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="box-footer">
+                        <div class="box-side"></div>
+                    </div>
+                </div>
+                        <div class="box">
+            <div class="box-header">
+                <div class="box-side"><h1>ThePowerOfU.com  &quot;The DIY Search Leader WorldWide!&quot;</h1></div>
+            </div>
+            <div class="box-body">
+                <div class="box-side">
+                    <div class="box-content">
+                                                <div id="content">
+                                <div align="center" style="width: 100%; margin: 10px 0 30px 0;">
+        Category Lookup: 
+                        <a href="http://www.thepowerofu.com/sitemap.php?letter=0-9&amp;id=1&amp;type=categories"><u>0-9</u></a>&nbsp;
+                        <a href="http://www.thepowerofu.com/sitemap.php?letter=A&amp;id=1&amp;type=categories"><u>A</u></a>&nbsp;
+                        <a href="http://www.thepowerofu.com/sitemap.php?letter=B&amp;id=1&amp;type=categories"><u>B</u></a>&nbsp;
+                        <a href="http://www.thepowerofu.com/sitemap.php?letter=C&amp;id=1&amp;type=categories"><u>C</u></a>&nbsp;
+                        <a href="http://www.thepowerofu.com/sitemap.php?letter=D&amp;id=1&amp;type=categories"><u>D</u></a>&nbsp;
+                        <a href="http://www.thepowerofu.com/sitemap.php?letter=E&amp;id=1&amp;type=categories"><u>E</u></a>&nbsp;
+                        <a href="http://www.thepowerofu.com/sitemap.php?letter=F&amp;id=1&amp;type=categories"><u>F</u></a>&nbsp;
+                        <a href="http://www.thepowerofu.com/sitemap.php?letter=G&amp;id=1&amp;type=categories"><u>G</u></a>&nbsp;
+                        <a href="http://www.thepowerofu.com/sitemap.php?letter=H&amp;id=1&amp;type=categories"><u>H</u></a>&nbsp;
+                        <a href="http://www.thepowerofu.com/sitemap.php?letter=I&amp;id=1&amp;type=categories"><u>I</u></a>&nbsp;
+                        <a href="http://www.thepowerofu.com/sitemap.php?letter=J&amp;id=1&amp;type=categories"><u>J</u></a>&nbsp;
+                        <a href="http://www.thepowerofu.com/sitemap.php?letter=K&amp;id=1&amp;type=categories"><u>K</u></a>&nbsp;
+                        <a href="http://www.thepowerofu.com/sitemap.php?letter=L&amp;id=1&amp;type=categories"><u>L</u></a>&nbsp;
+                        <a href="http://www.thepowerofu.com/sitemap.php?letter=M&amp;id=1&amp;type=categories"><u>M</u></a>&nbsp;
+                        <a href="http://www.thepowerofu.com/sitemap.php?letter=N&amp;id=1&amp;type=categories"><u>N</u></a>&nbsp;
+                        <a href="http://www.thepowerofu.com/sitemap.php?letter=O&amp;id=1&amp;type=categories"><u>O</u></a>&nbsp;
+                        <a href="http://www.thepowerofu.com/sitemap.php?letter=P&amp;id=1&amp;type=categories"><u>P</u></a>&nbsp;
+                        <a href="http://www.thepowerofu.com/sitemap.php?letter=Q&amp;id=1&amp;type=categories"><u>Q</u></a>&nbsp;
+                        <a href="http://www.thepowerofu.com/sitemap.php?letter=R&amp;id=1&amp;type=categories"><u>R</u></a>&nbsp;
+                        <a href="http://www.thepowerofu.com/sitemap.php?letter=S&amp;id=1&amp;type=categories"><u>S</u></a>&nbsp;
+                        <a href="http://www.thepowerofu.com/sitemap.php?letter=T&amp;id=1&amp;type=categories"><u>T</u></a>&nbsp;
+                        <a href="http://www.thepowerofu.com/sitemap.php?letter=U&amp;id=1&amp;type=categories"><u>U</u></a>&nbsp;
+                        <a href="http://www.thepowerofu.com/sitemap.php?letter=V&amp;id=1&amp;type=categories"><u>V</u></a>&nbsp;
+                        <a href="http://www.thepowerofu.com/sitemap.php?letter=W&amp;id=1&amp;type=categories"><u>W</u></a>&nbsp;
+                        <a href="http://www.thepowerofu.com/sitemap.php?letter=X&amp;id=1&amp;type=categories"><u>X</u></a>&nbsp;
+                        <a href="http://www.thepowerofu.com/sitemap.php?letter=Y&amp;id=1&amp;type=categories"><u>Y</u></a>&nbsp;
+                        <a href="http://www.thepowerofu.com/sitemap.php?letter=Z&amp;id=1&amp;type=categories"><u>Z</u></a>&nbsp;
+            </div>
+<div>
+        <div style="float: left; width: 50%">
+        <ul class="category_list">
+                            <li class="category_list">
+                                        <div class="category">
+                                                    <a href="http://www.thepowerofu.com/browse_categories.php?id=257" title="Auto, Trucks, &amp; Boats">Auto, Trucks, &amp; Boats</a>
+                                                                            &nbsp;(18)
+                                                <br />
+                    </div>
+                                            <div class="category_description">
+                                                    </div>
+                                        <div class="subcategories">
+                                                                                    <a href="http://www.thepowerofu.com/browse_categories.php?id=448" title="Boating &amp; Sailing">Boating &amp; Sailing</a>
+                                                                                        &nbsp;(0)
+                                                        ,                                                                                    <a href="http://www.thepowerofu.com/browse_categories.php?id=287" title="Maintenance &amp; Care">Maintenance &amp; Care</a>
+                                                                                        &nbsp;(5)
+                                                        ,                                                                                    <a href="http://www.thepowerofu.com/browse_categories.php?id=449" title="Motorcycles">Motorcycles</a>
+                                                                                        &nbsp;(0)
+                                                        ,                                                                                    <a href="http://www.thepowerofu.com/browse_categories.php?id=288" title="Other">Other</a>
+                                                                                        &nbsp;(3)
+                                                        ,                                                                                    <a href="http://www.thepowerofu.com/browse_categories.php?id=289" title="Repair">Repair</a>
+                                                                                        &nbsp;(2)
+                                                                                                                                    <a href="http://www.thepowerofu.com/browse_categories.php?id=257" title="more..."> more...</a>
+                                            </div>
+                </li>
+                            <li class="category_list">
+                                        <div class="category">
+                                                    <a href="http://www.thepowerofu.com/browse_categories.php?id=380" title="Building &amp; Exterior">Building &amp; Exterior</a>
+                                                                            &nbsp;(3)
+                                                <br />
+                    </div>
+                                            <div class="category_description">
+                                                    </div>
+                                        <div class="subcategories">
+                                                                                    <a href="http://www.thepowerofu.com/browse_categories.php?id=383" title="Building Materials">Building Materials</a>
+                                                                                        &nbsp;(1)
+                                                        ,                                                                                    <a href="http://www.thepowerofu.com/browse_categories.php?id=451" title="Chimneys">Chimneys</a>
+                                                                                        &nbsp;(0)
+                                                        ,                                                                                    <a href="http://www.thepowerofu.com/browse_categories.php?id=381" title="Doors">Doors</a>
+                                                                                        &nbsp;(0)
+                                                        ,                                                                                    <a href="http://www.thepowerofu.com/browse_categories.php?id=452" title="Driveways &amp; Sidewalks">Driveways &amp; Sidewalks</a>
+                                                                                        &nbsp;(0)
+                                                        ,                                                                                    <a href="http://www.thepowerofu.com/browse_categories.php?id=453" title="Garages">Garages</a>
+                                                                                        &nbsp;(0)
+                                                                                                                                    <a href="http://www.thepowerofu.com/browse_categories.php?id=380" title="more..."> more...</a>
+                                            </div>
+                </li>
+                            <li class="category_list">
+                                        <div class="category">
+                                                    <a href="http://www.thepowerofu.com/browse_categories.php?id=434" title="Decorating &amp; Painting">Decorating &amp; Painting</a>
+                                                                            &nbsp;(10)
+                                                <br />
+                    </div>
+                                            <div class="category_description">
+                                                    </div>
+                                        <div class="subcategories">
+                                                                                    <a href="http://www.thepowerofu.com/browse_categories.php?id=435" title="Decorate with Color">Decorate with Color</a>
+                                                                                        &nbsp;(1)
+                                                        ,                                                                                    <a href="http://www.thepowerofu.com/browse_categories.php?id=436" title="Decorating for Kids">Decorating for Kids</a>
+                                                                                        &nbsp;(1)
+                                                        ,                                                                                    <a href="http://www.thepowerofu.com/browse_categories.php?id=437" title="Design by Room">Design by Room</a>
+                                                                                        &nbsp;(1)
+                                                        ,                                                                                    <a href="http://www.thepowerofu.com/browse_categories.php?id=438" title="Designers &amp; Ideas">Designers &amp; Ideas</a>
+                                                                                        &nbsp;(1)
+                                                        ,                                                                                    <a href="http://www.thepowerofu.com/browse_categories.php?id=439" title="Exterior Painting">Exterior Painting</a>
+                                                                                        &nbsp;(2)
+                                                                                                                                    <a href="http://www.thepowerofu.com/browse_categories.php?id=434" title="more..."> more...</a>
+                                            </div>
+                </li>
+                            <li class="category_list">
+                                        <div class="category">
+                                                    <a href="http://www.thepowerofu.com/browse_categories.php?id=365" title="Flooring">Flooring</a>
+                                                                            &nbsp;(3)
+                                                <br />
+                    </div>
+                                            <div class="category_description">
+                                                    </div>
+                                        <div class="subcategories">
+                                                                                    <a href="http://www.thepowerofu.com/browse_categories.php?id=339" title="Carpet &amp; Carpet Tile">Carpet &amp; Carpet Tile</a>
+                                                                                        &nbsp;(0)
+                                                        ,                                                                                    <a href="http://www.thepowerofu.com/browse_categories.php?id=366" title="Floor Moulding">Floor Moulding</a>
+                                                                                        &nbsp;(0)
+                                                        ,                                                                                    <a href="http://www.thepowerofu.com/browse_categories.php?id=368" title="Flooring Accessories">Flooring Accessories</a>
+                                                                                        &nbsp;(0)
+                                                        ,                                                                                    <a href="http://www.thepowerofu.com/browse_categories.php?id=369" title="Garage Flooring">Garage Flooring</a>
+                                                                                        &nbsp;(1)
+                                                        ,                                                                                    <a href="http://www.thepowerofu.com/browse_categories.php?id=370" title="Grout &amp; Mortar">Grout &amp; Mortar</a>
+                                                                                        &nbsp;(0)
+                                                                                                                                    <a href="http://www.thepowerofu.com/browse_categories.php?id=365" title="more..."> more...</a>
+                                            </div>
+                </li>
+                            <li class="category_list">
+                                        <div class="category">
+                                                    <a href="http://www.thepowerofu.com/browse_categories.php?id=338" title="Green Home &amp; Green Living">Green Home &amp; Green Living</a>
+                                                                            &nbsp;(1)
+                                                <br />
+                    </div>
+                                            <div class="category_description">
+                                                    </div>
+                                        <div class="subcategories">
+                                                                                    <a href="http://www.thepowerofu.com/browse_categories.php?id=506" title="Batteries">Batteries</a>
+                                                                                        &nbsp;(0)
+                                                        ,                                                                                    <a href="http://www.thepowerofu.com/browse_categories.php?id=490" title="Green Home">Green Home</a>
+                                                                                        &nbsp;(0)
+                                                        ,                                                                                    <a href="http://www.thepowerofu.com/browse_categories.php?id=491" title="Green Living">Green Living</a>
+                                                                                        &nbsp;(1)
+                                                        ,                                                                                    <a href="http://www.thepowerofu.com/browse_categories.php?id=507" title="Solar Electric">Solar Electric</a>
+                                                                                        &nbsp;(0)
+                                                        ,                                                                                    <a href="http://www.thepowerofu.com/browse_categories.php?id=508" title="Solar Power">Solar Power</a>
+                                                                                        &nbsp;(0)
+                                                                                                                            </div>
+                </li>
+                            <li class="category_list">
+                                        <div class="category">
+                                                    <a href="http://www.thepowerofu.com/browse_categories.php?id=258" title="Home &amp; Garden">Home &amp; Garden</a>
+                                                                            &nbsp;(40)
+                                                <br />
+                    </div>
+                                            <div class="category_description">
+                                                    </div>
+                                        <div class="subcategories">
+                                                                                    <a href="http://www.thepowerofu.com/browse_categories.php?id=416" title="Alarm &amp; Security Systems">Alarm &amp; Security Systems</a>
+                                                                                        &nbsp;(0)
+                                                        ,                                                                                    <a href="http://www.thepowerofu.com/browse_categories.php?id=267" title="Appliances">Appliances</a>
+                                                                                        &nbsp;(1)
+                                                        ,                                                                                    <a href="http://www.thepowerofu.com/browse_categories.php?id=423" title="Basement">Basement</a>
+                                                                                        &nbsp;(0)
+                                                        ,                                                                                    <a href="http://www.thepowerofu.com/browse_categories.php?id=268" title="Cleaning">Cleaning</a>
+                                                                                        &nbsp;(1)
+                                                        ,                                                                                    <a href="http://www.thepowerofu.com/browse_categories.php?id=296" title="Electrical, Electronics, &amp; Wiring">Electrical, Electronics, &amp; Wiring</a>
+                                                                                        &nbsp;(1)
+                                                                                                                                    <a href="http://www.thepowerofu.com/browse_categories.php?id=258" title="more..."> more...</a>
+                                            </div>
+                </li>
+                            <li class="category_list">
+                                        <div class="category">
+                                                    <a href="http://www.thepowerofu.com/browse_categories.php?id=305" title="Labor">Labor</a>
+                                                                            &nbsp;(5)
+                                                <br />
+                    </div>
+                                            <div class="category_description">
+                                                    </div>
+                                        <div class="subcategories">
+                                                                    </div>
+                </li>
+                            <li class="category_list">
+                                        <div class="category">
+                                                    <a href="http://www.thepowerofu.com/browse_categories.php?id=261" title="Lifestyle, Crafts &amp; Recreation">Lifestyle, Crafts &amp; Recreation</a>
+                                                                            &nbsp;(4)
+                                                <br />
+                    </div>
+                                            <div class="category_description">
+                                                    </div>
+                                        <div class="subcategories">
+                                                                                    <a href="http://www.thepowerofu.com/browse_categories.php?id=475" title="Cooking">Cooking</a>
+                                                                                        &nbsp;(0)
+                                                        ,                                                                                    <a href="http://www.thepowerofu.com/browse_categories.php?id=476" title="Crafts &amp; Hobbies">Crafts &amp; Hobbies</a>
+                                                                                        &nbsp;(0)
+                                                        ,                                                                                    <a href="http://www.thepowerofu.com/browse_categories.php?id=477" title="Education">Education</a>
+                                                                                        &nbsp;(0)
+                                                        ,                                                                                    <a href="http://www.thepowerofu.com/browse_categories.php?id=478" title="Employment">Employment</a>
+                                                                                        &nbsp;(0)
+                                                        ,                                                                                    <a href="http://www.thepowerofu.com/browse_categories.php?id=479" title="Family">Family</a>
+                                                                                        &nbsp;(0)
+                                                                                                                                    <a href="http://www.thepowerofu.com/browse_categories.php?id=261" title="more..."> more...</a>
+                                            </div>
+                </li>
+                            <li class="category_list">
+                                        <div class="category">
+                                                    <a href="http://www.thepowerofu.com/browse_categories.php?id=212" title="Other">Other</a>
+                                                                            &nbsp;(10)
+                                                <br />
+                    </div>
+                                            <div class="category_description">
+                                                    </div>
+                                        <div class="subcategories">
+                                                                    </div>
+                </li>
+                            <li class="category_list">
+                                        <div class="category">
+                                                    <a href="http://www.thepowerofu.com/browse_categories.php?id=325" title="Outdoor">Outdoor</a>
+                                                                            &nbsp;(1)
+                                                <br />
+                    </div>
+                                            <div class="category_description">
+                                                    </div>
+                                        <div class="subcategories">
+                                                                                    <a href="http://www.thepowerofu.com/browse_categories.php?id=326" title="Barbecue Grills/Grilling">Barbecue Grills/Grilling</a>
+                                                                                        &nbsp;(0)
+                                                        ,                                                                                    <a href="http://www.thepowerofu.com/browse_categories.php?id=327" title="Firepits">Firepits</a>
+                                                                                        &nbsp;(0)
+                                                        ,                                                                                    <a href="http://www.thepowerofu.com/browse_categories.php?id=337" title="Deck">Deck</a>
+                                                                                        &nbsp;(0)
+                                                        ,                                                                                    <a href="http://www.thepowerofu.com/browse_categories.php?id=336" title="Other">Other</a>
+                                                                                        &nbsp;(0)
+                                                        ,                                                                                    <a href="http://www.thepowerofu.com/browse_categories.php?id=328" title="Outdoor Ceiling Fans">Outdoor Ceiling Fans</a>
+                                                                                        &nbsp;(0)
+                                                                                                                                    <a href="http://www.thepowerofu.com/browse_categories.php?id=325" title="more..."> more...</a>
+                                            </div>
+                </li>
+                    </ul>
+    </div>
+        <div style="float: left; width: 50%">
+        <ul class="category_list">
+                            <li class="category_list">
+                                        <div class="category">
+                                                    <a href="http://www.thepowerofu.com/browse_categories.php?id=259" title="Periodicals">Periodicals</a>
+                                                                            &nbsp;(1)
+                                                <br />
+                    </div>
+                                            <div class="category_description">
+                                                    </div>
+                                        <div class="subcategories">
+                                                                    </div>
+                </li>
+                            <li class="category_list">
+                                        <div class="category">
+                                                    <a href="http://www.thepowerofu.com/browse_categories.php?id=264" title="Personal Finance &amp; Legal">Personal Finance &amp; Legal</a>
+                                                                            &nbsp;(4)
+                                                <br />
+                    </div>
+                                            <div class="category_description">
+                                                    </div>
+                                        <div class="subcategories">
+                                                                                    <a href="http://www.thepowerofu.com/browse_categories.php?id=418" title="Bankruptcy">Bankruptcy</a>
+                                                                                        &nbsp;(0)
+                                                        ,                                                                                    <a href="http://www.thepowerofu.com/browse_categories.php?id=420" title="Credit Repair">Credit Repair</a>
+                                                                                        &nbsp;(0)
+                                                        ,                                                                                    <a href="http://www.thepowerofu.com/browse_categories.php?id=301" title="Divorce">Divorce</a>
+                                                                                        &nbsp;(1)
+                                                        ,                                                                                    <a href="http://www.thepowerofu.com/browse_categories.php?id=421" title="Home Improvement Loan">Home Improvement Loan</a>
+                                                                                        &nbsp;(0)
+                                                        ,                                                                                    <a href="http://www.thepowerofu.com/browse_categories.php?id=302" title="Other">Other</a>
+                                                                                        &nbsp;(1)
+                                                                                                                            </div>
+                </li>
+                            <li class="category_list">
+                                        <div class="category">
+                                                    <a href="http://www.thepowerofu.com/browse_categories.php?id=417" title="Plumbing &amp; HVAC">Plumbing &amp; HVAC</a>
+                                                                            &nbsp;(0)
+                                                <br />
+                    </div>
+                                            <div class="category_description">
+                                                    </div>
+                                        <div class="subcategories">
+                                                                                    <a href="http://www.thepowerofu.com/browse_categories.php?id=471" title="Air Conditioning &amp; Ventilating">Air Conditioning &amp; Ventilating</a>
+                                                                                        &nbsp;(0)
+                                                        ,                                                                                    <a href="http://www.thepowerofu.com/browse_categories.php?id=472" title="Bathroom Repair &amp; Installation">Bathroom Repair &amp; Installation</a>
+                                                                                        &nbsp;(0)
+                                                        ,                                                                                    <a href="http://www.thepowerofu.com/browse_categories.php?id=473" title="Heating">Heating</a>
+                                                                                        &nbsp;(0)
+                                                        ,                                                                                    <a href="http://www.thepowerofu.com/browse_categories.php?id=474" title="Plumbing">Plumbing</a>
+                                                                                        &nbsp;(0)
+                                                                                                                            </div>
+                </li>
+                            <li class="category_list">
+                                        <div class="category">
+                                                    <a href="http://www.thepowerofu.com/browse_categories.php?id=415" title="Printing &amp; Publishing">Printing &amp; Publishing</a>
+                                                                            &nbsp;(1)
+                                                <br />
+                    </div>
+                                            <div class="category_description">
+                                                    </div>
+                                        <div class="subcategories">
+                                                                                    <a href="http://www.thepowerofu.com/browse_categories.php?id=429" title="Business Cards">Business Cards</a>
+                                                                                        &nbsp;(0)
+                                                        ,                                                                                    <a href="http://www.thepowerofu.com/browse_categories.php?id=432" title="Canvas Prints">Canvas Prints</a>
+                                                                                        &nbsp;(0)
+                                                        ,                                                                                    <a href="http://www.thepowerofu.com/browse_categories.php?id=430" title="Christmas Cards">Christmas Cards</a>
+                                                                                        &nbsp;(0)
+                                                        ,                                                                                    <a href="http://www.thepowerofu.com/browse_categories.php?id=427" title="Other">Other</a>
+                                                                                        &nbsp;(0)
+                                                        ,                                                                                    <a href="http://www.thepowerofu.com/browse_categories.php?id=425" title="Self Publishing">Self Publishing</a>
+                                                                                        &nbsp;(1)
+                                                                                                                            </div>
+                </li>
+                            <li class="category_list">
+                                        <div class="category">
+                                                    <a href="http://www.thepowerofu.com/browse_categories.php?id=263" title="Store">Store</a>
+                                                                            &nbsp;(21)
+                                                <br />
+                    </div>
+                                            <div class="category_description">
+                                                    </div>
+                                        <div class="subcategories">
+                                                                                    <a href="http://www.thepowerofu.com/browse_categories.php?id=513" title="Craft">Craft</a>
+                                                                                        &nbsp;(0)
+                                                        ,                                                                                    <a href="http://www.thepowerofu.com/browse_categories.php?id=510" title="Hardware">Hardware</a>
+                                                                                        &nbsp;(4)
+                                                        ,                                                                                    <a href="http://www.thepowerofu.com/browse_categories.php?id=511" title="Other">Other</a>
+                                                                                        &nbsp;(2)
+                                                                                                                            </div>
+                </li>
+                            <li class="category_list">
+                                        <div class="category">
+                                                    <a href="http://www.thepowerofu.com/browse_categories.php?id=292" title="Sewing">Sewing</a>
+                                                                            &nbsp;(2)
+                                                <br />
+                    </div>
+                                            <div class="category_description">
+                                                    </div>
+                                        <div class="subcategories">
+                                                                    </div>
+                </li>
+                            <li class="category_list">
+                                        <div class="category">
+                                                    <a href="http://www.thepowerofu.com/browse_categories.php?id=411" title="Technology">Technology</a>
+                                                                            &nbsp;(2)
+                                                <br />
+                    </div>
+                                            <div class="category_description">
+                                                    </div>
+                                        <div class="subcategories">
+                                                                                    <a href="http://www.thepowerofu.com/browse_categories.php?id=517" title="Blog">Blog</a>
+                                                                                        &nbsp;(1)
+                                                        ,                                                                                    <a href="http://www.thepowerofu.com/browse_categories.php?id=413" title="Other">Other</a>
+                                                                                        &nbsp;(0)
+                                                        ,                                                                                    <a href="http://www.thepowerofu.com/browse_categories.php?id=424" title="SEO">SEO</a>
+                                                                                        &nbsp;(0)
+                                                        ,                                                                                    <a href="http://www.thepowerofu.com/browse_categories.php?id=414" title="Website">Website</a>
+                                                                                        &nbsp;(1)
+                                                                                                                            </div>
+                </li>
+                            <li class="category_list">
+                                        <div class="category">
+                                                    <a href="http://www.thepowerofu.com/browse_categories.php?id=260" title="Tools">Tools</a>
+                                                                            &nbsp;(20)
+                                                <br />
+                    </div>
+                                            <div class="category_description">
+                                                    </div>
+                                        <div class="subcategories">
+                                                                                    <a href="http://www.thepowerofu.com/browse_categories.php?id=306" title="Air Tools">Air Tools</a>
+                                                                                        &nbsp;(0)
+                                                        ,                                                                                    <a href="http://www.thepowerofu.com/browse_categories.php?id=310" title="Automotive Tools">Automotive Tools</a>
+                                                                                        &nbsp;(1)
+                                                        ,                                                                                    <a href="http://www.thepowerofu.com/browse_categories.php?id=340" title="Carpet Tools">Carpet Tools</a>
+                                                                                        &nbsp;(0)
+                                                        ,                                                                                    <a href="http://www.thepowerofu.com/browse_categories.php?id=307" title="Cordless Tools">Cordless Tools</a>
+                                                                                        &nbsp;(0)
+                                                        ,                                                                                    <a href="http://www.thepowerofu.com/browse_categories.php?id=367" title="Flooring Tools">Flooring Tools</a>
+                                                                                        &nbsp;(0)
+                                                                                                                                    <a href="http://www.thepowerofu.com/browse_categories.php?id=260" title="more..."> more...</a>
+                                            </div>
+                </li>
+                            <li class="category_list">
+                                        <div class="category">
+                                                    <a href="http://www.thepowerofu.com/browse_categories.php?id=294" title="Wedding">Wedding</a>
+                                                                            &nbsp;(3)
+                                                <br />
+                    </div>
+                                            <div class="category_description">
+                                                    </div>
+                                        <div class="subcategories">
+                                                                                    <a href="http://www.thepowerofu.com/browse_categories.php?id=407" title="Attire">Attire</a>
+                                                                                        &nbsp;(0)
+                                                        ,                                                                                    <a href="http://www.thepowerofu.com/browse_categories.php?id=409" title="Bridal Shop">Bridal Shop</a>
+                                                                                        &nbsp;(0)
+                                                        ,                                                                                    <a href="http://www.thepowerofu.com/browse_categories.php?id=408" title="Engraving">Engraving</a>
+                                                                                        &nbsp;(0)
+                                                        ,                                                                                    <a href="http://www.thepowerofu.com/browse_categories.php?id=410" title="Florist">Florist</a>
+                                                                                        &nbsp;(0)
+                                                        ,                                                                                    <a href="http://www.thepowerofu.com/browse_categories.php?id=401" title="Location">Location</a>
+                                                                                        &nbsp;(0)
+                                                                                                                                    <a href="http://www.thepowerofu.com/browse_categories.php?id=294" title="more..."> more...</a>
+                                            </div>
+                </li>
+                            <li class="category_list">
+                                        <div class="category">
+                                                    <a href="http://www.thepowerofu.com/browse_categories.php?id=290" title="Woodworking">Woodworking</a>
+                                                                            &nbsp;(8)
+                                                <br />
+                    </div>
+                                            <div class="category_description">
+                                                    </div>
+                                        <div class="subcategories">
+                                                                    </div>
+                </li>
+                    </ul>
+    </div>
+    </div>
+<br class="clear" />
+<br class="clear" />
+<br />                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="box-footer">
+                <div class="box-side"></div>
+            </div>
+        </div>
+        <!-- END MIDDLE COLUMN -->
+    </div>
+    <div id="left" class="column">
+        <!-- LEFT COLUMN -->
+        <div class="box">
+    <div class="box-header">
+        <div class="box-side">Menu</div>
+    </div>
+    <div class="box-body">
+        <div class="box-side">
+            <div class="box-content">
+                <div id="sidebox_menu">
+    <ul class="box_list">
+    <li class="box_list">
+    <a class="" href="http://www.thepowerofu.com/index.php">Home</a>
+    </li><li class="box_list">
+    <a class="" href="http://www.thepowerofu.com/page.php?id=1">News</a>
+    </li><li class="box_list">
+    <a class="" href="http://www.thepowerofu.com/browse_categories.php">Browse Categories</a>
+    </li><li class="box_list">
+    <a class="" href="http://www.thepowerofu.com/browse_locations.php">Browse Locations</a>
+    </li><li class="box_list">
+    <a class="" href="http://www.thepowerofu.com/members/user_account_add.php">Create Account</a>
+    </li><li class="box_list">
+    <a class="" href="http://www.thepowerofu.com/compare.php">Compare Memberships</a>
+    </li><li class="box_list">
+    <a class="" href="http://www.thepowerofu.com/members/">Login Now</a>
+    </li><li class="box_list">
+    <a class="" href="http://www.thepowerofu.com/search.php">Advanced Search</a>
+    </li><li class="box_list">
+    <a class="" href="http://www.thepowerofu.com/contact.php">Contact Us</a>
+    </li><li class="box_list">
+    <a class="" href="http://www.thepowerofu.com/sitemap.php">Sitemap</a>
+    </li></ul></div>            </div>
+        </div>
+    </div>
+    <div class="box-footer">
+        <div class="box-side"></div>
+    </div>
+</div>        <div class="box">
+    <div class="box-header">
+        <div class="box-side">Login</div>
+    </div>
+    <div class="box-body">
+        <div class="box-side">
+            <div class="box-content">
+                <div id="sidebox-login">
+    <div class="form-container">
+        <form class="form-horizontal" action="http://www.thepowerofu.com/members/index.php?from=aHR0cDovL3d3dy50aGVwb3dlcm9mdS5jb20v" id="login_sidebox" name="login_sidebox" method="post">            <fieldset class="hidden">
+                <ol>
+                    <li><label class="" for="user_login">Username:</label><br /><input type="text" value="" id="user_login" name="user_login" class="text" /></li>
+                    <li><label class="" for="user_pass">Password:</label><br /><input type="password" value="" autocomplete="off" id="user_pass" name="user_pass" class="text" /></li>
+                    <li><div id="remember_controlset" class="controlset">
+                <div class="item">
+        <input type="checkbox" id="remember" name="remember" value="1" />  Remember Me</div>                        </div></li>
+                </ol>
+            </fieldset>
+            <fieldset class="buttonrow">
+                
+                <input type="submit" id="submit_login" name="submit_login" class="btn submit" value="Login" />            </fieldset>
+        
+        <script type="text/javascript">
+        $(document).ready(function() {
+            $("#login_sidebox").submit(function(event) {
+                if($("#login_sidebox").attr("submitted") == "true") {
+                    event.preventDefault();
+                    return false;
+                } else {
+                    $("#login_sidebox").attr("submitted","true");
+                }
+            });
+        });
+        </script>
+        <input type="hidden" name="from_pmd" value="282e2cfa02bff525053e53924cea368d" />
+        <input type="hidden" name="bot_check" value="" />
+        </form>    </div>
+    <div style="text-align: center; padding-top: 15px;">
+        <a href="http://www.thepowerofu.com/members/user_password_remind.php">Forgot Password?</a>
+    </div>
+</div>            </div>
+        </div>
+    </div>
+    <div class="box-footer">
+        <div class="box-side"></div>
+    </div>
+</div>        <div class="box">
+    <div class="box-header">
+        <div class="box-side">Categories</div>
+    </div>
+    <div class="box-body">
+        <div class="box-side">
+            <div class="box-content">
+                <div id="sidebox_categories">
+                    <ul class="box_list">
+                                                    <li class="box_list"><a href="http://www.thepowerofu.com/browse_categories.php?id=257" title="Auto, Trucks, &amp; Boats">Auto, Trucks, &amp; Boats</a></li>
+                                                    <li class="box_list"><a href="http://www.thepowerofu.com/browse_categories.php?id=380" title="Building &amp; Exterior">Building &amp; Exterior</a></li>
+                                                    <li class="box_list"><a href="http://www.thepowerofu.com/browse_categories.php?id=434" title="Decorating &amp; Painting">Decorating &amp; Painting</a></li>
+                                                    <li class="box_list"><a href="http://www.thepowerofu.com/browse_categories.php?id=365" title="Flooring">Flooring</a></li>
+                                                    <li class="box_list"><a href="http://www.thepowerofu.com/browse_categories.php?id=338" title="Green Home &amp; Green Living">Green Home &amp; Green Living</a></li>
+                                                    <li class="box_list"><a href="http://www.thepowerofu.com/browse_categories.php?id=258" title="Home &amp; Garden">Home &amp; Garden</a></li>
+                                                    <li class="box_list"><a href="http://www.thepowerofu.com/browse_categories.php?id=305" title="Labor">Labor</a></li>
+                                                    <li class="box_list"><a href="http://www.thepowerofu.com/browse_categories.php?id=261" title="Lifestyle, Crafts &amp; Recreation">Lifestyle, Crafts &amp; Recreation</a></li>
+                                                    <li class="box_list"><a href="http://www.thepowerofu.com/browse_categories.php?id=212" title="Other">Other</a></li>
+                                                    <li class="box_list"><a href="http://www.thepowerofu.com/browse_categories.php?id=325" title="Outdoor">Outdoor</a></li>
+                                                    <li class="box_list"><a href="http://www.thepowerofu.com/browse_categories.php?id=259" title="Periodicals">Periodicals</a></li>
+                                                    <li class="box_list"><a href="http://www.thepowerofu.com/browse_categories.php?id=264" title="Personal Finance &amp; Legal">Personal Finance &amp; Legal</a></li>
+                                                    <li class="box_list"><a href="http://www.thepowerofu.com/browse_categories.php?id=417" title="Plumbing &amp; HVAC">Plumbing &amp; HVAC</a></li>
+                                                    <li class="box_list"><a href="http://www.thepowerofu.com/browse_categories.php?id=415" title="Printing &amp; Publishing">Printing &amp; Publishing</a></li>
+                                                    <li class="box_list"><a href="http://www.thepowerofu.com/browse_categories.php?id=263" title="Store">Store</a></li>
+                                                    <li class="box_list"><a href="http://www.thepowerofu.com/browse_categories.php?id=292" title="Sewing">Sewing</a></li>
+                                                    <li class="box_list"><a href="http://www.thepowerofu.com/browse_categories.php?id=411" title="Technology">Technology</a></li>
+                                                    <li class="box_list"><a href="http://www.thepowerofu.com/browse_categories.php?id=260" title="Tools">Tools</a></li>
+                                                    <li class="box_list"><a href="http://www.thepowerofu.com/browse_categories.php?id=294" title="Wedding">Wedding</a></li>
+                                                    <li class="box_list"><a href="http://www.thepowerofu.com/browse_categories.php?id=290" title="Woodworking">Woodworking</a></li>
+                                            </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="box-footer">
+        <div class="box-side"></div>
+    </div>
+</div>
+        <a href="http://click.linksynergy.com/fs-bin/click?id=QcmfnR4lZhI&offerid=191155.10000010&subid=0&type=4" target="_blank" onclick="$.ajax({async: false, cache: false, timeout: 30000, data: ({action: 'banner_click', id: 143}), error: function() { return true; }, success: function() { return true; }});"><img id="banner143" class="banner_type2" src="http://www.thepowerofu.com/files/banner/143.jpg?random=1373500734" width="160" height="600" border="0" alt="" /></a>        <div class="box">
+    <div class="box-header">
+        <div class="box-side">
+            <a href="http://www.thepowerofu.com/xml.php?type=rss_popular_categories"><img src="http://www.thepowerofu.com/template/default/images/rss.gif" alt="" /></a>Top Categories        </div>
+    </div>
+    <div class="box-body">
+        <div class="box-side">
+            <div class="box-content">
+                <div id="sidebox_popular_categories">
+                    <ul class="box_list">
+                                                    <li class="box_list"><a href="http://www.thepowerofu.com/browse_categories.php?id=212">Other</a> <span class="count">(664 Views)</span></li>
+                                                    <li class="box_list"><a href="http://www.thepowerofu.com/browse_categories.php?id=257">Auto, Trucks, &amp; Boats</a> <span class="count">(440 Views)</span></li>
+                                                    <li class="box_list"><a href="http://www.thepowerofu.com/browse_categories.php?id=258">Home &amp; Garden</a> <span class="count">(397 Views)</span></li>
+                                                    <li class="box_list"><a href="http://www.thepowerofu.com/browse_categories.php?id=260">Tools</a> <span class="count">(356 Views)</span></li>
+                                                    <li class="box_list"><a href="http://www.thepowerofu.com/browse_categories.php?id=264">Personal Finance &amp; Legal</a> <span class="count">(333 Views)</span></li>
+                                                    <li class="box_list"><a href="http://www.thepowerofu.com/browse_categories.php?id=263">Store</a> <span class="count">(332 Views)</span></li>
+                                                    <li class="box_list"><a href="http://www.thepowerofu.com/browse_categories.php?id=259">Periodicals</a> <span class="count">(325 Views)</span></li>
+                                                    <li class="box_list"><a href="http://www.thepowerofu.com/browse_categories.php?id=290">Woodworking</a> <span class="count">(303 Views)</span></li>
+                                                    <li class="box_list"><a href="http://www.thepowerofu.com/browse_categories.php?id=261">Lifestyle, Crafts &amp; Recreation</a> <span class="count">(292 Views)</span></li>
+                                                    <li class="box_list"><a href="http://www.thepowerofu.com/browse_categories.php?id=305">Labor</a> <span class="count">(258 Views)</span></li>
+                                            </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="box-footer">
+        <div class="box-side"></div>
+    </div>
+</div>
+
+        <div class="box">
+    <div class="box-header">
+        <div class="box-side">
+            <a href="http://www.thepowerofu.com/xml.php?type=rss_recent_listings"><img src="http://www.thepowerofu.com/template/default/images/rss.gif" alt="" /></a>Recent Listings        </div>
+    </div>
+    <div class="box-body">
+        <div class="box-side">
+            <div class="box-content">
+                    <ul class="box_list">
+                    <li class="box_list">
+                <a href="http://www.thepowerofu.com/listing.php?id=303" title="Island Rainsaucers"><span class="listing_sidebox_title">Island Rainsaucers</span></a><br />
+                <span class="listing_sidebox_location">1108 Ave M<br />
+Galveston, Texas 77550<br />
+United States</span><br />
+                <span class="listing_sidebox_description">Rainwater harvesting..no roof required..attach to </span><br />
+                <span class="listing_sidebox_details">08-29-2013 09:54AM</span>
+            </li>
+                    <li class="box_list">
+                <a href="http://www.thepowerofu.com/listing.php?id=302" title="Wheelfind"><span class="listing_sidebox_title">Wheelfind</span></a><br />
+                <span class="listing_sidebox_location">59-65 Webber Parade<br />
+Keilor East, Vic, Australia, 3033<br />
+australia, VIC 3033<br />
+Australia</span><br />
+                <span class="listing_sidebox_description">Quality wheels and tyres at great prices.</span><br />
+                <span class="listing_sidebox_details">08-27-2013 07:45PM</span>
+            </li>
+                    <li class="box_list">
+                <a href="http://www.thepowerofu.com/listing.php?id=301" title="Astro Pneumatic Tool Company"><span class="listing_sidebox_title">Astro Pneumatic Tool Company</span></a><br />
+                <span class="listing_sidebox_location">2417 Seaman Ave.<br />
+United States, California 91733<br />
+United States</span><br />
+                <span class="listing_sidebox_description">With over 30 years of importing product into the U.</span><br />
+                <span class="listing_sidebox_details">08-27-2013 02:22PM</span>
+            </li>
+                    <li class="box_list">
+                <a href="http://www.thepowerofu.com/listing.php?id=300" title="Steeda Autosports"><span class="listing_sidebox_title">Steeda Autosports</span></a><br />
+                <span class="listing_sidebox_location">1351 Steeda Way<br />
+Pompano, Florida 33069<br />
+United States</span><br />
+                <span class="listing_sidebox_description">Making AMERICAN Made Performance Products for Ford </span><br />
+                <span class="listing_sidebox_details">08-26-2013 01:54PM</span>
+            </li>
+                    <li class="box_list">
+                <a href="http://www.thepowerofu.com/listing.php?id=299" title="Valley Parts- Carquest"><span class="listing_sidebox_title">Valley Parts- Carquest</span></a><br />
+                <span class="listing_sidebox_location">458 Highway 93 North<br />
+Eureka, Montana 59917<br />
+United States</span><br />
+                <span class="listing_sidebox_description">Carquest Auto Parts</span><br />
+                <span class="listing_sidebox_details">08-26-2013 01:46PM</span>
+            </li>
+                    <li class="box_list">
+                <a href="http://www.thepowerofu.com/listing.php?id=298" title="JIFFY AUTO PARTS/CARQUEST"><span class="listing_sidebox_title">JIFFY AUTO PARTS/CARQUEST</span></a><br />
+                <span class="listing_sidebox_location">525 NE East Street<br />
+Grants Pass, Oregon 97526<br />
+United States</span><br />
+                <span class="listing_sidebox_description">Jiffy Auto Parts is a locally-owned auto parts </span><br />
+                <span class="listing_sidebox_details">08-26-2013 01:42PM</span>
+            </li>
+                    <li class="box_list">
+                <a href="http://www.thepowerofu.com/listing.php?id=297" title="Carquest/ OK AUTO PARTS"><span class="listing_sidebox_title">Carquest/ OK AUTO PARTS</span></a><br />
+                <span class="listing_sidebox_location">230 South Front Street<br />
+Sterling, Colorado 80751<br />
+United States</span><br />
+                <span class="listing_sidebox_description">Automotive</span><br />
+                <span class="listing_sidebox_details">08-26-2013 01:38PM</span>
+            </li>
+                    <li class="box_list">
+                <a href="http://www.thepowerofu.com/listing.php?id=296" title="European DIY-Retail Association"><span class="listing_sidebox_title">European DIY-Retail Association</span></a><br />
+                <span class="listing_sidebox_location">An der Rechtschule 1-3<br />
+50667 Cologne<br />
+ <br />
+Germany</span><br />
+                <span class="listing_sidebox_description"></span><br />
+                <span class="listing_sidebox_details">08-13-2013 12:14PM</span>
+            </li>
+                    <li class="box_list">
+                <a href="http://www.thepowerofu.com/listing.php?id=295" title="Harvest Home Stores"><span class="listing_sidebox_title">Harvest Home Stores</span></a><br />
+                <span class="listing_sidebox_location">107 West Napa St.<br />
+Sonoma, California 95476<br />
+United States</span><br />
+                <span class="listing_sidebox_description">Harvest Brings You Home"</span><br />
+                <span class="listing_sidebox_details">08-13-2013 08:10AM</span>
+            </li>
+                    <li class="box_list">
+                <a href="http://www.thepowerofu.com/listing.php?id=294" title="Habitat Denver ReStores"><span class="listing_sidebox_title">Habitat Denver ReStores</span></a><br />
+                <span class="listing_sidebox_location">70 Rio Grande Blvd.<br />
+Denver, Colorado 80123<br />
+United States</span><br />
+                <span class="listing_sidebox_description">Habitat for Humanity of Metro Denver works in </span><br />
+                <span class="listing_sidebox_details">08-13-2013 08:06AM</span>
+            </li>
+            </ul>
+            </div>
+        </div>
+    </div>
+    <div class="box-footer">
+        <div class="box-side"></div>
+    </div>
+</div>        <br />
+        <!-- END LEFT COLUMN -->
+    </div>
+    <div id="right" class="column">
+        <!-- RIGHT COLUMN -->
+                        <a href="http://click.linksynergy.com/fs-bin/click?id=QcmfnR4lZhI&offerid=278269.147&type=4&subid=0" target="_blank" onclick="$.ajax({async: false, cache: false, timeout: 30000, data: ({action: 'banner_click', id: 129}), error: function() { return true; }, success: function() { return true; }});"><img id="banner129" class="banner_type2" src="http://www.thepowerofu.com/files/banner/129.jpg?random=1373497097" width="160" height="600" border="0" alt="" /></a>        <div class="box">
+    <div class="box-header">
+        <div class="box-side">
+            <a href="http://www.thepowerofu.com/xml.php?type=rss_featured_listings"><img src="http://www.thepowerofu.com/template/default/images/rss.gif" alt="" /></a>Featured Listings        </div>
+    </div>
+    <div class="box-body">
+        <div class="box-side">
+            <div class="box-content">
+                    <ul class="box_list">
+                    <li class="box_list">
+                <a href="http://www.thepowerofu.com/listing.php?id=253" title="Build.com"><span class="listing_sidebox_title">Build.com</span></a><br />
+                <span class="listing_sidebox_location">402 Otterson Drive<br />
+Suite 100<br />
+Chico, California 95928<br />
+United States</span><br />
+                <span class="listing_sidebox_description">Build.com is the fastest-growing online home </span><br />
+                <span class="listing_sidebox_details"></span>
+            </li>
+                    <li class="box_list">
+                <a href="http://www.thepowerofu.com/listing.php?id=6" title="Bubba U.niversity"><span class="listing_sidebox_title">Bubba U.niversity</span></a><br />
+                <span class="listing_sidebox_location">Roanoke, Virginia 24019<br />
+United States</span><br />
+                <span class="listing_sidebox_description">Bubba U.niversity
+"A Southern Education"
+Planet </span><br />
+                <span class="listing_sidebox_details"></span>
+            </li>
+                    <li class="box_list">
+                <a href="http://www.thepowerofu.com/listing.php?id=205" title="Valley Paint &amp; Decorating"><span class="listing_sidebox_title">Valley Paint &amp; Decorating</span></a><br />
+                <span class="listing_sidebox_location">100 Marlington St<br />
+Blacksburg, Virginia 24060<br />
+United States</span><br />
+                <span class="listing_sidebox_description">Valley Paint is proud to be an independent </span><br />
+                <span class="listing_sidebox_details"></span>
+            </li>
+            </ul>
+            </div>
+        </div>
+    </div>
+    <div class="box-footer">
+        <div class="box-side"></div>
+    </div>
+</div>        <div class="box">
+    <div class="box-header">
+        <div class="box-side">
+            <a href="http://www.thepowerofu.com/xml.php?type=rss_popular_listings"><img src="http://www.thepowerofu.com/template/default/images/rss.gif" alt="" /></a>Popular Listings        </div>
+    </div>
+    <div class="box-body">
+        <div class="box-side">
+            <div class="box-content">
+                    <ul class="box_list">
+                    <li class="box_list">
+                <a href="http://www.thepowerofu.com/listing.php?id=8" title="Hard Knocks U.niversity (HKU)"><span class="listing_sidebox_title">Hard Knocks U.niversity (HKU)</span></a><br />
+                <span class="listing_sidebox_location"> <br />
+</span><br />
+                <span class="listing_sidebox_description">Hard Knocks U.niversity (HKU)
+"Planet Earth"</span><br />
+                <span class="listing_sidebox_details">(458 views since 11-23-2012 12:17AM)</span>
+            </li>
+                    <li class="box_list">
+                <a href="http://www.thepowerofu.com/listing.php?id=6" title="Bubba U.niversity"><span class="listing_sidebox_title">Bubba U.niversity</span></a><br />
+                <span class="listing_sidebox_location">Roanoke, Virginia 24019<br />
+United States</span><br />
+                <span class="listing_sidebox_description">Bubba U.niversity
+"A Southern Education"
+Planet </span><br />
+                <span class="listing_sidebox_details">(419 views since 11-23-2012 12:13AM)</span>
+            </li>
+                    <li class="box_list">
+                <a href="http://www.thepowerofu.com/listing.php?id=7" title="Ghetto U.niversity"><span class="listing_sidebox_title">Ghetto U.niversity</span></a><br />
+                <span class="listing_sidebox_location">Roanoke, Virginia 24019<br />
+United States</span><br />
+                <span class="listing_sidebox_description">Ghetto U.niversity
+"The School of Hard Knocks"
+</span><br />
+                <span class="listing_sidebox_details">(307 views since 11-23-2012 12:15AM)</span>
+            </li>
+                    <li class="box_list">
+                <a href="http://www.thepowerofu.com/listing.php?id=47" title="uPromise"><span class="listing_sidebox_title">uPromise</span></a><br />
+                <span class="listing_sidebox_location"> 24019<br />
+</span><br />
+                <span class="listing_sidebox_description">The Way to Pay for College!</span><br />
+                <span class="listing_sidebox_details">(288 views since 12-10-2012 08:17AM)</span>
+            </li>
+                    <li class="box_list">
+                <a href="http://www.thepowerofu.com/listing.php?id=87" title="La Quinta Inn &amp; Suites"><span class="listing_sidebox_title">La Quinta Inn &amp; Suites</span></a><br />
+                <span class="listing_sidebox_location"> <br />
+</span><br />
+                <span class="listing_sidebox_description">Guests love La Quinta each and every time they </span><br />
+                <span class="listing_sidebox_details">(264 views since 12-17-2012 01:25PM)</span>
+            </li>
+                    <li class="box_list">
+                <a href="http://www.thepowerofu.com/listing.php?id=205" title="Valley Paint &amp; Decorating"><span class="listing_sidebox_title">Valley Paint &amp; Decorating</span></a><br />
+                <span class="listing_sidebox_location">100 Marlington St<br />
+Blacksburg, Virginia 24060<br />
+United States</span><br />
+                <span class="listing_sidebox_description">Valley Paint is proud to be an independent </span><br />
+                <span class="listing_sidebox_details">(183 views since 07-10-2013 07:52AM)</span>
+            </li>
+                    <li class="box_list">
+                <a href="http://www.thepowerofu.com/listing.php?id=253" title="Build.com"><span class="listing_sidebox_title">Build.com</span></a><br />
+                <span class="listing_sidebox_location">402 Otterson Drive<br />
+Suite 100<br />
+Chico, California 95928<br />
+United States</span><br />
+                <span class="listing_sidebox_description">Build.com is the fastest-growing online home </span><br />
+                <span class="listing_sidebox_details">(157 views since 07-22-2013 11:07AM)</span>
+            </li>
+                    <li class="box_list">
+                <a href="http://www.thepowerofu.com/listing.php?id=199" title="do it yourself Flood"><span class="listing_sidebox_title">do it yourself Flood</span></a><br />
+                <span class="listing_sidebox_location">77 West 200 South #114<br />
+Salt Lake City, Utah 84101<br />
+United States</span><br />
+                <span class="listing_sidebox_description"></span><br />
+                <span class="listing_sidebox_details">(143 views since 07-09-2013 10:17AM)</span>
+            </li>
+                    <li class="box_list">
+                <a href="http://www.thepowerofu.com/listing.php?id=204" title="Screwfix"><span class="listing_sidebox_title">Screwfix</span></a><br />
+                <span class="listing_sidebox_location">Trade House, Mead Avenue<br />
+Yeovil,  BA22 8RT<br />
+United Kingdom</span><br />
+                <span class="listing_sidebox_description">Screwfix is the UK's largest multi channel </span><br />
+                <span class="listing_sidebox_details">(125 views since 07-09-2013 12:11PM)</span>
+            </li>
+                    <li class="box_list">
+                <a href="http://www.thepowerofu.com/listing.php?id=202" title="Do-It-Yourself Legal"><span class="listing_sidebox_title">Do-It-Yourself Legal</span></a><br />
+                <span class="listing_sidebox_location">8490 Mukilteo Speedway, Suite 106<br />
+Mukilteo, Wisconsin 98275<br />
+United States</span><br />
+                <span class="listing_sidebox_description">We at Do-It-Yourself Legal are committed to help </span><br />
+                <span class="listing_sidebox_details">(120 views since 07-09-2013 10:45AM)</span>
+            </li>
+            </ul>
+            </div>
+        </div>
+    </div>
+    <div class="box-footer">
+        <div class="box-side"></div>
+    </div>
+</div>        <div class="box">
+    <div class="box-header">
+        <div class="box-side">Featured Classifieds</div>
+    </div>
+    <div class="box-body">
+        <div class="box-side">
+            <div class="box-content">
+                                        <a href="http://www.thepowerofu.com/classified.php?id=2"><img src="http://www.thepowerofu.com/files/classifieds/thumbnails/2-4.jpg" border="0"  alt="" /></a><br /><br />
+                <a href="http://www.thepowerofu.com/classified.php?id=2">ThruNite</a><br />
+        <hr />
+                        <a href="http://www.thepowerofu.com/classified.php?id=3"><img src="http://www.thepowerofu.com/files/classifieds/thumbnails/3-5.jpg" border="0"  alt="" /></a><br /><br />
+                <a href="http://www.thepowerofu.com/classified.php?id=3">What a View</a><br />
+        www.valleypaintinc.com<hr />
+                </div>
+        </div>
+    </div>
+    <div class="box-footer">
+        <div class="box-side"></div>
+    </div>
+</div>        <br />
+        <!-- END RIGHT COLUMN -->
+    </div>
+</div>
+<div id="footer">
+    <div align="center">
+
+
+
+<p align="center">&nbsp;</p>
+
+<p align="center"><img border="0" src="http://showyournutz.com/successSign2.jpg" width="150" height="99"> <a
+href="http://www.ThePowerOfU.com/SuccessScreensaver.exe"><big><big><big>Success Screensaver</big></big></big></a></p>
+
+<p align="center"><big><big><big><img border="0" src="http://showyournutz.com/Christian-Wallpaper-0114.jpg" width="150" height="112">
+<a
+href="http://www.ThePowerOfU.com/ChristianScreensaver082412.exe">Christian Screensaver</a></big></big></big></p>
+
+<p align="center"><big><big><big><a href="http://www.ThePowerOfU.com/MyrtleBeachScreensaver090112.exe">Myrtle Beach Screensaver
+</a><img border="0" src="http://www.ThePowerOfU.com/253844_10151020889154117_779156384_n.jpg" width="150" height="112"></big></big></big></p>
+
+<p align="center"><img border="0" src="http://www.ThePowerOfU.com/dale-earnhardt-sr-request-31000.jpg" width="150" height="112"> <a
+href="http://www.thepowerofu.com/RacinScreensaver083012.exe"><big><big><big>Racing Screensaver</big></big></big></a></p>
+
+<p align="center"><img border="0" src="http://showyournutz.com/Disney-Wallpaper-disney-6229353-1024-768.jpg" width="150" height="112"> <a
+href="http://www.ThePowerOfU.com/DisneyScreensaver082412.exe"><big><big><big>Disney Screensaver</big></big></big></a></p>
+
+<p align="center"><a href="http://www.ThePowerOfU.com/HDscreensaver083012.exe"><big><big><big>Harley-Davidson Screensaver
+</a><img border="0" src="http://www.ThePowerOfU.com/1340.jpg" width="150" height="112"></big></big></big></p>
+
+<p align="center"><big><big><big><img border="0" src="http://showyournutz.com/Atlanta-Falcons-nfl-4311979-1200-1800.jpg" width="100" height="150">
+<a
+href="http://www.ThePowerOfU.com/FalconsScreensaver082912.exe">Falcons Screensaver</a></big></big></big></p>
+
+<p align="center"><a href="http://www.ThePowerOfU.com/RedskinsScreensaver.exe"><big><big><big>Redskins
+Screensaver</big></big></big></a><big><big><big>  <img border="0" src="http://showyournutz.com/washington_redskins_fire_1280x9601.jpg" width="150" height="112"> </big></big></big></p>
+
+<p align="center"><a href="http://www.showyournutz.com/ObamaScreensaver.exe"><big><big><big>Obama's
+Presidental Run Screensaver</big></big></big></a><big><big><big> </big></big></big><img src="http://showyournutz.com/obama-5-1024.png" width="150"
+height="112" alt="obama-5-1024.png (871856 bytes)">&nbsp;</p>
+
+<p align="center"><big><big><big><a
+href="http://www.ThePowerOfU.com/CowboysScreensaver090112.exe">Cowboys Screensaver</a> 
+ <img border="0" src="http://www.ThePowerOfU.com/Dallas_Cowboys_by_bonebrane.jpg" width="150" height="112"><br>
+<a
+href="http://www.ThePowerOfU.com/CowboysScreensaverSP090112.exe">Cowboys Screensaver Españoles</a> 
+</big></big> 
+ </big></p>
+
+<p align="center"><big><big><big><a
+href="http://www.ThePowerOfU.com/OaklandRaiders.exe">Raiders Screensaver</a> </big></big></big><img border="0" src="http://showyournutz.com/f2c8a45b.jpg" width="150" height="112"></p>
+
+<p align="center"><big><big><big><a
+href="http://www.ThePowerOfU.com/SteelersScreensaver.exe">Steelers Screensaver</a> 
+<img border="0" src="http://showyournutz.com/pittsburgh_steelers-2560x1600.jpg" width="150" height="93"> </big></big></big></p>
+
+<p align="center">&nbsp;</p>
+
+<p align="center"><img border="0" src="http://showyournutz.com/001.JPG" width="150" height="112"><big><big><big>
+<a href="http://www.ThePowerOfU.com/TeacherScreensaver.exe">Teacher Screensaver</a></big></big></big></p>
+
+<p align="center">&nbsp;</p>
+
+<p align="center"><big><big><big><a
+href="http://www.ThePowerOfU.com/SerenaScreensaver.exe">Serena Screensaver</a> 
+<img border="0" src="http://showyournutz.com/Serena-Williams-Wallpaper-000.jpg" width="150" height="112"> </big></big></big></p>
+
+<p align="center">&nbsp;</p>
+
+<p align="center"><big><big><big><a
+href="http://www.showyournutz.com/TamikaScreensaver.exe">Tamika Screensaver</a> </big></big></big><img
+src="http://showyournutz.com/2009_0419TamikaHR0023.jpg" width="150" height="112"
+alt="2009_0419TamikaHR0023.jpg (2724564 bytes)"></p>
+
+<p align="center">&nbsp;</p>
+
+<p align="center"><big><big><big><a
+href="http://www.ThePowerOfU.com/EbonyQueensScreensaver.exe">Ebony Queens Screensaver</a> 
+<img border="0" src="http://showyournutz.com/background-image.jpg" width="150" height="49"> </big></big></big></p>
+
+<p align="center">&nbsp;</p>
+
+<p align="center"><big><big><big><a
+href="http://www.ThePowerOfU.com/RondaRouseyScreensaver083012.exe">Ronda Rousey Screensaver of the MMA & UFC</a> 
+ <img border="0" src="http://www.ThePowerOfU.com/tumblr_m3gysdvtXj1rn830eo1_1280.jpg" width="150" height="112"><br>
+<a
+href="http://www.ThePowerOfU.com/RondaRouseyScreensaverSP083012.exe">Ronda Rousey Screensaver de la MMA y UFC</a> 
+</big></big> 
+ </big></p>
+
+<p align="center"><br>
+</p>
+
+<p align="center"><img src="http://showyournutz.com/Kim%2520Remix.jpg" width="164" height="240"
+alt="Kim%20Remix.jpg (12475 bytes)"> <a href="http://www.thepowerofu.com/BigRedScreensaver083112.exe"><big><big><big>Big
+Red Screensaver</big></big></big></a></p>
+
+<p align="center">&nbsp;</p>
+
+<p align="center"><big><big><big><a
+href="http://www.ThePowerOfU.com/MotorcycleBabesScreensaver090112.exe">Motorcycle Babes Screensaver</a> 
+ <img border="0" src="http://www.ThePowerOfU.com/555587_392128154154559_416918261_n.jpg" width="150" height="121"> </big></big></big></p>
+
+<p align="center">&nbsp;</p>
+
+<p align="center"><img src="http://showyournutz.com/PB033126.JPG" width="112" height="150"
+alt="PB033126.JPG (2372060 bytes)"><big><big><big> <a
+href="http://www.showyournutz.com/BlackCollegeCheerleadingScreensaver.exe">Black College
+Cheerleading Screensaver</a></big></big></big></p>
+
+<p align="center">&nbsp;</p>
+
+<p align="center"><big><big><big>HBCU Screensaver</big></big></big></p>
+
+<p align="center">&nbsp;</p>
+
+<p align="center"><big><big><big> <img border="0" src="http://showyournutz.com/dukes_1024x768.jpg" width="150" height="112"> <a
+href="http://www.ThePowerOfU.com/JMUscreensaver082312.exe">James Madison University Screensaver</a></big></big></big></p>
+
+<p align="center">&nbsp;</p>
+
+<p align="center"><img border="0" src="http://showyournutz.com/vt_1024.jpg" width="150" height="112"><big><big><big> <a
+href="http://www.ThePowerOfU.com/VTscreensaver082512.exe">Virginia Tech Screensaver</a></big></big></big></p>
+
+<p align="center">&nbsp;</p>
+
+<p align="center"><big><big><big> <img border="0" src="http://www.ThePowerOfU.com/VirginiaWS.jpg" width="150" height="93"> <a
+href="http://www.ThePowerOfU.com/UVAscreensaver083112.exe">UVA Screensaver</a></big></big></big></p>
+
+<p align="center">&nbsp;</p>
+
+<p align="center"><big><big><big><a
+href="http://www.ThePowerOfU.com/WWEscreensaver090112.exe">WWE Screensaver</a> 
+ <img border="0" src="http://www.ThePowerOfU.com/wwe_background_1283169360.jpg" width="150" height="112"><br>
+<a
+href="http://www.ThePowerOfU.com/WWEscreensaverSP090112.exe">WWE Screensaver Españoles</a> 
+</big></big> 
+ </big></p>
+
+
+
+
+
+                    &copy; 1993-2013 <a href="http://www.NexMillenia.com/">NexMillenia.com</a> (v. 1.4.2) <br /><br /><br />
+                <div id="options">
+    <form action="#" method="post">
+                            Template: <select name="template" onchange="this.form.submit();">
+                            <option value="default">default</option>
+                            <option value="mobile-blue">mobile-blue</option>
+                        </select>
+            </form>
+</div>
+<br /><br />
+    </div>
+</div>
+<noscript>
+    <img src="http://www.thepowerofu.com/cron.php?type=image" alt="" border="0" />
+</noscript>
+</body>
+</html>

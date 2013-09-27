@@ -1,0 +1,1972 @@
+
+
+
+
+  
+  
+
+
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ja" lang="ja" dir="ltr" xmlns:og="http://ogp.me/ns#" xmlns:mixi="http://mixi-platform.com/ns#" xmlns:fb="http://www.facebook.com/2008/fbml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<meta http-equiv="Content-Script-Type" content="text/javascript">
+<meta property="og:title" content="楽天トラベル: 湯野温泉　紫水園 宿泊予約 ">
+<meta property="og:type" content="article">
+<meta property="og:url" content="http://travel.rakuten.co.jp/HOTEL/5625/5625.html">
+<meta property="og:image" content="http://img.travel.rakuten.co.jp/share/HOTEL/5625/5625.jpg">
+<meta property="og:site_name" content="楽天トラベル">
+<meta property="og:description" content="湯野温泉　紫水園の紫水園　TOP。気になる詳細情報は是非アクセスして確認下さい。">
+<meta name="keywords" content="湯野温泉　紫水園,山口県,岩国・周南・柳井,予約,アメニティ,設備,施設,館内設備,部屋設備,備品">
+<meta name="description" content="湯野温泉　紫水園の紫水園　TOP。気になる詳細情報は是非アクセスして確認下さい。">
+
+
+
+
+  
+  
+
+
+<!-- test new UI on local -->
+<link type="text/css" rel="stylesheet" href="http://img.travel.rakuten.co.jp/share/common/css/thickbox_2.css" media="screen" />
+<link type="text/css" rel="stylesheet" href="http://img.travel.rakuten.co.jp/share/rtl/css/util.calendar.css">
+<link type="text/css" rel="stylesheet" href="http://img.travel.rakuten.co.jp/share/themes/hotel/css/plan_sprite_2_new.css">
+<link type="text/css" rel="stylesheet" href="http://img.travel.rakuten.co.jp/share/themes/hotel/css/trvl_htl_base.css">
+
+
+<link media="all" href="http://img.travel.rakuten.co.jp/share/themes/hotel/css/custom_2.css" type="text/css" rel="stylesheet">
+<link type="text/css" rel="stylesheet" href="http://img.travel.rakuten.co.jp/share/themes/hotel/css/trvl_hotel_page.css">
+<link type="text/css" rel="stylesheet" href="http://img.travel.rakuten.co.jp/share/common/css/default.css">
+
+
+
+
+
+
+
+  
+  
+
+
+<script type="text/javascript" charset="Shift_JIS" src="http://img.travel.rakuten.co.jp/share/common/js/lib/jquery/jquery.js"></script>
+
+<script type="text/javascript" charset="Shift_JIS" src="http://img.travel.rakuten.co.jp/share/themes/hotel/js/jq_no_conflict.js"></script>
+
+<script type="text/javascript" charset="Shift_JIS" src="http://img.travel.rakuten.co.jp/share/themes/hotel/js/RTHotelCommon.js"></script>
+<script type="text/javascript" charset="Shift_JIS" src="http://img.travel.rakuten.co.jp/share/themes/hotel/js/menu_height.js"></script>
+<script type="text/javascript" charset="Shift_JIS" src="http://img.travel.rakuten.co.jp/share/themes/airpack/js/rakutenTr_domesticAirPackageCarrier.js"></script>
+
+<script type="text/javascript" charset="Shift_JIS" src="http://img.travel.rakuten.co.jp/share/themes/header/js/custom_tag.js"></script>
+
+
+
+
+<script type="text/javascript" charset="Shift_JIS" src="http://img.travel.rakuten.co.jp/share/common/js/tb.js"></script>
+
+
+
+
+
+<!-- test new UI on local -->
+<script type="text/javascript" charset="UTF-8" src="http://img.travel.rakuten.co.jp/share/themes/hotel/js/html5shiv.js"></script>
+<script type="text/javascript" charset="UTF-8" src="http://img.travel.rakuten.co.jp/share/rtl/js/rt.header.js"></script>
+<script type="text/javascript" charset="UTF-8" src="http://img.travel.rakuten.co.jp/share/themes/hotel/js/trvl_htl_pg.js"></script>
+
+<script type="text/javascript" charset="UTF-8" src="http://img.travel.rakuten.co.jp/share/rtl/js/util.rtcond.link.js"></script>
+
+<script type="text/javascript" charset="Shift_JIS" src="http://img.travel.rakuten.co.jp/share/themes/hotel/js/rakutenTr_showBrowseHistory.js" language="JavaScript"></script>
+<script type="text/javascript" charset="UTF-8" src="http://img.travel.rakuten.co.jp/share/rtl/js/rtcondSetHotelPage.js"></script>
+
+
+<script type="text/javascript" charset="UTF-8" src="http://img.travel.rakuten.co.jp/share/themes/hotel/js/hotelRedirector.js"></script>
+<script type="text/javascript">
+hotelRedirect.redirect("http://web.travel.rakuten.co.jp/portal/my/jyouhou_page.main?f_no=5625&f_teikei=", "5625");
+</script>
+
+
+
+<script type="text/javascript" charset="UTF-8" src="http://img.travel.rakuten.co.jp/share/common/js/lib/jquery.tmpl.min.js"></script>
+<script type="text/javascript" charset="UTF-8" src="http://img.travel.rakuten.co.jp/share/rtl/js/widget.pbox.core.js"></script>
+<script type="text/javascript" charset="UTF-8" src="http://img.travel.rakuten.co.jp/share/pbox/js/header.pbox.js"></script>
+
+
+
+
+<link rel="alternate" media="handheld" type="text/html" href="http://m.travel.rakuten.co.jp/HOTEL/5625/5625.html" />
+<link rel="canonical" href="http://travel.rakuten.co.jp/HOTEL/5625/5625.html">
+<link type="text/css" rel="stylesheet" href="http://img.travel.rakuten.co.jp/share/themes/recently/css/recent_condition.css" media="screen">
+<script type="text/javascript" src="http://img.travel.rakuten.co.jp/share/common/js/rakutenTr_history.js" charset="Shift_JIS"　type="text/javascript"></script>
+<script type="text/javascript" src="http://img.travel.rakuten.co.jp/share/common/js/rakutenTr_searchHistory.js" charset="Shift_JIS" type="text/javascript"></script>
+<script type="text/javascript" src="http://img.travel.rakuten.co.jp/share/rtl/js/banner.js" type="text/javascript"></script>
+<script type="text/javascript" charset="UTF-8" src="http://img.travel.rakuten.co.jp/share/rtl/js/dh.banner.config.js"></script>
+<script type="text/javascript" charset="UTF-8" src="http://img.travel.rakuten.co.jp/share/tags/js/tags.dh.hotel.js"></script>
+
+<script>
+<!--
+/*$KOKUNAI_HOTEL_HISTORY$*/
+(function( $ ){
+if(window.jQuery){
+  $(document.body).ready(function(){
+    try{
+      var pageName = "$JYOUHOU_PAGE$";
+      var isOEM = $('#isOEM').val();
+      var isHojin = $('#isHojin').val();
+      if(isOEM!="1" && isHojin!="1"){
+        if (pageName.indexOf("JYOUHOU_PAGE") >= 0) {
+          rakutenTr_History.putHistory({"hotelNo":5625,"hotelName":"湯野温泉　紫水園"},"domesticHotelBrowse","domestic_hotel_info");
+        }
+        if (pageName.indexOf("J_KENSAKU") >= 0) {
+          rakutenTr_History.dispHotelHistory("domestic_hotel_list");
+          rakutenTr_searchHistory.dispAndPutSearchHistory('domesticHotelSearch','domesticSearchResult');
+rtl.banner.append("search_result");
+        }
+      }
+    }catch(e){}
+  });
+}
+})(jQuery);
+-->
+</script>
+
+
+<script type="text/javascript" charset="Shift_JIS" src="//img.travel.rakuten.co.jp/share/common/js/rakutenTr_affiliate.js"></script>
+<script type="text/javascript">
+<!--
+(function( $ ){
+$(document).ready(function(){
+try {
+rakutenTr_affiliate.putItemAnchor(hotelBasicInfo.hotelNo, hotelBasicInfo.hotelName, "RthSubAffiliate");
+$("#RthSubAffiliate").css("display","none");
+} catch (e) {
+$("#RthSubAffiliate").css("display","none");
+}});
+})(jQuery);
+//-->
+</script>
+
+
+
+
+<title>湯野温泉　紫水園 宿泊予約【楽天トラベル】</title>
+</head>
+<body id="TOP">
+
+
+
+<script type="text/javascript"><!--
+var hotelBasicInfo = { hotelNo : "5625",hotelName : "湯野温泉　紫水園",tikuDai : "japan",tikuChu : "yamaguchi",tikuShou : "iwakuni",tikuSai : ""};
+//--></script>
+
+
+<!-- ========== header_domestic_utf8 HTML4.01 2013.07.23 ========== -->
+<div id="rtSiteHeader">
+<div class="rtCorporate">
+<p id="rtSiteName">
+<em><a href="http://travel.rakuten.co.jp/">楽天トラベル</a></em>
+</p>
+<p class="rtOutline">宿・航空券・ツアー予約</p>
+<!--/.rtCorporate--></div>
+
+<div class="rtUtility">
+<ul class="rtPriNav">
+<li id="rtNavLang">
+<div id="langLink">
+<p id="boxLink"><a href="#">日本(日本語)</a></p>
+<div style="display: none;" id="lnkBox">
+<ul class="link_r2">
+<li><a href="http://travel.rakuten.com/" id="lnkEnglish"><span>English</span></a></li>
+<li><a href="http://www.travel.rakuten.co.kr/" id="lnkKorea"><span>Korea(Korean)</span></a></li>
+<li><a href="http://travel.rakuten.com.tw/" id="lnkTaiwanese"><span>台灣(繁體中文)</span></a></li>
+<li><a href="http://www.etpass.com/" id="lnkChinese"><span>中国(簡体中文)</span></a></li>
+<li><a href="http://travel.rakuten.com.hk/" id="lnkHonkKong"><span>香港(繁體字中文)</span></a></li>
+</ul>
+</div>
+</div>
+</li>
+<li><a href="http://ad2.trafficgate.net/t/r/4113/1441/99636_99636/"><span>楽天カード入会で2,000ポイントプレゼント</span></a></li>
+<li id="rtNavIchiba"><a href="http://rd.rakuten.co.jp/cow/?R2=http%3A%2F%2Fwww.rakuten.co.jp%2F&amp;D2=3.260.5610.0.597169">楽天市場へ</a></li>
+</ul>
+<ul class="rtSecNav">
+<li><a href="https://aps1.travel.rakuten.co.jp/portal/my/prv_page.first">個人ページ(予約の確認・変更・取消)</a></li>
+<li><a href="http://travel.rakuten.co.jp/howto/">楽天トラベルの使い方</a></li>
+<li><a href="http://travel.rakuten.co.jp/help/">ヘルプ</a></li>
+<li><a href="http://travel.rakuten.co.jp/sitemap/">サイトマップ</a></li>
+</ul>
+<!--/.rtUtility--></div>
+
+<div id="personalBox">
+<!--/#personalBox--></div>
+<script type="text/x-jquery-tmpl" id="defaultTemplate">
+<dl class="rtMember">
+<dt class="memberNologin">ようこそ、楽天トラベルへ</dt>
+<dd><ul>
+<li><a href="http://travel.rakuten.co.jp/kaiin.html">無料会員登録</a></li>
+<li><a href="${body.loginUrl}">ログイン</a></li>
+</ul></dd>
+<!--/.rtMember--></dl>
+</script>
+<script type="text/x-jquery-tmpl" id="loginTemplate">
+<dl class="rtMember">
+<dt class="${body.loginFormClass}">ようこそ<a href="http://my.travel.rakuten.co.jp/mytravel/"><span id="memberName">${body.name}</span>さん</a></dt>
+<dd><span id="memberPoint">${rtl.widget.pbox.viewHelper.numSeparate3Format(body.rpoint)}</span>ポイント</dd>
+<!--/.rtMember--></dl>
+</script>
+
+<ul class="rtSiteNav">
+<li><em><span>国内旅行</span></em></li>
+<li><a href="http://travel.rakuten.co.jp/kaigai/"><span>海外旅行</span></a></li>
+<li><a href="http://travel.rakuten.co.jp/review/"><span>クチコミ</span></a></li>
+<li><a href="http://img.travel.rakuten.co.jp/image/tr/userm/rakupon/aEThV/"><span>割引クーポン</span></a></li>
+<li><a href="http://img.travel.rakuten.co.jp/image/tr/hs/prsnt/Vftj7/"><span>懸賞広場</span></a></li>
+<li><a href="http://kanko.travel.rakuten.co.jp/"><span>観光案内</span></a></li>
+</ul>
+<ul class="rtRsvNav">
+<li id="rtRsvNav01" class="hasChild"><a href="javascript:void(0);">国内宿泊</a>
+    <div class="rtRsvNavDtl" style="display: none;">
+    <ul class="primary">
+    <li><a href="http://travel.rakuten.co.jp/business/">ビジネスホテル予約</a>
+        <ul class="secondary">
+        <li><a href="http://travel.rakuten.co.jp/vacancy/city/">出張空室カレンダー</a></li>
+        </ul>
+    </li>
+    <li><a href="http://travel.rakuten.co.jp/ivc/stationSearch.html">駅・空港から探す</a></li>
+    <li><a href="http://travel.rakuten.co.jp/group/">ホテルチェーン</a>
+    	<ul class="secondary">
+        <li><a href="http://travel.rakuten.co.jp/vacancy/group/">チェーン空室カレンダー</a></li>
+        </ul>
+    </li>
+    </ul>
+    <ul class="primary">
+    <li><a href="http://travel.rakuten.co.jp/onsen/">全国温泉宿予約</a>
+        <ul class="secondary">
+        <li><a href="http://travel.rakuten.co.jp/onsen/gensen/">源泉掛け流しの温泉宿</a></li>
+        <li><a href="http://travel.rakuten.co.jp/onsen/rotsuki/">露天風呂付客室のある宿</a></li>
+        </ul>
+    </li>
+    <li><a href="http://travel.rakuten.co.jp/pension/">民宿・ペンション</a></li>
+    <li><a href="http://travel.rakuten.co.jp/dayuse/">日帰り・デイユース</a></li>
+    </ul>
+    <ul class="primary">
+    <li><a href="http://travel.rakuten.co.jp/premium/">高級ホテル・旅館予約</a>
+        <ul class="secondary">
+        <li><a href="http://travel.rakuten.co.jp/premium/discount/">1泊8,500円以下の高級宿</a></li>
+        </ul>
+    </li>
+    <li><a href="http://travel.rakuten.co.jp/platinum/">PLATINUM COLLECTION</a>
+        <ul class="secondary">
+        <li><a href="http://img.travel.rakuten.co.jp/image/tr/sp1/pla/vZjkk/">最高級ホテル・宿 特集</a></li>
+        </ul>
+    </li>
+    </ul>
+    <ul class="primary">
+    <li><a href="http://travel.rakuten.co.jp/kanjisan/">グループ予約</a></li>
+    <li><a href="http://couple.travel.rakuten.co.jp/">カップル旅行</a></li>
+    <li><a href="http://family.travel.rakuten.co.jp/">ファミリー・家族旅行</a></li>
+    <li><a href="http://travel.rakuten.co.jp/vacancy/saturday/">土曜日の空室カレンダー</a></li>
+    <li><a href="http://travel.rakuten.co.jp/index_pet.html">ペットと泊まれる宿</a></li>
+    </ul>
+    <!--/.rtRsvNavDtl--></div>
+</li>
+<li id="rtRsvNav03"><a href="http://travel.rakuten.co.jp/dayuse/">日帰り・デイユース</a></li>
+<li id="rtRsvNav02" class="hasChild"><a href="javascript:void(0);">国内ツアー</a>
+    <div class="rtRsvNavDtl" style="display: none;">
+    <ul class="primary">
+    <li><a href="http://travel.rakuten.co.jp/package/">楽パック（交通+宿泊）</a>
+        <ul class="secondary">
+        <li><a href="http://travel.rakuten.co.jp/package/ana/">ANA楽パック（航空券＋宿泊）</a></li>
+        <li><a href="http://travel.rakuten.co.jp/package/jal/">JAL楽パック（航空券＋宿泊）</a></li>
+        </ul>
+    </li>
+    </ul>
+    <ul>
+    <li class="primary"><a href="http://travel.rakuten.co.jp/package/special/jrhokkaido/">JR北海道＋航空券＋宿泊</a></li>
+    <li class="primary"><a href="http://travel.rakuten.co.jp/select/jr/201211/">往復JR+宿泊「びゅう」</a></li>
+    </ul>
+    <!--/.rtRsvNavDtl--></div>
+</li>
+<li id="rtRsvNav04"><a href="http://img.travel.rakuten.co.jp/image/tr/hs/topC/0pPaB/">高速バス</a></li>
+<li id="rtRsvNav05"><a href="http://img.travel.rakuten.co.jp/image/tr/hs/topC/8FLFO/">国内レンタカー</a></li>
+<li id="rtRsvNav06"><a href="http://travel.rakuten.co.jp/air/domestic.html">国内航空券</a></li>
+</ul>
+<!--/#rtSiteHeader--></div>
+<div id="wideEventBanner" style="display:none;"></div>
+
+
+
+
+<div>
+<div id="htlContents" class="dmstcHtl">
+
+
+
+
+
+  
+  
+
+
+<div id="htlBrdCrmbs">
+<a href="http://travel.rakuten.co.jp/">楽天トラベルトップ</a> &nbsp;&gt;&nbsp;
+
+
+
+
+
+<a class="rtcond_f" href="http://travel.rakuten.co.jp/yado/japan.html">全国</a>
+<a class="rtcond_h" href="http://web.travel.rakuten.co.jp/portal/my/ry_kensaku1.bunki?f_image=1&f_hyoji=30&f_ptn=tiku&f_setubi=&f_teikei=&f_nen1=&f_tuki1=&f_hi1=&f_nen2=&f_tuki2=&f_hi2=&f_heya_su=1&f_otona_su=1&f_s1=0&f_s2=0&f_y1=0&f_y2=0&f_y3=0&f_y4=0&f_kin=&f_kin2=&f_squeezes="></a>
+&nbsp;&gt;&nbsp;
+
+
+
+
+
+
+
+
+<a class="rtcond_f" href="http://travel.rakuten.co.jp/yado/yamaguchi/map.html">山口県</a>
+<a class="rtcond_h" href="http://web.travel.rakuten.co.jp/portal/my/map_search.tizu?f_no=02&f_dai=japan&f_chu=yamaguchi&f_shou=&f_sai=&f_kaiin_no=&f_image=1&f_hyoji=30&f_setubi=&f_sort=&f_teikei=&f_nen1=&f_tuki1=&f_hi1=&f_nen2=&f_tuki2=&f_hi2=&f_heya_su=1&f_otona_su=1&f_s1=0&f_s2=0&f_y1=0&f_y2=0&f_y3=0&f_y4=0&f_kin=&f_kin2=&f_squeezes="></a>
+&nbsp;&gt;&nbsp;
+
+
+
+
+
+
+
+
+<a class="rtcond_f" href="http://travel.rakuten.co.jp/yado/yamaguchi/iwakuni.html">岩国・周南・柳井</a>
+<a class="rtcond_h" href="http://search.travel.rakuten.co.jp/ds/vacant/searchVacant?f_cd=03&f_dai=japan&f_chu=yamaguchi&f_shou=iwakuni&f_kaiin_no=&f_kaiin_tel=&f_image=1&f_hyoji=30&f_setubi=&f_sort=&f_teikei=&f_nen1=&f_tuki1=&f_hi1=&f_nen2=&f_tuki2=&f_hi2=&f_heya_su=1&f_otona_su=1&f_s1=0&f_s2=0&f_y1=0&f_y2=0&f_y3=0&f_y4=0&f_kin=&f_kin2=&f_squeezes="></a>
+&nbsp;&gt;&nbsp;
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="http://travel.rakuten.co.jp/onsen/yamaguchi/OK00766.html">湯野温泉</a> &nbsp;&gt;&nbsp;
+
+<h1>湯野温泉　紫水園 宿泊予約</h1>
+</div>
+
+
+
+<div id="htlHeader" class="hreview-aggregate">
+<div id="RthNameArea">
+
+
+
+<h2 class="item"><a class="rtconds fn" href="http://travel.rakuten.co.jp/HOTEL/5625/5625.html">湯野温泉　紫水園</a></h2>
+
+
+</div>
+<ul>
+
+
+
+<li id="RthSubFavorite"><span id="clip_hotel"></span></li>
+
+<li id="htlMilMag"><a href="https://aps1.travel.rakuten.co.jp/portal/my/present_top.hotel_mail?f_hotel_no=5625">メルマガ</a></li>
+
+<li id="htlKnjFnc">
+<a href="https://my.travel.rakuten.co.jp/kanjisan/planningTripSechedule/?hotelNo=5625&f_teikei=" id="idKanji5625" class="anrKnj" target="sns">幹事さん機能</a>
+</li>
+
+
+
+
+
+  
+  
+
+
+
+<li id="htlSNS">
+<div class="susumeruArea" style="display:none">
+<span class="sid">281</span>
+<span class="charset">s</span>
+<span class="service">mail</span>
+<span class="service">rakutenblog</span>
+<span class="service">twitter</span>
+<span class="service">mixi_check</span>
+<span class="service">facebook_feed</span>
+<span class="service">gree_iine</span>
+<span class="content_title">湯野温泉　紫水園</span>
+<span class="image">http://img.travel.rakuten.co.jp/image/imgr_100?no=5625</span>
+<span class="pc_url">http://travel.rakuten.co.jp/HOTEL/5625/</span>
+<span class="mb_url">http://m.travel.rakuten.co.jp/HOTEL/5625/</span>
+<span class="sp_url">http://web.travel.rakuten.co.jp/portal/my/jyouhou_page.main?f_no=5625&f_flg=KIHON</span>
+<span class="message"></span>
+<span class="open_window">true</span>
+<span class="return_url">http://travel.rakuten.co.jp/</span>
+<span class="pin_image">http://img.travel.rakuten.co.jp/share/HOTEL/5625/5625.jpg</span>
+</div>
+</li>
+<script type="text/javascript" src="https://image.rakuten.co.jp/com/upc/js/upcd.js"></script>
+
+<form> 
+<input id="shareHotelTitle" type="hidden" value="湯野温泉　紫水園 【楽天トラベル】"> 
+<input id="shareHotelUrl" type="hidden" value="http://travel.rakuten.co.jp/HOTEL/5625/5625.html"> 
+</form> 
+<form><input type="hidden" id="twitSelectedNo"><input type="hidden" id="twitSelectedTitle"></form> 
+
+
+</ul>
+</div>
+
+
+
+
+
+  
+  
+
+
+<div id="htlSide-A">
+	<dl id="htlRmSrch">
+		<dt class="ttlBar">日程からプランを探す</dt>
+		<dd class="outerBox">
+		<form id="domestic-search-container">
+			<ul id="srcSwtch">
+				<li>
+					<input id="dh-radio" type="radio" class="search-category" checked="" value="dh" name="search-service">
+					<label for="dh-radio">国内宿泊</label>
+				</li>
+				
+				<li id="anaSwtch">
+					<input id="dap-ana-radio" type="radio" class="search-category" data-narrow-company="ana" value="dap" name="search-service">
+					<label for="dap-ana-radio">航空券+宿泊</label>
+				</li>
+				<li id="jalSwtch">
+					<input id="dap-jal-radio" type="radio" class="search-category" data-narrow-company="jal" value="dap" name="search-service">
+					<label for="dap-jal-radio">航空券+宿泊</label>
+				</li>
+				<li>
+					<input id="du-radio" type="radio" class="search-category" value="du" name="search-service">
+					<label for="du-radio">日帰り・デイユース</label>
+				</li>
+				
+			</ul>
+		</form>
+		<div id="search-property">
+			<input type="hidden" id="action.ana" value="http://package.travel.rakuten.co.jp/anafrt/hotel/searchHotelExecute" class="dap">
+			<input type="hidden" id="action.jal" value="http://dp.travel.rakuten.co.jp/jal_frt/hotel/searchHotelExecute" class="dap">
+			<input type="hidden" id="isNew" value="true" class="dap">
+			<input type="hidden" id="narrowPrefecture" value="true" class="dap">
+		<!--/#search-property--></div>
+		<div id="dmstcSrchBox">
+			<form id="dh-search-form" class="ignore-history" action="http://hotel.travel.rakuten.co.jp/hotelinfo/plan/" method="get" name="dh-search-form">
+				<input type="hidden" value="5625" name="f_no">
+				<input type="hidden" value="PLAN" name="f_flg">
+				<input type="hidden" value="" name="f_teikei">
+				<input type="hidden" value="" name="f_hizuke">
+				<input type="hidden" value="" name="f_hak">
+				<input type="hidden" value="japan" name="f_dai">
+				<input type="hidden" value="yamaguchi" name="f_chu">
+				<input type="hidden" value="iwakuni" name="f_shou">
+				<input type="hidden" value="" name="f_sai">
+				<input type="hidden" value="" name="f_tel">
+				<input type="hidden" value="" name="f_target_flg">
+				<input type="hidden" value="" name="f_tscm_flg">
+				<input type="hidden" value="" name="f_p_no">
+				<input type="hidden" value="" name="f_custom_code">
+				<input type="hidden" value="" name="f_search_type">
+				<input type="hidden" value="" name="f_camp_id">
+				<input type="hidden" value="1" name="f_static">
+				<input type="hidden" value="" name="f_squeezes">
+				<input type="hidden" value="1" name="f_version">
+				<input type="hidden" value="kin" name="f_sort">
+				<dl id="dateInptBox">
+					<dt id="undatedTxt">日付未定の有無</dt>
+					<dd><input type="checkbox" id="dh-unspecified-date"><label for="dh-unspecified-date">日付未定</label></dd>
+					<dt>チェックイン</dt>
+					<dd><input type="text" id="dh-checkin"></dd>
+					<dt>チェックアウト</dt>
+					<dd><input type="text" id="dh-checkout"></dd>
+				</dl>
+				<dl id="rooms" class="conditionChange">
+					<dt>ご利用部屋数</dt>
+					<dd>
+					<select id="dh-room" onchange="changeRoom()" name="f_heya_su">
+					
+						<option value="1">1</option>
+					
+						<option value="2">2</option>
+					
+						<option value="3">3</option>
+					
+						<option value="4">4</option>
+					
+						<option value="5">5</option>
+					
+						<option value="6">6</option>
+					
+						<option value="7">7</option>
+					
+						<option value="8">8</option>
+					
+						<option value="9">9</option>
+					
+						<option value="10">10</option>
+					
+					</select>
+					部屋
+					</dd>
+					<dt>ご利用人数</dt>
+					<dd id="room1">
+					<p class="groupRoom">1部屋目：</p>
+					<br>大人
+					<select name="f_otona_su" class="dhAdult" id="dhAdult1">
+					
+						<option value="1">1</option>
+					
+						<option value="2">2</option>
+					
+						<option value="3">3</option>
+					
+						<option value="4">4</option>
+					
+						<option value="5">5</option>
+					
+						<option value="6">6</option>
+					
+						<option value="7">7</option>
+					
+						<option value="8">8</option>
+					
+						<option value="9">9</option>
+					
+						<option value="10">10</option>
+					
+						<option value="11">11</option>
+					
+						<option value="12">12</option>
+					
+						<option value="13">13</option>
+					
+						<option value="14">14</option>
+					
+						<option value="15">15</option>
+					
+						<option value="16">16</option>
+					
+						<option value="17">17</option>
+					
+						<option value="18">18</option>
+					
+						<option value="19">19</option>
+					
+						<option value="20">20</option>
+					
+						<option value="21">21</option>
+					
+						<option value="22">22</option>
+					
+						<option value="23">23</option>
+					
+						<option value="24">24</option>
+					
+						<option value="25">25</option>
+					
+						<option value="26">26</option>
+					
+						<option value="27">27</option>
+					
+						<option value="28">28</option>
+					
+						<option value="29">29</option>
+					
+						<option value="30">30</option>
+					
+						<option value="31">31</option>
+					
+						<option value="32">32</option>
+					
+						<option value="33">33</option>
+					
+						<option value="34">34</option>
+					
+						<option value="35">35</option>
+					
+						<option value="36">36</option>
+					
+						<option value="37">37</option>
+					
+						<option value="38">38</option>
+					
+						<option value="39">39</option>
+					
+						<option value="40">40</option>
+					
+						<option value="41">41</option>
+					
+						<option value="42">42</option>
+					
+						<option value="43">43</option>
+					
+						<option value="44">44</option>
+					
+						<option value="45">45</option>
+					
+						<option value="46">46</option>
+					
+						<option value="47">47</option>
+					
+						<option value="48">48</option>
+					
+						<option value="49">49</option>
+					
+						<option value="50">50</option>
+					
+						<option value="51">51</option>
+					
+						<option value="52">52</option>
+					
+						<option value="53">53</option>
+					
+						<option value="54">54</option>
+					
+						<option value="55">55</option>
+					
+						<option value="56">56</option>
+					
+						<option value="57">57</option>
+					
+						<option value="58">58</option>
+					
+						<option value="59">59</option>
+					
+						<option value="60">60</option>
+					
+						<option value="61">61</option>
+					
+						<option value="62">62</option>
+					
+						<option value="63">63</option>
+					
+						<option value="64">64</option>
+					
+						<option value="65">65</option>
+					
+						<option value="66">66</option>
+					
+						<option value="67">67</option>
+					
+						<option value="68">68</option>
+					
+						<option value="69">69</option>
+					
+						<option value="70">70</option>
+					
+						<option value="71">71</option>
+					
+						<option value="72">72</option>
+					
+						<option value="73">73</option>
+					
+						<option value="74">74</option>
+					
+						<option value="75">75</option>
+					
+						<option value="76">76</option>
+					
+						<option value="77">77</option>
+					
+						<option value="78">78</option>
+					
+						<option value="79">79</option>
+					
+						<option value="80">80</option>
+					
+						<option value="81">81</option>
+					
+						<option value="82">82</option>
+					
+						<option value="83">83</option>
+					
+						<option value="84">84</option>
+					
+						<option value="85">85</option>
+					
+						<option value="86">86</option>
+					
+						<option value="87">87</option>
+					
+						<option value="88">88</option>
+					
+						<option value="89">89</option>
+					
+						<option value="90">90</option>
+					
+						<option value="91">91</option>
+					
+						<option value="92">92</option>
+					
+						<option value="93">93</option>
+					
+						<option value="94">94</option>
+					
+						<option value="95">95</option>
+					
+						<option value="96">96</option>
+					
+						<option value="97">97</option>
+					
+						<option value="98">98</option>
+					
+						<option value="99">99</option>
+					
+					</select>人
+					子供
+					<a onclick="return false;" href="#" class="chldNum" id="chldNum1">0</a>人
+					<div class="dh childBox" id="chldNum1-contents" style="display:none;">
+						<div class="sltBox">
+							<p class="tbClose">
+							<a onclick="return false;" class="close" id="closeChildBox1" href="#">閉じる</a>
+							</p>
+							<table>
+							<tbody>
+								<tr>
+									<th>小学生</th>
+									<td><span>高学年</span>
+										<select id="dh-s1" name="f_s1">
+										
+											<option value="0">0</option>
+										
+											<option value="1">1</option>
+										
+											<option value="2">2</option>
+										
+											<option value="3">3</option>
+										
+											<option value="4">4</option>
+										
+											<option value="5">5</option>
+										
+											<option value="6">6</option>
+										
+											<option value="7">7</option>
+										
+											<option value="8">8</option>
+										
+											<option value="9">9</option>
+										
+											<option value="10">10</option>
+										
+										</select>人
+									</td>
+									<td><span>低学年</span>
+										<select id="dh-s2" name="f_s2">
+										
+											<option value="0">0</option>
+										
+											<option value="1">1</option>
+										
+											<option value="2">2</option>
+										
+											<option value="3">3</option>
+										
+											<option value="4">4</option>
+										
+											<option value="5">5</option>
+										
+											<option value="6">6</option>
+										
+											<option value="7">7</option>
+										
+											<option value="8">8</option>
+										
+											<option value="9">9</option>
+										
+											<option value="10">10</option>
+										
+										</select>人
+									</td>
+								</tr>
+								</tbody>
+							</table>
+							<table summary="子供・幼児選択">
+								<tbody>
+								<tr>
+									<th rowspan="2"><span>幼児</span></th>
+									<td><span>食事・布団付</span>
+										<select id="dh-y1" name="f_y1">
+										
+											<option value="0">0</option>
+										
+											<option value="1">1</option>
+										
+											<option value="2">2</option>
+										
+											<option value="3">3</option>
+										
+											<option value="4">4</option>
+										
+											<option value="5">5</option>
+										
+											<option value="6">6</option>
+										
+											<option value="7">7</option>
+										
+											<option value="8">8</option>
+										
+											<option value="9">9</option>
+										
+											<option value="10">10</option>
+										
+										</select>人
+									</td>
+									<td><span>食事のみ</span>
+										<select id="dh-y2" name="f_y2">
+										
+											<option value="0">0</option>
+										
+											<option value="1">1</option>
+										
+											<option value="2">2</option>
+										
+											<option value="3">3</option>
+										
+											<option value="4">4</option>
+										
+											<option value="5">5</option>
+										
+											<option value="6">6</option>
+										
+											<option value="7">7</option>
+										
+											<option value="8">8</option>
+										
+											<option value="9">9</option>
+										
+											<option value="10">10</option>
+										
+										</select>
+										人
+									</td>
+								</tr>
+								<tr>
+									<td><span>布団のみ</span>
+										<select id="dh-y3" name="f_y3">
+										
+											<option value="0">0</option>
+										
+											<option value="1">1</option>
+										
+											<option value="2">2</option>
+										
+											<option value="3">3</option>
+										
+											<option value="4">4</option>
+										
+											<option value="5">5</option>
+										
+											<option value="6">6</option>
+										
+											<option value="7">7</option>
+										
+											<option value="8">8</option>
+										
+											<option value="9">9</option>
+										
+											<option value="10">10</option>
+										
+										</select>人
+									</td>
+									<td><span>食事・布団不要</span>
+										<select id="dh-y4" name="f_y4">
+										
+											<option value="0">0</option>
+										
+											<option value="1">1</option>
+										
+											<option value="2">2</option>
+										
+											<option value="3">3</option>
+										
+											<option value="4">4</option>
+										
+											<option value="5">5</option>
+										
+											<option value="6">6</option>
+										
+											<option value="7">7</option>
+										
+											<option value="8">8</option>
+										
+											<option value="9">9</option>
+										
+											<option value="10">10</option>
+										
+										</select>人
+									</td>
+								</tr>
+								</tbody>
+							</table>
+						</div>
+						<iframe scrolling="no" frameborder="0" class="childBoxBackground" style="display: inline;"></iframe>
+					</div>
+					</dd>
+					<dt>金額（1利用あたり）</dt>
+					<dd class="prcBox">下限
+						<select id="dh-kin2" name="f_kin2">
+						<option value="0" selected="">制限なし</option>
+						<option value="5000">5,000円以上</option>
+						<option value="6000">6,000円以上</option>
+						<option value="7000">7,000円以上</option>
+						<option value="8000">8,000円以上</option>
+						<option value="9000">9,000円以上</option>
+						<option value="10000">10,000円以上</option>
+						<option value="12000">12,000円以上</option>
+						<option value="14000">14,000円以上</option>
+						<option value="16000">16,000円以上</option>
+						<option value="18000">18,000円以上</option>
+						<option value="20000">20,000円以上</option>
+						<option value="30000">30,000円以上</option>
+						<option value="40000">40,000円以上</option>
+						<option value="50000">50,000円以上</option>
+						<option value="100000">100,000円以上</option>
+						</select><br>
+						上限
+						<select id="dh-kin" name="f_kin">
+						<option value="" selected="">制限なし</option>
+						<option value="5000">5,000円以下</option>
+						<option value="6000">6,000円以下</option>
+						<option value="7000">7,000円以下</option>
+						<option value="8000">8,000円以下</option>
+						<option value="9000">9,000円以下</option>
+						<option value="10000">10,000円以下</option>
+						<option value="12000">12,000円以下</option>
+						<option value="14000">14,000円以下</option>
+						<option value="16000">16,000円以下</option>
+						<option value="18000">18,000円以下</option>
+						<option value="20000">20,000円以下</option>
+						<option value="30000">30,000円以下</option>
+						<option value="40000">40,000円以下</option>
+						<option value="50000">50,000円以下</option>
+						<option value="100000">100,000円以下</option>
+						</select>
+					</dd>
+				</dl>
+				<p class="sbmtBtn">
+					<a href="javascript:doReFocusSearch()">
+					<img width="60" height="24" class="button" alt="検索" src="http://img.travel.rakuten.co.jp/share/themes/top/images/n/btn_search.gif">
+					</a>
+				</p>
+			</form>
+			
+			<form name="dap-search-form" id="dap-search-form" method="get" style="display:none;">
+				<input type="hidden" value="5625" name="noTomariHotel">
+				<input type="hidden" value="" name="ddp_vs">
+				<input type="hidden" value="" name="cdAffiliate">
+				<input type="hidden" value="" name="n_hidden_tiiki">
+				<input type="hidden" value="" name="cdFlightOffice">
+				<input type="hidden" value="1" name="fDptab">
+				<p id="searchExplainForAirPackage" class="term"></p>
+				<dl>
+					<dt>航空券</dt>
+					<dd>
+					<dl class="dpDateInput">
+						<dt>行き：</dt>
+						<dd>
+						<input type="text" value="" id="dap-dpt-date" class=""><br>
+						<span>出発</span>
+						<select id="deptCode" name="cdHatuKuukou">
+						<option value="HND">東京（羽田）</option>
+						</select><br>到着
+						<select name="cdTyakuKuukou" id="deplCode">
+						<option value="OSA">大阪（全て）</option>
+						</select>
+						</dd>
+					</dl>
+					<dl class="dpDateInput">
+						<dt>帰り：</dt>
+						<dd>
+						<input type="text" value="" id="dap-arv-date" class=""><br>出発
+						<select name="cdHatuKuukouHukuro" id="rettCode">
+						<option value="OSA">大阪（全て）</option>
+						</select><br>到着
+						<select id="retlCode" name="cdTyakuKuukouHukuro">
+						<option value="HND">東京（羽田）</option>
+						</select>
+						</dd>
+					</dl>
+					</dd>
+					<dt>宿泊</dt>
+					<dd>
+					<p class="option">
+					<input type="checkbox" id="dap-parts" value="" name="">
+					<label for="dap-parts">旅行期間中、一部の日程だけ宿を予約する</label>
+					</p>
+					<dl id="dap-parts-contents" class="parts-contents">
+					<dt>チェックイン</dt>
+					<dd><input type="text" value="" id="dap-in-date" class=""></dd>
+					<dt>チェックアウト</dt>
+					<dd><input type="text" value=""  id="dap-out-date" class=""></dd>
+					</dl>
+					<dl class="dpHtl" style="display:none">
+					<dt>宿泊地</dt>
+					<dd>
+					<select id="pref" name="cdTomariTiikiKen">
+					<option value="yamaguchi">山口県</option>
+					</select>
+					
+					
+					
+						
+					
+					
+					<select id="area" name="cdTomariTiiki"><option value="iwakuni" selected>iwakuni</option></select>
+					</dd>
+					</dl>
+					<dl id="dprooms" class="dpHtl">
+					<dt>利用人数<br><span>（1部屋あたり）</span></dt>
+					<dd>大人
+						<select id="suOtona" name="suOtona">
+						<option value="1">1</option>
+						<option value="2" selected="">2</option>
+						<option value="3">3</option>
+						<option value="4">4</option>
+						<option value="5">5</option>
+						<option value="6">6</option>
+						</select>人<br>
+						子供<p class="setChldNum"><a onclick="return false;" href="#" class="dap-child-popup" id="dpChldNum">0</a>人</p>
+						<div class="childBox" id="dpChldNum-contents" style="display:none;">
+							<div class="sltBox">
+								<p class="tbClose"><a onclick="return false;" class="close" href="#">閉じる</a></p>
+								<table>
+									<tbody>
+									<tr>
+										<th>小学生</th>
+										<td><span>子供（9～11歳）</span>
+											<select id="suSyogakkouKougakunen" name="suSyogakkouKougakunen">
+											
+												<option value="0">0</option>
+											
+												<option value="1">1</option>
+											
+												<option value="2">2</option>
+											
+												<option value="3">3</option>
+											
+												<option value="4">4</option>
+											
+												<option value="5">5</option>
+											
+											</select>人
+										</td>
+										<td><span>子供（6～8歳）</span>
+											<select id="suSyogakkouTeigakunen" name="suSyogakkouTeigakunen">
+											
+												<option value="0">0</option>
+											
+												<option value="1">1</option>
+											
+												<option value="2">2</option>
+											
+												<option value="3">3</option>
+											
+												<option value="4">4</option>
+											
+												<option value="5">5</option>
+											
+											</select>人
+										</td>
+									</tr>
+									</tbody>
+								</table>
+								<table summary="子供・幼児選択">
+									<tbody>
+									<tr>
+										<th rowspan="3">幼児</th>
+										<td><span>食事・布団付</span>
+											<select id="suYouziSyokuziFutonTuki" name="suYouziSyokuziFutonTuki">
+											
+												<option value="0">0</option>
+											
+												<option value="1">1</option>
+											
+												<option value="2">2</option>
+											
+												<option value="3">3</option>
+											
+												<option value="4">4</option>
+											
+												<option value="5">5</option>
+											
+											</select>人
+										</td>
+										<td><span>食事のみ</span>
+											<select id="suYouziSyokuziNomi" name="suYouziSyokuziNomi">
+											
+												<option value="0">0</option>
+											
+												<option value="1">1</option>
+											
+												<option value="2">2</option>
+											
+												<option value="3">3</option>
+											
+												<option value="4">4</option>
+											
+												<option value="5">5</option>
+											
+											</select>人
+										</td>
+									</tr>
+									<tr>
+										<td><span>布団のみ</span>
+											<select id="suYouziFutonNomi" name="suYouziFutonNomi">
+											
+												<option value="0">0</option>
+											
+												<option value="1">1</option>
+											
+												<option value="2">2</option>
+											
+												<option value="3">3</option>
+											
+												<option value="4">4</option>
+											
+												<option value="5">5</option>
+											
+											</select>人
+										</td>
+										<td><span>食事・布団不要</span>
+											<select id="suYouziSyokuziFutonFuyou" name="suYouziSyokuziFutonFuyou">
+											
+												<option value="0">0</option>
+											
+												<option value="1">1</option>
+											
+												<option value="2">2</option>
+											
+												<option value="3">3</option>
+											
+												<option value="4">4</option>
+											
+												<option value="5">5</option>
+											
+											</select>人
+										</td>
+									</tr>
+									<tr>
+										<td colspan="2"><span>幼児（0～2歳）</span>
+											<select id="suNyuYouzi" name="suNyuYouzi">
+											
+												<option value="0">0</option>
+											
+												<option value="1">1</option>
+											
+												<option value="2">2</option>
+											
+												<option value="3">3</option>
+											
+												<option value="4">4</option>
+											
+												<option value="5">5</option>
+											
+											</select>人
+										</td>
+									</tr>
+									</tbody>
+								</table>
+							</div>
+							<iframe scrolling="no" frameborder="0" class="childBoxBackground" style="display: inline;"></iframe>
+						</div>
+					</dd>
+					</dl>
+					<dl class="dpHtl">
+					<dt>利用部屋数</dt>
+					<dd>
+					<select id="suTomariHeya" name="suTomariHeya">
+					
+						<option value="1">1</option>
+					
+						<option value="2">2</option>
+					
+						<option value="3">3</option>
+					
+						<option value="4">4</option>
+					
+						<option value="5">5</option>
+					
+						<option value="6">6</option>
+					
+					</select>部屋
+					</dd>
+					</dl>
+					</dd>
+					<dt>レンタカー</dt>
+					<dd>
+					<p class="option">
+					<input type="hidden" value="0" name="fRcUmu" id="pattern">
+					<input type="checkbox" id="dap-cars" value="" name="pattern-checkbox">
+					<label for="dpAddCars">レンタカーもあわせて予約する</label></p>
+					</dd>
+				</dl>
+				<p class="sbmtBtn">
+				<input width="60" type="image" height="24" class="submit" alt="検索" src="http://img.travel.rakuten.co.jp/share/themes/top/images/n/btn_search.gif">
+				</p>
+			</form>
+
+			<form id="du-search-form" style="" action="http://web.travel.rakuten.co.jp/portal/my/jyouhou_page.main" method="get" name="dayUse"  style="display:none;">
+				<input type="hidden" value="5625" name="f_no">
+				<input type="hidden" value="DAYUSE" name="f_flg">
+				<input type="hidden" value="" name="f_teikei">
+				<dl id="duDtAndRms">
+					<dt>利用日</dt>
+					<dd><input type="checkbox" id="undatedChk" checked><label for="undatedChk">日付未定</label></dd>
+					<dd><input type="text" id="du-checkin" value=""></dd>
+					<dt>利用人数</dt>
+					<dd>大人
+						<select name="f_otona_su" id="duAdult">
+						
+							<option value="1">1</option>
+						
+							<option value="2">2</option>
+						
+							<option value="3">3</option>
+						
+							<option value="4">4</option>
+						
+							<option value="5">5</option>
+						
+							<option value="6">6</option>
+						
+							<option value="7">7</option>
+						
+							<option value="8">8</option>
+						
+							<option value="9">9</option>
+						
+							<option value="10">10</option>
+						
+						</select>人
+						<a onclick="return false;" href="#" class="chldNum  du-child-popup" id="duChldNum">0</a>人
+						<div class="childBox" id="duChldNum-contents" style="display:none;">
+							<div class="sltBox">
+								<p class="tbClose"><a onclick="return false;" class="close" href="#">閉じる</a></p>
+								<table>
+									<tbody>
+									<tr>
+										<th>小学生</th>
+										<td><span>高学年</span>
+											<select id="du-s1" name="f_s1">
+											
+												<option value="0">0</option>
+											
+												<option value="1">1</option>
+											
+												<option value="2">2</option>
+											
+												<option value="3">3</option>
+											
+												<option value="4">4</option>
+											
+												<option value="5">5</option>
+											
+												<option value="6">6</option>
+											
+												<option value="7">7</option>
+											
+												<option value="8">8</option>
+											
+												<option value="9">9</option>
+											
+												<option value="10">10</option>
+											
+											</select>人
+										</td>
+										<td><span>低学年</span>
+											<select id="du-s2" name="f_s2">
+											
+												<option value="0">0</option>
+											
+												<option value="1">1</option>
+											
+												<option value="2">2</option>
+											
+												<option value="3">3</option>
+											
+												<option value="4">4</option>
+											
+												<option value="5">5</option>
+											
+												<option value="6">6</option>
+											
+												<option value="7">7</option>
+											
+												<option value="8">8</option>
+											
+												<option value="9">9</option>
+											
+												<option value="10">10</option>
+											
+											</select>人
+										</td>
+									</tr>
+									</tbody>
+								</table>
+								<table summary="子供・幼児選択">
+									<tbody>
+									<tr>
+										<th rowspan="2"><span>幼児</span></th>
+										<td><span>食事・布団付</span>
+											<select id="du-y1" name="f_y1">
+											
+												<option value="0">0</option>
+											
+												<option value="1">1</option>
+											
+												<option value="2">2</option>
+											
+												<option value="3">3</option>
+											
+												<option value="4">4</option>
+											
+												<option value="5">5</option>
+											
+												<option value="6">6</option>
+											
+												<option value="7">7</option>
+											
+												<option value="8">8</option>
+											
+												<option value="9">9</option>
+											
+												<option value="10">10</option>
+											
+											</select>人
+										</td>
+										<td><span>食事のみ</span>
+											<select id="du-y2" name="f_y2">
+											
+												<option value="0">0</option>
+											
+												<option value="1">1</option>
+											
+												<option value="2">2</option>
+											
+												<option value="3">3</option>
+											
+												<option value="4">4</option>
+											
+												<option value="5">5</option>
+											
+												<option value="6">6</option>
+											
+												<option value="7">7</option>
+											
+												<option value="8">8</option>
+											
+												<option value="9">9</option>
+											
+												<option value="10">10</option>
+											
+											</select>人
+										</td>
+									</tr>
+									<tr>
+										<td><span>布団のみ</span>
+											<select id="du-y3" name="f_y3">
+											
+												<option value="0">0</option>
+											
+												<option value="1">1</option>
+											
+												<option value="2">2</option>
+											
+												<option value="3">3</option>
+											
+												<option value="4">4</option>
+											
+												<option value="5">5</option>
+											
+												<option value="6">6</option>
+											
+												<option value="7">7</option>
+											
+												<option value="8">8</option>
+											
+												<option value="9">9</option>
+											
+												<option value="10">10</option>
+											
+											</select>人
+										</td>
+										<td><span>食事・布団不要</span>
+											<select id="du-y4" name="f_y4">
+											
+												<option value="0">0</option>
+											
+												<option value="1">1</option>
+											
+												<option value="2">2</option>
+											
+												<option value="3">3</option>
+											
+												<option value="4">4</option>
+											
+												<option value="5">5</option>
+											
+												<option value="6">6</option>
+											
+												<option value="7">7</option>
+											
+												<option value="8">8</option>
+											
+												<option value="9">9</option>
+											
+												<option value="10">10</option>
+											
+											</select>人
+										</td>
+									</tr>
+									</tbody>
+								</table>
+							</div>
+							<iframe scrolling="no" frameborder="0" class="childBoxBackground" style="display: inline;"></iframe>
+						</div>
+					</dd>
+					<dt>金額（1利用あたり）</dt>
+					<dd class="prcBox">下限
+						<select id="du-kin2" name="f_kin2">
+						<option value="0" selected="">制限なし</option>
+						<option value="5000">5,000円以上</option>
+						<option value="6000">6,000円以上</option>
+						<option value="7000">7,000円以上</option>
+						<option value="8000">8,000円以上</option>
+						<option value="9000">9,000円以上</option>
+						<option value="10000">10,000円以上</option>
+						<option value="12000">12,000円以上</option>
+						<option value="14000">14,000円以上</option>
+						<option value="16000">16,000円以上</option>
+						<option value="18000">18,000円以上</option>
+						<option value="20000">20,000円以上</option>
+						<option value="30000">30,000円以上</option>
+						<option value="40000">40,000円以上</option>
+						<option value="50000">50,000円以上</option>
+						<option value="100000">100,000円以上</option>
+						</select><br>
+						上限
+						<select id="du-kin" name="f_kin">
+						<option value="" selected="">制限なし</option>
+						<option value="5000">5,000円以下</option>
+						<option value="6000">6,000円以下</option>
+						<option value="7000">7,000円以下</option>
+						<option value="8000">8,000円以下</option>
+						<option value="9000">9,000円以下</option>
+						<option value="10000">10,000円以下</option>
+						<option value="12000">12,000円以下</option>
+						<option value="14000">14,000円以下</option>
+						<option value="16000">16,000円以下</option>
+						<option value="18000">18,000円以下</option>
+						<option value="20000">20,000円以下</option>
+						<option value="30000">30,000円以下</option>
+						<option value="40000">40,000円以下</option>
+						<option value="50000">50,000円以下</option>
+						<option value="100000">100,000円以下</option>
+						</select>
+					</dd>
+				</dl>
+				<p class="sbmtBtn">
+					<a class="daySearchSub" href="javascript:goDuPlan();">
+					<img width="60" height="24" class="button" alt="検索" src="http://img.travel.rakuten.co.jp/share/themes/top/images/n/btn_search.gif">
+					</a>
+				</p>
+			</form>
+			
+		</div>
+		</dd>
+	</dl>
+
+	
+	
+
+
+
+	<dl id="maplctn">
+		<dt class="ttlBar">地図</dt>
+		<dd class="outerBox">
+
+			<a href="http://travel.rakuten.co.jp/HOTEL/5625/rtmap.html" class="mapLftClmn"><img src="http://img.travel.rakuten.co.jp/share/img/hotel_map_sample.gif"></a>
+		</dd>
+	</dl>
+
+
+	<dl id="relatedPg">
+		<dt class="ttleBar">施設関連情報</dt>
+		<dd class="outerBox">
+			<ul>
+
+
+	
+	
+				<li class="cstmPgLnk"><span>湯野温泉　紫水園 紫水園　TOP</span></li>
+	
+
+
+
+	
+				<li class="cstmPgLnk"><a href="http://travel.rakuten.co.jp/HOTEL/5625/CUSTOM/P5625100124134929.html">湯野温泉　紫水園 写真を見る</a></li>
+	
+	
+
+
+
+	
+				<li><a href="http://travel.rakuten.co.jp/HOTEL/5625/5625_std.html">湯野温泉　紫水園 設備・アメニティ・基本情報</a></li>
+	
+	
+
+
+	
+				<li><a href="http://travel.rakuten.co.jp/HOTEL/5625/gallery.html">湯野温泉　紫水園 写真・画像</a></li>
+	
+	
+
+
+	
+				<li><a href="http://travel.rakuten.co.jp/HOTEL/5625/rtmap.html">湯野温泉　紫水園 地図・アクセス</a></li>
+	
+	
+
+
+
+	
+				<li><a href="http://travel.rakuten.co.jp/HOTEL/5625/review.html">湯野温泉　紫水園 クチコミ</a></li>
+	
+	
+
+
+
+
+	
+				<li><a href="http://travel.rakuten.co.jp/HOTEL/5625/5625_onsen.html">湯野温泉　紫水園 温泉</a></li>
+	
+	
+
+
+
+			</ul>
+		</dd>
+	</dl>
+	
+		<dl id="recent">
+		</dl>
+	
+	
+		
+			
+				<dl id="othrLangLnk">
+					<dt class="ttlBar">外国語サイト</dt>
+					<dd class="outerBox">
+						<ul>
+							
+								<li><a href="http://travel.rakuten.com/hotelinfo/25/5625/">Book SHISUIEN</a></li>
+								<li><a href="http://travel.rakuten.com/hotel/asia/japan/yamaguchi/iwakuni.html">Hotels in Iwakuni, Shunan, Yanai</a></li>
+							
+								<li><a href="http://travel.rakuten.com.tw/hotelinfo/25/5625/">SHISUIEN 預訂</a></li>
+								<li><a href="http://travel.rakuten.com.tw/hotel/asia/japan/yamaguchi/iwakuni.html">岩國·周南·柳井 酒店一覽</a></li>
+							
+						</ul>
+					</dd>
+				</dl>
+			
+		
+	
+</div>
+
+
+
+<div id="htlMainContent">
+<div>
+<div id="trvlHtlTabNav">
+<ul>
+<li id="navHltPg">
+
+
+<span>施設紹介</span>
+
+
+
+</li>
+
+
+
+
+
+
+
+
+<li id="navPlan"><a class="rtconds" href="http://hotel.travel.rakuten.co.jp/hotelinfo/plan/5625?f_tscm_flg=&f_tel=&f_teikei=&f_nen1=&f_tuki1=&f_hi1=&f_nen2=&f_tuki2=&f_hi2=&f_heya_su=1&f_otona_su=1&f_s1=0&f_s2=0&f_y1=0&f_y2=0&f_y3=0&f_y4=0&f_kin=&f_kin2=&f_squeezes=&f_flg=PLAN&f_static=1">プラン一覧</a>
+<div>
+<ul>
+
+
+
+
+
+
+
+
+<li><a id="RM_PLAN" class="rtconds" href="http://hotel.travel.rakuten.co.jp/hotelinfo/plan/5625?f_tscm_flg=&f_tel=&f_teikei=&f_nen1=&f_tuki1=&f_hi1=&f_nen2=&f_tuki2=&f_hi2=&f_heya_su=1&f_otona_su=1&f_s1=0&f_s2=0&f_y1=0&f_y2=0&f_y3=0&f_y4=0&f_kin=&f_kin2=&f_squeezes=&f_flg=PLAN&f_static=1">宿泊プラン</a></li>
+
+
+
+
+
+
+
+
+
+<li><a id="RM_DP_PLAN" hotel_no="5625" class="rtconds packagebox" href="javascript:void(0);">航空券付宿泊プラン</a></li>
+
+
+
+
+
+
+</ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li id="navPht"><a class="rtconds" href="http://travel.rakuten.co.jp/HOTEL/5625/gallery.html">フォトギャラリー(20)</a>
+<div>
+<ul>
+
+
+<li><a id="00000001" class="rtconds" href="http://travel.rakuten.co.jp/HOTEL/5625/gallery.html#category00000001">部屋(5)</a></li>
+
+
+
+<li><a id="00000002" class="rtconds" href="http://travel.rakuten.co.jp/HOTEL/5625/gallery.html#category00000002">温泉(1)</a></li>
+
+
+
+<li><a id="00000004" class="rtconds" href="http://travel.rakuten.co.jp/HOTEL/5625/gallery.html#category00000004">食事(7)</a></li>
+
+
+
+<li><a id="00000000" class="rtconds" href="http://travel.rakuten.co.jp/HOTEL/5625/gallery.html#category00000000">その他(7)</a></li>
+
+
+</ul>
+</div>
+</li>
+
+
+
+
+
+
+
+
+<li id="navRtMap"><a class="rtconds" href="http://travel.rakuten.co.jp/HOTEL/5625/rtmap.html">地図・アクセス</a></li>
+
+
+
+
+
+
+
+
+
+
+
+<li id="navRtCstmrVc"><a class="rtconds" href="http://travel.rakuten.co.jp/HOTEL/5625/review.html">お客さまの声</a></li>
+
+
+
+
+
+
+
+
+
+
+	
+<li id="navRtCupn">
+	
+		
+		
+<a class="rtconds" href="http://coupon.travel.rakuten.co.jp/coupon/hotel/5625?f_version=1&f_teikei=">クーポン一覧</a>
+		
+	
+</li>
+	
+	
+
+
+
+
+
+
+
+</ul>
+</div>
+
+
+
+
+  
+  
+
+
+<div id="trvlHtlSubNav">
+<ul>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li class=""><span>紫水園　TOP</span></li>
+
+
+
+
+
+
+
+
+
+<li id="rtcond" class=""><a class="rtconds" href="http://travel.rakuten.co.jp/HOTEL/5625/CUSTOM/P5625100124134929.html">写真を見る</a></li>
+
+
+
+
+
+
+
+
+
+<li id="rtcond" class=""><a class="rtconds" href="http://travel.rakuten.co.jp/HOTEL/5625/5625_onsen.html">温泉</a></li>
+
+
+
+
+
+
+
+
+
+<li id="rtcond" class=""><a class="rtconds" href="http://travel.rakuten.co.jp/HOTEL/5625/5625_std.html">詳細情報</a></li>
+
+
+
+
+</ul>
+</div>
+</div>
+<!--**************hotel menu end**************-->
+
+
+
+<hr class="indicate">
+<div id="RthCustomize"><table width="750" border="0" cellspacing="0" cellpadding="0">
+<tr> 
+<td colspan="7"><img src="http://img.travel.rakuten.co.jp/share/image_up/5625/LARGE/gPPAu0.jpeg" width="750" alt="写真1"></td>
+</tr>
+<tr> 
+<td height="20" width="1" bgcolor="#EAEAEA"><img src="/share/images/spacer.gif" width="1" height="20" alt=""></td>
+<td height="2" width="195" bgcolor="#EAEAEA"><img src="/share/images/spacer.gif" width="195" height="1" alt=""></td>
+<td height="317" rowspan="8" bgcolor="#EAEAEA"><img src="/share/images/spacer.gif" width="15" height="1" alt=""></td>
+<td height="317" rowspan="8"><img src="/share/images/spacer.gif" width="15" height="1" alt=""></td>
+<td height="2" width="240"><img src="/share/images/spacer.gif" width="240" height="1" alt=""></td>
+<td height="2" width="30"><img src="/share/images/spacer.gif" width="30" height="1" alt=""></td>
+<td height="2" width="240"><img src="/share/images/spacer.gif" width="240" height="1" alt=""></td>
+</tr>
+<tr> 
+<td height="315" rowspan="7" bgcolor="#EAEAEA"><img src="/share/images/spacer.gif" width="15" height="1"></td>
+<td height="315" rowspan="7" bgcolor="#EAEAEA" valign="top"> 
+<table width="195" border="0" cellspacing="0" cellpadding="0">
+<tr><td background="http://img.travel.rakuten.co.jp/share/images/kanri/button.jpg" width="195" height="42"><div align="center" style="font-size: 12px;"><a href="http://web.travel.rakuten.co.jp/PLAN/5625/1746613" class="newclick">特別室●専用檜風呂</a></div></td></tr>
+<tr><td background="http://img.travel.rakuten.co.jp/share/images/kanri/button.jpg" width="195" height="42"><div align="center" style="font-size: 12px;"><a href="http://web.travel.rakuten.co.jp/PLAN/5625/1746612" class="newclick">離れ・別邸</a></div></td></tr>
+<tr><td background="http://img.travel.rakuten.co.jp/share/images/kanri/button.jpg" width="195" height="42"><div align="center" style="font-size: 12px;"><a href="http://hotel.travel.rakuten.co.jp/PLAN/5625/3069356" class="newclick">【朝食つき】別邸</a></div></td></tr>
+<tr><td background="http://img.travel.rakuten.co.jp/share/images/kanri/button.jpg" width="195" height="42"><div align="center" style="font-size: 12px;"><a href="http://hotel.travel.rakuten.co.jp/PLAN/5625/2447588" class="newclick">9/15直前割プラン</a></div></td></tr>
+
+
+
+
+
+
+</table>
+</td>
+<td height="37" colspan="3" class="kihon"><FONT FACE="ＭＳ 明朝"><div align="right"><font size=2>〜豊富なラジウム含有量を誇る美人の湯〜</font>　　<font color="#c71585" size=6><b>湯 野 温 泉</b></font><BR>
+<BR>
+<font size=2>約4000坪の敷地内に手入れの行き届いた緑豊かな日本庭園を配しております。<BR>
+のんびりと庭園をお散歩されるのもお勧めです。<BR>
+四季の移ろいが感じられる優雅な一時をお過ごし下さい。<BR>
+皆様のご来館心よりお待ち申し上げております。</font></div></FONT></td>
+</tr>
+<tr> 
+<td height="20" width="240"></td>
+<td height="20" width="30"><img src="/share/images/spacer.gif" width="1" height="20" alt=""></td>
+<td height="20" width="240"></td>
+</tr>
+<tr> 
+<td width="240" valign="top"><img src="http://img.travel.rakuten.co.jp/share/image_up/5625/LARGE/I1doxz.jpeg" width="240" alt="写真2"></td>
+<td width="30">　</td>
+<td width="240"><img src="http://img.travel.rakuten.co.jp/share/image_up/5625/LARGE/2ABUCI.jpeg" width="240" alt="写真3"></td>
+</tr>
+<tr> 
+<td width="240" class="kihon"><BR>
+<center><font style="color:#ffd700;font-size:2">◆</font>　<font face="ＭＳ 明朝"><font size=3>特別室</font>　<font style="color:#ffd700;font-size:2">◆</font><BR>
+ひっそりと佇む特別室・蘭石亭。<BR>
+優雅なひとときをお過ごしいただけます。<BR>
+専用の【檜風呂】では、24時間お好きな時に<BR>
+何度でも湯野温泉の湯をお楽しみ頂けます。
+<center></td>
+<td width="30">　</td>
+<td width="240" class="kihon"><BR><BR>
+<center><font style="color:#da70d6;font-size:2">◆</font>　<font face="ＭＳ 明朝"><font size=3>お食事</font></font>　<font style="color:#da70d6;font-size:2">◆</font><BR>
+山口は瀬戸内海・日本海に囲まれ、<BR>
+新鮮な魚介類の宝庫です。<BR>
+鮮度抜群の魚介をふんだんに盛り込んだ<BR>
+会席料理をお楽しみください。<BR>
+<center>　</td>
+</tr>
+<tr> 
+<td width="240">　</td>
+<td width="30"><img src="/share/images/spacer.gif" width="1" height="20" alt=""></td>
+<td width="240">　</td>
+</tr>
+<tr> 
+<td width="240" valign="top"><img src="http://img.travel.rakuten.co.jp/share/image_up/5625/LARGE/zGrYeZ.jpeg" width="240" alt="写真4"></td>
+<td width="30">　</td>
+<td width="240" valign="top"><img src="http://img.travel.rakuten.co.jp/share/image_up/5625/LARGE/XdLbTx.jpeg" width="240" alt="写真5"></td>
+</tr>
+<tr> 
+<td width="240" class="kihon"><BR>
+<center><font style="color:#ffa07a;font-size:2">◆</font>　<font face="ＭＳ 明朝"><font size=3>宴会場</font></font>　<font style="color:#ffa07a;font-size:2">◆</font><BR>
+館内にございます【会議室】や<BR>
+舞台付の【宴会場】は無料でご利用下さい。<BR>
+お気軽に当館までお問い合わせください。<BR>
+TEL　0834-83-2345
+<center>　</td>
+<td width="30">　</td>
+<td width="240" class="kihon"><BR>
+<center><font style="color:#2e8b57;font-size:2">◆</font>　<font face="ＭＳ 明朝"><font size=3>庭園</font></font>　<font style="color:#2e8b57;font-size:2">◆</font><BR>
+約4000坪の敷地内に日本庭園が広がります。<BR>
+都会の喧騒、日常の雑事から離れた<BR>
+ひとときを過ごしてみませんか。<BR>
+早朝のお散歩もお勧めです。
+<center>　</td>
+</tr>
+</table></td></tr></table><!--/RthCustomize--></div><!--**************customize page end**************--><link type="text/css" rel="stylesheet" href="http://img.travel.rakuten.co.jp/share/themes/hotel/css/trvl_hotel_ovrride.css">
+<script type="text/JavaScript" charset="UTF-8" src="http://img.travel.rakuten.co.jp/share/rtl/js/rtcondSetHotelPage.js"></script>
+<script type="text/JavaScript" charset="UTF-8" src="http://img.travel.rakuten.co.jp/share/ext/js/rtcond.set.js"></script>
+<script type="text/JavaScript" charset="Shift_JIS" src="http://img.travel.rakuten.co.jp/share/common/js/rakutenTr_commons.js"></script>
+<script>
+<!--
+(function( $ ){
+	$(document).ready(function(){
+	var cond = new Cookiefunc('RTCOND');
+	cond.replaceHref('rtconds','a');
+	cond.replaceFoot('rtcond_f','a','rtcond_h');
+	});
+})(this.jQuery);
+//-->
+</script>
+<!-- landing page uses different SiteCatalyst name -->
+<script type="text/javascript" charset="Shift_JIS" src="http://img.travel.rakuten.co.jp/share/wat/info/hotel_B.js"></script>
+
+
+<!-- SiteCatalyst code  -->
+<div id="dynamicElement"></div>
+<script language="JavaScript" src="http://img.travel.rakuten.co.jp/share/wat/sc/s_code.js"></script>
+
+
+
+<script language="JavaScript" src="http://img.travel.rakuten.co.jp/share/wat/sc/code_to_paste.js"></script>
+
+
+
+<!-- End SiteCatalyst code version: H.9. -->
+<script type="text/javascript" src="http://img.travel.rakuten.co.jp/share/themes/hotel/js/hotel_s_code_setting.js"></script>
+
+<!-- Mebius -->
+<script type="text/javascript">
+var mbHost = (("https:" == document.location.protocol) ? "https://" : "http://");
+document.write(unescape("%3Cscript src='" + mbHost + "rd.rakuten.co.jp/js/p_code.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript"><!--
+	i="6.2994.0";
+	n="travel";
+	l="travel";
+	r=document.referrer;
+	document.write(p(i,n,l,r));
+//--></script>
+<noscript>
+    <img src="https://rd.rakuten.co.jp/p/?i=6.2994.0&n=travel&l=travel&r=" />
+</noscript>
+<!-- /Mebius -->
+<script language="JavaScript" src="http://img.travel.rakuten.co.jp/share/ext/js/hotel.js" type="text/JavaScript"></script>
+<script charset="Shift_JIS" language="JavaScript" src="http://img.travel.rakuten.co.jp/share/ext/js/favorite.js" type="text/JavaScript"></script>
+<script language="javascript">
+<!--
+(function( $ ){
+$(document).ready(function(){
+clipChk('clip_hotel','HOTEL','5625',null,'kokunai','INFO','','','','','','','','','','','1','0','0','0','0','0','0','1','','','','CUSTOM','','5625100124135759','','');
+});
+})(this.jQuery);
+//-->
+</script>
+<script type="text/javascript" charset="UTF-8" src="http://img.travel.rakuten.co.jp/share/rtl/js/search.js"></script>
+<script type="text/javascript" charset="UTF-8" src="http://img.travel.rakuten.co.jp/share/themes/hotel/js/dh.search.vacant.js" language="JavaScript"></script>
+<script type="text/javascript" charset="Shift_JIS" src="http://img.travel.rakuten.co.jp/share/themes/hotel/js/new_hotelinfo_rooming.js" language="JavaScript"></script>
+<script type="text/javascript" charset="UTF-8" src="http://img.travel.rakuten.co.jp/share/common/js/panorama.viewer.js"></script>
+<script type="text/javascript" charset="UTF-8" src="http://img.travel.rakuten.co.jp/share/themes/hotel/js/panorama.viewer.initialize.js"></script>
+<!--**************excursion area start**************--><ul id="RthExcursionArea"><li class="RthExcursionPrev"><a class="rtconds" href="http://hotel.travel.rakuten.co.jp/hinfo/custom/?f_no=5625&f_teikei=&f_flg=CUSTOM&f_search_type=&f_static=0&f_custom_code=P5625100124134929">写真を見る</a></li>
+<li class="RthExcursionNext"><a class="rtconds" href="http://hotel.travel.rakuten.co.jp/hinfo/custom/?f_no=5625&f_teikei=&f_flg=CUSTOM&f_search_type=&f_static=0&f_custom_code=P5625100124134929">写真を見る</a></li>
+</ul><p id="RthPagetop"><a href="#TOP">このページのトップへ</a></p>
+<!--/#htlMainContent--></div>
+</div>
+<div>
+<div id="grpfooterArea">
+<dl id="grpSupportMenu">
+<dt>補助メニュー</dt>
+<dd>
+<ul>
+<li><a href="http://travel.rakuten.co.jp/corporate/">会社情報</a></li>
+<li><a href="http://travel.rakuten.co.jp/recruit/">採用情報</a></li>
+<li><a href="http://privacy.rakuten.co.jp/">個人情報保護方針</a></li>
+<li><a href="http://travel.rakuten.co.jp/info/hotel_msg.html">資料請求</a></li>
+<li class="grpLast"><a href="http://travel.rakuten.co.jp/info/">規約集</a></li>
+</ul>
+</dd>
+</dl>
+<p id="grpCopyright">Copyright (c) 2002-2013 Rakuten Travel, Inc. All Rights Reserved.</p>
+<p id="grp10th"><a href="http://ecoto.rakuten.co.jp/"><img width="80" height="20" border="0" alt="ちょっといいこと楽天" src="http://img.travel.rakuten.co.jp/share/themes/header/images/ecoto_logo.gif"></a></p> 
+</div>
+</div>
+</body>
+</html>

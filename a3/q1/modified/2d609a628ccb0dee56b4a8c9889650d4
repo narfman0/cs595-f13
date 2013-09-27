@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<!--[if lt IE 7 ]> <html class="no-js ie ie6 loading" lang="ja"> <![endif]-->
+<!--[if IE 7 ]>    <html class="no-js ie ie7 loading" lang="ja"> <![endif]-->
+<!--[if IE 8 ]>    <html class="no-js ie ie8 loading" lang="ja"> <![endif]-->
+<!--[if IE 9 ]>    <html class="no-js ie ie9 loading" lang="ja"> <![endif]-->
+<!--[if (gte IE 10)|!(IE)]><!--><html lang="ja"><!--<![endif]-->
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=yes" />
+<title>ニュース | Summer Snow 公式サイト-韓国ミュージカル</title>
+<meta name="description" content="Summer Snowは、日本テレビドラマ史上最高傑作の一つとの声もい高い作品を韓国でリメイクしミュージカル化した作品です。”いつか一緒にみたいな、できれば夏に･･･めったに見れない夏の雪が見たいなら･･･”" />
+<meta name="keywords" content="韓国,ミュージカル,Summer Snow,サマースノウ" />
+
+<link rel="stylesheet" href="http://www.summer-snow.jp/_wp/wp-content/themes/summer/css/style.css" media="all">
+<script src="http://www.summer-snow.jp/_wp/wp-content/themes/summer/js/jquery.min.js"></script>
+<script src="http://www.summer-snow.jp/_wp/wp-content/themes/summer/js/lib/jquery.easing.1.3.js"></script>
+<script src="http://www.summer-snow.jp/_wp/wp-content/themes/summer/js/lib/imagesloaded.pkgd.js"></script>
+<script src="http://www.summer-snow.jp/_wp/wp-content/themes/summer/js/lib/jquery.simpleTicker.js"></script>
+<script src="http://www.summer-snow.jp/_wp/wp-content/themes/summer/js/common.js"></script>
+<script src="http://www.summer-snow.jp/_wp/wp-content/themes/summer/js/page.js"></script>
+<script src="http://www.summer-snow.jp/_wp/wp-content/themes/summer/js/news.js"></script>
+<link rel="shortcut icon" href="/favicon.ico">
+
+<!--[if IE 6]><script src="http://www.summer-snow.jp/_wp/wp-content/themes/summer/js/lib/iepngfix_tilebg.js"></script><![endif]-->
+<!--[if IE]><script src="http://www.summer-snow.jp/_wp/wp-content/themes/summer/js/lib/html5.js"></script><![endif]-->
+<link rel="alternate" type="application/rss+xml" title="Summer Snow 公式サイト-韓国ミュージカル &raquo; フィード" href="http://www.summer-snow.jp/feed" />
+<link rel="alternate" type="application/rss+xml" title="Summer Snow 公式サイト-韓国ミュージカル &raquo; コメントフィード" href="http://www.summer-snow.jp/comments/feed" />
+<link rel="alternate" type="application/rss+xml" title="Summer Snow 公式サイト-韓国ミュージカル &raquo; ニュース のコメントのフィード" href="http://www.summer-snow.jp/news/feed" />
+<script type='text/javascript' src='http://www.summer-snow.jp/_wp/wp-includes/js/comment-reply.min.js?ver=3.6'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.summer-snow.jp/_wp/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.summer-snow.jp/_wp/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='メルマガ登録' href='http://www.summer-snow.jp/melmaga' />
+<link rel='next' title='お問合わせ' href='http://www.summer-snow.jp/contact' />
+<meta name="generator" content="WordPress 3.6" />
+<link rel='canonical' href='http://www.summer-snow.jp/news' />
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-35595145-2', 'summer-snow.jp');
+  ga('send', 'pageview');
+
+</script>
+</head>
+
+
+<body id="news" >
+
+<!-- spHeader [for only smartphone] -->
+<div id="spHeader">
+    <div id="tabHeader">
+        <div id="tab"><a href="#"></a></div>
+        <div id="facebook"><a href="https://www.facebook.com/summer.snow.musical" target="_blank">FACEBOOK</a></div>      
+    </div>
+    <div id="tabContent">
+        <ul>
+        	<li class="home"><a href="/">ホーム</a></li>
+        	<li class="news"><a href="/news">ニュース</a></li>
+            <!--<li class="schedule"><a href="/schedule">公演情報</a></li>
+            <li class="cast"><a href="/cast">キャスト</a></li>
+            <li class="ticket"><a href="/ticket">チケット</a></li>-->
+            <li class="melmaga"><a href="/melmaga">メルマガ</a></li>
+            <li class="contact"><a href="/contact">お問合わせ</a></li>
+            <li class="access"><a href="/access">アクセス</a></li>
+            <li class="archives"><a href="/archives/201305" target="_blank">過去の公演</a></li>
+        </ul>
+	</div>
+</div>
+<!-- /spHeader -->
+
+<div id="content">
+    <div id="htmlContent">
+        <div class="headerArea hover topLayer">
+        	<div class="header">
+                <h1 class="imgover"><a class="mainLogo" href="/">Summer Snow 公式サイト-韓国ミュージカル</a></h1>
+                <ul class="topMenuList">
+                    <li class="home"><a href="/">ホーム</a></li>
+                    <li class="news"><a href="/news">ニュース</a></li>
+                    <li class="schedule"><a href="/schedule" class="disable">公演情報</a></li>
+                    <li class="cast"><a href="/cast" class="disable">キャスト</a></li>
+                    <li class="ticket"><a href="/ticket" class="disable">チケット</a></li>
+                    <li class="melmaga"><a href="/melmaga">メルマガ</a></li>
+                    <li class="contact"><a href="/contact">お問合わせ</a></li>
+                    <li class="access"><a href="/access">アクセス</a></li>
+                    <li class="archives"><a href="/archives/201305" target="_blank">過去の公演</a></li>
+                </ul>
+            </div><!-- /headerArea -->
+
+			<div class="newsTickerArea">
+            	<div class="newsTickerBox">
+                    <div class="newsTickerTtl">最新ニュース</div>
+                    <div class="newsListBox">
+						<ul class="newsList">
+														                        	<li><div class="date">2013.9.25</div><div class="article"><a href="http://www.summer-snow.jp/archives/46">第1弾 出演者決定のお知らせ</a></div></li>
+							                        	<li><div class="date">2013.9.2</div><div class="article"><a href="http://www.summer-snow.jp/archives/11">オフィシャルサイトをリニューアルいたしました</a></div></li>
+							                    	</ul>
+                    </div><!-- /newsListBox -->
+                </div><!-- /newsTickerBox -->
+			</div><!-- /newsTickerArea -->
+        </div><!-- /headerArea -->
+
+
+		<div id="htmlContentMain">
+	        <div class="blueBox">
+	        	<div class="ttlBox"><div class="ttl">ニュース</div></div>
+	        	<div class="blueBoxScroll2">
+
+		            <ul class="newsMainList">
+							         <li><div class="date">2013.9.25</div><div class="article"><a href="/news#entry-46">第1弾 出演者決定のお知らせ</a></div></li>
+						         <li><div class="date">2013.9.2</div><div class="article"><a href="/news#entry-11">オフィシャルサイトをリニューアルいたしました</a></div></li>
+							</ul><!-- /newsMainList -->
+				</div><!-- /blueBoxScroll2 -->	
+	        </div><!-- /blueBox -->
+
+
+
+
+
+
+
+	        <div class="blueBox blueBoxDetail">
+
+
+	            <ul class="newsMainDetailList">
+				         <li id="entry-46">
+			         	<div class="date">2013.9.25</div>
+			         	<div class="article"><a href="http://www.summer-snow.jp/archives/46">第1弾 出演者決定のお知らせ</a></div>
+			         	<div class="articleBody"><p>
+超新星 ソンモさんの出演が決定いたしました。どうぞご期待ください！<br />
+<br />
+※なお出演日程は現在未定です。決定次第公式HPにてお知らせいたします。</p>
+</div>
+			         </li>
+				         <li id="entry-11">
+			         	<div class="date">2013.9.2</div>
+			         	<div class="article"><a href="http://www.summer-snow.jp/archives/11">オフィシャルサイトをリニューアルいたしました</a></div>
+			         	<div class="articleBody"><p>
+オフィシャルサイトをリニューアルいたしました</p>
+</div>
+			         </li>
+					</ul><!-- /newsMainList -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	        </div><!-- /blueBox -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		</div><!-- /htmlContentMain -->
+
+		<div class="bgMain"><img src="http://www.summer-snow.jp/_wp/wp-content/themes/summer/image/bg_main.jpg" /></div>
+
+
+		<div id="snsArea">
+	        <div class="twitter">
+	        	<a href="https://twitter.com/share" class="twitter-share-button" data-text="Summer Snow -韓国ミュージカル" data-url="http://summer-snow.jp/" data-count="none">Tweet</a>
+	        	<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+	       	</div>
+	        <div class="facebook">
+	       		<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2Fsummer.snow.musical&amp;width=120&amp;height=21&amp;colorscheme=light&amp;layout=button_count&amp;action=like&amp;show_faces=false&amp;send=false&amp;appId=543276162365410" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:120px; height:21px;" allowTransparency="true"></iframe>
+	        </div>
+		</div><!-- /snsArea -->
+
+		<footer id="footer">           
+            <div id="copyright">Copyright © PIA Corporation. All Rights Reserved.</div>
+        </footer>
+    </div><!-- /htmlContent -->
+</div><!-- /content -->
+</body>
+</html>

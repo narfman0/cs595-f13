@@ -1,0 +1,19 @@
+<html>
+<head>
+    <title></title>
+</head>
+<body>
+    <form method="POST" action="">
+	    <input type="hidden" name="url" value="http://www.sportingnews.com/nascar/story/2013-09-22/clint-bowyer-spin-richmond-sponsor-5-hour-energy-brian-france?utm_medium=referral&amp;utm_source=t.co" id="id_url" />
+	    <input type="hidden" name="urlHash" value="J6rFy8" id="id_urlHash" />
+	    <input type="hidden" name="username" value="2255017:5" id="id_username" />
+	    <input type="hidden" name="country" value="XX" id="id_country" />
+	    <input type="hidden" name="referrer" id="id_referrer" />
+	    <input type="hidden" name="type" value="0" id="id_type" />
+        
+        
+	</form>
+	<!-- Form is submitted in iframe -->
+	<iframe name="track_iframe" style="display:none;" src="/J6rFy8?type=track_iframe&amp;utm_campaign=sportingnews.com+sports&amp;utm_medium=Twitter%2FNASCAR24x7&amp;utm_source=gnews.sports1%40gmail.com&amp;utm_content=sportingnews.com"></iframe>
+</body>
+</html>

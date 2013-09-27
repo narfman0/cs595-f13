@@ -1,0 +1,2477 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml">
+<head>
+ <!-- Bootstrap -->
+  <link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  
+  <link href="css/my.css" rel="stylesheet" type="text/css">  
+
+<script type='text/javascript' src='http://code.jquery.com/jquery-latest.js'></script>
+<script src="bootstrap/js/bootstrap.min.js"></script>
+  
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+  <meta http-equiv="Content-Language" content="pt-br">
+
+  <link rel="icon"  type="image/png" href="/images/favicon.jpg">
+  <link rel="image_src" href="http://bancodeseries.com.br/images/posters/5924.jpg" / >
+
+    
+   
+<meta name="keywords" content="media,tracker,séries,big bang theory,marcar séries,tv,xbmc,mediaportal,plex,boxee,apple tv,banco, de, series, séries, banco séries, banco series, banco de series, banco de séries, banco de seriados, seriados, seriado, banco de seriado, banco seriado, banco de seriado" />
+<meta name="description" content="Banco de Séries é um site que mantém um registro de todas a séries de tv que você assite e ajuda você a se organizar, informando os próximos episódios, as séries que você está atrasado e assim por diante." />
+  
+  <title>Banco de Series - The Legend of Korra - Civil Wars Pt. 1   (Episodio 3, Temporada 2)</title>
+
+  <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-29533337-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+</head>
+<body>    <div id="fb-root"></div>
+<script>
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId      : '388885937793794', // App ID
+      channelUrl : '//bancodeseries.com.br/channel.html', // Channel File
+      status     : 1, // check login status
+      cookie     : true, // enable cookies to allow the server to access the session
+      xfbml      : true  // parse XFBML
+    });
+
+    // Additional initialization code here
+    FB.Event.subscribe('auth.login', function () {window.location = "http://bancodeseries.com.br/index.php?action=mygrade&logfb=1";});
+    FB.Event.subscribe("auth.logout", function() {window.location = "http://bancodeseries.com.br/index.php?action=sair"});    
+  };
+
+  // Load the SDK Asynchronously
+  (function(d){
+     var js, id = 'facebook-jssdk', ref = d.getElementsByTagName('script')[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement('script'); js.id = id; js.async = true;
+     js.src = "//connect.facebook.net/en_US/all.js";
+     ref.parentNode.insertBefore(js, ref);
+   }(document));
+</script>
+             <div class="bs-docs-example">
+            <div class="navbar navbar-inverse navbar-fixed-top" style="position: static;">
+              <div class="navbar-inner">
+                <div class="container">
+                  <a class="btn btn-navbar" data-toggle="collapse" data-target=".subnav-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                  </a>
+                  <a class="brand" href="index.php">Banco de Séries</a>
+                  <div class="nav-collapse subnav-collapse">
+                    <ul class="nav">
+                      <li class="active"><a href="index.php">Home</a></li>
+                      <li ><a href="index.php?action=hoje">Hoje na TV</a></li>
+                      
+                      
+                    </ul>
+                    <form class="navbar-search pull-left" method="post" action="index.php">
+                      <input autocomplete="off" autotype="text" class="search-query span2" placeholder="Procurar" name="pattern"   data-provide="typeahead" data-items="6" data-source='["Game of Thrones","The Walking Dead","Once Upon a Time","The Vampire Diaries","The Big Bang Theory","American Horror Story","Pretty Little Liars","Arrow","Dexter","Revenge","Friends (1994)","New Girl","Supernatural (2005)","Glee","How I Met Your Mother","The Following","Greys Anatomy","Gossip Girl","Sherlock","2 Broke Girls","True Blood","Bates Motel","Hannibal","Fringe","Breaking Bad","House, M.D.","The Carrie Diaries","Homeland","Awkward","Lost","Skins (UK)","Doctor Who (2005)","Modern Family","Under The Dome","Teen Wolf","The O.C.","One Tree Hill","Orphan Black","Hart of Dixie","Prison Break","Castle","The Secret Circle","Beauty and the Beast (2012)","Grimm","Community","Elementary","Go On","Two and a Half Men","Chuck","Revolution (2012)","The Originals","Spartacus","Da Vincis Demons","Girls","White Collar","Downton Abbey","The Lying Game (2011)","Smash","Suits","Bones","The Mentalist","Nikita","Smallville","The New Normal","Heroes","Everybody Hates Chris","Misfits","Vikings","The Glee Project","Dont Trust the B---- in Apartment 23","Orange is the New Black","The Voice","Person of Interest","Suburgatory","Continuum","My Mad Fat Diary","Six Feet Under","Merlin","Gilmore Girls","Falling Skies","In The Flesh","The Good Wife","90210","The Middle","Criminal Minds","Chicago Fire","Baby Daddy","The X Factor (US)","Parks and Recreation","Veronica Mars","My Wife and Kids","Terra Nova","Marvels Agents of S.H.I.E.L.D.","Alcatraz","Shameless (US)","Touch","666 Park Avenue","Arrested Development","Sex and the City","Sons of Anarchy","Switched at Birth","Mad Men","The White Queen","Death Note","Spartacus: Gods of the Arena","Hellcats","Harpers Island","Once Upon A Time In Wonderland","Scandal","Lie to Me","Buffy the Vampire Slayer","The Newsroom (2012)","Private Practice","Desperate Housewives","Cougar Town","The Tomorrow People (US)","Nashville (2012)","Lost Girl","Les Revenants","Hemlock Grove","Happy Endings","Partners (2012)","Twisted","Jane by Design","The Walking Dead Webisodes","The Office (US)","Drop Dead Diva","The Fosters","Californication","O Canto da Sereia","Cold Case","The Tudors","The Client List","Pushing Daisies","The Killing","Dawsons Creek","Rizzoli & Isles","Banshee","Defiance","Kyle XY","Avatar: The Last Airbender","Dracula","The X-Files","Raising Hope","Dallas (2012)","Band of Brothers","24","That 70s Show","Firefly","The Fresh Prince of Bel-Air","Greek","Battlestar Galactica (2003)","Anger Management","10 Things I Hate About You","The Voice Brasil","A Young Doctors Notebook","Body of Proof","Hawaii Five-0 (2010)","Being Human (US)","Boardwalk Empire","The Simpsons","Black Mirror","Pretty Dirty Secrets","Saving Hope","The Borgias","30 Rock","House of Cards (2013)","Ringer","Veep","Haven","The Americans","Perception","Queer as Folk (US)","The Legend of Korra","Cult (2013)","Vicious","Emily Owens, M.D.","Chaves (El Chavo)","Alias","V (2009)","C.S.I.","The Mindy Project","Awake","Parenthood (2010)","Will & Grace","Are You There, Chelsea?","iCarly","Thats So Raven","FlashForward (2009)","The Sopranos","Bunheads","Covert Affairs","Wilfred (US)","The IT Crowd","Brothers & Sisters","Alphas","Weeds","Family Guy","Being Erica","Rookie Blue","Rebelde","The Big C","Toma Lá, Dá Cá","Seinfeld","The L Word","Torchwood","Devious Maids","Naruto Shippuden","Episodes","Ray Donovan","Law & Order: Special Victims Unit","Ghost Whisperer","United States of Tara","Freaks and Geeks","Zombieland","Rome","Almost Human","Louie","Utopia","The New Adventures of Old Christine","Capitu","Better with You","Melissa & Joey","Skins (US)","Life Unexpected","Graceland","Ugly Betty","Friday Night Lights","Sleepy Hollow","The Nine Lives of Chloe King","Underemployed","Drake & Josh","Everwood","The Fall","The Neighbors","Up All Night","The Hundred","Men At Work","Hannah Montana","Wizards of Waverly Place","Dragon Ball","Naruto","Last Resort (2012)","CSI: NY","The Lizzie Bennet Diaries","Charmed","Hunted","Doctor Who (1963)","The Goodwin Games","Unforgettable","Broadchurch","Mistresses (US)","Full House","Twin Peaks","South Park","Angel (1999)","Dating Rules from My Future Self ","Mike & Molly","I Hate My Teenage Daughter","The 4400","Justified","Star Trek","Nip/Tuck","ER (1994)","Psych","True Love","Warehouse 13","Damages","Do No Harm","Blue Mountain State","Adventure Time","Os Normais","A Casa das Sete Mulheres","Scrubs","Camelot","Ripper Street","The Pacific","Zero Hour","Luther","Ravenswood","The Secret Life of the American Teenager","Dates","No Ordinary Family","Xena: Warrior Princess","Hit & Miss","Dead Like Me","Secret Diary of a Call Girl","Sai de Baixo","The Voice UK","A Diarista","Joey","Dead Set","Oz","One Piece","Jericho (2006)","The Wire","RBD: La Familia","The Bridge (US)","Being Human (UK)","Dragonball Z","Whitney","American Idol","The Hard Times of RJ Berger","The Fades","Political Animals","Leverage","NCIS","The River","Maysa: Quando Fala o Coração","The Event","Alice (2009)","Guys With Kids","Hot in Cleveland","Moonlight","Ben and Kate","House of Lies","Terminator: The Sarah Connor Chronicles","Futurama","Siberia","Intelligence (US)","Off the Map","Monday Mornings","Legend of the Seeker","Monk","Pan Am","Rectify","Deception","Victorious","Persons Unknown","Bleach","Felicity","Sirens (2011)","X-Men: Evolution","Digimon: Digital Monsters","Dragon Ball GT","A Gifted Man","Pride and Prejudice (1995)","100 Questions","Nurse Jackie","Samantha Who?","As Cariocas","Hell on Wheels","Its Always Sunny in Philadelphia","$#*! My Dad Says","Sonny with a Chance","Sabrina, the Teenage Witch","Entourage","A Menina Sem Qualidades","Fullmetal Alchemist: Brotherhood","Neverland","C.S.I.: Miami","Kenan & Kel","Battlestar Galactica (The miniseries)","Web Therapy","Dollhouse","Cardcaptors","Beverly Hills, 90210 (1990)","Fairy Tail","Melrose Place (2009)","Breakout Kings","My Life as Liz","Saint Seiya","Shingeki no Kyojin","Survivor (US)","How to Make It in America","Bag of Bones","The Blacklist","As Brasileiras","The Inbetweeners (US)","Presença de Anita","Studio 60 on the Sunset Strip","Lost in Austen","Mortal Kombat: Legacy ","Fullmetal Alchemist","Medium","Resurrection","Believe","American Dad!","Outsourced","Missing (2012)","The Mob Doctor","Fallen","Mr. Sunshine","Reign","The Wonder Years","Blossom","Americas Next Top Model","The Crazy Ones","Copper","The Closer (2005)","Malcolm in the Middle","Make It or Break It","Dragon Ball Z Kai","Dercy de Verdade","Titanic (2012)","Big Brother Brasil","Lip Service","Common Law (2012)","The Playboy Club","The Paradise (2012)","Adorável Psicose","Southland","Yu Yu Hakusho","Another","The Pillars of the Earth","The X Factor (UK)","S.A. Cast","Parades End","The Office (UK)","Ally McBeal","Blue Bloods","Franklin & Bash","Aline","Sword Art Online","Love Bites","Mad Love","Mr. Bean (1990)","GCB","Dungeons & Dragons","The Finder","How to Live with Your Parents (for the Rest of Your Life)","Como Aproveitar o Fim do Mundo","Charlies Angels (2011)","Super Fun Night","Accidentally on Purpose","NCIS: Los Angeles","State of Georgia","Paranormal Witness","The Listener","Hostages","Mildred Pierce","Privileged","Without a Trace","The Hour","Bad Education","The Secret of Crickley Hall","Star-Crossed","Primeval: New World","Burn Notice","Zoey 101","My So-Called Life","Inuyasha","Animal Practice","Mulheres Ricas","Low Winter Sun","Bored to Death","A Mulher Invisível","Mom","Death Valley","The Suite Life of Zack & Cody","Eureka","Yu-Gi-Oh!","The Voice (Australia)","My Name is Earl","Necessary Roughness","Big Love","The Gates","Jonas","Young Justice","Moone Boy","School of Thrones","Elfen Lied","Flashpoint","Motive","Top of the Lake","Him and Her","Fairly Legal","Hung","Taken","In Treatment","Lipstick Jungle","Crossing Lines","Great Expectations","Neds Declassified School Survival Guide","Brooklyn Nine-Nine","Emma (2009)","Ao no Exorcist","Mad About You","Vegas (2012)","Stargate SG-1","NUMB3RS","Workaholics","Major Crimes","Cory in the House","Criminal Minds: Suspect Behavior","South of Nowhere","Justice League","King & Maxwell","A Cura","Lois & Clark: The New Adventures of Superman","Battlestar Galactica: Blood & Chrome","The L.A. Complex","Veronica Mars (Maratona)","Happily Divorced","Caprica","Hatfields and McCoys","The Cape (2011)","Archer (2009)","Spartacus: Blood and Sand - Motion Comic","Mixology","The Bible","Red Widow","Saint Seiya The Lost Canvas","The West Wing","Us & Them","Roswell","Magic City","North & South","Man Up!","Eastwick","Saint Seiya Omega","Reunion","Last Man Standing (2011)","Sinbad","(fdp)","Breaking In","Tru Calling","Carnivale","Made in Jersey","Naruto (US)","Transporter","Deadwood","The Nanny","The Shield","The Inbetweeners (UK)","Please Like Me","What I Like About You","Pok&#xE9;mon","Boss","Enlightened","Keeping Up with the Kardashians","Six Feet Under (Maratona)","Cracked","Vai que Cola","1600 Penn","Fresh Meat","Popular","Black Sails","The Village","Amor em 4 Atos","Sanctuary","The Twilight Zone (2002)","Chicago PD","Life on Mars (UK)","Daria","The Glades","Chosen","Rules of Engagement","Coma (2012)","Stargate Atlantis","Longmire","Shameless (UK)","I Just Want My Pants Back","The Avengers: Earths Mightiest Heroes!","Malibu Country","Jackie Chan Adventures","Star Trek: The Next Generation","Stargate Universe","Curb Your Enthusiasm","Bobs Burgers","Saturday Night Live","The Sarah Jane Adventures","Sir Arthur Conan Doyles The Lost World","Bewitched","Pe na Cova","Royal Pains","Thundercats (2011)","Louco por Elas","The Firm","Doctor Who Confidential","Knight Rider (2008)","S.A. Aleatório","Strike Back","Dexter: Early Cuts","Sam & Cat","Lifes Too Short","Hunter X Hunter (2011)","Good Luck Charlie","Catfish: The TV Show","The Powerpuff Girls","We Are Men","Legit (2013)","18 to Life","Friends with Benefits","Sailor Moon","220 Volts","Reaper","Highschool of the Dead","Treme","Tapas & Beijos","Jack & Jill","The Twilight Zone (1959)","Dads (2013)","Joan of Arcadia","The Comeback","Fear Itself","Betrayal","Tell Me You Love Me","Miami Medical","Birds of Prey","Golden Boy (2013)","Lizzie McGuire","Cuckoo","Married with Children","Jekyll","The Suite Life on Deck","Happy Town","The Real L Word","NERD of the DEAD","She Spies","Crisis","About A Boy","The Hollow Crown","&iexcl;Rob!","Beaver Falls","Bedlam","Robin Hood (2006)","Dark Angel","Star Wars: The Clone Wars (2008)","The Michael J. Fox Show","The Millers","Dragons: Riders of Berk","Dirt","Human Target (2010)","Trauma","Law & Order","Sean Saves the World","Bionic Woman (2007)","Battlestar Galactica: The Resistance","Dexters Laboratory","Boston Legal","World Without End","X-Men","I Dream of Jeannie","Mental","The Chicago Code","Contos do Edgar","The Amazing Race","The Dead Zone","The Exes","Bomb Girls","Dinosaurs","Life (2007)","Supernatural - The Animation","S.A. Maratonas","The Beautiful Life","Totally Spies!","Teen Titans","Fastlane","The Yard","Top Chef","Wonderfalls","Arrested Development (Maratona)","Os Aspones","Battlestar Galactica: Razor Flashbacks ","Psychoville","Army Wives","Harrys Law","Eleventh Hour (US)","Las Vegas","Aliens in America","Dance Academy","O Dentista Mascarado","Primeval","Combat Hospital","Alice (2008)","Big Time Rush","SpongeBob SquarePants","Kim Possible","The X Factor (Australia)","H2O: Just Add Water","Punky Brewster","Freddie","Invasion","Web Therapy (2008)","Masters of Sex","The Cleveland Show","Kdabra","Party Down","The Kennedys","ALF (1986)","Monty Pythons Flying Circus","The Lost Room","Neon Genesis Evangelion","Camp","Dantes Cove","Descolados","Star Trek: Enterprise","Knights of the Zodiac","Party of Five","Sob Nova Direção","Total Drama Island","Preamar","Battlestar Galactica: The Face of the Enemy","3%","Married to Jonas","Everybody Loves Raymond","Jane Eyre","Stephen Kings Kingdom Hospital","Star Trek: Voyager","Vampire Knight","The Goldbergs","Tower Prep","Coupling (UK)","Regular Show","Accused","Hellsing","Enlisted","Star Trek: Deep Space Nine","Rurouni Kenshin","Sessão de Terapia","3rd Rock from the Sun","Gravity Falls","Work It","Assassins Creed: Lineage","JK","Ultimate Spider-Man","Labyrinth","Frasier","Childrens Hospital (2010)","La Femme Nikita","Friday Night Dinner","Hercules: The Legendary Journeys","A Vida de Rafinha Bastos","According to Jim","Melrose Place (1992)","Separação?!","Big Brother (US)","Ouran High School Host Club","Community Webisodes","Birdsong","Sandy & Junior","Battlestar Galactica Webisodes","Close to Home (2005)","Hilda Furacão","Wolverine and the X-Men","Britannia High","Mercy","Miranda","Bullet in the Face","Glory Daze","The Prisoner (2009)","RuPauls Drag Race","Law & Order: Criminal Intent","Dalva e Herivelto: uma Canção de Amor","Boys Before Flowers","Gang Related","Welcome To The Family","Avengers Assemble","Parks and Recreation (Maratona)","The Ultimate Fighter: Em Busca de Campeões","Ugly Americans","The Confession","Eli Stone","Som & Fúria","Extras","Three Rivers","Clandestinos - O Sonho Começou ","Divã","Are You Afraid of the Dark?","Power Rangers","Single Father","How to Be a Gentleman","A Mothers Son","The Crash","Chase (2010)","So You Think You Can Dance","ThunderCats (1985)","Baby Looney Tunes","Nightmares & Dreamscapes","Queer as Folk (UK)","Project Runway","Trophy Wife","Lone Star","Early Edition","Gonzaga - De Pai pra Filho","Kourtney and Kim Take New York","Dirty Sexy Money","Angels in America","Batman: The Animated Series","Spaced","MacGyver","Bar Karma","Tin Man","Rugrats","Claymore","Beyblade","Mockingbird Lane","Podcast","Gravity","Wizards vs Aliens","Masters of Horror","Devil May Cry","Dr. Horribles Sing-Along Blog","A Muralha","Luck","O Brado Retumbante","O Quinto dos Infernos","A Drop of True Blood","Youre Beautiful","Personal Taste","Perfect Couples","Marchlands","Endgame","The Hills","Cake Boss","The Grim Adventures of Billy and Mandy","Mind Games","Capture","Todd & the Book of Pure Evil","Men in Trees","Apparitions","Hunter x Hunter","Playful Kiss","O Negócio","Rubicon","Kings","Chobits","A Grande Família","XIII: The Series","Huge","In Plain Sight","Ben 10","Top Chef: Just Desserts","Whose Line Is It Anyway? (US)","TRON: Uprising","Dark Blue","Miss Fishers Murder Mysteries","Sexo Frágil","Rogue","Agora é Tarde, Brasil","Bron/Broen","S.A.Upfronts","Complete Savages","Survivors (2008)","Face Off","Dream High ","Hamtaro","Ano Hi Mita Hana no Namae o Bokutachi wa Mada Shiranai","Friends (Maratona)","House of Anubis","Life with Derek","Phineas and Ferb","Ashes to Ashes","Lucky 7","NYC 22","The Class","O Aprendiz","Babylon 5","Cowboy Bebop","Generation Kill","Hana Yori Dango ","Back In The Game","Wallander","Mr Selfridge","Jack &amp; Bobby","Hey Arnold!","State of Play","Poirot","Rake (2013)","Soul Eater","Battlestar Galactica (1978)","Mr. Bean (2002)","Jackass","Ed, Edd n Eddy","21 Jump Street","Scooby-Doo, Where Are You!","Kimi ni Todoke","Sense & Sensibility","Femme Fatales","The Good Guys (2010)","Third Watch","Spies of Warsaw","The Oblongs","Kourtney and Khloe Take Miami","Zatch Bell!","City Hunter","Helix","Killer Women","Green Lantern: The Animated Series","Hells Kitchen (US)","Once and Again","Through the Wormhole","Kourtney & Kim Take Miami","The Addams Family (1964)","Total Drama Action","Crossbones","Saramandaia (2013)","Men of a Certain Age","Lights Out (2011)","Blade: The Series (2006)","The Adventures of Jimmy Neutron, Boy Genius","Instant Star","Coffee Prince","Prime Suspect (US)","Suburbia","Master Chef","Whats New Scooby-Doo?","Law & Order: UK","Hidden Palms","Amor & Sexo","Swingtown","Cinquentinha","Static Shock","Love Rain","Star Trek: The Animated Series","The Hitch Hikers Guide to the Galaxy","Ironside","8 Simple Rules for Dating My Teenage Daughter","Jersey Shore","Farscape","Cupid (2009)","Flower Boy Next Door","Angel Beats!","Family Tree","Blood Ties","Leonardo","Law & Order: LA","Teenage Mutant Ninja Turtles (2012)","Lovely Complex","A Toca","My Generation","Derek","All of Us","Rescue Me (2004)","Sugar Rush","7th Heaven","Undeclared","The Guild","Deadman Wonderland","Confissões de Adolescente","O Mundo Segundo os Brasileiros ","Surviving Jack","Beware The Batman","The Face","Best Friends Forever","Free Agents (US)","John Doe","Millennium","John Adams","Laguna Beach","The Penguins of Madagascar","O Guia do Mochileiro das Galáxias","To the Beautiful You","Fábrica de Estrelas","Doug","Scooby-Doo Mystery Incorporated","Battlestar Galactica (Maratona)","The Forgotten","Neighbors from Hell","Against the Wall","Shurato","Dinotopia","The Ellen DeGeneres Show","Rev.","Hoje É Dia de Maria","Romantically Challenged","Rei Davi","Ben 10: Alien Force","Moonlighting","Austin & Ally","Afinal, O Que Querem as Mulheres?","Courage the Cowardly Dog","Better Off Ted","Ben Hur","Punkd","Bakuman","The Marvelous Misadventures of Flapjack","Tales from the Crypt","Top Chef Masters","Secret Garden","Os Maias","Future Diary","Mayday","Point Pleasant","Robot Chicken","Paradox","The Adventures of Tintin","Marvel Anime - X-Men","Brazils Next Top Model","Unnatural History","Shaman King","Crossing Jordan","Batman Beyond","Johnny Bravo","Clueless","My Boys","Flight of the Conchords","Cidade dos Homens","Allen Gregory","Na Forma da Lei","Silk","Demons","Goosebumps","Chasing The Saturdays","Blackout (2012)","Witchblade","The Flintstones","Cosmos","The Fairly OddParents","Força Tarefa","I Love Lucy","Youve Fallen for Me","The Wanted Life","Gossip Girl Acapulco","UnderCovers","Scoundrels","Xingu","Saving Grace","Mad Dogs","Boy Meets World","Oliver Stones Untold History of United States","RuPauls All Stars Drag Race","Diffrent Strokes","Julie e os Fantasmas","Save Me","Fosters Home for Imaginary Friends","A Fazenda","Southcliffe","Death in Paradise","No Heroics","Portlandia","Beakmans World","Teen Angel","Eastbound & Down","Touched by an Angel","MythBusters","Little Dorrit","Alfred Hitchcock Presents (1955)","O Fantástico Mundo de Gregório","Ichi Rittoru no Namida","NANA","Terriers","The Twilight Zone (1985)","Flower Boy Ramyun Shop","Worst Week","Berserk","Surface","The Body Farm","A Lei e o Crime","Torchwood Declassified","Beauty and the Geek","O Sistema","Relic Hunter","The Last Enemy","Black Butler","Shake It Up!","Tonari No Kaibutsu-kun","Fortysomething","Duets","Call Me Fitz","Lucky Louie","Mortal Kombat: Conquest","Charlies Angels (1976)","NewsRadio","Dharma & Greg","Blackpool","Untitled Web Series About A Space Traveler Who Can Also Travel Through Time","Black Books","Antônia","The Biggest Loser","Ghost Hunters","Um Só Coração","Cheers","Queridos Amigos","Those Who Kill","The League","Miracles","Minicast Cine Alerta ","Animaniacs","The Slap","Dallas (1978)","The Spectacular Spider-Man","Mujeres Asesinas","Ben 10: Ultimate Alien","Grimm: Bad Hair Day","Jessie (2011)","Medabots","The Thick of It","José do Egito","InSecurity","Metal Hurlant Chronicles","The Defenders (2010)","Summerland","Merlin: Secrets & Magic","A Shot at Love with Tila Tequila","Journeyman","Do Amor","Cow and Chicken","Split","Endeavour","49 days","Hex","Running Wilde","The Whole Truth","Bobbys World","Spin City","Flight 29 Down","The Jetsons","He-Man and the Masters of the Universe (1983)","W.I.T.C.H.","American Dragon: Jake Long","Young Americans","Total Drama: Revenge of the Island","Toradora!","The Sopranos (Maratona)","Traveler","Lado Nix","Treasure Island (2012)","This Is England 86","Hanazakari No Kimitachi e","Degrassi: The Next Generation","Magi","Samurai Jack","Beavis and Butt-head","Law & Order: Trial by Jury","Answer Me 1997","Mary Stayed Out All Night","Captain Tsubasa","Shut Up Flower Boy Band","Faith","Like Family","Total Drama World Tour","Yu-Gi-Oh! GX","NerdOffice","Witches of East End","Doogie Howser, M.D.","King of the Nerds","Eternal Law","Defying Gravity","Kitchen Nightmares (US)","Lie To Me (CS)","Kath & Kim (US)","Khlo&eacute; and Lamar","The Bletchley Circle","Hot Properties","The Simple Life (2003)","Unfabulous","xxxHOLiC","Fudêncio e Seus Amigos","Digimon Xros Wars","The Lydia Bennet!!","16 and Pregnant","The Night Shift","The Fear (2012)","The Unit","Appropriate Adult","Some Girls","The Pussycat Dolls Present","Justice (2006)","That 80s Show","Batman: Gotham Knights","Chaos","Hustle","Miami Ink","Hana Yori Dango 2","Batman (1966)","Inside Men","Star Wars: Clone Wars (2003)","V (1983)","Drawn Together","Trust Me","Anyone But Me","Here Comes Honey Boo Boo","Kaichou Wa Maid-Sama!","Btooom!","NTSF:SD:SUV::","The Mimic","Sons of Tucson","Dancing with the Stars (US)","Batman: The Dark Knight Returns","S.O.S Emergência","Bleak House (2005)","Junto e Misturado","Extreme Makeover: Home Edition","Oh! My Lady","Spider-Man","The Golden Girls","My Little Pony: Friendship is Magic","Ergo Proxy","Comedians in Cars Getting Coffee","Caça Talentos","The Osbournes","Life on Mars (US)","Britney and Kevin: Chaotic","Goong","The Protector","Gary Unmarried","Viva La Bam","The Looney Tunes Show","Bikie Wars: Brothers in Arms","Baywatch","The Practice (1997)","Father Brown (2013)","Disneys Hercules","The Black Donnellys","Absolutely Fabulous","Jigoku Shoujo (Hell Girl)","Tudo o que É Sólido Pode Derreter","Clarissa Explains It All","Danny Phantom","Amnesia (2013)","Copa Hotel","Minha Nada Mole Vida","Hollywood Game Night","The Mill","Day Break","Retired at 35","Good Cop","Project Runway All Stars","Traffic Light","Night Visions","Til Death","Memphis Beat","An Idiot Abroad","Reba","DuckTales","Capadocia","Sherlock Holmes (1984)","Womens Murder Club","She-Ra: Princess of Power","Whitechapel","Aeon Flux","Beelzebub","Magnum, P.I.","Two Guys, a Girl, and a Pizza Place","Borgia","The Zeta Project","Captain Tsubasa: Road to 2002","Girls in Love","Rebelde Way","Code Geass","The Ex List","The Unusuals","Lightfields","Napoleon Dynamite","Outcasts (UK)","Line of Duty","Ancient Aliens","My Girlfriend is a Gumiho","Cashmere Mafia","Divine: The Series","Gravitation","Tenchi Muyo!","The Pretender","Case Histories","True Jackson, VP","Slide","Breaking Pointe","NYPD Blue","Ben 10: Omniverse","Americas Got Talent","Call the Midwife","Ke$ha: My Crazy Beautiful Life","Neverwhere","Afro Samurai","Sr. Ávila","Mob City","Wedding Band","Step by Step","Restless","LA Ink","American Dreams","King","Roommates","The Sing-Off","Life As We Know It","The Nine","American Chopper","Where on Earth Is Carmen Sandiego?","The Most Popular Girls in School","Miami Vice","Lilyhammer","Crusoe","Spooks","Fingersmith","Inazuma Eleven","CatDog","Heartland (2007 : Canada)","The Lair","Suki-tte Li Na Yo","Codename: Kids Next Door","Fate/stay night","Monsters vs. Aliens","Stargate: Infinity","Bent","Detroit 1-8-7","Past Life","Blackadder","Chemistry","Carpoolers","Dead Last","Any Human Heart","Fisica o Quimica","October Road","Upstairs, Downstairs (2010)","The Sarah Silverman Program","Sports Night","Winx Club","Andromeda","The King of Queens","Code:Breaker","Man vs. Wild","Wacky Races","Knight Rider (1982)","Lilo & Stitch","Mortified","Engraçadinha: Seus Amores e Seus Pecados ","Chihayafuru","Cranford","Mulher de Fases","The Leftovers","McFly On The Wall","New Amsterdam","Beautiful People (2005)","Planet Earth","The Town","Kung Fu Panda: Legends of Awesomeness","Reno 911!","Captain Planet and the Planeteers","Big","The Apprentice (US)","Wolverine","Six Degrees","Shark","What About Brian","Me and Mrs Jones","Street Fighter II: V","M*A*S*H","The Crimson Petal And The White","Babar","Pokémon Chronicles","Psycho-Pass","Sliders","Kuroko No Basuke","Mandrake","Sekai-ichi Hatsukoi","Morden i Sandhamn ","Blue Water High","Junjō Romanchika","3 Teresas","Big Brother Canada","Mad","Secret State","HawthoRNe","Eagleheart","The Shadow Line","Morando Sozinho","Two of a Kind","Spy","Drive (2007)","IRIS","Revelations","The King of Dramas","Superman: The Animated Series","The A-Team","Stephen Kings The Stand","Destino: São Paulo","Fawlty Towers","Time of Your Life","Mutant X","Carga Pesada - 2˚ Versão","A Gentlemans Dignity","Spider-Man (2003)","Comic Book Men","The Chronicles of Narnia","Scott & Bailey","Windfall","Hi Hi Puffy AmiYumi","The Politicians Husband","Gintama","Video Game High School","As Canalhas","Dating Agency: Cyrano","The Vineyard","Rooftop Prince ","Painkiller Jane","Flash Gordon (2007)","Devil Beside You","North Shore","Protect The Boss","Full House (2004)","Grounded for Life","Lark Rise to Candleford","North and South","JAG","Big Shots","Veronicas Closet","A Comédia da Vida Privada","QI","Raising the Bar","The Mighty Boosh","Kidnapped","Pinky and the Brain","Alfred Hitchcock Presents (1985)","The Starter Wife","Megas XLR","Timon & Pumbaa","Skip Beat!","Quantum Leap","Basilisk","The Universe","Hulk And The Agents of S.M.A.S.H","The Last Ship","The Batman (2004)","Outlaw","Nikki","Love You, Mean It With Whitney Cummings","Four Kings","Dragon Quest: Dai no Daibōken","Randy Jackson Presents Americas Best Dance Crew","As If (UK)","Maybe Its Me","My Princess","JoJos Bizarre Adventure","Twins","Batman: The Brave and the Bold","King of the Hill","Serial Experiments Lain","Just Shoot Me!","Os Caras de Pau","Aquamen","The Outs","Lost in Space","The Ricky Gervais Show","Saved by the Bell","Valentine","Ace of Cakes","Zeke and Luther","Cupcake Wars","Fantastic Four (2006)","Xiaolin Showdown","Monster","The Prisoner (1967)","Love/Hate","Mistresses (UK)","Steins;Gate","Guilty Crown","The Riches","The Amazing Race Latinoamerica","Mission Hill","The Guardian","Titanic: Blood and Steel","The Best Years","Seed","Totally Doctor Who","Teenage Mutant Ninja Turtles (1987)","Young Hercules","Boston Public","Wonder Woman","Chelsea Lately","Trinity UK","The New Scooby Doo Movies","Marvel Anime - Iron Man","Wolfs Rain","A Touch of Cloth","The Late Late Show with Craig Ferguson","Get Smart (1965)","Scooby and Scrappy-Doo","Cilada","The Bad Girls Club","Yu-Gi-Oh! Zexal","Ghost Hunters International","The Lone Gunmen","Heroes Webisodes","The Munsters","Fazenda de Verão","Next Great Baker","So Random!","Ghost Whisperer: The Other Side","�Mucha Lucha!","Forbrydelsen ","The Catherine Tate Show","Aladdin","Onegai Teacher","Devil Survivor 2 The Animation","Surtadas na Yoga","Casi Ángeles","Blood+","Bad Samaritans","Clannad","The Hero","Whodunnit? (2013)","Atlantis","Hotel Hell","Commander in Chief","The Ultimate Fighter","Britains Got Talent","Brickleberry","The Deep End","The Addams Family (1992)","Top Gear (UK : 2002)","The Beast (2009)","The Girls Next Door","The E! True Hollywood Story","Guerra e Paz","Missing You","Bonanza","My Babysitters a Vampire","Dr. 90210","Desperate Romantics","A Vida Alheia","The 13 Ghosts of Scooby-Doo","Identity","Invader ZIM","Zorro (1957)","The Soup","Stephen Kings Golden Years","The New Scooby-Doo Mysteries","The Agatha Christie Hour","Beast Wars: Transformers","Kendra","Beck: Mongolian Chop Squad","Providence","Real Humans (Äkta människor)","The X Factor (NZ)","Yu-Gi-Oh! 5Ds","Vice (2013)","The Tunnel","Cedar Cove","Cane","My Girl","Small Wonder","My Own Worst Enemy","Bouquet of Barbed Wire (2010) ","The Nerdist","K","Are We There Yet?","Hart to Hart","Rocket Power","Jo","Lauren","The Ellen Show","Judging Amy","Freakazoid!","Amazing Stories","A Bit of Fry And Laurie","Persona 4","Youngers","Pimp My Ride","The Graham Norton Show","Summer Heights High","Agatha Christies Partners in Crime","Teen Titans Go!","Geral.com","Suisei no Gargantia ","I Hear Your Voice","Blood Lad","The Amazing Race Canada","Father Ted","Vera","Warehouse 13 Webisodes","RuPaul All-Star: Untucked","Hope & Faith","Living with Fran","Parker Lewis Cant Lose","The Silence","Wendy","Queer Eye for the Straight Guy","The Job Lot","Athena: Goddess of War","Astro Boy (2004)","That Winter, The Wind Blows","Cápsula","Auschwitz: The Nazis and the Final Solution","Jonny Quest (1964)","Into the West","Odyssey 5","Queen In Hyuns Man","Panda and Hedgehog","Dekalog","The Time Tunnel","The Flash","The Melancholy of Haruhi Suzumiya","Trigun","Case Sensitive","Den Som Dræber","Talking Bad","Sungkyunkwan Scandal","Room at the Top","The Voice of Holland","Vanished","Wings (1990)","Suddenly Susan","The Bill Engvall Show","Vexed","Silent Witness","The Slayers","The King 2 Hearts","Late Show with David Letterman","I Do, I Do","Yamato Nadeshiko Shichi Henge","The Amazing Race Australia","Durham County","Related","Exile","Undercover Boss","Little Bear","Threshold","Aaahh!!! Real Monsters","Secret Girlfriend","Eve","Brotherly Love","Teenage Mutant Ninja Turtles (2003)","Wilfred (Australia)","Sabrina, the Animated Series","Ma Boy","Medical Investigation","Wicked Science","Tenacious D","Paranormal State","The Secret World of Alex Mack","Criss Angel, Mindfreak","Life is Wild","Cold Case Files","Kamisama Hajimemashita","Crooked House","Saturday Night Live - Brasil","Peep Show","Top Cat","Adventures of Superman","After Lately","Kareshi Kanojo no Jijō (Kare Kano)","Oliver Twist","Monstar","Wentworth","The Shining","Mahou Shoujo Madoka Magika","Dancing on the Edge","Metalocalypse","Clash of the Gods","The Jeff Dunham Show","Family Ties","Freddys Nightmares: the Series","The City (2008)","RuPauls Drag Race: Untucked","Late Night with Jimmy Fallon","Its All Relative","The Colbert Report","The Scooby-Doo/Dynomutt Hour","School 5","Take Care of Agasshi","Scent of a Woman","The Middleman","The Young Indiana Jones Chronicles","Boomtown","S Club 7","The Little Mermaid","Gargoyles","Beetlejuice","Rebelde (BR)","Good Morning Miami","Huff","The Triangle (2005)","xxxHOLiC Live","Daniel Deronda","Caroline in the City","Columbo (1968)","Even Stevens","Ed","Celebrity Deathmatch","The Drew Carey Show","Brotherhood","The Syndicate","Sullivan and Son","Chicago Hope","Aaron Stone","No Such Thing As Nice Guys","Otomen","Iron Man: Armored Adventures","Shining Inheritance","Im in the Band","Dr. Quinn, Medicine Woman","The Tonight Show with Jay Leno","That Metal Show","The Smurfs","Planet of the Apes","The Bedford Diaries","Pair of Kings","Trinity Blood","The Life and Times of Juniper Lee","The Virgin Queen","Ace Ventura: Pet Detective","Missing (2003)","Beethoven Virus","Inazuma Eleven GO","Chowder","Comedy Central Roast","Obsessed","Pawn Star$","Usagi Drop (Usagi Doroppu) ","A.N.T. Farm","The Office: The Accountants","Full Metal Panic!","Shinzo","The Almighty Johnsons","Carlos","Sansão e Dalila","Midori No Hibi","Inazuma Eleven GO Galaxy","Taxi","The Sleepover Club","Major","Who Are You","Two Weeks","Aliados","Threesome","Family Tools","As Told by Ginger","1066: The Battle for Middle Earth","Fashion King","DCI Banks","Man v. Food","The Fixer","The Great Escape","7th Grade Civil Servant","Things I Hate About You","The Daily Show","Home Improvement","Medical Detectives","Shaggy & Scooby-Doo Get a Clue!","Beauty and the Beast (1987)","South Riding","Miss Guided","Samurai Girl","The Philanthropist","Galactica 1980","See Dad Run","Outnumbered","The Dresden Files","RuPauls Drag U","Freakylinks","Fly Girls","Teen Mom","Come Fly with Me","Satisfaction","The Greatest Love","Anthony Bourdain: No Reservations","Masters of Science Fiction","Kamen Rider: Dragon Knight","Martin Mystery","Grachi","E/R (1984)","Jamie Olivers Food Revolution","Women in Love","Canterburys Law","K-POP - The Ultimate Audition","Frozen Planet","Roseanne","GTO","A Pup Named Scooby-Doo","Filhos do Carnaval","Brimstone","Bridal Mask","Miss Marple","Rich Man, Poor Woman","Over There","The Incredible Hulk (1977)","Radio Free Roscoe","China Beach","Rock Lee & His Ninja Pals","Duck Dodgers","Ghost Adventures","Spawn","Fora de Controle","The Field of Blood","Thieves","Heading Out","The Mystery Files of Shelby Woo","Martial Law","The Forsyte Saga (2002)","Dead Boss","Aqua Teen Hunger Force","Inazuma Eleven GO Chrono Stone","Young Dracula","Gu Family Book","Gundam Wing","Solitary","Pacific Blue","Burning Love","My Super Sweet 16","Murphy Brown","Dune","Fantasy Island (1977)","Marble Hornets","Highlander","Hit the Floor","Common Law (1996)","Noahs Arc","The Deep","Cheongdamdong Alice","The Moon That Embraces the Sun","The Cleaner","Switch (2012)","The State Within","Bonekickers","Less Than Perfect","MegaMan: NT Warrior","Jesse","Keen Eddie","Crash","Sparkhouse","The War at Home","E-Ring","Jake 2.0","Arang and the Magistrate","My Name is Kim Sam Soon","Marvel Anime - Blade","Smith","The Facts of Life","Nashville (2007)","Good Vibes","Gigolos","Puberty Blues (2012)","All Grown Up","The Inside","Snooki and Jwow","Phil of the Future","The Boondocks","Top Gear (US)","Golden Boy","Shetland","Recess","Kitchen Confidential","The Invisible Man (2000)","Way To Go","Prosecutor Princess","WWE Monday Night RAW","Wipeout","John from Cincinnati","Frankie","Wire in the Blood","Captain Caveman and the Teen Angels","Los hombres de Paco","The Nightmare Room","Transformers Prime","Oliver Beene","Work of Art","The Haunting Hour","The Kill Point","A Solteirona","IRIS 2","The Addams Family (1973)","Extreme Makeover: Weight Loss Edition","Top Shot","The Bachelor","Camp Lazlo","Warehouse 13: Of Monsters and Men","seaQuest DSV/2032","Blade (2012)","Falcon Beach","Perfect Strangers","The Taste","Monster Rancher","The Return of Jezebel James","DC Cupcakes","Eureka Seven","Whos the Boss?","Adventures of Sonic the Hedgehog","Monroe","Talking Dead","Cybergeddon","Wives and Daughters","Kung Fu","My Life as a Teenage Robot","The Bridge","The Wild Thornberrys","Land of the Giants","The Cosby Show","Wendell & Vinnie","The Jeselnik Offensive","Children Of Dune","The Amazing World of Gumball","Big School","Last Tango In Halifax","Ghostwriter","Wolf Lake","Titus","Three Stooges","What Not to Wear (US)","Level Up","Got Talent Brasil","Inside the Actors Studio","Jonny Zero","Wildboyz","The Next:","Dirty Jobs","Xtra Factor","Rake","Gates (2012)","Full House 2","Grosse Pointe","Hank (2009)","The Joker Blogs","Bad Sugar","Pasadena","Temptation Island","American Chopper: Senior vs. Junior","How to Rock","Little House on the Prairie","Unforgiven (2009)","Almost Heroes","Voyagers!","Hello! Miss","Off Centre","Marple (2004)","Grandmas House","The Last Weekend","Sleeper Cell","House of Cards","Andrew Marrs History Of The World","Fact or Faked: Paranormal Files","Jimmy Kimmel Live!","Saturday Night Live Weekend Update Thursday","New Tricks","ReGenesis","Dark Justice","Bachelor Pad","The Ashlee Simpson Show","A Corrida Milionária","The Beauty Inside","Cadillacs and Dinosaurs","Cybill","Life After Top Chef","Supernatural (1977)","Out There","Bully Beatdown","Pepper Ann","H+ The Digital Series","Men in Black: The Series","What Would Ryan Lochte Do?","Ghost Hunters Academy","Bluestone 42","Toriko","Ultraman","Quando Toca o Sino","Do Over","The Glass House","Eleventh Hour (UK)","Can We Get Married ?","Ink Master ","Wild Romance","Riget","Important Things with Demetri Martin","Ghost in the Shell: Stand Alone Complex","The Alfred Hitchcock Hour","Full Metal Panic! The Second Raid","6teen","Sheep in the Big City","Land Girls","Masterchef Australia","Waking the Dead","Speed Racer (1967)","07-Ghost","The Crow: Stairway to Heaven","Voyage to the Bottom of the Sea","Slam Dunk","Land of the Lost (1974)","The Larry Sanders Show","Twenty Twelve","Chuunibyou Demo Koi ga Shitai!","Get Real (1999)","Angry Boys","Darcys Wild Life","Girls Generation Goes to School","Vida de Estagiário","Ellen","Supah Ninjas","Bad Girls All Star Battle","Life Of Crime","Wild Fire (Cavalo de fogo)","Gosick","Bravest Warriors","General Hospital","Prime Suspect (UK)","Bostons Finest","Life (2010)","ALF (1987)","Zach Stone Is Gonna Be Famous","Anatomy of a TV hit: C.S.I.","Out of Practice","Nicki Minaj: My Truth","How Not to Live Your Life","Platinum Hit","Carrossel (BR)","Tosh.0","Tumbling","O Infiltrado","He-Man and the Masters of the Universe (2002)","Husbands","Queen of Ambition","Dog with a Blog","I Am Weasel","Zen","Becker","My Cat From Hell","Profiler","The Amazing Spider-Man (1977)","Girls Generations Hello Baby","Do Not Disturb","I Love New York","Sprout","Chappelles Show","The Great British Bake Off","Sonic X","The Collector","Never Mind the Buzzcocks","Ikemen Desu Ne","Wildfire","Wasteland","So Weird","Life After People","Destination Truth","Lets Big Happy","McLeods Daughters","Extreme Couponing","Hotel Room","Sherlock Holmes (CA)","Ga-Rei Zero","Conan (2010)","Love in the Wild","X","Martina Coles The Runaway","Borgen","The Rachel Zoe Project","Life with Boys","Back to the Future","Mortal Kombat: Defenders of the Realm","The Days","Republic of Doyle","Escaflowne","Bad Girls","Dark Shadows (1991)","Coupling (US)","Prisoners Wives","Best Ink","All About My Romance","Kickin It","Ojakgyo Brothers","Heartland (2007 : US)","Full Metal Panic? Fumoffu!","Teachers (US)","WWE Friday Night SmackDown!","Spider-Man Unlimited","Loveless","Earth: Final Conflict","The Super Hero Squad Show","Tree of Heaven","Nine: 9 Times Time Travel","Richie Rich","Dragon Tales","Teen Mom 2","The Adventures of Rin Tin Tin","El Barco","The Dukes of Hazzard","Yes, Dear","Sekai Ninja Sen Jiraiya","S.W.A.T.","Dennis the Menace (1986)","All Dogs Go to Heaven","Rabbits","Masterchef Australia: The Professionals","Bridalplasty","Thorne","Eerie, Indiana","Inside Amy Schumer","Dracula: The Series","Mork and Mindy","Lab Rats (2012)","Little Britain","Ruby and the Rockits","Buzz Lightyear of Star Command","Superjail!","The Fugitive (2000)","Tarzan (2003)","The Mole","Australias Next Top Model","Hatufim","Rave Master",".hack//SIGN","Manimal","Homicide: Life on the Street","Marvin Marvin","The Naked Brothers Band","CHiPs","Ichigo 100%","You Are The Best! ","Clubhouse","Say Yes to the Dress","Mew Mew Power","Foreign Exchange","The Hentai Prince and the Stony Cat","Who Wants to Be a Superhero?","Oscar Freire 279","My Gay Roommate","Silk Stalkings","The Mary Tyler Moore Show","Real Time with Bill Maher","The Adventures of Pete & Pete","Automan","Big Brother (UK)","Nail Shop Paris","She is Wow","London Hospital","Get Out Alive with Bear Grylis","Maneater","Satisfaction (2013)","Angry Birds Toons","Rose Red","Itazura na Kiss - Love in Tokyo","Axe Cop","Red Dwarf","Plebs","Hawaii Five-O (1968)","The Poison Tree","Degrassi Junior High","So Little Time","Comedy Central Presents","Dark Skies","Leaving (UK)","The Emperors New School","Freakshow (2013)","The Increasingly Poor Decisions of Todd Margaret","Life with Bonnie","Chaotic","Edge of Darkness","A Haunting","George Gently","In the Motherhood","Dog Whisperer","Spooks: Code 9","Sweet 18","Flavor of Love","Robot Combat League","Im with Her","I Love Money","Witch Hunter Robin","Justice (2011)","Airwolf","Have I Got News for You","The Country Mouse and the City Mouse Adventures","Harvey Birdman, Attorney at Law","Chopped","The Real World","The Life & Times of Tim","Mistério da Escuridão","Stella (2012)","Biblia Koshodou no Jiken Techou","Laid","A for Andromeda","Mighty Ducks","Cambridge Spies","The League of Gentlemen","Mary-Kate and Ashley in Action!","Last Cinderella","Raven","Where The Bears Are","The Outer Limits (1963)","The Soul Man (2012)","Girls Generation and the Dangerous Boys","The Guard","Space Ghost Coast to Coast","Ramsays Kitchen Nightmares","Avengers (1999)","Gunslinger Girl","When A Man Loves","Shaun the Sheep","Robotics;Notes","Extreme Engineering","Metal Evolution","The Choice","Rock of Love Charm School","Rockos Modern Life","The Naked Truth","Liar Game","Heróis","Sheena","Saved by the Bell: The New Class","The District","Survivorman","The Alzheimers Project","ReBoot","Pucca","Holliston","Killer Instinct","Unhappily Ever After","Legion of Super Heroes","The Outer Limits (1995)","Geordie Shore","Miss Match","The Bionic Woman (1976)","The Grid (2004)","Presidio Med","The Adventures of Sinbad","Pensacola: Wings of Gold","Braceface","This Life","The Bachelorette","Starsky and Hutch","Betty Whites Off Their Rockers","The Legend of Tarzan","Code Lyoko","Misfits of Science","Friday the 13th: The Series","Citizen Khan","The Murdoch Mysteries","Human Giant","Caos","Mr & Mrs Murder","Charlie and Lola","Initial D: First Stage","The Evidence","Hammer House of Horror","The Agency (2001)","Deltora Quest","Mysterious Ways","The Angry Beavers","American Pickers","Little Britain USA","Heroes Unmasked","Time Warp","American Idol Extra","Hunter (1984)","The Witches of Oz","Masterchef Australia All Star","Love Monkey","Kindred: the Embraced","Buck Rogers in the 25th Century","Witch Amusement","The Venture Bros.","Flipper (1995)","Haeundae Lovers","The Adventures of Shirley Holmes, Detective","Opposite Sex","Kidnap and Ransom","Tatta Hitotsu no Koi","The Game","Crime and Punishment (UK)","Im Sam","The Critic","Kyojuu Tokusou Juspion","A Hundred Year�s Inheritance","Living Lohan","The Banana Splits Adventure Hour","Cupid (1998)","Party Animals","The Sylvester & Tweety Mysteries","Crusade","Generator Rex","Zetman","Thor & Loki: Blood Brothers","Tempted Again","The Corner","No. 1 Ladies Detective Agency","Maron","Back to You","Max Steel","Bar Rescue","Red Riding","The Innocent Man","Vampire High","Gavin & Stacey","The Thorn Birds","The Queens Classroom","Honey and Clover","Cruel City","Karin","Eden of The East","Napoleon","A Place To Call Home","Masters Sun","High School USA!","Mako Mermaids","Good Doctor","Mrs Biggs","Ready For Love","Newsreaders","Runaway (2006)","Dr. Jin","The Chronicle","Celebrity Big Brother","Lassie (1954)","A Voz de Portugal","Offspring","The A-List: New York","Actors Studio","Committed (2005)","Clara Sheller","Spider-Man and His Amazing Friends","Real Husbands of Hollywood","Opening Act","Friends (1979)","Flash Forward (1996)","Ohlala Couple","City Hall","The Equator Man","The Royal Bodyguard","The Unknown","The Apprentice (UK)","Unsupervised","Pramface","The Blue Rose","Gunsmoke","Conan (1997)","Greg the Bunny","Extreme Ghostbusters","American Restoration","Rascal Sons","Faerie Tale Theatre","Action","Sex, Love & Secrets","How the Universe Works","The Immortal (2000)","Bill & Teds Excellent Adventures (1992)","Coming of Age (2007)","Girlfriends","Survivor (UK)","Mock the Week","The Tick (2001)","Home Movies","Hack","Ready or Not","War and Peace","Sonic Underground","Bill & Teds Excellent Adventures (1990)","Still Standing","Only Fools and Horses...","Waterloo Road","Biker Mice from Mars","Kingdom","Ad Genius Lee Tae Baek","The Partridge Family","Chef Academy","Karen Sisco","Nostradamus Effect","Top Design","Rock Rock Rock","Newport Harbor: The Real Orange County","Beautiful People (2008)","In Case of Emergency","Expedition Impossible","24 Hour Restaurant Battle","The Tick (1994)","The Nico Files","MadTV","Parents","Hollys World","The Eleventh Hour (2002)","Foyles War","On the Air","Stars Falling From the Sky","Standoff","H8R","Seven Ages of Rock","The Midnight Beast","Mundo Sem Mulheres","I Survived a Japanese Game Show","As If (US)","GI Joe: Renegades","Arctic Air","The Vineyard Man","In Justice","Crime & Punishment (1993)","Big Day","The Deadliest Catch","Johnny Test","Growing Pains","Doctor in the House","Curiosity: The Questions of Life","The New Addams Family","Supernanny (US)","Sym-Bionic Titan","Brazil with Michael Palin","Beastmaster","Jericho (1966)","Cyndi Lauper: Still So Unusual","I Want to Work for Diddy","Lassie (1997)","Marcels Quantum Kitchen","7 Days","Ghost (2012)","Karkú","Nobuta wo Produce","Jang Ok Jung","Earth 2","Undercover Boss (UK)","Dan Vs.","Overhaulin","Crash & Bernstein","The Real Hustle","Veritas: The Quest","Mrs. Eastwood & Company","Freedom","Flipping Out","Nathan for You","The Layover","Shasta McNasty","Penn & Teller: Bullshit!","Highway to Heaven","Shattered","Goof Troop","Models Inc.","My Big Fat Greek Life","May Queen","Acapulco H.E.A.T.","The Ren & Stimpy Show","Unhitched","Ghost Mine","Tremors","Mission: Impossible (1988)","The Mask (1995)","Clifford the Big Red Dog","The Revolution (2012)","Land of the Lost (1991)","Sonic the Hedgehog (ABC)","Lonesome Dove: The Series","Ultraman: Towards the Future","Celebrity Rehab with Dr. Drew","A Double Shot at Love","Undergrads","The Troop","Going Postal","Mission: Impossible (1966)","F/X: The Series","Doctors Diary","Dirk Gently","Lonesome Dove: The Outlaw Years","The Mummy: The Animated Series","Mobile Suit Gundam","The Real Adventures of Jonny Quest","Shakespeare Retold","Earthworm Jim","Eerie, Indiana: The Other Dimension","Fear Factor","I Didnt Know I Was Pregnant","Brandy & Mr. Whiskers","Lonesome Dove","D.C.","Upright Citizens Brigade","So You Think You Can Dance Canada","Águias da Cidade","Watching Ellie","Sabrinas Secret Life","Girls Who Like Boys Who Like Boys","Onegai Twins","Lady Blue","Fanboy and Chum Chum","Lexx","Sherlock Holmes (1964)","American Gothic","Clone High USA","Moving On","Ancient Rome: The Rise and Fall of an Empire","Forever Knight","The Real Housewives of Beverly Hills","Squirrel Boy","K-Ville","Total Recall 2070","Duck Dynasty","The Incredible Hulk (1996)","Allo Allo","Dave the Barbarian","L.A. Doctors","Five Days","Suburban Shootout","Boy Meets Girl","Inside Comedy","Rupert","The Border","Impractical Jokers","The Curse of Dracula","City of Angels (2000)","Blandings","White Christmas","Invasion: Earth","Krypto the Superdog","LOOKBOOK: The Series","LazyTown","The Net","Underbelly","Meadowlands","Bionic Six","Storm Chasers","Kung Fu: The Legend Continues","Get Smart (1995)","Gran Hotel","The Fugitive (1963)","House Of Saddam","Shin Sekai Yori","The Love Boat","Viper","Cyberchase","Braxton Family Values","Playmakers","All in the Family","Strangers with Candy","The Wild Wild West (1965)","Quero Ser Solteira - Web Série","Highlander: The Raven","First Wave","Jem","The Booth at the End","Water Rats","Shazam!","Above Suspicion","Walker, Texas Ranger","Slings & Arrows","Jakers! The Adventures of Piggley Winks","Ark II","The Adventures of the Galaxy Rangers","The Men Who Built America","Shark [CS]","Exit","Top Chef Canada","Der letzte Bulle","Beauty and the Beast (1996)","Beverly Hills Nannies","Odysseus","The Winner Is","Paris Hiltons My New BFF","Chaos;HEAd","Ice Loves Coco","Whats Up?","Fighting Spirit","Summer Camp","NY Ink","The Woody Woodpecker Show","Liv and Maddie","D.Gray-Man","Boku Wa Tomodachi Ga Sukanai","Chiquititas (2013)","Behind the Candelabra","Beleza S/A","The Nekci Menij Show","Marry Me","Dancing Fools","Brew Masters","Hunderby","Moby Dick","Gene Simmons Family Jewels","Jeeves and Wooster","Police Squad!","The DL Chronicles","The Monkees","Cops","Kroll Show","Kolchak: The Night Stalker","Night Stalker","Alice","Frys Planet Word","Dark Shadows (1966)","Kingpin","French & Saunders","The Friday Night Project","Sister, Sister","Eyes","FutureWeapons","Da Vincis Inquest","The Edge","Whose Line Is It Anyway? (UK)","Action Man (2000)","Second Generation Wayans","Im a Celebrity, Get Me Out of Here! (UK)","Help Me Help You","Stromberg","Around the World In 80 Plates","Oh Ja Ryong is Coming","Jon & Kate Plus 8","Nashville Star","Americas Next Great Restaurant","The Doctor Blake Mysteries","The Real Ghostbusters","ALF Tales","Joe Millionaire","Impact: Stories of Survival","The Queen of Office","The Royal Family","Splash","On the Lot","Action Man (1995)","Transformers: Animated","Clerks","The Wanda Sykes Show","Tarzan: The Epic Adventures (1996)","So You Think You Can Dance Australia","Walt Disney Presents","Roar","Out of This World (1987)","An Actors Life for Me","My Shining Girl","Surviving Suburbia","The ABC Afterschool Special","Design Star","Starman","Cagney & Lacey","Uchuu Keiji Gyaban (Space Cop Gaban)","Sir Arthur Conan Doyles Sherlock Holmes","Monsters","Interior Therapy with Jeff Lewis","Starlings","Dead Mans Gun","Aarons Way","The Muppet Show","Mrs. Browns Boys","Celebrity Ghost Stories","Abby","Scream Queens","Wonderful Life (2005)","Total Blackout","Muppets Tonight!","The Real Housewives of Orange County","Hells Kitchen (UK)","Mister Eleven","Five Fingers ","Nova","Project Runway Canada","Ruth Rendells Thirteen Steps Down","Aaagh! Its the Mr. Hell Show!","Darkwing Duck","Tucker","The Private Life of Plants ","The Mind of the Married Man","WMAC Masters","The Abbott and Costello Show","Extreme Chef","After the Catch","Happy Days","Swat Kats: The Radical Squadron","My Love, Madame Butterfly ","The Little House","Normal, Ohio","Project Runway Australia","Would I Lie to You?","Worst-Case Scenario","The Winner","Flash Gordon (1996)","Hotel Babylon","Dangerous Minds","The Janice Dickinson Modeling Agency","Monty","Tripping the Rift","Tales from the Cryptkeeper","Space Ghost","War Planets","A Thousand Days Promise","Dilbert","Zorro (1990)","The Canterbury Tales","SuperHuman Samurai Syber-Squad","Godivas","London Ink","Big Brother (Australia)","Odd Man Out","How TV Ruined Your Life","The Real Football Factories International","Kid Nation","Steven Seagal: Lawman","Tour of Duty","Back to Sherwood","The Burn","Harry Loves Lisa","Frisky Dingo","Gordon Ramsays F Word","Top Gear Australia","Second Chance","Trinity","Players (2010)","8 out of 10 Cats","The Real Football Factories","High School Musical: Get in the Picture","About a Girl","Triple","It Was Love","The Cult (2009)","Touching Evil (US)","Life on a Stick","Full English","Duckman","Sharpe","Nick Nickleby","All My Children","The Jay Leno Show","Hyperdrive","Josie and the Pussycats in Outer Space","Argumental","Strange Days at Blake Holsey High","Whoopi","The Lying Game (1997)","Happy Hour","History Detectives","Diagnosis Murder","Chip N Dale Rescue Rangers","BOTOLOVERS","The Third Hospital","Jeon Woo Chi ","Man From The Equator ","The Hunger","Are You Being Served?","Sea of Souls","The Tonight Show with Conan OBrien","The Mountain","Josie and the Pussycats","The Adam & Joe Show","The Tony Danza Show","Bat Masterson","Million Dollar Listing","Undressed","Our Friends in the North","The Man Show","Doomsday Preppers","Rock of Love with Bret Michaels","Britains Next Top Model","True Justice","Tales of the Gold Monkey","T.J. Hooker","Paradise City","Masterchef (UK)","Now and Again","Undercover Boss Australia","Return to Lonesome Dove","Ayakashi - Samurai Horror Tales","Late Night with Conan OBrien","The Invaders","V.I.P.","David Attenboroughs First Life","Hill Street Blues","Urban Legends","Dinnerladies","In Living Color","Rita Rocks","Alien Nation","Made","Still Life","Jamies American Road Trip","House of Mouse","Superboy","Hard Knocks (2001)","Dengeki Sentai Chenjiman ","Riese: Kingdom Falling","Da Vincis City Hall","Carga Pesada - 1˚ Versão","Sagwa, the Chinese Siamese Cat","Green Wing","UFO Hunters","Quero Ser Solteira","13 - Fear Is Real","Casualty","In with the Flynns","Tarzan (1966)","Thats My Bush!","Meet Ricky Gervais","Harry and the Hendersons","The Odd Couple","Outrageous Fortune","Saved by the Bell: The College Years","BraveStarr","The Final Cut","At Home with the Braithwaites","The Agency (2007)","Bang Goes the Theory","Daniel Boone","The Dead Files","The Green Hornet","Sealab 2021","Zorro (1981)","Meerkat Manor","Bakugan Battle Brawlers","Dirty Dancing","Dragons Den (UK)","Nash Bridges","Transformers","The Honeymooners","The All New Mickey Mouse Club","Flipper (1964)","Deadliest Warrior","What is Mom","Fantasy Island (1998)","Picket Fences","To Play the King","Oh Sit!","New York Undercover","The Yogi Bear Show","Xcalibur","The Lucy Show","Northern Exposure","America: The Story of Us","Elmiro Miranda Show","Kanon","First Kiss","State of Mind","Blue Heelers","Time Squad","Whale Wars","Poltergeist: The Legacy","Tim Gunns Guide to Style","Da Ali G Show (US)","Im Pregnant and ...","Never Fade Away","The Shark Tank","Kate Plus 8","Roswell Conspiracies","Baywatch Nights","Run of the House","Stylista","Mystic Knights of Tir Na Nog","Kathy Griffin: My Life on the D-List","Tabitha","Sisters","Ferris Bueller","Life on Earth","Profit","Broadway or Bust","Penn & Teller: Fool Us","This Is Not My Life","Midsomer Murders","Sirius","The Ben Stiller Show","The Adventures of Swiss Family Robinson (1975)","Chefs vs. City","Hot Set","Extreme Makeover","Angelas Eyes","Ultraman Tiga","Out of Order","WWE Main Event","High Society (2010)","Glory Days (2002)","K9","Dr. Katz, Professional Therapist","Brad Meltzers Decoded","Hollywood Heights","Little Dracula","Blues Clues","The Flying Nun","Godzilla: The Series (1998)","Afterlife","Space: Above and Beyond","Garth Marenghis Darkplace","Man from Atlantis","Easy Money","G Gundam","Planet Sheen","Who Gets the Last Laugh?","The Hitchhiker","Wiseguy","Thunder in Paradise","Max Steel (2013)","The End of the World","Look","72 Hours","Murder, She Wrote","Angel Sanctuary","Astro Boy (1980)","Benji, Zax and the Alien Prince","Love and Marriage (2013)","Undercover Boss Canada","Junior MasterChef","Drunk History","Boston Med","Polseres Vermelles","The Selection","Tales of the Vikings","Baby Bob","Incarnation of Money","History of the Salaryman","The Avengers (1961)","Redwood","Invasion Iowa","Invasion America","The Streets of San Francisco","The Six Million Dollar Man","Dual Survival","Remington Steele","Goddess of Marriage","Vividred Operation","Kojak (1973)","Count Arthur Strong","Snoops (1999)","Murder Police","The Writers Room","No.6","Strictly Come Dancing","Burkes Law (1994)","Malibu Shores","Berlin Alexanderplatz","Arne Dahl","Big Apple","Big Lake","Bucket & Skinners Epic Adventures","Fashion Star","Wish Upon A Star","Four Corners","Are You Smarter Than a 5th Grader?","Miami Animal Police","Charlie Lawrence","Night Gallery","Addicted to Beauty","School Spirits","Decora","Surviving Zombies","The Virtual Revolution","Mickey Mouse Clubhouse","A Moody Christmas","Dora the Explorer","Transformers: Robots in Disguise","Kr�d M�ndoon and the Flaming Sword of Fire","The Adam Carolla Project","Ax Men","Vampire Prosecutor 2","The Invisible Man (1958)","Iron Chef America","The Joe Schmo Show","The Complex: Malibu","The Wedding Bells","The Visit","The Life of Birds","Captain Star","Lead Balloon","Holby City","Expedition Great White","Bette","NY-Lon","Return to the Planet of the Apes","Americas Psychic Challenge","The Tomorrow People (1973)","Table for 12","The Emeril Lagasse Show","Atlantis High","Sherri","The Worst Witch","Alienators: Evolution Continues"," Are You Tougher Than a Boy Scout?","Just You ","The Tomorrow People (1992)","Notes from the Underbelly","Ronin Warriors","Mount Pleasant","Outlaw Star","Super Force","The Tribe","Celebrity Poker Showdown","The Littles","Devils Dust","That Mitchell and Webb Look","15 Storeys High","Ripleys Believe It or Not!","Shokojo Seira","The American Baking Competition","Dark Matters: Twisted But True","Get Ed","The Garfield Show","Priceless","Dancing with the Stars (Australia)","Soul Man (1997)","Crumbs","The Young Ones","The Young Riders","Strange","Viva Laughlin","Transformers: Energon","The Real Housewives of Vancouver","Adam Adamant Lives!","Murder in Suburbia","Endurance","Jayce and the Wheeled Warriors","Jerseylicious","Hey Paula","Haunted Collector","Cain","Jonathan Creek","The Neverending Story","Trollied","Captain Power and the Soldiers of the Future","Laredo","Dogs 101","The Catalina","My Secret Identity","Rambo","Oddities","Mike Hammer (1984)","The Save-Ums!","Weed Wars","Martian Successor Nadesico","Steve Wants His Money","The King Is Dead","Timecop","WPC 56","City Guys","Cyborg 009 (2001)","The Royal","Paranormal Challenge","The Brady Bunch","Worst Cooks in America","Gold Rush Alaska","White Heat","George of the Jungle (2007)","Tarzan (1976)","The Marriage Ref","Rocky Jones, Space Ranger","Kick Buttowski: Suburban Daredevil"
+]'>
+                    
+ <input type=hidden name="action" value="search">
+                    </form>
+
+                    <ul class="nav pull-right">
+                       <li ><a href="index.php?action=todasseries">Índice</a></li>
+                      <li class="divider-vertical"></li>
+                      
+                      
+                      
+                      
+                      
+                      
+                      <li><span class="divider"></span>
+    <!-- Button to trigger modal -->
+    <a href="#myModal" data-toggle="modal">Login</a>
+     
+    <!-- Modal -->
+    <div id="myModal" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+    <div class="modal-header">
+
+    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+    <h3 id="myModalLabel">Logue-se no Banco de Séries</h3>
+    </div>
+    <div class="modal-body">
+    
+    <form method="post" action="index.php">
+   <table>
+     <tr>
+      <td><b>Login:</b></td><td><input type="text" name="login" value="" maxlength="15"></td>
+    </tr>
+      <td><b>Senha:</b></td><td><input type="password" name="pw"></td>
+    </tr>
+    <tr>
+      <td align=right><a href=index.php?esqueci=1>Esqueceu a senha?</a></td>
+    </tr>
+    </table>
+     <input type="hidden" name="action" value="loginUser">
+           Não tem conta? <a href=index.php?callCadastro=2>Cria sua conta agora mesmo</a>
+          <br><br>
+          ou Logue-se com sua conta do <fb:login-button scope="email" >Facebook</fb:login-button>
+     
+    </div>
+    <div class="modal-footer">
+    <button class="btn btn-primary">Logar-se</button>
+    </form>
+    </div>
+    </div></li>
+                      <li><span class="divider"></span>
+    <!-- Button to trigger modal -->
+    <a href="#myModalCadastro" data-toggle="modal">Cadastre-se</a>
+     
+    <!-- Modal -->
+    <div id="myModalCadastro" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabelCadastro" aria-hidden="true">
+    <div class="modal-header">
+
+    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+    <h3 id="myModalLabelCadastro">Cadastro - Banco de Séries</h3>
+    </div>
+    <div class="modal-body">
+    <form method="post" action="index.php">
+    
+<table>
+  <tr>
+    <td><b>Login:</b></td><td><input type="text" name="login" value="" maxlength="15"></td>
+  </tr>
+  <tr>
+    <td><b>Email:</b></td><td><input type="text" name="email" value=""></td>
+  </tr>
+  <tr>
+    <td><b>Senha:</b></td><td><input type="password" name="pw"></td>
+  </tr>
+  <tr>
+    <td><b>Confirma Senha:</b></td><td><input type="password" name="pw2"</td>
+  </tr>
+</table>
+     
+    </div>
+    <div class="modal-footer">
+    <button class="btn btn-primary">Cadastrar-se</button>
+    <input type="hidden" name="callCadastro" value="1">
+    </form>
+    </div>
+    </div></li>
+                    </ul>
+                  </div><!-- /.nav-collapse -->
+                </div>
+              </div><!-- /navbar-inner -->
+            </div><!-- /navbar -->
+          </div>
+      <span class="divider"></span>
+    
+    <!-- Modal -->
+    <div id="myModalEsqueciSenha" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabelEsqueciSenha" aria-hidden="true">
+    <div class="modal-header">
+
+    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+    <h3 id="myModalLabelEsqueciSenha">Recuperação de Senha - Banco de Séries</h3>
+    </div>
+    <div class="modal-body">
+
+   <form method="post" action="index.php">
+<table>
+  <tr>
+    <td><b>Email Cadastrado:</b></td><td><input type="text" name="email" value=""></td>
+  </tr>
+</table>
+  <input type="hidden" name="action" value="recuperasenha">
+     
+    </div>
+    <div class="modal-footer">
+    <button class="btn btn-primary">Enviar</button>
+    </form>
+    </div>
+    </div>
+      
+     
+    <center></center>
+     
+
+     <div class="container-fluid">
+    <div class="row-fluid">
+      <ul class="thumbnails">
+        <li class=span10>
+        <center>
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-8288930974747122";
+/* Dica 2 970x90 */
+google_ad_slot = "8586369474";
+google_ad_width = 970;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</center>
+        </li>
+      </ul>
+    </div>
+ </div>       
+ 
+ <div class="container-fluid">
+    <div class="row-fluid">
+      <ul class="thumbnails">
+        <li class="span2">
+<a href=index.php?action=ss&serieid=5924><img src=images/posters/5924.jpg border=none></a>
+<br><br><b>301</b> pessoas marcaram este episódio como visto<br><br>
+<b>178</b> pessoas já deram nota a este episódio e a média é <b>8.44</b>
+. <br><br>Últimas notas atribuídas:   <a href=index.php?action=userPage&uid=1000001991 border=none alt title="Guilherme Hastings">10</a> - <a href=index.php?action=userPage&uid=1000007739 border=none alt title="Lucas">8</a> - <a href=index.php?action=userPage&uid=1000022372 border=none alt title="Daniel Moraes">8</a> - <a href=index.php?action=userPage&uid=999993006 border=none alt title="Júlia Braga">9</a> - <a href=index.php?action=userPage&uid=999991995 border=none alt title="Iza Alves">7</a> - <a href=index.php?action=userPage&uid=1000015272 border=none alt title="Haelthas">8.5</a> - <a href=index.php?action=userPage&uid=1000023190 border=none alt title="vamaral">9.5</a> - <a href=index.php?action=userPage&uid=1624 border=none alt title="Eliezio">6.5</a> - <a href=index.php?action=userPage&uid=999996353 border=none alt title="Romulo">8</a> - <a href=index.php?action=userPage&uid=130 border=none alt title="Diogo Vieira">8</a> - <a href=index.php?action=userPage&uid=1000020992 border=none alt title="LukkG">9</a> - <a href=index.php?action=userPage&uid=1000006148 border=none alt title="Guilherme">8.5</a> - <a href=index.php?action=userPage&uid=999993087 border=none alt title="evertoschneider">8</a> - <a href=index.php?action=userPage&uid=1000023123 border=none alt title="Michel Andrade">8</a> - <a href=index.php?action=userPage&uid=1000004210 border=none alt title="Felipe Matheus">8</a>
+        </li>
+
+    <li class="span6">
+   <div class="well"><table width=100%><tr><td><a href=index.php?action=ss&serieid=5924><h4>The Legend of Korra</a>  - 2x3 - Civil Wars Pt. 1  </h4></td><td align=right><h4>8.44<img src=img/star-on.png></h4></td></tr></table>
+   <table width=100%><tr><td>  </td><td align=right><a href="index.php?action=se&serieid=5924&episode=14&type=" alt title="Episódio Anterior"><i class="icon-backward"></i><font color=black>2x2</font></a>  </td></tr></table>
+    </div>    
+<p><div class=fbcommentsbox><b>Mini Sinopse:</b> Korra tenta se manter neutra enquanto as tensões aumentam entre as tribos de água do norte e do sul.<br><table width=100%><tr><td align=left><small>Ultima edição: </small> <a href=index.php?action=userPage&uid=1359><small><i>Toni Batista</small></i></a></td><td><a href=index.php?action=se&serieid=5924&type=&episode=15&editsinopse=1#sinopse><small><i>Editar minissinopse</i></small></a><br></td></tr></table></div><br></p>
+<b>Reviews deste Episódio:</b><br> <a href="http://bit.ly/1dEC8b7" target=_blank>Focados em Séries</a> <br><br>
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-8288930974747122";
+/* dica 3 abaixo das reviews */
+google_ad_slot = "1804805874";
+google_ad_width = 300;
+google_ad_height = 250;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+<hr>
+<br><h4>Comentarios - The Legend of Korra - 2x3</h4>
+<form method=post action=index.php>
+<img src=images/users/0.gif width=50px height=50px>
+<textarea  class="field span8" name="comment" rows="3" cols="150" >
+</textarea>
+<input class="btn btn-primary" type=submit name="envia" value="Comente"> 
+
+<input type="hidden" name="serieid" value="5924">
+<input type="hidden" name="episode" value="15">
+<input type="hidden" name="action" value="se">
+<input type="hidden" name="type" value="">
+</form>
+<hr>
+<center><div class="pagination"><ul></ul></div></center>
+<div class="accordion" id="369329">
+  <div class="accordion-group">
+    <div class="accordion-heading"  style="background-color:#d2d2d2;"  >
+      <a class="accordion-toggle" data-toggle="collapse"  href="#collapse369329"  >
+        <font color="#7c1b2d">Guilherme Hastings - <small><font color=#808080> - atribuiu 10</font></small> </font>
+      </a>
+    </div>
+    <div id="collapse369329" class="accordion-body collapse in" style="background-color:#ffffff;">
+      <div class="accordion-inner">
+       <table width=100%>
+      <tr>
+          <td width=60px align=center valign=top><a href=index.php?action=userPage&uid=1000001991><img src=images/users/50x50/1000001991.jpg width=50px height=50px border=none></a></td>
+          <td valign=top> 
+          <div class=justify>Cara esse tio da Korra é um bosta, mas não acho que ele seja o novo vilão, acho que ele só está "desviando" nossa atenção, adoro esses gêmeos doidos, ele são engraçados. Q</div>
+          <br>
+          <table width=60%><tr><td><small><font color=#808080>2013-09-26 20:21:16</font></small></td><td>  </td></tr></table>
+          </td>
+          <td valign=top align=right><object type="text/html" data="_like.php?cid=369329" WIDTH="42px" HEIGHT="32px" style="vertical-align:bottom"></object></td>
+      </tr>
+    </table>
+      </div>
+    </div>
+  </div>
+  
+    <div class="accordion-group">
+    <div class="accordion-heading"  style="background-color:#ffffff;"  >
+      <a class="accordion-toggle" data-toggle="collapse" href="#collapse-responde-369329"  >
+       <table width=100%><tr><td align=right>Responder</td></tr></table>
+      </a>
+    </div>
+    <div id="collapse-responde-369329" class="accordion-body collapse" style="background-color:#ffffff;">
+      <div class="accordion-inner">
+<form method=post action=index.php>
+<img src=images/users/0.gif width=50px height=50px>
+<textarea  class="field span8" name="comment" rows="3" cols="150" >
+</textarea>
+<input class="btn btn-primary" type=submit name="envia" value="Responder"> 
+
+<input type="hidden" name="serieid" value="5924">
+<input type="hidden" name="episode" value="15">
+<input type="hidden" name="action" value="se">
+<input type="hidden" name="type" value="">
+<input type="hidden" name="vinculo" value="369329">
+<input type="hidden" name="pag" value="1">
+
+
+</form>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="accordion" id="367611">
+  <div class="accordion-group">
+    <div class="accordion-heading"  style="background-color:#d2d2d2;"  >
+      <a class="accordion-toggle" data-toggle="collapse"  href="#collapse367611"  >
+        <font color="#7c1b2d">Diogo Vieira - <small><font color=#808080>  ·  Recife -  Brazil - atribuiu 8</font></small> </font>
+      </a>
+    </div>
+    <div id="collapse367611" class="accordion-body collapse in" style="background-color:#ffffff;">
+      <div class="accordion-inner">
+       <table width=100%>
+      <tr>
+          <td width=60px align=center valign=top><a href=index.php?action=userPage&uid=130><img src=images/users/50x50/130.jpg width=50px height=50px border=none></a></td>
+          <td valign=top> 
+          <div class=justify>Só eu to achando o plot de Tenzin mais interessante que o das Tribos d'água? E KD neto de Zuko, quero ele participando bastante tbm :(</div>
+          <br>
+          <table width=60%><tr><td><small><font color=#808080>2013-09-25 23:15:34</font></small></td><td>  </td></tr></table>
+          </td>
+          <td valign=top align=right><object type="text/html" data="_like.php?cid=367611" WIDTH="42px" HEIGHT="32px" style="vertical-align:bottom"></object></td>
+      </tr>
+    </table>
+      </div>
+    </div>
+  </div>
+  
+    <div class="accordion-group">
+    <div class="accordion-heading"  style="background-color:#ffffff;"  >
+      <a class="accordion-toggle" data-toggle="collapse" href="#collapse-responde-367611"  >
+       <table width=100%><tr><td align=right>Responder</td></tr></table>
+      </a>
+    </div>
+    <div id="collapse-responde-367611" class="accordion-body collapse" style="background-color:#ffffff;">
+      <div class="accordion-inner">
+<form method=post action=index.php>
+<img src=images/users/0.gif width=50px height=50px>
+<textarea  class="field span8" name="comment" rows="3" cols="150" >
+</textarea>
+<input class="btn btn-primary" type=submit name="envia" value="Responder"> 
+
+<input type="hidden" name="serieid" value="5924">
+<input type="hidden" name="episode" value="15">
+<input type="hidden" name="action" value="se">
+<input type="hidden" name="type" value="">
+<input type="hidden" name="vinculo" value="367611">
+<input type="hidden" name="pag" value="1">
+
+
+</form>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="accordion" id="364793">
+  <div class="accordion-group">
+    <div class="accordion-heading"  style="background-color:#d2d2d2;"  >
+      <a class="accordion-toggle" data-toggle="collapse"  href="#collapse364793"  >
+        <font color="#7c1b2d">Romildo Medeiros - <small><font color=#808080>  ·  João Pessoa - PB - atribuiu 8</font></small> </font>
+      </a>
+    </div>
+    <div id="collapse364793" class="accordion-body collapse in" style="background-color:#ffffff;">
+      <div class="accordion-inner">
+       <table width=100%>
+      <tr>
+          <td width=60px align=center valign=top><a href=index.php?action=userPage&uid=885><img src=images/users/50x50/885.jpg width=50px height=50px border=none></a></td>
+          <td valign=top> 
+          <div class=justify>Foi bacana. Vamos esperar o que vem pela frente.<br>Essa guerra promete muito. </div>
+          <br>
+          <table width=60%><tr><td><small><font color=#808080>2013-09-24 18:55:59</font></small></td><td>  </td></tr></table>
+          </td>
+          <td valign=top align=right><object type="text/html" data="_like.php?cid=364793" WIDTH="42px" HEIGHT="32px" style="vertical-align:bottom"></object></td>
+      </tr>
+    </table>
+      </div>
+    </div>
+  </div>
+  
+    <div class="accordion-group">
+    <div class="accordion-heading"  style="background-color:#ffffff;"  >
+      <a class="accordion-toggle" data-toggle="collapse" href="#collapse-responde-364793"  >
+       <table width=100%><tr><td align=right>Responder</td></tr></table>
+      </a>
+    </div>
+    <div id="collapse-responde-364793" class="accordion-body collapse" style="background-color:#ffffff;">
+      <div class="accordion-inner">
+<form method=post action=index.php>
+<img src=images/users/0.gif width=50px height=50px>
+<textarea  class="field span8" name="comment" rows="3" cols="150" >
+</textarea>
+<input class="btn btn-primary" type=submit name="envia" value="Responder"> 
+
+<input type="hidden" name="serieid" value="5924">
+<input type="hidden" name="episode" value="15">
+<input type="hidden" name="action" value="se">
+<input type="hidden" name="type" value="">
+<input type="hidden" name="vinculo" value="364793">
+<input type="hidden" name="pag" value="1">
+
+
+</form>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="accordion" id="364012">
+  <div class="accordion-group">
+    <div class="accordion-heading"  style="background-color:#d2d2d2;"  >
+      <a class="accordion-toggle" data-toggle="collapse"  href="#collapse364012"  >
+        <font color="#7c1b2d">Juninho Ferro - <small><font color=#808080> - atribuiu 8.5</font></small> </font>
+      </a>
+    </div>
+    <div id="collapse364012" class="accordion-body collapse in" style="background-color:#ffffff;">
+      <div class="accordion-inner">
+       <table width=100%>
+      <tr>
+          <td width=60px align=center valign=top><a href=index.php?action=userPage&uid=999992030><img src=images/users/50x50/999992030.jpg width=50px height=50px border=none></a></td>
+          <td valign=top> 
+          <div class=justify>Estava esperando um flashback do Aang e sua família com aventuras estilo sessão da tarde. </div>
+          <br>
+          <table width=60%><tr><td><small><font color=#808080>2013-09-24 11:27:40</font></small></td><td>  </td></tr></table>
+          </td>
+          <td valign=top align=right><object type="text/html" data="_like.php?cid=364012" WIDTH="42px" HEIGHT="32px" style="vertical-align:bottom"></object></td>
+      </tr>
+    </table>
+      </div>
+    </div>
+  </div>
+  
+    <div class="accordion-group">
+    <div class="accordion-heading"  style="background-color:#ffffff;"  >
+      <a class="accordion-toggle" data-toggle="collapse" href="#collapse-responde-364012"  >
+       <table width=100%><tr><td align=right>Responder</td></tr></table>
+      </a>
+    </div>
+    <div id="collapse-responde-364012" class="accordion-body collapse" style="background-color:#ffffff;">
+      <div class="accordion-inner">
+<form method=post action=index.php>
+<img src=images/users/0.gif width=50px height=50px>
+<textarea  class="field span8" name="comment" rows="3" cols="150" >
+</textarea>
+<input class="btn btn-primary" type=submit name="envia" value="Responder"> 
+
+<input type="hidden" name="serieid" value="5924">
+<input type="hidden" name="episode" value="15">
+<input type="hidden" name="action" value="se">
+<input type="hidden" name="type" value="">
+<input type="hidden" name="vinculo" value="364012">
+<input type="hidden" name="pag" value="1">
+
+
+</form>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="accordion" id="363639">
+  <div class="accordion-group">
+    <div class="accordion-heading"  style="background-color:#d2d2d2;"  >
+      <a class="accordion-toggle" data-toggle="collapse"  href="#collapse363639"  >
+        <font color="#7c1b2d">Paulo César - <small><font color=#808080>  ·  Fortaleza - CE - atribuiu 8</font></small> </font>
+      </a>
+    </div>
+    <div id="collapse363639" class="accordion-body collapse in" style="background-color:#ffffff;">
+      <div class="accordion-inner">
+       <table width=100%>
+      <tr>
+          <td width=60px align=center valign=top><a href=index.php?action=userPage&uid=999999940><img src=images/users/50x50/999999940.jpg width=50px height=50px border=none></a></td>
+          <td valign=top> 
+          <div class=justify>Como falaram, Korra devia ter 40 minutos, o tempo passa tão rápido que você nem nota :(</div>
+          <br>
+          <table width=60%><tr><td><small><font color=#808080>2013-09-24 01:28:54</font></small></td><td>  </td></tr></table>
+          </td>
+          <td valign=top align=right><object type="text/html" data="_like.php?cid=363639" WIDTH="42px" HEIGHT="32px" style="vertical-align:bottom"></object></td>
+      </tr>
+    </table>
+      </div>
+    </div>
+  </div>
+  
+    <div class="accordion-group">
+    <div class="accordion-heading"  style="background-color:#ffffff;"  >
+      <a class="accordion-toggle" data-toggle="collapse" href="#collapse-responde-363639"  >
+       <table width=100%><tr><td align=right>Responder</td></tr></table>
+      </a>
+    </div>
+    <div id="collapse-responde-363639" class="accordion-body collapse" style="background-color:#ffffff;">
+      <div class="accordion-inner">
+<form method=post action=index.php>
+<img src=images/users/0.gif width=50px height=50px>
+<textarea  class="field span8" name="comment" rows="3" cols="150" >
+</textarea>
+<input class="btn btn-primary" type=submit name="envia" value="Responder"> 
+
+<input type="hidden" name="serieid" value="5924">
+<input type="hidden" name="episode" value="15">
+<input type="hidden" name="action" value="se">
+<input type="hidden" name="type" value="">
+<input type="hidden" name="vinculo" value="363639">
+<input type="hidden" name="pag" value="1">
+
+
+</form>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="accordion" id="362775">
+  <div class="accordion-group">
+    <div class="accordion-heading"  style="background-color:#d2d2d2;"  >
+      <a class="accordion-toggle" data-toggle="collapse"  href="#collapse362775"  >
+        <font color="#7c1b2d">Jessica Alves - <small><font color=#808080>  ·  São Paulo - SP - atribuiu 10</font></small> </font>
+      </a>
+    </div>
+    <div id="collapse362775" class="accordion-body collapse in" style="background-color:#ffffff;">
+      <div class="accordion-inner">
+       <table width=100%>
+      <tr>
+          <td width=60px align=center valign=top><a href=index.php?action=userPage&uid=999992497><img src=images/users/50x50/999992497.jpg width=50px height=50px border=none></a></td>
+          <td valign=top> 
+          <div class=justify>Os dois nucleos desse epi foram otimos, familia do Aang foi mto legal saber as origens e fiquei achando q eles iam mostrar um flashback mas ok <br>O plot da Korra e da Guerra Civil vai ser mto foda, to sentido</div>
+          <br>
+          <table width=60%><tr><td><small><font color=#808080>2013-09-23 19:56:36</font></small></td><td>  </td></tr></table>
+          </td>
+          <td valign=top align=right><object type="text/html" data="_like.php?cid=362775" WIDTH="42px" HEIGHT="32px" style="vertical-align:bottom"></object></td>
+      </tr>
+    </table>
+      </div>
+    </div>
+  </div>
+  
+    <div class="accordion-group">
+    <div class="accordion-heading"  style="background-color:#ffffff;"  >
+      <a class="accordion-toggle" data-toggle="collapse" href="#collapse-responde-362775"  >
+       <table width=100%><tr><td align=right>Responder</td></tr></table>
+      </a>
+    </div>
+    <div id="collapse-responde-362775" class="accordion-body collapse" style="background-color:#ffffff;">
+      <div class="accordion-inner">
+<form method=post action=index.php>
+<img src=images/users/0.gif width=50px height=50px>
+<textarea  class="field span8" name="comment" rows="3" cols="150" >
+</textarea>
+<input class="btn btn-primary" type=submit name="envia" value="Responder"> 
+
+<input type="hidden" name="serieid" value="5924">
+<input type="hidden" name="episode" value="15">
+<input type="hidden" name="action" value="se">
+<input type="hidden" name="type" value="">
+<input type="hidden" name="vinculo" value="362775">
+<input type="hidden" name="pag" value="1">
+
+
+</form>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="accordion" id="362474">
+  <div class="accordion-group">
+    <div class="accordion-heading"  style="background-color:#d2d2d2;"  >
+      <a class="accordion-toggle" data-toggle="collapse"  href="#collapse362474"  >
+        <font color="#7c1b2d">Fontes - <small><font color=#808080> - atribuiu 10</font></small> </font>
+      </a>
+    </div>
+    <div id="collapse362474" class="accordion-body collapse in" style="background-color:#ffffff;">
+      <div class="accordion-inner">
+       <table width=100%>
+      <tr>
+          <td width=60px align=center valign=top><a href=index.php?action=userPage&uid=999997355><img src=images/users/50x50/999997355.jpg width=50px height=50px border=none></a></td>
+          <td valign=top> 
+          <div class=justify>SDDS ASAMI. D: Cadê ela?????</div>
+          <br>
+          <table width=60%><tr><td><small><font color=#808080>2013-09-23 16:58:50</font></small></td><td>  </td></tr></table>
+          </td>
+          <td valign=top align=right><object type="text/html" data="_like.php?cid=362474" WIDTH="42px" HEIGHT="32px" style="vertical-align:bottom"></object></td>
+      </tr>
+    </table>
+      </div>
+    </div>
+  </div>
+  
+    <div class="accordion-group">
+    <div class="accordion-heading"  style="background-color:#ffffff;"  >
+      <a class="accordion-toggle" data-toggle="collapse" href="#collapse-responde-362474"  >
+       <table width=100%><tr><td align=right>Responder</td></tr></table>
+      </a>
+    </div>
+    <div id="collapse-responde-362474" class="accordion-body collapse" style="background-color:#ffffff;">
+      <div class="accordion-inner">
+<form method=post action=index.php>
+<img src=images/users/0.gif width=50px height=50px>
+<textarea  class="field span8" name="comment" rows="3" cols="150" >
+</textarea>
+<input class="btn btn-primary" type=submit name="envia" value="Responder"> 
+
+<input type="hidden" name="serieid" value="5924">
+<input type="hidden" name="episode" value="15">
+<input type="hidden" name="action" value="se">
+<input type="hidden" name="type" value="">
+<input type="hidden" name="vinculo" value="362474">
+<input type="hidden" name="pag" value="1">
+
+
+</form>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="accordion" id="362221">
+  <div class="accordion-group">
+    <div class="accordion-heading"  style="background-color:#d2d2d2;"  >
+      <a class="accordion-toggle" data-toggle="collapse"  href="#collapse362221"  >
+        <font color="#7c1b2d">M1ll@ - <small><font color=#808080> - atribuiu 8</font></small> </font>
+      </a>
+    </div>
+    <div id="collapse362221" class="accordion-body collapse in" style="background-color:#ffffff;">
+      <div class="accordion-inner">
+       <table width=100%>
+      <tr>
+          <td width=60px align=center valign=top><a href=index.php?action=userPage&uid=1665><img src=images/users/50x50/1665.jpg width=50px height=50px border=none></a></td>
+          <td valign=top> 
+          <div class=justify>Por um mundo com 40min de TLoK!<br><br>Tô gostando MUITO do plot dos filhos do Aang. Mas acho que perdi em episódios passados (ou esqueci) eles comentando que o Bumi era um non-bender. Fiquei surpresa! Não sei pq achei que ele fosse earthbender (embora tenha achado muito estranho, pq né... os pais não são.). Deve ter sido muito difícil pra ele durante a infância. Imagina! Filho do Avatar e da Katara! E com dois irmãos que são benders! #barradevida.<br><br>Quanto ao plot da guerra civil, tá na cara que Unalaq tem algum interesse obscuro nessa abertura dos portais. Só Korra que não consegue ver!<br><br>E concordo que Mako e Bolin estão muito aleatórios até aqui!</div>
+          <br>
+          <table width=60%><tr><td><small><font color=#808080>2013-09-23 14:28:51</font></small></td><td>  </td></tr></table>
+          </td>
+          <td valign=top align=right><object type="text/html" data="_like.php?cid=362221" WIDTH="42px" HEIGHT="32px" style="vertical-align:bottom"></object></td>
+      </tr>
+    </table>
+      </div>
+    </div>
+  </div>
+  <table width=100%><tr><td> <div class="accordion-group">
+    <div class="accordion-heading" style="background-color:#ffffff;">
+      <a class="accordion-toggle" data-toggle="collapse"  href="#collapse367330">
+       <i class="icon-arrow-right"></i> <font color=#7c1b2d>LukkG - <small><font color=#808080> - atribuiu 9</font></small> </font>
+      </a>
+    </div>
+    <div id="collapse367330" class="accordion-body collapse" style="background-color:#ffffff;">
+      <div class="accordion-inner">
+        <table width=100%>
+      <tr>
+          <td width=60px align=center valign=top><a href=index.php?action=userPage&uid=1000020992><img src=images/users/50x50/1000020992.jpg width=50px height=50px border=none></a></td>
+          <td valign=top>
+          <div class=justify>Não foi citado mesmo que o Bumi não era um dobrador, pensei o mesmo que você, que ele era Earthbender. Eu acho que sendo filho do Avatar, você pode controlar qualquer elemento certo? </div>
+          <br>
+          <table width=60%><tr><td><small><font color=#808080>2013-09-25 21:39:19</font></small></td><td>  </td></tr></table>
+          </td>
+          <td valign=top align=right><object type="text/html" data="_like.php?cid=367330" WIDTH="42px" HEIGHT="32px" style="vertical-align:bottom"></object></td>
+      </tr>
+        </table>
+      </div>
+    </div>
+  </div></td></tr></table>
+    <div class="accordion-group">
+    <div class="accordion-heading"  style="background-color:#ffffff;"  >
+      <a class="accordion-toggle" data-toggle="collapse" href="#collapse-responde-362221"  >
+       <table width=100%><tr><td align=right>Responder</td></tr></table>
+      </a>
+    </div>
+    <div id="collapse-responde-362221" class="accordion-body collapse" style="background-color:#ffffff;">
+      <div class="accordion-inner">
+<form method=post action=index.php>
+<img src=images/users/0.gif width=50px height=50px>
+<textarea  class="field span8" name="comment" rows="3" cols="150" >
+</textarea>
+<input class="btn btn-primary" type=submit name="envia" value="Responder"> 
+
+<input type="hidden" name="serieid" value="5924">
+<input type="hidden" name="episode" value="15">
+<input type="hidden" name="action" value="se">
+<input type="hidden" name="type" value="">
+<input type="hidden" name="vinculo" value="362221">
+<input type="hidden" name="pag" value="1">
+
+
+</form>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="accordion" id="362093">
+  <div class="accordion-group">
+    <div class="accordion-heading"  style="background-color:#d2d2d2;"  >
+      <a class="accordion-toggle" data-toggle="collapse"  href="#collapse362093"  >
+        <font color="#7c1b2d">lucass - <small><font color=#808080> - atribuiu 7</font></small> </font>
+      </a>
+    </div>
+    <div id="collapse362093" class="accordion-body collapse in" style="background-color:#ffffff;">
+      <div class="accordion-inner">
+       <table width=100%>
+      <tr>
+          <td width=60px align=center valign=top><a href=index.php?action=userPage&uid=1000005464><img src=images/users/50x50/1000005464.jpg width=50px height=50px border=none></a></td>
+          <td valign=top> 
+          <div class=justify>Esperando a guerra entra as tribos da água por que vai ficar melhor ainda, entretanto que mais espíritos!</div>
+          <br>
+          <table width=60%><tr><td><small><font color=#808080>2013-09-23 13:16:27</font></small></td><td>  </td></tr></table>
+          </td>
+          <td valign=top align=right><object type="text/html" data="_like.php?cid=362093" WIDTH="42px" HEIGHT="32px" style="vertical-align:bottom"></object></td>
+      </tr>
+    </table>
+      </div>
+    </div>
+  </div>
+  
+    <div class="accordion-group">
+    <div class="accordion-heading"  style="background-color:#ffffff;"  >
+      <a class="accordion-toggle" data-toggle="collapse" href="#collapse-responde-362093"  >
+       <table width=100%><tr><td align=right>Responder</td></tr></table>
+      </a>
+    </div>
+    <div id="collapse-responde-362093" class="accordion-body collapse" style="background-color:#ffffff;">
+      <div class="accordion-inner">
+<form method=post action=index.php>
+<img src=images/users/0.gif width=50px height=50px>
+<textarea  class="field span8" name="comment" rows="3" cols="150" >
+</textarea>
+<input class="btn btn-primary" type=submit name="envia" value="Responder"> 
+
+<input type="hidden" name="serieid" value="5924">
+<input type="hidden" name="episode" value="15">
+<input type="hidden" name="action" value="se">
+<input type="hidden" name="type" value="">
+<input type="hidden" name="vinculo" value="362093">
+<input type="hidden" name="pag" value="1">
+
+
+</form>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="accordion" id="361987">
+  <div class="accordion-group">
+    <div class="accordion-heading"  style="background-color:#d2d2d2;"  >
+      <a class="accordion-toggle" data-toggle="collapse"  href="#collapse361987"  >
+        <font color="#7c1b2d">Vinícius Dórea - <small><font color=#808080>  ·  Aracaju - SE - atribuiu 7</font></small> </font>
+      </a>
+    </div>
+    <div id="collapse361987" class="accordion-body collapse in" style="background-color:#ffffff;">
+      <div class="accordion-inner">
+       <table width=100%>
+      <tr>
+          <td width=60px align=center valign=top><a href=index.php?action=userPage&uid=1000002594><img src=images/users/50x50/1000002594.jpg width=50px height=50px border=none></a></td>
+          <td valign=top> 
+          <div class=justify>20 minutos é muito pouco =/ </div>
+          <br>
+          <table width=60%><tr><td><small><font color=#808080>2013-09-23 11:35:13</font></small></td><td>  </td></tr></table>
+          </td>
+          <td valign=top align=right><object type="text/html" data="_like.php?cid=361987" WIDTH="42px" HEIGHT="32px" style="vertical-align:bottom"></object></td>
+      </tr>
+    </table>
+      </div>
+    </div>
+  </div>
+  
+    <div class="accordion-group">
+    <div class="accordion-heading"  style="background-color:#ffffff;"  >
+      <a class="accordion-toggle" data-toggle="collapse" href="#collapse-responde-361987"  >
+       <table width=100%><tr><td align=right>Responder</td></tr></table>
+      </a>
+    </div>
+    <div id="collapse-responde-361987" class="accordion-body collapse" style="background-color:#ffffff;">
+      <div class="accordion-inner">
+<form method=post action=index.php>
+<img src=images/users/0.gif width=50px height=50px>
+<textarea  class="field span8" name="comment" rows="3" cols="150" >
+</textarea>
+<input class="btn btn-primary" type=submit name="envia" value="Responder"> 
+
+<input type="hidden" name="serieid" value="5924">
+<input type="hidden" name="episode" value="15">
+<input type="hidden" name="action" value="se">
+<input type="hidden" name="type" value="">
+<input type="hidden" name="vinculo" value="361987">
+<input type="hidden" name="pag" value="1">
+
+
+</form>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="accordion" id="361960">
+  <div class="accordion-group">
+    <div class="accordion-heading"  style="background-color:#d2d2d2;"  >
+      <a class="accordion-toggle" data-toggle="collapse"  href="#collapse361960"  >
+        <font color="#7c1b2d">Letícia - <small><font color=#808080>  ·  Recife - PE - atribuiu 7.5</font></small> </font>
+      </a>
+    </div>
+    <div id="collapse361960" class="accordion-body collapse in" style="background-color:#ffffff;">
+      <div class="accordion-inner">
+       <table width=100%>
+      <tr>
+          <td width=60px align=center valign=top><a href=index.php?action=userPage&uid=999995272><img src=images/users/50x50/999995272.jpg width=50px height=50px border=none></a></td>
+          <td valign=top> 
+          <div class=justify>Korra é muito idiota --'</div>
+          <br>
+          <table width=60%><tr><td><small><font color=#808080>2013-09-23 11:05:35</font></small></td><td>  </td></tr></table>
+          </td>
+          <td valign=top align=right><object type="text/html" data="_like.php?cid=361960" WIDTH="42px" HEIGHT="32px" style="vertical-align:bottom"></object></td>
+      </tr>
+    </table>
+      </div>
+    </div>
+  </div>
+  
+    <div class="accordion-group">
+    <div class="accordion-heading"  style="background-color:#ffffff;"  >
+      <a class="accordion-toggle" data-toggle="collapse" href="#collapse-responde-361960"  >
+       <table width=100%><tr><td align=right>Responder</td></tr></table>
+      </a>
+    </div>
+    <div id="collapse-responde-361960" class="accordion-body collapse" style="background-color:#ffffff;">
+      <div class="accordion-inner">
+<form method=post action=index.php>
+<img src=images/users/0.gif width=50px height=50px>
+<textarea  class="field span8" name="comment" rows="3" cols="150" >
+</textarea>
+<input class="btn btn-primary" type=submit name="envia" value="Responder"> 
+
+<input type="hidden" name="serieid" value="5924">
+<input type="hidden" name="episode" value="15">
+<input type="hidden" name="action" value="se">
+<input type="hidden" name="type" value="">
+<input type="hidden" name="vinculo" value="361960">
+<input type="hidden" name="pag" value="1">
+
+
+</form>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="accordion" id="361929">
+  <div class="accordion-group">
+    <div class="accordion-heading"  style="background-color:#d2d2d2;"  >
+      <a class="accordion-toggle" data-toggle="collapse"  href="#collapse361929"  >
+        <font color="#7c1b2d">Notleh - <small><font color=#808080>  ·  Queimadas - PB - atribuiu 9</font></small> </font>
+      </a>
+    </div>
+    <div id="collapse361929" class="accordion-body collapse in" style="background-color:#ffffff;">
+      <div class="accordion-inner">
+       <table width=100%>
+      <tr>
+          <td width=60px align=center valign=top><a href=index.php?action=userPage&uid=999999387><img src=images/users/50x50/999999387.jpg width=50px height=50px border=none></a></td>
+          <td valign=top> 
+          <div class=justify>Apaixonado por Eska e Desna.</div>
+          <br>
+          <table width=60%><tr><td><small><font color=#808080>2013-09-23 10:31:39</font></small></td><td>  </td></tr></table>
+          </td>
+          <td valign=top align=right><object type="text/html" data="_like.php?cid=361929" WIDTH="42px" HEIGHT="32px" style="vertical-align:bottom"></object></td>
+      </tr>
+    </table>
+      </div>
+    </div>
+  </div>
+  
+    <div class="accordion-group">
+    <div class="accordion-heading"  style="background-color:#ffffff;"  >
+      <a class="accordion-toggle" data-toggle="collapse" href="#collapse-responde-361929"  >
+       <table width=100%><tr><td align=right>Responder</td></tr></table>
+      </a>
+    </div>
+    <div id="collapse-responde-361929" class="accordion-body collapse" style="background-color:#ffffff;">
+      <div class="accordion-inner">
+<form method=post action=index.php>
+<img src=images/users/0.gif width=50px height=50px>
+<textarea  class="field span8" name="comment" rows="3" cols="150" >
+</textarea>
+<input class="btn btn-primary" type=submit name="envia" value="Responder"> 
+
+<input type="hidden" name="serieid" value="5924">
+<input type="hidden" name="episode" value="15">
+<input type="hidden" name="action" value="se">
+<input type="hidden" name="type" value="">
+<input type="hidden" name="vinculo" value="361929">
+<input type="hidden" name="pag" value="1">
+
+
+</form>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="accordion" id="361756">
+  <div class="accordion-group">
+    <div class="accordion-heading"  style="background-color:#d2d2d2;"  >
+      <a class="accordion-toggle" data-toggle="collapse"  href="#collapse361756"  >
+        <font color="#7c1b2d">Jonathan - <small><font color=#808080>  ·  Araçatuba - SP - atribuiu 8.5</font></small> </font>
+      </a>
+    </div>
+    <div id="collapse361756" class="accordion-body collapse in" style="background-color:#ffffff;">
+      <div class="accordion-inner">
+       <table width=100%>
+      <tr>
+          <td width=60px align=center valign=top><a href=index.php?action=userPage&uid=1000004104><img src=images/users/50x50/1000004104.jpg width=50px height=50px border=none></a></td>
+          <td valign=top> 
+          <div class=justify>Gostei do episódio por mostrarem que Aang não foi perfeito, que teve falhas, como toda família tem. Eu penso que ele deveria dar mais atenção para o dobrador de ar, por serem mais parecido e tals. Eska e Desna rindo, AUHAUAHUAHAUHAU... O interessante de mostrarem uma guerra cívil começando é que isso vai fazer estourar outra guerra mundial quando pedirem aliança com as outras tribos. Vamos ver o que vai acontecer.</div>
+          <br>
+          <table width=60%><tr><td><small><font color=#808080>2013-09-23 04:49:51</font></small></td><td>  </td></tr></table>
+          </td>
+          <td valign=top align=right><object type="text/html" data="_like.php?cid=361756" WIDTH="42px" HEIGHT="32px" style="vertical-align:bottom"></object></td>
+      </tr>
+    </table>
+      </div>
+    </div>
+  </div>
+  
+    <div class="accordion-group">
+    <div class="accordion-heading"  style="background-color:#ffffff;"  >
+      <a class="accordion-toggle" data-toggle="collapse" href="#collapse-responde-361756"  >
+       <table width=100%><tr><td align=right>Responder</td></tr></table>
+      </a>
+    </div>
+    <div id="collapse-responde-361756" class="accordion-body collapse" style="background-color:#ffffff;">
+      <div class="accordion-inner">
+<form method=post action=index.php>
+<img src=images/users/0.gif width=50px height=50px>
+<textarea  class="field span8" name="comment" rows="3" cols="150" >
+</textarea>
+<input class="btn btn-primary" type=submit name="envia" value="Responder"> 
+
+<input type="hidden" name="serieid" value="5924">
+<input type="hidden" name="episode" value="15">
+<input type="hidden" name="action" value="se">
+<input type="hidden" name="type" value="">
+<input type="hidden" name="vinculo" value="361756">
+<input type="hidden" name="pag" value="1">
+
+
+</form>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="accordion" id="361409">
+  <div class="accordion-group">
+    <div class="accordion-heading"  style="background-color:#d2d2d2;"  >
+      <a class="accordion-toggle" data-toggle="collapse"  href="#collapse361409"  >
+        <font color="#7c1b2d">Davi Novaes - <small><font color=#808080>  ·  São Paulo - SP - atribuiu 8</font></small> </font>
+      </a>
+    </div>
+    <div id="collapse361409" class="accordion-body collapse in" style="background-color:#ffffff;">
+      <div class="accordion-inner">
+       <table width=100%>
+      <tr>
+          <td width=60px align=center valign=top><a href=index.php?action=userPage&uid=1000008424><img src=images/users/50x50/1000008424.jpg width=50px height=50px border=none></a></td>
+          <td valign=top> 
+          <div class=justify>Nunca confiei no Unalaq</div>
+          <br>
+          <table width=60%><tr><td><small><font color=#808080>2013-09-22 23:53:01</font></small></td><td>  </td></tr></table>
+          </td>
+          <td valign=top align=right><object type="text/html" data="_like.php?cid=361409" WIDTH="42px" HEIGHT="32px" style="vertical-align:bottom"></object></td>
+      </tr>
+    </table>
+      </div>
+    </div>
+  </div>
+  
+    <div class="accordion-group">
+    <div class="accordion-heading"  style="background-color:#ffffff;"  >
+      <a class="accordion-toggle" data-toggle="collapse" href="#collapse-responde-361409"  >
+       <table width=100%><tr><td align=right>Responder</td></tr></table>
+      </a>
+    </div>
+    <div id="collapse-responde-361409" class="accordion-body collapse" style="background-color:#ffffff;">
+      <div class="accordion-inner">
+<form method=post action=index.php>
+<img src=images/users/0.gif width=50px height=50px>
+<textarea  class="field span8" name="comment" rows="3" cols="150" >
+</textarea>
+<input class="btn btn-primary" type=submit name="envia" value="Responder"> 
+
+<input type="hidden" name="serieid" value="5924">
+<input type="hidden" name="episode" value="15">
+<input type="hidden" name="action" value="se">
+<input type="hidden" name="type" value="">
+<input type="hidden" name="vinculo" value="361409">
+<input type="hidden" name="pag" value="1">
+
+
+</form>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="accordion" id="361180">
+  <div class="accordion-group">
+    <div class="accordion-heading"  style="background-color:#d2d2d2;"  >
+      <a class="accordion-toggle" data-toggle="collapse"  href="#collapse361180"  >
+        <font color="#7c1b2d">CaioCouto - <small><font color=#808080>  ·  Maceió - AL - atribuiu 8</font></small> </font>
+      </a>
+    </div>
+    <div id="collapse361180" class="accordion-body collapse in" style="background-color:#ffffff;">
+      <div class="accordion-inner">
+       <table width=100%>
+      <tr>
+          <td width=60px align=center valign=top><a href=index.php?action=userPage&uid=1000003675><img src=images/users/50x50/1000003675.jpg width=50px height=50px border=none></a></td>
+          <td valign=top> 
+          <div class=justify>Quero Korra botando aquele FDP pra correr</div>
+          <br>
+          <table width=60%><tr><td><small><font color=#808080>2013-09-22 22:22:35</font></small></td><td>  </td></tr></table>
+          </td>
+          <td valign=top align=right><object type="text/html" data="_like.php?cid=361180" WIDTH="42px" HEIGHT="32px" style="vertical-align:bottom"></object></td>
+      </tr>
+    </table>
+      </div>
+    </div>
+  </div>
+  
+    <div class="accordion-group">
+    <div class="accordion-heading"  style="background-color:#ffffff;"  >
+      <a class="accordion-toggle" data-toggle="collapse" href="#collapse-responde-361180"  >
+       <table width=100%><tr><td align=right>Responder</td></tr></table>
+      </a>
+    </div>
+    <div id="collapse-responde-361180" class="accordion-body collapse" style="background-color:#ffffff;">
+      <div class="accordion-inner">
+<form method=post action=index.php>
+<img src=images/users/0.gif width=50px height=50px>
+<textarea  class="field span8" name="comment" rows="3" cols="150" >
+</textarea>
+<input class="btn btn-primary" type=submit name="envia" value="Responder"> 
+
+<input type="hidden" name="serieid" value="5924">
+<input type="hidden" name="episode" value="15">
+<input type="hidden" name="action" value="se">
+<input type="hidden" name="type" value="">
+<input type="hidden" name="vinculo" value="361180">
+<input type="hidden" name="pag" value="1">
+
+
+</form>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="accordion" id="360756">
+  <div class="accordion-group">
+    <div class="accordion-heading"  style="background-color:#d2d2d2;"  >
+      <a class="accordion-toggle" data-toggle="collapse"  href="#collapse360756"  >
+        <font color="#7c1b2d">Carla Sodré - <small><font color=#808080>  ·  São José dos Campos - SP - atribuiu 8.5</font></small> </font>
+      </a>
+    </div>
+    <div id="collapse360756" class="accordion-body collapse in" style="background-color:#ffffff;">
+      <div class="accordion-inner">
+       <table width=100%>
+      <tr>
+          <td width=60px align=center valign=top><a href=index.php?action=userPage&uid=587><img src=images/users/50x50/587.jpg width=50px height=50px border=none></a></td>
+          <td valign=top> 
+          <div class=justify>Unalaq achando que manda e desmanda em tudo. Desde quando botei os olhos nele já sabia que alguma coisa estava errada. E esse final agora? Espero que a Korra entre em seu estado badass pra revirar tudo isso.<br><br>E vimos que isso é só o começo, ainda tem muita luta pela frente.<br><br>Tô gostando bastante da trama com os filhos do Aang e também com os filhos do Tenzin. É sempre bom trazer essa parte da história pra perto. <br><br>Mas cadê os espíritos?</div>
+          <br>
+          <table width=60%><tr><td><small><font color=#808080>2013-09-22 17:39:50</font></small></td><td>  </td></tr></table>
+          </td>
+          <td valign=top align=right><object type="text/html" data="_like.php?cid=360756" WIDTH="42px" HEIGHT="32px" style="vertical-align:bottom"></object></td>
+      </tr>
+    </table>
+      </div>
+    </div>
+  </div>
+  
+    <div class="accordion-group">
+    <div class="accordion-heading"  style="background-color:#ffffff;"  >
+      <a class="accordion-toggle" data-toggle="collapse" href="#collapse-responde-360756"  >
+       <table width=100%><tr><td align=right>Responder</td></tr></table>
+      </a>
+    </div>
+    <div id="collapse-responde-360756" class="accordion-body collapse" style="background-color:#ffffff;">
+      <div class="accordion-inner">
+<form method=post action=index.php>
+<img src=images/users/0.gif width=50px height=50px>
+<textarea  class="field span8" name="comment" rows="3" cols="150" >
+</textarea>
+<input class="btn btn-primary" type=submit name="envia" value="Responder"> 
+
+<input type="hidden" name="serieid" value="5924">
+<input type="hidden" name="episode" value="15">
+<input type="hidden" name="action" value="se">
+<input type="hidden" name="type" value="">
+<input type="hidden" name="vinculo" value="360756">
+<input type="hidden" name="pag" value="1">
+
+
+</form>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="accordion" id="360731">
+  <div class="accordion-group">
+    <div class="accordion-heading"  style="background-color:#d2d2d2;"  >
+      <a class="accordion-toggle" data-toggle="collapse"  href="#collapse360731"  >
+        <font color="#7c1b2d">Alexandre - <small><font color=#808080> - atribuiu 8</font></small> </font>
+      </a>
+    </div>
+    <div id="collapse360731" class="accordion-body collapse in" style="background-color:#ffffff;">
+      <div class="accordion-inner">
+       <table width=100%>
+      <tr>
+          <td width=60px align=center valign=top><a href=index.php?action=userPage&uid=999994251><img src=images/users/50x50/999994251.jpg width=50px height=50px border=none></a></td>
+          <td valign=top> 
+          <div class=justify>O Unalaq invade a tribo do Sul,e  ainda se acha no direito de mandar e desmandar por lá? E agr a Korra vai tomar na cara por ter sido tão idiota²</div>
+          <br>
+          <table width=60%><tr><td><small><font color=#808080>2013-09-22 17:29:40</font></small></td><td>  </td></tr></table>
+          </td>
+          <td valign=top align=right><object type="text/html" data="_like.php?cid=360731" WIDTH="42px" HEIGHT="32px" style="vertical-align:bottom"></object></td>
+      </tr>
+    </table>
+      </div>
+    </div>
+  </div>
+  
+    <div class="accordion-group">
+    <div class="accordion-heading"  style="background-color:#ffffff;"  >
+      <a class="accordion-toggle" data-toggle="collapse" href="#collapse-responde-360731"  >
+       <table width=100%><tr><td align=right>Responder</td></tr></table>
+      </a>
+    </div>
+    <div id="collapse-responde-360731" class="accordion-body collapse" style="background-color:#ffffff;">
+      <div class="accordion-inner">
+<form method=post action=index.php>
+<img src=images/users/0.gif width=50px height=50px>
+<textarea  class="field span8" name="comment" rows="3" cols="150" >
+</textarea>
+<input class="btn btn-primary" type=submit name="envia" value="Responder"> 
+
+<input type="hidden" name="serieid" value="5924">
+<input type="hidden" name="episode" value="15">
+<input type="hidden" name="action" value="se">
+<input type="hidden" name="type" value="">
+<input type="hidden" name="vinculo" value="360731">
+<input type="hidden" name="pag" value="1">
+
+
+</form>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="accordion" id="360412">
+  <div class="accordion-group">
+    <div class="accordion-heading"  style="background-color:#d2d2d2;"  >
+      <a class="accordion-toggle" data-toggle="collapse"  href="#collapse360412"  >
+        <font color="#7c1b2d">Mariana - <small><font color=#808080> - atribuiu 8.5</font></small> </font>
+      </a>
+    </div>
+    <div id="collapse360412" class="accordion-body collapse in" style="background-color:#ffffff;">
+      <div class="accordion-inner">
+       <table width=100%>
+      <tr>
+          <td width=60px align=center valign=top><a href=index.php?action=userPage&uid=1000010683><img src=images/users/50x50/1000010683.jpg width=50px height=50px border=none></a></td>
+          <td valign=top> 
+          <div class=justify>E agr a Korra vai tomar na cara por ter sido tão idiota</div>
+          <br>
+          <table width=60%><tr><td><small><font color=#808080>2013-09-22 14:46:23</font></small></td><td>  </td></tr></table>
+          </td>
+          <td valign=top align=right><object type="text/html" data="_like.php?cid=360412" WIDTH="42px" HEIGHT="32px" style="vertical-align:bottom"></object></td>
+      </tr>
+    </table>
+      </div>
+    </div>
+  </div>
+  
+    <div class="accordion-group">
+    <div class="accordion-heading"  style="background-color:#ffffff;"  >
+      <a class="accordion-toggle" data-toggle="collapse" href="#collapse-responde-360412"  >
+       <table width=100%><tr><td align=right>Responder</td></tr></table>
+      </a>
+    </div>
+    <div id="collapse-responde-360412" class="accordion-body collapse" style="background-color:#ffffff;">
+      <div class="accordion-inner">
+<form method=post action=index.php>
+<img src=images/users/0.gif width=50px height=50px>
+<textarea  class="field span8" name="comment" rows="3" cols="150" >
+</textarea>
+<input class="btn btn-primary" type=submit name="envia" value="Responder"> 
+
+<input type="hidden" name="serieid" value="5924">
+<input type="hidden" name="episode" value="15">
+<input type="hidden" name="action" value="se">
+<input type="hidden" name="type" value="">
+<input type="hidden" name="vinculo" value="360412">
+<input type="hidden" name="pag" value="1">
+
+
+</form>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="accordion" id="360410">
+  <div class="accordion-group">
+    <div class="accordion-heading"  style="background-color:#d2d2d2;"  >
+      <a class="accordion-toggle" data-toggle="collapse"  href="#collapse360410"  >
+        <font color="#7c1b2d">Mariana - <small><font color=#808080> - atribuiu 8.5</font></small> </font>
+      </a>
+    </div>
+    <div id="collapse360410" class="accordion-body collapse in" style="background-color:#ffffff;">
+      <div class="accordion-inner">
+       <table width=100%>
+      <tr>
+          <td width=60px align=center valign=top><a href=index.php?action=userPage&uid=1000010683><img src=images/users/50x50/1000010683.jpg width=50px height=50px border=none></a></td>
+          <td valign=top> 
+          <div class=justify>N gostei do Bumi e da kya falando mau do Ang u.u</div>
+          <br>
+          <table width=60%><tr><td><small><font color=#808080>2013-09-22 14:45:51</font></small></td><td>  </td></tr></table>
+          </td>
+          <td valign=top align=right><object type="text/html" data="_like.php?cid=360410" WIDTH="42px" HEIGHT="32px" style="vertical-align:bottom"></object></td>
+      </tr>
+    </table>
+      </div>
+    </div>
+  </div>
+  
+    <div class="accordion-group">
+    <div class="accordion-heading"  style="background-color:#ffffff;"  >
+      <a class="accordion-toggle" data-toggle="collapse" href="#collapse-responde-360410"  >
+       <table width=100%><tr><td align=right>Responder</td></tr></table>
+      </a>
+    </div>
+    <div id="collapse-responde-360410" class="accordion-body collapse" style="background-color:#ffffff;">
+      <div class="accordion-inner">
+<form method=post action=index.php>
+<img src=images/users/0.gif width=50px height=50px>
+<textarea  class="field span8" name="comment" rows="3" cols="150" >
+</textarea>
+<input class="btn btn-primary" type=submit name="envia" value="Responder"> 
+
+<input type="hidden" name="serieid" value="5924">
+<input type="hidden" name="episode" value="15">
+<input type="hidden" name="action" value="se">
+<input type="hidden" name="type" value="">
+<input type="hidden" name="vinculo" value="360410">
+<input type="hidden" name="pag" value="1">
+
+
+</form>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="accordion" id="360273">
+  <div class="accordion-group">
+    <div class="accordion-heading"  style="background-color:#d2d2d2;"  >
+      <a class="accordion-toggle" data-toggle="collapse"  href="#collapse360273"  >
+        <font color="#7c1b2d">Raphael - <small><font color=#808080>  ·  Olinda - PE - atribuiu 8.5</font></small> </font>
+      </a>
+    </div>
+    <div id="collapse360273" class="accordion-body collapse in" style="background-color:#ffffff;">
+      <div class="accordion-inner">
+       <table width=100%>
+      <tr>
+          <td width=60px align=center valign=top><a href=index.php?action=userPage&uid=999992787><img src=images/users/50x50/999992787.jpg width=50px height=50px border=none></a></td>
+          <td valign=top> 
+          <div class=justify>Bom episódio. <br><br>Odeio o Unalaq.</div>
+          <br>
+          <table width=60%><tr><td><small><font color=#808080>2013-09-22 13:40:27</font></small></td><td>  </td></tr></table>
+          </td>
+          <td valign=top align=right><object type="text/html" data="_like.php?cid=360273" WIDTH="42px" HEIGHT="32px" style="vertical-align:bottom"></object></td>
+      </tr>
+    </table>
+      </div>
+    </div>
+  </div>
+  
+    <div class="accordion-group">
+    <div class="accordion-heading"  style="background-color:#ffffff;"  >
+      <a class="accordion-toggle" data-toggle="collapse" href="#collapse-responde-360273"  >
+       <table width=100%><tr><td align=right>Responder</td></tr></table>
+      </a>
+    </div>
+    <div id="collapse-responde-360273" class="accordion-body collapse" style="background-color:#ffffff;">
+      <div class="accordion-inner">
+<form method=post action=index.php>
+<img src=images/users/0.gif width=50px height=50px>
+<textarea  class="field span8" name="comment" rows="3" cols="150" >
+</textarea>
+<input class="btn btn-primary" type=submit name="envia" value="Responder"> 
+
+<input type="hidden" name="serieid" value="5924">
+<input type="hidden" name="episode" value="15">
+<input type="hidden" name="action" value="se">
+<input type="hidden" name="type" value="">
+<input type="hidden" name="vinculo" value="360273">
+<input type="hidden" name="pag" value="1">
+
+
+</form>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="accordion" id="360212">
+  <div class="accordion-group">
+    <div class="accordion-heading"  style="background-color:#d2d2d2;"  >
+      <a class="accordion-toggle" data-toggle="collapse"  href="#collapse360212"  >
+        <font color="#7c1b2d">Cleber Segundo - <small><font color=#808080>  ·  SALVADOR - BA - atribuiu 8</font></small> </font>
+      </a>
+    </div>
+    <div id="collapse360212" class="accordion-body collapse in" style="background-color:#ffffff;">
+      <div class="accordion-inner">
+       <table width=100%>
+      <tr>
+          <td width=60px align=center valign=top><a href=index.php?action=userPage&uid=1000002807><img src=images/users/50x50/1000002807.jpg width=50px height=50px border=none></a></td>
+          <td valign=top> 
+          <div class=justify>um bom episodio introdutório para os conflitos que haverão mais a frente.<br><br>Korra vai para cima do tio com tudo se ele permanecer nesta linha de domínio total do norte e sul.</div>
+          <br>
+          <table width=60%><tr><td><small><font color=#808080>2013-09-22 12:55:50</font></small></td><td>  </td></tr></table>
+          </td>
+          <td valign=top align=right><object type="text/html" data="_like.php?cid=360212" WIDTH="42px" HEIGHT="32px" style="vertical-align:bottom"></object></td>
+      </tr>
+    </table>
+      </div>
+    </div>
+  </div>
+  
+    <div class="accordion-group">
+    <div class="accordion-heading"  style="background-color:#ffffff;"  >
+      <a class="accordion-toggle" data-toggle="collapse" href="#collapse-responde-360212"  >
+       <table width=100%><tr><td align=right>Responder</td></tr></table>
+      </a>
+    </div>
+    <div id="collapse-responde-360212" class="accordion-body collapse" style="background-color:#ffffff;">
+      <div class="accordion-inner">
+<form method=post action=index.php>
+<img src=images/users/0.gif width=50px height=50px>
+<textarea  class="field span8" name="comment" rows="3" cols="150" >
+</textarea>
+<input class="btn btn-primary" type=submit name="envia" value="Responder"> 
+
+<input type="hidden" name="serieid" value="5924">
+<input type="hidden" name="episode" value="15">
+<input type="hidden" name="action" value="se">
+<input type="hidden" name="type" value="">
+<input type="hidden" name="vinculo" value="360212">
+<input type="hidden" name="pag" value="1">
+
+
+</form>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="accordion" id="360205">
+  <div class="accordion-group">
+    <div class="accordion-heading"  style="background-color:#d2d2d2;"  >
+      <a class="accordion-toggle" data-toggle="collapse"  href="#collapse360205"  >
+        <font color="#7c1b2d">tine - <small><font color=#808080> - atribuiu 10</font></small> </font>
+      </a>
+    </div>
+    <div id="collapse360205" class="accordion-body collapse in" style="background-color:#ffffff;">
+      <div class="accordion-inner">
+       <table width=100%>
+      <tr>
+          <td width=60px align=center valign=top><a href=index.php?action=userPage&uid=1000017980><img src=images/users/50x50/1000017980.jpg width=50px height=50px border=none></a></td>
+          <td valign=top> 
+          <div class=justify>argh, que tio maldito</div>
+          <br>
+          <table width=60%><tr><td><small><font color=#808080>2013-09-22 12:51:27</font></small></td><td>  </td></tr></table>
+          </td>
+          <td valign=top align=right><object type="text/html" data="_like.php?cid=360205" WIDTH="42px" HEIGHT="32px" style="vertical-align:bottom"></object></td>
+      </tr>
+    </table>
+      </div>
+    </div>
+  </div>
+  
+    <div class="accordion-group">
+    <div class="accordion-heading"  style="background-color:#ffffff;"  >
+      <a class="accordion-toggle" data-toggle="collapse" href="#collapse-responde-360205"  >
+       <table width=100%><tr><td align=right>Responder</td></tr></table>
+      </a>
+    </div>
+    <div id="collapse-responde-360205" class="accordion-body collapse" style="background-color:#ffffff;">
+      <div class="accordion-inner">
+<form method=post action=index.php>
+<img src=images/users/0.gif width=50px height=50px>
+<textarea  class="field span8" name="comment" rows="3" cols="150" >
+</textarea>
+<input class="btn btn-primary" type=submit name="envia" value="Responder"> 
+
+<input type="hidden" name="serieid" value="5924">
+<input type="hidden" name="episode" value="15">
+<input type="hidden" name="action" value="se">
+<input type="hidden" name="type" value="">
+<input type="hidden" name="vinculo" value="360205">
+<input type="hidden" name="pag" value="1">
+
+
+</form>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="accordion" id="360038">
+  <div class="accordion-group">
+    <div class="accordion-heading"  style="background-color:#d2d2d2;"  >
+      <a class="accordion-toggle" data-toggle="collapse"  href="#collapse360038"  >
+        <font color="#7c1b2d">César - <small><font color=#808080> - atribuiu 8.5</font></small> </font>
+      </a>
+    </div>
+    <div id="collapse360038" class="accordion-body collapse in" style="background-color:#ffffff;">
+      <div class="accordion-inner">
+       <table width=100%>
+      <tr>
+          <td width=60px align=center valign=top><a href=index.php?action=userPage&uid=1000002021><img src=images/users/50x50/1000002021.jpg width=50px height=50px border=none></a></td>
+          <td valign=top> 
+          <div class=justify>as risadas da Eska e do Desna foram d+ hahaha<br><br>tbm to gostando desse plot dos irmãos<br><br>agora quero ver a Korra revolts no estado avatar toda badass<br><br>e por ultimo, cade a Ikki?</div>
+          <br>
+          <table width=60%><tr><td><small><font color=#808080>2013-09-22 10:12:33</font></small></td><td>  </td></tr></table>
+          </td>
+          <td valign=top align=right><object type="text/html" data="_like.php?cid=360038" WIDTH="42px" HEIGHT="32px" style="vertical-align:bottom"></object></td>
+      </tr>
+    </table>
+      </div>
+    </div>
+  </div>
+  
+    <div class="accordion-group">
+    <div class="accordion-heading"  style="background-color:#ffffff;"  >
+      <a class="accordion-toggle" data-toggle="collapse" href="#collapse-responde-360038"  >
+       <table width=100%><tr><td align=right>Responder</td></tr></table>
+      </a>
+    </div>
+    <div id="collapse-responde-360038" class="accordion-body collapse" style="background-color:#ffffff;">
+      <div class="accordion-inner">
+<form method=post action=index.php>
+<img src=images/users/0.gif width=50px height=50px>
+<textarea  class="field span8" name="comment" rows="3" cols="150" >
+</textarea>
+<input class="btn btn-primary" type=submit name="envia" value="Responder"> 
+
+<input type="hidden" name="serieid" value="5924">
+<input type="hidden" name="episode" value="15">
+<input type="hidden" name="action" value="se">
+<input type="hidden" name="type" value="">
+<input type="hidden" name="vinculo" value="360038">
+<input type="hidden" name="pag" value="1">
+
+
+</form>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="accordion" id="359998">
+  <div class="accordion-group">
+    <div class="accordion-heading"  style="background-color:#d2d2d2;"  >
+      <a class="accordion-toggle" data-toggle="collapse"  href="#collapse359998"  >
+        <font color="#7c1b2d">Ian Medeiros - <small><font color=#808080> - atribuiu 8.5</font></small> </font>
+      </a>
+    </div>
+    <div id="collapse359998" class="accordion-body collapse in" style="background-color:#ffffff;">
+      <div class="accordion-inner">
+       <table width=100%>
+      <tr>
+          <td width=60px align=center valign=top><a href=index.php?action=userPage&uid=1000005837><img src=images/users/50x50/1000005837.jpg width=50px height=50px border=none></a></td>
+          <td valign=top> 
+          <div class=justify>E o Unloq não para de ficar mais suspeito a cada episódio.</div>
+          <br>
+          <table width=60%><tr><td><small><font color=#808080>2013-09-22 08:33:36</font></small></td><td>  </td></tr></table>
+          </td>
+          <td valign=top align=right><object type="text/html" data="_like.php?cid=359998" WIDTH="42px" HEIGHT="32px" style="vertical-align:bottom"></object></td>
+      </tr>
+    </table>
+      </div>
+    </div>
+  </div>
+  
+    <div class="accordion-group">
+    <div class="accordion-heading"  style="background-color:#ffffff;"  >
+      <a class="accordion-toggle" data-toggle="collapse" href="#collapse-responde-359998"  >
+       <table width=100%><tr><td align=right>Responder</td></tr></table>
+      </a>
+    </div>
+    <div id="collapse-responde-359998" class="accordion-body collapse" style="background-color:#ffffff;">
+      <div class="accordion-inner">
+<form method=post action=index.php>
+<img src=images/users/0.gif width=50px height=50px>
+<textarea  class="field span8" name="comment" rows="3" cols="150" >
+</textarea>
+<input class="btn btn-primary" type=submit name="envia" value="Responder"> 
+
+<input type="hidden" name="serieid" value="5924">
+<input type="hidden" name="episode" value="15">
+<input type="hidden" name="action" value="se">
+<input type="hidden" name="type" value="">
+<input type="hidden" name="vinculo" value="359998">
+<input type="hidden" name="pag" value="1">
+
+
+</form>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="accordion" id="359846">
+  <div class="accordion-group">
+    <div class="accordion-heading"  style="background-color:#d2d2d2;"  >
+      <a class="accordion-toggle" data-toggle="collapse"  href="#collapse359846"  >
+        <font color="#7c1b2d">Daniele Ribeiro - <small><font color=#808080>  ·  Rio de Janeiro - RJ - atribuiu 9</font></small> </font>
+      </a>
+    </div>
+    <div id="collapse359846" class="accordion-body collapse in" style="background-color:#ffffff;">
+      <div class="accordion-inner">
+       <table width=100%>
+      <tr>
+          <td width=60px align=center valign=top><a href=index.php?action=userPage&uid=1000008244><img src=images/users/50x50/1000008244.jpg width=50px height=50px border=none></a></td>
+          <td valign=top> 
+          <div class=justify>- Eska muito tensa!<br>- Esse tio está me cheirando a treta, não confio nele.<br>- Plot dos filho do Aang muito mais interessante. </div>
+          <br>
+          <table width=60%><tr><td><small><font color=#808080>2013-09-22 02:48:27</font></small></td><td>  </td></tr></table>
+          </td>
+          <td valign=top align=right><object type="text/html" data="_like.php?cid=359846" WIDTH="42px" HEIGHT="32px" style="vertical-align:bottom"></object></td>
+      </tr>
+    </table>
+      </div>
+    </div>
+  </div>
+  
+    <div class="accordion-group">
+    <div class="accordion-heading"  style="background-color:#ffffff;"  >
+      <a class="accordion-toggle" data-toggle="collapse" href="#collapse-responde-359846"  >
+       <table width=100%><tr><td align=right>Responder</td></tr></table>
+      </a>
+    </div>
+    <div id="collapse-responde-359846" class="accordion-body collapse" style="background-color:#ffffff;">
+      <div class="accordion-inner">
+<form method=post action=index.php>
+<img src=images/users/0.gif width=50px height=50px>
+<textarea  class="field span8" name="comment" rows="3" cols="150" >
+</textarea>
+<input class="btn btn-primary" type=submit name="envia" value="Responder"> 
+
+<input type="hidden" name="serieid" value="5924">
+<input type="hidden" name="episode" value="15">
+<input type="hidden" name="action" value="se">
+<input type="hidden" name="type" value="">
+<input type="hidden" name="vinculo" value="359846">
+<input type="hidden" name="pag" value="1">
+
+
+</form>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="accordion" id="359836">
+  <div class="accordion-group">
+    <div class="accordion-heading"  style="background-color:#d2d2d2;"  >
+      <a class="accordion-toggle" data-toggle="collapse"  href="#collapse359836"  >
+        <font color="#7c1b2d">Guilherme Camargo - <small><font color=#808080>  ·  São João Del-Rei - MG - atribuiu 8.5</font></small> </font>
+      </a>
+    </div>
+    <div id="collapse359836" class="accordion-body collapse in" style="background-color:#ffffff;">
+      <div class="accordion-inner">
+       <table width=100%>
+      <tr>
+          <td width=60px align=center valign=top><a href=index.php?action=userPage&uid=1000004730><img src=images/users/50x50/1000004730.jpg width=50px height=50px border=none></a></td>
+          <td valign=top> 
+          <div class=justify>E essa risada da Eska?<br>AUBREY PLAZA CASA COMIGO</div>
+          <br>
+          <table width=60%><tr><td><small><font color=#808080>2013-09-22 02:41:34</font></small></td><td>  </td></tr></table>
+          </td>
+          <td valign=top align=right><object type="text/html" data="_like.php?cid=359836" WIDTH="42px" HEIGHT="32px" style="vertical-align:bottom"></object></td>
+      </tr>
+    </table>
+      </div>
+    </div>
+  </div>
+  
+    <div class="accordion-group">
+    <div class="accordion-heading"  style="background-color:#ffffff;"  >
+      <a class="accordion-toggle" data-toggle="collapse" href="#collapse-responde-359836"  >
+       <table width=100%><tr><td align=right>Responder</td></tr></table>
+      </a>
+    </div>
+    <div id="collapse-responde-359836" class="accordion-body collapse" style="background-color:#ffffff;">
+      <div class="accordion-inner">
+<form method=post action=index.php>
+<img src=images/users/0.gif width=50px height=50px>
+<textarea  class="field span8" name="comment" rows="3" cols="150" >
+</textarea>
+<input class="btn btn-primary" type=submit name="envia" value="Responder"> 
+
+<input type="hidden" name="serieid" value="5924">
+<input type="hidden" name="episode" value="15">
+<input type="hidden" name="action" value="se">
+<input type="hidden" name="type" value="">
+<input type="hidden" name="vinculo" value="359836">
+<input type="hidden" name="pag" value="1">
+
+
+</form>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="accordion" id="359818">
+  <div class="accordion-group">
+    <div class="accordion-heading"  style="background-color:#d2d2d2;"  >
+      <a class="accordion-toggle" data-toggle="collapse"  href="#collapse359818"  >
+        <font color="#7c1b2d">Guilherme Camargo - <small><font color=#808080>  ·  São João Del-Rei - MG - atribuiu 8.5</font></small> </font>
+      </a>
+    </div>
+    <div id="collapse359818" class="accordion-body collapse in" style="background-color:#ffffff;">
+      <div class="accordion-inner">
+       <table width=100%>
+      <tr>
+          <td width=60px align=center valign=top><a href=index.php?action=userPage&uid=1000004730><img src=images/users/50x50/1000004730.jpg width=50px height=50px border=none></a></td>
+          <td valign=top> 
+          <div class=justify>Não sei vocês, mas to com saudades da Lin. :(</div>
+          <br>
+          <table width=60%><tr><td><small><font color=#808080>2013-09-22 02:22:49</font></small></td><td>  </td></tr></table>
+          </td>
+          <td valign=top align=right><object type="text/html" data="_like.php?cid=359818" WIDTH="42px" HEIGHT="32px" style="vertical-align:bottom"></object></td>
+      </tr>
+    </table>
+      </div>
+    </div>
+  </div>
+  
+    <div class="accordion-group">
+    <div class="accordion-heading"  style="background-color:#ffffff;"  >
+      <a class="accordion-toggle" data-toggle="collapse" href="#collapse-responde-359818"  >
+       <table width=100%><tr><td align=right>Responder</td></tr></table>
+      </a>
+    </div>
+    <div id="collapse-responde-359818" class="accordion-body collapse" style="background-color:#ffffff;">
+      <div class="accordion-inner">
+<form method=post action=index.php>
+<img src=images/users/0.gif width=50px height=50px>
+<textarea  class="field span8" name="comment" rows="3" cols="150" >
+</textarea>
+<input class="btn btn-primary" type=submit name="envia" value="Responder"> 
+
+<input type="hidden" name="serieid" value="5924">
+<input type="hidden" name="episode" value="15">
+<input type="hidden" name="action" value="se">
+<input type="hidden" name="type" value="">
+<input type="hidden" name="vinculo" value="359818">
+<input type="hidden" name="pag" value="1">
+
+
+</form>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="accordion" id="359752">
+  <div class="accordion-group">
+    <div class="accordion-heading"  style="background-color:#d2d2d2;"  >
+      <a class="accordion-toggle" data-toggle="collapse"  href="#collapse359752"  >
+        <font color="#7c1b2d">Milton Gomes - <small><font color=#808080>  ·  Guaratinguetá - SP - atribuiu 8</font></small> </font>
+      </a>
+    </div>
+    <div id="collapse359752" class="accordion-body collapse in" style="background-color:#ffffff;">
+      <div class="accordion-inner">
+       <table width=100%>
+      <tr>
+          <td width=60px align=center valign=top><a href=index.php?action=userPage&uid=1000010853><img src=images/users/50x50/1000010853.jpg width=50px height=50px border=none></a></td>
+          <td valign=top> 
+          <div class=justify>O que são as risadas da Eska e do Desna HASUHAUHS<br><br>Muito bom saber mais sobre os outros filhos do Aang.<br><br>Uma parte dos personagens estão perdidos na história, espero que um objetivo maior junte eles.</div>
+          <br>
+          <table width=60%><tr><td><small><font color=#808080>2013-09-22 01:33:55</font></small></td><td>  </td></tr></table>
+          </td>
+          <td valign=top align=right><object type="text/html" data="_like.php?cid=359752" WIDTH="42px" HEIGHT="32px" style="vertical-align:bottom"></object></td>
+      </tr>
+    </table>
+      </div>
+    </div>
+  </div>
+  
+    <div class="accordion-group">
+    <div class="accordion-heading"  style="background-color:#ffffff;"  >
+      <a class="accordion-toggle" data-toggle="collapse" href="#collapse-responde-359752"  >
+       <table width=100%><tr><td align=right>Responder</td></tr></table>
+      </a>
+    </div>
+    <div id="collapse-responde-359752" class="accordion-body collapse" style="background-color:#ffffff;">
+      <div class="accordion-inner">
+<form method=post action=index.php>
+<img src=images/users/0.gif width=50px height=50px>
+<textarea  class="field span8" name="comment" rows="3" cols="150" >
+</textarea>
+<input class="btn btn-primary" type=submit name="envia" value="Responder"> 
+
+<input type="hidden" name="serieid" value="5924">
+<input type="hidden" name="episode" value="15">
+<input type="hidden" name="action" value="se">
+<input type="hidden" name="type" value="">
+<input type="hidden" name="vinculo" value="359752">
+<input type="hidden" name="pag" value="1">
+
+
+</form>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="accordion" id="359642">
+  <div class="accordion-group">
+    <div class="accordion-heading"  style="background-color:#d2d2d2;"  >
+      <a class="accordion-toggle" data-toggle="collapse"  href="#collapse359642"  >
+        <font color="#7c1b2d">Amanda Curtarelli - <small><font color=#808080> - atribuiu 8</font></small> </font>
+      </a>
+    </div>
+    <div id="collapse359642" class="accordion-body collapse in" style="background-color:#ffffff;">
+      <div class="accordion-inner">
+       <table width=100%>
+      <tr>
+          <td width=60px align=center valign=top><a href=index.php?action=userPage&uid=1000001819><img src=images/users/50x50/1000001819.jpg width=50px height=50px border=none></a></td>
+          <td valign=top> 
+          <div class=justify>o ritmo e a história da primeira temporada me fazia acreditar em tudo que aparecia na tela da tv, agora tô achando essa situação um pouco forçada, além de descaracterizar um pouco os personagens.</div>
+          <br>
+          <table width=60%><tr><td><small><font color=#808080>2013-09-22 00:15:48</font></small></td><td>  </td></tr></table>
+          </td>
+          <td valign=top align=right><object type="text/html" data="_like.php?cid=359642" WIDTH="42px" HEIGHT="32px" style="vertical-align:bottom"></object></td>
+      </tr>
+    </table>
+      </div>
+    </div>
+  </div>
+  
+    <div class="accordion-group">
+    <div class="accordion-heading"  style="background-color:#ffffff;"  >
+      <a class="accordion-toggle" data-toggle="collapse" href="#collapse-responde-359642"  >
+       <table width=100%><tr><td align=right>Responder</td></tr></table>
+      </a>
+    </div>
+    <div id="collapse-responde-359642" class="accordion-body collapse" style="background-color:#ffffff;">
+      <div class="accordion-inner">
+<form method=post action=index.php>
+<img src=images/users/0.gif width=50px height=50px>
+<textarea  class="field span8" name="comment" rows="3" cols="150" >
+</textarea>
+<input class="btn btn-primary" type=submit name="envia" value="Responder"> 
+
+<input type="hidden" name="serieid" value="5924">
+<input type="hidden" name="episode" value="15">
+<input type="hidden" name="action" value="se">
+<input type="hidden" name="type" value="">
+<input type="hidden" name="vinculo" value="359642">
+<input type="hidden" name="pag" value="1">
+
+
+</form>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="accordion" id="359623">
+  <div class="accordion-group">
+    <div class="accordion-heading"  style="background-color:#d2d2d2;"  >
+      <a class="accordion-toggle" data-toggle="collapse"  href="#collapse359623"  >
+        <font color="#7c1b2d">Aldeir Paiva - <small><font color=#808080>  ·  Rio Branco - AC - atribuiu 10</font></small> </font>
+      </a>
+    </div>
+    <div id="collapse359623" class="accordion-body collapse in" style="background-color:#ffffff;">
+      <div class="accordion-inner">
+       <table width=100%>
+      <tr>
+          <td width=60px align=center valign=top><a href=index.php?action=userPage&uid=1000000570><img src=images/users/50x50/1000000570.jpg width=50px height=50px border=none></a></td>
+          <td valign=top> 
+          <div class=justify>Eu choro todos os episódios :v</div>
+          <br>
+          <table width=60%><tr><td><small><font color=#808080>2013-09-22 00:03:47</font></small></td><td>  </td></tr></table>
+          </td>
+          <td valign=top align=right><object type="text/html" data="_like.php?cid=359623" WIDTH="42px" HEIGHT="32px" style="vertical-align:bottom"></object></td>
+      </tr>
+    </table>
+      </div>
+    </div>
+  </div>
+  
+    <div class="accordion-group">
+    <div class="accordion-heading"  style="background-color:#ffffff;"  >
+      <a class="accordion-toggle" data-toggle="collapse" href="#collapse-responde-359623"  >
+       <table width=100%><tr><td align=right>Responder</td></tr></table>
+      </a>
+    </div>
+    <div id="collapse-responde-359623" class="accordion-body collapse" style="background-color:#ffffff;">
+      <div class="accordion-inner">
+<form method=post action=index.php>
+<img src=images/users/0.gif width=50px height=50px>
+<textarea  class="field span8" name="comment" rows="3" cols="150" >
+</textarea>
+<input class="btn btn-primary" type=submit name="envia" value="Responder"> 
+
+<input type="hidden" name="serieid" value="5924">
+<input type="hidden" name="episode" value="15">
+<input type="hidden" name="action" value="se">
+<input type="hidden" name="type" value="">
+<input type="hidden" name="vinculo" value="359623">
+<input type="hidden" name="pag" value="1">
+
+
+</form>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="accordion" id="359567">
+  <div class="accordion-group">
+    <div class="accordion-heading"  style="background-color:#d2d2d2;"  >
+      <a class="accordion-toggle" data-toggle="collapse"  href="#collapse359567"  >
+        <font color="#7c1b2d">chrystian - <small><font color=#808080>  ·  Guarujá - SP - atribuiu 9.5</font></small> </font>
+      </a>
+    </div>
+    <div id="collapse359567" class="accordion-body collapse in" style="background-color:#ffffff;">
+      <div class="accordion-inner">
+       <table width=100%>
+      <tr>
+          <td width=60px align=center valign=top><a href=index.php?action=userPage&uid=999994832><img src=images/users/50x50/999994832.jpg width=50px height=50px border=none></a></td>
+          <td valign=top> 
+          <div class=justify>que episódio maravilhoso! sério, eu amei as menções que tiveram sobre o avatar passado e essa temporada pra mim ta conseguindo ficar muito acima do nivel da primeira. tão mostrando o resto do universo do "antigo" avatar, e eu tenho certeza que a gente ainda vai visitar lugares que a gente ja tinha visitado em the last airbender. aliás, se a primeira temporada era focada naquele jogo de dobras e naquele vilão do final, essa com certeza vai trazer toda essência avatar que a gente conhecia. já to amando viu, muito perfeito</div>
+          <br>
+          <table width=60%><tr><td><small><font color=#808080>2013-09-21 23:31:34</font></small></td><td>  </td></tr></table>
+          </td>
+          <td valign=top align=right><object type="text/html" data="_like.php?cid=359567" WIDTH="42px" HEIGHT="32px" style="vertical-align:bottom"></object></td>
+      </tr>
+    </table>
+      </div>
+    </div>
+  </div>
+  
+    <div class="accordion-group">
+    <div class="accordion-heading"  style="background-color:#ffffff;"  >
+      <a class="accordion-toggle" data-toggle="collapse" href="#collapse-responde-359567"  >
+       <table width=100%><tr><td align=right>Responder</td></tr></table>
+      </a>
+    </div>
+    <div id="collapse-responde-359567" class="accordion-body collapse" style="background-color:#ffffff;">
+      <div class="accordion-inner">
+<form method=post action=index.php>
+<img src=images/users/0.gif width=50px height=50px>
+<textarea  class="field span8" name="comment" rows="3" cols="150" >
+</textarea>
+<input class="btn btn-primary" type=submit name="envia" value="Responder"> 
+
+<input type="hidden" name="serieid" value="5924">
+<input type="hidden" name="episode" value="15">
+<input type="hidden" name="action" value="se">
+<input type="hidden" name="type" value="">
+<input type="hidden" name="vinculo" value="359567">
+<input type="hidden" name="pag" value="1">
+
+
+</form>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="accordion" id="359475">
+  <div class="accordion-group">
+    <div class="accordion-heading"  style="background-color:#d2d2d2;"  >
+      <a class="accordion-toggle" data-toggle="collapse"  href="#collapse359475"  >
+        <font color="#7c1b2d">Well - <small><font color=#808080>  ·  Santos - SP - atribuiu 8</font></small> </font>
+      </a>
+    </div>
+    <div id="collapse359475" class="accordion-body collapse in" style="background-color:#ffffff;">
+      <div class="accordion-inner">
+       <table width=100%>
+      <tr>
+          <td width=60px align=center valign=top><a href=index.php?action=userPage&uid=999996527><img src=images/users/50x50/999996527.jpg width=50px height=50px border=none></a></td>
+          <td valign=top> 
+          <div class=justify>Adorei o destaque que deram pros filhos do Aang e espero que deem mais destaque para Mako e Bolin que estão avulsos demais e a Asami que foi totalmente esquecida</div>
+          <br>
+          <table width=60%><tr><td><small><font color=#808080>2013-09-21 22:32:56</font></small></td><td>  </td></tr></table>
+          </td>
+          <td valign=top align=right><object type="text/html" data="_like.php?cid=359475" WIDTH="42px" HEIGHT="32px" style="vertical-align:bottom"></object></td>
+      </tr>
+    </table>
+      </div>
+    </div>
+  </div>
+  
+    <div class="accordion-group">
+    <div class="accordion-heading"  style="background-color:#ffffff;"  >
+      <a class="accordion-toggle" data-toggle="collapse" href="#collapse-responde-359475"  >
+       <table width=100%><tr><td align=right>Responder</td></tr></table>
+      </a>
+    </div>
+    <div id="collapse-responde-359475" class="accordion-body collapse" style="background-color:#ffffff;">
+      <div class="accordion-inner">
+<form method=post action=index.php>
+<img src=images/users/0.gif width=50px height=50px>
+<textarea  class="field span8" name="comment" rows="3" cols="150" >
+</textarea>
+<input class="btn btn-primary" type=submit name="envia" value="Responder"> 
+
+<input type="hidden" name="serieid" value="5924">
+<input type="hidden" name="episode" value="15">
+<input type="hidden" name="action" value="se">
+<input type="hidden" name="type" value="">
+<input type="hidden" name="vinculo" value="359475">
+<input type="hidden" name="pag" value="1">
+
+
+</form>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="accordion" id="359443">
+  <div class="accordion-group">
+    <div class="accordion-heading"  style="background-color:#d2d2d2;"  >
+      <a class="accordion-toggle" data-toggle="collapse"  href="#collapse359443"  >
+        <font color="#7c1b2d">GustaveHokage - <small><font color=#808080> - atribuiu 7</font></small> </font>
+      </a>
+    </div>
+    <div id="collapse359443" class="accordion-body collapse in" style="background-color:#ffffff;">
+      <div class="accordion-inner">
+       <table width=100%>
+      <tr>
+          <td width=60px align=center valign=top><a href=index.php?action=userPage&uid=1000007671><img src=images/users/50x50/1000007671.jpg width=50px height=50px border=none></a></td>
+          <td valign=top> 
+          <div class=justify>Não tem o mesmo ritmo da primeira temporada... =X</div>
+          <br>
+          <table width=60%><tr><td><small><font color=#808080>2013-09-21 22:14:59</font></small></td><td>  </td></tr></table>
+          </td>
+          <td valign=top align=right><object type="text/html" data="_like.php?cid=359443" WIDTH="42px" HEIGHT="32px" style="vertical-align:bottom"></object></td>
+      </tr>
+    </table>
+      </div>
+    </div>
+  </div>
+  
+    <div class="accordion-group">
+    <div class="accordion-heading"  style="background-color:#ffffff;"  >
+      <a class="accordion-toggle" data-toggle="collapse" href="#collapse-responde-359443"  >
+       <table width=100%><tr><td align=right>Responder</td></tr></table>
+      </a>
+    </div>
+    <div id="collapse-responde-359443" class="accordion-body collapse" style="background-color:#ffffff;">
+      <div class="accordion-inner">
+<form method=post action=index.php>
+<img src=images/users/0.gif width=50px height=50px>
+<textarea  class="field span8" name="comment" rows="3" cols="150" >
+</textarea>
+<input class="btn btn-primary" type=submit name="envia" value="Responder"> 
+
+<input type="hidden" name="serieid" value="5924">
+<input type="hidden" name="episode" value="15">
+<input type="hidden" name="action" value="se">
+<input type="hidden" name="type" value="">
+<input type="hidden" name="vinculo" value="359443">
+<input type="hidden" name="pag" value="1">
+
+
+</form>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="accordion" id="359325">
+  <div class="accordion-group">
+    <div class="accordion-heading"  style="background-color:#d2d2d2;"  >
+      <a class="accordion-toggle" data-toggle="collapse"  href="#collapse359325"  >
+        <font color="#7c1b2d">Lucas-S - <small><font color=#808080> - atribuiu 8.5</font></small> </font>
+      </a>
+    </div>
+    <div id="collapse359325" class="accordion-body collapse in" style="background-color:#ffffff;">
+      <div class="accordion-inner">
+       <table width=100%>
+      <tr>
+          <td width=60px align=center valign=top><a href=index.php?action=userPage&uid=999992887><img src=images/users/50x50/999992887.jpg width=50px height=50px border=none></a></td>
+          <td valign=top> 
+          <div class=justify>Esse episódio foi apenas uma preparação para o próximo. Quero ver a Korra com fogo nos ohos depois daquele final! Aliás, onde está a Asami?</div>
+          <br>
+          <table width=60%><tr><td><small><font color=#808080>2013-09-21 20:47:12</font></small></td><td>  </td></tr></table>
+          </td>
+          <td valign=top align=right><object type="text/html" data="_like.php?cid=359325" WIDTH="42px" HEIGHT="32px" style="vertical-align:bottom"></object></td>
+      </tr>
+    </table>
+      </div>
+    </div>
+  </div>
+  
+    <div class="accordion-group">
+    <div class="accordion-heading"  style="background-color:#ffffff;"  >
+      <a class="accordion-toggle" data-toggle="collapse" href="#collapse-responde-359325"  >
+       <table width=100%><tr><td align=right>Responder</td></tr></table>
+      </a>
+    </div>
+    <div id="collapse-responde-359325" class="accordion-body collapse" style="background-color:#ffffff;">
+      <div class="accordion-inner">
+<form method=post action=index.php>
+<img src=images/users/0.gif width=50px height=50px>
+<textarea  class="field span8" name="comment" rows="3" cols="150" >
+</textarea>
+<input class="btn btn-primary" type=submit name="envia" value="Responder"> 
+
+<input type="hidden" name="serieid" value="5924">
+<input type="hidden" name="episode" value="15">
+<input type="hidden" name="action" value="se">
+<input type="hidden" name="type" value="">
+<input type="hidden" name="vinculo" value="359325">
+<input type="hidden" name="pag" value="1">
+
+
+</form>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="accordion" id="359282">
+  <div class="accordion-group">
+    <div class="accordion-heading"  style="background-color:#d2d2d2;"  >
+      <a class="accordion-toggle" data-toggle="collapse"  href="#collapse359282"  >
+        <font color="#7c1b2d">Luis Henrique - <small><font color=#808080>  ·  Contagem - MG - atribuiu 7.5</font></small> </font>
+      </a>
+    </div>
+    <div id="collapse359282" class="accordion-body collapse in" style="background-color:#ffffff;">
+      <div class="accordion-inner">
+       <table width=100%>
+      <tr>
+          <td width=60px align=center valign=top><a href=index.php?action=userPage&uid=1000005507><img src=images/users/50x50/1000005507.jpg width=50px height=50px border=none></a></td>
+          <td valign=top> 
+          <div class=justify>WTF? Na torcida por mais espíritos.</div>
+          <br>
+          <table width=60%><tr><td><small><font color=#808080>2013-09-21 20:12:50</font></small></td><td>  </td></tr></table>
+          </td>
+          <td valign=top align=right><object type="text/html" data="_like.php?cid=359282" WIDTH="42px" HEIGHT="32px" style="vertical-align:bottom"></object></td>
+      </tr>
+    </table>
+      </div>
+    </div>
+  </div>
+  
+    <div class="accordion-group">
+    <div class="accordion-heading"  style="background-color:#ffffff;"  >
+      <a class="accordion-toggle" data-toggle="collapse" href="#collapse-responde-359282"  >
+       <table width=100%><tr><td align=right>Responder</td></tr></table>
+      </a>
+    </div>
+    <div id="collapse-responde-359282" class="accordion-body collapse" style="background-color:#ffffff;">
+      <div class="accordion-inner">
+<form method=post action=index.php>
+<img src=images/users/0.gif width=50px height=50px>
+<textarea  class="field span8" name="comment" rows="3" cols="150" >
+</textarea>
+<input class="btn btn-primary" type=submit name="envia" value="Responder"> 
+
+<input type="hidden" name="serieid" value="5924">
+<input type="hidden" name="episode" value="15">
+<input type="hidden" name="action" value="se">
+<input type="hidden" name="type" value="">
+<input type="hidden" name="vinculo" value="359282">
+<input type="hidden" name="pag" value="1">
+
+
+</form>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="accordion" id="359162">
+  <div class="accordion-group">
+    <div class="accordion-heading"  style="background-color:#d2d2d2;"  >
+      <a class="accordion-toggle" data-toggle="collapse"  href="#collapse359162"  >
+        <font color="#7c1b2d">Paulinha - <small><font color=#808080>  ·  Belém - PA - sem nota</font></small> </font>
+      </a>
+    </div>
+    <div id="collapse359162" class="accordion-body collapse in" style="background-color:#ffffff;">
+      <div class="accordion-inner">
+       <table width=100%>
+      <tr>
+          <td width=60px align=center valign=top><a href=index.php?action=userPage&uid=999992251><img src=images/users/50x50/999992251.jpg width=50px height=50px border=none></a></td>
+          <td valign=top> 
+          <div class=justify>Gostei bastante da tensão entre os filhos do Aang  e como  eles são diferentes!  Espero que ampliem mais esse conflito entre as Tribos da água e o tornem um perigo maior, tá parecendo uma coisa muito restrita ainda.<br><br>Acho que estou sentindo a falta de um inimigo em comum também, para deixar os demais personagens - Mako e Bolin por exemplo - estão muito aleatórios ainda.  +1<br></div>
+          <br>
+          <table width=60%><tr><td><small><font color=#808080>2013-09-21 19:03:31</font></small></td><td>  </td></tr></table>
+          </td>
+          <td valign=top align=right><object type="text/html" data="_like.php?cid=359162" WIDTH="42px" HEIGHT="32px" style="vertical-align:bottom"></object></td>
+      </tr>
+    </table>
+      </div>
+    </div>
+  </div>
+  
+    <div class="accordion-group">
+    <div class="accordion-heading"  style="background-color:#ffffff;"  >
+      <a class="accordion-toggle" data-toggle="collapse" href="#collapse-responde-359162"  >
+       <table width=100%><tr><td align=right>Responder</td></tr></table>
+      </a>
+    </div>
+    <div id="collapse-responde-359162" class="accordion-body collapse" style="background-color:#ffffff;">
+      <div class="accordion-inner">
+<form method=post action=index.php>
+<img src=images/users/0.gif width=50px height=50px>
+<textarea  class="field span8" name="comment" rows="3" cols="150" >
+</textarea>
+<input class="btn btn-primary" type=submit name="envia" value="Responder"> 
+
+<input type="hidden" name="serieid" value="5924">
+<input type="hidden" name="episode" value="15">
+<input type="hidden" name="action" value="se">
+<input type="hidden" name="type" value="">
+<input type="hidden" name="vinculo" value="359162">
+<input type="hidden" name="pag" value="1">
+
+
+</form>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="accordion" id="359146">
+  <div class="accordion-group">
+    <div class="accordion-heading"  style="background-color:#d2d2d2;"  >
+      <a class="accordion-toggle" data-toggle="collapse"  href="#collapse359146"  >
+        <font color="#7c1b2d">LucaSP - <small><font color=#808080> - atribuiu 8</font></small> </font>
+      </a>
+    </div>
+    <div id="collapse359146" class="accordion-body collapse in" style="background-color:#ffffff;">
+      <div class="accordion-inner">
+       <table width=100%>
+      <tr>
+          <td width=60px align=center valign=top><a href=index.php?action=userPage&uid=1000005560><img src=images/users/50x50/1000005560.jpg width=50px height=50px border=none></a></td>
+          <td valign=top> 
+          <div class=justify>Gostei, mas o final me deixou com uma estranha sensação de déjà vu.</div>
+          <br>
+          <table width=60%><tr><td><small><font color=#808080>2013-09-21 18:52:37</font></small></td><td>  </td></tr></table>
+          </td>
+          <td valign=top align=right><object type="text/html" data="_like.php?cid=359146" WIDTH="42px" HEIGHT="32px" style="vertical-align:bottom"></object></td>
+      </tr>
+    </table>
+      </div>
+    </div>
+  </div>
+  
+    <div class="accordion-group">
+    <div class="accordion-heading"  style="background-color:#ffffff;"  >
+      <a class="accordion-toggle" data-toggle="collapse" href="#collapse-responde-359146"  >
+       <table width=100%><tr><td align=right>Responder</td></tr></table>
+      </a>
+    </div>
+    <div id="collapse-responde-359146" class="accordion-body collapse" style="background-color:#ffffff;">
+      <div class="accordion-inner">
+<form method=post action=index.php>
+<img src=images/users/0.gif width=50px height=50px>
+<textarea  class="field span8" name="comment" rows="3" cols="150" >
+</textarea>
+<input class="btn btn-primary" type=submit name="envia" value="Responder"> 
+
+<input type="hidden" name="serieid" value="5924">
+<input type="hidden" name="episode" value="15">
+<input type="hidden" name="action" value="se">
+<input type="hidden" name="type" value="">
+<input type="hidden" name="vinculo" value="359146">
+<input type="hidden" name="pag" value="1">
+
+
+</form>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="accordion" id="359029">
+  <div class="accordion-group">
+    <div class="accordion-heading"  style="background-color:#d2d2d2;"  >
+      <a class="accordion-toggle" data-toggle="collapse"  href="#collapse359029"  >
+        <font color="#7c1b2d">Toni Batista - <small><font color=#808080>  ·  Parnaíba - PI - atribuiu 8</font></small> </font>
+      </a>
+    </div>
+    <div id="collapse359029" class="accordion-body collapse in" style="background-color:#ffffff;">
+      <div class="accordion-inner">
+       <table width=100%>
+      <tr>
+          <td width=60px align=center valign=top><a href=index.php?action=userPage&uid=1359><img src=images/users/50x50/1359.jpg width=50px height=50px border=none></a></td>
+          <td valign=top> 
+          <div class=justify>Foi um episódio bom, só que fugiu muito dos espiritos hehe, muito cedo pra dispersar assim.<br><br>Mesmo assim gosto tanto da trama dos filhos do Aang como dos conflitos nas tribos da água - familia da Korra.<br><br>Acho que estou sentindo a falta de um inimigo em comum também, para deixar os demais personagens - Mako e Bolin por exemplo - estão muito aleatórios ainda.<br><br>Onde está Ikki? hehe</div>
+          <br>
+          <table width=60%><tr><td><small><font color=#808080>2013-09-21 17:32:58</font></small></td><td>  </td></tr></table>
+          </td>
+          <td valign=top align=right><object type="text/html" data="_like.php?cid=359029" WIDTH="42px" HEIGHT="32px" style="vertical-align:bottom"></object></td>
+      </tr>
+    </table>
+      </div>
+    </div>
+  </div>
+  
+    <div class="accordion-group">
+    <div class="accordion-heading"  style="background-color:#ffffff;"  >
+      <a class="accordion-toggle" data-toggle="collapse" href="#collapse-responde-359029"  >
+       <table width=100%><tr><td align=right>Responder</td></tr></table>
+      </a>
+    </div>
+    <div id="collapse-responde-359029" class="accordion-body collapse" style="background-color:#ffffff;">
+      <div class="accordion-inner">
+<form method=post action=index.php>
+<img src=images/users/0.gif width=50px height=50px>
+<textarea  class="field span8" name="comment" rows="3" cols="150" >
+</textarea>
+<input class="btn btn-primary" type=submit name="envia" value="Responder"> 
+
+<input type="hidden" name="serieid" value="5924">
+<input type="hidden" name="episode" value="15">
+<input type="hidden" name="action" value="se">
+<input type="hidden" name="type" value="">
+<input type="hidden" name="vinculo" value="359029">
+<input type="hidden" name="pag" value="1">
+
+
+</form>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="accordion" id="358940">
+  <div class="accordion-group">
+    <div class="accordion-heading"  style="background-color:#d2d2d2;"  >
+      <a class="accordion-toggle" data-toggle="collapse"  href="#collapse358940"  >
+        <font color="#7c1b2d">João Victhor Sales - <small><font color=#808080>  ·  Araguaína - TO - sem nota</font></small> </font>
+      </a>
+    </div>
+    <div id="collapse358940" class="accordion-body collapse in" style="background-color:#ffffff;">
+      <div class="accordion-inner">
+       <table width=100%>
+      <tr>
+          <td width=60px align=center valign=top><a href=index.php?action=userPage&uid=999991755><img src=images/users/50x50/999991755.jpg width=50px height=50px border=none></a></td>
+          <td valign=top> 
+          <div class=justify>Esse episódio me fez pensar o quanto a obra evoluiu.<br>Partimos de um Aang órfão para os dramas da família de Korra, uma grande evolução independente e sempre interessante.<br>Outro ponto a destacar são os 3 filhos de Aang, muito legal essa interação de 3 seres totalmente diferentes e que carregam todo um legado. Foi um episódio bem subjetivo.</div>
+          <br>
+          <table width=60%><tr><td><small><font color=#808080>2013-09-21 16:26:05</font></small></td><td>  </td></tr></table>
+          </td>
+          <td valign=top align=right><object type="text/html" data="_like.php?cid=358940" WIDTH="42px" HEIGHT="32px" style="vertical-align:bottom"></object></td>
+      </tr>
+    </table>
+      </div>
+    </div>
+  </div>
+  
+    <div class="accordion-group">
+    <div class="accordion-heading"  style="background-color:#ffffff;"  >
+      <a class="accordion-toggle" data-toggle="collapse" href="#collapse-responde-358940"  >
+       <table width=100%><tr><td align=right>Responder</td></tr></table>
+      </a>
+    </div>
+    <div id="collapse-responde-358940" class="accordion-body collapse" style="background-color:#ffffff;">
+      <div class="accordion-inner">
+<form method=post action=index.php>
+<img src=images/users/0.gif width=50px height=50px>
+<textarea  class="field span8" name="comment" rows="3" cols="150" >
+</textarea>
+<input class="btn btn-primary" type=submit name="envia" value="Responder"> 
+
+<input type="hidden" name="serieid" value="5924">
+<input type="hidden" name="episode" value="15">
+<input type="hidden" name="action" value="se">
+<input type="hidden" name="type" value="">
+<input type="hidden" name="vinculo" value="358940">
+<input type="hidden" name="pag" value="1">
+
+
+</form>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="accordion" id="358925">
+  <div class="accordion-group">
+    <div class="accordion-heading"  style="background-color:#d2d2d2;"  >
+      <a class="accordion-toggle" data-toggle="collapse"  href="#collapse358925"  >
+        <font color="#7c1b2d">Matheus Alencar - <small><font color=#808080>  ·  Anápolis - GO - atribuiu 8.5</font></small> </font>
+      </a>
+    </div>
+    <div id="collapse358925" class="accordion-body collapse in" style="background-color:#ffffff;">
+      <div class="accordion-inner">
+       <table width=100%>
+      <tr>
+          <td width=60px align=center valign=top><a href=index.php?action=userPage&uid=1000017793><img src=images/users/50x50/1000017793.jpg width=50px height=50px border=none></a></td>
+          <td valign=top> 
+          <div class=justify>mas o que? rsrs</div>
+          <br>
+          <table width=60%><tr><td><small><font color=#808080>2013-09-21 16:16:16</font></small></td><td>  </td></tr></table>
+          </td>
+          <td valign=top align=right><object type="text/html" data="_like.php?cid=358925" WIDTH="42px" HEIGHT="32px" style="vertical-align:bottom"></object></td>
+      </tr>
+    </table>
+      </div>
+    </div>
+  </div>
+  
+    <div class="accordion-group">
+    <div class="accordion-heading"  style="background-color:#ffffff;"  >
+      <a class="accordion-toggle" data-toggle="collapse" href="#collapse-responde-358925"  >
+       <table width=100%><tr><td align=right>Responder</td></tr></table>
+      </a>
+    </div>
+    <div id="collapse-responde-358925" class="accordion-body collapse" style="background-color:#ffffff;">
+      <div class="accordion-inner">
+<form method=post action=index.php>
+<img src=images/users/0.gif width=50px height=50px>
+<textarea  class="field span8" name="comment" rows="3" cols="150" >
+</textarea>
+<input class="btn btn-primary" type=submit name="envia" value="Responder"> 
+
+<input type="hidden" name="serieid" value="5924">
+<input type="hidden" name="episode" value="15">
+<input type="hidden" name="action" value="se">
+<input type="hidden" name="type" value="">
+<input type="hidden" name="vinculo" value="358925">
+<input type="hidden" name="pag" value="1">
+
+
+</form>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="accordion" id="358756">
+  <div class="accordion-group">
+    <div class="accordion-heading"  style="background-color:#d2d2d2;"  >
+      <a class="accordion-toggle" data-toggle="collapse"  href="#collapse358756"  >
+        <font color="#7c1b2d">Geovan Gomes - <small><font color=#808080> - atribuiu 8.5</font></small> </font>
+      </a>
+    </div>
+    <div id="collapse358756" class="accordion-body collapse in" style="background-color:#ffffff;">
+      <div class="accordion-inner">
+       <table width=100%>
+      <tr>
+          <td width=60px align=center valign=top><a href=index.php?action=userPage&uid=139><img src=images/users/50x50/139.jpg width=50px height=50px border=none></a></td>
+          <td valign=top> 
+          <div class=justify>Esse final O.O</div>
+          <br>
+          <table width=60%><tr><td><small><font color=#808080>2013-09-21 14:04:28</font></small></td><td>  </td></tr></table>
+          </td>
+          <td valign=top align=right><object type="text/html" data="_like.php?cid=358756" WIDTH="42px" HEIGHT="32px" style="vertical-align:bottom"></object></td>
+      </tr>
+    </table>
+      </div>
+    </div>
+  </div>
+  
+    <div class="accordion-group">
+    <div class="accordion-heading"  style="background-color:#ffffff;"  >
+      <a class="accordion-toggle" data-toggle="collapse" href="#collapse-responde-358756"  >
+       <table width=100%><tr><td align=right>Responder</td></tr></table>
+      </a>
+    </div>
+    <div id="collapse-responde-358756" class="accordion-body collapse" style="background-color:#ffffff;">
+      <div class="accordion-inner">
+<form method=post action=index.php>
+<img src=images/users/0.gif width=50px height=50px>
+<textarea  class="field span8" name="comment" rows="3" cols="150" >
+</textarea>
+<input class="btn btn-primary" type=submit name="envia" value="Responder"> 
+
+<input type="hidden" name="serieid" value="5924">
+<input type="hidden" name="episode" value="15">
+<input type="hidden" name="action" value="se">
+<input type="hidden" name="type" value="">
+<input type="hidden" name="vinculo" value="358756">
+<input type="hidden" name="pag" value="1">
+
+
+</form>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="accordion" id="358715">
+  <div class="accordion-group">
+    <div class="accordion-heading"  style="background-color:#d2d2d2;"  >
+      <a class="accordion-toggle" data-toggle="collapse"  href="#collapse358715"  >
+        <font color="#7c1b2d">Renan Almeida - <small><font color=#808080>  ·  Ipatinga - MG - atribuiu 9</font></small> </font>
+      </a>
+    </div>
+    <div id="collapse358715" class="accordion-body collapse in" style="background-color:#ffffff;">
+      <div class="accordion-inner">
+       <table width=100%>
+      <tr>
+          <td width=60px align=center valign=top><a href=index.php?action=userPage&uid=1000001415><img src=images/users/50x50/1000001415.jpg width=50px height=50px border=none></a></td>
+          <td valign=top> 
+          <div class=justify>WHAAAAAAAAAAAAAAAAAAAAAAT?</div>
+          <br>
+          <table width=60%><tr><td><small><font color=#808080>2013-09-21 13:25:25</font></small></td><td>  </td></tr></table>
+          </td>
+          <td valign=top align=right><object type="text/html" data="_like.php?cid=358715" WIDTH="42px" HEIGHT="32px" style="vertical-align:bottom"></object></td>
+      </tr>
+    </table>
+      </div>
+    </div>
+  </div>
+  
+    <div class="accordion-group">
+    <div class="accordion-heading"  style="background-color:#ffffff;"  >
+      <a class="accordion-toggle" data-toggle="collapse" href="#collapse-responde-358715"  >
+       <table width=100%><tr><td align=right>Responder</td></tr></table>
+      </a>
+    </div>
+    <div id="collapse-responde-358715" class="accordion-body collapse" style="background-color:#ffffff;">
+      <div class="accordion-inner">
+<form method=post action=index.php>
+<img src=images/users/0.gif width=50px height=50px>
+<textarea  class="field span8" name="comment" rows="3" cols="150" >
+</textarea>
+<input class="btn btn-primary" type=submit name="envia" value="Responder"> 
+
+<input type="hidden" name="serieid" value="5924">
+<input type="hidden" name="episode" value="15">
+<input type="hidden" name="action" value="se">
+<input type="hidden" name="type" value="">
+<input type="hidden" name="vinculo" value="358715">
+<input type="hidden" name="pag" value="1">
+
+
+</form>
+      </div>
+    </div>
+  </div>
+</div><center><div class="pagination"><ul></ul></div></center>
+
+
+    </li>
+  <li class="span2"> 
+<a class="btn btn-block btn-primary"href=index.php?action=se&serieid=5924&episode=0><i>Fórum Geral</i></a><br> 
+<script language="javascript">
+<!--
+function aumenta(obj){
+    obj.height=obj.height*2;
+	obj.width=obj.width*2;
+}
+
+function diminui(obj){
+	obj.height=obj.height/2;
+	obj.width=obj.width/2;
+}
+//-->
+</script><a href=images/episodes/94370.jpg target=_blank><img src="images/episodes/thumbs/94370.jpg"  border=none></a><br><a href=index.php?action=userPage&uid=1000001819><small>by Amanda Curtarelli</small></a>  <br><a href=images/episodes/94371.jpg target=_blank><img src="images/episodes/thumbs/94371.jpg"  border=none></a><br><a href=index.php?action=userPage&uid=1000001819><small>by Amanda Curtarelli</small></a>  <br><a href=images/episodes/94372.jpg target=_blank><img src="images/episodes/thumbs/94372.jpg"  border=none></a><br><a href=index.php?action=userPage&uid=1000001819><small>by Amanda Curtarelli</small></a>  <br><a href=images/episodes/94373.jpg target=_blank><img src="images/episodes/thumbs/94373.jpg"  border=none></a><br><a href=index.php?action=userPage&uid=1000001819><small>by Amanda Curtarelli</small></a>  <br><a href=images/episodes/94374.jpg target=_blank><img src="images/episodes/thumbs/94374.jpg"  border=none></a><br><a href=index.php?action=userPage&uid=1000001819><small>by Amanda Curtarelli</small></a>  <br><a href=images/episodes/94375.jpg target=_blank><img src="images/episodes/thumbs/94375.jpg"  border=none></a><br><a href=index.php?action=userPage&uid=1000001819><small>by Amanda Curtarelli</small></a>  <br>
+
+
+   </li>     
+      <li class="span2">
+        
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-8288930974747122";
+/* Banco de Séries */
+google_ad_slot = "3170131267";
+google_ad_width = 160;
+google_ad_height = 600;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+      </li>
+    </ul>  
+   
+   </div> <!--- row-fluid-->  
+ </div>  <!-- container-fluid-->
+
+
+         
+<br>
+
+</body>
+</html>

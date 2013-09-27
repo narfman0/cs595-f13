@@ -1,0 +1,2532 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN" "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" xml:lang="en-my" dir="ltr" lang="en-my">
+<head>
+<meta name="layout" content="articleblue"/>
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<link rel="image_src" href="http://u.goal.com/321000/321088_news.jpg" /><script type="text/javascript">
+
+    (function (window, document) {
+
+        if (typeof (window.console) === 'undefined') {
+            window.console = {
+                log   : function () {},
+                info  : function () {},
+                warn  : function () {},
+                error : function () {},
+                assert: function () {}
+            };
+        }
+
+        /*
+         * Override default alert() method to not allow 3rd party javascript run it on our page
+         * We should use _alert() instead of it, if necessary
+         */
+        window._alert = window.alert;
+        window.alert = function() {
+            console.log('alert', arguments);
+        };
+
+        window.G = {
+            config: {
+                lmc: {
+                    link: "http://www.livematch.goal.com"
+                },
+                opta: {
+                    apikey: "5f70c5da5433ffa6b1a4d257bf64dc85"
+                },
+                context: {"locale":"en-my","matchId":123270,"seoTitle":"southampton-vs-bristol-city","action":"report","controller":"match","_omniturePage":"OP","contentSegment":"cookieCrumb","class":"module","position":"2","module":"IccTwitter","params":{"sectionTag":null},"widget":"Header","mainTab":"matchesTab","subTab":"resultsMatchesAllTab","defaultMatchId":123270,"defaultLeague":122,"title":"Match News","competitionId":122,"matchGlobalId":25819578,"sectionName":"Southampton vs Bristol City Report"},
+                countryCodeToEdition: {"IO":"en-gb","GB":"en-gb","AS":"en-us","AG":"en-us","AW":"en-us","BS":"en-us","BB":"en-us","BZ":"en-us","BM":"en-us","KY":"en-us","DM":"en-us","GD":"en-us","GU":"en-us","JM":"en-us","KN":"en-us","LC":"en-us","US":"en-us","UM":"en-us","VI":"en-us","BD":"en-india","BT":"en-india","IN":"en-india","MV":"en-india","NP":"en-india","PK":"en-india","IE":"en-ie","MY":"en-my","CA":"en-ca","BN":"en-sg","KH":"en-sg","LA":"en-sg","MM":"en-sg","PH":"en-sg","SG":"en-sg","AU":"en-au","CC":"en-au","NZ":"en-au","NG":"en-ng","ES":"es","AD":"es","AR":"es-ar","BO":"es-ar","EC":"es-ar","PY":"es-ar","UY":"es-ar","VA":"it","IT":"it","SM":"it","TH":"th","AT":"de","DE":"de","LI":"de","CH":"de","DZ":"fr","BJ":"fr","BF":"fr","CM":"fr","CF":"fr","TD":"fr","KM":"fr","CG":"fr","CD":"fr","CI":"fr","GQ":"fr","FR":"fr","GF":"fr","PF":"fr","TF":"fr","GA":"fr","GP":"fr","GN":"fr","HT":"fr","LU":"fr","MG":"fr","ML":"fr","MQ":"fr","YT":"fr","MC":"fr","NC":"fr","NE":"fr","RE":"fr","RW":"fr","BL":"fr","MF":"fr","PM":"fr","SN":"fr","TG":"fr","AO":"br","BR":"br","CV":"br","GW":"br","MZ":"br","PT":"br","ST":"br","TL":"br","BE":"nl","BQ":"nl","CW":"nl","NL":"nl","SX":"nl","SR":"nl","TR":"tr","ID":"id-id","CN":"cn","HK":"hk","MO":"hk","TW":"hk","KP":"kr","KR":"kr","JP":"jp","IR":"iran","BH":"ar","DJ":"ar","IQ":"ar","JO":"ar","KW":"ar","LB":"ar","LY":"ar","MR":"ar","MA":"ar","OM":"ar","PS":"ar","QA":"ar","SS":"ar","SD":"ar","SY":"ar","TN":"ar","AE":"ar","EH":"ar","YE":"ar","EG":"ar-eg","SA":"ar-sa","GH":"en-gh","KE":"en-ke","ZA":"en-za","ZW":"en-za","CO":"es-co","VE":"es-co","CL":"es-cl","CR":"es-mx","CU":"es-mx","DO":"es-mx","SV":"es-mx","GT":"es-mx","HN":"es-mx","MX":"es-mx","NI":"es-mx","PA":"es-mx","PR":"es-mx","VN":"vn","PE":"es-pe"}            }
+        }; 
+    }(window, document));
+
+</script>
+<title>Report: Southampton 2-2 Bristol City - Goal.com</title><meta property="og:type" content="article" />
+<meta property="og:url" content="http://www.goal.com/en-my/match/123270/southampton-vs-bristol-city/report" />
+<meta property="og:site_name" content="Goal.com" />
+<meta property="og:locale" content="en_MY" />
+<meta property="og:title" content="Report: Southampton 2-2 Bristol City" />
+<meta property="og:image" content="http://u.goal.com/321000/321088_news.jpg" />
+<meta name="google-site-verification" content="XbHDFDo9cDSfBkKb6vVXSEJq8eSKgKuYBgWbA7YLI5A" />
+<meta name="apple-itunes-app" content="app-id=518026818" />
+<meta http-equiv="Content-Language" content="en-my" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><link href="http://i2.goal.com/web/goal/2013.09.26-v1/css/default/match/report-merged.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="http://i2.goal.com/web/goal/2013.09.26-v1/images/apple/apple-touch-icon-precomposed.png" rel="apple-touch-icon" />
+<link href="http://i1.goal.com/web/goal/2013.09.26-v1/images/apple/apple-touch-icon-72x72-precomposed.png" rel="apple-touch-icon" sizes="72x72" />
+<link href="http://i2.goal.com/web/goal/2013.09.26-v1/images/apple/apple-touch-icon-114x114-precomposed.png" rel="apple-touch-icon" sizes="114x114" />
+<link href="http://i1.goal.com/web/goal/2013.09.26-v1/images/apple/apple-touch-icon-144x144-precomposed.png" rel="apple-touch-icon" sizes="144x144" />
+<link href="http://i1.goal.com/web/goal/2013.09.26-v1/css/default/article-print.css" media="print" rel="stylesheet" type="text/css" />
+<link href="http://www.goal.com/static/css?files=%2Fcss%2Fwidget.css%2C%2Fcss%2Fwidget&amp;version=2013.09.26-v1" media="screen" rel="stylesheet" type="text/css" />
+<link href="http://www.goal.com/static/css?files=%2Fcss%2Fdefault%2Flayout%2Fmodal.css%2C%2Fcss%2Fdefault%2Flayout%2Flogin.css%2C%2Fcss%2Fdefault%2Flayout%2Falert_message.css%2C%2Fcss%2Fdefault%2Flayout%2Fgigyalogin.css&amp;version=2013.09.26-v1" media="screen" rel="stylesheet" type="text/css" />
+<link href="http://www.goal.com/static/css?files=%2Fcss%2Fdefault%2Fbranding&amp;version=2013.09.26-v1" media="screen" rel="stylesheet" type="text/css" />
+<link href="http://www.goal.com/static/css?files=%2Fcss%2Fdefault%2Frebrand.css%2C%2Fcss%2Fdefault%2Frebrand-registration.css%2C%2Fcss%2Fmodule%2Fbranding%2Fdesktop.css&amp;version=2013.09.26-v1" media="screen" rel="stylesheet" type="text/css" /><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8/jquery-ui.min.js"></script>
+<script type="text/javascript" src="http://i2.goal.com/web/goal/2013.09.26-v1/js/default/jquery/hammer/hammer.js"></script>
+<script type="text/javascript" src="http://i1.goal.com/web/goal/2013.09.26-v1/js/default/jquery/hammer/jquery.hammer.js"></script>
+<script type="text/javascript" src="http://www.goal.com/static/js?files=%2Fjs%2Fjquery%2Fheader%2C%2Fjs%2Fjquery%2Ffooter&version=2013.09.26-v1"></script>
+<script type="text/javascript" src="https://www.google.com/jsapi"></script>
+<script type="text/javascript" src="http://i2.goal.com/web/goal/2013.09.26-v1/js/omniture-icid.js"></script>
+<script type="text/javascript" src="http://cdns.gigya.com/JS/socialize.js?apikey=2_Y8Ou2zve7eSZI-lzS_Sx1CPu9ZO65T9xjCUz9vX5C60PxafAuK2Z5fPvO_tmfs7D">
+{
+    connectWithoutLoginBehavior: 'alwaysLogin',
+    enabledProviders: 'facebook,google,yahoo,twitter',
+    lang: 'en'
+}
+</script><script type="text/javascript">
+    var goal = window.goal || {};
+    goal.lang = 'en';
+</script>
+  <link rel="icon" href="/favicon.ico" type="image/x-icon" /></head>
+
+<body class="dir-ltr lang-en-MY en-my lang-code-en article-layout context-undefined" data-omniture-icid="OP">
+<script type="text/javascript">
+//<![CDATA[
+var ord=Math.floor(1000000*Math.random());var dblClickIndex=0;
+//]]>
+</script><script type="text/javascript">
+    $.omnitureIcid({
+      domain: 'goal.com'
+    });
+</script>
+
+<div id="main" class="blue " >
+    <!-- widget:cookieinfo -->
+<script>
+    $(function() {
+        var eu_countries = ['UK', 'GB'],
+            expire = new Date(),
+            content = '<div class="widget cookie-info" id="goal-widget-cookieinfo-11">' +
+                '<div class="inset">' +
+                    '<p>' +
+                        '<span class="title">We use cookies on this web site</span>...' +
+                        'To find out more about cookies, please see our ' +
+                        '<a href="/en-my/legal/privacy-policy">Privacy Policy</a>.' +
+                    '</p>' +
+                    '<p>' +
+                        'If you continue using our website, we will assume that you consent to the cookies we set.' +
+                    '</p>' +
+                '</div>' +
+            '</div>';
+        expire.setMonth(expire.getMonth()+1);
+        if(!$.cookie('cookie-info') && (-1 !== $.inArray($.cookie('cc'), eu_countries) && G.env.edition === 'en-gb')) {
+            $.cookie('cookie-info', 1, {expires: expire});
+            $('body').prepend(content);
+        }
+    });
+</script>
+
+<!-- /widget:cookieinfo, time:0.00098800659179688s -->    <!-- widget:header -->
+<!-- module:Ad\Leaderboard -->
+<div class="module module-ad leaderboard" id="ad728x90">
+    <div>
+        <script language="javascript">
+
+(function(dispatch) {
+    if ("" === 'mpu' && null && ($(window).width() > 1020 ? 'desktop' : 'tablet') !== null) {
+      return false;
+    }
+    dispatch.call();
+})(function() {
+document.write('<scr'+'ipt language="javascript1.1" ' +' src="http://adserver.adtech.de/addyn|3.0|327.0|3555308|0|225|ADTECH;cookie=info;alias=en-myTL;key=match:report+L122;kvcampaign=' + ((typeof $.getCampaignName == 'function') ? $.getCampaignName() : '') + ';kvlayout=' + (($(window).width() > 1020) ? 'wide' : 'narrow') + ';kvskin=' + (($(window).width() > 1024) ? 'yes' : 'no') + ';kvenv=production;kvpagetype=match:report;kvarticleid=;kvteamid=106:1106;kvmatchid=123270;kvsectionid=L122;loc=100;target=_blank;sub1=[subst];grp=396498783;misc=396498783"></scri'+'pt>');
+
+});
+</script>
+<noscript>
+<a href="http://adserver.adtech.de/adlink|3.0|327.0|3555308|0|225|ADTECH;loc=300;alias=en-myTL;key=match:report+L122;kvenv=production;kvpagetype=match:report;kvarticleid=;kvteamid=106:1106;kvmatchid=123270;kvsectionid=L122;cookie=info;" target="_blank">
+<img src="http://adserver.adtech.de/adserv|3.0|327.0|3555308|0|225|ADTECH;loc=300;alias=en-myTL;key=match:report+L122;kvenv=production;kvpagetype=match:report;kvarticleid=;kvteamid=106:1106;kvmatchid=123270;kvsectionid=L122;cookie=info;">
+</a>
+</noscript>    </div>
+</div><!-- /module:Ad\Leaderboard, time:0.0017280578613281s --><!-- module:EditionPicker -->
+<div class="module-edition-picker" data-module="editionpicker">
+  <div class="clearfix">
+              <ul>
+                  <li><a href="/en" class="flag-en">International</a></li>
+                  <li><a href="/en-us" class="flag-en-us">America</a></li>
+                  <li><a href="/es-ar" class="flag-es-ar">Argentina</a></li>
+                  <li><a href="/en-au" class="flag-en-au">Australia</a></li>
+                  <li><a href="/br" class="flag-br">Brasil</a></li>
+                  <li><a href="/en-ca" class="flag-en-ca">Canada</a></li>
+              </ul>
+          <ul>
+                  <li><a href="/es-cl" class="flag-es-cl">Chile</a></li>
+                  <li><a href="/es-co" class="flag-es-co">Colombia</a></li>
+                  <li><a href="/de" class="flag-de">Deutsch</a></li>
+                  <li><a href="/es" class="flag-es">España</a></li>
+                  <li><a href="/fr" class="flag-fr">Français</a></li>
+                  <li><a href="/en-gh" class="flag-en-gh">Ghana</a></li>
+              </ul>
+          <ul>
+                  <li><a href="/en-india" class="flag-en-india">India</a></li>
+                  <li><a href="/id-ID" class="flag-id-id">Indonesia</a></li>
+                  <li><a href="/en-ie" class="flag-en-ie">Ireland</a></li>
+                  <li><a href="/it" class="flag-it">Italia</a></li>
+                  <li><a href="/en-ke" class="flag-en-ke">Kenya</a></li>
+                  <li><a href="/en-my" class="flag-en-my">Malaysia</a></li>
+              </ul>
+          <ul>
+                  <li><a href="/es-mx" class="flag-es-mx">México</a></li>
+                  <li><a href="/nl" class="flag-nl">Nederlands</a></li>
+                  <li><a href="/en-ng" class="flag-en-ng">Nigeria</a></li>
+                  <li><a href="/es-pe" class="flag-es-pe">Peru</a></li>
+                  <li><a href="/en-sg" class="flag-en-sg">Singapore</a></li>
+                  <li><a href="/en-za" class="flag-en-za">South Africa</a></li>
+              </ul>
+          <ul>
+                  <li><a href="/vn" class="flag-vn">Tiếng Việt</a></li>
+                  <li><a href="/tr" class="flag-tr">Türkçe</a></li>
+                  <li><a href="/en-gb" class="flag-en-gb">UK</a></li>
+                  <li><a href="/cn" class="flag-cn">中文</a></li>
+                  <li><a href="/hk" class="flag-hk">繁體中文</a></li>
+                  <li><a href="/kr" class="flag-kr">한국어</a></li>
+              </ul>
+          <ul>
+                  <li><a href="/jp" class="flag-jp">日本語</a></li>
+                  <li><a href="/th" class="flag-th">ภาษาไทย</a></li>
+                  <li><a href="/iran" class="flag-iran">فارسی</a></li>
+                  <li><a href="/ar" class="flag-ar">العربية</a></li>
+                  <li><a href="/ar-eg" class="flag-ar-eg">المصرية</a></li>
+                  <li><a href="/ar-sa" class="flag-ar-sa">السعودية</a></li>
+              </ul>
+      </div>
+</div>
+<!-- /module:EditionPicker, time:0.0011231899261475s --><div class="module-header clearfix" data-module="header">
+  <ul>
+    <li class="edition-picker-trigger">
+      <a href="#" class="flag-en-my" data-role="edition-picker-opener"> <b>Edition</b>: Malaysia‎</a>
+    </li>
+          <li>
+        <a data-role="sign-out" data-user-state="logged-in" href="https://secure.goal.com/en-my/account/logout" class="logout">Sign out</a>
+        <a data-role="sign-in" data-user-state="logged-out" href="#" data-url="https://secure.goal.com/en-my/account/login" class="login">Register / Login</a>
+      </li>
+        <li class="social">
+      <span>Follow us on</span>
+              <a href="https://www.facebook.com/GoalMalaysia" class="facebook img-rep" target="_blank">Facebook</a>
+              <a href="http://twitter.com/Goal_MY" class="twitter img-rep" target="_blank">Twitter</a>
+              <a href="http://www.youtube.com/goal" class="youtube img-rep" target="_blank">YouTube</a>
+              <a href="http://www.instagram.com/goalglobal" class="instagram img-rep" target="_blank">instagram</a>
+              <a href="https://plus.google.com/+Goal" class="googleplus img-rep" target="_blank">Google+</a>
+            <a href="/en-my/feeds/news?fmt=rss" class="rss img-rep" target="_blank">RSS</a>
+    </li>
+  </ul>
+  <h1 class="main-logo"><a href="/en-my" class="img-rep">Goal.com - Home</a></h1>
+      <div class="user" data-user-state="logged-in">
+      <a href="https://secure.goal.com/en-my/account">
+        <img data-user="thumbnail" src="" height="23" width="23" alt="thumbnail">
+      </a>
+      <span class="greeting">Hello,</span>
+      <a href="https://secure.goal.com/en-my/account" data-user="nickname"></a>
+    </div>
+  </div>
+<!-- module:Navigation -->
+<div class="module-navigation" data-module="navigation" data-omniture-icid="TN">
+  <div>
+    <ul class="main clearfix" data-navigation>
+                        <li>
+            <a href="/en-my/">Home</a>
+          </li>
+                                                      <li>
+              <a href="/en-my/news/3896/malaysia">Malaysia</a>
+              <ul class="sub">
+                                  <li>
+                                                                                        <span>National Team</span>
+                        <ul>
+                                                                                    <li><a href="/en-my/teams/malaysia/1005/malaysia">Malaysia Senior Team</a></li>
+                                                                                                                <li><a href="/en-my/teams/malaysia/3247/harimau-muda-a">Harimau Muda A</a></li>
+                                                                                                                <li><a href="/en-my/teams/malaysia/3448/harimau-muda-b">Harimau Muda B</a></li>
+                                                                              </ul>
+                                                            </li>
+                                  <li>
+                                                                                        <span>Malaysia Super League</span>
+                        <ul>
+                                                                                    <li><a href="/en-my/news/3896/malaysia/archive/1">Latest News</a></li>
+                                                                                                                <li><a href="/en-my/results-standings/339/malaysia-super-league/table">League Table</a></li>
+                                                                                                                <li><a href="/en-my/results-standings/339/malaysia-super-league/matchday">Fixtures and Results</a></li>
+                                                                              </ul>
+                                                            </li>
+                                  <li>
+                                                                                        <span>Favorite Teams</span>
+                        <ul>
+                                                                                    <li><a href="/en-my/teams/malaysia/3339/atm-fa">ATM</a></li>
+                                                                                                                <li><a href="/en-my/teams/malaysia/3197/johor-darul-takzim">Johor Darul Takzim</a></li>
+                                                                                                                <li><a href="/en-my/teams/malaysia/3192/kelantan-fa">Kelantan</a></li>
+                                                                                                                <li><a href="/en-my/teams/singapore/3205/lionsxii">LionsXII</a></li>
+                                                                                                                                                                          <li><a href="/en-my/teams/malaysia/3355/pahang-fa">Pahang</a></li>
+                                                                                                                <li><a href="/en-my/teams/malaysia/3193/perak-fa">Perak</a></li>
+                                                                                                                <li><a href="/en-my/teams/malaysia/3196/selangor-fa">Selangor</a></li>
+                                                                                                                <li><a href="/en-my/teams/malaysia/3198/sarawak-fa">Sarawak</a></li>
+                                                                              </ul>
+                                                            </li>
+                              </ul>
+            </li>
+                                                                <li>
+              <a href="/en-my/news/3890/english-premier-league">EPL</a>
+              <ul class="sub">
+                                  <li>
+                                          <a href="/en-my/teams/england/95/aston-villa">Aston Villa</a>
+                                      </li>
+                                  <li>
+                                          <a href="/en-my/news/3890/english-premier-league/archive/1">Latest News</a>
+                                      </li>
+                                  <li>
+                                          <a href="/en-my/teams/england/94/arsenal-fc">Arsenal</a>
+                                      </li>
+                                  <li>
+                                          <a href="/en-my/results-standings/64/premier-league/table">League Table</a>
+                                      </li>
+                                  <li>
+                                          <a href="/en-my/results-standings/64/premier-league/matchday">Fixtures and Results</a>
+                                      </li>
+                                  <li>
+                                          <a href="/en-my/teams/england/110/everton">Everton</a>
+                                      </li>
+                                  <li>
+                                          <a href="/en-my/teams/england/96/chelsea-fc">Chelsea</a>
+                                      </li>
+                                  <li>
+                                          <a href="/en-my/teams/england/101/fulham">Fulham</a>
+                                      </li>
+                                  <li>
+                                          <a href="/en-my/teams/england/98/liverpool">Liverpool</a>
+                                      </li>
+                                  <li>
+                                          <a href="/en-my/teams/england/109/manchester-city">Manchester City</a>
+                                      </li>
+                                  <li>
+                                          <a href="/en-my/teams/england/97/manchester-united"> Manchester United</a>
+                                      </li>
+                                  <li>
+                                          <a href="/en-my/teams/england/99/newcastle-united">Newcastle United</a>
+                                      </li>
+                                  <li>
+                                          <a href="/en-my/teams/england/1977/norwich-city">Norwich City</a>
+                                      </li>
+                                  <li>
+                                          <a href="/en-my/teams/england/713/qpr"> QPR</a>
+                                      </li>
+                                  <li>
+                                          <a href="/en-my/teams/england/714/reading">Reading</a>
+                                      </li>
+                                  <li>
+                                          <a href="/en-my/teams/england/106/southampton">Southampton</a>
+                                      </li>
+                                  <li>
+                                          <a href="/en-my/teams/england/717/stoke-city">Stoke City </a>
+                                      </li>
+                                  <li>
+                                          <a href="/en-my/teams/england/537/sunderland">Sunderland</a>
+                                      </li>
+                                  <li>
+                                          <a href="/en-my/teams/england/893/swansea-city">Swansea City</a>
+                                      </li>
+                                  <li>
+                                          <a href="/en-my/teams/england/105/tottenham">Tottenham</a>
+                                      </li>
+                                  <li>
+                                          <a href="/en-my/teams/england/112/west-bromwich-albion">West Bromwich Albion</a>
+                                      </li>
+                                  <li>
+                                          <a href="/en-my/teams/england/374/west-ham-united">West Ham United</a>
+                                      </li>
+                                  <li>
+                                          <a href="/en-my/teams/england/536/wigan-athletic"> Wigan Athletic</a>
+                                      </li>
+                              </ul>
+            </li>
+                                                                <li>
+              <a href="/en-my/live-scores/standings">Competitions</a>
+              <ul class="sub">
+                                  <li>
+                                                                                        <span>Domestic</span>
+                        <ul>
+                                                                                    <li><a href="/en-my/teams/malaysia/1005/malaysia">Malaysia National Team</a></li>
+                                                                                                                <li><a href="/en-my/results-standings/371/malaysia-cup/group">Malaysia Cup</a></li>
+                                                                                                                <li><a href="/en-my/results-standings/347/malaysia-fa-cup/knockout">FA Cup</a></li>
+                                                                                                                <li><a href="/en-my/news/3896/malaysia-super-league">Malaysia Super League</a></li>
+                                                                              </ul>
+                                                            </li>
+                                  <li>
+                                                                                        <span>Asia</span>
+                        <ul>
+                                                                                    <li><a href="/en-my/news/5154/afc-cup">AFC Cup</a></li>
+                                                                                                                <li><a href="/en-my/news/3960/asia">Latest News</a></li>
+                                                                              </ul>
+                                                            </li>
+                                  <li>
+                                                                                        <span>Europe</span>
+                        <ul>
+                                                                                    <li><a href="/en-my/news/3899/italy">Italy</a></li>
+                                                                                                                <li><a href="/en-my/news/4004/germany">Germany</a></li>
+                                                                                                                <li><a href="/en-my/news/3895/spain">Spain</a></li>
+                                                                                                                <li><a href="/en-my/news/3959/europa-league/archive/1">UEFA Europa League</a></li>
+                                                                                                                <li><a href="/en-my/news/3904/champions-league">UEFA Champions League</a></li>
+                                                                              </ul>
+                                                            </li>
+                                  <li>
+                                                                                        <span>International</span>
+                        <ul>
+                                                                                    <li><a href="/en-my/news/4000/world-cup-2014">World Cup 2014</a></li>
+                                                                                                                <li><a href="/en-my/news/5331/confederations-cup-2013">Confederations Cup 2013</a></li>
+                                                                              </ul>
+                                                            </li>
+                                  <li>
+                                                                                        <span>J-League</span>
+                        <ul>
+                                                                                    <li><a href="/en-my/news/4481/j-league">News</a></li>
+                                                                                                                <li><a href="/en-my/results-standings/276/japan-j-league-division-1/matchday">Fixtures & Results</a></li>
+                                                                                                                <li><a href="/en-my/results-standings/276/japan-j-league-division-1/table">League Table</a></li>
+                                                                                                                <li><a href="/en-my/news/5486/j-league-history/2013/09/18/4267373/j-league-history-series">History</a></li>
+                                                                              </ul>
+                                                            </li>
+                              </ul>
+            </li>
+                                                                <li>
+              <a href="/en-my/live-scores/fixtures?tab=all">Live</a>
+              <ul class="sub">
+                                  <li>
+                                          <a href="/en-my/live-update/1210/live-matchday-football-blog/">Live Blog</a>
+                                      </li>
+                                  <li>
+                                          <a href="http://www.livematch.goal.com/home/locale/en-my">Live Match Centre</a>
+                                      </li>
+                                  <li>
+                                          <a href="/en-my/live-scores/fixtures?tab=all">Livescore</a>
+                                      </li>
+                              </ul>
+            </li>
+                                                                <li>
+              <a href="/en-my/news/3956/transfer-zone">Transfers</a>
+              <ul class="sub">
+                                  <li>
+                                          <a href="/en-my/scores/transfer-zone">Done Deals</a>
+                                      </li>
+                                  <li>
+                                          <a href="/en-my/rumours/last/24">Transfer Rumours</a>
+                                      </li>
+                                  <li>
+                                          <a href="/en-my/news/3956/transfer-zone/archive/1">Latest Transfer News</a>
+                                      </li>
+                                  <li>
+                                          <a href="/en-my/news/3956/transfer-zone">Transfer Zone</a>
+                                      </li>
+                              </ul>
+            </li>
+                                                                <li>
+              <a href="/en-my/news/3891/features">Features</a>
+              <ul class="sub">
+                                  <li>
+                                          <a href="/en-my/news/3902/exclusives/archive/1">Interviews</a>
+                                      </li>
+                                  <li>
+                                          <a href="/en-my/news/3986/editorial/archive/1">Editorials</a>
+                                      </li>
+                                  <li>
+                                          <a href="/en-my/news/4135/football-fever-podcast/archive/1">Football Fever Podcast</a>
+                                      </li>
+                                  <li>
+                                          <a href="/en-my/news/4005/team-of-the-week/archive/1">Team of the Week</a>
+                                      </li>
+                                  <li>
+                                          <a href="/en-my/news/4117/fan-speak/archive/1">Fan Speak</a>
+                                      </li>
+                                  <li>
+                                          <a href="/en-my/news/4489/goal-50">Goal 50</a>
+                                      </li>
+                                  <li>
+                                          <a href="/en-my/news/5229/tiger-football/archive/1">Tiger Beer</a>
+                                      </li>
+                                  <li>
+                                          <a href="http://fantasy.goal.com/CleverTV/en/perform/en-my/14/userentry.do">Fantasy Football</a>
+                                      </li>
+                              </ul>
+            </li>
+                                                                <li>
+              <a href="/en-my/news/3968/video">Video</a>
+              <ul class="sub">
+                                  <li>
+                                          <a href="/en-my/news/3889/main/2013/01/14/3670677/english-premier-league">English Premier League</a>
+                                      </li>
+                                  <li>
+                                          <a href="/en-my/news/3889/main/2013/01/14/3670728/english-fa-cup">English FA Cup</a>
+                                      </li>
+                                  <li>
+                                          <a href="/en-my/news/3889/main/2013/01/14/3670736/la-liga">La Liga</a>
+                                      </li>
+                                  <li>
+                                          <a href="/en-my/news/3889/main/2013/01/14/3670744/italian-serie-a">Serie A</a>
+                                      </li>
+                                  <li>
+                                          <a href="/en-my/news/3889/main/2013/01/14/3670752/german-bundesliga">Bundesliga</a>
+                                      </li>
+                                  <li>
+                                          <a href="/en-my/news/3889/main/2013/01/14/3670841/uefa-champions-league">UEFA Champions League</a>
+                                      </li>
+                                  <li>
+                                          <a href="/en-my/news/3889/main/2013/01/14/3670868/europa-league">Europa League</a>
+                                      </li>
+                                  <li>
+                                          <a href="/en-my/news/3889/main/2013/01/14/3670893/french-ligue-1">Ligue 1</a>
+                                      </li>
+                                  <li>
+                                          <a href="/en-my/news/3889/main/2013/01/14/3670906/international-football">International Football</a>
+                                      </li>
+                                  <li>
+                                          <a href="/en-my/news/3889/main/2013/01/14/3670921/asian-club-news">Asian Club News</a>
+                                      </li>
+                                  <li>
+                                          <a href="/en-my/news/3889/main/2013/01/14/3670935/south-american-news">South American News</a>
+                                      </li>
+                                  <li>
+                                          <a href="/en-my/news/3889/main/2013/01/14/3670959/concacaf">Concacaf</a>
+                                      </li>
+                                  <li>
+                                          <a href="http://www.youtube.com/goal">Youtube Channel</a>
+                                      </li>
+                              </ul>
+            </li>
+                              <li class="more"><a href="#">More</a></li>
+    </ul>
+
+          <!-- module:Navigation\Competition -->
+<ul class="submenu clearfix" data-subnavigation>
+      <li class="breadcrumb">
+      <a href="#" class="arrow"></a>
+      <ul>
+                  <li><a href="/en-my/news/3890/england">England - Premier League</a></li>
+                  <li><a href="/en-my/news/3975/fa-cup">England - FA Cup</a></li>
+                  <li><a href="/en-my/news/4040/france">France - Ligue 1</a></li>
+                  <li><a href="/en-my/news/4004/germany">Germany - 1. Bundesliga</a></li>
+                  <li><a href="/en-my/news/3899/italy">Italy - Serie A</a></li>
+                  <li><a href="/en-my/news/3895/spain">Spain - Primera Division</a></li>
+                  <li><a href="/en-my/news/3896/malaysia">Malaysia Super League</a></li>
+                  <li><a href="/en-my/news/3904/champions-league">UEFA Champions League</a></li>
+                  <li><a href="/en-my/news/3959/europa-league">UEFA Europa League</a></li>
+                  <li><a href="/en-my/news/5154/afc-cup">Asia - AFC Cup</a></li>
+              </ul>
+              <a href="/en-my/results-standings/122/england-capital-one-cup-league-cup">England - Capital One Cup (League Cup)</a>
+          </li>
+        <li class="breadcrumb">
+      <a href="#" class="arrow"></a>
+      <ul>
+                  <li><a href="/en-my/teams/england/94/arsenal-fc">Arsenal FC</a></li>
+                  <li><a href="/en-my/teams/england/95/aston-villa">Aston Villa</a></li>
+                  <li><a href="/en-my/teams/england/1051/barnsley">Barnsley</a></li>
+                  <li><a href="/en-my/teams/england/103/birmingham-city">Birmingham City</a></li>
+                  <li><a href="/en-my/teams/england/1094/blackpool">Blackpool</a></li>
+                  <li><a href="/en-my/teams/england/100/bolton-wanderers">Bolton Wanderers</a></li>
+                  <li><a href="/en-my/teams/england/1106/bristol-city">Bristol City</a></li>
+                  <li><a href="/en-my/teams/england/702/burnley">Burnley</a></li>
+                  <li><a href="/en-my/teams/england/2038/bury-fc">Bury F.C.</a></li>
+                  <li><a href="/en-my/teams/england/703/cardiff">Cardiff</a></li>
+                  <li><a href="/en-my/teams/england/96/chelsea-fc">Chelsea FC</a></li>
+                  <li><a href="/en-my/teams/england/3490/crewe-alexandra">Crewe Alexandra</a></li>
+                  <li><a href="/en-my/teams/england/706/derby-county">Derby County</a></li>
+                  <li><a href="/en-my/teams/england/1098/doncaster-rovers">Doncaster Rovers</a></li>
+                  <li><a href="/en-my/teams/england/110/everton">Everton</a></li>
+                  <li><a href="/en-my/teams/england/101/fulham">Fulham</a></li>
+                  <li><a href="/en-my/teams/england/1141/huddersfield-town">Huddersfield Town</a></li>
+                  <li><a href="/en-my/teams/england/707/hull-city-tigers">Hull City Tigers</a></li>
+                  <li><a href="/en-my/teams/england/291/leeds">Leeds</a></li>
+                  <li><a href="/en-my/teams/england/363/leicester-city">Leicester City</a></li>
+                  <li><a href="/en-my/teams/england/98/liverpool">Liverpool</a></li>
+                  <li><a href="/en-my/teams/england/109/manchester-city">Manchester City</a></li>
+                  <li><a href="/en-my/teams/england/97/manchester-united">Manchester United</a></li>
+                  <li><a href="/en-my/teams/england/1169/mansfield-town">Mansfield Town</a></li>
+                  <li><a href="/en-my/teams/england/99/newcastle-united">Newcastle United</a></li>
+                  <li><a href="/en-my/teams/england/1977/norwich-city">Norwich City</a></li>
+                  <li><a href="/en-my/teams/england/1002/nottingham-forest">Nottingham Forest</a></li>
+                  <li><a href="/en-my/teams/england/1096/peterborough-united">Peterborough United</a></li>
+                  <li><a href="/en-my/teams/england/712/preston-north-end">Preston North End</a></li>
+                  <li><a href="/en-my/teams/england/1099/rochdale">Rochdale</a></li>
+                  <li><a href="/en-my/teams/england/1036/scunthorpe-united-fc">Scunthorpe United FC</a></li>
+                  <li><a href="/en-my/teams/england/1101/shrewsbury-town">Shrewsbury Town</a></li>
+                  <li><a href="/en-my/teams/england/106/southampton">Southampton</a></li>
+                  <li><a href="/en-my/teams/england/717/stoke-city">Stoke City</a></li>
+                  <li><a href="/en-my/teams/england/537/sunderland">Sunderland</a></li>
+                  <li><a href="/en-my/teams/england/893/swansea-city">Swansea City</a></li>
+                  <li><a href="/en-my/teams/england/1143/swindon">Swindon</a></li>
+                  <li><a href="/en-my/teams/england/105/tottenham">Tottenham</a></li>
+                  <li><a href="/en-my/teams/england/1843/tranmere-rovers">Tranmere Rovers</a></li>
+                  <li><a href="/en-my/teams/england/718/watford">Watford</a></li>
+                  <li><a href="/en-my/teams/england/112/west-bromwich-albion">West Bromwich Albion</a></li>
+                  <li><a href="/en-my/teams/england/536/wigan-athletic">Wigan Athletic</a></li>
+                  <li><a href="/en-my/teams/england/2419/york-city">York City</a></li>
+              </ul>
+      <span>Teams</span>
+    </li>
+        <li>
+      <a href="/en-my/live-scores/fixtures/competition_id/122">Fixtures</a>
+    </li>
+        <li>
+      <a href="/en-my/results/122/england-capital-one-cup-league-cup">Results</a>
+    </li>
+        <li>
+      <a href="/en-my/results-standings/122/england-capital-one-cup-league-cup">Table</a>
+    </li>
+    </ul>
+
+<!-- /module:Navigation\Competition, time:0.016396999359131s -->        <span class="slide-left" data-role="submenu-slider"></span>
+    <span class="slide-right" data-role="submenu-slider"></span>
+  </div>
+  <form action="/en-my/search/results" method="get" class="form-search">
+    <input type="text" name="q" placeholder="Search for team or player" class="keyword">
+    <input type="submit" value="" class="submit">
+  </form>
+</div>
+<!-- /module:Navigation, time:0.029811143875122s --><script type="text/javascript">
+$(function() {
+  $('[data-role="edition-picker-opener"]').click(function(event){
+    event.preventDefault();
+    $('body').toggleClass('edition-picker-opened');
+  });
+
+  Goal.events.navigation.init.forDevice.call(this, 'desktop');
+  Goal.events.login.init();
+});
+</script>
+<!-- /widget:header, time:0.039797067642212s -->      <div id='contentBackground'>
+          <div id="page-content">
+
+            <div id="middle_wrapper"  >
+
+            </div>
+
+                <div id="cookie_crumb_div">
+    <div class="left">
+                    <!--a class="item" href="#p"><span class="last">Southampton vs Bristol City Report</span></a-->
+            <span class="item last">Southampton vs Bristol City Report</span>
+            </div>
+
+    <div class="right">
+        <!-- Breadcrumbing Sponsor -->    </div>
+    <div class="clear">&nbsp;</div>
+</div>
+    <!-- widget:headerstrip -->
+<div id="goal-widget-headerstrip-10" class="widget header-strip">
+    <div id="ad970x40" >
+        <script type="text/javascript">
+            if (typeof ADTECH_showAd === "function") {
+                ADTECH_showAd("0", document, true);
+            }
+        </script>
+    </div>
+    </div>
+<script type="text/javascript">
+$(function() {
+    var wrapper = $("#goal-widget-headerstrip-10");
+    var wrapperWidth = wrapper.outerWidth();
+    var adWidth = Math.max.apply(null, wrapper.find(":not(script,noscript)").map(
+            function() {
+                return $(this).outerWidth();
+            }
+        ).get());
+
+    if (adWidth > wrapperWidth) {
+        wrapper.css({
+            "position": "relative",
+            "left": -1 * ((adWidth - wrapperWidth) / 2)
+        });
+    }
+});
+</script>
+<!-- /widget:headerstrip, time:0.00018501281738281s -->
+				<div id="l_ad_950" class="hidden">
+									</div><!-- #l_ad_950 -->
+
+                   <div id="leftModules">
+                      <div id="match-content-wrapper">
+    
+<div id="scores">
+    <div id="league_name" >
+        <div class="league_name_txt" style="float:left; width: 250px; text-align: left;">
+            <a href="/en-my/results-standings/122/england-capital-one-cup-league-cup">England - Capital One Cup (League Cup)</a>
+        </div>
+        <div  style="width:350px; float:right; "></div>
+        <div class="clear"></div>
+    </div>
+	<div class="clear">&nbsp;</div>
+
+		<div id='updateArea'>
+    <div id="score">
+		<div id="score_team">
+			<div id="score_team_left" class="team home">
+			<a href="/en-my/teams/england/106/southampton"><img alt="Southampton" src="http://i1.goal.com/web/goal/2013.09.26-v1/images/default/team/150x150/670.png" id="logo_team1" height="30" width="30" /></a>
+                <div class="score_team_left_name">
+                    <a href="/en-my/teams/england/106/southampton">Southampton</a>
+                </div>
+			</div>
+			<div id="score_team_vs">
+              <span class="style2">2</span>
+              <span class="vs-separator">vs</span>
+              <span class="style2">0</span>
+			</div>
+			<div id="score_team_right" class="team away">
+                <div class="score_team_right_name">
+                    <a href="/en-my/teams/england/1106/bristol-city">Bristol City</a>
+                </div>
+			<a href="/en-my/teams/england/1106/bristol-city"><img alt="Bristol City" src="http://i2.goal.com/web/goal/2013.09.26-v1/images/default/team/150x150/707.png" id="logo_team2" height="30" width="30" /></a>
+			</div>
+		</div>
+        <div align="center" id="game_status">
+            <strong><span class="style2">Played</span></strong><br />
+            September 25, 2013 2:45 AM MYT<br />St. Mary's Stadium &mdash; Southampton, Hampshire<br />Referee:&#x202c; G. Scott&lrm;<br />Attendance:&#x202c; 8539&lrm;        </div>
+    </div>
+<div class="clear">&nbsp;</div>
+
+<div id="team_scorers">
+                	<div class="team1_scorers" style="background-color: #DDDDDD">
+        	                <span class="minute">14&prime;</span> <span class="goalType"></span>
+                <a class="score_player" href="/en-my/people/uruguay/34194/g-ram%C3%ADrez">G. Ramírez</a>                    	</div> <!--  team1 scorers  -->
+			<div class="scorers_line"></div>
+        	<div class="team2_scorers" style="background-color: #DDDDDD">
+        	&nbsp;        	</div> <!--  team 2 scorers -->
+                	<div class="team1_scorers" style="background-color: #FFFFFF">
+        	                <span class="minute">83&prime;</span> <span class="goalType"></span>
+                <a class="score_player" href="/en-my/people/netherlands/4326/jos-hooiveld">Jos Hooiveld</a>                    	</div> <!--  team1 scorers  -->
+			<div class="scorers_line"></div>
+        	<div class="team2_scorers" style="background-color: #FFFFFF">
+        	&nbsp;        	</div> <!--  team 2 scorers -->
+            </div>
+    </div>  <!--  update area -->
+
+    </div>
+
+<div class="clear"></div>
+    <div id="match-content">
+        
+<div id="tab-nav">
+        <ul>
+        <li><span class="off"><a href="/en-my/match/123270/southampton-vs-bristol-city/preview">Preview</a></span></li>
+        <li><span class="off"><a href="/en-my/match/123270/southampton-vs-bristol-city/team-news/1">Team News</a></span></li>
+
+                    <li>
+                <span class="off">
+                    <a href="/en-my/match/123270/southampton-vs-bristol-city/play-by-play">Play by Play</a>                </span>            </li>
+                    <li>
+                <span class="off">
+                    <a href="/en-my/match/123270/southampton-vs-bristol-city/lineup-stats">
+                        Lineups &amp; Stats                    </a>
+                </span>            </li>
+                    <li>
+                <span class="on">
+                    <a href="/en-my/match/123270/southampton-vs-bristol-city/report">
+                        Match Report                    </a>
+                </span>
+            </li>
+            </ul>
+    <div class="clear"></div>
+    </div>
+<div class="clear"></div>
+
+        <div id="betting-widget-switch" class="hidden">
+                    </div>
+
+        <div id="top_flop">
+
+<div id="top_of_the_match">
+    <div id="top_match_team1">
+        <div id="top_match_headline1">
+            Top of the Match        </div>
+
+        <div class="top_match_goal">
+            <div class="top_match_player_thumb">
+            <img alt="?" src="http://i1.goal.com/web/goal/2013.09.26-v1/images/default/match/question_topflop.gif" height="45" width="40" />            </div>
+
+            <div class="player_team_name">
+				<div class="player_team_name_mid">
+					<div class="player_team_name_text">
+						To Be Announced Shortly					</div>
+				</div>
+            </div>
+        </div>
+
+        <div class="top_match_fan">
+            <div class="top_match_player_thumb">
+                            <img alt="G. Ramírez" height="45" src="http://i2.goal.com/files/images/stats/goal/player-images/94/34194_40x45.jpg" width="40" />
+                        </div>
+
+            <div class="player_team_name">
+				<div class="player_team_name_mid">
+					<div class="player_team_name_text">
+													<strong>G. Ramírez</strong> <br />Southampton											</div>
+				</div>
+            </div>
+        </div>
+    </div>
+
+    <div id="top_match_team2">
+        <div id="top_match_headline2">
+            Flop of the Match        </div>
+
+        <div class="top_match_goal">
+            <div class="top_match_player_thumb">
+            <img alt="?" src="http://i1.goal.com/web/goal/2013.09.26-v1/images/default/match/question_topflop.gif" height="45" width="40" />            </div>
+
+            <div class="player_team_name">
+				<div class="player_team_name_mid">
+					<div class="player_team_name_text">
+						To Be Announced Shortly					</div>
+				</div>
+            </div>
+        </div>
+
+        <div class="top_match_fan">
+            <div class="top_match_player_thumb">
+                            <img alt="Marlon  Pack" height="45" src="http://i2.goal.com/files/images/stats/goal/player-images/56/64956_40x45.jpg" width="40" />
+                        </div>
+
+            <div class="player_team_name">
+				<div class="player_team_name_mid">
+					<div class="player_team_name_text">
+						<a href="man-of-the-match">Vote for Man of the Match</a>					</div>
+				</div>
+            </div>
+        </div>
+    </div>
+
+    <div class="clear"></div>
+    <div id="top_match_footer">
+        <div style="float:left; padding-top:10px">
+            <img height="12" src="http://i1.goal.com/web/goal/2013.09.26-v1/images/default/match/gr.gif" width="12" /> <span class="legend-goal-rating"></span> Goal.com Rating <img height="12" src="http://i2.goal.com/web/goal/2013.09.26-v1/images/default/match/fr.gif" width="12" /> <span class="legend-fans-rating"></span> Fans' Rating        </div>
+        <div class="clearer">
+            &nbsp;
+        </div>
+    </div>
+</div>
+
+<div class="clear"></div>
+</div>
+
+        <div class="clear"></div>
+		<div id="report_page_wrapper">
+        <div id="article_headline">
+<input type="hidden" value="Next" name="nextString" id="nextString" />
+<input type="hidden" value="Previous" name="prevString" id="prevString" />
+    <h1>Southampton 2-0 Bristol City: Ramirez stunner puts Saints through</h1>
+    <h2>Goals from the Uruguayan and Jos Hooiveld gave the Saints a comfortable victory in the third round of the Capital One Cup, having made 11 changes from their win over Liverpool</h2>
+    <div class="articleDate">
+        <h4></h4>
+
+  
+        <div class="addthis_toolbox">
+            <a class="addthis_button_email"><img src="http://i1.goal.com/web/goal/2013.09.26-v1/images/default/news/email_icon_02.gif" /></a>
+            <a class="addthis_button_print"><img src="http://i2.goal.com/web/goal/2013.09.26-v1/images/default/news/print_icon_02.gif" /></a>
+            <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=goal"></script>
+        </div>
+        <div class="clear"></div>
+    </div>
+    <h3>By Holly Gillett    </h3>
+</div>
+<div class="moreOnLinks">
+    
+        <div id="article_correlations">
+            <span id="article_related_links_heading">More On&nbsp;:&nbsp;</span>
+            <a href="/en-my/teams/england/1106/bristol-city?ICID=MR_MO_bristol-city">Bristol City</a>, <a href="/en-my/teams/england/106/southampton?ICID=MR_MO_southampton">Southampton</a>, <a href="/en-my/match/123270/southampton-vs-bristol-city/index?ICID=MR_MO_southampton-vs-bristol-city">Southampton vs Bristol City</a>        </div>
+    </div>
+
+
+<div id="article_detail_block">
+    <div class="social_media">
+
+        <!-- widget:sharebar -->
+<div class="widget sharebar" id="goal-widget-sharebar-1">
+    <div class="buttons" id="gigya-goal-widget-sharebar-1"></div>
+    <div class="buttons" id="custom-goal-widget-sharebar-1">
+            </div>
+    <br class="clear" />
+</div>
+
+    <script type="text/javascript">
+        gigya.socialize.showShareBarUI({
+            containerID:   "gigya-goal-widget-sharebar-1",
+            shareButtons:  "facebook-like,twitter-tweet,google-plusone",
+            showCounts:    "top",
+            userAction:     new gigya.socialize.UserAction(),
+            onSendDone:     function(data) {
+                // Omniture tracking
+                s.eVar13 = data.providers;
+            }
+        });
+    </script>
+<!-- /widget:sharebar, time:0.00045394897460938s -->
+                    <div class="goal_comment_count">
+                <div class="bubble">
+                                    </div>
+                <a class="comments_text" href="#comments">
+                    Comments                </a>
+            </div>
+        
+            <div id="gigya_reaction_bar">
+                <div id="gigya_reaction_bar_awesome"></div>
+                <div id="gigya_reaction_bar_dislike"></div>
+            </div>
+
+
+        <!-- widget:gigyareactions -->
+<script type="text/javascript">
+$(function() {
+    gigya.socialize.showReactionsBarUI({
+        'containerID':'gigya_reaction_bar',
+        'showTermsLink':false,
+        'hideGigyaLink':true,
+        'multipleReactions':false,
+        'barID':'article_4287032',
+        'bodytext':'Share it on your favorite social networks:',
+        'showCounts':'top',
+        'showAlwaysShare':'unchecked',
+        'promptShare':true,
+        'userAction':(function() {
+            var action = new gigya.socialize.UserAction();
+            action.setTitle("Report: Southampton 2-2 Bristol City");
+            action.setLinkBack('http://www.goal.com/en-my/news/3957/league-cup/2013/09/25/4287032/southampton-2-0-bristol-city-ramirez-stunner-puts-saints');
+            action.setDescription("Goals from the Uruguayan and Jos Hooiveld gave the Saints a comfortable victory in the third round of the Capital One Cup, having made 11 changes from their win over Liverpool");
+            action.addMediaItem({"type":"image","src":"http://u.goal.com/321000/321088_news.jpg"});
+            return action;
+        }()),
+        'reactions': [{"text":"Awesome","ID":"awesome","iconImgUp":"http://i1.goal.com/web/goal/2013.09.26-v1/images/default/gigya/awesome_up.png","iconImgOver":"http://i2.goal.com/web/goal/2013.09.26-v1/images/default/gigya/awesome_down.png","headerText":"I think it's awesome - Report: Southampton 2-2 Bristol City","bodyText":"Goals from the Uruguayan and Jos Hooiveld gave the Saints a comfortable victory in the third round of the Capital One Cup, having made 11 changes from their win over Liverpool"},{"text":"Dislike","ID":"dislike","iconImgUp":"http://i1.goal.com/web/goal/2013.09.26-v1/images/default/gigya/dislike_up.png","iconImgOver":"http://i2.goal.com/web/goal/2013.09.26-v1/images/default/gigya/dislike_down.png","headerText":"I don't like this - Report: Southampton 2-2 Bristol City","bodyText":"Goals from the Uruguayan and Jos Hooiveld gave the Saints a comfortable victory in the third round of the Capital One Cup, having made 11 changes from their win over Liverpool"}]    });
+});
+</script>
+<!-- /widget:gigyareactions, time:0.00027799606323242s -->
+    </div> <!-- end social_media div -->
+
+    <div class="clear"></div>
+</div>
+
+
+<div id="large_article_image">
+    <img alt="Gaston Ramirez,SOUTHAMPTON-BRISTOL" src="http://u.goal.com/321000/321088hp2.jpg" />
+    <div class="caption">Getty Images</div>
+</div>
+<div class="KonaBody" id="article_content">
+    <span id="divAdnetKeyword">
+    Goals from <a href="http://www.goal.com/en-my/people/uruguay/34194/g-ram&iacute;rez" target="_blank">Gaston Ramirez</a> and <a href="http://www.goal.com/en-my/people/netherlands/4326/jos-hooiveld" target="_blank">Jos Hooiveld</a> gave <a href="http://www.goal.com/en-my/teams/england/106/southampton" target="_blank">Southampton</a> a comfortable 2-0 win over <a href="http://www.goal.com/en-my/teams/england/1106/bristol-city" target="_blank">Bristol City</a> in the <a href="http://www.goal.com/en-my/news/3957/capital-one-cup" target="_blank">Capital One Cup</a> third round on Tuesday.<br /><div class="ap_relatedLinksBox"> <div>Don't Miss</div> <div class='row'><ul><li><a href="/en-my/news/3890/england/2013/09/23/4282401/premier-league-team-of-the-week-ozil-impresses-again?ICID=MR_DM_1" >Premier League Team of the Week</a></li><li><a href="/en-my/news/3890/england/2013/09/22/4279337/pochettino-praises-outstanding-southampton?ICID=MR_DM_2" >Pochettino hails 'outstanding' Saints</a></li></ul><div class="clear"></div></div><div class='row'><ul><li><a href="/en-my/news/3890/england/2013/09/21/4278773/player-ratings-liverpool-0-1-southampton?ICID=MR_DM_3" >Player Ratings: Liverpool 0-1 Southampton</a></li><li><a href="/en-my/news/3890/england/2013/09/21/4278768/liverpool-0-1-southampton-lovren-ends-reds-unbeaten-run?ICID=MR_DM_4" >Match Report: Liverpool 0-1 Saints</a></li></ul><div class="clear"></div></div></div><br />The Uruguay international's early strike, a remarkable volley, gave the Premier League team a perfect start but their progress was not secured until the defender's 83rd-minute header. <br /><br />Sean O'Driscoll made four changes to the City side that lost 3-2 to Swindon Town in League One on Saturday, with Louis Carey (illness) and James O'Connor (thigh) among those left out as Stephen McLaughlin was handed his full debut. <br /><br />Mauricio Pochettino, meanwhile, changed his entire team from their 1-0 win at Liverpool, with both Guly Do Prado and Tadanari Lee making their first appearances of the season.<br /><br />Jack Cork, who is yet to feature in the Premier League this season, was back in the side after playing in the 5-1 second-round triumph over Barnsley and the 24-year-old was immediately involved as he looked to slip in Ramirez only to see his attempted pass cut out.<br /><div id="ad160x600" style="position: relative;float: left;margin: 10px;"><script language="javascript">
+
+(function(dispatch) {
+    if ("" === 'mpu' && "" && ($(window).width() > 1020 ? 'desktop' : 'tablet') !== "") {
+      return false;
+    }
+    dispatch.call();
+})(function() {
+document.write('<scr'+'ipt language="javascript1.1" ' +' src="http://adserver.adtech.de/addyn|3.0|327.0|3555310|0|154|ADTECH;cookie=info;alias=en-myTS;key=match:report+L122;kvcampaign=' + ((typeof $.getCampaignName == 'function') ? $.getCampaignName() : '') + ';kvlayout=' + (($(window).width() > 1020) ? 'wide' : 'narrow') + ';kvskin=' + (($(window).width() > 1024) ? 'yes' : 'no') + ';kvenv=production;kvpagetype=match:report;kvarticleid=;kvteamid=106:1106;kvmatchid=123270;kvsectionid=L122;loc=100;target=_blank;sub1=[subst];grp=396498783;misc=396498783"></scri'+'pt>');
+
+});
+</script>
+<noscript>
+<a href="http://adserver.adtech.de/adlink|3.0|327.0|3555310|0|154|ADTECH;loc=300;alias=en-myTS;key=match:report+L122;kvenv=production;kvpagetype=match:report;kvarticleid=;kvteamid=106:1106;kvmatchid=123270;kvsectionid=L122;cookie=info;" target="_blank">
+<img src="http://adserver.adtech.de/adserv|3.0|327.0|3555310|0|154|ADTECH;loc=300;alias=en-myTS;key=match:report+L122;kvenv=production;kvpagetype=match:report;kvarticleid=;kvteamid=106:1106;kvmatchid=123270;kvsectionid=L122;cookie=info;">
+</a>
+</noscript></div><br /><strong>Ramirez</strong> did get on the scoresheet soon after, however, delighting the crowd on 15 minutes with a stunning volley from James Ward-Prowse's flick-on.<br /><br />Pochettino's side were well in charge of the game and could have doubled their advantage soon after when Lee was denied by City goalkeeper Elliot Parish.<br /><br />The visitors then had a chance of their own as Jay Emmanuel-Thomas's shot was parried away by Kelvin Davis and they could have drawn level before half-time when Derrick Williams headed over a free kick from Brendan Maloney.<br /><br />Guly then had the best chance of the early stages of the second half but he failed to guide his header from Ward-Prowse's corner past the alert Parish.<br /><br />Southampton struggled for rhythm in the second period though and the home crowd became increasingly restless as City pressed for an equaliser, with a good cross from Emmanuel-Thomas just failing to find the boot of McLaughlin.<br /><br />But Pochettino's side then confirmed their place in round four when <strong>Hooiveld</strong> diverted Ward-Prowse's inswinging corner home. </span>
+<div class="clear"></div>
+
+</div>  <!--  End article Body -->
+
+<!-- betting default-2 -->
+<div class="betting-widget-default-2 betting-widget-default-1" title="">
+    <table>
+                    <tr class="hidden" data-bookmaker="Ladbrokes">
+                <td>
+                    <span class="href Ladbrokes" onclick="Goal.widget('betting').trackEvent('click', {'bookmaker': 'Ladbrokes', 'widgetType': 'default-2'}); window.open('http://ff.connextra.com/Ladbrokes/selector/click?client=Ladbrokes&placement=INT_GEO_GoalDefaultBonus_gif_place&AFF_ID=81047', 'Betting');">Sign up with Ladbrokes for a free bet up to $100</span>
+                </td>
+                <td>
+                    <em class="href" onclick="Goal.widget('betting').trackEvent('click', {'bookmaker': 'Ladbrokes', 'widgetType': 'default-2'}); window.open('http://ff.connextra.com/Ladbrokes/selector/click?client=Ladbrokes&placement=INT_GEO_GoalDefaultBonus_gif_place&AFF_ID=81047', 'Betting');">
+                        <img src="http://i1.goal.com/web/goal/2013.09.26-v1/images/betting/ladbrokes_w.png" alt="Ladbrokes" class="bookmaker"/>
+                    </em>
+                </td>
+            </tr>
+                        </table>
+</div>
+
+<script type="text/javascript">
+    $(document).ready(function() { 
+        Goal.widget('betting').rotator( 'default-2', $('.betting-widget-default-2 table tr') );
+    });
+</script>
+
+<!-- widgets for likes and tweets -->
+<!-- widget:taboola -->
+<div id="goal-widget-taboola-3" class="widget taboola"></div>
+<script type="text/javascript">
+    
+    (function() {
+
+        var params = {
+            mode: 'grid-4x2',
+                            placement: 'article-match',
+                                    container: 'goal-widget-taboola-3'
+        }
+
+        window._taboola = window._taboola || [];
+        
+        window._taboola.push({
+            article: 'auto'
+        });
+
+        window._taboola.push(params);
+
+    })();
+    
+</script>
+<script type="text/javascript" src="http://cdn.taboolasyndication.com/libtrc/goal/loader.js"></script>
+<!-- /widget:taboola, time:0.00020289421081543s --><div id='article_likes_and_tweets'>
+       <div class='twit_box'>
+         <!-- widget:sharebar -->
+<div class="widget sharebar" id="goal-widget-sharebar-4">
+    <div class="buttons" id="gigya-goal-widget-sharebar-4"></div>
+    <div class="buttons" id="custom-goal-widget-sharebar-4">
+            </div>
+    <br class="clear" />
+</div>
+
+    <script type="text/javascript">
+        gigya.socialize.showShareBarUI({
+            containerID:   "gigya-goal-widget-sharebar-4",
+            shareButtons:  "twitter",
+            showCounts:    "right",
+            userAction:     new gigya.socialize.UserAction(),
+            onSendDone:     function(data) {
+                // Omniture tracking
+                s.eVar13 = data.providers;
+            }
+        });
+    </script>
+<!-- /widget:sharebar, time:0.00014901161193848s -->                  <div class="socialText">
+           <a href="http://twitter.com/Goal_MY" >  Follow Goal.com on Twitter</a>
+         </div>
+                  <div class="clear"></div>
+    </div>
+
+    <div class='fb_box'>
+         <!-- widget:sharebar -->
+<div class="widget sharebar" id="goal-widget-sharebar-5">
+    <div class="buttons" id="gigya-goal-widget-sharebar-5"></div>
+    <div class="buttons" id="custom-goal-widget-sharebar-5">
+            </div>
+    <br class="clear" />
+</div>
+
+    <script type="text/javascript">
+        gigya.socialize.showShareBarUI({
+            containerID:   "gigya-goal-widget-sharebar-5",
+            shareButtons:  "facebook",
+            showCounts:    "right",
+            userAction:     new gigya.socialize.UserAction(),
+            onSendDone:     function(data) {
+                // Omniture tracking
+                s.eVar13 = data.providers;
+            }
+        });
+    </script>
+<!-- /widget:sharebar, time:0.0001380443572998s -->                  <div class="socialText">
+              <a href="https://www.facebook.com/GoalMalaysia" >Follow Goal.com on Facebook</a>
+         </div>
+                 <div class="clear"></div>
+    </div>
+    </div>
+
+<div class="clear"></div>
+		</div>
+		<div class="clear"></div>
+        <div id="lineupWithRatings">
+            <div id="match_lineup">
+    <div class="group"><a name="starters"></a>
+                                <div id="team1_players_lineup" class="team-lineup">
+                                    <h3 class="style4 team_name_lineup">Southampton</h3>
+                
+                
+                                            <div class="player_info_tab_lineup ">
+                            <div class="player_shirt_number_lineup">1</div>
+                            <div class="player_name_lineup">
+                                <a class="player_lineup" href="/en-my/people/england/10534/kelvin-davis">Kelvin Davis</a><br/><strong>Goalkeeper</strong><br />
+                                                                                                                                                                    </div>
+                                                            <div class="player_rating_lineup">
+                                                                        &nbsp;-&nbsp;
+                                                                    </div>
+                                                            
+                                                    </div>
+                                    
+                                            <div class="player_info_tab_lineup ">
+                            <div class="player_shirt_number_lineup">3</div>
+                            <div class="player_name_lineup">
+                                <a class="player_lineup" href="/en-my/people/japan/23133/maya-yoshida">Maya  Yoshida</a><br/><strong>Defender</strong><br />
+                                                                                                                                                                    </div>
+                                                            <div class="player_rating_lineup">
+                                                                        &nbsp;-&nbsp;
+                                                                    </div>
+                                                            
+                                                    </div>
+                                    
+                                            <div class="player_info_tab_lineup ">
+                            <div class="player_shirt_number_lineup">13</div>
+                            <div class="player_name_lineup">
+                                <a class="player_lineup" href="/en-my/people/england/32068/daniel-fox">Daniel Fox</a><br/><strong>Defender</strong><br />
+                                                                                                                                                                    </div>
+                                                            <div class="player_rating_lineup">
+                                                                        &nbsp;-&nbsp;
+                                                                    </div>
+                                                            
+                                                    </div>
+                                    
+                                            <div class="player_info_tab_lineup ">
+                            <div class="player_shirt_number_lineup">5</div>
+                            <div class="player_name_lineup">
+                                <a class="player_lineup" href="/en-my/people/netherlands/4326/jos-hooiveld">Jos Hooiveld</a><br/><strong>Defender</strong><br />
+                                                                                                                                                                                            <img src="http://i2.goal.com/web/goal/2013.09.26-v1/images/default/match/y1.gif" alt="13&prime;" title="13&prime;"/>
+                                                                                                                        <img src="http://i1.goal.com/web/goal/2013.09.26-v1/images/default/match/g1.gif" alt="83&prime;" title="83&prime;"/>
+                                                                                                </div>
+                                                            <div class="player_rating_lineup">
+                                                                        &nbsp;-&nbsp;
+                                                                    </div>
+                                                            
+                                                    </div>
+                                    
+                                            <div class="player_info_tab_lineup ">
+                            <div class="player_shirt_number_lineup">8</div>
+                            <div class="player_name_lineup">
+                                <a class="player_lineup" href="/en-my/people/northern-ireland/7742/steven-davis">Steven Davis</a><br/><strong>Midfielder</strong><br />
+                                                                                                                                                                    </div>
+                                                            <div class="player_rating_lineup">
+                                                                        &nbsp;-&nbsp;
+                                                                    </div>
+                                                            
+                                                    </div>
+                                    
+                                            <div class="player_info_tab_lineup ">
+                            <div class="player_shirt_number_lineup">10</div>
+                            <div class="player_name_lineup">
+                                <a class="player_lineup" href="/en-my/people/uruguay/34194/g-ram%C3%ADrez">G. Ramírez</a><br/><strong>Striker</strong><br />
+                                                                                                                                                                                            <img src="http://i2.goal.com/web/goal/2013.09.26-v1/images/default/match/g1.gif" alt="14&prime;" title="14&prime;"/>
+                                                                                                </div>
+                                                            <div class="player_rating_lineup">
+                                                                        &nbsp;-&nbsp;
+                                                                    </div>
+                                                                    <img class="rating-icon" src="http://i1.goal.com/web/goal/2013.09.26-v1/images/default/match/d4.gif" alt="" />
+                                                            
+                                                    </div>
+                                    
+                                            <div class="player_info_tab_lineup ">
+                            <div class="player_shirt_number_lineup">16</div>
+                            <div class="player_name_lineup">
+                                <a class="player_lineup" href="/en-my/people/england/62598/james-ward-prowse">James  Ward-Prowse</a><br/><strong>Midfielder</strong><br />
+                                                                                                                                                                    </div>
+                                                            <div class="player_rating_lineup">
+                                                                        &nbsp;-&nbsp;
+                                                                    </div>
+                                                            
+                                                    </div>
+                                    
+                                            <div class="player_info_tab_lineup ">
+                            <div class="player_shirt_number_lineup">18</div>
+                            <div class="player_name_lineup">
+                                <a class="player_lineup" href="/en-my/people/england/16840/jack-cork">Jack Cork</a><br/><strong>Defender</strong><br />
+                                                                                                                                                                    </div>
+                                                            <div class="player_rating_lineup">
+                                                                        &nbsp;-&nbsp;
+                                                                    </div>
+                                                            
+                                                    </div>
+                                    
+                                            <div class="player_info_tab_lineup ">
+                            <div class="player_shirt_number_lineup">28</div>
+                            <div class="player_name_lineup">
+                                <a class="player_lineup" href="/en-my/people/england/75944/calum-chambers">Calum Chambers</a><br/><strong>Midfielder</strong><br />
+                                                                                                                                                                    </div>
+                                                            <div class="player_rating_lineup">
+                                                                        &nbsp;-&nbsp;
+                                                                    </div>
+                                                            
+                                                    </div>
+                                    
+                                            <div class="player_info_tab_lineup ">
+                            <div class="player_shirt_number_lineup">21</div>
+                            <div class="player_name_lineup">
+                                <a class="player_lineup" href="/en-my/people/brazil/48210/guilherme-do-prado">Guilherme  Do Prado</a><br/><strong>Midfielder</strong><br />
+                                                                                                                                                                    </div>
+                                                            <div class="player_rating_lineup">
+                                                                        &nbsp;-&nbsp;
+                                                                    </div>
+                                                            
+                                                    </div>
+                                    
+                                            <div class="player_info_tab_lineup ">
+                            <div class="player_shirt_number_lineup">19</div>
+                            <div class="player_name_lineup">
+                                <a class="player_lineup" href="/en-my/people/japan/23144/tadanari-lee">Tadanari  Lee</a><br/><strong>Striker</strong><br />
+                                                                                                                                                                                            <img src="http://i1.goal.com/web/goal/2013.09.26-v1/images/default/match/out.gif" alt="73&prime;" title="73&prime;"/>
+                                                                                                </div>
+                                                            <div class="player_rating_lineup">
+                                                                        &nbsp;-&nbsp;
+                                                                    </div>
+                                                            
+                                                    </div>
+                                                </div>
+                                <div id="team2_players_lineup" class="team-lineup">
+                                    <h3 class="style4 team_name_lineup right-col">Bristol City</h3>
+                
+                
+                                            <div class="player_info_tab_lineup ">
+                        
+                                                    <div class="player_rating_lineup right-col">
+                                                                &nbsp;-&nbsp;
+                                                            </div>
+                                                    
+                            <div class="player_shirt_number_lineup right-col">21</div>
+                            <div class="player_name_lineup right-col">
+                                <a class="player_lineup" href="/en-my/people/england/34793/elliott-parish">
+                                    Elliott Parish                                </a><br/>
+                                <strong>Goalkeeper</strong><br />
+                                                                                                                                                                    </div>
+                        </div>
+                                    
+                                            <div class="player_info_tab_lineup ">
+                        
+                                                    <div class="player_rating_lineup right-col">
+                                                                &nbsp;-&nbsp;
+                                                            </div>
+                                                    
+                            <div class="player_shirt_number_lineup right-col">27</div>
+                            <div class="player_name_lineup right-col">
+                                <a class="player_lineup" href="/en-my/people/ireland/48117/brendan-moloney">
+                                    Brendan  Moloney                                </a><br/>
+                                <strong>Defender</strong><br />
+                                                                                                                                                                    </div>
+                        </div>
+                                    
+                                            <div class="player_info_tab_lineup ">
+                        
+                                                    <div class="player_rating_lineup right-col">
+                                                                &nbsp;-&nbsp;
+                                                            </div>
+                                                    
+                            <div class="player_shirt_number_lineup right-col">-</div>
+                            <div class="player_name_lineup right-col">
+                                <a class="player_lineup" href="/en-my/people/ireland/65342/derrick-williams">
+                                    Derrick  Williams                                </a><br/>
+                                <strong>Defender</strong><br />
+                                                                                                                                                                    </div>
+                        </div>
+                                    
+                                            <div class="player_info_tab_lineup ">
+                        
+                                                    <div class="player_rating_lineup right-col">
+                                                                &nbsp;-&nbsp;
+                                                            </div>
+                                                    
+                            <div class="player_shirt_number_lineup right-col">4</div>
+                            <div class="player_name_lineup right-col">
+                                <a class="player_lineup" href="/en-my/people/england/60520/aden-flint">
+                                    Aden  Flint                                </a><br/>
+                                <strong>Defender</strong><br />
+                                                                                                                                                                    </div>
+                        </div>
+                                    
+                                            <div class="player_info_tab_lineup ">
+                        
+                                                    <div class="player_rating_lineup right-col">
+                                                                &nbsp;-&nbsp;
+                                                            </div>
+                                                    
+                            <div class="player_shirt_number_lineup right-col">7</div>
+                            <div class="player_name_lineup right-col">
+                                <a class="player_lineup" href="/en-my/people/england/48188/scott-wagstaff">
+                                    Scott  Wagstaff                                </a><br/>
+                                <strong>Defender</strong><br />
+                                                                                                                                                                                            <img src="http://i2.goal.com/web/goal/2013.09.26-v1/images/default/match/out.gif" alt="76&prime;" title="76&prime;"/>
+                                                                                                </div>
+                        </div>
+                                    
+                                            <div class="player_info_tab_lineup ">
+                        
+                                                    <div class="player_rating_lineup right-col">
+                                                                &nbsp;-&nbsp;
+                                                            </div>
+                                                    
+                            <div class="player_shirt_number_lineup right-col">20</div>
+                            <div class="player_name_lineup right-col">
+                                <a class="player_lineup" href="/en-my/people/england/12609/nicky-shorey">
+                                    Nicky Shorey                                </a><br/>
+                                <strong>Defender</strong><br />
+                                                                                                                                                                    </div>
+                        </div>
+                                    
+                                            <div class="player_info_tab_lineup ">
+                        
+                                                    <div class="player_rating_lineup right-col">
+                                                                &nbsp;-&nbsp;
+                                                            </div>
+                                                    
+                            <div class="player_shirt_number_lineup right-col">41</div>
+                            <div class="player_name_lineup right-col">
+                                <a class="player_lineup" href="/en-my/people/england/30604/jay-emmanuel-thomas">
+                                    Jay Emmanuel-Thomas                                </a><br/>
+                                <strong>Midfielder</strong><br />
+                                                                                                                                                                    </div>
+                        </div>
+                                    
+                                            <div class="player_info_tab_lineup ">
+                        
+                                                    <div class="player_rating_lineup right-col">
+                                                                &nbsp;-&nbsp;
+                                                            </div>
+                                                    
+                            <div class="player_shirt_number_lineup right-col">-</div>
+                            <div class="player_name_lineup right-col">
+                                <a class="player_lineup" href="/en-my/people/england/60483/bobby-reid">
+                                    Bobby Reid                                </a><br/>
+                                <strong>Midfielder</strong><br />
+                                                                                                                                                                                            <img src="http://i1.goal.com/web/goal/2013.09.26-v1/images/default/match/out.gif" alt="84&prime;" title="84&prime;"/>
+                                                                                                </div>
+                        </div>
+                                    
+                                            <div class="player_info_tab_lineup ">
+                        
+                                                    <div class="player_rating_lineup right-col">
+                                                                &nbsp;-&nbsp;
+                                                            </div>
+                                                    
+                            <div class="player_shirt_number_lineup right-col">-</div>
+                            <div class="player_name_lineup right-col">
+                                <a class="player_lineup" href="/en-my/people/england/60476/joe-bryan">
+                                    Joe  Bryan                                </a><br/>
+                                <strong>Defender</strong><br />
+                                                                                                                                                                                            <img src="http://i2.goal.com/web/goal/2013.09.26-v1/images/default/match/out.gif" alt="70&prime;" title="70&prime;"/>
+                                                                                                </div>
+                        </div>
+                                    
+                                            <div class="player_info_tab_lineup ">
+                        
+                                                    <div class="player_rating_lineup right-col">
+                                                                &nbsp;-&nbsp;
+                                                            </div>
+                                                            <img class="rating-icon" src="http://i2.goal.com/web/goal/2013.09.26-v1/images/default/match/d5.gif" alt="" />
+                                                    
+                            <div class="player_shirt_number_lineup right-col">7</div>
+                            <div class="player_name_lineup right-col">
+                                <a class="player_lineup" href="/en-my/people/england/64956/marlon-pack">
+                                    Marlon  Pack                                </a><br/>
+                                <strong>Midfielder</strong><br />
+                                                                                                                                                                    </div>
+                        </div>
+                                    
+                                            <div class="player_info_tab_lineup ">
+                        
+                                                    <div class="player_rating_lineup right-col">
+                                                                &nbsp;-&nbsp;
+                                                            </div>
+                                                    
+                            <div class="player_shirt_number_lineup right-col">-</div>
+                            <div class="player_name_lineup right-col">
+                                <a class="player_lineup" href="/en-my/people/ireland/70529/stephen-mclaughlin">
+                                    Stephen McLaughlin                                </a><br/>
+                                <strong>Striker</strong><br />
+                                                                                                                                                                    </div>
+                        </div>
+                                                </div>
+                <div class="clear"></div>
+    </div>
+    <div class="group">
+        <a name="substitutes"></a>
+                    <div id="substitutes_team1" class="team-lineup">
+                            <h3 class="style4 team_name_lineup">Substitutes</h3>
+            
+                            
+                                <div class="player_info_tab_lineup ">
+                    <div class="player_shirt_number_lineup">12</div>
+                    <div class="player_name_lineup">
+                        <a class="player_lineup" href="/en-my/people/argentina/65252/paulo-gazzaniga">
+                            Paulo  Gazzaniga                        </a><br/>
+                        <strong>Goalkeeper</strong><br />
+                                                                                                </div>
+
+                                            <div class="player_rating_lineup">
+                                                        &nbsp;-&nbsp;
+                                                    </div>
+                                            
+                                        </div>
+                                                
+                                <div class="player_info_tab_lineup ">
+                    <div class="player_shirt_number_lineup">20</div>
+                    <div class="player_name_lineup">
+                        <a class="player_lineup" href="/en-my/people/england/48208/adam-lallana">
+                            Adam  Lallana                        </a><br/>
+                        <strong>Midfielder</strong><br />
+                                                                                                </div>
+
+                                            <div class="player_rating_lineup">
+                                                        &nbsp;-&nbsp;
+                                                    </div>
+                                            
+                                        </div>
+                                                
+                                <div class="player_info_tab_lineup ">
+                    <div class="player_shirt_number_lineup">9</div>
+                    <div class="player_name_lineup">
+                        <a class="player_lineup" href="/en-my/people/england/26732/jay-rodriguez">
+                            Jay Rodriguez                        </a><br/>
+                        <strong>Striker</strong><br />
+                                                                                                                    <img src="http://i1.goal.com/web/goal/2013.09.26-v1/images/default/match/in.gif" alt="73&prime;" title="73&prime;"/>
+                                                                        </div>
+
+                                            <div class="player_rating_lineup">
+                                                        &nbsp;-&nbsp;
+                                                    </div>
+                                            
+                                        </div>
+                                                </div>
+                        <div id="substitutes_team2" class="team-lineup">
+                            <h3 class="style4 team_name_lineup right-col">Substitutes</h3>
+            
+                            
+                                    <div class="player_info_tab_lineup ">
+
+                    
+                                            <div class="player_rating_lineup right-col">
+                                                        &nbsp;-&nbsp;
+                                                    </div>
+                                                                    <div class="player_shirt_number_lineup right-col">34</div>
+                        <div class="player_name_lineup right-col">
+                            <a class="player_lineup" href="/en-my/people/england/17649/frank-fielding">
+                                Frank Fielding                            </a><br/>
+                            <strong>
+                                                          Goalkeeper                                                        </strong><br />
+                                                                                                                </div>
+                    </div>
+                                                    
+                                    <div class="player_info_tab_lineup ">
+
+                    
+                                            <div class="player_rating_lineup right-col">
+                                                        &nbsp;-&nbsp;
+                                                    </div>
+                                                                    <div class="player_shirt_number_lineup right-col">33</div>
+                        <div class="player_name_lineup right-col">
+                            <a class="player_lineup" href="/en-my/people/ireland/39034/greg-cunningham">
+                                Greg Cunningham                            </a><br/>
+                            <strong>
+                                                          Defender                                                        </strong><br />
+                                                                                                                </div>
+                    </div>
+                                                    
+                                    <div class="player_info_tab_lineup ">
+
+                    
+                                            <div class="player_rating_lineup right-col">
+                                                        &nbsp;-&nbsp;
+                                                    </div>
+                                                                    <div class="player_shirt_number_lineup right-col">-</div>
+                        <div class="player_name_lineup right-col">
+                            <a class="player_lineup" href="/en-my/people/australia/11901/neil-kilkenny">
+                                Neil Kilkenny                            </a><br/>
+                            <strong>
+                                                          Midfielder                                                        </strong><br />
+                                                                                                                                    <img src="http://i2.goal.com/web/goal/2013.09.26-v1/images/default/match/in.gif" alt="76&prime;" title="76&prime;"/>
+                                                                                    </div>
+                    </div>
+                                                    
+                                    <div class="player_info_tab_lineup ">
+
+                    
+                                            <div class="player_rating_lineup right-col">
+                                                        &nbsp;-&nbsp;
+                                                    </div>
+                                                                    <div class="player_shirt_number_lineup right-col">-</div>
+                        <div class="player_name_lineup right-col">
+                            <a class="player_lineup" href="/en-my/people/england/88899/wes-burns">
+                                Wes Burns                            </a><br/>
+                            <strong>
+                                                          Midfielder                                                        </strong><br />
+                                                                                                                </div>
+                    </div>
+                                                    
+                                    <div class="player_info_tab_lineup ">
+
+                    
+                                            <div class="player_rating_lineup right-col">
+                                                        &nbsp;-&nbsp;
+                                                    </div>
+                                                                    <div class="player_shirt_number_lineup right-col">18</div>
+                        <div class="player_name_lineup right-col">
+                            <a class="player_lineup" href="/en-my/people/england/34786/samel-baldock">
+                                Samel Baldock                            </a><br/>
+                            <strong>
+                                                          Striker                                                        </strong><br />
+                                                                                                                                    <img src="http://i1.goal.com/web/goal/2013.09.26-v1/images/default/match/in.gif" alt="84&prime;" title="84&prime;"/>
+                                                                                    </div>
+                    </div>
+                                                    
+                                    <div class="player_info_tab_lineup ">
+
+                    
+                                            <div class="player_rating_lineup right-col">
+                                                        &nbsp;-&nbsp;
+                                                    </div>
+                                                                    <div class="player_shirt_number_lineup right-col">9</div>
+                        <div class="player_name_lineup right-col">
+                            <a class="player_lineup" href="/en-my/people/england/9814/marlon-harewood">
+                                Marlon Harewood                            </a><br/>
+                            <strong>
+                                                          Striker                                                        </strong><br />
+                                                                                                                                    <img src="http://i2.goal.com/web/goal/2013.09.26-v1/images/default/match/in.gif" alt="70&prime;" title="70&prime;"/>
+                                                                                    </div>
+                    </div>
+                                                    </div>
+                    <div class="clear"></div>
+    </div>
+
+    <div class="group">
+        <a name="coach_manager"></a>
+                    <div id="coach_team1" class="team-lineup right_col">
+                                    <h3 class="style4 team_name_lineup">Coach/Manager</h3>
+                                
+                                    <div class="player_info_tab_lineup ">
+                        <div class="player_shirt_number_lineup">-</div>
+                        <div class="player_name_lineup">
+                            <a class="player_lineup" href="/en-my/people/argentina/1781/mauricio-pochettino">
+                                Mauricio Pochettino                            </a><br/>
+                            <strong>Coach</strong><br />
+                                                                                                                                            </div>
+                                                    <div class="player_rating_lineup">
+                                                                &nbsp;-&nbsp;
+                                                            </div>
+                                                    
+                                            </div>
+                            </div>
+                    <div id="coach_team2" class="team-lineup right_col">
+                                    <h3 class="style4 team_name_lineup right-col">Coach/Manager</h3>
+                                
+                                    <div class="player_info_tab_lineup ">
+
+                    
+                                            <div class="player_rating_lineup right-col">
+                                                        &nbsp;-&nbsp;
+                                                    </div>
+                                                                <div class="player_shirt_number_lineup right-col">-</div>
+                    <div class="player_name_lineup right-col">
+                        <a class="player_lineup" href="/en-my/people/ireland/82516/sean-odriscoll">
+                            Sean O'Driscoll                        </a><br/>
+                        <strong>Coach</strong><br />
+                                                                                                </div>
+                </div>
+                        </div>
+                <div class="clear"></div>
+    </div>
+
+    
+            <div style="width: 633px; height: 7px; background:transparent;border:none; float: left;">&nbsp;</div>
+        
+<div id="lineup_legends">
+    <div id="legend_left">
+        <ul id="left_legends">
+            <li><img src="http://i1.goal.com/web/goal/2013.09.26-v1/images/default/match/g1.gif" /><span> Goal</span></li>
+            <li><img src="http://i2.goal.com/web/goal/2013.09.26-v1/images/default/match/og.gif" /><span> Own Goal</span></li>
+            <li><img src="http://i1.goal.com/web/goal/2013.09.26-v1/images/default/match/p.gif" /><span> Penalty</span></li>
+            <li><img src="http://i2.goal.com/web/goal/2013.09.26-v1/images/default/match/pw.gif" /><span> Penalty Missed</span></li>
+            <li><img src="http://i1.goal.com/web/goal/2013.09.26-v1/images/default/match/y1.gif"/><span> Yellow Card</span></li>
+            <li><img src="http://i2.goal.com/web/goal/2013.09.26-v1/images/default/match/assists.gif" /><span> Assist</span></li>
+            <li><img src="http://i1.goal.com/web/goal/2013.09.26-v1/images/default/match/penalty_saves.gif" /><span> Penalty Save</span></li>
+            <li><img src="http://i2.goal.com/web/goal/2013.09.26-v1/images/default/match/penalty_shootout_goals.gif" /><span> Penalty Shootout Goal</span></li>
+            <li><img src="http://i1.goal.com/web/goal/2013.09.26-v1/images/default/match/penalty_shootout_misses.gif"/><span> Penalty Shootout Miss</span></li>
+            <li><img src="http://i2.goal.com/web/goal/2013.09.26-v1/images/default/match/yr.gif" /><span> Yellow Card / Red Card</span></li>
+            <li><img src="http://i1.goal.com/web/goal/2013.09.26-v1/images/default/match/r1.gif" /><span> Red Card</span></li>
+            <li><img src="http://i2.goal.com/web/goal/2013.09.26-v1/images/default/match/in.gif" /><span> Substitution IN</span></li>
+            <li><img src="http://i1.goal.com/web/goal/2013.09.26-v1/images/default/match/out.gif" /><span> Substitution OUT</span></li>
+            <li><img src="http://i2.goal.com/web/goal/2013.09.26-v1/images/default/match/ij.gif" /><span> Injury</span></li>
+        </ul>
+    </div>
+
+    <div id="legend_right">
+        <ul id="right_legends">
+            <li><img src="http://i1.goal.com/web/goal/2013.09.26-v1/images/default/match/vo1.gif" /><span> Goal.com Rating</span></li>
+            <li><img src="http://i2.goal.com/web/goal/2013.09.26-v1/images/default/match/vo1a.gif" /><span> Goal.com Man of the Match</span></li>
+            <li><img src="http://i1.goal.com/web/goal/2013.09.26-v1/images/default/match/vo1b.gif" /><span> Goal.com Flop of the Match</span></li>
+            <li><img src="http://i2.goal.com/web/goal/2013.09.26-v1/images/default/match/vo2.gif" /><span> Top & Flop Global Ranking</span></li>
+            <li><img src="http://i1.goal.com/web/goal/2013.09.26-v1/images/default/match/d4.gif" /><span> Fans' Man of the Match</span></li>
+            <li><img src="http://i2.goal.com/web/goal/2013.09.26-v1/images/default/match/d5.gif" /><span> Fans' Flop of the Match</span></li>
+        </ul>
+    </div>
+</div>
+    </div>
+        </div>
+    </div>
+</div>
+<div class="clear"></div>
+<a name="comments"></a>
+<div id="match-comments">
+<!-- widget:gigyacomments -->
+<div id="goal-widget-gigyacomments-7"></div>
+<script type="text/javascript">
+gigya.socialize.showCommentsUI({
+    containerID: "goal-widget-gigyacomments-7",
+    categoryID: "en_my",
+    streamID: "match_123270",
+    onLoad: function() { $('.goal_comment_count .bubble').html( parseInt($('.gig-comments-commentList-header').text().match(/[0-9]+/))); },
+    width: "600"
+});
+</script>
+<!-- /widget:gigyacomments, time:0.00032877922058105s --></div>
+                   </div>
+
+                   <div id="rightModules">
+                        <div class="ad300x250Module">
+    <script language="javascript">
+
+(function(dispatch) {
+    if ("mpu" === 'mpu' && "" && ($(window).width() > 1020 ? 'desktop' : 'tablet') !== "") {
+      return false;
+    }
+    dispatch.call();
+})(function() {
+document.write('<scr'+'ipt language="javascript1.1" ' +' src="http://adserver.adtech.de/addyn|3.0|327.0|3555309|0|170|ADTECH;cookie=info;alias=en-myTM;key=match:report+L122;kvcampaign=' + ((typeof $.getCampaignName == 'function') ? $.getCampaignName() : '') + ';kvlayout=' + (($(window).width() > 1020) ? 'wide' : 'narrow') + ';kvskin=' + (($(window).width() > 1024) ? 'yes' : 'no') + ';kvenv=production;kvpagetype=match:report;kvarticleid=;kvteamid=106:1106;kvmatchid=123270;kvsectionid=L122;loc=100;target=_blank;sub1=[subst];grp=396498783;misc=396498783"></scri'+'pt>');
+
+});
+</script>
+<noscript>
+<a href="http://adserver.adtech.de/adlink|3.0|327.0|3555309|0|170|ADTECH;loc=300;alias=en-myTM;key=match:report+L122;kvenv=production;kvpagetype=match:report;kvarticleid=;kvteamid=106:1106;kvmatchid=123270;kvsectionid=L122;cookie=info;" target="_blank">
+<img src="http://adserver.adtech.de/adserv|3.0|327.0|3555309|0|170|ADTECH;loc=300;alias=en-myTM;key=match:report+L122;kvenv=production;kvpagetype=match:report;kvarticleid=;kvteamid=106:1106;kvmatchid=123270;kvsectionid=L122;cookie=info;">
+</a>
+</noscript></div>
+<!-- widget:lmcpromo -->
+<div id="goal-widget-lmcpromo-6" class="widget lmcpromo">
+    <a target="_blank" href="http://www.livematch.goal.com/home/locale/en-my"><img src="http://i1.goal.com/web/goal/2013.09.26-v1/images/lmc/mpu/en-my.jpg"></a>
+</div>
+
+<!-- /widget:lmcpromo, time:0.00030899047851562s --><div id="resultsModule" class="module">
+    <div class="moduleTab">
+        <div class="tabText">
+            Results        </div>
+        <div class="tabControls"></div>
+        <div class="clear"></div>
+    </div>
+    <div class="resultsHeaderDropdown">
+        <select id="leagueStandingsSelectInput">
+                                        <option sUrl="/en-my/results-standings/339/malaysia-super-league"  value="339">
+                Malaysia Super League            </option>
+                                <option sUrl="/en-my/results-standings/64/england-premier-league"  value="64">
+                England - Premier League            </option>
+                                <option sUrl="/en-my/results-standings/409/asia-asian-cup-qualification"  value="409">
+                Asia - Asian Cup Qualification            </option>
+                                <option sUrl="/en-my/results-standings/371/malaysia-cup"  value="371">
+                Malaysia Cup            </option>
+                                <option sUrl="/en-my/results-standings/347/malaysia-fa-cup"  value="347">
+                Malaysia FA Cup            </option>
+                                <option sUrl="/en-my/results-standings/358/singapore-cup"  value="358">
+                Singapore Cup            </option>
+                                <option sUrl="/en-my/results-standings/333/england-championship"  value="333">
+                England - Championship            </option>
+                                <option sUrl="/en-my/results-standings/69/italy-serie-a"  value="69">
+                Italy - Serie A            </option>
+                                <option sUrl="/en-my/results-standings/61/spain-primera-division"  value="61">
+                Spain - Primera Division            </option>
+                                <option sUrl="/en-my/results-standings/49/uefa-champions-league"  value="49">
+                UEFA Champions League            </option>
+                                <option sUrl="/en-my/results-standings/73/uefa-europa-league"  value="73">
+                UEFA Europa League            </option>
+                                <option sUrl="/en-my/results-standings/55/italy-coppa-italia"  value="55">
+                Italy - Coppa Italia            </option>
+                                <option sUrl="/en-my/results-standings/53/spain-copa-del-rey"  value="53">
+                Spain - Copa del Rey            </option>
+                                <option sUrl="/en-my/results-standings/119/spain-super-cup"  value="119">
+                Spain - Super Cup            </option>
+                                <option sUrl="/en-my/results-standings/122/england-capital-one-cup-league-cup"  selected="true"  value="122">
+                England - Capital One Cup (League Cup)            </option>
+                                <option sUrl="/en-my/results-standings/341/singapore-sleague"  value="341">
+                Singapore - S.League            </option>
+                                <option sUrl="/en-my/results-standings/76/international-friendlies"  value="76">
+                International Friendlies            </option>
+                                <option sUrl="/en-my/results-standings/47/germany-1-bundesliga"  value="47">
+                Germany - 1. Bundesliga            </option>
+                                <option sUrl="/en-my/results-standings/153/olympic-games"  value="153">
+                Olympic Games            </option>
+                                <option sUrl="/en-my/results-standings/264/germany-super-cup"  value="264">
+                Germany - Super Cup            </option>
+                                <option sUrl="/en-my/results-standings/60/france-ligue-1"  value="60">
+                France - Ligue 1            </option>
+                                <option sUrl="/en-my/results-standings/101/netherlands-eredivisie"  value="101">
+                Netherlands - Eredivisie            </option>
+                                <option sUrl="/en-my/results-standings/288/asia-afc-cup"  value="288">
+                Asia - AFC Cup            </option>
+                                <option sUrl="/en-my/results-standings/233/afc-champions-league"  value="233">
+                AFC Champions League            </option>
+                                <option sUrl="/en-my/results-standings/211/australia-a-league"  value="211">
+                Australia - A-League            </option>
+                                <option sUrl="/en-my/results-standings/68/russia-premier-league"  value="68">
+                Russia - Premier League            </option>
+                                <option sUrl="/en-my/results-standings/323/thailand-toyota-thai-premier-league"  value="323">
+                Thailand - Toyota Thai Premier League            </option>
+                                <option sUrl="/en-my/results-standings/293/portugal-premier-league"  value="293">
+                Portugal - Premier League            </option>
+                                <option sUrl="/en-my/results-standings/276/japan-j-league-division-1"  value="276">
+                Japan - J-League - Division 1            </option>
+                                <option sUrl="/en-my/results-standings/124/netherlands-knvb-beker"  value="124">
+                Netherlands - KNVB Beker            </option>
+                                <option sUrl="/en-my/results-standings/159/indonesia-super-league"  value="159">
+                Indonesia - Super League            </option>
+                                <option sUrl="/en-my/results-standings/150/france-coupe-de-la-ligue"  value="150">
+                France - Coupe de la Ligue            </option>
+                                <option sUrl="/en-my/results-standings/277/indonesia-premier-league"  value="277">
+                Indonesia - Premier League            </option>
+                                <option sUrl="/en-my/results-standings/269/brazil-campeonato-brasileiro-serie-a"  value="269">
+                Brazil - Campeonato Brasileiro Serie A            </option>
+                                <option sUrl="/en-my/results-standings/82/germany-dfb-pokal"  value="82">
+                Germany - DFB-Pokal            </option>
+                                <option sUrl="/en-my/results-standings/96/france-coupe-de-france"  value="96">
+                France - Coupe de France            </option>
+                                <option sUrl="/en-my/results-standings/210/brazil-copa-do-brasil"  value="210">
+                Brazil - Copa do Brasil            </option>
+                </select>
+    </div>
+    <div id="resultsContent" class="resultsContentWrapper">
+        <div class="matches">
+            <ul id="roundTabs" class="tabsGroup ui_selectable">
+                                        <li class="resultsTab ">
+                            <a href="#" roundNum="1">R1</a>
+                        </li>
+                                                <li class="resultsTab ">
+                            <a href="#" roundNum="2">R2</a>
+                        </li>
+                                                <li class="resultsTab  selectedTab ">
+                            <a href="#" roundNum="3">R3</a>
+                        </li>
+                                    </ul>
+            <div class="matchDate">
+                <a id="prevMatchDay" href=""><div class="leftArrow" ></div></a>
+                                                                                       <span class='matchDate' id='matchDayLabel' >Third Round</span>
+                                                            <a id="nextMatchDay" href="#">
+                    <div class="rightArrow"></div>
+                </a>
+            </div>
+            <div id="groupSelectWrapper" class="resultsHeaderDropdown ui_selectable"  class="hidden">
+                <select id="groupSelectInput">
+                                </select>
+            </div>
+                        <div class="matchOptions" >
+                                <div class="theTimeZoneBox">
+                    Times In MYT                </div>
+                                <div class="isUpdateBox">
+                    <div class="isUpdate">
+                        <input type="checkbox" checked='checked' id="isUpdate" />
+                        <label for="isUpdate">
+                                                        <span class="labelOff toggleButtonLabel hidden">60 Sec. Updates Off</span>
+                            <span class="labelOn toggleButtonLabel" >60 Sec. Updates On</span>
+                                                    </label>
+                    </div>
+                </div>
+                <div class="isLiveCommentaryBox hidden">
+                    <div class="isLiveCommentary">
+                        <input type="checkbox" id="isLive" />
+                        <label for="isLive">Live commentary only</label>
+                    </div>
+                </div>
+            </div>
+            <div class="results-wrapper">
+                <ul id="results" >
+                                                                                    <li class="game row">
+                            <div class="team home">
+                                <a href="#">
+                                    <div class="name">
+                                        Sunderland                                    </div>
+                                    <div class="logo">
+                                        <img src="http://i2.goal.com/files/images/stats/goal/team-logos/7/537_20x20.jpg"/>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="info">
+                                                                                            <a class="result" href="/en-my/match/123266/sunderland-vs-peterborough-united/index">
+                                    2&nbsp;-&nbsp;0                                </a>
+                                                                <div class="status">Final</div>
+                                                        </div>
+                            <div class="team away">
+                                <a href="#">
+                                    <div class="logo">
+                                        <img src="http://i1.goal.com/files/images/stats/goal/team-logos/6/1096_20x20.jpg"/>
+                                    </div>
+                                    <div class="name">
+                                        Peterborough United                                    </div>
+                                </a>
+                            </div>
+                        </li>
+                                                                    <li class="game row">
+                            <div class="team home">
+                                <a href="#">
+                                    <div class="name">
+                                        West Ham United                                    </div>
+                                    <div class="logo">
+                                        <img src="http://i2.goal.com/files/images/stats/goal/team-logos/4/374_20x20.jpg"/>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="info">
+                                                                                            <a class="result" href="/en-my/match/123267/west-ham-united-vs-cardiff/index">
+                                    3&nbsp;-&nbsp;2                                </a>
+                                                                <div class="status">Final</div>
+                                                        </div>
+                            <div class="team away">
+                                <a href="#">
+                                    <div class="logo">
+                                        <img src="http://i1.goal.com/files/images/stats/goal/team-logos/3/703_20x20.jpg"/>
+                                    </div>
+                                    <div class="name">
+                                        Cardiff                                    </div>
+                                </a>
+                            </div>
+                        </li>
+                                                                    <li class="game row">
+                            <div class="team home">
+                                <a href="#">
+                                    <div class="name">
+                                        Manchester City                                    </div>
+                                    <div class="logo">
+                                        <img src="http://i2.goal.com/files/images/stats/goal/team-logos/9/109_20x20.jpg"/>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="info">
+                                                                                            <a class="result" href="/en-my/match/123268/manchester-city-vs-wigan-athletic/index">
+                                    5&nbsp;-&nbsp;0                                </a>
+                                                                <div class="status">Final</div>
+                                                        </div>
+                            <div class="team away">
+                                <a href="#">
+                                    <div class="logo">
+                                        <img src="http://i1.goal.com/files/images/stats/goal/team-logos/6/536_20x20.jpg"/>
+                                    </div>
+                                    <div class="name">
+                                        Wigan Athletic                                    </div>
+                                </a>
+                            </div>
+                        </li>
+                                                                    <li class="game row">
+                            <div class="team home">
+                                <a href="#">
+                                    <div class="name">
+                                        Burnley                                    </div>
+                                    <div class="logo">
+                                        <img src="http://i2.goal.com/files/images/stats/goal/team-logos/2/702_20x20.jpg"/>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="info">
+                                                                                            <a class="result" href="/en-my/match/123269/burnley-vs-nottingham-forest/index">
+                                    2&nbsp;-&nbsp;1                                </a>
+                                                                <div class="status">Final</div>
+                                                        </div>
+                            <div class="team away">
+                                <a href="#">
+                                    <div class="logo">
+                                        <img src="http://i1.goal.com/files/images/stats/goal/team-logos/2/1002_20x20.jpg"/>
+                                    </div>
+                                    <div class="name">
+                                        Nottingham Forest                                    </div>
+                                </a>
+                            </div>
+                        </li>
+                                                                    <li class="game row">
+                            <div class="team home">
+                                <a href="#">
+                                    <div class="name">
+                                        Southampton                                    </div>
+                                    <div class="logo">
+                                        <img src="http://i2.goal.com/files/images/stats/goal/team-logos/6/106_20x20.jpg"/>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="info">
+                                                                                            <a class="result" href="/en-my/match/123270/southampton-vs-bristol-city/index">
+                                    2&nbsp;-&nbsp;0                                </a>
+                                                                <div class="status">Final</div>
+                                                        </div>
+                            <div class="team away">
+                                <a href="#">
+                                    <div class="logo">
+                                        <img src="http://i1.goal.com/files/images/stats/goal/team-logos/6/1106_20x20.jpg"/>
+                                    </div>
+                                    <div class="name">
+                                        Bristol City                                    </div>
+                                </a>
+                            </div>
+                        </li>
+                                                                    <li class="game row">
+                            <div class="team home">
+                                <a href="#">
+                                    <div class="name">
+                                        Swindon                                    </div>
+                                    <div class="logo">
+                                        <img src="http://i2.goal.com/files/images/stats/goal/team-logos/3/1143_20x20.jpg"/>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="info">
+                                                                                            <a class="result" href="/en-my/match/123271/swindon-vs-chelsea-fc/index">
+                                    0&nbsp;-&nbsp;2                                </a>
+                                                                <div class="status">Final</div>
+                                                        </div>
+                            <div class="team away">
+                                <a href="#">
+                                    <div class="logo">
+                                        <img src="http://i1.goal.com/files/images/stats/goal/team-logos/6/96_20x20.jpg"/>
+                                    </div>
+                                    <div class="name">
+                                        Chelsea FC                                    </div>
+                                </a>
+                            </div>
+                        </li>
+                                                                    <li class="game row">
+                            <div class="team home">
+                                <a href="#">
+                                    <div class="name">
+                                        Watford                                    </div>
+                                    <div class="logo">
+                                        <img src="http://i2.goal.com/files/images/stats/goal/team-logos/8/718_20x20.jpg"/>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="info">
+                                                                                            <a class="result" href="/en-my/match/123272/watford-vs-norwich-city/index">
+                                    2&nbsp;-&nbsp;3                                </a>
+                                                                <div class="status">Final</div>
+                                                        </div>
+                            <div class="team away">
+                                <a href="#">
+                                    <div class="logo">
+                                        <img src="http://i1.goal.com/files/images/stats/goal/team-logos/7/1977_20x20.jpg"/>
+                                    </div>
+                                    <div class="name">
+                                        Norwich City                                    </div>
+                                </a>
+                            </div>
+                        </li>
+                                                                    <li class="game row">
+                            <div class="team home">
+                                <a href="#">
+                                    <div class="name">
+                                        Aston Villa                                    </div>
+                                    <div class="logo">
+                                        <img src="http://i2.goal.com/files/images/stats/goal/team-logos/5/95_20x20.jpg"/>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="info">
+                                                                                            <a class="result" href="/en-my/match/123273/aston-villa-vs-tottenham/index">
+                                    0&nbsp;-&nbsp;4                                </a>
+                                                                <div class="status">Final</div>
+                                                        </div>
+                            <div class="team away">
+                                <a href="#">
+                                    <div class="logo">
+                                        <img src="http://i1.goal.com/files/images/stats/goal/team-logos/5/105_20x20.jpg"/>
+                                    </div>
+                                    <div class="name">
+                                        Tottenham                                    </div>
+                                </a>
+                            </div>
+                        </li>
+                                                                    <li class="game row">
+                            <div class="team home">
+                                <a href="#">
+                                    <div class="name">
+                                        Hull City Tigers                                    </div>
+                                    <div class="logo">
+                                        <img src="http://i2.goal.com/files/images/stats/goal/team-logos/7/707_20x20.jpg"/>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="info">
+                                                                                            <a class="result" href="/en-my/match/123274/hull-city-tigers-vs-huddersfield-town/index">
+                                    1&nbsp;-&nbsp;0                                </a>
+                                                                <div class="status">Final</div>
+                                                        </div>
+                            <div class="team away">
+                                <a href="#">
+                                    <div class="logo">
+                                        <img src="http://i1.goal.com/files/images/stats/goal/team-logos/1/1141_20x20.jpg"/>
+                                    </div>
+                                    <div class="name">
+                                        Huddersfield Town                                    </div>
+                                </a>
+                            </div>
+                        </li>
+                                                                    <li class="game row">
+                            <div class="team home">
+                                <a href="#">
+                                    <div class="name">
+                                        Leicester City                                    </div>
+                                    <div class="logo">
+                                        <img src="http://i2.goal.com/files/images/stats/goal/team-logos/3/363_20x20.jpg"/>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="info">
+                                                                                            <a class="result" href="/en-my/match/123275/leicester-city-vs-derby-county/index">
+                                    2&nbsp;-&nbsp;1                                </a>
+                                                                <div class="status">Final</div>
+                                                        </div>
+                            <div class="team away">
+                                <a href="#">
+                                    <div class="logo">
+                                        <img src="http://i1.goal.com/files/images/stats/goal/team-logos/6/706_20x20.jpg"/>
+                                    </div>
+                                    <div class="name">
+                                        Derby County                                    </div>
+                                </a>
+                            </div>
+                        </li>
+                                                                    <li class="game row">
+                            <div class="team home">
+                                <a href="#">
+                                    <div class="name">
+                                        Fulham                                    </div>
+                                    <div class="logo">
+                                        <img src="http://i2.goal.com/files/images/stats/goal/team-logos/1/101_20x20.jpg"/>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="info">
+                                                                                            <a class="result" href="/en-my/match/123276/fulham-vs-everton/index">
+                                    2&nbsp;-&nbsp;1                                </a>
+                                                                <div class="status">Final</div>
+                                                        </div>
+                            <div class="team away">
+                                <a href="#">
+                                    <div class="logo">
+                                        <img src="http://i1.goal.com/files/images/stats/goal/team-logos/0/110_20x20.jpg"/>
+                                    </div>
+                                    <div class="name">
+                                        Everton                                    </div>
+                                </a>
+                            </div>
+                        </li>
+                                                                    <li class="game row">
+                            <div class="team home">
+                                <a href="#">
+                                    <div class="name">
+                                        Manchester United                                    </div>
+                                    <div class="logo">
+                                        <img src="http://i2.goal.com/files/images/stats/goal/team-logos/7/97_20x20.jpg"/>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="info">
+                                                                                            <a class="result" href="/en-my/match/123277/manchester-united-vs-liverpool/index">
+                                    1&nbsp;-&nbsp;0                                </a>
+                                                                <div class="status">Final</div>
+                                                        </div>
+                            <div class="team away">
+                                <a href="#">
+                                    <div class="logo">
+                                        <img src="http://i1.goal.com/files/images/stats/goal/team-logos/8/98_20x20.jpg"/>
+                                    </div>
+                                    <div class="name">
+                                        Liverpool                                    </div>
+                                </a>
+                            </div>
+                        </li>
+                                                                    <li class="game row">
+                            <div class="team home">
+                                <a href="#">
+                                    <div class="name">
+                                        Newcastle United                                    </div>
+                                    <div class="logo">
+                                        <img src="http://i2.goal.com/files/images/stats/goal/team-logos/9/99_20x20.jpg"/>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="info">
+                                                                                            <a class="result" href="/en-my/match/123278/newcastle-united-vs-leeds/index">
+                                    2&nbsp;-&nbsp;0                                </a>
+                                                                <div class="status">Final</div>
+                                                        </div>
+                            <div class="team away">
+                                <a href="#">
+                                    <div class="logo">
+                                        <img src="http://i1.goal.com/files/images/stats/goal/team-logos/1/291_20x20.jpg"/>
+                                    </div>
+                                    <div class="name">
+                                        Leeds                                    </div>
+                                </a>
+                            </div>
+                        </li>
+                                                                    <li class="game row">
+                            <div class="team home">
+                                <a href="#">
+                                    <div class="name">
+                                        Tranmere Rovers                                    </div>
+                                    <div class="logo">
+                                        <img src="http://i2.goal.com/files/images/stats/goal/team-logos/3/1843_20x20.jpg"/>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="info">
+                                                                                            <a class="result" href="/en-my/match/123279/tranmere-rovers-vs-stoke-city/index">
+                                    0&nbsp;-&nbsp;2                                </a>
+                                                                <div class="status">Final</div>
+                                                        </div>
+                            <div class="team away">
+                                <a href="#">
+                                    <div class="logo">
+                                        <img src="http://i1.goal.com/files/images/stats/goal/team-logos/7/717_20x20.jpg"/>
+                                    </div>
+                                    <div class="name">
+                                        Stoke City                                    </div>
+                                </a>
+                            </div>
+                        </li>
+                                                                    <li class="game row">
+                            <div class="team home">
+                                <a href="#">
+                                    <div class="name">
+                                        Birmingham City                                    </div>
+                                    <div class="logo">
+                                        <img src="http://i2.goal.com/files/images/stats/goal/team-logos/3/103_20x20.jpg"/>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="info">
+                                                                                            <a class="result" href="/en-my/match/123280/birmingham-city-vs-swansea-city/index">
+                                    3&nbsp;-&nbsp;1                                </a>
+                                                                <div class="status">Final</div>
+                                                        </div>
+                            <div class="team away">
+                                <a href="#">
+                                    <div class="logo">
+                                        <img src="http://i1.goal.com/files/images/stats/goal/team-logos/3/893_20x20.jpg"/>
+                                    </div>
+                                    <div class="name">
+                                        Swansea City                                    </div>
+                                </a>
+                            </div>
+                        </li>
+                                                                    <li class="game row">
+                            <div class="team home">
+                                <a href="#">
+                                    <div class="name">
+                                        West Bromwich Albion                                    </div>
+                                    <div class="logo">
+                                        <img src="http://i2.goal.com/files/images/stats/goal/team-logos/2/112_20x20.jpg"/>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="info">
+                                                                                            <a class="result" href="/en-my/match/123281/west-bromwich-albion-vs-arsenal-fc/index">
+                                    1<small>(3)</small>&nbsp;-&nbsp;1<small>(4)</small>                                </a>
+                                                                <div class="status">Final</div>
+                                                        </div>
+                            <div class="team away">
+                                <a href="#">
+                                    <div class="logo">
+                                        <img src="http://i1.goal.com/files/images/stats/goal/team-logos/4/94_20x20.jpg"/>
+                                    </div>
+                                    <div class="name">
+                                        Arsenal FC                                    </div>
+                                </a>
+                            </div>
+                        </li>
+                                                    </ul>
+            </div>
+                    </div>
+    </div>
+    <div class="linkLiveScores">
+        <a href="/en-my/live-scores/fixtures?tab=all">
+            ALL MATCHES &gt;&gt;
+        </a>
+    </div>
+    <div id="standingsContent" class="standingsContainer module hidden">
+        <div class="moduleTab">
+            <div class="tabText">
+                Standings            </div>
+            <div class="clear"></div>
+       </div>
+        <div class="standingsInfo">
+            <div id="standingsLeagueName" class="standingsInfoText">
+                2010/2011 German Bundesliga
+            </div>
+        </div>
+        <div id="tournamentStandingsContainer">
+            <table id="tournStandingsTable" class="tournStandings">
+                <tr class="colHeaders">
+                    <td class="clubHeader">Club</td>
+                    <td>P</td>
+                    <td>G</td>
+                    <td>W</td>
+                    <td>D</td>
+                    <td>L</td>
+                    <td>Sc</td>
+                    <td>Al</td>
+                </tr>
+
+            </table>
+        </div>
+        <div id='simpleStandingsContainer'>
+            <div class='tableHeader'>
+                <div class='colHeader'>
+                    <div class="rank">Rank</div>
+                    <div class="club">Club</div>
+                    <div class="points">P</div>
+                    <div class="played">G</div>
+                </div>
+                <div class='colHeader'>
+                    <div class="rank">Rank</div>
+                    <div class="club">Club</div>
+                    <div class="points">P</div>
+                    <div class="played">G</div>
+                </div>
+            </div>
+            <div id="simpleStandingsTableContainer" class="tableContainer">
+                 <table class="rankTable left"></table>
+                 <table class="rankTable right"></table>
+            </div>
+        </div>
+        <div class="linkLiveScores">
+            <a id="liveStandingsAnchor" href="#">ALL STANDINGS &gt;&gt;</a>
+        </div>
+    </div>
+    <div class="clear">&nbsp;</div>
+    <div id='stringTranslations' class="hidden">
+        <span id="trans_inProgress">Live</span>
+        <span id="trans_final">Final</span>
+        <span id="trans_scheduled">scheduled</span>
+        <span id="trans_suspended">Suspended</span>
+        <span id="trans_cancelled">Cancelled</span>
+        <span id="trans_postponed">Postponed</span>
+    </div>
+    <script type="text/javascript">
+        var resModJS = resModJS || {};
+        resModJS.supressStandings = 0;
+    </script>
+</div>
+<div id="newsFeedModule" class="module section" data-omnituresection="Match News">
+
+    <div class="moduleTab">
+        <div class="tabText">Match News</div>
+        <div class="tabControls">
+                    </div>
+        <div class="clear"></div>
+    </div>
+    
+    <div class="newsFeedScroller">
+	<ul class="feedItemsWrapper">
+            <li class="feedItem">
+                    <div class="timestamp">Sep 25</div>
+            <div class="feedText">
+            <a href="/en-my/news/3957/league-cup/2013/09/25/4287032/southampton-2-0-bristol-city-ramirez-stunner-puts-saints">Southampton 2-0 Bristol City: Ramirez stunner puts Saints through</a><br />
+                        </div>
+        </li>
+            <li class="feedItem">
+                    <div class="timestamp">Sep 23</div>
+            <div class="feedText">
+            <a href="/en-my/news/3957/league-cup/2013/09/23/4282503/southampton-bristol-city-preview-saints-flush-from-anfield">Southampton - Bristol City Preview: Saints flush from Anfield triumph</a><br />
+                        </div>
+        </li>
+        </ul>
+    </div>
+</div>
+    <div class="clear"></div>    <div id="teamTopScorersModule" class="module">
+        <div class="moduleTab">
+            <div class="tabText">Top Scorers</div>
+            <div class="tabControls"></div>
+            <div class="clear"></div>
+        </div>
+        <div class="clear"> </div>
+        <div id="team_top_scorers">
+            <table cellspacing="0">
+                <thead>
+                    <tr>
+                    <th width="46"><span class="topScorers_player_column_label">Player</span></th>
+                    <th>&nbsp;</th>
+                    <th nowrap="nowrap">Goals</th>
+                    <th nowrap="nowrap">Penalties</th>
+                    </tr>
+                </thead>
+                <tbody>
+                                        
+                    
+                    <tr class="line0">
+                    	<td>
+                    		<img alt="Lee  Tomlin " src="http://u.goal.com/0/0_hp_thumb.jpg" title="Lee  Tomlin " height="43" width="39">
+                    	</td>
+                    	<td>
+                    		<a class="top_scorer_name" href="/en-my/people/england/48468/lee-tomlin">Lee  Tomlin </a><br>
+                            Striker<br>
+                                                            <a href="/en-my/teams/england/1096/peterborough-united" title="Peterborough United"><span>Peterborough United</span></a>
+                                                	</td>
+                    	<td class="top_scorer_goal_count">5</td>
+                    	<td class="top_scorer_penalty_count">2</td>
+                    </tr>
+                                        
+                    
+                    <tr class="line1">
+                    	<td>
+                    		<img alt="Saido Berahino" src="http://u.goal.com/0/0_hp_thumb.jpg" title="Saido Berahino" height="43" width="39">
+                    	</td>
+                    	<td>
+                    		<a class="top_scorer_name" href="/en-my/people/england/43871/saido-berahino">Saido Berahino</a><br>
+                            Striker<br>
+                                                            <a href="/en-my/teams/england/112/west-bromwich-albion" title="West Brom"><span>West Brom</span></a>
+                                                	</td>
+                    	<td class="top_scorer_goal_count">4</td>
+                    	<td class="top_scorer_penalty_count">1</td>
+                    </tr>
+                                        
+                    
+                    <tr class="line0">
+                    	<td>
+                    		<img alt="Daniel William Ings" src="http://u.goal.com/0/0_hp_thumb.jpg" title="Daniel William Ings" height="43" width="39">
+                    	</td>
+                    	<td>
+                    		<a class="top_scorer_name" href="/en-my/people/england/62567/daniel-william-ings">Daniel William Ings</a><br>
+                            Striker<br>
+                                                            <a href="/en-my/teams/england/702/burnley" title="Burnley"><span>Burnley</span></a>
+                                                	</td>
+                    	<td class="top_scorer_goal_count">4</td>
+                    	<td class="top_scorer_penalty_count">0</td>
+                    </tr>
+                                        
+                    
+                    <tr class="line1">
+                    	<td>
+                    		<img alt="Chris  Woods" src="http://u.goal.com/0/0_hp_thumb.jpg" title="Chris  Woods" height="43" width="39">
+                    	</td>
+                    	<td>
+                    		<a class="top_scorer_name" href="/en-my/people/new-zealand/48200/chris-woods">Chris  Woods</a><br>
+                            Defender<br>
+                                                            <a href="/en-my/teams/england/363/leicester-city" title="Leicester"><span>Leicester</span></a>
+                                                	</td>
+                    	<td class="top_scorer_goal_count">3</td>
+                    	<td class="top_scorer_penalty_count">1</td>
+                    </tr>
+                                        
+                    
+                    <tr class="line0">
+                    	<td>
+                    		<img alt="Kenwyne Jones" src="http://u.goal.com/113100/113107_hp_thumb.jpg" title="Kenwyne Jones" height="43" width="39">
+                    	</td>
+                    	<td>
+                    		<a class="top_scorer_name" href="/en-my/people/trinidad-and-tobago/8245/kenwyne-jones">Kenwyne Jones</a><br>
+                            Striker<br>
+                                                            <a href="/en-my/teams/england/717/stoke-city" title="Stoke City"><span>Stoke City</span></a>
+                                                	</td>
+                    	<td class="top_scorer_goal_count">3</td>
+                    	<td class="top_scorer_penalty_count">0</td>
+                    </tr>
+                                                        </tbody>
+            </table>
+        </div>
+    </div>
+<div class="ad300x250Module">
+    <script language="javascript">
+
+(function(dispatch) {
+    if ("mpu" === 'mpu' && "" && ($(window).width() > 1020 ? 'desktop' : 'tablet') !== "") {
+      return false;
+    }
+    dispatch.call();
+})(function() {
+document.write('<scr'+'ipt language="javascript1.1" ' +' src="http://adserver.adtech.de/addyn|3.0|327.0|3555309|0|170|ADTECH;cookie=info;alias=en-myBM;key=match:report+L122;kvcampaign=' + ((typeof $.getCampaignName == 'function') ? $.getCampaignName() : '') + ';kvlayout=' + (($(window).width() > 1020) ? 'wide' : 'narrow') + ';kvskin=' + (($(window).width() > 1024) ? 'yes' : 'no') + ';kvenv=production;kvpagetype=match:report;kvarticleid=;kvteamid=106:1106;kvmatchid=123270;kvsectionid=L122;loc=100;target=_blank;sub1=[subst];grp=396498783;misc=396498783"></scri'+'pt>');
+
+});
+</script>
+<noscript>
+<a href="http://adserver.adtech.de/adlink|3.0|327.0|3555309|0|170|ADTECH;loc=300;alias=en-myBM;key=match:report+L122;kvenv=production;kvpagetype=match:report;kvarticleid=;kvteamid=106:1106;kvmatchid=123270;kvsectionid=L122;cookie=info;" target="_blank">
+<img src="http://adserver.adtech.de/adserv|3.0|327.0|3555309|0|170|ADTECH;loc=300;alias=en-myBM;key=match:report+L122;kvenv=production;kvpagetype=match:report;kvarticleid=;kvteamid=106:1106;kvmatchid=123270;kvsectionid=L122;cookie=info;">
+</a>
+</noscript></div>
+                    <div class="clear"></div>
+                   </div>
+
+
+                <div class="clear"></div>
+                                          <!-- widget:footer -->
+<div class="clearfix module module-footer" data-module="id-5244c825b485b">
+    <div class="navigation">
+    <div class="widget-header">
+      <h1>Goal.com <span class="current-edition">Malaysia‎</span></h1>
+    </div>
+    <ul class="common-links">
+      <li><a href="/en-my/legal/privacy-policy">Privacy Policy</a></li>
+      <li><a href="/en-my/legal/terms-conditions">Terms of Service</a></li>
+      <li><a href="/en-my/contact/about">About Us</a></li>
+      <li class="line-spacer"><a href="/en-my/contact">Contact Us</a></li>
+                        <li>
+            <a href="http://m.goal.com">Mobile Site</a>
+          </li>
+                  <li>
+            <a href="/en-my/info/3902/exclusives/2012/01/10/1743891/new-goalcom-mobile-app-now-available">Mobile App</a>
+          </li>
+                  </ul>
+          </div>
+  <div class="editions">
+    <div class="widget-header">
+      <h1>Editions</h1>
+    </div>
+
+    <!-- module:EditionPicker -->
+  <ul>
+          <li><a href="/en/" class="flag-en">International</a></li>
+          <li><a href="/en-us/" class="flag-en-us">America</a></li>
+          <li><a href="/es-ar/" class="flag-es-ar">Argentina</a></li>
+          <li><a href="/en-au/" class="flag-en-au">Australia</a></li>
+          <li><a href="/br/" class="flag-br">Brasil</a></li>
+          <li><a href="/en-ca/" class="flag-en-ca">Canada</a></li>
+          <li><a href="/es-cl/" class="flag-es-cl">Chile</a></li>
+          <li><a href="/es-co/" class="flag-es-co">Colombia</a></li>
+          <li><a href="/de/" class="flag-de">Deutsch</a></li>
+          <li><a href="/es/" class="flag-es">España</a></li>
+          <li><a href="/fr/" class="flag-fr">Français</a></li>
+          <li><a href="/en-gh/" class="flag-en-gh">Ghana</a></li>
+      </ul>
+  <ul>
+          <li><a href="/en-india/" class="flag-en-india">India</a></li>
+          <li><a href="/id-ID/" class="flag-id-id">Indonesia</a></li>
+          <li><a href="/en-ie/" class="flag-en-ie">Ireland</a></li>
+          <li><a href="/it/" class="flag-it">Italia</a></li>
+          <li><a href="/en-ke/" class="flag-en-ke">Kenya</a></li>
+          <li><a href="/en-my/" class="flag-en-my">Malaysia</a></li>
+          <li><a href="/es-mx/" class="flag-es-mx">México</a></li>
+          <li><a href="/nl/" class="flag-nl">Nederlands</a></li>
+          <li><a href="/en-ng/" class="flag-en-ng">Nigeria</a></li>
+          <li><a href="/es-pe/" class="flag-es-pe">Peru</a></li>
+          <li><a href="/en-sg/" class="flag-en-sg">Singapore</a></li>
+          <li><a href="/en-za/" class="flag-en-za">South Africa</a></li>
+      </ul>
+  <ul>
+          <li><a href="/vn/" class="flag-vn">Tiếng Việt</a></li>
+          <li><a href="/tr/" class="flag-tr">Türkçe</a></li>
+          <li><a href="/en-gb/" class="flag-en-gb">UK</a></li>
+          <li><a href="/cn/" class="flag-cn">中文</a></li>
+          <li><a href="/hk/" class="flag-hk">繁體中文</a></li>
+          <li><a href="/kr/" class="flag-kr">한국어</a></li>
+          <li><a href="/jp/" class="flag-jp">日本語</a></li>
+          <li><a href="/th/" class="flag-th">ภาษาไทย</a></li>
+          <li><a href="/iran/" class="flag-iran">فارسی</a></li>
+          <li><a href="/ar/" class="flag-ar">العربية</a></li>
+          <li><a href="/ar-eg/" class="flag-ar-eg">المصرية</a></li>
+          <li><a href="/ar-sa/" class="flag-ar-sa">السعودية</a></li>
+      </ul>
+<!-- /module:EditionPicker, time:0.0019681453704834s -->
+  </div>
+  <div class="copyrights-section" itemscope itemtype="http://schema.org/WPFooter">
+    <p class="copyrights">Copyright &copy; <span itemprop="copyrightYear">2013</span> <span itemprop="copyrightHolder" itemscope itemtype="http://schema.org/Organization"><span itemprop="name">Goal.com</span></span> All rights reserved. The information contained in Goal.com may not be published, broadcast, rewritten, or redistributed without the prior written authority of Goal.com</p>
+  </div>
+</div>
+<!-- /widget:footer, time:0.010674953460693s -->
+           </div>
+     <!--  page content -->
+
+     </div>
+     <!--  content background -->
+
+   </div>
+   <!--  main -->
+
+
+
+<script type="text/javascript" src="http://i1.goal.com/web/goal/2013.09.26-v1/js/default/match/report-merged.js"></script>
+<script type="text/javascript">
+    //<![CDATA[
+            $(document).ready(function()
+            {
+                $.post("/service/entity/add-view", {gid : 25942474},
+                        function(data, textStatus)
+                        {
+                        },
+                        "json");
+            });
+                //]]>
+</script>
+<script type="text/javascript" src="http://bit.ly/javascript-api.js?version=latest&amp;login=goalsoccer1&amp;apiKey=R_b977ffa1ea5feaaa7ba8bc44cf805e2c"></script>
+<script type="text/javascript" src="http://i1.goal.com/web/goal/2013.09.26-v1/js/jquery.tmpl.min.js"></script>
+<script type="text/javascript">
+    //<![CDATA[
+var s_account="goalglobal,goalmalaysia";    //]]>
+</script>
+<script type="text/javascript" src="http://i2.goal.com/web/goal/2013.09.26-v1/js/s_code.js"></script>
+<script type="text/javascript" src="http://www.goal.com/static/js?files=%2Fjs%2Fexternal%2Flodash.min.js%2C%2Fjs%2Fexternal%2Funderscore.string.min.js%2C%2Fjs%2Fglobals.js%2C%2Fjs%2Fhelpers.js%2C%2Fjs%2Fsettings.js%2C%2Fjs%2FnewGoalFallback.js%2C%2Fjs%2Finternal%2Flibraries%2Fnavigation.js%2C%2Fjs%2Finternal%2Flibraries%2Flogin.js%2C%2Fjs%2Finternal%2Flibraries%2Fomniture.js&amp;version=2013.09.26-v1&amp;locale=en-my"></script><!-- module:TrackingCode\GoogleAnalytics -->
+<!-- Begin: Google Analytics -->
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-3459197-19']);
+  _gaq.push(['_setDomainName', '.goal.com']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+     var s = document.getElementsByTagName('script')[0];
+     s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+<!-- End: Google Analytics --><!-- /module:TrackingCode\GoogleAnalytics, time:0.00011014938354492s -->
+
+<!-- Begin LotaMe Tag -->
+<script type="text/javascript" src="http://tags.crwdcntrl.net/c/412/cc.js"></script>
+<script type="text/JavaScript">LOTCC.bcp();</script>
+<!-- End LotaMe Tag -->
+<!-- module:TrackingCode\EffectiveMeasure -->
+<!-- Begin: Effective Measure -->
+<script type="text/javascript">
+  (function() {
+    var em = document.createElement('script'); em.type = 'text/javascript'; em.async = true;
+    em.src = ('https:' == document.location.protocol ? 'https://me-ssl' : 'http://me-cdn') + '.effectivemeasure.net/em.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(em, s);
+  })();
+</script>
+<noscript>
+  <img src="//me.effectivemeasure.net/em_image" alt="" style="position:absolute; left:-5px;" />
+</noscript>
+<!-- End: Effective Measure --><!-- /module:TrackingCode\EffectiveMeasure, time:9.7036361694336E-5s --><!-- module:TrackingCode\ComscoreBeacon -->
+<!-- Begin: Comscore Beacon -->
+<img id="comscore-beacon-img" height="1" width="1" alt="">
+<script type="text/javascript">
+    var randnum = Math.floor(Math.random()*99999999);
+    var p_url = escape(window.location.href);
+    var p_title = escape(document.title);
+    document.getElementById("comscore-beacon-img").src="http://beacon.securestudies.com/scripts/beacon.dll?C1=2&C2=6153249&C3=6153249&C4=www.goal.com&C5=Sports-Soccer&C6=Sports-Soccer&C7=" + p_url + "&C8=" + p_title + "&rn=" + randnum;
+</script>
+<!-- End: Comscore Beacon --><!-- /module:TrackingCode\ComscoreBeacon, time:0.00011205673217773s -->
+            <!-- SiteCatalyst code version: H.25. Copyright 1996-2012 Adobe, Inc. All Rights Reserved More info available at http://www.omniture.com -->
+            <script language="JavaScript" type="text/javascript"><!--
+s.pageName="Matches : England - Capital One Cup (League Cup) : Southampton - Bristol City : Report"
+s.channel="Matches"
+s.prop1="Matches : England - Capital One Cup (League Cup)"
+s.prop2="Matches : England - Capital One Cup (League Cup) : Southampton - Bristol City"
+s.prop3="Matches : England - Capital One Cup (League Cup) : Southampton - Bristol City"
+s.hier1="Matches,England - Capital One Cup (League Cup),Southampton - Bristol City"
+s.prop4="report page"
+s.prop5="Report"
+s.prop6=s.eVar10="123270"
+s.server=""
+s.pageType=""
+s.prop11=
+s.prop12="Desktop"
+s.prop13="goalglobal,goalmalaysia"
+s.prop14=""
+s.prop15=s.eVar6="http://www.goal.com/en-my/match/123270/southampton-vs-bristol-city/report"
+s.prop16=s.eVar5=""
+s.prop18=""
+s.prop19="N"
+s.prop21=""
+s.prop22=""
+s.prop23=""
+s.prop28=""
+s.prop29=""
+s.prop30=""
+s.prop31=""
+s.prop32=""
+s.prop33=""
+s.prop34=""
+s.eVar15=""
+s.events="event13"
+            //--></script>
+            <script language="JavaScript" type="text/javascript"><!--
+                if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+            //--></script>                    
+                        
+                            <noscript><img src="http://premiumtv.122.2o7.net/b/ss/goalglobal,goalmalaysia/1/H.25--NS/0?pageName=Matches+%3A+England+-+Capital+One+Cup+%28League+Cup%29+%3A+Southampton+-+Bristol+City+%3A+Report&g=%2Fen-my%2Fmatch%2F123270%2Fsouthampton-vs-bristol-city%2Freport&ch=Matches&c1=Matches+%3A+England+-+Capital+One+Cup+%28League+Cup%29&c2=Matches+%3A+England+-+Capital+One+Cup+%28League+Cup%29+%3A+Southampton+-+Bristol+City&c3=Matches+%3A+England+-+Capital+One+Cup+%28League+Cup%29+%3A+Southampton+-+Bristol+City&c4=report+page&c5=Report&c6=123270&c12=Desktop&c13=goalglobal%2Cgoalmalaysia&c14=&c15=http%3A%2F%2Fwww.goal.com%2Fen-my%2Fmatch%2F123270%2Fsouthampton-vs-bristol-city%2Freport&c16=&v5=&c19=N&c21=&c22=&c23=&c28=&c29=&c30=&c31=&c32=&c33=&c34=&v15=" height="1" width="1" border="0" alt="" /></noscript>
+                        <!-- End SiteCatalyst code version: H.25. -->
+<div id="ad1x1"></div><script type="text/javascript">
+/* Append div#goal_loaded to body with window onload event */
+window.onload = function() {
+
+    var goal_loaded = document.createElement('div');
+        goal_loaded.setAttribute('id', 'goal_loaded');
+
+    document.body.appendChild(goal_loaded);
+}
+</script><div id="fb-root"></div>
+</body>
+</html>

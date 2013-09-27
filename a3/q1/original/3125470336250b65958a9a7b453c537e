@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ja" lang="ja">
+<head>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta http-equiv="Content-Script-Type" content="text/javascript" />
+  <meta name="copyright" content="日本放送協会" />
+  <meta name="title" content="レール問題受けＪＲ西日本も調査　NHKニュース" />
+  <meta name="description" content="ＪＲ北海道が基準を超えたレールの幅などを補修せずに放置していた問題で、ＪＲ西日本は、同じような問題がないか調査を始めました。" />
+  <meta name="keywords" content="ＮＨＫ,ニュース,ＮＨＫニュース,NHK NEWS WEB,社会,ＪＲ西日本,レール,脱線事故" />
+  <title>レール問題受けＪＲ西日本も調査　NHKニュース</title>
+  <link id="modecss" href="../../css/screen2.css" media="screen, projection" rel="stylesheet" type="text/css" />
+  <link id="themecss" href="../../css/screen_add2.css" media="screen, projection" rel="stylesheet" type="text/css" />
+  <script type="text/javascript" src="../../js2/lib/mt_std.js" charset="UTF-8"></script>
+  <script type="text/javascript" src="../../js2/lib/mt_ajx.js" charset="UTF-8"></script>
+  <script type="text/javascript" src="../../js2/lib/mt_rss.js" charset="UTF-8"></script>
+  <script type="text/javascript" src="../../js2/cookie.js" charset="UTF-8"></script>
+  <script type="text/javascript" src="../../js2/SWFPlayer.js" charset="UTF-8"></script>
+  <script type="text/javascript" src="../../js2/common4.js" charset="UTF-8"></script>
+  <script type="text/javascript" src="../../js2/sokuhou.js" charset="UTF-8"></script>
+  <script type="text/javascript" src="../../js2/index4.js" charset="UTF-8"></script>
+  <script type="text/javascript" src="../../js2/header.js" charset="UTF-8"></script>
+  <script type="text/javascript" src="http://www9.nhk.or.jp/common/social/js/social_buttons.js" charset="UTF-8"></script>
+  <script type="text/javascript" src="http://www3r.nhk.or.jp/news/r/js/exist.js" charset="UTF-8"></script>
+  <script type="text/javascript" src="/common/tc/g.js" charset="UTF-8"></script>
+</head>
+<body id="detail">
+<div id="page">
+<div id="report">
+</div>
+<a name="pagetop" id="pagetop"></a>
+<div id="header">
+    <div id="headerContainer">
+    <p id="logo"><a href="../../index.html"><img src="../../images/logo.png" alt="NHKニュース"/></a></p>
+
+    <div id="pageTime">
+    </div>
+
+    <div id="options">
+        <div id="fontSize">
+        </div>
+        <div id="snsLike">
+        </div>
+    </div>
+    </div><!--/#headerContainer-->
+</div><!--/#header-->
+<div id="headerShadow"></div>
+
+<div id="main">
+
+<div id="bread" class="show">
+    <a href="../../">トップページ</a><img src="../../images/bread_arrow.png" alt="" /><a href="../../index.html?page=cat1">社会ニュース一覧</a><img src="../../images/bread_arrow.png" alt="" /><span>レール問題受けＪＲ西日本も調査</span>
+</div>
+
+
+
+    <div id="pickup">
+        <div id="mainNews" class="aside">
+            <div class="asideContents">
+                <div class="section">
+                    <div class="entry" id="subMainNews">
+                        <a href="../cat0.html">主要ニュース</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+        <div id="banner" class="aside">
+            <div class="sideTitle"></div>
+            <div class="asideContents">
+                <div class="section">
+                    <ul id="bannerList">
+                    </ul>
+                </div>
+           </div>
+        </div>
+
+    </div><!--/#pickup-->
+
+
+
+    <div id="contents">
+        <div id="news" class="article flatTop">
+            <div class="headerTitle"><span>ニュース詳細</span></div>
+            <div class="articleContent">
+            <div class="articleContentIn">
+                <div class="section">
+    <div class="entry">
+    <h1 class="entryTitle social"><span class="contentTitle">レール問題受けＪＲ西日本も調査</span><div class="time"><span id="news_date">9月25日</span> <span id="news_time">8時29分</span></div></h1>
+
+<!--
+    <a href="javascript:void(0);" onclick="window.open('http://twitter.com/intent/tweet?text=Reading:'+EscapeUTF8('NHKニュース　レール問題受けＪＲ西日本も調査')+'&url='+EscapeUTF8('http://www3.nhk.or.jp/news/html/20130925/k10014777461000.html'))"><img src="../../img/twitter.png" width="268" height="17" alt="twitterでつぶやく(クリックするとNHKサイトを離れます)" style="vertical-align:middle;" /></a>
+-->
+    <div id="news_image_div">
+        <img id="news_image" src="K10047774611_1309250825_1309250847_01.jpg" alt="レール問題受けＪＲ西日本も調査" />
+    </div>
+    <div id="news_video"></div>
+    <p id="news_textbody">ＪＲ北海道が基準を超えたレールの幅などを補修せずに放置していた問題で、ＪＲ西日本は、同じような問題がないか調査を始めました。</p>
+    <p id="news_textmore">ＪＲ北海道では、今月１９日に函館線で起きた脱線事故の現場付近など９７か所で、レールの幅などが社内基準を超えていたのに補修せず放置していたことが明らかになりました。<br />この問題を受けてＪＲ西日本は、地区ごとの線路の保守管理を担当する部署に、同じような問題がないか調査を行うよう、２４日指示を出しました。<br />ＪＲ西日本では、ＪＲ北海道とほぼ同じように、点検を行いレールの幅が基準を超えていた場合には、１５日以内に補修することなどを社内規程で定めています。<br />ＪＲ西日本は、こうした規程に違反したケースが見つかれば、本社に報告するとともに速やかに補修を行うよう求めていて、社内調査を早急に終えたいとしています。</p>
+    </div>
+
+    
+
+    <div id="news_mkanren">
+      <span>［関連ﾆｭｰｽ］</span>
+    </div>
+    
+
+    <div id="news_kanren">
+      <span style="display:none;">k10014777461000.html</span>
+      <table style="font-size: 100%; width: 95%;" cellpadding="0" cellspacing="0">
+      <tr>
+      <td style="padding: 2px 8px; width: 8em; vertical-align: top;">
+        <p style="color:#346702; font-weight: bold; font-size: 100%; line-height: 120%;">［関連ﾆｭｰｽ］</p>
+        <p style="color:#777777; font-size: 90%;">　 自動検索</p>
+      </td>
+      <td>
+        <p style="font-size: 100%; margin: 0px 0px 1.2em 0px;">・ <a href="../20130927/k10014845631000.html">ＪＲ西日本歴代３社長にきょう判決</a>　（9月27日 4時39分）</p>
+        <p style="font-size: 100%; margin: 0px 0px 1.2em 0px;">・ <a href="../20130925/k10014788081000.html">レール幅広がり 社内基準の約２倍</a>　（9月25日 14時24分）</p>
+        <p style="font-size: 100%; margin: 0px 0px 1.2em 0px;">・ <a href="../20130925/k10014773721000.html">基準の幅超えレール 新たに約１７０か所</a>　（9月25日 6時56分）</p>
+        <p style="font-size: 100%; margin: 0px 0px 1.2em 0px;">・ <a href="../20130924/k10014767231000.html">ＪＲ北海道 ４か所のレール約１年放置</a>　（9月24日 19時17分）</p>
+        <p style="font-size: 100%; margin: 0px 0px 1.2em 0px;">・ <a href="../20130924/k10014752641000.html">ＪＲ北海道 レール管理以外に監査拡大</a>　（9月24日 12時11分）</p>
+      </td>
+      </tr>
+      </table>
+    </div>
+
+
+    <div id="news_kanlink">
+<table cellspacing="0" cellpadding="0">
+<tr><td class="kl_l">
+<div class="kl_ttl">［関連リンク］</div></td>
+<td>
+<ul>
+
+</ul>
+</td></tr></table>
+    </div>
+    
+
+                </div><!--/.section -->
+
+            </div>
+            </div><!-- /.articleContent -->
+            <div class="articleFooter"><div class="articleFooterIn"></div></div>
+        </div>
+
+        <div id="icons" class="article flatTop">
+            <div class="articleHeader">
+                <div class="articleHeaderContainer">
+                    <div class="articleHeaderRight"></div>
+                </div>
+                <div class="articleHeaderLeft"></div>
+            </div>
+
+            <div class="headerTitle"></div>
+            <div class="articleContent">
+            <div class="articleContentIn">
+
+                <div class="section">
+
+                    <div class="iconCenter">
+                        <p class="social"><a href="../../index.html?page=cat1">社会ニュース一覧</a></p><p class="science"><a href="../../index.html?page=cat3">科学・医療ニュース一覧</a></p><p class="politics"><a href="../../index.html?page=cat4">政治ニュース一覧</a></p><p class="economic last"><a href="../../index.html?page=cat5">経済ニュース一覧</a></p>
+                    </div>
+                    <div class="separate"></div>
+                    <div class="iconCenter last">
+                        <p class="international"><a href="../../index.html?page=cat6">国際ニュース一覧</a></p><p class="sports"><a href="../../index.html?page=cat7">スポーツニュース一覧</a></p><p class="life"><a href="../../index.html?page=cat2">文化・エンタメニュース一覧</a></p><p class="movie last"><a href="../../index.html?page=mov">動画一覧</a></p>
+                    </div>
+
+
+                </div>
+
+            </div>
+            </div>
+            <div class="articleFooter"><div class="articleFooterIn"></div></div>
+        </div>
+
+    </div><!--/#contents-->
+
+</div><!--/#main-->
+
+<div id="footWrap">
+<div id="footerShadowUp"></div>
+<div id="footer">
+    <div id="footerContainer">
+        <div id="footerNav">
+            <ul>
+                <li id="fnav0"><a href="http://www.nhk.or.jp/css/">ご意見・お問い合わせ</a></li>
+                <li id="fnav1"><a href="http://www.nhk.or.jp/privacy/">NHKにおける個人情報保護について</a></li>
+                <li id="fnav2"><a href="http://www.nhk.or.jp/toppage/nhk_info/copyright.html">放送番組と著作権</a></li>
+                <li id="fnav3" class="last"><a href="http://www3.nhk.or.jp/toppage/notice.html">NHK オンライン利用上の注意</a></li>
+            </ul>
+        </div>
+
+        <div id="colophon"><a href="http://www.nhk.or.jp/"><img src="../../images/nhk.png" alt="NHKオンライン" /></a>Copyright NHK (Japan Broadcasting Corporation) All rights reserved.<br />許可なく転載することを禁じます。<br />このページは受信料で制作しています。</div>
+    </div><!--/#footerContainer-->
+</div><!--/#footer-->
+</div><!--/#footWrap-->
+
+<div class="pagetop"><a href="#pagetop">このページの先頭へ</a></div>
+
+</div><!--/#page-->
+<img src="http://bc.nhk.jp/news/html/20130925/10014777461000/bc.gif" width="0" height="0" />
+</body>
+</html>

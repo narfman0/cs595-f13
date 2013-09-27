@@ -1,0 +1,196 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />	<title>
+		JATW:
+		Submissions	</title>
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.0/jquery.min.js"></script>
+
+	<link href="/favicon.ico" type="image/x-icon" rel="icon" /><link href="/favicon.ico" type="image/x-icon" rel="shortcut icon" />
+	<link rel="stylesheet" type="text/css" href="/css/normalize.css" />
+	<link rel="stylesheet" type="text/css" href="/css/foundation.css" />
+	<link rel="stylesheet" type="text/css" href="/css/base.css" />
+	<link rel="stylesheet" type="text/css" href="/css/jauntaroo.css" />
+	<link rel="stylesheet" type="text/css" href="/css/panda.css" />
+	<link rel="stylesheet" type="text/css" href="/css/status.css" />
+	<link rel="stylesheet" type="text/css" href="/css/votes.css" />
+	<link rel="stylesheet" type="text/css" href="/css/forms.css" />
+	<link rel="stylesheet" type="text/css" href="/css/submissions.css" />
+	<link rel="stylesheet" type="text/css" href="/css/jquery.cluetip.css" />
+	<link rel="stylesheet" type="text/css" href="/css/vendor/chosen.min.css" />
+
+	<script type="text/javascript" src="/js/modernizr.foundation.js"></script>
+	<script type="text/javascript" src="/js/foundation.min.js"></script>
+	<script type="text/javascript" src="/js/panda.js"></script>
+	<script type="text/javascript" src="/js/jquery.panda-uploader.min.js"></script>
+	<script type="text/javascript" src="/js/jquery.cluetip.min.js"></script>
+	<script type="text/javascript" src="/js/jquery-ui.min.js"></script>
+	<script type="text/javascript" src="/js/jquery.prettyPhoto.js"></script>
+	<script type="text/javascript" src="/js/vendor/jquery-file-upload/vendor/jquery.ui.widget.js"></script>
+	<script type="text/javascript" src="/js/vendor/jquery-file-upload/jquery.iframe-transport.js"></script>
+	<script type="text/javascript" src="/js/vendor/jquery-file-upload/jquery.fileupload.js"></script>
+	<script type="text/javascript" src="/js/vendor/chosen.jquery.min.js"></script>
+	<script type="text/javascript" src="/js/jauntaroo.js"></script>
+	<script type="text/javascript" src="/js/fp.min.js"></script>
+	<meta property="og:title" content="Jauntaroo" />
+	<meta property="og:type" content="website" />
+	<meta property="og:site_name" content="Jaunt Around the World" />
+</head>
+<body>
+	<div id="container">
+		<div id="header">
+			<div class="logos row">
+				<div class="twelve columns">
+					<div class="left">
+						<p><a href="/"><img src="/img/logo.png" alt="Jauntaroo Around the World" width="342" height="44" /></a></p>
+					</div>
+					<div class="right">
+						<p><a href="http://jauntaroo.com/" target="_blank"><img src="/img/jauntaroo-logo.png" alt="Jauntaroo" width="190" height="36" /></a>						</p>
+					</div>
+				</div>
+			</div>
+			<div id="nav-bar">
+				<div class="row">
+					<div class="twelve columns">
+						<div class="left">
+	<ul id="nav">
+				<li><a href="/pages/job_details">Job Details</a></li>
+		<li><a href="/submissions">The Candidates</a></li>
+			</ul>
+</div>
+
+<div class="right">
+	<span class="smaller">share via:</span>
+	<!-- AddThis Button BEGIN -->
+	<div class="addthis_toolbox addthis_32x32_style">
+		<a href="#" class="addthis_button_twitter"><img src="/img/icn-twitter.png" alt="Twitter" /></a>		<a href="#" class="addthis_button_facebook"><img src="/img/icn-facebook.png" alt="Facebook" /></a>		<a href="#" class="addthis_button_tumblr"><img src="/img/icn-tumblr.png" alt="Tumblr" /></a>		<a href="#" class="addthis_button_google_plusone_share"><img src="/img/icn-google.png" alt="Google +" /></a>		<a href="#" class="addthis_button_pinterest_share"><img src="/img/icn-pinterest.png" alt="Pinterest" /></a>	</div>
+	<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=xa-504a5d4c7b6c6d4f"></script>
+</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div id="content">
+			<div class="row">
+				<div class="flash">
+									</div>
+			</div>
+			<div class="row">
+	<div class="preview detail">
+	<h1 class="name">
+		<img src="https://s3.amazonaws.com/jatw/img/6944/sub52254c7ab665c.png" class="avatar" alt="" />
+		<div style="float:left">
+			<span class="red">Maria Alexandra L.</span>
+			<div class="vote-wrapper">
+  <form action="/votes/add/6944" id="VoteViewForm" method="post" accept-charset="utf-8"><div style="display:none;"><input type="hidden" name="_method" value="POST"/></div><input type="hidden" name="data[Vote][pixie_dust]" value="0000000000" id="VotePixieDust"/><button class="btn" type="submit">Like</button></form><span class="count">717</span>
+</div>
+			<p class="voting-rules">Show your support for your favorite Chief World Explorer candidates by watching their videos and clicking the Like button. You can Like each candidate once every 24 hours.</p>
+		</div>
+
+		<span class="navigation"><a href="/submissions/index" class="left back">Back to Candidates</a></span>
+	</h1>
+	<div class="clear"></div>
+	<div id="submission_video" class="video" style="width:600px;height:450;">
+			</div>
+	            <script type="text/javascript" src="/jwplayer/jwplayer.js"></script>
+            <script type="text/javascript">
+            jwplayer.key="3S1lpu3bojCknKFl1Vv7oNzT/bhvhNP9Z0es9Q==";
+            jwplayer('submission_video').setup({
+              file: "http://af-panda.s3.amazonaws.com/09213255381adebcae5252d089e097e1.mp4",
+              autostart: true,
+              width: 600,
+              height: 450,
+              primary: 'flash',
+              advertising: {
+                client: 'googima',
+                tag: 'http://pubads.g.doubleclick.net/gampad/ads?sz=400x300&iu=/33556602/default_JATW_Video_adSesnse&ciu_szs&impl=s&gdfp_req=1&env=vp&output=xml_vast2&unviewed_position_start=1&url=[referrer_url]&correlator=[timestamp]'
+              }
+            });
+            </script>
+          
+
+	<div class="fav-dest">
+  <h3 class="underline">Favorite Jauntaroo Destinations</h3>
+  <ul>
+            <li>
+        <h3><a href="http://jauntaroo.com/destinations/view/Bhutan" target="_blank">Bhutan</a></h3>
+      </li>
+                <li>
+        <h3><a href="http://jauntaroo.com/destinations/view/Serengeti-National-Park" target="_blank">Serengeti National Park</a></h3>
+      </li>
+                <li>
+        <h3><a href="http://jauntaroo.com/destinations/view/maldives" target="_blank">Maldives</a></h3>
+      </li>
+                <li>
+        <h3><a href="http://jauntaroo.com/destinations/view/Christchurch-Canterbury" target="_blank">Christchurch - Canterbury</a></h3>
+      </li>
+                <li>
+        <h3><a href="http://jauntaroo.com/destinations/view/Mykonos" target="_blank">Mykonos</a></h3>
+      </li>
+        </ul>
+  <div class="clear"></div>
+</div>
+		<div class="clear"></div>
+</div>
+
+	<div class="ads">
+					<div class="ad">
+							<div style="padding: 7px 7px 8px; background-color: #d8d8d8">
+<script type="text/javascript">
+google_ad_client = "ca-pub-1413806436305745";
+google_ad_width = 300;
+google_ad_height = 250;
+google_ad_format = "300x250_as";
+google_ad_type = 'image';
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+</div>					</div>
+					<div class="ad">
+							<a href="http://www.jauntaroo.com/destinations/view/st-lucia///" target="_blank"><img src="https://s3.amazonaws.com/jatw/img/sub5217d494d3ee8.png" alt="" /></a>					</div>
+					<div class="ad">
+							<div style="padding: 7px 7px 8px; background-color: #d8d8d8">
+<script type="text/javascript">
+google_ad_client = "ca-pub-1413806436305745";
+google_ad_width = 300;
+google_ad_height = 250;
+google_ad_format = "300x250_as";
+google_ad_type = 'image';
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+</div>					</div>
+	</div>
+</div>
+		</div>
+				<div id="footer">
+			<div class="row">
+				<div class="twelve columns">
+					<div class="left">
+						<p><b>&copy; 2013 Vacation Travel Match, LLC. All Rights Reserved.</b><br/>
+							Use of the Vacation Travel Match websites, subsidiaries and our<br/>
+							Company Information constitutes acceptance of our
+							<a href="/pages/terms_and_conditions">Terms and Conditions</a> and
+							<a href="/pages/privacy_policy">Privacy Policy</a>.
+						</p>
+					</div>
+					<div class="right">
+						<ul>
+							<li><a href="/pages/terms_and_conditions">Terms &amp; Conditions</a></li>
+							<li><a href="/pages/privacy_policy">Privacy Policy</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-42843203-1', 'bestjobaroundtheworld.com');
+  ga('send', 'pageview');
+
+</script>
+</body>
+</html>

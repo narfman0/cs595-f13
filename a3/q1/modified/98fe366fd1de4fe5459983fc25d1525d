@@ -1,0 +1,3410 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link rel="icon" href="/images/football.ico" type="image/x-icon" />
+    <title>Гаттузо больше не тренер Палермо &mdash; football.ua</title>
+
+    <meta name="description" content="Сообщается, что экс-игрок Милана, а ныне тренер Дженнаро Гаттузо больше не будет работать на Сицилии." />
+
+    <meta property="og:url" content="http://football.ua/italy/news/216562.html" />
+
+    <meta property="og:image" content="http://s.ill.in.ua/i/news/570x380/216/216562.jpg" />
+
+    <meta property="og:title" content="Гаттузо больше не тренер Палермо" />
+
+    <meta property="og:description" content="Сообщается, что экс-игрок Милана, а ныне тренер Дженнаро Гаттузо больше не будет работать на Сицилии." />
+
+
+<link rel="stylesheet" type="text/css" href="//football.ua/tpl/index/css/main.css?v=2013-08-02" />
+<link rel="stylesheet" type="text/css" href="//football.ua/tpl/index/css/cPositioning.css?v=2013-08-02" />
+<link rel="stylesheet" type="text/css" href="//football.ua/tpl/index/css/cWidth.css?v=2013-08-02" />
+<link rel="stylesheet" type="text/css" href="//football.ua/tpl/index/css/football_css.css" />
+
+<link rel="stylesheet" type="text/css" href="//football.ua/tpl/index/css/components/article.css?v=2013-03-04" />
+<link rel="stylesheet" type="text/css" href="//football.ua/tpl/index/css/components/authorWideArrows.css" />
+<link rel="stylesheet" type="text/css" href="//football.ua/tpl/index/css/components/blogs.css" />
+<link rel="stylesheet" type="text/css" href="//football.ua/tpl/index/css/components/liveLine.css" />
+<link rel="stylesheet" type="text/css" href="//football.ua/tpl/index/css/components/mainFeedItems.css?v=2013-03-04" />
+<link rel="stylesheet" type="text/css" href="//football.ua/tpl/index/css/components/matchesWideHome.css" />
+<link rel="stylesheet" type="text/css" href="//football.ua/tpl/index/css/components/navLinksLeft.css" />
+<link rel="stylesheet" type="text/css" href="//football.ua/tpl/index/css/components/newsFeed.css?v=2013-03-04" />
+<link rel="stylesheet" type="text/css" href="//football.ua/tpl/index/css/components/teamsLine.css" />
+<link rel="stylesheet" type="text/css" href="//football.ua/tpl/index/css/components/topLine.css" />
+<link rel="stylesheet" type="text/css" href="//football.ua/tpl/index/css/temp_footer.css" />
+<link rel="stylesheet" type="text/css" href="//football.ua/tpl/index/css/football_homepageNewHeader.css" />
+<link rel="stylesheet" type="text/css" href="//football.ua/tpl/index/css/website.css?v=2013-03-28" />
+<link rel="stylesheet" type="text/css" href="//football.ua/tpl/index/css/from_developers.css?v=2013-09-04" />
+
+<link rel="stylesheet" type="text/css" href="//football.ua/tpl/index/css/dropkick.css?v=2013-07-24" />
+    
+    <script type="text/javascript">
+        var Domain = {};
+        (function () {
+            Domain.Service = '//services.football.ua';
+            Domain.Auth = 'https://services.football.ua';
+            Domain.Comment = '//services.football.ua';
+            Domain.Static = '//football.ua';
+            Domain.Image = 'http://s.ill.in.ua';
+            Domain.Cookie = '.football.ua';
+            Domain.MSLDomain = '//services.football.ua';
+        })();
+        var Main = {};
+        Main.SearchParam = '%7bsearchKey%7d';
+        Main.SearchLink = 'http://football.ua/default.aspx?menu_id=search&search=%7bsearchKey%7d';
+        var ServiceDomainCookies = '.' + document.domain.replace('/^w+[0-9]*\./i', '');
+        var ServiceDomain = 'service' + ServiceDomainCookies;
+    </script>
+
+    <script type="text/javascript" src="//football.ua/js/jq/JQuery.js"></script>
+    <script type="text/javascript" src="//football.ua/js/jq/ui/all.1.8.18.js"></script>
+    <script type="text/javascript" src="//football.ua/js/jq/ui/datepicker-ru.js"></script>
+    <script type="text/javascript" src="//football.ua/js/jq/jquery.jsonp-2.4.0.min.js"></script>
+    <script type="text/javascript" src="//football.ua/js/jq/jquery.tinyscrollbar.min.js"></script>
+    <script type="text/javascript" src="//football.ua/js/jq/jcarousellite_1.0.1.min.js?v=2013-04-20"></script>
+    <script type="text/javascript" src="//football.ua/js/jq/jquery.tmpl.js"></script>
+    <script type="text/javascript" src="//football.ua/js/jq/jquery.cookie.js"></script>
+    <script type="text/javascript" src="//football.ua/js/jq/jquery.dataTables.min.js"></script>
+    <script type="text/javascript" src="//football.ua/js/Main.js?v=2013-08-02"></script>
+
+    <script type="text/javascript" src="//football.ua/js/jq/jquery.dropkick-1.0.0.js" charset="utf-8"></script>
+    <script type="text/javascript" src="//football.ua/js/select.js" charset="utf-8"></script>
+
+    <script type="text/javascript">
+        $.datepicker.setDefaults($.extend($.datepicker.regional["ru"]));
+        $.jsonp.setup({ callbackParameter: 'callback', timeout: 15000 });
+    </script>
+
+    <script id="LoginUser" type="text/x-jquery-tmpl">
+{{if $data.UserName != null}}
+    <span>Привет,</span>
+    <a href="#" class="user up" onclick="showMenu(this); return false;">${$data.UserName}</a>
+    <div class="menulist" style="display:none;">
+        <ul>
+            <li>
+                <a href="${$data.LinkProfile}">Профиль</a>
+            </li>
+            <li>
+                <a href="${$data.LinkEmail}">Почта 
+                    {{if $data.MailCount != 0}} 
+                        (${$data.MailCount}) 
+                    {{/if}}
+                </a>
+            </li>
+            <li>
+                <a href="${$data.LinkBlog}">Блоги</a></li><li><a href="${$data.LinkFriends}">Друзья </a>
+            </li>
+        </ul>
+        <ul>
+            <li>
+                <a href="${$data.LinkSettings}">Настройки</a></li></ul><ul class="noborder">
+            <li>
+                <a href="#" onclick="Login.Logout(); return false;"> Выход </a>
+            </li>
+        </ul>
+    </div>
+{{else}}
+    <a href="#" onclick="Login.LoginBlock(); $('#popupBackGround').show(); return false;" class="enter">Войти</a>
+    <a href="#" onclick="Login.RegisterBlock(); $('#popupBackGround').show(); return false;" class="register">Регистрация</a>
+{{/if}}
+</script><script id="UserInfo" type="text/x-jquery-tmpl">
+   <a class="close act" onclick="$('.popupWithInfo').hide(); return false;" href="#"></a>
+	<span class="title">Информация о</span>
+	<a href="${Link}">${UserName}</a>
+	<div class="area">
+        {{if !IsFriends }}
+		    <a class="addToFriends m-t5" href="#" id="fr_${UserId}" onclick="return Profile.AddFrends(this);">Добавить в друзья</a>
+        {{/if}}
+	</div>
+        {{if  $data.DisplayName != '' ||  $data.Age != '' || ($data.CityName != '' && $data.CityName != null) || ($data.CountryName != '' && $data.CountryName != null) }}
+		<div class="area">
+			{{if $data.DisplayName != ''}}
+				<div class="text m-b5">
+				    Имя:
+				    <b>${$data.DisplayName}</b>
+			    </div>
+			{{/if}}
+            {{if ($data.CityName != '' && $data.CityName != null) || ($data.CountryName != '' && $data.CountryName != null)}}
+			    <div class="text m-b5">
+				    Откуда:
+				    <b>${CityName} ${CountryName}</b>
+			    </div>
+            {{/if}}
+            {{if $data.Age != ''}}
+			    <div class="text m-b5">
+				    Возраст:
+				    <b>${Age} лет</b>
+			    </div>
+            {{/if}}
+		</div>
+    {{/if}}
+	<div class="area noborder">
+		<div class="text m-b5">
+			На сайте:
+			<b>всего ${LongOnSite}</b>
+		</div>
+        {{if $data.CountComments != '' && $data.CountComments > 0 }}
+			<div class="text m-b5">
+				Оставил:
+				<b> ${CountComments} комментариев</b>
+			</div>
+        {{/if}}
+	</div>
+</script>
+<script id="MSLmulti" type="text/x-jquery-tmpl">
+    <div class="lotteryDescr">
+            А для азартных читателей приводим котировки (коэффициенты) лотереи
+            <a href="${$data.MSLHref}" target="_blank">Спортлига</a>
+            {{if $data.IsDate}}
+                Программа ${$data.content[0].LineNumber}
+            {{else}}
+                <a target="_blank" href="${$data.MSLHref}">Программа&nbsp;${$data.content[0].LineNumber}/${$data.content[0].LineNumberBrand}</a>
+            {{/if}}
+    </div>
+
+    <div class="statistic lottery scrollbarHorizontal">
+        <div class="viewport">
+            <div class="overview">
+
+        <table>
+            <tbody>
+                <tr>
+					<th rowspan="2">№</th>
+					<th rowspan="2" class="lalign">команда 1</th>
+					<th rowspan="2" class="lalign ">команда 2</th>
+					<th rowspan="2">1</th>
+					<th rowspan="2">X</th>
+					<th rowspan="2">2</th>
+					<th rowspan="2">1X</th>
+					<th rowspan="2">12</th>
+					<th rowspan="2">X2</th>
+					<th rowspan="2">Ф1</th>
+					<th rowspan="2">Кф1</th>
+					<th rowspan="2">Ф2</th>
+					<th rowspan="2">Кф2</th>
+					<th rowspan="2">Тот</th>
+					<th rowspan="2">Б</th>
+					<th rowspan="2">М</th>
+                    <th colspan="2">1 заб'є</th>
+                    <th colspan="2">2 заб'є</th>
+                </tr>
+                <tr>
+                    <th>Так</th>
+                    <th>Ні</th>
+                    <th>Так</th>
+                    <th>Ні</th>
+                </tr>
+
+                {{each content }}
+                    <tr>
+                        <td>${$value.SeqNumber}</td>
+                        <td class="lalign">${$value.Team1}</td>
+                        <td class="lalign">${$value.Team2}</td>
+                        <td>{{if ($value.Type_1 != null)}} ${$value.Type_1} {{else}} - {{/if}}</td>
+                        <td>{{if ($value.Type_X != null)}} ${$value.Type_X} {{else}} - {{/if}}</td>
+                        <td>{{if ($value.Type_2 != null)}} ${$value.Type_2}  {{else}} - {{/if}}</td>
+                        <td>{{if ($value.Type_1X != null)}} ${$value.Type_1X} {{else}} - {{/if}}</td>
+                        <td>{{if ($value.Type_12 != null)}} ${$value.Type_12} {{else}} - {{/if}}</td>
+                        <td>{{if ($value.Type_X2 != null)}} ${$value.Type_X2} {{else}} - {{/if}}</td>
+                        <td>{{if ($value.Type_F1 != null)}} ${$value.Type_F1} {{else}} - {{/if}}</td>
+                        <td>{{if ($value.Type_KF1 != null)}} ${$value.Type_KF1} {{else}} - {{/if}}</td>
+                        <td>{{if ($value.Type_F2 != null)}} ${$value.Type_F2} {{else}} - {{/if}}</td>
+                        <td>{{if ($value.Type_KF2 != null)}} ${$value.Type_KF2} {{else}} - {{/if}}</td>
+                        <td>{{if ($value.Type_UnderTotal != null)}} ${$value.Type_UnderTotal} {{else}} - {{/if}}</td>
+                        <td>{{if ($value.Type_Over != null)}} ${$value.Type_Over} {{else}} - {{/if}}</td>
+                        <td>{{if ($value.Type_Under != null)}} ${$value.Type_Under} {{else}} - {{/if}}</td>
+                        <td>{{if ($value.Type_1Yes != null)}} ${$value.Type_1Yes} {{else}} - {{/if}}</td>
+                        <td>{{if ($value.Type_1No != null)}} ${$value.Type_1No} {{else}} - {{/if}}</td>
+                        <td>{{if ($value.Type_2Yes != null)}} ${$value.Type_2Yes} {{else}} - {{/if}}</td>
+                        <td>{{if ($value.Type_2No != null)}} ${$value.Type_2No} {{else}} - {{/if}}</td>
+                    </tr>
+                {{/each}}
+            </tbody>
+        </table>
+            </div>
+        </div>
+        <div class="scrollbar"><div class="track"><div class="thumb"><div class="end"></div></div></div></div>
+	</div>
+
+	<div class="left absolute m-t5 calign p-t10 p-b10">
+        <a href="${$data.MSLHref}" class="saveInput" target="_blank">Сделать ставку онлайн</a>
+	</div>
+</script>
+<script id="MSLsingle" type="text/x-jquery-tmpl">
+    <div class="lotteryTopDescr">
+        А для азартных читателей приводим котировки (коэффициенты) лотереи
+        <a href="${$data.MSLHref}" target="_blank">Спортлига</a>, на матч ${$data.content[0].Team1} - ${$data.content[0].Team2}
+        {{if $data.IsDate}}
+            Программа ${$data.content[0].LineNumber}/${$data.content[0].LineNumberBrand}, событие ${$data.content[0].SeqNumber}
+        {{else}}
+            <a href="${$data.MSLHref}" target="_blank">Программа ${$data.content[0].LineNumber}/${$data.content[0].LineNumberBrand}, событие ${$data.content[0].SeqNumber}</a>
+        {{/if}}
+    </div>
+    <table>
+        <tbody>
+            <tr>
+				<th rowspan="2">1</th>
+				<th rowspan="2">X</th>
+				<th rowspan="2">2</th>
+				<th rowspan="2">1X</th>
+				<th rowspan="2">12</th>
+				<th rowspan="2">X2</th>
+				<th rowspan="2">Ф1</th>
+				<th rowspan="2">Кф1</th>
+				<th rowspan="2">Ф2</th>
+				<th rowspan="2">Кф2</th>
+				<th rowspan="2">Тот</th>
+				<th rowspan="2">Б</th>
+				<th rowspan="2">М</th>
+                <th colspan="2">1 заб'є</th>
+                <th colspan="2">2 заб'є</th>
+            </tr>
+            <tr>
+                <th>Так</th>
+                <th>Ні</th>
+                <th>Так</th>
+                <th>Ні</th>
+            </tr>
+            {{each content }}
+                {{if $data.content.length > 1 && $value.TimeName != null}}
+                    <tr>
+						<th colspan="17">${$value.TimeName}</th>
+					</tr>
+                {{/if}}
+                <tr>
+                    <td>{{if ($value.Type_1 != null)}} ${$value.Type_1} {{else}} - {{/if}}</td>
+                    <td>{{if ($value.Type_X != null)}} ${$value.Type_X} {{else}} - {{/if}}</td>
+                    <td>{{if ($value.Type_2 != null)}} ${$value.Type_2}  {{else}} - {{/if}}</td>
+                    <td>{{if ($value.Type_1X != null)}} ${$value.Type_1X}  {{else}} - {{/if}}</td>
+                    <td>{{if ($value.Type_12 != null)}} ${$value.Type_12}  {{else}} - {{/if}}</td>
+                    <td>{{if ($value.Type_X2 != null)}} ${$value.Type_X2}  {{else}} - {{/if}}</td>
+                    <td>{{if ($value.Type_F1 != null)}} ${$value.Type_F1}  {{else}} - {{/if}}</td>
+                    <td>{{if ($value.Type_KF1 != null)}} ${$value.Type_KF1}  {{else}} - {{/if}}</td>
+                    <td>{{if ($value.Type_F2 != null)}} ${$value.Type_F2}  {{else}} - {{/if}}</td>
+                    <td>{{if ($value.Type_KF2 != null)}} ${$value.Type_KF2}  {{else}} - {{/if}}</td>
+                    <td>{{if ($value.Type_UnderTotal != null)}} ${$value.Type_UnderTotal}   {{else}} - {{/if}}</td>
+                    <td>{{if ($value.Type_Over != null)}} ${$value.Type_Over}  {{else}} - {{/if}}</td>
+                    <td>{{if ($value.Type_Under != null)}} ${$value.Type_Under}  {{else}} - {{/if}}</td>
+                    <td>{{if ($value.Type_1Yes != null)}} ${$value.Type_1Yes}  {{else}} - {{/if}}</td>
+                    <td>{{if ($value.Type_1No != null)}} ${$value.Type_1No}  {{else}} - {{/if}}</td>
+                    <td>{{if ($value.Type_2Yes != null)}} ${$value.Type_2Yes}  {{else}} - {{/if}}</td>
+                    <td>{{if ($value.Type_2No != null)}} ${$value.Type_2No}  {{else}} - {{/if}}</td>
+                </tr>
+            {{/each}}
+        </tbody>
+    </table>
+
+    <div class="left absolute m-t5 calign p-t10 p-b10">
+        <a href="${$data.MSLHref}" class="saveInput" target="_blank">Сделать ставку онлайн</a>
+    </div>
+</script>
+<script id="CommentPagerTmpl" type="text/x-jquery-tmpl">
+{{if $data.PagerIsShow }}
+<div class="separator m-t10"></div>
+<div class="pager">
+    
+    <a class="prev" href="#page${$data.PagerCurrent}" onclick="ModComment.ChangePage(${$data.PagerCurrent - 1}); return false;"
+        {{if $data.PagerCurrent == 0}}style="visibility:hidden;"{{/if}}>&laquo; предыдушие</a>
+
+    <a class="next" href="#page${$data.PagerCurrent + 2}" onclick="ModComment.ChangePage(${$data.PagerCurrent + 1}); return false;"
+        {{if $data.PagerCurrent >= $data.PagerLast}}style="visibility:hidden;"{{/if}}>следующие &raquo;</a>
+
+    <div class="pages">
+        {{if $data.PagerCurrent == 0}}
+            <a class="active" href="#page1" onclick="return false;">1</a>
+        {{else}}
+            <a class="" href="#page1" onclick="ModComment.ChangePage(0); return false;">1</a>
+        {{/if}}
+        {{if $data.PagerCurrent > 2 && $data.PagerLast > 4}}
+            <a class="" href="#" onclick="return false;">...</a>
+        {{/if}}
+
+        {{each $data.PagerPages}}
+            {{if $data.PagerCurrent == $value}}
+                <a class="active" href="#page${$value + 1}" onclick="return false;">${$value + 1}</a>
+            {{else}}
+                <a class="" href="#page${$value + 1}" onclick="ModComment.ChangePage(${$value}); return false;">${$value + 1}</a>
+            {{/if}}
+        {{/each}}
+
+        {{if $data.PagerCurrent < ($data.PagerLast - 2) &&  $data.PagerLast > 4}}
+            <a class="" href="" onclick="return false;">...</a>
+        {{/if}}
+        {{if $data.PagerCurrent == $data.PagerLast}}
+            <a class="active" href="#page${$data.PagerLast + 1}" onclick="return false;">${$data.PagerLast + 1}</a>
+        {{else}}
+            <a class="" href="#page${$data.PagerLast + 1}" onclick="ModComment.ChangePage(${$data.PagerLast}); return false;">${$data.PagerLast + 1}</a>
+        {{/if}}
+    </div>
+</div>
+{{/if}}
+</script><script id="CommentTmpl" type="text/x-jquery-tmpl">
+    <div id="comment_${$item.Prefix}${$data.Id}" class="commentItem"
+        onmouseover="ModComment.CommentOver(this, ${$item.UserIsCanComment}, ${$item.UserIsLoginned});" onmouseout="ModComment.CommentOut(this);">
+        <div class="user">
+            <img alt="avatar" src="${ModComment.GetUserAvatar($data.PhotoFilename)}" />
+            <span class="indicator {{if ModComment.IsUserOnline($data.UserDateLastActivity, $item.DateTimeNow)}} on {{else}} off {{/if}}"></span>
+            <div class="details">
+                <a href="${ModComment.GetProfileLink($data.UserId)}">${$data.UserName}</a>
+                <span>${ModComment.GetUserOnSite($data.UserDateCreated, $item.DateTimeNow)}</span>
+                <div class="popupWithInfo" style="display:none;"></div>
+            </div>
+        </div>
+        <div class="date">
+            <span>${Main.GetVerbalDateTime($data.DateCreated)}</span>
+            <a href="#comment_${$data.Id}">#</a>
+        </div>
+        <p>
+            {{if $data.Quotes != null && $data.Quotes.length > 0}}
+                {{each $data.Quotes}}
+                <span class="quotte">
+                {{/each}}
+                {{each $data.Quotes}}
+                    <a class="user" href="${ModComment.GetProfileLink($value.UserId)}">${$value.UserName}</a>
+                    {{html $value.Text}}
+                </span>
+                {{/each}}
+            {{/if}}
+            {{html $data.Text}}
+        </p>
+        <div class="like">
+            <div class="likeBlock">
+                <div class="likeCounter">${$data.Rate}</div>
+                <a href="#" class="likeButt
+                    {{if !$item.UserIsLoginned}} 
+                        inactive" onclick="return false;"
+                    {{else}} 
+                        {{if $data.IsRatedByCurrentUser }} 
+                            active" onclick="return false;"
+                        {{else}}
+                            " onclick="ModComment.Like('${$data.Id}', this); return false;"
+                        {{/if}}
+                    {{/if}}
+                 ></a>
+            </div>
+            {{if $item.UserIsCanComment}}
+                <a class="quotte" href="#" style="display:none;" onclick="ModComment.CommentReply('${$data.Id}', 'comment_${$item.Prefix}${$data.Id}'); return false;">Ответить цитатой</a>
+            {{/if}}
+            <div class="operationLinks" style="display:none;">
+                {{if $item.UserIsComplainAllowed}}
+                    <a href="#" onclick="ModComment.Complain('${$data.Id}'); return false;">Пожаловаться</a>
+                {{/if}}
+                {{if $item.UserIsBanAllowed}}
+                    <a href="#" onclick="ModComment.Remove('${$data.Id}', this); return false;">Удалить</a>
+                    <a class="noborder" href="#" onclick="ModComment.Ban('${$data.Id}'); return false;">Забанить</a>
+                {{/if}}
+            </div>
+        </div>
+    </div>
+</script><script id="CommentsTmpl" type="text/x-jquery-tmpl">
+{{if $data.PageComments != null || $data.PagerIsShow}}
+    <div class="commentsArea">
+        <h2>комментарии</h2>
+        <div class="sorting">
+            <span>Отображать комментарии:   &nbsp;&nbsp;&nbsp;&nbsp; новые </span>
+            <a href="#" onclick="ModComment.ChangeSort(ModComment.SortType.Desc); return false;" >сверху</a>
+            <a href="#" onclick="ModComment.ChangeSort(ModComment.SortType.Asc); return false;" >внизу</a>
+            <a href="#" onclick="ModComment.ChangeSort(ModComment.SortType.Rate); return false;">по рейтингу</a>
+        </div>
+        <div class="ajaxLoaderBig"></div>
+        {{if $data.PageComments != null}}
+        <div class="commentsBlock">
+            <a name="page${$data.PagerCurrent + 1}" id="page${$data.PagerCurrent + 1}"></a>
+
+            {{if $data.UserIsCanComment}}
+            <div id="addCommentQuote" class="addCommentBlock commentItem" style="display:none;">
+                <div class="textCount">Осталось <span class="textCountLeft">${ModComment.MaxLength} ${Main.NounForm(ModComment.MaxLength, 'символ', 'символа', 'символов')}</span></div>
+                <textarea id="CommentTextQuote" placeholder="Напишите свой комментарий." maxlength="${ModComment.MaxLength}"
+                    onkeypress="ModComment.OnKeyDown(this, event);" onkeyup="ModComment.OnKeyUp(this, event)"></textarea>
+                <div class="add">
+                    <div class="checkbox" onclick="Main.ClickCustomCheckbox(this);">
+                        <input id="chkIsNotifyQuote" type="hidden" value="0" />
+                    </div>
+                    <span>Оповещать об ответах</span>
+                    <input type="button" class="saveInput" value="Добавить" onclick="ModComment.AddCommentQuote(this); return false;">
+                    <div class="saveInput loader">&nbsp;</div>
+                    <input id="hdnQuoteId" type="hidden" value="" />
+                </div>
+            </div>
+            {{/if}}
+
+            {{if $data.TopComments != null }} 
+            <span class="title">лучшие комментарии</span>
+            <div class="top"> 
+                {{tmpl($data.TopComments, {
+                last: $data.TopComments[$data.TopComments.length - 1],
+                DateTimeNow: $data.Now,
+                UserIsLoginned: $data.UserIsLoginned,
+                UserIsComplainAllowed: $data.UserIsComplainAllowed,
+                UserIsBanAllowed: $data.UserIsBanAllowed,
+                UserIsCanComment: $data.UserIsCanComment,
+                Prefix: 'top_' }) "#CommentTmpl"}}
+            </div>
+            {{/if}}
+
+            {{tmpl($data.PageComments, {
+            last: $data.PageComments[$data.PageComments.length - 1],
+            DateTimeNow: $data.Now,
+            UserIsLoginned: $data.UserIsLoginned,
+            UserIsComplainAllowed: $data.UserIsComplainAllowed,
+            UserIsBanAllowed: $data.UserIsBanAllowed,
+            UserIsCanComment: $data.UserIsCanComment,
+            Prefix: '' }) "#CommentTmpl"}}
+        </div>
+        {{/if}}
+    </div>
+    {{if $data.PagerIsShow > 0}}
+    <div class="articlePager">
+        {{tmpl($data) "#CommentPagerTmpl"}}
+    </div>
+    {{/if}}
+{{/if}}
+
+{{if $data.UserIsCanComment }}
+    <div class="addCommentBlock">
+        <h2>добавить комментарий</h2>
+        <div class="user">
+            <img alt="${$data.UserName}" src="${ModComment.GetUserAvatar($data.UserPhotoFilename)}" />
+            <a href="#" onclick="return false;">${$data.UserName}</a>
+        </div>
+        <div class="textCount">Осталось <span class="textCountLeft">${ModComment.MaxLength} ${Main.NounForm(ModComment.MaxLength, 'символ', 'символа', 'символов')}</span></div>
+        <textarea id="CommentText" placeholder="Напишите свой комментарий." maxlength="${ModComment.MaxLength}"
+            onkeypress="ModComment.OnKeyDown(this, event);" onkeyup="ModComment.OnKeyUp(this, event)"></textarea>
+            <div class="add">
+                <div class="checkbox" onclick="Main.ClickCustomCheckbox(this);">
+                    <input id="chkIsNotify" type="hidden" value="0" />
+                </div>
+                <span>Оповещать об ответах</span>
+                <input type="button" class="saveInput" value="Добавить" onclick="ModComment.AddComment(this); return false;">
+                <div class="saveInput loader">&nbsp;</div>
+            </div>
+    </div>
+{{/if}}
+</script><script id="NewsVoteTmpl" type="text/x-jquery-tmpl">
+<div class="question" id="NewsVote${$data.Id}">
+{{if $data.IsShowName}}
+    <div class="title">${$data.Name}</div>
+{{/if}}
+{{if $data.IsVotingAllowed}}
+    <div class="answers" id="NewsVoteAnswers${$data.Id}">
+    {{if $data.IsShowButtons}}
+        <div class="buttonsBlock">
+        {{each $data.Answers}}
+            <a href="#" class="saveInput" onclick="ModOpenNews.NewsVote(${$data.Id}, ${$value.Id}); return false;">${$value.Name}</a>
+        {{/each}}
+        </div>
+    {{else}}
+        <ul>
+        {{each $data.Answers}}
+            <li>
+		        <div class="info">
+			        <span class="text">${$value.Name}</span>
+				    <span class="votes">
+                        <input type="radio" name="NewsVote${$data.Id}" value="${$value.Id}" />
+                    </span>
+			    </div>
+		    </li>
+        {{/each}}
+        </ul>
+
+        <div class="buttonsBlock">
+            <input type="button" class="saveInput" value="Проголосовать" onclick="ModOpenNews.NewsVote(${$data.Id}, $('input[name=NewsVote${$data.Id}]:checked').val()); return false;">
+        </div>
+    {{/if}}
+    </div>
+{{/if}}
+    <ul id="NewsVoteResult${$data.Id}">
+    {{each $data.Answers}}
+        <li id="NewsVoteAnswer${$value.Id}">
+		    <div class="info">
+			    <span class="text">${$value.Name}</span>
+				<span class="votes">
+                    (${$value.CountVotes})
+                {{if $value.CountVotes}}${Math.round($value.CountVotes / $data.CountVotes * 1000) / 10}{{else}}0{{/if}}%
+                </span>
+			</div>
+			<div class="votesLine" style="width:{{if $value.CountVotes}}${Math.round($value.CountVotes / $data.CountVotes * 1000) / 10}%{{else}}0{{/if}};"></div>
+		</li>
+    {{/each}}
+    </ul>
+</div>
+</script><script id="PeopleStatSummaryTmpl" type="text/x-jquery-tmpl">
+<h2>${$data.Champ.Name}, ${$data.Season.Name}</h2>
+<table>
+<thead>
+    <tr>
+        <th class="w16"></th>
+        <th class="lalign">Игрок</th>
+        <th class="w25" title="сыгранные игры">И</th>
+        <th class="w25" title="голы">Г</th>
+        <th class="w25" title="голы с пенальти">ПЕН</th>
+        <th class="w25" title="голевые пасы">П</th>
+        <th class="w25" title="голы плюс голевые пасы">Г+П</th>
+        <th class="w25" title="желтые карточки">ЖК</th>
+        <th class="w25" title="красные карточки">КК</th>
+        <th class="w45" title="оценка">Оценка</th>
+    </tr>
+</thead>
+<tbody>
+{{each $data.Stat}}
+    <tr>
+        <td>
+    {{if $value.CountryImage != ''}}
+            <img src="${$value.CountryImage}" alt="${$value.CountryName}" />
+    {{/if}}
+        </td>
+        <td class="lalign">
+            <a href="${$value.PeopleLink}" target="_blank" title="${$value.LastName} ${$value.FirstName}">${$value.FirstName} ${$value.LastName}</a>
+        </td>
+        <td {{if $value.GameCount == 0}}class="zero"{{/if}}>${$value.GameCount}</td>
+        <td {{if $value.GoalCount == 0}}class="zero"{{/if}}>${$value.GoalCount}</td>
+        <td {{if $value.PenaltyCount == 0}}class="zero"{{/if}}>${$value.PenaltyCount}</td>
+        <td {{if $value.GoalPass == 0}}class="zero"{{/if}}>${$value.GoalPass}</td>
+        <td {{if $value.GoalPassGoal == 0}}class="zero"{{/if}}>${$value.GoalPassGoal}</td>
+        <td {{if $value.YellowCard == 0}}class="zero"{{/if}}>${$value.YellowCard}</td>
+        <td {{if $value.RedCard == 0}}class="zero"{{/if}}>${$value.RedCard}</td>
+        <td>${$value.Rating}</td>
+    </tr>
+{{/each}}
+</tbody>
+</table>
+<div class="textblock">
+    <strong>И</strong> &mdash; сыгранные игры;
+    <strong>Г</strong> &mdash; забитые голы;
+    <strong>ПЕН</strong> &mdash; из них голы с пенальти;<br />
+    <strong>П</strong> &mdash; голевые пасы;
+    <strong>Г+П</strong> &mdash; гол+пас, т.е. сумма результативных действий в одном матче;<br />
+    <strong>ЖК</strong> &mdash; жёлтые карточки;
+    <strong>КК</strong> &mdash; красные карточки.
+    <!--<strong>МИН</strong> &mdash; сыгранные минуты.-->
+</div>
+</script><link rel="alternate" type="application/rss+xml" title="Football.ua :: лента новостей" href="/rss2.ashx" />
+<link rel="alternate" type="application/rss+xml" title="Football.ua :: авторские колонки" href="/rss2.ashx?c=author_newsi" />
+<link rel="alternate" type="application/rss+xml" title="Football.ua :: главные новости" href="/rss2.ashx?c=top" />
+<meta name="verify-v1" content="0omsbCuu2P4PfYXvbHdIZbRIFxD8M3PFlw0/NCSECr8=" />
+<meta name="google-site-verification" content="qRrBX_vqCHuApRHINgz5t8uJOYUjCUE4qIUq0OKUL5g" />
+
+<script type="text/javascript" src="/js/adriver_core2.js"></script>
+<script type="text/javascript" src="http://i.holder.com.ua/t/holder.y4.js"></script>
+
+    
+</head>
+<body>
+    
+
+    <div id="UserNotification"></div>
+    <script type="text/javascript">
+        UserNotificationDiv = $('#UserNotification');
+        UserNotificationInit();
+    
+    </script>
+
+    <form name="aspnetForm" method="post" action="/italy/news/216562.html?utm_source=twitterfeed&amp;utm_medium=twitter" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUENTM4MWRkb6WcLDPXcf5KUJ5ed8H/Z6j06Z70AtzM0XP3bg04HNU=" />
+
+    <script type="text/javascript">
+    //<![CDATA[
+        if (theForm == null || theForm == undefined) {
+            var theForm = document.forms['aspnetForm'];
+            if (!theForm) {
+                theForm = document.aspnetForm;
+            }
+            function __doPostBack() {
+                if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+                    theForm.submit();
+                }
+            }
+        }
+    //]]>
+    </script>
+
+    <div id="popupBackGround" style="display:none"></div>
+    <div class="outBlock">
+		<div class="mobilelinks">
+            <ul>
+	<li>
+		<a href="http://m.football.ua">Мобильная версия</a></li>
+	<li>
+		<a href="http://worldcup2014.football.ua">ЧМ-2014</a></li>
+	<li>
+		<a href="http://blog.isport.ua">Спортивные блоги</a></li>
+	<li>
+		<a href="http://isport.ua">Новости спорта на iSport.ua</a></li>
+</ul>
+
+		</div>
+    </div>
+
+    <div id="wraper">
+	    <div id="header">
+		    <div id="ctl00_topBanner" class="topBanner">
+
+<div class="left absolute">
+<div class="banner" style="
+
+
+">
+<center><div id="adriver_top"></div>
+<script type="text/javascript">
+var ar_bn1 = Math.floor(Math.random() * 3 + 1);
+new holder("adriver_top",{block:2173});
+</script></center>
+
+</div>
+</div></div>
+            <div class="registerArea new">
+                
+<div class="registerArea"></div>
+<script src="//football.ua/mod/Login/Login.js?v=2013-06-28" type="text/javascript"></script>
+
+<script type="text/javascript">
+Login.MinRequiredPasswordLength = 4;
+Login.AgreementLink = 'http://football.ua/profile/agreement/';
+Login.SiteName = 'football.ua';
+</script>
+            </div>
+		    
+            <div class="logoLogin">
+			    <div class="logo">
+                    <a href="/"><img src="/images/football.png" alt="football" /></a>
+			    </div>
+			    <div class="headerSocLinks">
+				    <ul>
+					    <li>
+						    <a href="https://www.facebook.com/football.ua" class="face" target="_blank"></a>
+					    </li>
+					    <li>
+						    <a href="https://twitter.com/footballualive/" class="twet" target="_blank"></a>
+					    </li>
+					    <li>
+						    <a href="http://vk.com/official_footballua" class="plus" target="_blank"></a>
+					    </li>
+					    <li>
+						    <a href="http://football.ua/rss2.ashx" class="rssf" target="_blank"></a>
+					    </li>
+				    </ul>
+			    </div>
+                <div class="search">
+			        <input type="text" placeholder="введите слово для поиска" id="searchInput"
+                        value="" />
+                    <a href="#" class="searchButton searchButtonHead" onclick="Main.Search(); return false;"></a>
+                </div>
+		    </div>
+		    <div class="menu cust">
+                
+
+            
+    			<div class="specProj">
+                    <ul>
+	<li>
+		<a href="/">Главная</a></li>
+	<li>
+		<a href="/newsarc/">Лента новостей</a></li>
+	<li>
+		<a href="/scoreboard/">Матчи и турниры</a></li>
+	<li>
+		<a href="/video/">Видео</a></li>
+	<li>
+		<a href="/galleries/">Фотогалереи</a></li>
+	<li>
+		<a href="/default.aspx?menu_id=tvschedule">Телепрограмма</a></li>
+	<li>
+		<a href="/conferences/">Конференции</a></li>
+	<li>
+		<a href="/prognosticators/tours/7.html">Прогнозисты</a></li>
+	<li>
+		<a href="http://isport.ua/fantasy/football/">Фентези</a></li>
+	<li>
+		<a href="http://blog.isport.ua">Блоги</a></li>
+	<li>
+		<a href="/footballmag/news.html">Журнал &laquo;ФУТБОЛ&raquo;</a></li>
+</ul>
+
+                </div>
+            
+		    </div>
+	    </div>
+
+
+	    <div id="page">
+            
+		    <div class="leftArea">
+                
+
+            <!-- mainNews //-->
+			    <!-- mainNews //-->
+			    <!-- mainFeed //-->
+			    <!-- mainFeed //-->
+
+                <!-- menu //-->
+                <div id="ctl00_menu" class="colum21">
+
+<div class="leftNavigationLinks">
+
+    <div class="navigationLinksBlock ">
+    
+        <a href="http://football.ua/prognosticators/tours/7.html" 
+            class="title" style="">Прогнозисты</a>
+    
+    </div>
+    
+    </div>
+    <div class="separator" style="margin-top:10px;"></div>
+    <div class="leftNavigationLinks">
+    
+    <div class="navigationLinksBlock ">
+    
+        <a href="http://h.holder.com.ua/c?tz&z1585&b42793&s03908&r[rndID]&u" target="_blank"
+            class="title" style="">Стена фаната</a>
+    
+    </div>
+    
+    </div>
+    <div class="separator" style="margin-top:10px;"></div>
+    <div class="leftNavigationLinks">
+    
+    <div class="navigationLinksBlock ">
+    
+        <a href="http://football.ua/ukraine.html" 
+            class="title" style="">Украина</a>
+    
+    </div>
+    
+    <div class="navigationLinksBlock ">
+    
+        <a href="http://football.ua/england.html" 
+            class="title" style="">Англия</a>
+    
+    </div>
+    
+    <div class="navigationLinksBlock ">
+    
+        <a href="http://football.ua/argentina.html" 
+            class="title" style="">Аргентина</a>
+    
+    </div>
+    
+    <div class="navigationLinksBlock ">
+    
+        <a href="http://football.ua/brazil.html" 
+            class="title" style="">Бразилия</a>
+    
+    </div>
+    
+    <div class="navigationLinksBlock ">
+    
+        <a href="http://football.ua/germany.html" 
+            class="title" style="">Германия</a>
+    
+    </div>
+    
+    <div class="navigationLinksBlock ">
+    
+        <a href="http://football.ua/spain.html" 
+            class="title" style="">Испания</a>
+    
+    </div>
+    
+    <div class="navigationLinksBlock active">
+    
+        <a href="http://football.ua/italy.html" 
+            class="title" style="">Италия</a>
+    
+        <ul>
+        
+            <li class="selected"
+                style="">
+                <a href="http://football.ua/italy.html" >
+                    Новости</a>
+            </li>
+        
+            <li class=""
+                style="">
+                <a href="http://football.ua/italy/results/" >
+                    Календарь</a>
+            </li>
+        
+            <li class=""
+                style="">
+                <a href="http://football.ua/italy/statistics.html" >
+                    Статистика</a>
+            </li>
+        
+            <li class=""
+                style="">
+                <a href="http://football.ua/italy/table.html" >
+                    Таблица</a>
+            </li>
+        
+            <li class=""
+                style="">
+                <a href="http://football.ua/italy/cup/" >
+                    Кубок</a>
+            </li>
+        
+        </ul>
+    
+    </div>
+    
+    <div class="navigationLinksBlock ">
+    
+        <a href="http://football.ua/netherlands.html" 
+            class="title" style="">Нидерланды</a>
+    
+    </div>
+    
+    <div class="navigationLinksBlock ">
+    
+        <a href="http://football.ua/portugal.html" 
+            class="title" style="">Португалия</a>
+    
+    </div>
+    
+    <div class="navigationLinksBlock ">
+    
+        <a href="http://football.ua/russia.html" 
+            class="title" style="">Россия</a>
+    
+    </div>
+    
+    <div class="navigationLinksBlock ">
+    
+        <a href="http://football.ua/northamerica.html" 
+            class="title" style="">Северная Америка</a>
+    
+    </div>
+    
+    <div class="navigationLinksBlock ">
+    
+        <a href="http://football.ua/turkey.html" 
+            class="title" style="">Турция</a>
+    
+    </div>
+    
+    <div class="navigationLinksBlock ">
+    
+        <a href="http://football.ua/france.html" 
+            class="title" style="">Франция</a>
+    
+    </div>
+    
+    <div class="navigationLinksBlock ">
+    
+        <a href="http://football.ua/countrieselse.html" 
+            class="title" style="">Другие страны</a>
+    
+    </div>
+    
+    </div>
+    <div class="separator" style="margin-top:10px;"></div>
+    <div class="leftNavigationLinks">
+    
+    <div class="navigationLinksBlock ">
+    
+        <a href="http://football.ua/champions_league.html" 
+            class="title" style="">Лига чемпионов</a>
+    
+    </div>
+    
+    <div class="navigationLinksBlock ">
+    
+        <a href="http://football.ua/uefa.html" 
+            class="title" style="">Лига Европы</a>
+    
+    </div>
+    
+    <div class="navigationLinksBlock ">
+    
+        <a href="http://worldcup2014.football.ua" 
+            class="title" style="">ЧМ-2014</a>
+    
+    </div>
+    
+    <div class="navigationLinksBlock ">
+    
+        <a href="http://football.ua/euro2013.html" 
+            class="title" style="">Евро-2013 (U21)</a>
+    
+    </div>
+    
+    <div class="navigationLinksBlock ">
+    
+        <a href="http://football.ua/copalibertadores.html" 
+            class="title" style="">Копа Либертадорес</a>
+    
+    </div>
+    
+    </div>
+    <div class="separator" style="margin-top:10px;"></div>
+    <div class="leftNavigationLinks">
+    
+    <div class="navigationLinksBlock ">
+    
+        <a href="http://football.ua/4-4-2/articles.html" 
+            class="title" style="">4-4-2</a>
+    
+    </div>
+    
+    <div class="navigationLinksBlock ">
+    
+        <a href="http://football.ua/finance.html" 
+            class="title" style="">Бизнес и Финансы</a>
+    
+    </div>
+    
+    <div class="navigationLinksBlock ">
+    
+        <a href="http://football.ua/british/history.html" 
+            class="title" style="">Бей-беги</a>
+    
+    </div>
+    
+    <div class="navigationLinksBlock ">
+    
+        <a href="http://football.ua/otherfootball/africa.html" 
+            class="title" style="">Другой футбол</a>
+    
+    </div>
+    
+    <div class="navigationLinksBlock ">
+    
+        <a href="http://football.ua/spanish_messenger.html" 
+            class="title" style="">Испанский связной</a>
+    
+    </div>
+    
+    <div class="navigationLinksBlock ">
+    
+        <a href="http://football.ua/calciodellostivale/apenninitracciare.html" 
+            class="title" style="">Calcio dello Stivale</a>
+    
+    </div>
+    
+    <div class="navigationLinksBlock ">
+    
+        <a href="http://football.ua/retro.html" 
+            class="title" style="">Ретро футбол</a>
+    
+    </div>
+    
+    <div class="navigationLinksBlock ">
+    
+        <a href="http://football.ua/ownshirt/teams.html" 
+            class="title" style="">Своя рубашка</a>
+    
+    </div>
+    
+    <div class="navigationLinksBlock ">
+    
+        <a href="http://football.ua/scout.html" 
+            class="title" style="">Скаут</a>
+    
+    </div>
+    
+    <div class="navigationLinksBlock ">
+    
+        <a href="http://football.ua/thirdhalf.html" 
+            class="title" style="">Третий тайм</a>
+    
+    </div>
+    
+    <div class="navigationLinksBlock ">
+    
+        <a href="http://football.ua/fiction.html" 
+            class="title" style="">Чтиво</a>
+    
+    </div>
+    
+</div>
+</div><!-- menu //-->
+                <div class="article" style="display:block">
+                    <!-- articleTop //-->
+                    <div id="ctl00_articleTop" class="articleTop">
+
+<script type="text/javascript">
+var NewsId = 216562;
+var NewsVotes = Array();
+
+
+</script>
+<script type="text/javascript" src="//football.ua/mod/News/OpenNews.js?v=2013-04-17"></script>
+
+    <div class="breadCrumbsSocLinks">
+        <span class="date">25 сентября 2013, 00:55
+        
+    </div>
+
+    <h1 >Гаттузо больше не тренер Палермо</h1>
+    <h2 class="nostyle">Сообщается, что экс-игрок Милана, а ныне тренер Дженнаро Гаттузо больше не будет работать на Сицилии.</h2>
+
+
+    <div class="photo">
+        <img src="http://s.ill.in.ua/i/news/570x380/216/216562.jpg" alt="Дженнаро Гаттузо, Getty Images"/>
+        
+            <span class="imgDescr">Дженнаро Гаттузо, Getty Images</span>
+        
+    </div>
+
+
+<div class="articleText m-t5">
+    <div>
+	<div>
+		Опальный президент Палермо Маурицио Дзампарини уволил Гаттузо в связи с неудовлетворительными результатами команды, сообщает <em>gianlucadimarzio.com.</em></div>
+	<div>
+		&nbsp;</div>
+	<div>
+		Говорится, что после сегодняшнего поражения в матче против Бари (1:2) Дзампарини заявил Гаттузо о том, что тот освобожден от своих обязанностей.</div>
+	<div>
+		&nbsp;</div>
+	<div>
+		Стал известен и преемник Дженнаро. Им стал Джузеппе Якини, который в прошлом сезоне возглавлял Сиену. Контракт будет рассчитан на два года.</div>
+	<div>
+		&nbsp;</div>
+	<div>
+		После шести туров Серии Б Палермо занимает 12-е место в турнирной таблице.</div>
+</div>
+
+</div>
+
+
+
+<div class="separator m-t20"></div>
+
+    <div class="tags">
+        
+            <div class="tagItem">
+                <span class="typeLabel black">Люди</span>
+                
+                       <a href="http://football.ua/player/408.html">Дженнаро Иван Гаттузо</a>
+                
+            </div>
+        
+            <div class="tagItem">
+                <span class="typeLabel black">Команды</span>
+                
+                       <a href="http://football.ua/club/87.html">Палермо</a>
+                
+            </div>
+        
+    </div>
+
+
+<div class="socialTop"></div>
+<div class="social clearfix">
+    <div class="w150" style="overflow: visible;">
+        <fb:like send="false" layout="button_count" width="150" show_faces="false" action="recommend" href="http://football.ua/italy/news/216562.html">
+            <a href="http://www.facebook.com/sharer.php?u=http://football.ua/italy/news/216562.html&t=Гаттузо больше не тренер Палермо" target="_blank">Facebook</a>
+        </fb:like>
+    </div>
+    <div class="w120">
+        <a href="https://twitter.com/intent/tweet?url=http://football.ua/italy/news/216562.html&text=Гаттузо больше не тренер Палермо" class="twitter-share-button"
+            data-url="http://football.ua/italy/news/216562.html" data-via="footballualive" data-lang="ru" target="_blank">Твитнуть</a>
+    </div>
+    <div class="w150">
+        <div id="vk_like">
+            <a href="http://vkontakte.ru/share.php?url=http://football.ua/italy/news/216562.html&title=Гаттузо больше не тренер Палермо" target="_blank">ВКонтакте</a>
+        </div>
+    </div>
+    <div class="w120">
+        <g:plusone size="medium" href="http://football.ua/italy/news/216562.html"><a href="https://plus.google.com/share?url=http://football.ua/italy/news/216562.html" target="_blank">Google+</a></g:plusone>
+    </div>
+    <div id="fb-root"></div>
+<!--<script type="text/javascript" src="http://vk.com/js/api/share.js?11" charset="windows-1251"></script>-->
+<script type="text/javascript">
+<!--
+//    $(document).ready(function () {
+    // Facebook
+    (function(d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s);
+        js.id = id;
+        js.src = "//connect.facebook.net/ru_RU/all.js#xfbml=1&appId=209117389120354";
+        fjs.parentNode.insertBefore(js, fjs);
+    })(document, 'script', 'facebook-jssdk');
+
+    // Twitter
+    (function(d, s, id){
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s);
+        js.id = id;
+        js.src = (/^http:/.test(d.location) ? 'http' : 'https') + '://platform.twitter.com/widgets.js';
+        fjs.parentNode.insertBefore(js, fjs);
+    })(document, 'script', 'twitter-wjs');
+
+    // Google+
+    (function() {
+        window.___gcfg = { lang: 'ru' };
+        var po = document.createElement('script');
+        po.type = 'text/javascript';
+        po.async = true;
+        po.src = 'https://apis.google.com/js/plusone.js';
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(po, s);
+    })();
+
+    (function(d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s);
+        js.id = id;
+        js.src = '//vk.com/js/api/share.js?85';
+        js.charset = 'windows-1251';
+        js.onload = js.onreadystatechange = function() {
+            js.onreadystatechange = js.onload = null;
+            document.getElementById('vk_like').innerHTML = VK.Share.button({
+                url: 'http://football.ua/italy/news/216562.html',
+            
+                image: 'http://s.ill.in.ua/i/news/570x380/216/216562.jpg',
+            
+                title: 'Гаттузо больше не тренер Палермо',
+            
+                description: 'Сообщается, что экс-игрок Милана, а ныне тренер Дженнаро Гаттузо больше не будет работать на Сицилии.',
+            
+                noparse: true
+            }, { type: "round", text: "Поделиться" });
+        }
+        fjs.parentNode.insertBefore(js, fjs);
+    })(document, 'script', 'vk-wjs');
+
+        //$().ready(function () {
+           // document.getElementById('vk_like').innerHTML = VK.Share.button(false, { type: "round", text: "Мне нравится", title: 'Гаттузо больше не тренер Палермо', description: 'Сообщается, что экс-игрок Милана, а ныне тренер Дженнаро Гаттузо больше не будет работать на Сицилии.', apiId: 2346353, onlyWidgets: true });
+        //});
+//    });
+-->
+</script>
+
+</div>
+<div class="socialBottom"></div>
+
+<div class="separator m-t20"></div>
+
+
+
+<div class='separator m-t20'></div>
+
+<div class="authorWide">
+    <h2>Аналитика, Интервью, Чтиво</h2>
+    <a class="arrRight" id="authorWide_arrRight" href="#" onclick="return false;"></a>
+    <a class="arrLeft"  id="authorWide_arrLeft" href="#" onclick="return false;"></a>
+    <ul>
+
+        <li>
+            <div class="authorItem noborder">
+                
+                    <a href="http://football.ua/ukraine/news/216705.html">
+                        <img src="http://s.ill.in.ua/i/news/120x80/216/216705.jpg" alt="Луис Гонсалвеш, фото ФК Шахтер" />
+                    </a>
+                
+                <div class="descr">
+                    <span class="date">26 сентября 2013</span>
+            
+                    <span class="title">Эксклюзив</span>
+                
+                    <a class="text" href="http://football.ua/ukraine/news/216705.html">Гонсалвеш: после Неймара Бернард обладает наибольшим талантом среди молодых бразильцев</a>
+                </div>
+            </div>
+        </li>
+
+        <li>
+            <div class="authorItem noborder">
+                
+                    <a href="http://football.ua/calciodellostivale/interview/216704.html">
+                        <img src="http://s.ill.in.ua/i/news/120x80/216/216704.jpg" alt="Джанфранко Дзола, Getty Images" />
+                    </a>
+                
+                <div class="descr">
+                    <span class="date">26 сентября 2013</span>
+            
+                    <span class="title">Интервью</span>
+                
+                    <a class="text" href="http://football.ua/calciodellostivale/interview/216704.html">Дзола: &quot;Разбил бы Хассельбанку лицо&quot;</a>
+                </div>
+            </div>
+        </li>
+
+        <li>
+            <div class="authorItem noborder">
+                
+                    <a href="http://football.ua/calciodellostivale/apenninitracciare/216605.html">
+                        <img src="http://s.ill.in.ua/i/news/120x80/216/216605.jpg" alt="Массимо Моратти, Getty Images" />
+                    </a>
+                
+                <div class="descr">
+                    <span class="date">25 сентября 2013</span>
+            
+                    <span class="title">Апеннинский след</span>
+                
+                    <a class="text" href="http://football.ua/calciodellostivale/apenninitracciare/216605.html">Тохир и Интер: мнение легенд</a>
+                </div>
+            </div>
+        </li>
+
+        <li>
+            <div class="authorItem noborder">
+                
+                    <a href="http://football.ua/germany/news/216598.html">
+                        <img src="http://s.ill.in.ua/i/news/120x80/216/216598.jpg" alt="фото Firo sportphoto" />
+                    </a>
+                
+                <div class="descr">
+                    <span class="date">25 сентября 2013</span>
+            
+                    <a class="title" href="http://football.ua/author/kurdaev.html">Андрей Курдаев</a>
+                
+                    <a class="text" href="http://football.ua/germany/news/216598.html">Любит, не любит</a>
+                </div>
+            </div>
+        </li>
+
+        <li>
+            <div class="authorItem noborder">
+                
+                    <a href="http://football.ua/italy/news/216532.html">
+                        <img src="http://s.ill.in.ua/i/news/120x80/216/216532.jpg" alt="Рома прыгает от счастья. Фото Getty Images" />
+                    </a>
+                
+                <div class="descr">
+                    <span class="date">24 сентября 2013</span>
+            
+                    <span class="title">Серия А</span>
+                
+                    <a class="text" href="http://football.ua/italy/news/216532.html">Аналитические итоги 4-го тура</a>
+                </div>
+            </div>
+        </li>
+
+        <li>
+            <div class="authorItem noborder">
+                
+                    <a href="http://football.ua/ownshirt/frankly/216492.html">
+                        <img src="http://s.ill.in.ua/i/news/120x80/216/216492.jpg" alt="Сергей Валяев, sport-xl.net" />
+                    </a>
+                
+                <div class="descr">
+                    <span class="date">24 сентября 2013</span>
+            
+                    <span class="title">Интервью</span>
+                
+                    <a class="text" href="http://football.ua/ownshirt/frankly/216492.html">Откровенно. Сергей Валяев</a>
+                </div>
+            </div>
+        </li>
+
+        <li>
+            <div class="authorItem noborder">
+                
+                    <a href="http://football.ua/calciodellostivale/events/216437.html">
+                        <img src="http://s.ill.in.ua/i/news/120x80/216/216437.jpg" alt="фото Getty Images" />
+                    </a>
+                
+                <div class="descr">
+                    <span class="date">23 сентября 2013</span>
+            
+                    <span class="title">Юрий Шевченко</span>
+                
+                    <a class="text" href="http://football.ua/calciodellostivale/events/216437.html">Интернациональный гнев</a>
+                </div>
+            </div>
+        </li>
+
+        <li>
+            <div class="authorItem noborder">
+                
+                    <a href="http://football.ua/russia/news/216408.html">
+                        <img src="http://s.ill.in.ua/i/news/120x80/216/216408.jpg" alt="Getty Images" />
+                    </a>
+                
+                <div class="descr">
+                    <span class="date">23 сентября 2013</span>
+            
+                    <span class="title">Михаил Калинин</span>
+                
+                    <a class="text" href="http://football.ua/russia/news/216408.html">Красно-синяя печаль</a>
+                </div>
+            </div>
+        </li>
+
+        <li>
+            <div class="authorItem noborder">
+                
+                    <a href="http://football.ua/4-4-2/articles/216384.html">
+                        <img src="http://s.ill.in.ua/i/news/120x80/216/216384.png" alt="Марсело Бьелса, Getty Images" />
+                    </a>
+                
+                <div class="descr">
+                    <span class="date">23 сентября 2013</span>
+            
+                    <span class="title">Полиграф</span>
+                
+                    <a class="text" href="http://football.ua/4-4-2/articles/216384.html">Немного об игровом стиле Бьелсы</a>
+                </div>
+            </div>
+        </li>
+
+        <li>
+            <div class="authorItem noborder">
+                
+                    <a href="http://football.ua/england/news/216371.html">
+                        <img src="http://s.ill.in.ua/i/news/120x80/216/216371.png" alt="фото Getty Images" />
+                    </a>
+                
+                <div class="descr">
+                    <span class="date">23 сентября 2013</span>
+            
+                    <a class="title" href="http://football.ua/author/gromikov.html">Иван Громиков</a>
+                
+                    <a class="text" href="http://football.ua/england/news/216371.html">Редактируя текст</a>
+                </div>
+            </div>
+        </li>
+
+        <li>
+            <div class="authorItem noborder">
+                
+                    <a href="http://football.ua/brazil/news/216323.html">
+                        <img src="http://s.ill.in.ua/i/news/120x80/216/216323.jpg" alt="Жулио Баптиста, cruzeiro.com.br" />
+                    </a>
+                
+                <div class="descr">
+                    <span class="date">22 сентября 2013</span>
+            
+                    <span class="title">Интервью</span>
+                
+                    <a class="text" href="http://football.ua/brazil/news/216323.html">Жулио Баптиста: &quot;Надеюсь сыграть на ЧМ&quot;</a>
+                </div>
+            </div>
+        </li>
+
+        <li>
+            <div class="authorItem noborder">
+                
+                    <a href="http://football.ua/ukraine/news/216290.html">
+                        <img src="http://s.ill.in.ua/i/news/120x80/216/216290.jpg" alt="фото Football.ua" />
+                    </a>
+                
+                <div class="descr">
+                    <span class="date">22 сентября 2013</span>
+            
+                    <span class="title">Глеб Корниенко</span>
+                
+                    <a class="text" href="http://football.ua/ukraine/news/216290.html">Связанные одной цепью</a>
+                </div>
+            </div>
+        </li>
+
+        <li>
+            <div class="authorItem noborder">
+                
+                    <a href="http://football.ua/ukraine/news/216206.html">
+                        <img src="http://s.ill.in.ua/i/news/120x80/216/216206.jpg" alt="Вячеслав Грозный, &#169; Михаил Масловский, Football.ua" />
+                    </a>
+                
+                <div class="descr">
+                    <span class="date">21 сентября 2013</span>
+            
+                    <a class="title" href="http://football.ua/author/volkov.html">Анатолий Волков</a>
+                
+                    <a class="text" href="http://football.ua/ukraine/news/216206.html">Негрозная Говерла: переоценка или недооценка?</a>
+                </div>
+            </div>
+        </li>
+
+        <li>
+            <div class="authorItem noborder">
+                
+                    <a href="http://football.ua/champions_league/news/216163.html">
+                        <img src="http://s.ill.in.ua/i/news/120x80/216/216163.jpg" alt="Мирча Луческу, фото М.Масловского, Football.ua" />
+                    </a>
+                
+                <div class="descr">
+                    <span class="date">20 сентября 2013</span>
+            
+                    <span class="title">Андрей Шкуренко</span>
+                
+                    <a class="text" href="http://football.ua/champions_league/news/216163.html">Лиха беда начало</a>
+                </div>
+            </div>
+        </li>
+
+        <li>
+            <div class="authorItem noborder">
+                
+                    <a href="http://football.ua/calciodellostivale/events/216156.html">
+                        <img src="http://s.ill.in.ua/i/news/120x80/216/216156.jpg" alt="Этому юному парню суждено стать легендой, фото Getty Images" />
+                    </a>
+                
+                <div class="descr">
+                    <span class="date">20 сентября 2013</span>
+            
+                    <span class="title">Юрий Шевченко</span>
+                
+                    <a class="text" href="http://football.ua/calciodellostivale/events/216156.html">Голы в стиле Дель Пьеро</a>
+                </div>
+            </div>
+        </li>
+
+        <li>
+            <div class="authorItem noborder">
+                
+                    <a href="http://football.ua/netherlands/news/216139.html">
+                        <img src="http://s.ill.in.ua/i/news/120x80/216/216139.jpg" alt="Зволле впереди всех, ANP" />
+                    </a>
+                
+                <div class="descr">
+                    <span class="date">20 сентября 2013</span>
+            
+                    <span class="title">Олег Барков</span>
+                
+                    <a class="text" href="http://football.ua/netherlands/news/216139.html">Синий кулак</a>
+                </div>
+            </div>
+        </li>
+
+        <li>
+            <div class="authorItem noborder">
+                
+                    <a href="http://football.ua/scout/news/216091.html">
+                        <img src="http://s.ill.in.ua/i/news/120x80/216/216091.jpg" alt="Гедион Зелалем, espnfc.com" />
+                    </a>
+                
+                <div class="descr">
+                    <span class="date">19 сентября 2013</span>
+            
+                    <span class="title">Скаут</span>
+                
+                    <a class="text" href="http://football.ua/scout/news/216091.html"> Гедион Зелалем</a>
+                </div>
+            </div>
+        </li>
+
+        <li>
+            <div class="authorItem noborder">
+                
+                    <a href="http://football.ua/england/news/216079.html">
+                        <img src="http://s.ill.in.ua/i/news/120x80/216/216079.jpg" alt="Action Images" />
+                    </a>
+                
+                <div class="descr">
+                    <span class="date">19 сентября 2013</span>
+            
+                    <a class="title" href="http://football.ua/author/gromikov.html">Иван Громиков</a>
+                
+                    <a class="text" href="http://football.ua/england/news/216079.html">Запастись терпением</a>
+                </div>
+            </div>
+        </li>
+
+        <li>
+            <div class="authorItem noborder">
+                
+                    <a href="http://football.ua/champions_league/news/216077.html">
+                        <img src="http://s.ill.in.ua/i/news/120x80/216/216077.jpg" alt="juventus.com" />
+                    </a>
+                
+                <div class="descr">
+                    <span class="date">19 сентября 2013</span>
+            
+                    <a class="title" href="http://football.ua/author/shevchenko.html">Юрий Шевченко</a>
+                
+                    <a class="text" href="http://football.ua/champions_league/news/216077.html">О злости, везении и возвращении Марадоны</a>
+                </div>
+            </div>
+        </li>
+
+        <li>
+            <div class="authorItem noborder">
+                
+                    <a href="http://football.ua/champions_league/news/216038.html">
+                        <img src="http://s.ill.in.ua/i/news/120x80/216/216038.jpg" alt="Лучано Спаллетти, Getty Images" />
+                    </a>
+                
+                <div class="descr">
+                    <span class="date">19 сентября 2013</span>
+            
+                    <span class="title">Михаил Калинин</span>
+                
+                    <a class="text" href="http://football.ua/champions_league/news/216038.html">Отгрузили трешку</a>
+                </div>
+            </div>
+        </li>
+
+        <li>
+            <div class="authorItem noborder">
+                
+                    <a href="http://football.ua/uefa/news/216005.html">
+                        <img src="http://s.ill.in.ua/i/news/120x80/216/216005.jpg" alt="Марио Беен, фото voetbalnieuws.be" />
+                    </a>
+                
+                <div class="descr">
+                    <span class="date">19 сентября 2013</span>
+            
+                    <span class="title">Матвей Белосорочкин</span>
+                
+                    <a class="text" href="http://football.ua/uefa/news/216005.html">0:10 как точка нового отсчета</a>
+                </div>
+            </div>
+        </li>
+
+        <li>
+            <div class="authorItem noborder">
+                
+                    <a href="http://football.ua/uefa/news/216003.html">
+                        <img src="http://s.ill.in.ua/i/news/120x80/216/216003.jpg" alt="Ален Халилович, Getty Images" />
+                    </a>
+                
+                <div class="descr">
+                    <span class="date">19 сентября 2013</span>
+            
+                    <span class="title">Сергей Круглов</span>
+                
+                    <a class="text" href="http://football.ua/uefa/news/216003.html">В поисках новых модричей</a>
+                </div>
+            </div>
+        </li>
+
+        <li>
+            <div class="authorItem noborder">
+                
+                    <a href="http://football.ua/uefa/news/216001.html">
+                        <img src="http://s.ill.in.ua/i/news/120x80/216/216001.jpg" alt="фото media.realitatea.ro" />
+                    </a>
+                
+                <div class="descr">
+                    <span class="date">19 сентября 2013</span>
+            
+                    <span class="title">Сергей Поздняков</span>
+                
+                    <a class="text" href="http://football.ua/uefa/news/216001.html">Румынские шахтеры</a>
+                </div>
+            </div>
+        </li>
+
+        <li>
+            <div class="authorItem noborder">
+                
+                    <a href="http://football.ua/italy/news/215962.html">
+                        <img src="http://s.ill.in.ua/i/news/120x80/215/215962.png" alt="Интер и Ювентус сильнейшего не определили, фото Getty Images" />
+                    </a>
+                
+                <div class="descr">
+                    <span class="date">18 сентября 2013</span>
+            
+                    <span class="title">Серия А</span>
+                
+                    <a class="text" href="http://football.ua/italy/news/215962.html">Аналитические итоги 3-го тура</a>
+                </div>
+            </div>
+        </li>
+
+        <li>
+            <div class="authorItem noborder">
+                
+                    <a href="http://football.ua/russia/news/215849.html">
+                        <img src="http://s.ill.in.ua/i/news/120x80/215/215849.jpg" alt="Александр Кержаков, Getty Images" />
+                    </a>
+                
+                <div class="descr">
+                    <span class="date">17 сентября 2013</span>
+            
+                    <span class="title">Михаил Калинин</span>
+                
+                    <a class="text" href="http://football.ua/russia/news/215849.html">Don`t kerzhakov!</a>
+                </div>
+            </div>
+        </li>
+
+        <li>
+            <div class="authorItem noborder">
+                
+                    <a href="http://football.ua/champions_league/news/215834.html">
+                        <img src="http://s.ill.in.ua/i/news/120x80/215/215834.jpg" alt="Хаби Прието, Getty Images" />
+                    </a>
+                
+                <div class="descr">
+                    <span class="date">17 сентября 2013</span>
+            
+                    <span class="title">Алекс Маннанов</span>
+                
+                    <a class="text" href="http://football.ua/champions_league/news/215834.html">XP</a>
+                </div>
+            </div>
+        </li>
+
+        <li>
+            <div class="authorItem noborder">
+                
+                    <a href="http://football.ua/calciodellostivale/interview/215749.html">
+                        <img src="http://s.ill.in.ua/i/news/120x80/215/215749.jpg" alt="Марек Хамшик, Getty Images" />
+                    </a>
+                
+                <div class="descr">
+                    <span class="date">16 сентября 2013</span>
+            
+                    <span class="title">Интервью</span>
+                
+                    <a class="text" href="http://football.ua/calciodellostivale/interview/215749.html">Хамшик: чемпионство, рекорд Марадоны, Золотой мяч</a>
+                </div>
+            </div>
+        </li>
+
+        <li>
+            <div class="authorItem noborder">
+                
+                    <a href="http://football.ua/4-4-2/articles/215747.html">
+                        <img src="http://s.ill.in.ua/i/news/120x80/215/215747.jpg" alt="Getty Images" />
+                    </a>
+                
+                <div class="descr">
+                    <span class="date">16 сентября 2013</span>
+            
+                    <span class="title">Полиграф</span>
+                
+                    <a class="text" href="http://football.ua/4-4-2/articles/215747.html">Реал Сосьедад под микроскопом</a>
+                </div>
+            </div>
+        </li>
+
+        <li>
+            <div class="authorItem noborder">
+                
+                    <a href="http://football.ua/england/news/215732.html">
+                        <img src="http://s.ill.in.ua/i/news/120x80/215/215732.jpg" alt="Роберто Мартинес оттеснил Моуриньо на второй план. Фото Getty Images" />
+                    </a>
+                
+                <div class="descr">
+                    <span class="date">16 сентября 2013</span>
+            
+                    <a class="title" href="http://football.ua/author/gromikov.html">Иван Громиков</a>
+                
+                    <a class="text" href="http://football.ua/england/news/215732.html">Сохранить лучшее</a>
+                </div>
+            </div>
+        </li>
+
+        <li>
+            <div class="authorItem noborder">
+                
+                    <a href="http://football.ua/ukraine/news/215688.html">
+                        <img src="http://s.ill.in.ua/i/news/120x80/215/215688.jpg" alt="Фото Football.ua" />
+                    </a>
+                
+                <div class="descr">
+                    <span class="date">15 сентября 2013</span>
+            
+                    <span class="title">Сергей Петрушкин</span>
+                
+                    <a class="text" href="http://football.ua/ukraine/news/215688.html">Об игре</a>
+                </div>
+            </div>
+        </li>
+
+        <li>
+            <div class="authorItem noborder">
+                
+                    <a href="http://football.ua/calciodellostivale/heroes/215461.html">
+                        <img src="http://s.ill.in.ua/i/news/120x80/215/215461.jpg" alt="фото Getty Images" />
+                    </a>
+                
+                <div class="descr">
+                    <span class="date">13 сентября 2013</span>
+            
+                    <span class="title">Юрий Шевченко</span>
+                
+                    <a class="text" href="http://football.ua/calciodellostivale/heroes/215461.html">Играя на опережение</a>
+                </div>
+            </div>
+        </li>
+
+        <li>
+            <div class="authorItem noborder">
+                
+                    <a href="http://football.ua/england/news/215346.html">
+                        <img src="http://s.ill.in.ua/i/news/120x80/215/215346.jpg" alt="Паоло Ди Канио, фото google.com" />
+                    </a>
+                
+                <div class="descr">
+                    <span class="date">12 сентября 2013</span>
+            
+                    <a class="title" href="http://football.ua/author/gromikov.html">Иван Громиков</a>
+                
+                    <a class="text" href="http://football.ua/england/news/215346.html">По тонкому льду</a>
+                </div>
+            </div>
+        </li>
+
+        <li>
+            <div class="authorItem noborder">
+                
+                    <a href="http://football.ua/scout/news/215334.html">
+                        <img src="http://s.ill.in.ua/i/news/120x80/215/215334.jpg" alt="Али Аднан, фото ajansspor.com" />
+                    </a>
+                
+                <div class="descr">
+                    <span class="date">12 сентября 2013</span>
+            
+                    <span class="title">Скаут</span>
+                
+                    <a class="text" href="http://football.ua/scout/news/215334.html">Али Аднан</a>
+                </div>
+            </div>
+        </li>
+
+        <li>
+            <div class="authorItem noborder">
+                
+                    <a href="http://football.ua/countrieselse/news/215329.html">
+                        <img src="http://s.ill.in.ua/i/news/120x80/215/215329.jpg" alt="Маркос Сенна, Getty images" />
+                    </a>
+                
+                <div class="descr">
+                    <span class="date">12 сентября 2013</span>
+            
+                    <span class="title">Сергей Петрушкин</span>
+                
+                    <a class="text" href="http://football.ua/countrieselse/news/215329.html">Самба народов мира</a>
+                </div>
+            </div>
+        </li>
+
+        <li>
+            <div class="authorItem noborder">
+                
+                    <a href="http://football.ua/france/news/215318.html">
+                        <img src="http://s.ill.in.ua/i/news/120x80/215/215318.jpg" alt="Филипп Монтанье, metropole.rennes.fr" />
+                    </a>
+                
+                <div class="descr">
+                    <span class="date">12 сентября 2013</span>
+            
+                    <a class="title" href="http://football.ua/author/shkurenko.html">Андрей Шкуренко</a>
+                
+                    <a class="text" href="http://football.ua/france/news/215318.html">С чистого листа</a>
+                </div>
+            </div>
+        </li>
+
+        <li>
+            <div class="authorItem noborder">
+                
+                    <a href="http://football.ua/ukraine/news/215286.html">
+                        <img src="http://s.ill.in.ua/i/news/120x80/215/215286.jpg" alt="Львов-Арена, re-actor.net" />
+                    </a>
+                
+                <div class="descr">
+                    <span class="date">11 сентября 2013</span>
+            
+                    <span class="title">Максим Сухенко</span>
+                
+                    <a class="text" href="http://football.ua/ukraine/news/215286.html">Подводная часть айсберга по имени Львов-Арена</a>
+                </div>
+            </div>
+        </li>
+
+        <li>
+            <div class="authorItem noborder">
+                
+                    <a href="http://worldcup2014.football.ua/news/215251.html">
+                        <img src="http://s.ill.in.ua/i/news/120x80/215/215251.jpg" alt="Сборная Италии, gettyimages.com" />
+                    </a>
+                
+                <div class="descr">
+                    <span class="date">11 сентября 2013</span>
+            
+                    <a class="title" href="http://football.ua/author/shevchenko.html">Юрий Шевченко</a>
+                
+                    <a class="text" href="http://worldcup2014.football.ua/news/215251.html">Четырехсотая победа</a>
+                </div>
+            </div>
+        </li>
+
+        <li>
+            <div class="authorItem noborder">
+                
+                    <a href="http://football.ua/thirdhalf/news/215228.html">
+                        <img src="http://s.ill.in.ua/i/news/120x80/215/215228.jpg" alt="" />
+                    </a>
+                
+                <div class="descr">
+                    <span class="date">11 сентября 2013</span>
+            
+                    <span class="title">Третий тайм</span>
+                
+                    <a class="text" href="http://football.ua/thirdhalf/news/215228.html">&quot;Драку ради драки затевают только отморозки&quot;</a>
+                </div>
+            </div>
+        </li>
+
+        <li>
+            <div class="authorItem noborder">
+                
+                    <a href="http://worldcup2014.football.ua/news/215222.html">
+                        <img src="http://s.ill.in.ua/i/news/120x80/215/215222.jpg" alt="Фабио Капелло, Getty Images" />
+                    </a>
+                
+                <div class="descr">
+                    <span class="date">11 сентября 2013</span>
+            
+                    <span class="title">Михаил Калинин</span>
+                
+                    <a class="text" href="http://worldcup2014.football.ua/news/215222.html">Капелло снова первый</a>
+                </div>
+            </div>
+        </li>
+
+        <li>
+            <div class="authorItem noborder">
+                
+                    <a href="http://football.ua/fiction/news/215215.html">
+                        <img src="http://s.ill.in.ua/i/news/120x80/215/215215.jpg" alt="фото espn.go.com" />
+                    </a>
+                
+                <div class="descr">
+                    <span class="date">11 сентября 2013</span>
+            
+                    <a class="title" href="http://football.ua/author/kurdaev.html">Андрей Курдаев</a>
+                
+                    <a class="text" href="http://football.ua/fiction/news/215215.html">Отступники</a>
+                </div>
+            </div>
+        </li>
+
+        <li>
+            <div class="authorItem noborder">
+                
+                    <a href="http://worldcup2014.football.ua/news/215082.html">
+                        <img src="http://s.ill.in.ua/i/news/120x80/215/215082.png" alt="Рой Ходжсон, Getty Images" />
+                    </a>
+                
+                <div class="descr">
+                    <span class="date">09 сентября 2013</span>
+            
+                    <a class="title" href="http://football.ua/author/gromikov.html">Иван Громиков</a>
+                
+                    <a class="text" href="http://worldcup2014.football.ua/news/215082.html">Система Ходжсона</a>
+                </div>
+            </div>
+        </li>
+
+        <li>
+            <div class="authorItem noborder">
+                
+                    <a href="http://football.ua/turkey/news/215026.html">
+                        <img src="http://s.ill.in.ua/i/news/120x80/215/215026.jpg" alt="фото haberciniz.biz" />
+                    </a>
+                
+                <div class="descr">
+                    <span class="date">09 сентября 2013</span>
+            
+                    <a class="title" href="http://football.ua/author/shkurenko.html">Андрей Шкуренко</a>
+                
+                    <a class="text" href="http://football.ua/turkey/news/215026.html">Последняя миля Милевского</a>
+                </div>
+            </div>
+        </li>
+
+        <li>
+            <div class="authorItem noborder">
+                
+                    <a href="http://football.ua/4-4-2/articles/215016.html">
+                        <img src="http://s.ill.in.ua/i/news/120x80/215/215016.jpg" alt="фото Getty Images" />
+                    </a>
+                
+                <div class="descr">
+                    <span class="date">09 сентября 2013</span>
+            
+                    <span class="title">Полиграф</span>
+                
+                    <a class="text" href="http://football.ua/4-4-2/articles/215016.html">Сборная Англии под микроскопом</a>
+                </div>
+            </div>
+        </li>
+
+        <li>
+            <div class="authorItem noborder">
+                
+                    <a href="http://football.ua/italy/news/214942.html">
+                        <img src="http://s.ill.in.ua/i/news/120x80/214/214942.png" alt="Андрей Шевченко, google.com" />
+                    </a>
+                
+                <div class="descr">
+                    <span class="date">08 сентября 2013</span>
+            
+                    <span class="title">Юрий Шевченко</span>
+                
+                    <a class="text" href="http://football.ua/italy/news/214942.html">Подогретый суп по-итальянски</a>
+                </div>
+            </div>
+        </li>
+
+        <li>
+            <div class="authorItem noborder">
+                
+                    <a href="http://football.ua/british/events/214919.html">
+                        <img src="http://s.ill.in.ua/i/news/120x80/214/214919.jpg" alt="Непобедимый Престон – чемпион дебютного сезона Футбольной Лиги, mightyleeds.co.uk " />
+                    </a>
+                
+                <div class="descr">
+                    <span class="date">08 сентября 2013</span>
+            
+                    <span class="title">Алексей Иванов</span>
+                
+                    <a class="text" href="http://football.ua/british/events/214919.html">Самый первый день</a>
+                </div>
+            </div>
+        </li>
+
+        <li>
+            <div class="authorItem noborder">
+                
+                    <a href="http://football.ua/calciodellostivale/interview/214917.html">
+                        <img src="http://s.ill.in.ua/i/news/120x80/214/214917.jpg" alt="Антонио Конте, Getty Images" />
+                    </a>
+                
+                <div class="descr">
+                    <span class="date">08 сентября 2013</span>
+            
+                    <span class="title">Интервью</span>
+                
+                    <a class="text" href="http://football.ua/calciodellostivale/interview/214917.html">Конте: &quot;Итальянские команды не должны бояться&quot;</a>
+                </div>
+            </div>
+        </li>
+
+        <li>
+            <div class="authorItem noborder">
+                
+                    <a href="http://football.ua/fiveoclock/news/214850.html">
+                        <img src="http://s.ill.in.ua/i/news/120x80/214/214850.jpg" alt="" />
+                    </a>
+                
+                <div class="descr">
+                    <span class="date">07 сентября 2013</span>
+            
+                    <span class="title">Five O’Clock</span>
+                
+                    <a class="text" href="http://football.ua/fiveoclock/news/214850.html">День, когда Харри выпустил Стива (окончание) </a>
+                </div>
+            </div>
+        </li>
+
+        <li>
+            <div class="authorItem noborder">
+                
+                    <a href="http://football.ua/fiveoclock/news/214770.html">
+                        <img src="http://s.ill.in.ua/i/news/120x80/214/214770.jpg" alt="Харри Реднапп, Getty Images" />
+                    </a>
+                
+                <div class="descr">
+                    <span class="date">06 сентября 2013</span>
+            
+                    <span class="title">Five O`Clock</span>
+                
+                    <a class="text" href="http://football.ua/fiveoclock/news/214770.html">День, когда Харри выпустил Стива (часть первая)</a>
+                </div>
+            </div>
+        </li>
+
+        <li>
+            <div class="authorItem noborder">
+                
+                    <a href="http://worldcup2014.football.ua/news/214716.html">
+                        <img src="http://s.ill.in.ua/i/news/120x80/214/214716.jpg" alt="фото Getty Images" />
+                    </a>
+                
+                <div class="descr">
+                    <span class="date">06 сентября 2013</span>
+            
+                    <span class="title">Юрий Шевченко</span>
+                
+                    <a class="text" href="http://worldcup2014.football.ua/news/214716.html">Маленькие радости почти итальянцев</a>
+                </div>
+            </div>
+        </li>
+
+        <li>
+            <div class="authorItem noborder">
+                
+                    <a href="http://football.ua/scout/news/214630.html">
+                        <img src="http://s.ill.in.ua/i/news/120x80/214/214630.jpg" alt="Джеймс Уорд-Прауз, фото eatsleepsport.com" />
+                    </a>
+                
+                <div class="descr">
+                    <span class="date">05 сентября 2013</span>
+            
+                    <span class="title">Скаут</span>
+                
+                    <a class="text" href="http://football.ua/scout/news/214630.html">Джеймс Уорд-Прауз</a>
+                </div>
+            </div>
+        </li>
+
+        <li>
+            <div class="authorItem noborder">
+                
+                    <a href="http://football.ua/france/news/214594.html">
+                        <img src="http://s.ill.in.ua/i/news/120x80/214/214594.jpg" alt="Лоран Блан, Getty Images" />
+                    </a>
+                
+                <div class="descr">
+                    <span class="date">04 сентября 2013</span>
+            
+                    <a class="title" href="http://football.ua/author/shkurenko.html">Андрей Шкуренко</a>
+                
+                    <a class="text" href="http://football.ua/france/news/214594.html">Дилемма Блана</a>
+                </div>
+            </div>
+        </li>
+
+        <li>
+            <div class="authorItem noborder">
+                
+                    <a href="http://football.ua/italy/news/214584.html">
+                        <img src="http://s.ill.in.ua/i/news/120x80/214/214584.jpg" alt="Кака, acmilan.com" />
+                    </a>
+                
+                <div class="descr">
+                    <span class="date">04 сентября 2013</span>
+            
+                    <a class="title" href="http://football.ua/author/shevchenko.html">Юрий Шевченко</a>
+                
+                    <a class="text" href="http://football.ua/italy/news/214584.html">Siam venuti fin qua…</a>
+                </div>
+            </div>
+        </li>
+
+        <li>
+            <div class="authorItem noborder">
+                
+                    <a href="http://football.ua/italy/news/214496.html">
+                        <img src="http://s.ill.in.ua/i/news/120x80/214/214496.jpg" alt="Артуро Видаль был лучшим в составе Ювентуса,  фото Getty Images" />
+                    </a>
+                
+                <div class="descr">
+                    <span class="date">03 сентября 2013</span>
+            
+                    <span class="title" >Италия</span>
+            
+                    <a class="text" href="http://football.ua/italy/news/214496.html">Серия А. Аналитические итоги 2-го тура</a>
+                </div>
+            </div>
+        </li>
+
+        <li>
+            <div class="authorItem noborder">
+                
+                    <a href="http://football.ua/ukraine/news/214457.html">
+                        <img src="http://s.ill.in.ua/i/news/120x80/214/214457.jpg" alt="Олег Кононов, Football.ua" />
+                    </a>
+                
+                <div class="descr">
+                    <span class="date">03 сентября 2013</span>
+            
+                    <span class="title">Михаил Петренко</span>
+                
+                    <a class="text" href="http://football.ua/ukraine/news/214457.html">Болельщицкий бунт как издержка работы Кононова</a>
+                </div>
+            </div>
+        </li>
+
+        <li>
+            <div class="authorItem noborder">
+                
+                    <a href="http://football.ua/russia/news/214415.html">
+                        <img src="http://s.ill.in.ua/i/news/120x80/214/214415.jpg" alt="фото fc-zenit.ru" />
+                    </a>
+                
+                <div class="descr">
+                    <span class="date">02 сентября 2013</span>
+            
+                    <span class="title">Михаил Калинин</span>
+                
+                    <a class="text" href="http://football.ua/russia/news/214415.html">Зенит на ступеньке уходящего поезда </a>
+                </div>
+            </div>
+        </li>
+
+        <li>
+            <div class="authorItem noborder">
+                
+                    <a href="http://football.ua/germany/news/214352.html">
+                        <img src="http://s.ill.in.ua/i/news/120x80/214/214352.png" alt="фото kicker" />
+                    </a>
+                
+                <div class="descr">
+                    <span class="date">02 сентября 2013</span>
+            
+                    <a class="title" href="http://football.ua/author/kurdaev.html">Андрей Курдаев</a>
+                
+                    <a class="text" href="http://football.ua/germany/news/214352.html">Корабль дураков</a>
+                </div>
+            </div>
+        </li>
+
+        <li>
+            <div class="authorItem noborder">
+                
+                    <a href="http://football.ua/england/news/214354.html">
+                        <img src="http://s.ill.in.ua/i/news/120x80/214/214354.jpg" alt="" />
+                    </a>
+                
+                <div class="descr">
+                    <span class="date">02 сентября 2013</span>
+            
+                    <a class="title" href="http://football.ua/author/gromikov.html">Иван Громиков</a>
+                
+                    <a class="text" href="http://football.ua/england/news/214354.html">Прагматизм победителей</a>
+                </div>
+            </div>
+        </li>
+
+        <li>
+            <div class="authorItem noborder">
+                
+                    <a href="http://football.ua/ukraine2league/news/214316.html">
+                        <img src="http://s.ill.in.ua/i/news/120x80/214/214316.jpg" alt="Иван Котенко" />
+                    </a>
+                
+                <div class="descr">
+                    <span class="date">02 сентября 2013</span>
+            
+                    <span class="title">Артур Валерко</span>
+                
+                    <a class="text" href="http://football.ua/ukraine2league/news/214316.html">Вторая лига. На выданье</a>
+                </div>
+            </div>
+        </li>
+
+        <li>
+            <div class="authorItem noborder">
+                
+                    <a href="http://football.ua/ukraine1league/news/214266.html">
+                        <img src="http://s.ill.in.ua/i/news/120x80/214/214266.jpg" alt="Андрей Воробей, фото ФК Металлист" />
+                    </a>
+                
+                <div class="descr">
+                    <span class="date">01 сентября 2013</span>
+            
+                    <span class="title">Артур Валерко</span>
+                
+                    <a class="text" href="http://football.ua/ukraine1league/news/214266.html">Первая лига. На выданье</a>
+                </div>
+            </div>
+        </li>
+
+        <li>
+            <div class="authorItem noborder">
+                
+                    <a href="http://football.ua/england/news/213986.html">
+                        <img src="http://s.ill.in.ua/i/news/120x80/213/213986.jpg" alt="Самуэль Это&#39;О, chelseafc.com" />
+                    </a>
+                
+                <div class="descr">
+                    <span class="date">29 августа 2013</span>
+            
+                    <a class="title" href="http://football.ua/author/gromikov.html">Иван Громиков</a>
+                
+                    <a class="text" href="http://football.ua/england/news/213986.html">Выход из тьмы</a>
+                </div>
+            </div>
+        </li>
+
+        <li>
+            <div class="authorItem noborder">
+                
+                    <a href="http://football.ua/scout/news/213940.html">
+                        <img src="http://s.ill.in.ua/i/news/120x80/213/213940.jpg" alt="Альваро Вадильо, фото google.com" />
+                    </a>
+                
+                <div class="descr">
+                    <span class="date">29 августа 2013</span>
+            
+                    <span class="title">Скаут</span>
+                
+                    <a class="text" href="http://football.ua/scout/news/213940.html">Альваро Вадильо</a>
+                </div>
+            </div>
+        </li>
+
+        <li>
+            <div class="authorItem noborder">
+                
+                    <a href="http://football.ua/thirdhalf/news/213926.html">
+                        <img src="http://s.ill.in.ua/i/news/120x80/213/213926.jpg" alt="фото superhincha.com" />
+                    </a>
+                
+                <div class="descr">
+                    <span class="date">29 августа 2013</span>
+            
+                    <a class="title" href="http://football.ua/default.aspx?menu_id=author_news&user_id=09baf742-ff08-4817-838c-fd9357604c5c">Алекс Маннанов </a>
+                
+                    <a class="text" href="http://football.ua/thirdhalf/news/213926.html">KOB vs ОМ</a>
+                </div>
+            </div>
+        </li>
+
+        <li>
+            <div class="authorItem noborder">
+                
+                    <a href="http://football.ua/4-4-2/articles/213851.html">
+                        <img src="http://s.ill.in.ua/i/news/120x80/213/213851.jpg" alt="Робин ван Перси, Getty Images" />
+                    </a>
+                
+                <div class="descr">
+                    <span class="date">29 августа 2013</span>
+            
+                    <span class="title">Полиграф</span>
+                
+                    <a class="text" href="http://football.ua/4-4-2/articles/213851.html">Мастер-класс от Робина ван Перси</a>
+                </div>
+            </div>
+        </li>
+
+        <li>
+            <div class="authorItem noborder">
+                
+                    <a href="http://football.ua/france/news/213905.html">
+                        <img src="http://s.ill.in.ua/i/news/120x80/213/213905.jpg" alt="Флориан Товен, Getty Images" />
+                    </a>
+                
+                <div class="descr">
+                    <span class="date">29 августа 2013</span>
+            
+                    <a class="title" href="http://football.ua/author/shkurenko.html">Андрей Шкуренко</a>
+                
+                    <a class="text" href="http://football.ua/france/news/213905.html">Яблоко раздора</a>
+                </div>
+            </div>
+        </li>
+
+        <li>
+            <div class="authorItem noborder">
+                
+                    <a href="http://football.ua/italy/news/213853.html">
+                        <img src="http://s.ill.in.ua/i/news/120x80/213/213853.jpg" alt="фото Getty Images" />
+                    </a>
+                
+                <div class="descr">
+                    <span class="date">28 августа 2013</span>
+            
+                    <span class="title">Серия А</span>
+                
+                    <a class="text" href="http://football.ua/italy/news/213853.html">Аналитические итоги 1-го тура</a>
+                </div>
+            </div>
+        </li>
+
+        <li>
+            <div class="authorItem noborder">
+                
+                    <a href="http://football.ua/germany/news/213831.html">
+                        <img src="http://s.ill.in.ua/i/news/120x80/213/213831.jpg" alt="Бруно Лаббадия" />
+                    </a>
+                
+                <div class="descr">
+                    <span class="date">28 августа 2013</span>
+            
+                    <a class="title" href="http://football.ua/author/kurdaev.html">Андрей Курдаев</a>
+                
+                    <a class="text" href="http://football.ua/germany/news/213831.html">Готовясь к вечеринке</a>
+                </div>
+            </div>
+        </li>
+
+        <li>
+            <div class="authorItem noborder">
+                
+                    <a href="http://football.ua/ukraine/news/213830.html">
+                        <img src="http://s.ill.in.ua/i/news/120x80/213/213830.jpg" alt="&#169; Михаил Масловский Football.ua" />
+                    </a>
+                
+                <div class="descr">
+                    <span class="date">28 августа 2013</span>
+            
+                    <a class="title" href="http://football.ua/author/boyko.html">Игорь Бойко</a>
+                
+                    <a class="text" href="http://football.ua/ukraine/news/213830.html">Старые песни на новый лад</a>
+                </div>
+            </div>
+        </li>
+
+        <li>
+            <div class="authorItem noborder">
+                
+                    <a href="http://football.ua/france/news/213827.html">
+                        <img src="http://s.ill.in.ua/i/news/120x80/213/213827.jpg" alt="olweb.fr" />
+                    </a>
+                
+                <div class="descr">
+                    <span class="date">28 августа 2013</span>
+            
+                    <span class="title">Андрей Шкуренко</span>
+                
+                    <a class="text" href="http://football.ua/france/news/213827.html">Улетел, но обещал вернуться</a>
+                </div>
+            </div>
+        </li>
+
+    </ul>
+</div>
+<a class="more m-t5" href="http://football.ua/author/">все материалы</a>
+
+<script type="text/javascript">
+    $(".authorWide").jCarouselLite({
+        btnNext: "#authorWide_arrRight",
+        btnPrev: "#authorWide_arrLeft",
+        visible: 4,
+        scroll: 4,
+        speed: 500,
+        circular: true,
+        setLiHeight: false,
+        setDivSize: false
+    });
+</script><div class='separator m-t20'></div>
+
+<div class="left absolute">
+<div class="banner" style="
+width:570px;
+
+">
+<script type="text/javascript">
+<!--
+if ($('.article h1.video').length == 0) {
+  var vhblockID=2039, date=new Date();
+  document.write('<scr'+'ipt type="text/javascript" src="http://i.holder.com.ua/t/content.y'+
+  (date.getFullYear()%100)+date.getMonth()+date.getDate()+'.js"></scr'+'ipt>');
+}
+//-->
+</script>
+
+</div>
+</div><div class='separator m-t20'></div>
+
+<script src="//football.ua/mod/Comment/Comment.js?v=2013-07-19" type="text/javascript"></script>
+
+<div class="left absolute" id="commentsArea"></div>
+<script type="text/javascript">
+    <!--
+        var UserImageFake = 'http://s.ill.in.ua/i/user/35x35/avatar.png';
+        var UserImageMask = 'avatar.png';
+        var UserLinkFake = 'http://football.ua/default.aspx?menu_id=profile&user=00000000-0000-0000-0000-000000000000';
+        var UserLinkMask = '00000000-0000-0000-0000-000000000000';
+        ModComment.CookieNameFormat = 'CommentText.{0}.{1}';
+        ModComment.MaxLength = 1500;
+
+        ModComment.Init(216562, 1);
+    -->
+</script>
+<div class='separator m-t20'></div></div><!-- articleTop //-->
+                    <!-- articleLeft //-->
+                    <!-- articleRight //-->
+                </div>
+
+                
+            </div>
+            <div id="ctl00_right" class="rightArea">
+
+<div class="left absolute">
+<div class="banner" style="
+
+
+">
+<div id="adriver_middle"></div>
+<script type="text/javascript">
+var ar_bn1 = Math.floor(Math.random() * 3 + 1);
+new holder("adriver_middle",{block:2174});
+</script><br />
+<div id="holder_300x100_65"></div><script type="text/javascript">
+new holder("holder_300x100_65",{block:3165});
+</script>
+
+
+</div>
+</div><div class='separator m-t20'></div>
+
+<div class="newsFeed">
+    <h2>Материалы</h2>
+
+    <div class="newsFeedLine">
+        <span class="title football">Лента новостей</span>
+        <ul class="feedItems">
+    
+            <li class="">
+                <div class="date">
+                    00:55
+                </div>
+                
+                <a href="http://football.ua/germany/news/216753.html" class="text">
+                 Рибери: получать удовольствие от командной игры
+                </a>
+            </li>
+    
+            <li class="">
+                <div class="date">
+                    00:32
+                </div>
+                
+                <a href="http://football.ua/italy/news/216752.html" class="text">
+                 Томович: &quot;Не умеем обороняться&quot;
+                </a>
+            </li>
+    
+            <li class="">
+                <div class="date">
+                    00:11
+                </div>
+                
+                <a href="http://worldcup2014.football.ua/news/216751.html" class="text">
+                 Это'О получил вызов в сборную
+                </a>
+            </li>
+    
+            <li class="important ">
+                <div class="date">
+                    23:58
+                </div>
+                
+                <a href="http://football.ua/france/news/216750.html" class="text">
+                 Лига 1. Монпелье и Ренн расходятся миром
+                </a>
+            </li>
+    
+            <li class="">
+                <div class="date">
+                    23:42
+                </div>
+                
+                <a href="http://football.ua/russia/news/216748.html" class="text">
+                 Петреску раскритиковал судейство
+                </a>
+            </li>
+    
+            <li class="">
+                <div class="date">
+                    23:42
+                </div>
+                
+                <a href="http://football.ua/italy/news/216749.html" class="text">
+                 Интер: волевая победа над Фиалками
+                </a>
+            </li>
+    
+            <li class="">
+                <div class="date">
+                    23:29
+                </div>
+                
+                <a href="http://football.ua/countrieselse/news/216747.html" class="text">
+                 У игрока сборной Тринидада и Тобаго случился инфаркт
+                </a>
+            </li>
+    
+            <li class="">
+                <div class="date">
+                    23:16
+                </div>
+                
+                <a href="http://football.ua/italy/news/216746.html" class="text">
+                 Балотелли: &quot;Поддался на провокацию&quot;
+                </a>
+            </li>
+    
+            <li class="noborder">
+                <div class="date">
+                    22:56
+                </div>
+                
+                <a href="http://football.ua/spain/news/216744.html" class="text">
+                 Бетис уступает в Бильбао
+                </a>
+            </li>
+    
+        </ul>
+    </div>
+
+    <div class="newsFeedLine">
+        <span class="title football">Италия. Новости </span>
+        <ul class="feedItems">
+    
+            <li class="">
+                <div class="date">
+                    00:32
+                </div>
+                
+                <a href="http://football.ua/italy/news/216752.html" class="text">
+                 Томович: &quot;Не умеем обороняться&quot;
+                </a>
+            </li>
+  	
+            <li class="">
+                <div class="date">
+                    23:42
+                </div>
+                
+                <a href="http://football.ua/italy/news/216749.html" class="text">
+                 Интер: волевая победа над Фиалками
+                </a>
+            </li>
+  	
+            <li class="">
+                <div class="date">
+                    23:16
+                </div>
+                
+                <a href="http://football.ua/italy/news/216746.html" class="text">
+                 Балотелли: &quot;Поддался на провокацию&quot;
+                </a>
+            </li>
+  	
+            <li class="">
+                <div class="date">
+                    22:18
+                </div>
+                
+                <a href="http://football.ua/italy/news/216741.html" class="text">
+                 Строотман: &quot;Ювентус — фаворит в борьбе за Скудетто&quot;
+                </a>
+            </li>
+  	
+            <li class="">
+                <div class="date">
+                    21:43
+                </div>
+                
+                <a href="http://football.ua/italy/news/216739.html" class="text">
+                 Наполи: новый контракт для Суньиги
+                </a>
+            </li>
+  	
+            <li class="">
+                <div class="date">
+                    18:05
+                </div>
+                
+                <a href="http://football.ua/italy/news/216721.html" class="text">
+                 Суньига требует зарплату в 2,4 миллиона евро
+                </a>
+            </li>
+  	
+            <li class="">
+                <div class="date">
+                    17:25
+                </div>
+                
+                <a href="http://football.ua/italy/news/216718.html" class="text">
+                 Клозе пропустит полмесяца
+                </a>
+            </li>
+  	
+            <li class="">
+                <div class="date">
+                    17:16
+                </div>
+                
+                <a href="http://football.ua/italy/news/216717.html" class="text">
+                 Гаттузо разочарован увольнением
+                </a>
+            </li>
+  	
+            <li class="">
+                <div class="date">
+                    15:14
+                </div>
+                
+                <a href="http://football.ua/italy/news/216709.html" class="text">
+                 Майкон может пропустить три недели
+                </a>
+            </li>
+  	
+            <li class="">
+                <div class="date">
+                    14:44
+                </div>
+                
+                <a href="http://football.ua/italy/news/216707.html" class="text">
+                 Маротта: &quot;Продлим Пирло в феврале или марте&quot;
+                </a>
+            </li>
+  	
+            <li class="">
+                <div class="date">
+                    13:18
+                </div>
+                
+                <a href="http://football.ua/italy/news/216701.html" class="text">
+                 Руди Гарсия: &quot;Историю нужно творить в конце сезона&quot;
+                </a>
+            </li>
+  	
+            <li class="">
+                <div class="date">
+                    12:31
+                </div>
+                
+                <a href="http://football.ua/italy/news/216697.html" class="text">
+                 Аллегри: &quot;Могли пропустить и четвертый гол&quot;
+                </a>
+            </li>
+  	
+            <li class="">
+                <div class="date">
+                    11:43
+                </div>
+                
+                <a href="http://football.ua/italy/news/216693.html" class="text">
+                 Интер — Фиорентина. Накануне
+                </a>
+            </li>
+  	
+            <li class="">
+                <div class="date">
+                    10:47
+                </div>
+                
+                <a href="http://football.ua/italy/news/216687.html" class="text">
+                 Бенитес: &quot;Нельзя же выиграть все матчи&quot;
+                </a>
+            </li>
+  	
+            <li class="noborder">
+                <div class="date">
+                    09:25
+                </div>
+                
+                <a href="http://football.ua/italy/news/216679.html" class="text">
+                 Конте: &quot;Ювентусу повезло&quot;
+                </a>
+            </li>
+  	
+        </ul>
+    </div>
+
+</div><div class='separator m-t20'></div>
+
+<div class="statistic tournir">
+    <h2 class="football">
+        Италия. Серия А
+    </h2>
+    <table class="calign">
+        <tr>
+            <th class="w5">#</th>
+            <th class="w5">&nbsp;</th>
+            <th class="lalign">
+                27 сентября 2013
+            </th>
+            <th class="w10">И</th>
+            <th class="w10">О</th>
+        </tr>
+
+    
+
+		<tr class="even ">
+			<td>1</td>
+			<td>
+            
+				<img src="http://s.ill.in.ua/i/football/team/logo/0x20/27_logo.gif" alt="Рома" />
+            
+            </td>
+			<td class="lalign">
+				<a href="http://football.ua/italy/club/27.html">Рома</a>
+			</td>
+			<td>5</td>
+			<td>15</td>
+		</tr>
+
+
+
+		<tr class="odd ">
+			<td>2</td>
+			<td>
+            
+				<img src="http://s.ill.in.ua/i/football/team/logo/0x20/28_logo.gif" alt="Интер" />
+            
+            </td>
+			<td class="lalign">
+				<a href="http://football.ua/italy/club/28.html">Интер</a>
+			</td>
+			<td>5</td>
+			<td>13</td>
+		</tr>
+
+
+
+		<tr class="even ">
+			<td>3</td>
+			<td>
+            
+				<img src="http://s.ill.in.ua/i/football/team/logo/0x20/395.png" alt="Наполи" />
+            
+            </td>
+			<td class="lalign">
+				<a href="http://football.ua/italy/club/395.html">Наполи</a>
+			</td>
+			<td>5</td>
+			<td>13</td>
+		</tr>
+
+
+
+		<tr class="odd ">
+			<td>4</td>
+			<td>
+            
+				<img src="http://s.ill.in.ua/i/football/team/logo/0x20/30_logo.gif" alt="Ювентус" />
+            
+            </td>
+			<td class="lalign">
+				<a href="http://football.ua/italy/club/30.html">Ювентус</a>
+			</td>
+			<td>5</td>
+			<td>13</td>
+		</tr>
+
+
+
+		<tr class="even ">
+			<td>5</td>
+			<td>
+            
+				<img src="http://s.ill.in.ua/i/football/team/logo/0x20/36_logo.gif" alt="Фиорентина" />
+            
+            </td>
+			<td class="lalign">
+				<a href="http://football.ua/italy/club/36.html">Фиорентина</a>
+			</td>
+			<td>5</td>
+			<td>10</td>
+		</tr>
+
+
+
+		<tr class="odd ">
+			<td>6</td>
+			<td>
+            
+				<img src="http://s.ill.in.ua/i/football/team/logo/0x20/32_logo.gif" alt="Лацио" />
+            
+            </td>
+			<td class="lalign">
+				<a href="http://football.ua/italy/club/32.html">Лацио</a>
+			</td>
+			<td>5</td>
+			<td>9</td>
+		</tr>
+
+
+
+		<tr class="even ">
+			<td>7</td>
+			<td>
+            
+				<img src="http://s.ill.in.ua/i/football/team/logo/0x20/37.png" alt="Ливорно" />
+            
+            </td>
+			<td class="lalign">
+				<a href="http://football.ua/italy/club/37.html">Ливорно</a>
+			</td>
+			<td>5</td>
+			<td>8</td>
+		</tr>
+
+
+
+		<tr class="odd ">
+			<td>8</td>
+			<td>
+            
+				<img src="http://s.ill.in.ua/i/football/team/logo_sm/0x20/280.png" alt="Торино" />
+            
+            </td>
+			<td class="lalign">
+				<a href="http://football.ua/italy/club/280.html">Торино</a>
+			</td>
+			<td>5</td>
+			<td>8</td>
+		</tr>
+
+
+
+		<tr class="even ">
+			<td>9</td>
+			<td>
+            
+				<img src="http://s.ill.in.ua/i/football/team/logo/0x20/92_logo.gif" alt="Удинезе" />
+            
+            </td>
+			<td class="lalign">
+				<a href="http://football.ua/italy/club/92.html">Удинезе</a>
+			</td>
+			<td>5</td>
+			<td>7</td>
+		</tr>
+
+
+
+		<tr class="odd ">
+			<td>10</td>
+			<td>
+            
+				<img src="http://s.ill.in.ua/i/football/team/logo/0x20/795_logo.jpg" alt="Верона" />
+            
+            </td>
+			<td class="lalign">
+				<a href="http://football.ua/italy/club/795.html">Верона</a>
+			</td>
+			<td>5</td>
+			<td>7</td>
+		</tr>
+
+
+
+		<tr class="even ">
+			<td>11</td>
+			<td>
+            
+				<img src="http://s.ill.in.ua/i/football/team/logo/0x20/93_logo.gif" alt="Кальяри" />
+            
+            </td>
+			<td class="lalign">
+				<a href="http://football.ua/italy/club/93.html">Кальяри</a>
+			</td>
+			<td>5</td>
+			<td>6</td>
+		</tr>
+
+
+
+		<tr class="odd ">
+			<td>12</td>
+			<td>
+            
+				<img src="http://s.ill.in.ua/i/football/team/logo/0x20/33_logo.gif" alt="Милан" />
+            
+            </td>
+			<td class="lalign">
+				<a href="http://football.ua/italy/club/33.html">Милан</a>
+			</td>
+			<td>5</td>
+			<td>5</td>
+		</tr>
+
+
+
+		<tr class="even ">
+			<td>13</td>
+			<td>
+            
+				<img src="http://s.ill.in.ua/i/football/team/logo/0x20/91_logo.gif" alt="Парма" />
+            
+            </td>
+			<td class="lalign">
+				<a href="http://football.ua/italy/club/91.html">Парма</a>
+			</td>
+			<td>5</td>
+			<td>5</td>
+		</tr>
+
+
+
+		<tr class="odd ">
+			<td>14</td>
+			<td>
+            
+				<img src="http://s.ill.in.ua/i/football/team/logo_sm/0x20/394.png" alt="Дженоа" />
+            
+            </td>
+			<td class="lalign">
+				<a href="http://football.ua/italy/club/394.html">Дженоа</a>
+			</td>
+			<td>5</td>
+			<td>4</td>
+		</tr>
+
+
+
+		<tr class="even ">
+			<td>15</td>
+			<td>
+            
+				<img src="http://s.ill.in.ua/i/football/team/logo/0x20/85.png" alt="Кьево" />
+            
+            </td>
+			<td class="lalign">
+				<a href="http://football.ua/italy/club/85.html">Кьево</a>
+			</td>
+			<td>5</td>
+			<td>4</td>
+		</tr>
+
+
+
+		<tr class="odd ">
+			<td>16</td>
+			<td>
+            
+				<img src="http://s.ill.in.ua/i/football/team/logo/0x20/490.png" alt="Болонья" />
+            
+            </td>
+			<td class="lalign">
+				<a href="http://football.ua/italy/club/490.html">Болонья</a>
+			</td>
+			<td>5</td>
+			<td>3</td>
+		</tr>
+
+
+
+		<tr class="even ">
+			<td>17</td>
+			<td>
+            
+				<img src="http://s.ill.in.ua/i/football/team/logo/0x20/278_logo.gif" alt="Аталанта" />
+            
+            </td>
+			<td class="lalign">
+				<a href="http://football.ua/italy/club/278.html">Аталанта</a>
+			</td>
+			<td>5</td>
+			<td>3</td>
+		</tr>
+
+
+
+		<tr class="odd ">
+			<td>18</td>
+			<td>
+            
+				<img src="http://s.ill.in.ua/i/football/team/logo/0x20/86_logo.gif" alt="Сампдория" />
+            
+            </td>
+			<td class="lalign">
+				<a href="http://football.ua/italy/club/86.html">Сампдория</a>
+			</td>
+			<td>5</td>
+			<td>2</td>
+		</tr>
+
+
+
+		<tr class="even ">
+			<td>19</td>
+			<td>
+            
+				<img src="http://s.ill.in.ua/i/football/team/logo_sm/0x20/279.gif" alt="Катанья" />
+            
+            </td>
+			<td class="lalign">
+				<a href="http://football.ua/italy/club/279.html">Катанья</a>
+			</td>
+			<td>5</td>
+			<td>1</td>
+		</tr>
+
+
+
+		<tr class="odd ">
+			<td>20</td>
+			<td>
+            
+				<img src="http://s.ill.in.ua/i/football/team/logo/0x20/875.png" alt="Сассуоло" />
+            
+            </td>
+			<td class="lalign">
+				<a href="http://football.ua/italy/club/875.html">Сассуоло</a>
+			</td>
+			<td>5</td>
+			<td>1</td>
+		</tr>
+
+
+
+    </table>
+</div>
+<a class="more m-t5" href="http://football.ua/italy/table.html">подробная таблица</a><div class='separator m-t20'></div>
+
+<div class="left absolute">
+<div class="banner" style="
+width:300px;
+
+">
+<!-- Яндекс.Директ -->
+<div class="articleText m-t5">
+<div id="yandex_ad"></div>
+<script type="text/javascript">
+(function(w, d, n, s, t) {
+    w[n] = w[n] || [];
+    w[n].push(function() {
+        Ya.Direct.insertInto(56619, "yandex_ad", {
+            stat_id: 2,
+            site_charset: "utf-8",
+            ad_format: "direct",
+            font_size: 1,
+            font_family: "arial",
+            type: "vertical",
+            limit: 3,
+            title_font_size: 2,
+            site_bg_color: "FFFFFF",
+            header_bg_color: "CCCCCC",
+            bg_color: "F5F5F5",
+            title_color: "0000CC",
+            url_color: "006600",
+            text_color: "000000",
+            hover_color: "0066FF",
+            favicon: true
+        });
+    });
+    t = d.documentElement.firstChild;
+    s = d.createElement("script");
+    s.type = "text/javascript";
+    s.src = "http://an.yandex.ru/system/context.js";
+    s.setAttribute("async", "true");
+    t.insertBefore(s, t.firstChild);
+})(window, document, "yandex_context_callbacks");
+</script></div>
+
+</div>
+</div><div class='separator m-t20'></div></div>
+            
+	    </div>
+	    <div class="clear"></div>
+	    <div class="push"></div>
+    </div>
+
+	<div class="outBlock">
+		<div class="mobilelinks">
+            <ul>
+	<li>
+		<a href="http://m.football.ua">Мобильная версия</a></li>
+	<li>
+		<a href="http://worldcup2014.football.ua">ЧМ-2014</a></li>
+	<li>
+		<a href="http://blog.isport.ua">Спортивные блоги</a></li>
+	<li>
+		<a href="http://isport.ua">Новости спорта на iSport.ua</a></li>
+</ul>
+
+		</div>
+	</div>
+
+    <div class="footer">
+	    <div class="back">
+	        <div class="linksArea">
+                <div class="linksItems">
+	<span>УКРАИНА</span>
+	<ul>
+		<li>
+			<a href="/ukraine.html">Премьер-лига</a></li>
+		<li>
+			<a href="/ukraine1league.html">Первая лига</a></li>
+		<li>
+			<a href="/ukraine2league.html">Вторая лига</a></li>
+	</ul>
+</div>
+<div class="linksItems">
+	<span>ЕВРОПА</span>
+	<ul>
+		<li>
+			<a href="/england.html">Англия</a></li>
+		<li>
+			<a href="/germany.html">Германия</a></li>
+		<li>
+			<a href="/spain.html">Испания</a></li>
+		<li>
+			<a href="/italy.html">Италия</a></li>
+		<li>
+			<a href="/netherlands.html">Нидерланды</a></li>
+		<li>
+			<a href="/portugal.html">Португалия</a></li>
+		<li>
+			<a href="/russia.html">Россия</a></li>
+		<li>
+			<a href="/turkey.html">Турция</a></li>
+		<li>
+			<a href="/france.html">Франция</a></li>
+	</ul>
+</div>
+<div class="linksItems">
+	<span>МИР</span>
+	<ul>
+		<li>
+			<a href="/argentina.html">Аргентина</a></li>
+		<li>
+			<a href="/brazil.html">Бразилия</a></li>
+		<li>
+			<a href="/northamerica.html">Северная Америка</a></li>
+		<li>
+			<a href="/default.aspx?menu_id=football_countrieselse_news">Другие страны</a></li>
+	</ul>
+</div>
+<div class="linksItems">
+	<span>КУБКИ</span>
+	<ul>
+		<li>
+			<a href="/champions_league.html">Лига чемпионов</a></li>
+		<li>
+			<a href="/uefa.html">Лига Европы</a></li>
+		<li>
+			<a href="/africancup.html">Кубок Африканских Наций</a></li>
+		<li>
+			<a href="/confederationscup.html">Кубок Конфедераций</a></li>
+		<li>
+			<a href="/copalibertadores.html">Копа Либертадорес</a></li>
+		<li>
+			<a href="/worldcup2014.html">ЧМ-2014</a></li>
+	</ul>
+</div>
+<div class="linksItems">
+	<span>РАЗНОЕ</span>
+	<ul>
+		<li>
+			<a href="http://football.ua/default.aspx?menu_id=football_prog_season&amp;season_id=2">Прогнозисты</a></li>
+		<li>
+			<a href="http://isport.ua/fantasy/football/">Fantasy Football</a></li>
+		<li>
+			<a href="/default.aspx?menu_id=tvschedule">Футбол на ТВ</a></li>
+		<li>
+			<a href="http://blog.isport.ua">Блоги</a></li>
+	</ul>
+</div>
+<div class="linksItems">
+	<span>КОЛОНКИ</span>
+	<ul>
+		<li>
+			<a href="/author/boyko.html">Игорь Бойко</a></li>
+		<li>
+			<a href="/author/valerko.html">Артур Валерко</a></li>
+		<li>
+			<a href="/author/volkov.html">Анатолий Волков</a></li>
+		<li>
+			<a href="/author/gromikov.html">Иван Громиков</a></li>
+		<li>
+			<a href="/author/dashkovskaya.html">Яна Дашковская</a></li>
+		<li>
+			<a href="/author/ivanov.html">Алексей Иванов</a></li>
+		<li>
+			<a href="/author/kurdaev.html">Андрей Курдаев</a></li>
+		<li>
+			<a href="/author/moskalenko.html">Дмитрий Москаленко</a></li>
+		<li>
+			<a href="/author/obaraz.html">Василий Обараз</a></li>
+		<li>
+			<a href="/author/ozirnyi.html">Александр Озирный</a></li>
+		<li>
+			<a href="/author/shevchenko.html">Юрий Шевченко</a></li>
+		<li>
+			<a href="/author/shkurenko.html">Андрей Шкуренко</a></li>
+	</ul>
+</div>
+<div class="linksItems">
+	<span>СПЕЦПРОЕКТЫ</span>
+	<ul>
+		<li>
+			<a href="http://euro08.football.ua">ЕВРО-2008</a></li>
+		<li>
+			<a href="http://wc2010.football.ua">ЧМ-2010</a></li>
+		<li>
+			<a href="http://ecups.isport.ua">ЕВРОФИНАЛЫ-2012</a></li>
+		<li>
+			<a href="http://2012.football.ua">ЕВРО-2012</a></li>
+		<li>
+			<a href="http://worldcup2014.football.ua">ЧМ-2014</a></li>
+	</ul>
+</div>
+
+	        </div>
+	        <div class="textArea">
+                <p>
+	Письма в редакцию: <a href="#">info@football.ua</a><br />
+	Размещение рекламы: <a href="mailto:adv@football.ua">adv@football.ua</a><br />
+	Служба техподдержки: <a href="mailto:web-support@football.ua">web-support@football.ua</a></p>
+<p>
+	&copy; 2006-2013 ООО &quot;ИД УМХ&quot;. Все права защищены.</p>
+
+	        </div>
+	        <div class="textArea">
+                <p>
+	<a href="http://isport.ua" target="_blank">Новости спорта</a> | <a href="http://korrespondent.net" target="_blank">Новости Украины</a> | <a href="http://focus.ua" target="_blank">Новости</a> | <a href="http://uzr.com.ua" target="_blank">Автоновости</a> | <a href="http://kp.ua" target="_blank">КП в Украине</a></p>
+
+	        </div>
+	    </div>	
+    </div>
+    <script type="text/javascript" src="//football.ua/js/js.js?v=2013-04-25"></script>
+    
+    </form>
+    <table style="width:400px;margin: 0 auto;" class="footerCounters">
+	<tbody>
+		<tr>
+			<td style="vertical-align:middle;">
+				<div id="siteLinksUmhGroup" style="background-color:#000;margin-right:3px; font-size:11px; white-space:nowrap;">
+					&nbsp;</div>
+			</td>
+			<td style="vertical-align:middle;">
+<!--bigmir)net TOP 100--><script type="text/javascript" language="javascript"><!--
+function BM_Draw(oBM_STAT){
+document.write('<table cellpadding="0" cellspacing="0" border="0" style="margin-right:4px;"><tr><td><div style="margin:0px;padding:0px;font-size:1px;width:88px;"><div style="background:url(\'http://i.bigmir.net/cnt/samples/diagonal/b59_top.gif\') no-repeat bottom;"> </div><div style="font:10px Tahoma;background:url(\'http://i.bigmir.net/cnt/samples/diagonal/b59_center.gif\');"><div style="text-align:center;"><a href="http://top.bigmir.net/report/94567/" target="_blank" style="color:#0000ab;text-decoration:none;font:10px Tahoma;">bigmir<span style="color:#ff0000;">)</span>net</a></div><div style="margin-top:3px;padding: 0px 6px 0px 6px;color:#003596;"><div style="float:left;font:10px Tahoma;">'+oBM_STAT.hosts+'</div><div style="float:right;font:10px Tahoma;">'+oBM_STAT.hits+'</div></div><br clear="all"/></div><div style="background:url(\'http://i.bigmir.net/cnt/samples/diagonal/b59_bottom.gif\') no-repeat top;"> </div></div></td></tr></table>');
+}
+//-->
+</script><script type="text/javascript" language="javascript"><!--
+bmN=navigator,bmD=document,bmD.cookie='b=b',i=0,bs=[],bm={o:1,v:94567,s:94567,t:0,c:bmD.cookie?1:0,n:Math.round((Math.random()* 1000000)),w:0};
+for(var f=self;f!=f.parent;f=f.parent)bm.w++;
+try{if(bmN.plugins&&bmN.mimeTypes.length&&(x=bmN.plugins['Shockwave Flash']))bm.m=parseInt(x.description.replace(/([a-zA-Z]|\s)+/,''));
+else for(var f=3;f<20;f++)if(eval('new ActiveXObject("ShockwaveFlash.ShockwaveFlash.'+f+'")'))bm.m=f}catch(e){;}
+try{bm.y=bmN.javaEnabled()?1:0}catch(e){;}
+try{bmS=screen;bm.v^=bm.d=bmS.colorDepth||bmS.pixelDepth;bm.v^=bm.r=bmS.width}catch(e){;}
+r=bmD.referrer.slice(7);if(r&&r.split('/')[0]!=window.location.host){bm.f=escape(r);bm.v^=r.length}
+bm.v^=window.location.href.length;for(var x in bm) if(/^[ovstcnwmydrf]$/.test(x)) bs[i++]=x+bm[x];
+bmD.write('<sc'+'ript type="text/javascript" language="javascript" src="http://c.bigmir.net/?'+bs.join('&')+'"></sc'+'ript>');
+//-->
+</script><noscript>
+<a href="http://top.bigmir.net/report/94567/" target="_blank"><img src="http://c.bigmir.net/?v94567&s94567&t2" width="88" height="31" alt="bigmir)net TOP 100" title="bigmir)net TOP 100" border="0" /></a>
+</noscript><!--bigmir)net TOP 100-->			</td>
+			<td style="vertical-align:middle;">
+<!--RAMBLER PICEL -->				<img alt="" height="0" src="http://counter.rambler.ru/top100.cnt?900205" style="border: 0pt none ; line-height: 0pt;" width="0" /><img alt="Rambler's Top100" height="31" src="http://top100-images.rambler.ru/top100/w0.gif" style="border: 0pt none ;" width="88" /> <!-- RAMBLER --></td>
+			<td style="vertical-align:middle;">
+<!-- I.UA counter -->				<a href="http://www.i.ua/" onclick="this.href='http://i.ua/r.php?1849';" target="_blank" title="Rated by I.UA"> <script type="text/javascript" language="javascript"><!--
+iS='<img src="http://r.i.ua/s?u1849&p125&n'+Math.random();
+iD=document;iD.cookie="iua=1";if(iD.cookie)iS+='&c1';
+iS+='&d'+(screen.colorDepth?screen.colorDepth:screen.pixelDepth)
++"&w"+screen.width+'&h'+screen.height
+iT=iD.referrer.slice(7);iH=window.location.href.slice(7);
+((iI=iT.indexOf('/'))!=-1)?(iT=iT.substring(0,iI)):(iI=iT.length);
+if(iT!=iH.substring(0,iI))iS+='&f'+escape(iD.referrer.slice(7))
+iS+='&r'+escape(iH);
+iD.write(iS+'" border="0" width="88" height="31" />');
+//--></script></a><!-- End of I.UA counter --></td>
+			<td style="vertical-align:middle;">
+<!--LiveInternet counter--><script type="text/javascript"><!--
+document.write("<a href='http://www.liveinternet.ru/click' "+
+"target=_blank><img src='http://counter.yadro.ru/hit?t16.6;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet: показано число просмотров за 24"+
+" часа, посетителей за 24 часа и за сегодня' "+
+"border='0' width='88' height='31'><\/a>")
+//--></script><!--/LiveInternet-->			</td>
+		</tr>
+	</tbody>
+</table>
+
+    <a href="http://market.umh.ua/ru/products/football/index.html" target="_blank" id="FootballMarketButton"></a>
+
+
+<!-- ga -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-434940-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<!-- ga end //-->
+
+
+<script type="text/javascript">
+var ar_bn1 = Math.floor(Math.random() * 3 + 1);
+new holder("adriver_middle2",{block:2175});
+</script>
+
+
+<!-- google plus one -->
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"> { lang: 'ru' }</script>
+
+
+<!-- (C)2000-2011 Gemius SA - gemiusAudience / football.ua / allpages --> 
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var pp_gemius_identifier = new String('d0zqwUbe43K5FbG6348c_qRu7J_iOd.At9j_Pn6uYfr.E7');
+//--><!]]>
+</script> 
+<script type="text/javascript" src="http://football.ua/js/gemius.js"></script>
+
+
+<!-- MMI CMeter -->  
+<noscript>
+<img src="http://juke.mmi.bemobile.ua/bug/pic.gif?siteid=football.ua"  style="position:absolute;left:-1000px;" alt="" />
+</noscript> 
+<script type="text/javascript">
+<!--
+(function(){
+var b = document.getElementsByTagName('body')[0];
+var div = document.createElement("div");
+div.id = "forPic";
+div.style.position =  "absolute";
+div.style.visibility = "hidden";
+div.innerHTML = "<img src='"+"http://juke.mmi.bemobile.ua/bug/pic.gif"+
+"?siteid=football.ua"+
+"&j=1&"+Math.random()+"'/>";
+b.appendChild(div);
+var p=document.getElementsByTagName('head')[0];
+var s=document.createElement("script");
+s.type="text/javascript";
+s.src="http://source.mmi.bemobile.ua/id/id.js";
+s.onload=s.onreadystatechange=function(){
+if(!("readyState" in s)||/loaded|complete/.test(s.readyState)){
+s.onload=s.onreadystatechange=null;
+var s2=document.createElement("script");
+s2.type="text/javascript";
+s2.src="http://source.mmi.bemobile.ua/cm/cmeter.js";
+p.appendChild(s2);
+}}
+p.appendChild(s);
+})();
+//-->
+</script> 
+<!-- /MMI CMeter --> 
+
+
+<!-- Yandex.Metrika counter --> 
+<div style="display:none;"><script type="text/javascript">
+(function(w, c) {
+    (w[c] = w[c] || []).push(function() {
+        try {
+            w.yaCounter495024 = new Ya.Metrika({id:495024,
+                    clickmap:true,
+                    trackLinks:true, webvisor:true});
+        }
+        catch(e) { }
+    });
+})(window, "yandex_metrika_callbacks");
+</script></div>
+<script src="//mc.yandex.ru/metrika/watch.js" type="text/javascript" defer="defer"></script> <noscript><div><img src="//mc.yandex.ru/watch/495024" style="position:absolute; left:-9999px;" alt="" /></div></noscript> 
+<!-- /Yandex.Metrika counter --> 
+
+
+<script type="text/javascript" src="http://h.holder.com.ua/s?b284&tj&hfootball.ua&r51614"></script>  
+
+
+<!-- c8.net.ua PreRoll --> 
+<script type="text/javascript" src="http://b.c8.net.ua/b/js/preroll.js"></script> <script type="text/javascript" src="http://b.c8.net.ua/b/js/swfobject.js"></script> <script language="JavaScript">
+//<!--
+var c8_pid = Math.round(Math.random() * 1000000000);
+var c8_sa;
+if (undefined===c8_sa) c8_sa='';
+c8_init_preroll('f1575','http://b.c8.net.ua/show?f1575&' + c8_pid + '&7&8&&&'+c8_sa+'&&'+(document.referrer ? escape(document.referrer) : '')+'');
+//-->
+</script> 
+<!-- /c8.net.ua PreRoll -->  
+
+<!-- c8.net.ua PostRoll -->
+
+<script language="JavaScript">
+var c8_sa;
+if (undefined===c8_sa) c8_sa='';
+var c8ban_postroll_script_url='http://b.c8.net.ua/show?f1575&' + Math.floor(1000000000*Math.random()) + '&10&10&&&'+c8_sa+'&&'+(document.referrer ? escape(document.referrer) : '')+'';
+</script>
+<!-- /c8.net.ua PostRoll -->
+<script src="http://ui.ill.in.ua/s/groupsites.js?site=isport.ua"></script>
+</body>
+</html>
