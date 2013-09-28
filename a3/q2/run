@@ -1,0 +1,29 @@
+#!/bin/bash
+export TERM="carmack"
+export TOTAL_CARMACKS=1210000
+export TOTAL_DOCS=20000000000
+export RESULTS_FILE="results"
+
+#slow but whatever. faster than last assignment
+function fileToURI() {
+	for line in `cat ../q1/links.txt`; do
+		md5file=`echo -n $line | md5sum | sed 's/[- ]//g'`
+		if [ "$md5file" = "$file" ]; then
+			uri=$line
+			echo "Matched $file to $line"
+		fi
+	done
+}
+
+rm copied/*
+./copyTen ../q1/modified
+rm $RESULTS_FILE
+echo "TFIDF TF IDF URI" > $RESULTS_FILE
+for file in `ls copied/`; do
+	sh tfidf "copied/$file" "$TERM" "$TOTAL_CARMACKS" "$TOTAL_DOCS"
+	fileToURI
+	line=`cat tfidf.result`
+	echo "$line $uri" >> $RESULTS_FILE
+	rm tfidf.result
+	echo "Completed file:$file"
+done
