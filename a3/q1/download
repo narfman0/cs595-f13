@@ -22,3 +22,4 @@ function lynxLinks {
 
 downloadInput
 lynxLinks
+rm -rf original
