@@ -9,11 +9,13 @@
 
 Q1. Download the 1000 URIs from assignment 2...remove formatting \\
 Large collection of files included in modified/ directory
+See Appendix A for download program
 \\*
 
 Q2. Choose a query term...to ten documents...compute TFIDF values for the term
 in each of the 10 documents. \\
 \verbatiminput{q2/results}%
+See Appendix B for scripts to produce table
 \\*
 
 Q3. Now rank the same 10 URIs from question 2, but this time by their
@@ -22,9 +24,22 @@ PageRank. \\
 Briefly compare and contrast the rankings produced in questions 2
 and 3.
 
-A3: Top TFIDF was floydmayweather.com, second was themoneyteam.com. These two
-were also the only two non-zero scoring options, and I infer TFIDF was heavily
-weighted in the pagerank calculation. It is unfortunate the other pages weren't
+A3: Top TFIDF was floydmayweather.com. This was one of two non-zero scoring
+options, and I infer TFIDF was heavily weighted in the pagerank calculation.
+This would result in being calculated as number one. themoneyteam.com on the
+other hand is relatively low TFIDF, but is a domain in and of itself, thus
+disproportionately large TFIDF. It is unfortunate the other pages weren't
 page ranked, but I predict they would have linearly small results.
+
+\newpage
+\appendix
+Appendix A
+\verbatiminput{q1/download}%
+
+\newpage
+Appendix B
+\verbatiminput{q2/run}%
+\verbatiminput{q2/tfidf}%
+\verbatiminput{q2/copyTen}%
 
 \end{document} 
