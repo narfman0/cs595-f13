@@ -1,6 +1,6 @@
 #!/bin/bash
-export TERM="carmack"
-export TOTAL_CARMACKS=1210000
+export TERM="mayweather"
+export TOTAL_MAYWEATHER=11700000
 export TOTAL_DOCS=20000000000
 export RESULTS_FILE="results"
 
@@ -16,11 +16,11 @@ function fileToURI() {
 }
 
 rm copied/*
-./copyTen ../q1/modified
+./copyTen ../q1/modified $TERM
 rm $RESULTS_FILE
 echo "TFIDF TF IDF URI" > $RESULTS_FILE
 for file in `ls copied/`; do
-	sh tfidf "copied/$file" "$TERM" "$TOTAL_CARMACKS" "$TOTAL_DOCS"
+	sh tfidf "copied/$file" "$TERM" "$TOTAL_MAYWEATHER" "$TOTAL_DOCS"
 	fileToURI
 	line=`cat tfidf.result`
 	echo "$line $uri" >> $RESULTS_FILE
