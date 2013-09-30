@@ -1,0 +1,30 @@
+\documentclass{article}
+\usepackage[pdftex]{graphicx}
+\usepackage{verbatim}
+\begin{document}
+
+\author{Jon Robison}
+\title{CS595 Assignment 3}
+\maketitle
+
+Q1. Download the 1000 URIs from assignment 2...remove formatting \\
+Large collection of files included in modified/ directory
+\\*
+
+Q2. Choose a query term...to ten documents...compute TFIDF values for the term
+in each of the 10 documents. \\
+\verbatiminput{q2/results}%
+\\*
+
+Q3. Now rank the same 10 URIs from question 2, but this time by their
+PageRank. \\
+\verbatiminput{q3/results}%
+Briefly compare and contrast the rankings produced in questions 2
+and 3.
+
+A3: Top TFIDF was floydmayweather.com, second was themoneyteam.com. These two
+were also the only two non-zero scoring options, and I infer TFIDF was heavily
+weighted in the pagerank calculation. It is unfortunate the other pages weren't
+page ranked, but I predict they would have linearly small results.
+
+\end{document} 
