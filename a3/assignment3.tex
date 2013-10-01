@@ -1,7 +1,12 @@
 \documentclass{article}
 \usepackage[pdftex]{graphicx}
-\usepackage{verbatim}
 \usepackage{listings}
+\usepackage{xcolor}
+\lstset{basicstyle=\ttfamily,
+  showstringspaces=false,
+  commentstyle=\color{red},
+  keywordstyle=\color{blue}
+}
 \begin{document}
 
 \author{Jon Robison}
@@ -9,19 +14,19 @@
 \maketitle
 
 Q1. Download the 1000 URIs from assignment 2...remove formatting \\
-Large collection of files included in modified/ directory
+Large collection of files included in modified/ directory \\
 See Appendix A for download program
 \\*
 
 Q2. Choose a query term...to ten documents...compute TFIDF values for the term
 in each of the 10 documents. \\
-\verbatiminput{q2/results}%
+\lstinputlisting[language=R]{q2/results}
 See Appendix B for scripts to produce table
 \\*
 
 Q3. Now rank the same 10 URIs from question 2, but this time by their
 PageRank. \\
-\verbatiminput{q3/results}%
+\lstinputlisting[language=R]{q3/results}
 Briefly compare and contrast the rankings produced in questions 2
 and 3.
 
