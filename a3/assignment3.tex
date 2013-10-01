@@ -1,6 +1,7 @@
 \documentclass{article}
 \usepackage[pdftex]{graphicx}
 \usepackage{verbatim}
+\usepackage{listings}
 \begin{document}
 
 \author{Jon Robison}
@@ -34,12 +35,12 @@ page ranked, but I predict they would have linearly small results.
 \newpage
 \appendix
 Appendix A
-\verbatiminput{q1/download}%
+\lstinputlisting[language=bash,caption={Downloads via curl and lynxifies product to produce a more easily searchable/indexable file}]{q1/download}
 
 \newpage
 Appendix B
-\verbatiminput{q2/run}%
-\verbatiminput{q2/tfidf}%
-\verbatiminput{q2/copyTen}%
+\lstinputlisting[language=bash,caption={Control runscript to launch other utils}]{q2/run}
+\lstinputlisting[language=bash,caption={Script taking arguments to calculate single TFIDF}]{q2/tfidf}
+\lstinputlisting[language=bash,caption={Copied first ten files matching criteria passed in}]{q2/copyTen}
 
 \end{document} 
