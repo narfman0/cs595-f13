@@ -1,0 +1,66 @@
+\documentclass{article}
+\usepackage[pdftex]{graphicx}
+\usepackage{listings}
+\usepackage{xcolor}
+\lstset{basicstyle=\ttfamily,
+  showstringspaces=false,
+  commentstyle=\color{red},
+  keywordstyle=\color{blue}
+}
+\begin{document}
+
+\author{Jon Robison}
+\title{CS595 Assignment 4}
+\maketitle
+
+Q1. From your list of 1000 links, choose 100 and extract all of the links from
+those 100 pages to other pages...Upload these 100 files to github. \\
+Large collection of files included in results directory \\
+See Appendix A for download program
+\\*
+
+Q2. Using these 100 files, create a single GraphViz "dot" file of the resulting
+graph \\
+See Appendix B for script to produce plot \\
+See Appendix C for dot file
+\\*
+
+Q3. Download and install Gephi...Load the dot file created in \#2 and use Gephi
+to:\\
+- visualize the graph (you'll have to turn on labels)\\
+- calculate HITS and PageRank\\
+- avg degree\\
+- network diameter\\
+- connected components\\
+\graphicspath{{q3/}}
+\includegraphics[scale=.5]{graph.png} \\
+\graphicspath{{q3/avgDegree/}}
+\includegraphics[scale=.5]{degree-distribution.png} \\
+\includegraphics[scale=.5]{indegree-distribution.png} \\
+\includegraphics[scale=.5]{outdegree-distribution.png} \\
+\graphicspath{{q3/connected/}}
+\includegraphics[scale=.5]{cc-size-distribution.png} \\
+\graphicspath{{q3/diameter/}}
+\includegraphics[scale=.5]{ClosenessCentralityDistribution.png} \\
+\includegraphics[scale=.5]{BetweennessCentralityDistribution.png} \\
+\includegraphics[scale=.5]{EccentricityDistribution.png} \\
+\graphicspath{{q3/hits/}}
+\includegraphics[scale=.5]{authorities.png} \\
+\includegraphics[scale=.5]{hubs.png} \\
+\graphicspath{{q3/pagerank/}}
+\includegraphics[scale=.5]{pageranks.png} \\
+
+\newpage
+\appendix
+Appendix A
+\lstinputlisting[language=python]{q1/createLink.py}
+
+\newpage
+Appendix B
+\lstinputlisting[language=python]{q2/createGraph.py}
+
+\newpage
+Appendix C
+\lstinputlisting[language=R]{q2/graph.dot}
+
+\end{document} 
