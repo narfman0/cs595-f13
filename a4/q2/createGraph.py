@@ -13,6 +13,15 @@ def getPath():
 	else:
         	return sys.argv[1]
 
+#Returns integer representing the URI's node name
+def getURINodeName(uri):
+	global nodeNames
+	global current
+	if not uri in nodeNames:
+		nodeNames[uri] = current
+		current+=1
+	return nodeNames[uri]
+
 #create dot-friendly string for the file given in path
 def getDOTString(path):
 	i=0
@@ -21,9 +30,10 @@ def getDOTString(path):
 		for line in f:
 			if i == 1:
 				original=line.strip()
+				nodeName=getURINodeName(original)
 			elif i > 2:
-				outputAppend = original + ' -> ' + line.strip() + ';'
-				output=output + outputAppend + '\n'
+				outputAppend = str(getURINodeName(original)) + ' -> ' + str(getURINodeName(line.strip())) + ';'
+				output+=outputAppend + '\n'
 			i+=1
 	return output
 
@@ -35,7 +45,12 @@ def createDOT(path):
 			dotString=getDOTString(filepath)
 			o.write(dotString)
 			print('Processed ' + filepath + ': \n' + dotString)
+		for item in nodeNames.items():
+			o.write(str(item[1]) + '[label="' + item[0] + '"];\n')
 		o.write('}')
 
 path=getPath()
+nodeNames=dict()
+current=0
 createDOT(path)
+print('Finished!')
