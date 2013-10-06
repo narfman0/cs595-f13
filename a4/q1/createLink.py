@@ -28,7 +28,7 @@ def isValid(link):
 #dump the protocol for a given link
 def shortenURI(link):
 	o=urlparse(link)
-	return str(o.netloc)+str(o.path)
+	return str(o.netloc)+str(o.path)+str(o.params)+str(o.query)+str(o.fragment)
 
 #If relative URI, convert to full
 def getFullURI(link,sublink):
@@ -58,13 +58,14 @@ def writeResult(name,link):
 with open(path) as f:
 	i=0
 	for line in f:
-		link=line.strip()
-		try:
-			writeResult(str(i),link)
-			i+=1
-		except:
-			traceback.print_exc()
-			pass
-		if i >= COUNT:
-			print('Finished!')
-			sys.exit()
+		if "facebook" in line or "youtube" in line:
+			link=line.strip()
+			try:
+				writeResult(str(i),link)
+				i+=1
+			except:
+				traceback.print_exc()
+				pass
+			if i >= COUNT:
+				print('Finished!')
+				sys.exit()
