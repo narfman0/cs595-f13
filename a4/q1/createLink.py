@@ -3,6 +3,8 @@ import urllib.request
 from bs4 import BeautifulSoup
 from urllib.parse import urlparse
 import sys
+import traceback
+
 COUNT=100
 DEFAULT_FILE='../../a3/q1/links.txt'
 
@@ -23,13 +25,18 @@ def parse(link):
 def isValid(link):
 	return not '#' in link and not 'javascript' in link and not 'mailto' in link
 
+#dump the protocol for a given link
+def shortenURI(link):
+	o=urlparse(link)
+	return str(o.netloc)+str(o.path)
+
 #If relative URI, convert to full
 def getFullURI(link,sublink):
 	if sublink.startswith('/'):
 		netloc=str(urlparse(link).netloc).strip()
 		print('Found relative link, adding ' + netloc + ' to ' + sublink)
 		link=netloc+sublink
-	return link.strip()
+	return shortenURI(link)
 
 #Compute a single link and write to file name
 def writeResult(name,link):
@@ -44,7 +51,7 @@ def writeResult(name,link):
 				print('Found link ' + sublink)
 				s.add(sublink)
 	with open('results/' + name, 'w') as r:
-		r.write('site:\n' + link + '\nlinks:\n')
+		r.write('site:\n' + shortenURI(link) + '\nlinks:\n')
 		for sublink in s:
 			r.write(sublink + '\n')
 
@@ -56,6 +63,8 @@ with open(path) as f:
 			writeResult(str(i),link)
 			i+=1
 		except:
+			traceback.print_exc()
 			pass
 		if i >= COUNT:
+			print('Finished!')
 			sys.exit()
