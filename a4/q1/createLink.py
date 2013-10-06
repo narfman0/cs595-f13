@@ -4,10 +4,11 @@ from bs4 import BeautifulSoup
 from urllib.parse import urlparse
 import sys
 COUNT=100
+DEFAULT_FILE='../../a3/q1/links.txt'
 
 if len(sys.argv) != 2:
-	print('Please pass the path to your link file, defaulting to ../../a3/q1/links.txt')
-	path='../../a3/q1/links.txt'
+	print('Please pass the path to your link file, defaulting to ' + DEFAULT_FILE)
+	path=DEFAULT_FILE
 else:
 	path=sys.argv[1]
 
