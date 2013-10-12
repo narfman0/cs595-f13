@@ -30,7 +30,7 @@ for node in root.findall('node'):
         d[name]=friend_count
 
 print('Missing: ' + str(missing))
-with open('output.gnuplot', mode='w') as f:
+with open('gnuplot.dat', mode='w') as f:
     for entry in sorted(d.items(), key=lambda x: x[1]):
         value=str(entry[1])
         f.write(value + ' ' + value + '\n')
