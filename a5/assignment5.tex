@@ -1,4 +1,5 @@
 \documentclass{article}
+\usepackage{float}
 \usepackage[pdftex]{graphicx}
 \usepackage{listings}
 \usepackage{xcolor}
@@ -27,10 +28,10 @@ Average: 639.065843621 \\
 Std deviation: 465.913488086 \\
 Median: 535.0 \\
 \graphicspath{{q1/}}
-\begin{figure}
+\begin{figure}[H]
   \centering
-  \caption{Friend count}
-  \includegraphics[scale=.3]{scatter.png}
+  \caption{Facebook Friend Count}
+  \includegraphics[scale=.45]{scatter.png}
 \end{figure}
 \clearpage
 
@@ -39,10 +40,19 @@ Since Twitter is a directed graph, use ``followers'' as value you measure\\
 (i.e., ``do your followers have more followers than you?'').\\
 \\
 Generate the same graph as in question 1, and calcuate the same \\
-mean, standard deviation, and median values.\\
+mean, standard deviation, and median values.\\*
 
 See Appendix B for program\\
-\\*
+Average: 521.293532338\\
+Std deviation: 1264.46308524\\
+Median: 197.0\\
+\graphicspath{{q2/}}
+\begin{figure}[H]
+  \centering
+  \caption{Twitter Friend Count}
+  \includegraphics[scale=.45]{scatter.png}
+\end{figure}
+\clearpage
 
 Q3 EC. Repeat question 1, but with your LinkedIn profile\\
 \\*

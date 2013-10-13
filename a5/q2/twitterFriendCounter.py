@@ -1,5 +1,6 @@
 #!/bin/python3
 from __future__ import unicode_literals
+import numpy
 from numpy import array
 import requests
 from requests_oauthlib import OAuth1
