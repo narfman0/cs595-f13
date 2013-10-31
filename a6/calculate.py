@@ -4,14 +4,16 @@ import sys
 
 DEFAULT_FILE='karate.net'
 if len(sys.argv) != 2:
-        print('Pass the path to your graph file, defaulting to '+DEFAULT_FILE)
-        path=DEFAULT_FILE
+    print('Pass the path to your graph file, defaulting' +
+        ' to '+DEFAULT_FILE)
+    path=DEFAULT_FILE
 else:
         path=sys.argv[1]
 
 for x in range(2, 6):
     k = igraph.load(path)
-    vertexDendrogram = k.community_edge_betweenness(clusters=x, directed=False)
+    vertexDendrogram = k.community_edge_betweenness(
+        clusters=x, directed=False)
     vertexClustering = vertexDendrogram.as_clustering()
     print('Modularity: ' + str(vertexClustering.modularity))
     print(vertexClustering)

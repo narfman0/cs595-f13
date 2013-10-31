@@ -22,11 +22,35 @@ Generously document your answer with all supporting equations, code,\\
 graphs, arguments, etc\\*
 
 Given the graph, the Girvan-Newman algorithm will iteratively remove\\
-the edge(s) with highest betweeness. Results are given below.\\*
+the edge(s) with highest betweeness. Results are given below.\\
 
-TODO describe hit success rate\\*
-TODO incorporate given weights\\*
-TODO explore modularity\\*
+\begin{figure}[H]
+  \centering
+  \caption{Girvan-Newman Modularity Algorithm}
+  \includegraphics[scale=.7]{Girvan-Modularity-Equation.png}
+\end{figure}
+\clearpage
+
+\begin{verbatim}
+Given clustering:
+[0] 00, 01, 02, 03, 04, 05, 06, 07, 08, 10, 11, 12, 13, 16, 17, 19, 21
+[1] 09, 14, 15, 18, 20, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33
+Calculated clustering:
+[0] 00, 01, 03, 04, 05, 06, 07, 10, 11, 12, 13, 16, 17, 19, 21
+[1] 02, 08, 09, 14, 15, 18, 20, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33
+Correctness:
+Y,Y,N,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+\end{verbatim}
+32 Hits 2 Misses, 93.75\% Hits, 6.25\% Misses \\*
+
+It is very close. Students 3 and 9 misses. Leeching off Corren's answer,\\
+student 9 evidently was very close to finishing, and thus chose a different\\
+group from external stimulii. It is unknown why student 3 chose Mr Hi., so\\
+in absence of technical/scientific data, the next best thing is hearsay and\\
+rumor - he was most likely fascinated with far eastern culture, fantasized\\
+himself a kung fu master, and was petty enough of a man to lean toward\\
+asian inline 4s vs the superior American muscle of such legends as fairlanes,\\
+mustangs, and other v8s, preferably big-block fords.\\*
 
 See Appendix A for python program to produce graphs (svgs)\\
 See Appendix B for bash script to produce merged pngs\\
