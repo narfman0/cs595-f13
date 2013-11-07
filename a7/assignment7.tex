@@ -1,0 +1,47 @@
+\documentclass{article}
+\usepackage{float}
+\usepackage[pdftex]{graphicx}
+\usepackage{listings}
+\usepackage{xcolor}
+\lstset{basicstyle=\ttfamily,
+  showstringspaces=false,
+  commentstyle=\color{red},
+  keywordstyle=\color{blue}
+}
+\begin{document}
+
+\author{Jon Robison}
+\title{CS595 Assignment 7}
+\maketitle
+
+Q1. \\
+Using D3, create a graph of the Karate club before and after the split. \\
+Have the transition from before/after the split occur on a mouse click. \\*
+
+See Appendix A for code to generate json given to d3 \\
+See Appendix B for d3 code \\*
+
+\graphicspath{{q1/}}
+\begin{figure}[H]
+  \centering
+  \caption{Before}
+  \includegraphics[scale=.5]{before.png}
+\end{figure}
+\clearpage
+\begin{figure}[H]
+  \centering
+  \caption{After}
+  \includegraphics[scale=.5]{after.png}
+\end{figure}
+\clearpage
+
+\appendix
+\newpage
+Appendix A
+\lstinputlisting[language=python]{q1/translate.py}
+
+\newpage
+Appendix B
+\lstinputlisting[language=html]{q1/zachary.html}
+
+\end{document}

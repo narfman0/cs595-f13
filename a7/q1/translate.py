@@ -5,8 +5,9 @@ HEADER_LINES=8
 DEFAULT_INPUT='zachary.dat'
 DEFAULT_OUTPUT='zachary.json'
 if len(sys.argv) != 2:
-    print('Pass the path to your input dat then output json file. Defaulting '+
-        'to input:' + DEFAULT_INPUT + ' output:' + DEFAULT_OUTPUT)
+    print('Pass the path to your input dat then output json file. ' +
+        'Defaulting to input:' + DEFAULT_INPUT + ' output:' + 
+        DEFAULT_OUTPUT)
     input=DEFAULT_INPUT
     output=DEFAULT_OUTPUT
 else:
@@ -40,8 +41,9 @@ with open(output, 'w') as o:
             currentConnection=0
             for connection in currentPersonConnections:
                 if currentConnection > currentPerson and connection > 0:
-                    o.write('    {"source":'+str(currentPerson)+',"target":'+
-                        str(currentConnection)+',"value":'+str(connection)+'},\n')
+                    o.write('    {"source":' + str(currentPerson) + ',
+                        "target":' + str(currentConnection) + ',"value":' +
+                        str(connection)+'},\n')
                 currentConnection+=1
             currentPerson+=1
     o.write('  ]\n}')
