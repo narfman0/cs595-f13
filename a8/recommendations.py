@@ -201,9 +201,20 @@ def getMoviesAverageScore(prefs):
     return sorted(movies.items(), key=lambda x: x[1])
 
 def getTop5Movies(prefs):
-    top5=()
+    top5=[]
     sortedTuples=getMoviesAverageScore(prefs)
     length=len(sortedTuples)
     for x in range(length-5, length):
-        top5 = top5 + sortedTuples[x]
+        top5 += sortedTuples[x]
+    return top5
+
+def getTop5MovieRatingCounts(prefs):
+    top5=[]
+    movies=getMovieRatings(prefs)
+    for movie in movies.keys():
+        movies[movie]=len(movies[movie])
+    sortedTuples=sorted(movies.items(), key=lambda x: x[1])
+    length=len(sortedTuples)
+    for x in range(length-5, length):
+        top5 += sortedTuples[x]
     return top5
