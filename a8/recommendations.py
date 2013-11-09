@@ -2,6 +2,7 @@
 # A dictionary of movie critics and their ratings of a small
 # set of movies
 from math import sqrt
+import operator
 
 critics={'Lisa Rose': {'Lady in the Water': 2.5, 'Snakes on a Plane': 3.5,
  'Just My Luck': 3.0, 'Superman Returns': 3.5, 'You, Me and Dupree': 2.5,
@@ -178,3 +179,31 @@ def loadMovieLens(path='.'):
     prefs.setdefault(user,{})
     prefs[user][movies[movieid]]=float(rating)
   return prefs
+  
+# Return dictionary of movies with all their scores
+def getMovieRatings(prefs):
+    movies={}
+    for user in prefs.keys():
+        for movie in prefs[user].keys():
+            if not movie in movies:
+                movies[movie]=[]
+            movies[movie].append(prefs[user][movie])
+    return movies
+
+# Get movies sorted by their average score
+def getMoviesAverageScore(prefs):
+    movies=getMovieRatings(prefs)
+    for movie in movies.keys():
+        score=0
+        for rating in movies[movie]:
+            score += rating
+        movies[movie]=score/len(movies[movie])
+    return sorted(movies.items(), key=lambda x: x[1])
+
+def getTop5Movies(prefs):
+    top5=()
+    sortedTuples=getMoviesAverageScore(prefs)
+    length=len(sortedTuples)
+    for x in range(length-5, length):
+        top5 = top5 + sortedTuples[x]
+    return top5
