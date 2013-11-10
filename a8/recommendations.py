@@ -228,6 +228,16 @@ def getTop5MoviesWomen(prefs):
 def getTop5MoviesMen(prefs):
     return getTop5(getMoviesAverageScore(prefs, 'M'))
 
+def getSimilarRatings(prefs,movie,similar,n=2000):
+    itemPrefs=transformPrefs(prefs)
+    matches=topMatches(itemPrefs,movie,n=n,similarity=sim_distance)
+    sortedMatches=sorted(matches, key=lambda x: x[0])
+    if similar:
+        result=sortedMatches[len(sortedMatches)-1]
+    else:
+        result=sortedMatches[0]
+    return result[::-1]
+
 def getTop5MovieRatingCounts(prefs):
     top5=[]
     movies=getMovieRatings(prefs, 'A')

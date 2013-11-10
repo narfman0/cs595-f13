@@ -10,7 +10,9 @@ def stringify(movieData):
     return string
 
 prefs=recommendations.loadMovieLens()
-print('Top 5 average score movies:\n' + stringify(recommendations.getTop5Movies(prefs)))
-print('Top 5 movie rating counts:\n' + stringify(recommendations.getTop5MovieRatingCounts(prefs)))
-print('Top 5 movie rating by women:\n' + stringify(recommendations.getTop5MoviesWomen(prefs)))
-print('Top 5 movie rating by men:\n' + stringify(recommendations.getTop5MoviesMen(prefs)))
+#print 'Top 5 average score movies:\n' + stringify(recommendations.getTop5Movies(prefs))
+#print 'Top 5 movie rating counts:\n' + stringify(recommendations.getTop5MovieRatingCounts(prefs))
+#print 'Top 5 movie rating by women:\n' + stringify(recommendations.getTop5MoviesWomen(prefs))
+#print 'Top 5 movie rating by men:\n' + stringify(recommendations.getTop5MoviesMen(prefs))
+#print 'Most similar ot Top Gun: ' + stringify(recommendations.getSimilarRatings(prefs,"Top Gun (1986)",True))
+#print 'Least similar ot Top Gun: ' + stringify(recommendations.getSimilarRatings(prefs,"Top Gun (1986)",False))
