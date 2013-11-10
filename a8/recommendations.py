@@ -21,6 +21,7 @@ critics={'Lisa Rose': {'Lady in the Water': 2.5, 'Snakes on a Plane': 3.5,
 'Jack Matthews': {'Lady in the Water': 3.0, 'Snakes on a Plane': 4.0,
  'The Night Listener': 3.0, 'Superman Returns': 5.0, 'You, Me and Dupree': 3.5},
 'Toby': {'Snakes on a Plane':4.5,'You, Me and Dupree':1.0,'Superman Returns':4.0}}
+users={}
 
 # Returns a distance-based similarity score for person1 and person2
 def sim_distance(prefs,person1,person2):
@@ -166,6 +167,8 @@ def getRecommendedItems(prefs,itemMatch,user):
   return rankings
 
 def loadMovieLens(path='.'):
+  global users
+  
   # Get movie titles
   movies={}
   for line in open(path+'/u.item'):
@@ -178,21 +181,29 @@ def loadMovieLens(path='.'):
     (user,movieid,rating,ts)=line.split('\t')
     prefs.setdefault(user,{})
     prefs[user][movies[movieid]]=float(rating)
+    
+  for line in open(path+'/u.user'):
+    (user,age,gender,tite,zip)=line.split('|')
+    users[user]=(user,age,gender,tite,zip)
   return prefs
-  
+ 
 # Return dictionary of movies with all their scores
-def getMovieRatings(prefs):
+#Gender can be 0 for any, 1 for men, 2 for women
+def getMovieRatings(prefs, gender):
+    global users
     movies={}
     for user in prefs.keys():
-        for movie in prefs[user].keys():
-            if not movie in movies:
-                movies[movie]=[]
-            movies[movie].append(prefs[user][movie])
+        ugender=users[user][2]
+        if gender is 'A' or (ugender is 'F' and gender is 'F') or (ugender is 'M' and gender is 'M'):
+            for movie in prefs[user].keys():
+                if not movie in movies:
+                    movies[movie]=[]
+                movies[movie].append(prefs[user][movie])
     return movies
 
 # Get movies sorted by their average score
-def getMoviesAverageScore(prefs):
-    movies=getMovieRatings(prefs)
+def getMoviesAverageScore(prefs, gender):
+    movies=getMovieRatings(prefs, gender)
     for movie in movies.keys():
         score=0
         for rating in movies[movie]:
@@ -200,17 +211,26 @@ def getMoviesAverageScore(prefs):
         movies[movie]=score/len(movies[movie])
     return sorted(movies.items(), key=lambda x: x[1])
 
-def getTop5Movies(prefs):
+#Given the sorted list (prefs), return top 5
+def getTop5(sortedMovies):
     top5=[]
-    sortedTuples=getMoviesAverageScore(prefs)
-    length=len(sortedTuples)
+    length=len(sortedMovies)
     for x in range(length-5, length):
-        top5 += sortedTuples[x]
+        top5 += sortedMovies[x]
     return top5
+
+def getTop5Movies(prefs):
+    return getTop5(getMoviesAverageScore(prefs, 'A'))
+
+def getTop5MoviesWomen(prefs):
+    return getTop5(getMoviesAverageScore(prefs, 'F'))
+
+def getTop5MoviesMen(prefs):
+    return getTop5(getMoviesAverageScore(prefs, 'M'))
 
 def getTop5MovieRatingCounts(prefs):
     top5=[]
-    movies=getMovieRatings(prefs)
+    movies=getMovieRatings(prefs, 'A')
     for movie in movies.keys():
         movies[movie]=len(movies[movie])
     sortedTuples=sorted(movies.items(), key=lambda x: x[1])
