@@ -228,6 +228,13 @@ def getTop5MoviesWomen(prefs):
 def getTop5MoviesMen(prefs):
     return getTop5(getMoviesAverageScore(prefs, 'M'))
 
+def getTop5Raters(prefs):
+    raters={}
+    for user in prefs.keys():
+        raters[user]=len(prefs[user])
+    ratersSorted=sorted(raters.items(), key=lambda x: x[1])
+    return getTop5(ratersSorted)
+
 def getSimilarRatings(prefs,movie,similar,n=2000):
     itemPrefs=transformPrefs(prefs)
     matches=topMatches(itemPrefs,movie,n=n,similarity=sim_distance)
