@@ -194,7 +194,8 @@ def getMovieRatings(prefs, gender):
     movies={}
     for user in prefs.keys():
         ugender=users[user][2]
-        if gender is 'A' or (ugender is 'F' and gender is 'F') or (ugender is 'M' and gender is 'M'):
+        if (gender is 'A' or (ugender is 'F' and gender is 'F') or 
+            (ugender is 'M' and gender is 'M')):
             for movie in prefs[user].keys():
                 if not movie in movies:
                     movies[movie]=[]
@@ -216,7 +217,7 @@ def getTop5(sortedMovies):
     top5=[]
     length=len(sortedMovies)
     for x in range(length-5, length):
-        top5 += sortedMovies[x]
+        top5.append(sortedMovies[x])
     return top5
 
 def getTop5Movies(prefs):
@@ -253,5 +254,19 @@ def getTop5MovieRatingCounts(prefs):
     sortedTuples=sorted(movies.items(), key=lambda x: x[1])
     length=len(sortedTuples)
     for x in range(length-5, length):
-        top5 += sortedTuples[x]
+        top5.append(sortedTuples[x])
     return top5
+
+def get5SimilarRaters(prefs,n=5):
+    results=[]
+    for user in prefs.keys():
+        for target in prefs.keys():
+            if user != target:
+                simPearsonScore=sim_pearson(prefs, user, target)
+                if (len(results) < n or simPearsonScore > results[0][2] and 
+                        not (target,user,simPearsonScore) in results):
+                    results.append((user,target,simPearsonScore))
+                    if len(results) > n:
+                        results.remove(results[0])
+                    results=sorted(results, key=lambda x: x[2])
+    return results
