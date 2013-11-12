@@ -196,10 +196,10 @@ def getMovieRatings(prefs, gender='A', age='A'):
     for user in prefs.keys():
         ugender=users[user][2]
         uage=int(users[user][1])
-        isGender=(gender is 'A' or (ugender is 'F' and gender is 'F') or 
-            (ugender is 'M' and gender is 'M'))
-        isAge=True if age=='A' or ((uage < 40 and age =='U') or 
-                                   (uage > 40 and age=='O')) else False
+        isGender=(gender=='A' or (ugender is 'F' and gender is 'F') or 
+                                 (ugender is 'M' and gender is 'M'))
+        isAge=(age=='A' or (uage < 40 and age =='U') or 
+                           (uage > 40 and age=='O'))
         if isGender and isAge:
             for movie in prefs[user].keys():
                 if not movie in movies:
@@ -218,22 +218,22 @@ def getMoviesAverageScore(prefs, gender='A', age='A'):
     return sorted(movies.items(), key=lambda x: x[1])
 
 #Given the sorted list (prefs), return top 5
-def getTop5(sortedMovies):
-    top5=[]
+def getTop(sortedMovies,n=5):
+    top=[]
     length=len(sortedMovies)
-    for x in range(length-5, length):
-        top5.append(sortedMovies[x])
-    return top5
+    for x in range(length-n, length):
+        top.append(sortedMovies[x])
+    return top
 
-def getTop5Movies(prefs, gender='A', age='A'):
-    return getTop5(getMoviesAverageScore(prefs, gender, age))
+def getTopMovies(prefs, gender='A', age='A'):
+    return getTop(getMoviesAverageScore(prefs, gender, age))
 
-def getTop5Raters(prefs):
+#Return folks with most ratings
+def getTopRaters(prefs):
     raters={}
     for user in prefs.keys():
         raters[user]=len(prefs[user])
-    ratersSorted=sorted(raters.items(), key=lambda x: x[1])
-    return getTop5(ratersSorted)
+    return getTop(sorted(raters.items(), key=lambda x: x[1]))
 
 def getSimilarRatings(prefs,movie,similar,n=2000):
     itemPrefs=transformPrefs(prefs)
@@ -245,13 +245,13 @@ def getSimilarRatings(prefs,movie,similar,n=2000):
         result=sortedMatches[0]
     return result[::-1]
 
-def getTop5MovieRatingCounts(prefs):
-    movies=getMovieRatings(prefs, 'A')
+def getTopMovieRatingCounts(prefs):
+    movies=getMovieRatings(prefs)
     for movie in movies.keys():
         movies[movie]=len(movies[movie])
-    return getTop5(sorted(movies.items(), key=lambda x: x[1]))
+    return getTop(sorted(movies.items(), key=lambda x: x[1]))
 
-def get5SimilarRaters(prefs,n=5,similar=True):
+def getSimilarRaters(prefs,n=5,similar=True):
     results=[]
     for user in prefs.keys():
         for target in prefs.keys():
