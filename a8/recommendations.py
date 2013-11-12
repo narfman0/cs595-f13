@@ -189,7 +189,7 @@ def loadMovieLens(path='.'):
  
 # Return dictionary of movies with all their scores
 #Gender can be 0 for any, 1 for men, 2 for women
-def getMovieRatings(prefs, gender):
+def getMovieRatings(prefs, gender='A'):
     global users
     movies={}
     for user in prefs.keys():
@@ -247,26 +247,23 @@ def getSimilarRatings(prefs,movie,similar,n=2000):
     return result[::-1]
 
 def getTop5MovieRatingCounts(prefs):
-    top5=[]
     movies=getMovieRatings(prefs, 'A')
     for movie in movies.keys():
         movies[movie]=len(movies[movie])
-    sortedTuples=sorted(movies.items(), key=lambda x: x[1])
-    length=len(sortedTuples)
-    for x in range(length-5, length):
-        top5.append(sortedTuples[x])
-    return top5
+    return getTop5(sorted(movies.items(), key=lambda x: x[1]))
 
-def get5SimilarRaters(prefs,n=5):
+def get5SimilarRaters(prefs,n=5,similar=True):
     results=[]
     for user in prefs.keys():
         for target in prefs.keys():
             if user != target:
-                simPearsonScore=sim_pearson(prefs, user, target)
-                if (len(results) < n or simPearsonScore > results[0][2] and 
-                        not (target,user,simPearsonScore) in results):
-                    results.append((user,target,simPearsonScore))
+                score=sim_pearson(prefs, user, target)
+                if ((len(results) < n or ( (similar and score > results[0][2]) or 
+                    (not similar and score < results[n-1][2]))) and 
+                        not (target,user,score) in results):
+                    results.append((user,target,score))
                     if len(results) > n:
-                        results.remove(results[0])
+                        index = 0 if similar else n-1
+                        results.remove(results[index])
                     results=sorted(results, key=lambda x: x[2])
     return results
