@@ -1,0 +1,135 @@
+\documentclass{article}
+\usepackage{float}
+\usepackage[pdftex]{graphicx}
+\usepackage{listings}
+\usepackage{xcolor}
+\lstset{basicstyle=\ttfamily,
+  showstringspaces=false,
+  commentstyle=\color{red},
+  keywordstyle=\color{blue}
+}
+\begin{document}
+
+\author{Jon Robison}
+\title{CS595 Assignment 8}
+\maketitle
+
+Q1. \\
+See Appendix A for changes to recommendations.py\\
+See Appendix B for driver.py\\*
+
+1.  What 5 movies have the highest average ratings? Show the movies\\
+and their ratings sorted by their average ratings.\\*
+\begin{tabular}{ l r }
+Marlene Dietrich: Shadow and Light (1996) & 5.0 \\
+Aiqing wansui (1994) & 5.0 \\
+Prefontaine (1997) & 5.0 \\
+Great Day in Harlem, A (1994) & 5.0 \\
+Santa with Muscles (1996) & 5.0 \\
+\end{tabular}
+\\*
+
+2.  What 5 movies received the most ratings? Show the movies and\\
+the number of ratings sorted by number of ratings.\\*
+\begin{tabular}{ l r }
+Liar Liar (1997)& 485 \\
+Return of the Jedi (1983) & 507 \\
+Fargo (1996) & 508 \\
+Contact (1997) & 509 \\
+Star Wars (1977) & 583 \\
+\end{tabular}
+\\*
+
+3.  What 5 movies were rated the highest on average by women? Show\\
+the movies and their ratings sorted by ratings.\\*
+\begin{tabular}{ l r }
+Mina Tannenbaum (1994) & 5.0 \\
+Year of the Horse (1997) & 5.0 \\
+Foreign Correspondent (1940) & 5.0 \\
+Telling Lies in America (1997) & 5.0 \\
+Prefontaine (1997) & 5.0 \\
+\end{tabular}
+\\*
+
+4.  What 5 movies were rated the highest on average by men? Show\\
+the movies and their ratings sorted by ratings.\\*
+\begin{tabular}{ l r }
+Love Serenade (1996) & 5.0 \\
+Leading Man, The (1996) & 5.0 \\
+Great Day in Harlem, A (1994) & 5.0 \\
+Delta of Venus (1994) & 5.0 \\
+Santa with Muscles (1996) & 5.0 \\
+\end{tabular}
+\\*
+
+5.  What movie received ratings most like Top Gun? Which movie\\
+received ratings that were least like Top Gun (negative correlation)?\\*
+Babyfever (1994), 1.0\\
+Wooden Man's Bride, The (Wu Kui) (1994), 0
+\\*
+
+6.  Which 5 raters rated the most films? Show the raters' IDs and\\
+the number of films each rated.\\*
+\begin{tabular}{ l r }
+276 & 516 \\
+450 & 538 \\
+13 & 632 \\
+655 & 678 \\
+405 & 736 \\
+\end{tabular}
+\\*
+
+7.  Which 5 raters most agreed with each other? Show the raters'\\
+IDs and Pearson's r, sorted by r.\\*
+\begin{tabular}{ l c r }
+341 & 143 & 1.0 \\
+810 & 135 & 1.0 \\
+813 & 756 & 1.0 \\
+349 & 46 & 1.0 \\
+889 & 772 & 1.0 \\
+\end{tabular}
+\\*
+
+8.  Which 5 raters most disagreed with each other (negative\\
+correlation)? Show the raters' IDs and Pearson's r, sorted by r.\\*
+\begin{tabular}{ l c r }
+60 & 872 & -1.0 \\
+793 & 412 & -1.0 \\
+344 & 598 & -1.0 \\
+340 & 203 & -1.0 \\
+340 & 68 & -1.0 \\
+\end{tabular}
+\\*
+
+9.  What movie was rated highest on average by men over 40? By men\\
+under 40?\\*
+\begin{tabular}{ l r }
+Prefontaine (1997) & 5.0 \\
+Grateful Dead (1995) & 5.0 \\
+Marlene Dietrich: Shadow and Light (1996) & 5.0 \\
+Faithful (1996) & 5.0 \\
+Hearts and Minds (1996) & 5.0 \\
+\end{tabular}
+\\*
+
+10. What movie was rated highest on average by women over 40? By\\
+women under 40?\\*
+\begin{tabular}{ l r }
+Love Serenade (1996) & 5.0 \\
+Leading Man, The (1996) & 5.0 \\
+Crossfire (1947) & 5.0 \\
+Santa with Muscles (1996) & 5.0 \\
+Delta of Venus (1994) & 5.0 \\
+\end{tabular}
+\\*
+
+\appendix
+\newpage
+Appendix A
+\lstinputlisting[language=python]{recommendations.py}
+
+\newpage
+Appendix B
+\lstinputlisting[language=python]{driver.py}
+
+\end{document}
