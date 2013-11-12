@@ -188,14 +188,19 @@ def loadMovieLens(path='.'):
   return prefs
  
 # Return dictionary of movies with all their scores
-#Gender can be 0 for any, 1 for men, 2 for women
-def getMovieRatings(prefs, gender='A'):
+#Gender can be A for all, M for men, F for female
+#Age can be A for all, U for under 40, O for over 40
+def getMovieRatings(prefs, gender='A', age='A'):
     global users
     movies={}
     for user in prefs.keys():
         ugender=users[user][2]
-        if (gender is 'A' or (ugender is 'F' and gender is 'F') or 
-            (ugender is 'M' and gender is 'M')):
+        uage=int(users[user][1])
+        isGender=(gender is 'A' or (ugender is 'F' and gender is 'F') or 
+            (ugender is 'M' and gender is 'M'))
+        isAge=True if age=='A' or ((uage < 40 and age =='U') or 
+                                   (uage > 40 and age=='O')) else False
+        if isGender and isAge:
             for movie in prefs[user].keys():
                 if not movie in movies:
                     movies[movie]=[]
@@ -203,8 +208,8 @@ def getMovieRatings(prefs, gender='A'):
     return movies
 
 # Get movies sorted by their average score
-def getMoviesAverageScore(prefs, gender):
-    movies=getMovieRatings(prefs, gender)
+def getMoviesAverageScore(prefs, gender='A', age='A'):
+    movies=getMovieRatings(prefs, gender, age)
     for movie in movies.keys():
         score=0
         for rating in movies[movie]:
@@ -220,14 +225,8 @@ def getTop5(sortedMovies):
         top5.append(sortedMovies[x])
     return top5
 
-def getTop5Movies(prefs):
-    return getTop5(getMoviesAverageScore(prefs, 'A'))
-
-def getTop5MoviesWomen(prefs):
-    return getTop5(getMoviesAverageScore(prefs, 'F'))
-
-def getTop5MoviesMen(prefs):
-    return getTop5(getMoviesAverageScore(prefs, 'M'))
+def getTop5Movies(prefs, gender='A', age='A'):
+    return getTop5(getMoviesAverageScore(prefs, gender, age))
 
 def getTop5Raters(prefs):
     raters={}
