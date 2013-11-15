@@ -217,12 +217,21 @@ def getMoviesAverageScore(prefs, gender='A', age='A'):
         movies[movie]=score/len(movies[movie])
     return sorted(movies.items(), key=lambda x: x[1])
 
+#Return last value in a tuple
+def getItemScore(item):
+    return item[len(item)-1]
+
+def getItemScoreReverse(top,x=1):
+    return getItemScore(top[len(top)-x])
+
 #Given the sorted list (prefs), return top 5
 def getTop(sortedMovies,n=5):
     top=[]
     length=len(sortedMovies)
-    for x in range(length-n, length):
-        top.append(sortedMovies[x])
+    i=0
+    while i < n or getItemScoreReverse(top) == getItemScore(sortedMovies[length-1-i]):
+        top.append(sortedMovies[length-1-i])
+        i+=1
     return top
 
 def getTopMovies(prefs, gender='A', age='A'):
@@ -237,13 +246,9 @@ def getTopRaters(prefs):
 
 def getSimilarRatings(prefs,movie,similar,n=2000):
     itemPrefs=transformPrefs(prefs)
-    matches=topMatches(itemPrefs,movie,n=n,similarity=sim_distance)
-    sortedMatches=sorted(matches, key=lambda x: x[0])
-    if similar:
-        result=sortedMatches[len(sortedMatches)-1]
-    else:
-        result=sortedMatches[0]
-    return result[::-1]
+    matches=topMatches(itemPrefs,movie,n=n,similarity=sim_pearson)
+    sortedMatches=sorted(matches, key=lambda x: x[0], reverse=similar)
+    return getTop(sortedMatches[::-1],1)
 
 def getTopMovieRatingCounts(prefs):
     movies=getMovieRatings(prefs)

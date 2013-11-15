@@ -7,7 +7,9 @@ def stringify(movieData):
     for item in movieData:
         for x in range(0,len(item)):
             string+=str(item[x]) + ' '
-        string+='\n'
+            if x < len(item)-1:
+                string+= ' & '
+        string+='\\\\\n'
     return string + '\n'
 
 prefs=recommendations.loadMovieLens()

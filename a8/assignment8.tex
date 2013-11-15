@@ -14,18 +14,22 @@
 \title{CS595 Assignment 8}
 \maketitle
 
-Q1. \\
 See Appendix A for changes to recommendations.py\\
 See Appendix B for driver.py\\*
 
 1.  What 5 movies have the highest average ratings? Show the movies\\
 and their ratings sorted by their average ratings.\\*
 \begin{tabular}{ l r }
-Marlene Dietrich: Shadow and Light (1996) & 5.0 \\
-Aiqing wansui (1994) & 5.0 \\
-Prefontaine (1997) & 5.0 \\
-Great Day in Harlem, A (1994) & 5.0 \\
-Santa with Muscles (1996) & 5.0 \\
+Santa with Muscles (1996)  & 5.0 \\
+Great Day in Harlem, A (1994)  & 5.0 \\
+Prefontaine (1997)  & 5.0 \\
+Aiqing wansui (1994)  & 5.0 \\
+Marlene Dietrich: Shadow and Light (1996)   & 5.0 \\
+Entertaining Angels: The Dorothy Day Story (1996)  & 5.0 \\
+Star Kid (1997)  & 5.0 \\
+Saint of Fort Washington, The (1993)  & 5.0 \\
+Someone Else's America (1995)  & 5.0 \\
+They Made Me a Criminal (1939)  & 5.0 \\
 \end{tabular}
 \\*
 
@@ -43,29 +47,48 @@ Star Wars (1977) & 583 \\
 3.  What 5 movies were rated the highest on average by women? Show\\
 the movies and their ratings sorted by ratings.\\*
 \begin{tabular}{ l r }
-Mina Tannenbaum (1994) & 5.0 \\
-Year of the Horse (1997) & 5.0 \\
-Foreign Correspondent (1940) & 5.0 \\
-Telling Lies in America (1997) & 5.0 \\
-Prefontaine (1997) & 5.0 \\
+Prefontaine (1997)  & 5.0 \\
+Telling Lies in America (1997)  & 5.0 \\
+Foreign Correspondent (1940)  & 5.0 \\
+Year of the Horse (1997)  & 5.0 \\
+Mina Tannenbaum (1994)  & 5.0 \\
+Maya Lin: A Strong Clear Vision (1994)  & 5.0 \\
+Visitors, The (Visiteurs, Les) (1993)  & 5.0 \\
+Everest (1998)  & 5.0 \\
+Faster Pussycat! Kill! Kill! (1965)  & 5.0 \\
+Someone Else's America (1995)  & 5.0 \\
+Stripes (1981)  & 5.0 \\
 \end{tabular}
 \\*
 
 4.  What 5 movies were rated the highest on average by men? Show\\
 the movies and their ratings sorted by ratings.\\*
 \begin{tabular}{ l r }
-Love Serenade (1996) & 5.0 \\
-Leading Man, The (1996) & 5.0 \\
-Great Day in Harlem, A (1994) & 5.0 \\
-Delta of Venus (1994) & 5.0 \\
-Santa with Muscles (1996) & 5.0 \\
+Santa with Muscles (1996)  & 5.0 \\
+Delta of Venus (1994)  & 5.0 \\
+Great Day in Harlem, A (1994)  & 5.0 \\
+Leading Man, The (1996)  & 5.0 \\
+Love Serenade (1996)  & 5.0 \\
+Prefontaine (1997)  & 5.0 \\
+Aiqing wansui (1994)  & 5.0 \\
+Little City (1998)  & 5.0 \\
+Marlene Dietrich: Shadow and Light (1996)   & 5.0 \\
+Entertaining Angels: The Dorothy Day Story (1996)  & 5.0 \\
+Star Kid (1997)  & 5.0 \\
+Quiet Room, The (1996)  & 5.0 \\
+Saint of Fort Washington, The (1993)  & 5.0 \\
+Letter From Death Row, A (1998)  & 5.0 \\
+They Made Me a Criminal (1939)  & 5.0 \\
 \end{tabular}
 \\*
 
 5.  What movie received ratings most like Top Gun? Which movie\\
 received ratings that were least like Top Gun (negative correlation)?\\*
-Babyfever (1994), 1.0\\
-Wooden Man's Bride, The (Wu Kui) (1994), 0
+This bit was interesting, as I had some floating point errors. There\\
+were several returned with 1, but the rounding error must mean something,\\
+thus I left it.\\
+Most similar ot Top Gun: 1.0000000000000027, Shiloh (1997)\\
+Least similar ot Top Gun: -1.0000000000000007, Babysitter, The (1995)\\
 \\*
 
 6.  Which 5 raters rated the most films? Show the raters' IDs and\\
@@ -82,11 +105,11 @@ the number of films each rated.\\*
 7.  Which 5 raters most agreed with each other? Show the raters'\\
 IDs and Pearson's r, sorted by r.\\*
 \begin{tabular}{ l c r }
-341 & 143 & 1.0 \\
-810 & 135 & 1.0 \\
-813 & 756 & 1.0 \\
-349 & 46 & 1.0 \\
-889 & 772 & 1.0 \\
+341  & 143  & 1.0 \\
+810  & 135  & 1.0 \\
+813  & 756  & 1.0 \\
+349  & 46  & 1.0 \\
+889  & 772  & 1.0 \\
 \end{tabular}
 \\*
 
@@ -100,26 +123,113 @@ correlation)? Show the raters' IDs and Pearson's r, sorted by r.\\*
 340 & 68 & -1.0 \\
 \end{tabular}
 \\*
-
+\newpage
 9.  What movie was rated highest on average by men over 40? By men\\
 under 40?\\*
-\begin{tabular}{ l r }
-Prefontaine (1997) & 5.0 \\
-Grateful Dead (1995) & 5.0 \\
-Marlene Dietrich: Shadow and Light (1996) & 5.0 \\
-Faithful (1996) & 5.0 \\
-Hearts and Minds (1996) & 5.0 \\
-\end{tabular}
-\\*
 
+Over 40:\\
+\begin{tabular}{ l r }
+Hearts and Minds (1996)  & 5.0 \\
+Faithful (1996)  & 5.0 \\
+Marlene Dietrich: Shadow and Light (1996)   & 5.0 \\
+Grateful Dead (1995)  & 5.0 \\
+Prefontaine (1997)  & 5.0 \\
+World of Apu, The (Apur Sansar) (1959)  & 5.0 \\
+Rendezvous in Paris (Rendez-vous de Paris, Les) (1995)  & 5.0 \\
+Ace Ventura: When Nature Calls (1995)  & 5.0 \\
+Solo (1996)  & 5.0 \\
+Aparajito (1956)  & 5.0 \\
+Double Happiness (1994)  & 5.0 \\
+Little Princess, The (1939)  & 5.0 \\
+Strawberry and Chocolate (Fresa y chocolate) (1993)  & 5.0 \\
+Late Bloomers (1996)  & 5.0 \\
+Leading Man, The (1996)  & 5.0 \\
+Great Day in Harlem, A (1994)  & 5.0 \\
+Little City (1998)  & 5.0 \\
+Star Kid (1997)  & 5.0 \\
+They Made Me a Criminal (1939)  & 5.0 \\
+Poison Ivy II (1995)  & 5.0 \\
+Boxing Helena (1993)  & 5.0 \\
+Unstrung Heroes (1995)  & 5.0 \\
+Two or Three Things I Know About Her (1966)  & 5.0 \\
+Indian Summer (1996)  & 5.0 \\
+Spice World (1997)  & 5.0 \\
+\end{tabular}
+\newpage
+Under 40:\\
+\begin{tabular}{ l r }
+Delta of Venus (1994)  & 5.0 \\
+Santa with Muscles (1996)  & 5.0 \\
+Crossfire (1947)  & 5.0 \\
+Leading Man, The (1996)  & 5.0 \\
+Love Serenade (1996)  & 5.0 \\
+Prefontaine (1997)  & 5.0 \\
+Aiqing wansui (1994)  & 5.0 \\
+Love in the Afternoon (1957)  & 5.0 \\
+Angel Baby (1995)  & 5.0 \\
+Maya Lin: A Strong Clear Vision (1994)  & 5.0 \\
+Entertaining Angels: The Dorothy Day Story (1996)  & 5.0 \\
+Star Kid (1997)  & 5.0 \\
+Magic Hour, The (1998)  & 5.0 \\
+Quiet Room, The (1996)  & 5.0 \\
+Saint of Fort Washington, The (1993)  & 5.0 \\
+Perfect Candidate, A (1996)  & 5.0 \\
+Letter From Death Row, A (1998)  & 5.0 \\
+\end{tabular}
+
+\newpage
 10. What movie was rated highest on average by women over 40? By\\
 women under 40?\\*
+
+Over 40:\\
 \begin{tabular}{ l r }
-Love Serenade (1996) & 5.0 \\
-Leading Man, The (1996) & 5.0 \\
-Crossfire (1947) & 5.0 \\
-Santa with Muscles (1996) & 5.0 \\
-Delta of Venus (1994) & 5.0 \\
+Shallow Grave (1994)  & 5.0 \\
+Shall We Dance? (1937)  & 5.0 \\
+In the Bleak Midwinter (1995)  & 5.0 \\
+Visitors, The (Visiteurs, Les) (1993)  & 5.0 \\
+Ma vie en rose (My Life in Pink) (1997)  & 5.0 \\
+Swept from the Sea (1997)  & 5.0 \\
+Best Men (1997)  & 5.0 \\
+Foreign Correspondent (1940)  & 5.0 \\
+Balto (1995)  & 5.0 \\
+Wrong Trousers, The (1993)  & 5.0 \\
+Funny Face (1957)  & 5.0 \\
+Quest, The (1996)  & 5.0 \\
+Tombstone (1993)  & 5.0 \\
+Bride of Frankenstein (1935)  & 5.0 \\
+Angel Baby (1995)  & 5.0 \\
+Great Dictator, The (1940)  & 5.0 \\
+Band Wagon, The (1953)  & 5.0 \\
+Letter From Death Row, A (1998)  & 5.0 \\
+Mina Tannenbaum (1994)  & 5.0 \\
+Top Hat (1935)  & 5.0 \\
+Mary Shelley's Frankenstein (1994)  & 5.0 \\
+Gold Diggers: The Secret of Bear Mountain (1995)  & 5.0 \\
+Nightmare Before Christmas, The (1993)  & 5.0 \\
+Grand Day Out, A (1992)  & 5.0 \\
+Pocahontas (1995)  & 5.0 \\
+Safe (1995)  & 5.0 \\
+\end{tabular}
+\newpage
+Under 40:\\
+\begin{tabular}{ l r }
+Backbeat (1993)  & 5.0 \\
+Prefontaine (1997)  & 5.0 \\
+Telling Lies in America (1997)  & 5.0 \\
+Year of the Horse (1997)  & 5.0 \\
+Mina Tannenbaum (1994)  & 5.0 \\
+Maya Lin: A Strong Clear Vision (1994)  & 5.0 \\
+Nico Icon (1995)  & 5.0 \\
+Umbrellas of Cherbourg, The (Parapluies de Cherbourg, Les) (1964)  & 5.0 \\
+Everest (1998)  & 5.0 \\
+Heaven's Prisoners (1996)  & 5.0 \\
+Wedding Gift, The (1994)  & 5.0 \\
+Faster Pussycat! Kill! Kill! (1965)  & 5.0 \\
+Horseman on the Roof, The (Hussard sur le toit, Le) (1995)  & 5.0 \\
+Grace of My Heart (1996)  & 5.0 \\
+Someone Else's America (1995)  & 5.0 \\
+Don't Be a Menace to South Central While Drinking Your Juice in the Hood (1996)  & 5.0 \\
+Stripes (1981)  & 5.0 \\
 \end{tabular}
 \\*
 
