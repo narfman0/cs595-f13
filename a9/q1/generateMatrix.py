@@ -11,7 +11,7 @@ def clean(words):
     return pattern.sub('', words).lower()
 
 def getCounts(url,totals):
-    s=set()
+    s={}
     feed=feedparser.parse(url)
     for entry in feed.entries:
         words = ''
@@ -21,26 +21,34 @@ def getCounts(url,totals):
             words += ' ' + entry.summary
         else:
             print('No title or summary for URL: ' + url)
-        s.update([clean(word) for word in words.split(' ') if word!=''])
-    for word in s:
-        totals[word]=1+totals.get(word,0)
+        for word in words.split(' '):
+            cleanedWord=clean(word)
+            if cleanedWord != '':
+                s[cleanedWord]=1+s.get(cleanedWord,0)
+    for word in s.keys():
+        totals[word]=s[word]+totals.get(word, 0)
     return s
 
 totals={}
 urlCounts={}
+i=0
 with open('atoms.txt') as f:
-    for url in f.readlines():
-        s=getCounts(url, totals)
-        urlCounts[url]=s
-totalTuples=sorted(totals.items(), key=lambda x: x[1])
+    for line in f.readlines():
+        url=line.strip()
+        urlCounts[url]=getCounts(url, totals)
+        i+=1
+        print('Finished URL ' + str(i) + ' ' + url)
+totalTuples=sorted(totals.items(), key=lambda x: x[1],reverse=True)[0:COUNT]
+print('Top results: ' + str(totalTuples))
 with open('blogdata.txt','w') as f:
-    for word in totalTuples[0:COUNT]:
-        f.write(word[0] + ' ')
+    for word in totalTuples:
+        f.write(' ' + word[0])
+    f.write('\n')
     for url in urlCounts.keys():
         f.write(url)
-        for word in totalTuples[0:COUNT]:
-            if word in urlCounts[url]:
-                f.write(' ' + str(urlCounts[url][word]))
+        for word in totalTuples:
+            if word[0] in urlCounts[url]:
+                f.write(' ' + str(urlCounts[url][word[0]]))
             else:
                 f.write(' 0')
         f.write('\n')
