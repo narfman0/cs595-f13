@@ -35,6 +35,6 @@ def addNext(url,s):
 s=set()
 while len(s) < count:
     addNext(url,s)
-with open('atoms.txt', 'w') as f:
+with open('feedlist.txt', 'w') as f:
     for atom in s:
         f.write(atom + '\n')
