@@ -23,7 +23,8 @@ def read(classifier,titleClassification):
       try:
         classifier.insert(i, title, feature, predictedCategory, category, cp)
       except:
-        print('Fail for values')
+        print('Failed classifier insert for ' + title)
+        traceback.print_exc()
     print('#' + str(i) + ' Title: ' + title + ' Feature: ' + feature + ' Predicted: ' + predictedCategory + 
           ' Actual: ' + category + ' CProb: ' + str(cp))  
     i+=1
