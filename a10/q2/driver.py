@@ -7,6 +7,7 @@ DATABASE_NAME='sqlite.db'
 
 def read(classifier,titleClassification):
   i=1
+  predictionList=[]
   for title,body,feature,category in titleClassification:
     try:
       predictedCategory=str(classifier.classify(body))
@@ -16,17 +17,27 @@ def read(classifier,titleClassification):
       sys.exit(0)
     if(i <= len(titleClassification)/2):
       classifier.train(body, category)
-      classifier.insert(i, title, None, predictedCategory, category, None)
       cp=-1
     else:
       cp=round(classifier.cprob(feature,predictedCategory),3)
-      try:
-        classifier.insert(i, title, feature, predictedCategory, category, cp)
-      except:
-        print('Fail for values')
-    print('#' + str(i) + ' Title: ' + title + ' Feature: ' + feature + ' Predicted: ' + predictedCategory + 
-          ' Actual: ' + category + ' CProb: ' + str(cp))  
+    print('#' + str(i) + ' Title: ' + title + ' Feature: ' + feature + 
+          ' Predicted: ' + predictedCategory + 
+          ' Actual: ' + category + ' CProb: ' + str(cp))
+    predictionList.append((title, feature, predictedCategory, category, cp),)
     i+=1
+  return predictionList
+
+def tex(string):
+  return '\\tiny ' + string.replace('&','\&').replace('#','\#')
+
+def writeClassificationResultsLatex(predictionList):
+  with open('classificationResults.tex', 'w') as f:
+    f.write('\\begin{tabular}{ l l l l l }\n')
+    f.write('\\tiny Title & \\tiny Feature & \\tiny Predicted & \\tiny Category & \\tiny CP \\\\ \n')
+    for title, feature, predictedCategory, category, cp in predictionList:
+      f.write(tex(title) + '&' + tex(feature) + '&' + tex(predictedCategory) + 
+              '&' + tex(category) + '&' + tex(str(cp)) + '\\\\ \n')
+    f.write('\\end{tabular}\n')
 
 if __name__ == '__main__':
   try:
@@ -41,7 +52,9 @@ if __name__ == '__main__':
       try:
         title,body,feature,category=entry.split('|')
         title=title.strip().replace("'",'')
-        titleClassificationDict.append((title,body,feature.strip(),category.strip()),)
+        titleClassificationDict.append((title,body,feature.strip(),
+                                        category.strip()),)
       except:
         print('Error parsing entry: ' + str(entry))
-  read(classifier,titleClassificationDict)
+  predictionList=read(classifier,titleClassificationDict)
+  writeClassificationResultsLatex(predictionList)

@@ -25,14 +25,8 @@ class classifier:
     
   def setdb(self,dbfile):
     self.con=sqlite.connect(dbfile)
-    self.con.execute('create table if not exists rss(num, entry, feature, predicted, actual, cprob)')
     self.con.execute('create table if not exists fc(feature,category,count)')
     self.con.execute('create table if not exists cc(category,count)')
-
-  def insert (self,num, entry, feature, predicted, actual, cp):
-    self.con.execute("insert into rss values ('%s','%s', '%s', '%s','%s', '%s')"
-                     % (num, entry, feature, predicted, actual, cp))
-    self.con.commit()   
     
   ## Increase the count of a feature/category pair
   def incf(self,f,cat):
