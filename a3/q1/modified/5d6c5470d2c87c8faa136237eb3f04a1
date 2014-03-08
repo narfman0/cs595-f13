@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<title>TwitLonger &mdash; When you talk too much for Twitter</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<meta name="keywords" content="twitlonger, twit longer, twitter longer, twitterlonger, tweet longer, tweetlonger, 140, over 140, twitter, more than 140">
+		<meta name="description" content="TwitLonger is the easy way to post more than 140 characters to Twitter">
+		<meta name="viewport" content="width=768">
+		<link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+		<link rel="stylesheet" type="text/css" href="/css/tl.css">
+		<link href='http://fonts.googleapis.com/css?family=Josefin+Sans&v2' rel='stylesheet' type='text/css'>
+
+		<!--[if IE]>
+			<script type="text/javascript">
+				document.createElement('nav');
+				document.createElement('article');
+				document.createElement('aside');
+				document.createElement('details');
+				document.createElement('figcaption');
+				document.createElement('figure');
+				document.createElement('footer');
+				document.createElement('header');
+				document.createElement('hgroup');
+				document.createElement('menu');
+				document.createElement('section');
+
+			</script>
+		<![endif]-->
+		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+		<script type="text/javascript">
+		  $( document ).ready(function() {
+		 	  $("#flasherror").click(function(e){
+  		 	  $("#flasherror").fadeOut(500);
+		 	  });
+		 	  $("#flashmessage").click(function(e){
+  		 	  $("#flashmessage").fadeOut(500);
+		 	  });
+		  });
+		</script>
+ 	</head>
+	<body id="www-twitlonger-com">
+		<div id="page">
+			<header>
+				<h1><a href="/">TwitLonger</a></h1>
+			</header>
+						
+<div class="post">
+  <div id="postinfo">
+    <a href="https://twitter.com/intent/user?screen_name=Nellie_1983">
+    <span id="avatar">
+      <img src="http://a0.twimg.com/profile_images/1104356360/157667482_normal.jpg" alt="Nellie_1983" height="73px" width="73px">
+    </span>
+    <h2 id="postauthor">Dannelle Mickles @Nellie_1983</h2>
+    </a>
+		<p id="timeclient">
+		  25th September 2013 from <a href="http://www.handmark.com/company/apps/tweetcaster/android.php">TweetCaster</a>		</p>
+		<div id="chicklets">
+		  <div id="like">
+  		  <iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.twitlonger.com%2Fshow%2Fmnn5gp&amp;layout=box_count&amp;show_faces=false&amp;width=160&amp;action=like&amp;colorscheme=light&amp;height=65" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:60px; height:65px;" allowTransparency="true"></iframe>
+		  </div>
+			<script src="http://platform.twitter.com/widgets.js" type="text/javascript"></script>
+			<div id="twittercount">
+  			<a href="http://twitter.com/share" class="twitter-share-button"
+				  data-url="http://tl.gd/mnn5gp"
+  				data-via="Nellie_1983"
+					data-count="vertical"
+					data-counturl="http://www.twitlonger.com/show/mnn5gp"
+					data-text="Yikes lol RT @jscottarrasmith: @cowboysRT. Fuck the cowboys.... I was a fan for 20 plus years.... th">Tweet</a>
+		  </div>
+    </div>
+  </div>
+
+      <div id="topbannerad" class="bannerad">
+<script type='text/javascript'>
+<!--//<![CDATA[
+   document.MAX_ct0 ='';
+   var m3_u = (location.protocol=='https:'?'https://cas.criteo.com/delivery/ajs.php?':'http://cas.criteo.com/delivery/ajs.php?');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("zoneid=51451");document.write("&amp;nodis=1");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if ((typeof(document.MAX_ct0) != 'undefined') && (document.MAX_ct0.substring(0,4) == 'http')) {
+       document.write ("&amp;ct0=" + escape(document.MAX_ct0));
+   }
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'></scr"+"ipt>");
+//]]>--></script>
+</div>  
+  <article>
+    <p id="postcontent">
+      Yikes lol RT @jscottarrasmith: @cowboysRT. Fuck the cowboys.... I was a fan for 20 plus years.... they have done nothing but destroy my dreams... #GoRams    </p>
+
+    <p>
+  		<span id="postactions">
+  		  <a href="http://tl.gd/mnn5gp">http://tl.gd/mnn5gp</a> &#183; <a href="http://www.twitlonger.com/post/Nellie_1983">Reply</a><br>
+  			<a href="mailto:hello@twitlonger.com?subject=TwitLonger Content Violation&amp;body=I believe this page includes inappropriate content: http://tl.gd/mnn5gp for the following reason.">Report post</a> (<a href="http://www.twitlonger.com/about#suitable" title="What content should you report posts for">?</a>)
+  		</span>
+    </p>
+  </article>
+</div>
+  <div id="bottombannerad" class="bannerad">
+<script type='text/javascript'>
+<!--//<![CDATA[
+   document.MAX_ct0 ='';
+   var m3_u = (location.protocol=='https:'?'https://cas.criteo.com/delivery/ajs.php?':'http://cas.criteo.com/delivery/ajs.php?');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("zoneid=53524");document.write("&amp;nodis=1");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if ((typeof(document.MAX_ct0) != 'undefined') && (document.MAX_ct0.substring(0,4) == 'http')) {
+       document.write ("&amp;ct0=" + escape(document.MAX_ct0));
+   }
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'></scr"+"ipt>");
+//]]>--></script>
+</div>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script type="text/javascript">
+  $( document ).ready(function() {
+    $.ajaxSetup({ cache: true });
+    $.getScript('/js/twitter-text.js', function(data, textStatus, jqxhr){
+      $("#postcontent").html( twttr.txt.autoLink( $("#postcontent").html() ) );
+    });
+  });
+</script>
+
+      <footer>
+  		  <menu>
+    		  <ul>
+      		  <li><a href="/">home</a></li>
+      		  <li><a href="/about">about</a></li>
+      		  <li><a href="/privacy">privacy</a></li>
+      		  <li><a href="/api">api</a></li>
+      		  <li><a href="/advertise">advertise</a></li>
+      		</ul>
+        </menu>
+
+  			<p id="disclaimer">
+    			TwitLonger is developed and run entirely by <a href="http://imetstuart.com">Stuart Gibson</a>
+    			(<a href="http://www.twitter.com/stuartgibson">@stuartgibson</a>).
+  				Twitlonger is in no way associated with Twitter, but they sure do a swell job over there &hearts;
+  		  </p>
+  		</footer>
+		</div><!-- End of #page -->
+
+		<!-- Google Analytics -->
+		<script type="text/javascript">
+  		var _gaq = _gaq || [];
+  		_gaq.push(['_setAccount', 'UA-6415384-2']);
+  		_gaq.push(['_trackPageview']);
+
+  		  		  		_gaq.push(['_setCustomVar',
+                  1,
+                  'Posted from App',
+                  'TweetCaster',
+                  3
+                  ]);
+      
+  		(function() {
+    		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+    </script>
+		<!-- End of Google Analytics -->
+
+		<!-- Start Quantcast tag -->
+		<script type="text/javascript">
+			_qoptions={
+			qacct:"p-36Yyaza0UpNew"
+			};
+		</script>
+		<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+		<noscript>
+			<img src="http://pixel.quantserve.com/pixel/p-36Yyaza0UpNew.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
+		</noscript>
+		<!-- End Quantcast tag -->
+  </body>
+</html>

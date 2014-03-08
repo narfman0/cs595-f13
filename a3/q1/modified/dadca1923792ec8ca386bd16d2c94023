@@ -1,0 +1,511 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="es" xml:lang="es">
+<head id="Head1"><meta content="text/html; charset=windows-1252" http-equiv="Content-Type" /><meta name="owner" content="TalCualDigital.com" /><meta name="keywords" content="Noticias, Política, Venezuela, Caracas, artículos de opinión, artículos de política, editoriales, análisis, análisis de noticias de política, caricaturas,información nacional,información internacional,mundo,ambiente,economía,la nación,negocios,cultura,educación,deportes,salud,espectáculos,ciencias,tecnología,ciudad,Teodoro Petkoff, talcual,talcualdigital,tal cual" /><meta name="language" content="es" /><meta name="GOOGLEBOT" content="index,follow" /><meta name="robots" content="follow,index" /><meta http-equiv="cache-control" content="no-cache" /><meta http-equiv="pragma" content="no-cache" /><meta http-equiv="refresh" content="1800" /><title>
+	TalCualDigital.com: No aparecen
+</title><link rel="shortcut icon" href="http://www.talcualdigital.com/favicon.ico" />
+    <link href="/recursos/estilos/estilo.css?201309260716"" rel="stylesheet" type="text/css" />
+    <link href="/recursos/estilos/estilonota.css" rel="stylesheet" type="text/css" />
+    <script src="/recursos/scripts/jquery-1.6.4.min.js" type="text/javascript"></script>
+    <script src="/recursos/scripts/jquery-ui-1.8.13.custom.min.js" type="text/javascript"></script>
+    <script src="/recursos/scripts/jquery.ba-outside-events.js" type="text/javascript"></script>
+    <script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js"></script>
+    <script src="/recursos/scripts/fullpage.js?201309260716" type="text/javascript"></script>
+    <script type="text/javascript">
+        GS_googleAddAdSenseService("ca-pub-2096713321811693");
+        GS_googleEnableAllServices();
+    </script>
+
+
+    <script type="text/javascript">
+    GA_googleAddSlot("ca-pub-2096713321811693", "Talcual_home_Content_Colum1_336x280");
+    GA_googleAddSlot("ca-pub-2096713321811693", "Talcual_home_top_Cento_960x90");
+    GA_googleAddSlot("ca-pub-2096713321811693", "Talcual_home_Colum3_300x250_1");
+    GA_googleAddSlot("ca-pub-2096713321811693", "Talcual_home_Colum3_300x250_2");
+    GA_googleAddSlot("ca-pub-2096713321811693", "Talcual_home_Colum3_300x250_3");
+    GA_googleAddSlot("ca-pub-2096713321811693", "Talcual_home_UpGaleria728x90");
+    GA_googleAddSlot("ca-pub-2096713321811693", "Talcual_home_Colum3_210x90_1");
+    GA_googleAddSlot("ca-pub-2096713321811693", "Talcual_home_Colum3_210x90_2");
+    GA_googleAddSlot("ca-pub-2096713321811693", "Talcual_Internas_topRight_210x90_1");
+    GA_googleAddSlot("ca-pub-2096713321811693", "Talcual_Internas_Right1_300x250");
+    GA_googleAddSlot("ca-pub-2096713321811693", "Talcual_Internas_Right2_300x250");
+    GA_googleAddSlot("ca-pub-2096713321811693", "Talcual_Interna_Contenido_234x60_1");
+    GA_googleAddSlot("ca-pub-2096713321811693", "Talcual_Interna_Contenido_234x60_2");
+    GA_googleAddSlot("ca-pub-2096713321811693", "Talcual_Internas_Content_center1_468x60");
+    GA_googleAddSlot("ca-pub-2096713321811693", "Talcual_Internas_Content_center2_468x60");
+    GA_googleAddSlot("ca-pub-2096713321811693", "Talcual_Internas_top_Middle_728x90");
+    GA_googleAddSlot("ca-pub-2096713321811693", "Talcual_nota_Right1_300x250");
+    GA_googleFetchAds();
+</script>
+
+
+    
+    <script type="text/javascript">
+    $(document).ready(function () {
+        function losmas(vls) {
+            switch (vls) {
+                case 1:
+                    $("#lmhead").removeClass("masVistas");
+                    $("#lmhead").removeClass("masComent");
+                    $("#lmhead").addClass("loUltimo");
+
+                    $("#lmascontent").html($("#lutimoC").html());
+                    break;
+                case 2:
+                    $("#lmhead").removeClass("loUltimo");
+                    $("#lmhead").removeClass("masComent");
+                    $("#lmhead").addClass("masVistas");
+
+                    $("#lmascontent").html($("#mVistasC").html());
+                    break;
+                case 3:
+                    $("#lmhead").removeClass("loUltimo");
+                    $("#lmhead").removeClass("masVistas");
+                    $("#lmhead").addClass("masComent");
+
+                    $("#lmascontent").html($("#mComentC").html());
+                    break;
+            }
+            return false;
+        }
+    });
+
+    </script>
+    
+    <script src="/recursos/scripts/contadorCaracteres.js" type="text/javascript"></script>
+    <script src="/recursos/scripts/jquery.printElement.min.js" type="text/javascript"></script>
+    <script type="text/javascript">
+        $(function () { $.ajaxSetup({ cache: false }); });
+        $(document).ready(function () {
+
+            $("span.fb_share_no_count").each(function () {
+
+                $(this).removeClass("fb_share_no_count");
+                $(".fb_share_count_inner", this).html("0");
+
+            });
+            $("span.fb_share_count_wrapper").each(function () {
+                $(".fb_share_count", this).removeClass("fb_share_count").addClass("fb_share_count2");
+                $(".fb_share_count_nub_top", this).removeClass("fb_share_count_nub_top");
+                $(".fb_share_count_inner", this).removeClass("fb_share_count_inner");
+                $(".fb_share_count_top", this).removeClass("fb_share_count_top").addClass("fb_share_count_top2");
+                /*$(".FBConnectButton_Text", this).html("");*/
+                $(".FBConnectButton_Text", this).removeClass("FBConnectButton_Text");
+                $(this).removeClass("fb_share_count_wrapper");
+                $(this).addClass("box_num_count");
+
+            });
+
+            $("span.FBConnectButton").each(function () {
+                $(".FBConnectButton_Text", this).html(" ");
+                $(".FBConnectButton_Text", this).removeClass("FBConnectButton_Text");
+                $(this).removeClass("FBConnectButton_Small");
+                $(this).removeClass("FBConnectButton");
+                $(this).addClass("imgredes");
+                $(this).addClass("imgredes_face");
+            });
+
+            $.ajax({
+                dataType: "jsonp",
+                data: "",
+                url: "http://urls.api.twitter.com/1/urls/count.json?url=" + encodeURIComponent(location.href) + "",
+                success: function (json) { $("#tweetboxbutton").html(json.count); }
+            });
+            $('.imgtool_send').click(function (e) {
+                e.preventDefault();
+                var $this = $(this);
+                var hrefsend = "Enviar.aspx?id=92526";
+                var widthiframe = 590;
+                var heightiframe = 220;
+                var horizontalPadding = 15;
+                var verticalPadding = 15;
+                $('<iframe id="site" src="' + hrefsend + '" />').dialog({
+                    title: ($this.attr('title')) ? $this.attr('title') : 'Enviar',
+                    autoOpen: true,
+                    width: widthiframe,
+                    height: heightiframe,
+                    modal: true,
+                    resizable: false,
+                    autoResize: true,
+                    /*close: function (event, ui) { window.location.href = window.location.href; },*/
+                    overlay: {
+                        opacity: 0.5,
+                        background: "black"
+                    }
+                }).width(widthiframe - horizontalPadding).height(heightiframe - verticalPadding);
+            });
+
+
+
+            var tamOriginal = $('#mainPlaceHolder_ContentContenidocolum1_contenidoVnota').css('font-size');
+            // Incrementar el tamaño de la fuente
+            $(".imgtool_mas").click(function () {
+                var tamActual = $('#mainPlaceHolder_ContentContenidocolum1_contenidoVnota').css('font-size');
+                var tamActualNum = parseFloat(tamActual, 10);
+                var nuevaFuente = tamActualNum * 1.2;
+                $('#mainPlaceHolder_ContentContenidocolum1_contenidoVnota').css('font-size', nuevaFuente);
+                return false;
+            });
+            // Disminuir el tamaño de la fuente
+            $(".imgtool_menos").click(function () {
+                var tamActual = $('#mainPlaceHolder_ContentContenidocolum1_contenidoVnota').css('font-size');
+                var tamActualNum = parseFloat(tamActual, 10);
+                var nuevaFuente = tamActualNum * 0.8;
+                $('#mainPlaceHolder_ContentContenidocolum1_contenidoVnota').css('font-size', nuevaFuente);
+                return false;
+            });
+            $('.imgtool_print').click(function () {
+                window.print();
+            });
+
+        });
+
+    </script>
+
+
+
+
+<script type="text/javascript">
+
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-2607709-4']);
+    _gaq.push(['_trackPageview']);
+
+    (function () {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+
+</script>
+
+<meta name="description" content="Reinician la búsqueda de los cadáveres de dos personas desaparecidas en el naufragio del crucero Costa Concordia ocurrido en enero de 2012 frente a la isla de Giglio, en Italia " /></head>
+<body>
+    <form method="post" action="visor.aspx?id=92526&amp;tipo=AVA" id="form1">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMzk4Nzg4Mzk1D2QWAmYPZBYCZg9kFgICAw9kFg4CAw8WAh4JaW5uZXJodG1sBZACPGEgY2xhc3M9IlJlZ2lzdCIgaHJlZj0iL3JlY3Vyc29zL0hlcnJhbWllbnRhcy9SZWdpc3Ryby5hc3B4IiBzdHlsZT0iY3Vyc29yOnBvaW50ZXI7IiA+UmVnaXN0cm88L2E+IC8vIDxhIGNsYXNzPSJMb2dJbiIgaHJlZj0iL3JlY3Vyc29zL0hlcnJhbWllbnRhcy9sb2dpbi5hc3B4Ij5JbmljaW8gc2VzacOzbjwvYT4gLy8gPGEgY2xhc3M9IkNvbnRhY3RvIiBocmVmPSIvcmVjdXJzb3MvSGVycmFtaWVudGFzL2NvbnRhY3Rlbm9zLmFzcHgiPkNvbnQmYWFjdXRlO2N0ZW5vczwvYT5kAgcPFgIfAAUtPGI+Q0FSQUNBUzwvYj4sIGp1ZXZlcyAyNiBkZSBzZXB0aWVtYnJlLCAyMDEzZAIJDxYCHwAF9wk8ZGl2IGNsYXNzPSJtZW51UGl0ZW0gbWVudVBpdGVtVVMiPjxhIGhyZWY9Ii8iPkluaWNpbzwvYT48L2Rpdj48ZGl2IGNsYXNzPSJtZW51U2VwIj48L2Rpdj48ZGl2IGNsYXNzPSJtZW51UGl0ZW0gbWVudVBpdGVtVVMiPjxhIGhyZWY9Ii9zZWNjaW9uLmFzcHg/aWQ9ODkiPkVkaXRvcmlhbDwvYT48L2Rpdj48ZGl2IGNsYXNzPSJtZW51U2VwIj48L2Rpdj48ZGl2IGNsYXNzPSJtZW51UGl0ZW0gbWVudVBpdGVtVVMiPjxhIGhyZWY9Ii9zZWNjaW9uLmFzcHg/aWQ9MjgiPkxhIE5hY2nDs248L2E+PC9kaXY+PGRpdiBjbGFzcz0ibWVudVNlcCI+PC9kaXY+PGRpdiBjbGFzcz0ibWVudVBpdGVtIG1lbnVQaXRlbVVTIj48YSBocmVmPSIvc2VjY2lvbi5hc3B4P2lkPTEiPk11bmRvPC9hPjwvZGl2PjxkaXYgY2xhc3M9Im1lbnVTZXAiPjwvZGl2PjxkaXYgY2xhc3M9Im1lbnVQaXRlbSBtZW51UGl0ZW1VUyI+PGEgaHJlZj0iL3NlY2Npb24uYXNweD9pZD0zIj5FY29ub23DrWE8L2E+PC9kaXY+PGRpdiBjbGFzcz0ibWVudVNlcCI+PC9kaXY+PGRpdiBjbGFzcz0ibWVudVBpdGVtIG1lbnVQaXRlbVVTIj48YSBocmVmPSIvc2VjY2lvbi5hc3B4P2lkPTQ0Ij5PcGluacOzbjwvYT48L2Rpdj48ZGl2IGNsYXNzPSJtZW51U2VwIj48L2Rpdj48ZGl2IGNsYXNzPSJtZW51UGl0ZW0gbWVudVBpdGVtVVMiPjxhIGhyZWY9Ii9zZWNjaW9uLmFzcHg/aWQ9OSI+RGVwb3J0ZXM8L2E+PC9kaXY+PGRpdiBjbGFzcz0ibWVudVNlcCI+PC9kaXY+PGRpdiBjbGFzcz0ibWVudVBpdGVtIG1lbnVQaXRlbVVTIj48YSBocmVmPSIvc2VjY2lvbi5hc3B4P2lkPTQiPkNpdWRhZDwvYT48L2Rpdj48ZGl2IGNsYXNzPSJtZW51U2VwIj48L2Rpdj48ZGl2IGNsYXNzPSJtZW51UGl0ZW0gbWVudVBpdGVtVVMiPjxhIGhyZWY9Ii9zZWNjaW9uLmFzcHg/aWQ9NyI+RW50cmV0ZW5pbWllbnRvPC9hPjwvZGl2PjxkaXYgY2xhc3M9Im1lbnVTZXAiPjwvZGl2PjxkaXYgY2xhc3M9Im1lbnVQaXRlbSBtZW51UGl0ZW1VUyI+PGEgaHJlZj0iL3NlY2Npb24uYXNweD9pZD0xMCI+U2FsdWQ8L2E+PC9kaXY+PGRpdiBjbGFzcz0ibWVudVNlcCI+PC9kaXY+PGRpdiBjbGFzcz0ibWVudVBpdGVtIG1lbnVQaXRlbVVTIj48YSBocmVmPSIvc2VjY2lvbi5hc3B4P2lkPTg3Ij5HRU5URTwvYT48L2Rpdj48ZGl2IGNsYXNzPSJtZW51U2VwIj48L2Rpdj48ZGl2IGNsYXNzPSJtZW51UGl0ZW0gbWVudVBpdGVtVVMiPjxhIGhyZWY9Ii9zZWNjaW9uLmFzcHg/aWQ9MTMiPlRlY25vbG9nw61hPC9hPjwvZGl2PmQCCw8WAh8ABcAEDQogICAgICAgIDxkaXYgY2xhc3M9InRlbWFzVHRsIj5UZW1hcyBkZWwgZCZpYWN1dGU7YTwvZGl2Pg0KICAgIDxkaXYgY2xhc3M9InRlbWFzQ29udGEiPjxhIGhyZWY9Ii9UZW1hcy5hc3B4P1RhZz1WaWFqZStkZStNYWR1cm8iPlZpYWplIGRlIE1hZHVybzwvYT48L2Rpdj48ZGl2IGNsYXNzPSJ0ZW1hc0NvbnRhIj48YSBocmVmPSIvVGVtYXMuYXNweD9UYWc9TWFzYWNyZStlbitLZW5pYSI+TWFzYWNyZSBlbiBLZW5pYTwvYT48L2Rpdj48ZGl2IGNsYXNzPSJ0ZW1hc0NvbnRhIj48YSBocmVmPSIvVGVtYXMuYXNweD9UYWc9Q2FwcmlsZXMiPkNhcHJpbGVzPC9hPjwvZGl2PjxkaXYgY2xhc3M9InRlbWFzQ29udGEiPjxhIGhyZWY9Ii9UZW1hcy5hc3B4P1RhZz1PTlUiPk9OVTwvYT48L2Rpdj48ZGl2IGNsYXNzPSJ0ZW1hc0NvbnRhIj48YSBocmVmPSIvVGVtYXMuYXNweD9UYWc9SW5zZWd1cmlkYWQiPkluc2VndXJpZGFkPC9hPjwvZGl2PjxkaXYgY2xhc3M9InRlbWFzQ29udGEiPjxhIGhyZWY9Ii9UZW1hcy5hc3B4P1RhZz1DcmlzaXMrdW5pdmVyc2l0YXJpYSI+Q3Jpc2lzIHVuaXZlcnNpdGFyaWE8L2E+PC9kaXY+ZAIND2QWBmYPZBYQAgEPFgIfAAVJPGRpdiBjbGFzcz0ic2VjTm90YXMiPk11bmRvPHNwYW4gY2xhc3M9ImNvbW1zIj4gfCAyNC8wOS8yMDEzPC9zcGFuPjwvZGl2PmQCAw8WAh8ABQtObyBhcGFyZWNlbmQCBQ8WAh8ABbUBUmVpbmljaWFuIGxhIGLDunNxdWVkYSBkZSBsb3MgY2Fkw6F2ZXJlcyBkZSBkb3MgcGVyc29uYXMgZGVzYXBhcmVjaWRhcyBlbiBlbCBuYXVmcmFnaW8gZGVsIGNydWNlcm8gQ29zdGEgQ29uY29yZGlhIG9jdXJyaWRvIGVuIGVuZXJvIGRlIDIwMTIgZnJlbnRlIGEgbGEgaXNsYSBkZSBHaWdsaW8sIGVuIEl0YWxpYSANCmQCBw8WAh8AZWQCCQ8WAh8ABZ4CPGRpdj48aW1nIGFsdD0iIiBjbGFzcz0iaW1nR0QiIHNyYz0iaHR0cDovL3RhbGN1YWxkaWdpdGFsLmNvbS9zZ2MvbXVsdGltZWRpYS9JbWFnZW4vMjAxMy8wOS8xNzA2MENydWNlcm8gLmpwZyIgLz48ZGl2IHN0eWxlPSJib3JkZXItdG9wOjFweCBzb2xpZCAjZGFkYWRhOyBjb2xvcjojMWQ0Njk2OyBmb250LXNpemU6MTJweDsgcGFkZGluZzoxMHB4OyI+PHNwYW4gc3R5bGU9ImNvbG9yOiMxZDQ2OTY7IGZvbnQtc2l6ZToxMnB4O2Rpc3BsYXk6bm9uZTsiPkNydWNlcm8gPC9zcGFuPjwvZGl2PjwvZGl2PmQCCw8WAh4Fc3R5bGUFUmZsb2F0OmxlZnQ7bWFyZ2luLXJpZ2h0OjEwcHg7d2lkdGg6MzE2cHg7Ym9yZGVyOjFweCBzb2xpZCAjZGFkYWRhO21hcmdpbi10b3A6LTFweDsWBgIDDw8WAh4EVGV4dAWJATxhIG5hbWU9ImZiX3NoYXJlIiB0eXBlPSJib3hfY291bnQiPjwvYT48c2NyaXB0IHNyYz0iaHR0cDovL3N0YXRpYy5hay5mYmNkbi5uZXQvY29ubmVjdC5waHAvanMvRkIuU2hhcmUiIHR5cGU9InRleHQvamF2YXNjcmlwdCI+PC9zY3JpcHQ+ZGQCBQ8WAh8ABQEwZAIHDxYCHwAFATBkAg0PFgIfAAWAODxwIHN0eWxlPSJ0ZXh0LWFsaWduOiBqdXN0aWZ5OyI+PHNwYW4gc3R5bGU9InRleHQtdHJhbnNmb3JtOiBub25lOyB0ZXh0LWluZGVudDogMHB4OyBkaXNwbGF5OiBpbmxpbmUgIWltcG9ydGFudDsgZm9udDogMTNweCBBcmlhbCwgJ0JpdHN0cmVhbSBWZXJhIFNhbnMnLCBIZWx2ZXRpY2EsIHNhbnMtc2VyaWY7IHdoaXRlLXNwYWNlOiBub3JtYWw7IGZsb2F0OiBub25lOyBsZXR0ZXItc3BhY2luZzogbm9ybWFsOyBjb2xvcjogIzMzMzMzMzsgd29yZC1zcGFjaW5nOiAwcHg7IC13ZWJraXQtdGV4dC1zdHJva2Utd2lkdGg6IDBweDsiPkxhIGImdWFjdXRlO3NxdWVkYSBwYXJhIGludGVudGFyIGhhbGxhciBsb3MgY2FkJmFhY3V0ZTt2ZXJlcyBkZSBkb3MgcGVyc29uYXMgZGVzYXBhcmVjaWRhcyBlbiBlbCBuYXVmcmFnaW8gZGVsIGNydWNlcm8gIkNvc3RhIENvbmNvcmRpYSIsIGVuIGVuZXJvIGRlIDIwMTIgZnJlbnRlIGEgbGEgaXNsYSBkZSBHaWdsaW8sIGVtcGV6YXJvbiBlc3RlIG1hcnRlcyBwb3IgbGEgbWEmbnRpbGRlO2FuYSwgaW5kaWNhcm9uIG1lZGlvcyBkZSBwcmVuc2EgaXRhbGlhbm9zLjxzcGFuIGNsYXNzPSJBcHBsZS1jb252ZXJ0ZWQtc3BhY2UiPiZuYnNwOzwvc3Bhbj48L3NwYW4+PGJyIHN0eWxlPSJ0ZXh0LXRyYW5zZm9ybTogbm9uZTsgdGV4dC1pbmRlbnQ6IDBweDsgbWFyZ2luOiAwcHg7IGZvbnQ6IDEzcHggQXJpYWwsICdCaXRzdHJlYW0gVmVyYSBTYW5zJywgSGVsdmV0aWNhLCBzYW5zLXNlcmlmOyB3aGl0ZS1zcGFjZTogbm9ybWFsOyBsZXR0ZXItc3BhY2luZzogbm9ybWFsOyBjb2xvcjogIzMzMzMzMzsgd29yZC1zcGFjaW5nOiAwcHg7IC13ZWJraXQtdGV4dC1zdHJva2Utd2lkdGg6IDBweDsgYm9yZGVyOiAwcHg7IHBhZGRpbmc6IDBweDsiIC8+PGJyIHN0eWxlPSJ0ZXh0LXRyYW5zZm9ybTogbm9uZTsgdGV4dC1pbmRlbnQ6IDBweDsgbWFyZ2luOiAwcHg7IGZvbnQ6IDEzcHggQXJpYWwsICdCaXRzdHJlYW0gVmVyYSBTYW5zJywgSGVsdmV0aWNhLCBzYW5zLXNlcmlmOyB3aGl0ZS1zcGFjZTogbm9ybWFsOyBsZXR0ZXItc3BhY2luZzogbm9ybWFsOyBjb2xvcjogIzMzMzMzMzsgd29yZC1zcGFjaW5nOiAwcHg7IC13ZWJraXQtdGV4dC1zdHJva2Utd2lkdGg6IDBweDsgYm9yZGVyOiAwcHg7IHBhZGRpbmc6IDBweDsiIC8+PHNwYW4gc3R5bGU9InRleHQtdHJhbnNmb3JtOiBub25lOyB0ZXh0LWluZGVudDogMHB4OyBkaXNwbGF5OiBpbmxpbmUgIWltcG9ydGFudDsgZm9udDogMTNweCBBcmlhbCwgJ0JpdHN0cmVhbSBWZXJhIFNhbnMnLCBIZWx2ZXRpY2EsIHNhbnMtc2VyaWY7IHdoaXRlLXNwYWNlOiBub3JtYWw7IGZsb2F0OiBub25lOyBsZXR0ZXItc3BhY2luZzogbm9ybWFsOyBjb2xvcjogIzMzMzMzMzsgd29yZC1zcGFjaW5nOiAwcHg7IC13ZWJraXQtdGV4dC1zdHJva2Utd2lkdGg6IDBweDsiPkxhcyBiJnVhY3V0ZTtzcXVlZGFzIHNlIGNvbmNlbnRyYXImYWFjdXRlO24gZW4gZWwgbml2ZWwgZGVsIHB1ZW50ZSBjdWF0cm8gZGVsIGNydWNlcm8sIGRvbmRlIGxhcyBkb3MgdiZpYWN1dGU7Y3RpbWFzLCBlbCBjYW1hcmVybyBpbmRpbyBSdXNzZWwgUmViZWxsbyB5IGxhIHBhc2FqZXJhIGl0YWxpYW5hIE1hcmlhIEdyYXppYSBUcmVjYXJpY2hpLCBmdWVyb24gdmlzdG9zIHBvciAmdWFjdXRlO2x0aW1hIHZlei48c3BhbiBjbGFzcz0iQXBwbGUtY29udmVydGVkLXNwYWNlIj4mbmJzcDs8L3NwYW4+PC9zcGFuPjxiciBzdHlsZT0idGV4dC10cmFuc2Zvcm06IG5vbmU7IHRleHQtaW5kZW50OiAwcHg7IG1hcmdpbjogMHB4OyBmb250OiAxM3B4IEFyaWFsLCAnQml0c3RyZWFtIFZlcmEgU2FucycsIEhlbHZldGljYSwgc2Fucy1zZXJpZjsgd2hpdGUtc3BhY2U6IG5vcm1hbDsgbGV0dGVyLXNwYWNpbmc6IG5vcm1hbDsgY29sb3I6ICMzMzMzMzM7IHdvcmQtc3BhY2luZzogMHB4OyAtd2Via2l0LXRleHQtc3Ryb2tlLXdpZHRoOiAwcHg7IGJvcmRlcjogMHB4OyBwYWRkaW5nOiAwcHg7IiAvPjxiciBzdHlsZT0idGV4dC10cmFuc2Zvcm06IG5vbmU7IHRleHQtaW5kZW50OiAwcHg7IG1hcmdpbjogMHB4OyBmb250OiAxM3B4IEFyaWFsLCAnQml0c3RyZWFtIFZlcmEgU2FucycsIEhlbHZldGljYSwgc2Fucy1zZXJpZjsgd2hpdGUtc3BhY2U6IG5vcm1hbDsgbGV0dGVyLXNwYWNpbmc6IG5vcm1hbDsgY29sb3I6ICMzMzMzMzM7IHdvcmQtc3BhY2luZzogMHB4OyAtd2Via2l0LXRleHQtc3Ryb2tlLXdpZHRoOiAwcHg7IGJvcmRlcjogMHB4OyBwYWRkaW5nOiAwcHg7IiAvPjxzcGFuIHN0eWxlPSJ0ZXh0LXRyYW5zZm9ybTogbm9uZTsgdGV4dC1pbmRlbnQ6IDBweDsgZGlzcGxheTogaW5saW5lICFpbXBvcnRhbnQ7IGZvbnQ6IDEzcHggQXJpYWwsICdCaXRzdHJlYW0gVmVyYSBTYW5zJywgSGVsdmV0aWNhLCBzYW5zLXNlcmlmOyB3aGl0ZS1zcGFjZTogbm9ybWFsOyBmbG9hdDogbm9uZTsgbGV0dGVyLXNwYWNpbmc6IG5vcm1hbDsgY29sb3I6ICMzMzMzMzM7IHdvcmQtc3BhY2luZzogMHB4OyAtd2Via2l0LXRleHQtc3Ryb2tlLXdpZHRoOiAwcHg7Ij5FbCBjb25zb3JjaW8gZXN0YWRvdW5pZGVuc2UtaXRhbGlhbm8gVGl0YW4tTWljb3AmZWFjdXRlO3JpLCBxdWUgbG9nciZvYWN1dGU7IGxhIHNlbWFuYSBwYXNhZGEgZW5kZXJlemFyIGVsIGJhcmNvLCBkaW8gc3UgYWN1ZXJkbyBlbCBsdW5lcyBwYXJhIGxhIHJlYW51ZGFjaSZvYWN1dGU7biBkZSBsYXMgYiZ1YWN1dGU7c3F1ZWRhcywgcXVlIGZ1ZXJvbiBpbnRlcnJ1bXBpZGFzIGhhY2UgYSZudGlsZGU7byB5IG1lZGlvLCBhbnVuY2kmb2FjdXRlOyBlbCAmb2FjdXRlO3JnYW5vIGd1YmVybmFtZW50YWwgZW5jYXJnYWRvIGRlIGxhIG9wZXJhY2kmb2FjdXRlO24gZGUgZW5kZXJlemFtaWVudG8gZGVsIGJhcmNvLjxzcGFuIGNsYXNzPSJBcHBsZS1jb252ZXJ0ZWQtc3BhY2UiPiZuYnNwOzwvc3Bhbj48L3NwYW4+PGJyIHN0eWxlPSJ0ZXh0LXRyYW5zZm9ybTogbm9uZTsgdGV4dC1pbmRlbnQ6IDBweDsgbWFyZ2luOiAwcHg7IGZvbnQ6IDEzcHggQXJpYWwsICdCaXRzdHJlYW0gVmVyYSBTYW5zJywgSGVsdmV0aWNhLCBzYW5zLXNlcmlmOyB3aGl0ZS1zcGFjZTogbm9ybWFsOyBsZXR0ZXItc3BhY2luZzogbm9ybWFsOyBjb2xvcjogIzMzMzMzMzsgd29yZC1zcGFjaW5nOiAwcHg7IC13ZWJraXQtdGV4dC1zdHJva2Utd2lkdGg6IDBweDsgYm9yZGVyOiAwcHg7IHBhZGRpbmc6IDBweDsiIC8+PGJyIHN0eWxlPSJ0ZXh0LXRyYW5zZm9ybTogbm9uZTsgdGV4dC1pbmRlbnQ6IDBweDsgbWFyZ2luOiAwcHg7IGZvbnQ6IDEzcHggQXJpYWwsICdCaXRzdHJlYW0gVmVyYSBTYW5zJywgSGVsdmV0aWNhLCBzYW5zLXNlcmlmOyB3aGl0ZS1zcGFjZTogbm9ybWFsOyBsZXR0ZXItc3BhY2luZzogbm9ybWFsOyBjb2xvcjogIzMzMzMzMzsgd29yZC1zcGFjaW5nOiAwcHg7IC13ZWJraXQtdGV4dC1zdHJva2Utd2lkdGg6IDBweDsgYm9yZGVyOiAwcHg7IHBhZGRpbmc6IDBweDsiIC8+PHNwYW4gc3R5bGU9InRleHQtdHJhbnNmb3JtOiBub25lOyB0ZXh0LWluZGVudDogMHB4OyBkaXNwbGF5OiBpbmxpbmUgIWltcG9ydGFudDsgZm9udDogMTNweCBBcmlhbCwgJ0JpdHN0cmVhbSBWZXJhIFNhbnMnLCBIZWx2ZXRpY2EsIHNhbnMtc2VyaWY7IHdoaXRlLXNwYWNlOiBub3JtYWw7IGZsb2F0OiBub25lOyBsZXR0ZXItc3BhY2luZzogbm9ybWFsOyBjb2xvcjogIzMzMzMzMzsgd29yZC1zcGFjaW5nOiAwcHg7IC13ZWJraXQtdGV4dC1zdHJva2Utd2lkdGg6IDBweDsiPiJFbCBuYXYmaWFjdXRlO28gZnVlIGRlY2xhcmFkbyB6b25hIHNlZ3VyYSIsIGluZGljJm9hY3V0ZTsgdW4gY29tdW5pY2Fkby4gIlJlY3VwZXJhciBsb3MgY2FkJmFhY3V0ZTt2ZXJlcyBkZSBsYXMgJnVhY3V0ZTtsdGltYXMgdiZpYWN1dGU7Y3RpbWFzIHNlIGNvbnZpcnRpJm9hY3V0ZTsgZW4gdW5hIGN1ZXN0aSZvYWN1dGU7biBwcmlvcml0YXJpYSIsIGRlY2xhciZvYWN1dGU7IGVsIGNvbWlzYXJpbyBndWJlcm5hbWVudGFsIEZyYW5jbyBHYWJyaWVsbGkgZW4gdW4gY29tdW5pY2Fkby48c3BhbiBjbGFzcz0iQXBwbGUtY29udmVydGVkLXNwYWNlIj4mbmJzcDs8L3NwYW4+PC9zcGFuPjxiciBzdHlsZT0idGV4dC10cmFuc2Zvcm06IG5vbmU7IHRleHQtaW5kZW50OiAwcHg7IG1hcmdpbjogMHB4OyBmb250OiAxM3B4IEFyaWFsLCAnQml0c3RyZWFtIFZlcmEgU2FucycsIEhlbHZldGljYSwgc2Fucy1zZXJpZjsgd2hpdGUtc3BhY2U6IG5vcm1hbDsgbGV0dGVyLXNwYWNpbmc6IG5vcm1hbDsgY29sb3I6ICMzMzMzMzM7IHdvcmQtc3BhY2luZzogMHB4OyAtd2Via2l0LXRleHQtc3Ryb2tlLXdpZHRoOiAwcHg7IGJvcmRlcjogMHB4OyBwYWRkaW5nOiAwcHg7IiAvPjxiciBzdHlsZT0idGV4dC10cmFuc2Zvcm06IG5vbmU7IHRleHQtaW5kZW50OiAwcHg7IG1hcmdpbjogMHB4OyBmb250OiAxM3B4IEFyaWFsLCAnQml0c3RyZWFtIFZlcmEgU2FucycsIEhlbHZldGljYSwgc2Fucy1zZXJpZjsgd2hpdGUtc3BhY2U6IG5vcm1hbDsgbGV0dGVyLXNwYWNpbmc6IG5vcm1hbDsgY29sb3I6ICMzMzMzMzM7IHdvcmQtc3BhY2luZzogMHB4OyAtd2Via2l0LXRleHQtc3Ryb2tlLXdpZHRoOiAwcHg7IGJvcmRlcjogMHB4OyBwYWRkaW5nOiAwcHg7IiAvPjxzcGFuIHN0eWxlPSJ0ZXh0LXRyYW5zZm9ybTogbm9uZTsgdGV4dC1pbmRlbnQ6IDBweDsgZGlzcGxheTogaW5saW5lICFpbXBvcnRhbnQ7IGZvbnQ6IDEzcHggQXJpYWwsICdCaXRzdHJlYW0gVmVyYSBTYW5zJywgSGVsdmV0aWNhLCBzYW5zLXNlcmlmOyB3aGl0ZS1zcGFjZTogbm9ybWFsOyBmbG9hdDogbm9uZTsgbGV0dGVyLXNwYWNpbmc6IG5vcm1hbDsgY29sb3I6ICMzMzMzMzM7IHdvcmQtc3BhY2luZzogMHB4OyAtd2Via2l0LXRleHQtc3Ryb2tlLXdpZHRoOiAwcHg7Ij5MYXMgYiZ1YWN1dGU7c3F1ZWRhcyBzZSByZWluaWNpYXJvbiB1biBkJmlhY3V0ZTthIGRlc3B1JmVhY3V0ZTtzIGRlIHF1ZSBzZSByZWFudWRhcmEgZWwganVpY2lvIGRlIEZyYW5jZXNjbyBTY2hldHRpbm8sIGVsIGNhcGl0JmFhY3V0ZTtuIGRlbCAiQ29zdGEgQ29uY29yZGlhIiwgY3V5byBuYXVmcmFnaW8gZGVqJm9hY3V0ZTsgMzIgbXVlcnRvcy48c3BhbiBjbGFzcz0iQXBwbGUtY29udmVydGVkLXNwYWNlIj4mbmJzcDs8L3NwYW4+PC9zcGFuPjxiciBzdHlsZT0idGV4dC10cmFuc2Zvcm06IG5vbmU7IHRleHQtaW5kZW50OiAwcHg7IG1hcmdpbjogMHB4OyBmb250OiAxM3B4IEFyaWFsLCAnQml0c3RyZWFtIFZlcmEgU2FucycsIEhlbHZldGljYSwgc2Fucy1zZXJpZjsgd2hpdGUtc3BhY2U6IG5vcm1hbDsgbGV0dGVyLXNwYWNpbmc6IG5vcm1hbDsgY29sb3I6ICMzMzMzMzM7IHdvcmQtc3BhY2luZzogMHB4OyAtd2Via2l0LXRleHQtc3Ryb2tlLXdpZHRoOiAwcHg7IGJvcmRlcjogMHB4OyBwYWRkaW5nOiAwcHg7IiAvPjxiciBzdHlsZT0idGV4dC10cmFuc2Zvcm06IG5vbmU7IHRleHQtaW5kZW50OiAwcHg7IG1hcmdpbjogMHB4OyBmb250OiAxM3B4IEFyaWFsLCAnQml0c3RyZWFtIFZlcmEgU2FucycsIEhlbHZldGljYSwgc2Fucy1zZXJpZjsgd2hpdGUtc3BhY2U6IG5vcm1hbDsgbGV0dGVyLXNwYWNpbmc6IG5vcm1hbDsgY29sb3I6ICMzMzMzMzM7IHdvcmQtc3BhY2luZzogMHB4OyAtd2Via2l0LXRleHQtc3Ryb2tlLXdpZHRoOiAwcHg7IGJvcmRlcjogMHB4OyBwYWRkaW5nOiAwcHg7IiAvPjxzcGFuIHN0eWxlPSJ0ZXh0LXRyYW5zZm9ybTogbm9uZTsgdGV4dC1pbmRlbnQ6IDBweDsgZGlzcGxheTogaW5saW5lICFpbXBvcnRhbnQ7IGZvbnQ6IDEzcHggQXJpYWwsICdCaXRzdHJlYW0gVmVyYSBTYW5zJywgSGVsdmV0aWNhLCBzYW5zLXNlcmlmOyB3aGl0ZS1zcGFjZTogbm9ybWFsOyBmbG9hdDogbm9uZTsgbGV0dGVyLXNwYWNpbmc6IG5vcm1hbDsgY29sb3I6ICMzMzMzMzM7IHdvcmQtc3BhY2luZzogMHB4OyAtd2Via2l0LXRleHQtc3Ryb2tlLXdpZHRoOiAwcHg7Ij5TY2hldHRpbm8sIGNhbGlmaWNhZG8gY29tbyAiZWwgaG9tYnJlIG0mYWFjdXRlO3Mgb2RpYWRvIGRlIEl0YWxpYSIsIGVzdCZhYWN1dGU7IGFjdXNhZG8gZGUgaG9taWNpZGlvIG0mdWFjdXRlO2x0aXBsZSBwb3IgaW1wcnVkZW5jaWEsIGFiYW5kb25vIGRlIG5hdiZpYWN1dGU7byB5IGRhJm50aWxkZTtvcyBhbCBtZWRpbyBhbWJpZW50ZS48c3BhbiBjbGFzcz0iQXBwbGUtY29udmVydGVkLXNwYWNlIj4mbmJzcDs8L3NwYW4+PC9zcGFuPjxiciBzdHlsZT0idGV4dC10cmFuc2Zvcm06IG5vbmU7IHRleHQtaW5kZW50OiAwcHg7IG1hcmdpbjogMHB4OyBmb250OiAxM3B4IEFyaWFsLCAnQml0c3RyZWFtIFZlcmEgU2FucycsIEhlbHZldGljYSwgc2Fucy1zZXJpZjsgd2hpdGUtc3BhY2U6IG5vcm1hbDsgbGV0dGVyLXNwYWNpbmc6IG5vcm1hbDsgY29sb3I6ICMzMzMzMzM7IHdvcmQtc3BhY2luZzogMHB4OyAtd2Via2l0LXRleHQtc3Ryb2tlLXdpZHRoOiAwcHg7IGJvcmRlcjogMHB4OyBwYWRkaW5nOiAwcHg7IiAvPjxiciBzdHlsZT0idGV4dC10cmFuc2Zvcm06IG5vbmU7IHRleHQtaW5kZW50OiAwcHg7IG1hcmdpbjogMHB4OyBmb250OiAxM3B4IEFyaWFsLCAnQml0c3RyZWFtIFZlcmEgU2FucycsIEhlbHZldGljYSwgc2Fucy1zZXJpZjsgd2hpdGUtc3BhY2U6IG5vcm1hbDsgbGV0dGVyLXNwYWNpbmc6IG5vcm1hbDsgY29sb3I6ICMzMzMzMzM7IHdvcmQtc3BhY2luZzogMHB4OyAtd2Via2l0LXRleHQtc3Ryb2tlLXdpZHRoOiAwcHg7IGJvcmRlcjogMHB4OyBwYWRkaW5nOiAwcHg7IiAvPjxzcGFuIHN0eWxlPSJ0ZXh0LXRyYW5zZm9ybTogbm9uZTsgdGV4dC1pbmRlbnQ6IDBweDsgZGlzcGxheTogaW5saW5lICFpbXBvcnRhbnQ7IGZvbnQ6IDEzcHggQXJpYWwsICdCaXRzdHJlYW0gVmVyYSBTYW5zJywgSGVsdmV0aWNhLCBzYW5zLXNlcmlmOyB3aGl0ZS1zcGFjZTogbm9ybWFsOyBmbG9hdDogbm9uZTsgbGV0dGVyLXNwYWNpbmc6IG5vcm1hbDsgY29sb3I6ICMzMzMzMzM7IHdvcmQtc3BhY2luZzogMHB4OyAtd2Via2l0LXRleHQtc3Ryb2tlLXdpZHRoOiAwcHg7Ij5TdSBqdWljaW8sIHF1ZSBwb2RyJmlhY3V0ZTthIGR1cmFyIHZhcmlvcyBtZXNlcywgc2UgY2VsZWJyYSB1biB0cmlidW5hbCBkZSBHcm9zc2V0bywgZW4gZWwgY2VudHJvIGRlIEl0YWxpYS4gPGVtPjxzdHJvbmc+QUZQIDwvc3Ryb25nPjwvZW0+PC9zcGFuPjwvcD5kAhUPZBYCAgMPZBYCZg9kFgICAQ9kFgICBw8PZBYGHglvbktleURvd24FInRleHRDb3VudGVyKHRoaXMsICdjb3VudGVyMScsIDI4MCkeB29uS2V5VXAFInRleHRDb3VudGVyKHRoaXMsICdjb3VudGVyMScsIDI4MCkeBm9uQmx1cgUeY3V0VGV4dCh0aGlzLCAnY291bnRlcjEnLCAyODApZAIBDxYCHwAFygE8ZGl2IHN0eWxlPSJsaW5lLWhlaWdodDowcHg7IHBhZGRpbmc6MHB4OyBtYXJnaW46MCBhdXRvOyB3aWR0aDozMDBweDsiPjwhLS0gVGFsY3VhbF9ub3RhX1JpZ2h0MV8zMDB4MjUwIC0tPjxzY3JpcHQgdHlwZT0ndGV4dC9qYXZhc2NyaXB0Jz5HQV9nb29nbGVGaWxsU2xvdCgiVGFsY3VhbF9ub3RhX1JpZ2h0MV8zMDB4MjUwIik7PC9zY3JpcHQ+PC9kaXY+ZAICDxYCHwAFlBM8ZGl2IGNsYXNzPSJub3RhY29sdW1SaWdodEludGVybmEiID4gIDxkaXYgY2xhc3M9InNlY05vdGFzIj4gTGEgTmFjacOzbjxzcGFuIGNsYXNzPSJjb21tcyI+IHwgMSBDb21lbnRhcmlvcyAgIDwvc3Bhbj48L2Rpdj4gPGRpdiBjbGFzcz0ic3VtTm90YWNvbHVtUmlnaHRJbnRlcm5hTGZ0Ij4gICAgPGRpdiBjbGFzcz0idHRsbm90YSI+PGEgaHJlZiA9Ii9Ob3RhL3Zpc29yLmFzcHg/aWQ9OTI2NDMiPsK/QXRlbnRhZG8gZW4gTlk/PC9hPjwvZGl2PjxkaXYgY2xhc3M9InR4dFZpdHJpbmEiPjxhIGhyZWYgPSIvTm90YS92aXNvci5hc3B4P2lkPTkyNjQzIj5NYWR1cm8gZXhwbGljYSBzdSBhdXNlbmNpYSBlbiBsYSBBc2FtYmxlYSBkZSBsYSBPTlUgY29uIHJldmVsYWNpb25lcyBpbXByZWNpc2FzIGFjZXJjYSBkZSBvdHJvIHBsYW4gbWFnbmljaWRhLCBlbiBsYXMgbmFyaWNlcyBkZWwgcHJvcGlvIE9iYW1hDQoNCjwvYT48L2Rpdj48L2Rpdj48L2Rpdj48ZGl2IGNsYXNzPSJub3RhY29sdW1SaWdodEludGVybmEiID4gIDxkaXYgY2xhc3M9InNlY05vdGFzIj4gTGEgTmFjacOzbjxzcGFuIGNsYXNzPSJjb21tcyI+IHwgMSBDb21lbnRhcmlvcyAgIDwvc3Bhbj48L2Rpdj4gPGRpdiBjbGFzcz0ic3VtTm90YWNvbHVtUmlnaHRJbnRlcm5hTGZ0Ij4gICAgPGRpdiBjbGFzcz0idHRsbm90YSI+PGEgaHJlZiA9Ii9Ob3RhL3Zpc29yLmFzcHg/aWQ9OTI2ODkiPkRyb2dhIHZvbGFkb3JhOiB2YW4gMjI8L2E+PC9kaXY+PGRpdiBjbGFzcz0idHh0Vml0cmluYSI+PGEgaHJlZiA9Ii9Ob3RhL3Zpc29yLmFzcHg/aWQ9OTI2ODkiPkVsIG1pbmlzdHJvIGRlIEludGVyaW9yLCBNaWd1ZWwgUm9kcsOtZ3VleiBUb3JyZXMsIGluZm9ybcOzIHF1ZSBoYW4gc2lkbyBkZXRlbmlkYXMgMjIgcGVyc29uYXMgcG9yIGVsIGNhc28gZGUgaW5jYXV0YWNpw7NuIGRlIGRyb2dhIGVuIEZyYW5jaWEsIGhhbGxhZGEgZW4gdW4gYXYuLi48L2E+PC9kaXY+PC9kaXY+PC9kaXY+PGRpdiBjbGFzcz0ibm90YWNvbHVtUmlnaHRJbnRlcm5hIiA+ICA8ZGl2IGNsYXNzPSJzZWNOb3RhcyI+IFN1Y2Vzb3MgPHNwYW4gY2xhc3M9ImNvbW1zIj4gfCAxIENvbWVudGFyaW9zICAgPC9zcGFuPjwvZGl2PiA8ZGl2IGNsYXNzPSJzdW1Ob3RhY29sdW1SaWdodEludGVybmFMZnQiPiAgICA8ZGl2IGNsYXNzPSJ0dGxub3RhIj48YSBocmVmID0iL05vdGEvdmlzb3IuYXNweD9pZD05MjcxMCI+Q29yb25lbCBNYWxkYWQ8L2E+PC9kaXY+PGRpdiBjbGFzcz0idHh0Vml0cmluYSI+PGEgaHJlZiA9Ii9Ob3RhL3Zpc29yLmFzcHg/aWQ9OTI3MTAiPk1pbmlzdGVyaW8gUMO6YmxpY28gaW1wdXTDsyBhIHVuIGNvcm9uZWwgZGUgbGEgR04gcG9yIHRvcnR1cmFyIHkgbWF0YXIgYSB1biBhbGlzdGFkbyBkZWwgY29tcG9uZW50ZSBtaWxpdGFyLCBhIHF1aWVuIGVudGVycsOzIHkgbHVlZ28gbG8gaGl6byBwYXNhciBwb3IgZGVzZXJ0b3I8L2E+PC9kaXY+PC9kaXY+PC9kaXY+PGRpdiBjbGFzcz0ibm90YWNvbHVtUmlnaHRJbnRlcm5hIiA+ICA8ZGl2IGNsYXNzPSJzZWNOb3RhcyI+IE11bmRvPHNwYW4gY2xhc3M9ImNvbW1zIj4gIDwvc3Bhbj48L2Rpdj4gPGRpdiBjbGFzcz0ic3VtTm90YWNvbHVtUmlnaHRJbnRlcm5hTGZ0Ij4gICAgPGRpdiBjbGFzcz0idHRsbm90YSI+PGEgaHJlZiA9Ii9Ob3RhL3Zpc29yLmFzcHg/aWQ9OTI3MjEiPkxhIGF5dWRhIHRhcmRhIGVuIGxsZWdhcjwvYT48L2Rpdj48ZGl2IGNsYXNzPSJ0eHRWaXRyaW5hIj48YSBocmVmID0iL05vdGEvdmlzb3IuYXNweD9pZD05MjcyMSI+RWwgbsO6bWVybyBkZSBtdWVydG9zIHBvciBlbCB0ZXJyZW1vdG8gcXVlIGFmZWN0w7MgZWwgc3Vyb2VzdGUgZGUgUGFraXN0w6FuIGFzY2llbmRlIGEgMzQ5LCBzZWfDum4gZGF0b3Mgb2ZpY2lhbGVzIHB1YmxpY2Fkb3MgaG95LCBtaWVudHJhcyBwcmVvY3VwYSBjYWRhIHZleiBtw6FzLi4uPC9hPjwvZGl2PjwvZGl2PjwvZGl2PjxkaXYgY2xhc3M9Im5vdGFjb2x1bVJpZ2h0SW50ZXJuYSIgPiAgPGRpdiBjbGFzcz0ic2VjTm90YXMiPiBFZHVjYWNpw7NuPHNwYW4gY2xhc3M9ImNvbW1zIj4gIDwvc3Bhbj48L2Rpdj4gPGRpdiBjbGFzcz0ic3VtTm90YWNvbHVtUmlnaHRJbnRlcm5hTGZ0Ij4gICAgPGRpdiBjbGFzcz0idHRsbm90YSI+PGEgaHJlZiA9Ii9Ob3RhL3Zpc29yLmFzcHg/aWQ9OTI3MDAiPk5vIGFsIGFkb2N0cmluYW1pZW50bzwvYT48L2Rpdj48ZGl2IGNsYXNzPSJ0eHRWaXRyaW5hIj48YSBocmVmID0iL05vdGEvdmlzb3IuYXNweD9pZD05MjcwMCI+UHJpbWVybyBKdXN0aWNpYSBjdWVzdGlvbmEgcXVlIGVsIEdvYmllcm5vIHByZXRlbmRhIGlkZW9sb2dpemFyIGEgbG9zIGVzdHVkaWFudGVzLCBxdWllbmVzIGxvIHF1ZSBuZWNlc2l0YW4gZXMgZWR1Y2FjacOzbiBkZSBjYWxpZGFkLiBSZWNoYXphIGVsIGF1bWVudG8gc2FsYXIuLi48L2E+PC9kaXY+PC9kaXY+PC9kaXY+ZAIPDxYCHwAF9wk8ZGl2IGNsYXNzPSJtZW51UGl0ZW0gbWVudVBpdGVtVVMiPjxhIGhyZWY9Ii8iPkluaWNpbzwvYT48L2Rpdj48ZGl2IGNsYXNzPSJtZW51U2VwIj48L2Rpdj48ZGl2IGNsYXNzPSJtZW51UGl0ZW0gbWVudVBpdGVtVVMiPjxhIGhyZWY9Ii9zZWNjaW9uLmFzcHg/aWQ9ODkiPkVkaXRvcmlhbDwvYT48L2Rpdj48ZGl2IGNsYXNzPSJtZW51U2VwIj48L2Rpdj48ZGl2IGNsYXNzPSJtZW51UGl0ZW0gbWVudVBpdGVtVVMiPjxhIGhyZWY9Ii9zZWNjaW9uLmFzcHg/aWQ9MjgiPkxhIE5hY2nDs248L2E+PC9kaXY+PGRpdiBjbGFzcz0ibWVudVNlcCI+PC9kaXY+PGRpdiBjbGFzcz0ibWVudVBpdGVtIG1lbnVQaXRlbVVTIj48YSBocmVmPSIvc2VjY2lvbi5hc3B4P2lkPTEiPk11bmRvPC9hPjwvZGl2PjxkaXYgY2xhc3M9Im1lbnVTZXAiPjwvZGl2PjxkaXYgY2xhc3M9Im1lbnVQaXRlbSBtZW51UGl0ZW1VUyI+PGEgaHJlZj0iL3NlY2Npb24uYXNweD9pZD0zIj5FY29ub23DrWE8L2E+PC9kaXY+PGRpdiBjbGFzcz0ibWVudVNlcCI+PC9kaXY+PGRpdiBjbGFzcz0ibWVudVBpdGVtIG1lbnVQaXRlbVVTIj48YSBocmVmPSIvc2VjY2lvbi5hc3B4P2lkPTQ0Ij5PcGluacOzbjwvYT48L2Rpdj48ZGl2IGNsYXNzPSJtZW51U2VwIj48L2Rpdj48ZGl2IGNsYXNzPSJtZW51UGl0ZW0gbWVudVBpdGVtVVMiPjxhIGhyZWY9Ii9zZWNjaW9uLmFzcHg/aWQ9OSI+RGVwb3J0ZXM8L2E+PC9kaXY+PGRpdiBjbGFzcz0ibWVudVNlcCI+PC9kaXY+PGRpdiBjbGFzcz0ibWVudVBpdGVtIG1lbnVQaXRlbVVTIj48YSBocmVmPSIvc2VjY2lvbi5hc3B4P2lkPTQiPkNpdWRhZDwvYT48L2Rpdj48ZGl2IGNsYXNzPSJtZW51U2VwIj48L2Rpdj48ZGl2IGNsYXNzPSJtZW51UGl0ZW0gbWVudVBpdGVtVVMiPjxhIGhyZWY9Ii9zZWNjaW9uLmFzcHg/aWQ9NyI+RW50cmV0ZW5pbWllbnRvPC9hPjwvZGl2PjxkaXYgY2xhc3M9Im1lbnVTZXAiPjwvZGl2PjxkaXYgY2xhc3M9Im1lbnVQaXRlbSBtZW51UGl0ZW1VUyI+PGEgaHJlZj0iL3NlY2Npb24uYXNweD9pZD0xMCI+U2FsdWQ8L2E+PC9kaXY+PGRpdiBjbGFzcz0ibWVudVNlcCI+PC9kaXY+PGRpdiBjbGFzcz0ibWVudVBpdGVtIG1lbnVQaXRlbVVTIj48YSBocmVmPSIvc2VjY2lvbi5hc3B4P2lkPTg3Ij5HRU5URTwvYT48L2Rpdj48ZGl2IGNsYXNzPSJtZW51U2VwIj48L2Rpdj48ZGl2IGNsYXNzPSJtZW51UGl0ZW0gbWVudVBpdGVtVVMiPjxhIGhyZWY9Ii9zZWNjaW9uLmFzcHg/aWQ9MTMiPlRlY25vbG9nw61hPC9hPjwvZGl2PmQCEQ8WAh8ABVxDb3B5cmlnaHQgJmNvcHk7IDIwMDAtMjAxMy4gRWRpdG9yaWFsIExhIE1vc2NhIEFuYWxmYWJldGEgQy5BLiBUb2RvcyBsb3MgRGVyZWNob3MgUmVzZXJ2YWRvc2QYAQUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgEFP2N0bDAwJGN0bDAwJG1haW5QbGFjZUhvbGRlciRDb250ZW50Q29udGVuaWRvY29sdW0xJEltYWdlQnV0dG9uMZWe8qk+Z09stnP/5pElUbWa+jbuH5K6AY5535QQfsIc" />
+
+
+<script src="/ScriptResource.axd?d=MBiNJpi-3R_Jv6Ju_eSq5n6e_JUzG7NjUpr66VsuzOFltHpEXMUJ-MQKGVLvbAWGL1FWL6t3GthbZtijtlr_vc00Cv3mZxyOpeVqlqnSF2EhTz86hOiHuffDDgLjFkx9inVybGEcDXy2dqPmx4RbOL1D1xGgQtH6yzyn3MgrIKc1&amp;t=6119e399" type="text/javascript"></script>
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAbzy1HAFesCL32cSc7EFPRw3s+cRlZKq6DTj4UtMBpIHT2y6ig19JAxQmpbGUnd/QytGnPoipzAlvddKv3VpU4AaoOdjvRFFErUE7ODo4c2XdUCJcvbt9QSrIbFjBR4Os2vB/LkS+W0sfwvSYG432S+xM/w1yrzvGsK99HUMZ47+A==" />
+    <!--SPLIT-HEAD-->
+    <div class="container" id="Publicidad970x90" style="padding-top:5px;">
+        
+    <div style="margin:0px auto 0px auto; height:90px; width:970px; "><!-- Talcual_home_top_Cento_960x90 -->
+    <div style=" float:left; margin-left:5px; width:728px; padding:0px 5px;">
+        <!-- Talcual_Internas_top_Middle_728x90 -->
+        <script type='text/javascript'>
+            GA_googleFillSlot("Talcual_Internas_top_Middle_728x90");
+        </script>
+    </div>
+    <div style="float:left; width:210px; padding:0px 5px;"><!-- Talcual_home_Colum3_210x90_1 -->
+    <script type='text/javascript'>
+        GA_googleFillSlot("Talcual_Internas_topRight_210x90_1");
+    </script>
+    </div>
+    </div>
+    
+
+
+    </div>
+    <div class="container" id="Logo" style="height:80px;">
+        <table style="width:970px; height:75px;">
+            <tr>
+                <td style="width:235px; padding-left:25px;"><a href="http://secure1.infotech-corp.com/talcual" target="_blank"><img src="/recursos/imagenes/IMG_edicion_digital.png" alt="Edición Digital" style="width:85px; height:75px; border:0px;" /></a></td>
+                <td style="width:500px; text-align:center; vertical-align:middle;"><a href="/"><img src="/recursos/imagenes/logo_tc.png" alt="TalCualdigital.com" style="width:460px; height:65px;  border:0px;" /></a></td>
+                <td style="width:235px; text-align:center;">
+                <div id="barradesesion" class="fecha" style="font-size:12px; font-weight:bold;"><a class="Regist" href="/recursos/Herramientas/Registro.aspx" style="cursor:pointer;" >Registro</a> // <a class="LogIn" href="/recursos/Herramientas/login.aspx">Inicio sesión</a> // <a class="Contacto" href="/recursos/Herramientas/contactenos.aspx">Cont&aacute;ctenos</a></div>
+                  
+                    <table style="width:195px; margin-top:15px; margin-left:15px;" cellpadding="0" cellspacing="0">
+                        <tr>
+                            <td style="text-align:right; width:135px; vertical-align:middle;"><input name="ctl00$ctl00$sString" type="text" id="sString" class="campos sString2" style="width:135px;" /></td>
+                            <td style="text-align:left; width:40px;  vertical-align:middle;"><button id="sAction" type="button" class="boton" onclick="search()" >Buscar</button></td>
+                        </tr>
+                    </table>
+                  
+                </td>
+            </tr>
+        </table>
+    </div>
+    <div class="container" id="fechaContainer" style="height:auto;">
+        <table style="width:970px;">
+            <tr>
+                <td style="width:100px;">&nbsp;</td>
+                <td id="fecha" style="width:670px; text-align:center; vertical-align:middle;" class="fecha"><b>CARACAS</b>, jueves 26 de septiembre, 2013</td>
+
+                <td style="width:100px; vertical-align:middle;">
+                    <table style="width:100px; vertical-align:middle;" cellspacing="0" cellpadding="0">
+                        <tr>
+                            <td><a href="http://www.facebook.com/#!/pages/TalCual-Digital/171925551484" target="_blank"><img src="/recursos/imagenes/facebook.png" alt="Facebook" style="width:30px; height:30px; border:0px;" /></a></td>
+                            <td><a href="http://twitter.com/#!/DiarioTalCual" target="_blank"><img src="/recursos/imagenes/tweter.png" alt="Twitter" style="width:30px; height:30px; border:0px;" /></a></td>
+                            <td><a href="/recursos/rss/rss.aspx"><img src="/recursos/imagenes/rss.png" alt="RSS" style="width:30px; height:30px; border:0px;" /></a></td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+    </div>
+    <div class="container menuSup">
+        <div id="menuSuperior" class="contMenu"><div class="menuPitem menuPitemUS"><a href="/">Inicio</a></div><div class="menuSep"></div><div class="menuPitem menuPitemUS"><a href="/seccion.aspx?id=89">Editorial</a></div><div class="menuSep"></div><div class="menuPitem menuPitemUS"><a href="/seccion.aspx?id=28">La Nación</a></div><div class="menuSep"></div><div class="menuPitem menuPitemUS"><a href="/seccion.aspx?id=1">Mundo</a></div><div class="menuSep"></div><div class="menuPitem menuPitemUS"><a href="/seccion.aspx?id=3">Economía</a></div><div class="menuSep"></div><div class="menuPitem menuPitemUS"><a href="/seccion.aspx?id=44">Opinión</a></div><div class="menuSep"></div><div class="menuPitem menuPitemUS"><a href="/seccion.aspx?id=9">Deportes</a></div><div class="menuSep"></div><div class="menuPitem menuPitemUS"><a href="/seccion.aspx?id=4">Ciudad</a></div><div class="menuSep"></div><div class="menuPitem menuPitemUS"><a href="/seccion.aspx?id=7">Entretenimiento</a></div><div class="menuSep"></div><div class="menuPitem menuPitemUS"><a href="/seccion.aspx?id=10">Salud</a></div><div class="menuSep"></div><div class="menuPitem menuPitemUS"><a href="/seccion.aspx?id=87">GENTE</a></div><div class="menuSep"></div><div class="menuPitem menuPitemUS"><a href="/seccion.aspx?id=13">Tecnología</a></div></div>
+    </div>
+   <div id="Temas" class="container" style="height:25px; border-bottom:4px solid #d7d7d7;">
+        <div class="temasTtl">Temas del d&iacute;a</div>
+    <div class="temasConta"><a href="/Temas.aspx?Tag=Viaje+de+Maduro">Viaje de Maduro</a></div><div class="temasConta"><a href="/Temas.aspx?Tag=Masacre+en+Kenia">Masacre en Kenia</a></div><div class="temasConta"><a href="/Temas.aspx?Tag=Capriles">Capriles</a></div><div class="temasConta"><a href="/Temas.aspx?Tag=ONU">ONU</a></div><div class="temasConta"><a href="/Temas.aspx?Tag=Inseguridad">Inseguridad</a></div><div class="temasConta"><a href="/Temas.aspx?Tag=Crisis+universitaria">Crisis universitaria</a></div></div>
+    <div class="container" style="height:auto; clear:both;">
+        
+    <table cellpadding="0" cellspacing="0" style="width:100%;" ><tr><td id="tdcont2" style="vertical-align:top;">
+    
+    <div id="printzone">
+        <div id="seccioncomentarioherramientas" style="padding: 10px 10px 0px 10px;">
+            <div id="mainPlaceHolder_ContentContenidocolum1_seccioncomentario" style="float: left; height: 22px;"><div class="secNotas">Mundo<span class="comms"> | 24/09/2013</span></div></div>
+            <div id="herramientas" style="float: right; height: 22px;">
+                <div class="imgtool_send imgtool">
+                </div>
+                <div class="imgtool_print imgtool">
+                </div>
+                <div class="imgtool_mas imgtool">
+                </div>
+                <div class="imgtool_menos imgtool">
+                </div>
+            </div>
+        </div>
+        <div id="Div1" style="clear: both; line-height: 1px; margin: 15px auto 0px auto;">
+        </div>
+        <div id="contenedorNota" style="border-right: 1px solid #dadada; padding: 10px;">
+            <div>
+                <div id="mainPlaceHolder_ContentContenidocolum1_tituloEnNota" class="ttlenNot">No aparecen</div>
+                <div id="mainPlaceHolder_ContentContenidocolum1_sumEnVnota" class="txtVitrina">Reinician la búsqueda de los cadáveres de dos personas desaparecidas en el naufragio del crucero Costa Concordia ocurrido en enero de 2012 frente a la isla de Giglio, en Italia 
+</div>
+                <div id="mainPlaceHolder_ContentContenidocolum1_autorNota" class="comms" style="margin-top: 8px;"></div>
+                <div id="cajapublidadA" class="cajapublidadVNot" style="text-align: center;">
+                    <center>
+                        <!-- Talcual_Internas_Content_center1_468x60 -->
+                        <script type='text/javascript'>
+                            GA_googleFillSlot("Talcual_Internas_Content_center1_468x60");
+                        </script>
+                    </center>
+                </div>
+                <div id="mainPlaceHolder_ContentContenidocolum1_DivImgGD" style="border: 1px solid #dadada;" class="maxwidthDivImgGD"><div><img alt="" class="imgGD" src="http://talcualdigital.com/sgc/multimedia/Imagen/2013/09/17060Crucero .jpg" /><div style="border-top:1px solid #dadada; color:#1d4696; font-size:12px; padding:10px;"><span style="color:#1d4696; font-size:12px;display:none;">Crucero </span></div></div></div>
+                <div id="mainPlaceHolder_ContentContenidocolum1_contImgSumSoci" style="float:left;margin-right:10px;width:316px;border:1px solid #dadada;margin-top:-1px;">
+                    
+                    <div style="clear: both;">
+                    </div>
+                    <div id="contadoresSociales" style="width: 317px; height: 70px; float: left; overflow: hidden;">
+                        <div id="mywidgetSharedycount" style="width: 317px; overflow: hidden;height: 70px;">
+                            <div id="Div2">
+                                <table class="tablecontadoresociales" style="margin: 0 auto;">
+                                    <tr>
+                                        <td id="facebutton">
+                                            <div id="singleFacebutton">
+                                                <span id="mainPlaceHolder_ContentContenidocolum1_labelSteps_1_2"><a name="fb_share" type="box_count"></a><script src="http://static.ak.fbcdn.net/connect.php/js/FB.Share" type="text/javascript"></script></span>
+                                            </div>
+                                        </td>
+                                        <td id="twebutton">
+                                            <script type="text/javascript">                                                function twitter_click() { u = location.href; t = document.title; window.open('http://twitter.com/intent/tweet?url=' + encodeURIComponent(u) + '&text=Leyendo%20' + encodeURIComponent(t) + '&via=DiarioTalCual', 'Tweet', 'width=550,height=270,scrollbars=NO'); return false; }</script>
+                                            <a onclick="return twitter_click()"><span class="fb_share_size_Small box_num_count">
+                                                <span></span><span class=""></span><span class="fb_share_count2 fb_share_count_top2">
+                                                    <span id="tweetboxbutton" class=""></span></span><span class="imgredes imgredes_twitter"
+                                                        style="cursor: pointer;"><span class=""></span></span></span></a>
+                                        </td>
+                                        <td>
+                                            <span class="fb_share_size_Small box_num_count"><span></span><span class=""></span><span
+                                                class="fb_share_count2 fb_share_count_top2"><span id="mainPlaceHolder_ContentContenidocolum1_EnviarNumeroboxbutton" class="">0</span></span><span class="imgredes imgredes_enviar" style="cursor: pointer;">
+                                                        <span class=""></span></span></span>
+                                        </td>
+                                        <td>
+                                            <span class="fb_share_size_Small box_num_count"><span></span><span class=""></span><span
+                                                class="fb_share_count2 fb_share_count_top2"><span id="mainPlaceHolder_ContentContenidocolum1_ComentarNumeroboxbutton" class="">0</span></span><a href="#ComentAnchor"><span class="imgredes imgredes_comentarios"
+                                                        style="cursor: pointer;"><span class="">a</span></span></a></span>
+                                        </td>
+                                    </tr>
+                                </table>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div id="mainPlaceHolder_ContentContenidocolum1_contenidoVnota" class="txtVitrina anchocontenidoVnota"><p style="text-align: justify;"><span style="text-transform: none; text-indent: 0px; display: inline !important; font: 13px Arial, 'Bitstream Vera Sans', Helvetica, sans-serif; white-space: normal; float: none; letter-spacing: normal; color: #333333; word-spacing: 0px; -webkit-text-stroke-width: 0px;">La b&uacute;squeda para intentar hallar los cad&aacute;veres de dos personas desaparecidas en el naufragio del crucero "Costa Concordia", en enero de 2012 frente a la isla de Giglio, empezaron este martes por la ma&ntilde;ana, indicaron medios de prensa italianos.<span class="Apple-converted-space">&nbsp;</span></span><br style="text-transform: none; text-indent: 0px; margin: 0px; font: 13px Arial, 'Bitstream Vera Sans', Helvetica, sans-serif; white-space: normal; letter-spacing: normal; color: #333333; word-spacing: 0px; -webkit-text-stroke-width: 0px; border: 0px; padding: 0px;" /><br style="text-transform: none; text-indent: 0px; margin: 0px; font: 13px Arial, 'Bitstream Vera Sans', Helvetica, sans-serif; white-space: normal; letter-spacing: normal; color: #333333; word-spacing: 0px; -webkit-text-stroke-width: 0px; border: 0px; padding: 0px;" /><span style="text-transform: none; text-indent: 0px; display: inline !important; font: 13px Arial, 'Bitstream Vera Sans', Helvetica, sans-serif; white-space: normal; float: none; letter-spacing: normal; color: #333333; word-spacing: 0px; -webkit-text-stroke-width: 0px;">Las b&uacute;squedas se concentrar&aacute;n en el nivel del puente cuatro del crucero, donde las dos v&iacute;ctimas, el camarero indio Russel Rebello y la pasajera italiana Maria Grazia Trecarichi, fueron vistos por &uacute;ltima vez.<span class="Apple-converted-space">&nbsp;</span></span><br style="text-transform: none; text-indent: 0px; margin: 0px; font: 13px Arial, 'Bitstream Vera Sans', Helvetica, sans-serif; white-space: normal; letter-spacing: normal; color: #333333; word-spacing: 0px; -webkit-text-stroke-width: 0px; border: 0px; padding: 0px;" /><br style="text-transform: none; text-indent: 0px; margin: 0px; font: 13px Arial, 'Bitstream Vera Sans', Helvetica, sans-serif; white-space: normal; letter-spacing: normal; color: #333333; word-spacing: 0px; -webkit-text-stroke-width: 0px; border: 0px; padding: 0px;" /><span style="text-transform: none; text-indent: 0px; display: inline !important; font: 13px Arial, 'Bitstream Vera Sans', Helvetica, sans-serif; white-space: normal; float: none; letter-spacing: normal; color: #333333; word-spacing: 0px; -webkit-text-stroke-width: 0px;">El consorcio estadounidense-italiano Titan-Micop&eacute;ri, que logr&oacute; la semana pasada enderezar el barco, dio su acuerdo el lunes para la reanudaci&oacute;n de las b&uacute;squedas, que fueron interrumpidas hace a&ntilde;o y medio, anunci&oacute; el &oacute;rgano gubernamental encargado de la operaci&oacute;n de enderezamiento del barco.<span class="Apple-converted-space">&nbsp;</span></span><br style="text-transform: none; text-indent: 0px; margin: 0px; font: 13px Arial, 'Bitstream Vera Sans', Helvetica, sans-serif; white-space: normal; letter-spacing: normal; color: #333333; word-spacing: 0px; -webkit-text-stroke-width: 0px; border: 0px; padding: 0px;" /><br style="text-transform: none; text-indent: 0px; margin: 0px; font: 13px Arial, 'Bitstream Vera Sans', Helvetica, sans-serif; white-space: normal; letter-spacing: normal; color: #333333; word-spacing: 0px; -webkit-text-stroke-width: 0px; border: 0px; padding: 0px;" /><span style="text-transform: none; text-indent: 0px; display: inline !important; font: 13px Arial, 'Bitstream Vera Sans', Helvetica, sans-serif; white-space: normal; float: none; letter-spacing: normal; color: #333333; word-spacing: 0px; -webkit-text-stroke-width: 0px;">"El nav&iacute;o fue declarado zona segura", indic&oacute; un comunicado. "Recuperar los cad&aacute;veres de las &uacute;ltimas v&iacute;ctimas se convirti&oacute; en una cuesti&oacute;n prioritaria", declar&oacute; el comisario gubernamental Franco Gabrielli en un comunicado.<span class="Apple-converted-space">&nbsp;</span></span><br style="text-transform: none; text-indent: 0px; margin: 0px; font: 13px Arial, 'Bitstream Vera Sans', Helvetica, sans-serif; white-space: normal; letter-spacing: normal; color: #333333; word-spacing: 0px; -webkit-text-stroke-width: 0px; border: 0px; padding: 0px;" /><br style="text-transform: none; text-indent: 0px; margin: 0px; font: 13px Arial, 'Bitstream Vera Sans', Helvetica, sans-serif; white-space: normal; letter-spacing: normal; color: #333333; word-spacing: 0px; -webkit-text-stroke-width: 0px; border: 0px; padding: 0px;" /><span style="text-transform: none; text-indent: 0px; display: inline !important; font: 13px Arial, 'Bitstream Vera Sans', Helvetica, sans-serif; white-space: normal; float: none; letter-spacing: normal; color: #333333; word-spacing: 0px; -webkit-text-stroke-width: 0px;">Las b&uacute;squedas se reiniciaron un d&iacute;a despu&eacute;s de que se reanudara el juicio de Francesco Schettino, el capit&aacute;n del "Costa Concordia", cuyo naufragio dej&oacute; 32 muertos.<span class="Apple-converted-space">&nbsp;</span></span><br style="text-transform: none; text-indent: 0px; margin: 0px; font: 13px Arial, 'Bitstream Vera Sans', Helvetica, sans-serif; white-space: normal; letter-spacing: normal; color: #333333; word-spacing: 0px; -webkit-text-stroke-width: 0px; border: 0px; padding: 0px;" /><br style="text-transform: none; text-indent: 0px; margin: 0px; font: 13px Arial, 'Bitstream Vera Sans', Helvetica, sans-serif; white-space: normal; letter-spacing: normal; color: #333333; word-spacing: 0px; -webkit-text-stroke-width: 0px; border: 0px; padding: 0px;" /><span style="text-transform: none; text-indent: 0px; display: inline !important; font: 13px Arial, 'Bitstream Vera Sans', Helvetica, sans-serif; white-space: normal; float: none; letter-spacing: normal; color: #333333; word-spacing: 0px; -webkit-text-stroke-width: 0px;">Schettino, calificado como "el hombre m&aacute;s odiado de Italia", est&aacute; acusado de homicidio m&uacute;ltiple por imprudencia, abandono de nav&iacute;o y da&ntilde;os al medio ambiente.<span class="Apple-converted-space">&nbsp;</span></span><br style="text-transform: none; text-indent: 0px; margin: 0px; font: 13px Arial, 'Bitstream Vera Sans', Helvetica, sans-serif; white-space: normal; letter-spacing: normal; color: #333333; word-spacing: 0px; -webkit-text-stroke-width: 0px; border: 0px; padding: 0px;" /><br style="text-transform: none; text-indent: 0px; margin: 0px; font: 13px Arial, 'Bitstream Vera Sans', Helvetica, sans-serif; white-space: normal; letter-spacing: normal; color: #333333; word-spacing: 0px; -webkit-text-stroke-width: 0px; border: 0px; padding: 0px;" /><span style="text-transform: none; text-indent: 0px; display: inline !important; font: 13px Arial, 'Bitstream Vera Sans', Helvetica, sans-serif; white-space: normal; float: none; letter-spacing: normal; color: #333333; word-spacing: 0px; -webkit-text-stroke-width: 0px;">Su juicio, que podr&iacute;a durar varios meses, se celebra un tribunal de Grosseto, en el centro de Italia. <em><strong>AFP </strong></em></span></p></div>
+                <div id="clearposition" style="clear: both; line-height: 1px;">
+                </div>
+                <div id="herramientasVnota2">
+                    <div id="herramientasVnotaB" style="float: right; height: 22px; margin: 10px 0px;">
+                        <div class="imgtool_send imgtool">
+                        </div>
+                        <div class="imgtool_print imgtool">
+                        </div>
+                        <div class="imgtool_mas imgtool">
+                        </div>
+                        <div class="imgtool_menos imgtool">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div id="clearposition3" style="clear: both; line-height: 1px;">
+            </div>
+            <div id="cajapublidadB" class="cajapublidadVNot" style="text-align: center;">
+                <center>
+                    <!-- Talcual_Internas_Content_center2_468x60 -->
+                    <script type='text/javascript'>
+                        GA_googleFillSlot("Talcual_Internas_Content_center2_468x60");
+                    </script>
+                </center>
+            </div>
+            
+            
+            <a name="ComentAnchor" style="text-decoration: none;">&nbsp;</a>
+            
+            <div id="envioComentarios" style="background-color: #c7c7c7; padding: 20px 0; margin-top: 10px;">
+                <div class=" enviocomentcont ui-corner-all">
+                    <div id="mainPlaceHolder_ContentContenidocolum1_PanelComentario">
+	
+                        <div style="background-color: #c7c7c7; padding-left: 20px; padding-bottom: 20px;
+                            font-size: 18px; font-family: Georgia,Arial;">
+                            Tu Comentario</div>
+                        <table style="width: 99%; margin: 0 auto;">
+                            <tr>
+                                <td style="vertical-align: top;">
+                                    <div id="cajaComentario" style="border-right: 1px solid #dadada; height: 280px;">
+                                        <div>
+                                            
+                                            <div id="mainPlaceHolder_ContentContenidocolum1_upcomentpanel">
+		
+                                                    <div id="mainPlaceHolder_ContentContenidocolum1_enviarcomentario">
+			
+                                                        <div id="mainPlaceHolder_ContentContenidocolum1_iniciarsesionP">
+				
+                                                            <div style="padding: 10px;" class="txtcomentario">
+                                                                Para participar, necesitas ser usuario registrado en TalCual. Si no lo eres, Regístrate
+                                                                <span style="color: Red; font-weight: bold;"><a class="Regist" href="http://www.talcualdigital.com/recursos/Herramientas/Registro.aspx"
+                                                                    style="cursor: pointer;">Aquí</a></span>
+                                                            </div>
+                                                            <table style="width: 99%; margin: 0 auto;">
+                                                                <tr>
+                                                                    <td colspan="2">
+                                                                        <div id="mainPlaceHolder_ContentContenidocolum1_alerterror" style="color: Red">
+                                                                        </div>
+                                                                    </td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td>
+                                                                        Correo
+                                                                    </td>
+                                                                    <td>
+                                                                        Clave
+                                                                    </td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td>
+                                                                        <input name="ctl00$ctl00$mainPlaceHolder$ContentContenidocolum1$email" type="text" id="mainPlaceHolder_ContentContenidocolum1_email" class="inputobj ui-corner-all" />
+                                                                    </td>
+                                                                    <td>
+                                                                        <input name="ctl00$ctl00$mainPlaceHolder$ContentContenidocolum1$clave" type="password" id="mainPlaceHolder_ContentContenidocolum1_clave" class="inputobj ui-corner-all" />
+                                                                    </td>
+                                                                </tr>
+                                                            </table>
+                                                        
+			</div>
+                                                        <div id="mainPlaceHolder_ContentContenidocolum1_commentHeader">
+                                                        </div>
+                                                        <table style="width: 99%; margin: 0 auto;">
+                                                            <tr>
+                                                                <td>
+                                                                    <div style="color: Red">
+                                                                        </div>
+                                                                    <textarea name="ctl00$ctl00$mainPlaceHolder$ContentContenidocolum1$comentsenduser" rows="6" cols="20" id="mainPlaceHolder_ContentContenidocolum1_comentsenduser" class="inputobj ui-corner-all" onKeyDown="textCounter(this, &#39;counter1&#39;, 280)" onKeyUp="textCounter(this, &#39;counter1&#39;, 280)" onBlur="cutText(this, &#39;counter1&#39;, 280)">
+</textarea>
+                                                                    <div style="font-size: 8pt; margin-top: 4px">
+                                                                        Caracteres restantes:&nbsp;<span id="counter1">280</span></div>
+                                                                </td>
+                                                            </tr>
+                                                        </table>
+                                                        <div id="clickenviarcoment" style="width: 107px; float: right;">
+                                                            <input type="image" name="ctl00$ctl00$mainPlaceHolder$ContentContenidocolum1$ImageButton1" id="mainPlaceHolder_ContentContenidocolum1_ImageButton1" class="txtcomentario" src="../recursos/imagenes/btn_EnviarComentNotaOFF.png" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$ctl00$mainPlaceHolder$ContentContenidocolum1$ImageButton1&quot;, &quot;&quot;, true, &quot;comentarioUsuario&quot;, &quot;&quot;, false, false))" />
+                                                        </div>
+                                                    
+		</div>
+                                                    
+                                                
+	</div>
+                                        </div>
+                                    </div>
+                                </td>
+                                <td style="vertical-align: top; width: 230px;" class="txtcomentario">
+                                    <div style="padding: 20px 10px;">
+                                        Las opiniones aquí emitidas no reflejan la posición de TalCual.<br />
+                                        <br />
+                                        TalCual no se hace responsable por las opiniones emitidas en este espacio.<br />
+                                        <br />
+                                        TalCual se reserva el derecho de no publicar los comentarios que utilicen un lenguaje
+                                        no apropieado y/o que vayan en contra de las leyes venezolanas y las buenas costumbres.<br />
+                                        <br />
+                                        Los mensajes aparecerán publicados en unos minutos.</div>
+                                </td>
+                            </tr>
+                        </table>
+                    
+</div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</td><td style="width:355px; vertical-align:top;">
+<div id="mainPlaceHolder_publicidadright1" style=" margin:20px auto;"><div style="line-height:0px; padding:0px; margin:0 auto; width:300px;"><!-- Talcual_nota_Right1_300x250 --><script type='text/javascript'>GA_googleFillSlot("Talcual_nota_Right1_300x250");</script></div></div>
+
+<div style="width:325px; border-bottom:3px solid #4c4c4c; margin:0 auto;"><div style="font-size:24px; margin:10px; font-family:Georgia; color:#4c4c4c;"  >Destacadas</div></div>
+<div id="mainPlaceHolder_NotasDestacadas"><div class="notacolumRightInterna" >  <div class="secNotas"> La Nación<span class="comms"> | 1 Comentarios   </span></div> <div class="sumNotacolumRightInternaLft">    <div class="ttlnota"><a href ="/Nota/visor.aspx?id=92643">¿Atentado en NY?</a></div><div class="txtVitrina"><a href ="/Nota/visor.aspx?id=92643">Maduro explica su ausencia en la Asamblea de la ONU con revelaciones imprecisas acerca de otro plan magnicida, en las narices del propio Obama
+
+</a></div></div></div><div class="notacolumRightInterna" >  <div class="secNotas"> La Nación<span class="comms"> | 1 Comentarios   </span></div> <div class="sumNotacolumRightInternaLft">    <div class="ttlnota"><a href ="/Nota/visor.aspx?id=92689">Droga voladora: van 22</a></div><div class="txtVitrina"><a href ="/Nota/visor.aspx?id=92689">El ministro de Interior, Miguel Rodríguez Torres, informó que han sido detenidas 22 personas por el caso de incautación de droga en Francia, hallada en un av...</a></div></div></div><div class="notacolumRightInterna" >  <div class="secNotas"> Sucesos <span class="comms"> | 1 Comentarios   </span></div> <div class="sumNotacolumRightInternaLft">    <div class="ttlnota"><a href ="/Nota/visor.aspx?id=92710">Coronel Maldad</a></div><div class="txtVitrina"><a href ="/Nota/visor.aspx?id=92710">Ministerio Público imputó a un coronel de la GN por torturar y matar a un alistado del componente militar, a quien enterró y luego lo hizo pasar por desertor</a></div></div></div><div class="notacolumRightInterna" >  <div class="secNotas"> Mundo<span class="comms">  </span></div> <div class="sumNotacolumRightInternaLft">    <div class="ttlnota"><a href ="/Nota/visor.aspx?id=92721">La ayuda tarda en llegar</a></div><div class="txtVitrina"><a href ="/Nota/visor.aspx?id=92721">El número de muertos por el terremoto que afectó el suroeste de Pakistán asciende a 349, según datos oficiales publicados hoy, mientras preocupa cada vez más...</a></div></div></div><div class="notacolumRightInterna" >  <div class="secNotas"> Educación<span class="comms">  </span></div> <div class="sumNotacolumRightInternaLft">    <div class="ttlnota"><a href ="/Nota/visor.aspx?id=92700">No al adoctrinamiento</a></div><div class="txtVitrina"><a href ="/Nota/visor.aspx?id=92700">Primero Justicia cuestiona que el Gobierno pretenda ideologizar a los estudiantes, quienes lo que necesitan es educación de calidad. Rechaza el aumento salar...</a></div></div></div></div>
+                <div id="publicidadright2" style=" margin:20px auto;">
+<div style=" line-height:0px; padding:0px; margin:0 auto; width:300px;">
+<!-- Talcual_Internas_Right2_300x250 -->
+<script type='text/javascript'>
+    GA_googleFillSlot("Talcual_Internas_Right2_300x250");
+</script></div></div>
+                
+                
+                <div style="width:325px; height:300px; background-color:#c7c7c7; margin:10px auto 10px auto; padding-top:10px;" id="LosMas">
+                    <table id="lmhead" class="losmas loUltimo">
+                        <tr>
+                            <td style="width:94px;"><div style="width:94px; height:20px; cursor:pointer;" onclick="losmas(1);">&nbsp;</div></td>
+                            <td style="width:70px;"><div style="width:70px; height:20px; cursor:pointer;" onclick="losmas(2);">&nbsp;</div></td>
+                            <td><div style="width:110px; height:20px; cursor:pointer;" onclick="losmas(3);">&nbsp;</div></td>
+                        </tr>
+                    </table>
+                    <div style=" background-color:White; width:300px; margin:0px auto 0px auto; height:255px;" class="ui-corner-bottom ui-corner-right" id="lmascontent">
+                        <ul style="padding:10px 20px; margin:0px 20px;">
+                       
+                        </ul>
+                    </div>
+                    <div class="lmasConte" id="lutimoC">
+                        <ul id="mainPlaceHolder_lmasc" style="padding:10px 20px; margin:0px 20px;"><li class="listNota"><a href="/Nota/visor.aspx?id=92721&tipo=AVA">La ayuda tarda en llegar</a></li><li class="listNota"><a href="/Nota/visor.aspx?id=92720&tipo=AVA">Boleros y algo m&#225;s</a></li><li class="listNota"><a href="/Nota/visor.aspx?id=92719&tipo=AVA">Vienen los tractores</a></li><li class="listNota"><a href="/Nota/visor.aspx?id=92716&tipo=AVA">Preparada para el mundo</a></li><li class="listNota"><a href="/Nota/visor.aspx?id=92717&tipo=AVA">Celebraci&#243;n de altura </a></li><li class="listNota"><a href="/Nota/visor.aspx?id=92718&tipo=AVA">Ciudades digitalizadas</a></li><li class="listNota"><a href="/Nota/visor.aspx?id=92715&tipo=AVA">La moral en Heidegger</a></li><li class="listNota"><a href="/Nota/visor.aspx?id=92714&tipo=AVA">Ecologistas en prisi&#243;n</a></li><li class="listNota"><a href="/Nota/visor.aspx?id=92713&tipo=AVA">Hay que pasar la p&#225;gina</a></li><li class="listNota"><a href="/Nota/visor.aspx?id=92712&tipo=AVA">Escuelas inservibles</a></li></ul>
+                    </div>
+                    <div class="lmasConte" id="mVistasC">
+                        <ul id="mainPlaceHolder_mVisC" style="padding:10px 20px; margin:0px 20px;"><li class="listNota"><a href="/Nota/visor.aspx?id=92455&tipo=AVA">Maduro echa el cuento   </a></li><li class="listNota"><a href="/Nota/visor.aspx?id=92583&tipo=AVA">Por favor, Beyonc&#233;</a></li><li class="listNota"><a href="/Nota/visor.aspx?id=92497&tipo=AVA">Bombillo para pobres</a></li><li class="listNota"><a href="/Nota/visor.aspx?id=92389&tipo=AVA">Cargue gasolina</a></li><li class="listNota"><a href="/Nota/visor.aspx?id=92568&tipo=AVA">El rancho sigue</a></li><li class="listNota"><a href="/Nota/visor.aspx?id=92627&tipo=AVA">Eva, corresponsal</a></li><li class="listNota"><a href="/Nota/visor.aspx?id=92580&tipo=AVA">Piensa antes de hablar</a></li><li class="listNota"><a href="/Nota/visor.aspx?id=92606&tipo=AVA">Chinos go home</a></li><li class="listNota"><a href="/Nota/visor.aspx?id=92632&tipo=AVA">Casado y castrado</a></li><li class="listNota"><a href="/Nota/visor.aspx?id=92439&tipo=AVA">El imperio... chino</a></li></ul>
+                    </div>
+                    <div class="lmasConte" id="mComentC">
+                        <ul id="mainPlaceHolder_mComC" style="padding:10px 20px; margin:0px 20px;"><li class="listNota"><a href="/Nota/visor.aspx?id=92512&tipo=AVA">Disidentes expulsados</a></li><li class="listNota"><a href="/Nota/visor.aspx?id=92351&tipo=AVA">Deuda peligrosa</a></li><li class="listNota"><a href="/Nota/visor.aspx?id=92407&tipo=AVA">Marcha con olla</a></li><li class="listNota"><a href="/Nota/visor.aspx?id=92528&tipo=AVA">Los &quot;amigos&quot; nos esp&#237;an </a></li><li class="listNota"><a href="/Nota/visor.aspx?id=92571&tipo=AVA">La alianza perfecta</a></li><li class="listNota"><a href="/Nota/visor.aspx?id=92580&tipo=AVA">Piensa antes de hablar</a></li><li class="listNota"><a href="/Nota/visor.aspx?id=92640&tipo=AVA">No hay lial, Nicol&#225;s </a></li><li class="listNota"><a href="/Nota/visor.aspx?id=92393&tipo=AVA">Comenz&#243; la viajadera</a></li><li class="listNota"><a href="/Nota/visor.aspx?id=92425&tipo=AVA">Ojo de Dios no es gringo</a></li><li class="listNota"><a href="/Nota/visor.aspx?id=92468&tipo=AVA">Los d&#233;spotas pasan</a></li></ul>                   
+                    </div>
+                </div>
+
+                <script type="text/javascript">
+                    losmas(1);
+                
+                </script>
+                
+
+</td></tr></table>
+
+  
+    </div>
+    <div class="footerSep"></div>
+    <div class="footer">
+        <div id="menuInferior" class="contMenu"><div class="menuPitem menuPitemUS"><a href="/">Inicio</a></div><div class="menuSep"></div><div class="menuPitem menuPitemUS"><a href="/seccion.aspx?id=89">Editorial</a></div><div class="menuSep"></div><div class="menuPitem menuPitemUS"><a href="/seccion.aspx?id=28">La Nación</a></div><div class="menuSep"></div><div class="menuPitem menuPitemUS"><a href="/seccion.aspx?id=1">Mundo</a></div><div class="menuSep"></div><div class="menuPitem menuPitemUS"><a href="/seccion.aspx?id=3">Economía</a></div><div class="menuSep"></div><div class="menuPitem menuPitemUS"><a href="/seccion.aspx?id=44">Opinión</a></div><div class="menuSep"></div><div class="menuPitem menuPitemUS"><a href="/seccion.aspx?id=9">Deportes</a></div><div class="menuSep"></div><div class="menuPitem menuPitemUS"><a href="/seccion.aspx?id=4">Ciudad</a></div><div class="menuSep"></div><div class="menuPitem menuPitemUS"><a href="/seccion.aspx?id=7">Entretenimiento</a></div><div class="menuSep"></div><div class="menuPitem menuPitemUS"><a href="/seccion.aspx?id=10">Salud</a></div><div class="menuSep"></div><div class="menuPitem menuPitemUS"><a href="/seccion.aspx?id=87">GENTE</a></div><div class="menuSep"></div><div class="menuPitem menuPitemUS"><a href="/seccion.aspx?id=13">Tecnología</a></div></div>
+        <div id="copyRt" class="copyR">Copyright &copy; 2000-2013. Editorial La Mosca Analfabeta C.A. Todos los Derechos Reservados</div>
+        <a href="http://www.infotech-corp.com/" target="_blank"><div class="infotech">
+        </div></a>
+    </div>
+
+    <!--SPLIT-FOOT-->
+
+    </form>
+</body>
+</html>

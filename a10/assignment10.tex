@@ -1,0 +1,73 @@
+\documentclass{article}
+\usepackage{float}
+\usepackage[pdftex]{graphicx}
+\usepackage{listings}
+\usepackage{xcolor}
+\usepackage[cm]{fullpage}
+\lstset{basicstyle=\ttfamily,
+  showstringspaces=false,
+  commentstyle=\color{red},
+  keywordstyle=\color{blue}
+}
+\begin{document}
+
+\author{Jon Robison}
+\title{CS595 Assignment 10}
+\maketitle
+
+Q1.\\
+Choose a blog or a newsfeed (or something similar with an Atom or RSS feed).  It should be on a topic or\\
+topics of which you are qualified to provide classification training data. Find something with at least \\
+100 entries Create between four and eight different categories for the entries in the feed:..download and process.\\*
+
+The program getTitles.py retrieves the paginated results and outputs to a pipe separated text\\
+file. This file is then manually processed to include necessary training information. This is \\
+accomplished by putting the feature in the 3rd location and the actual category in the 4th \\
+location (after the third pipe) when appropriate.\\*
+
+See program given in Appendix A.\\*
+
+Q2.\\
+Manually classify the first 50 entries, and then classify (using the fisher classifier) the remaining\\
+50 entries. Create a table with the title, the string used for classification, cprob(), predicted category,\\
+and actual category.\\*
+
+The driver program invokes docclass, reading the file given from A. This trains the classifier with the\\
+first half of whatever is given in the file, and guesses the last half. Different results are printed to a\\
+latex file and the console for the results table and debugging information/status, respectively.\\*
+
+\input{q2/classificationResults.tex}
+\\*
+
+CProb is notably low, indicating low confidence in the guess. My believe is that since the blog is a music\\
+blog, and the titles are typically band or album names, the classifier can't distinguish titles. I initially\\
+went with this blog since it already broke down the classifications for me, but realized upon identifying the\\
+features it wouldn't be great since the classications were the only unique data. That would be my next step.\\*
+
+See program given in Appendix B and C.\\*
+
+Q3.\\
+Assess the performance of your classifier in each of your categories by computing precision and recall.  Note\\
+that the definitions are slightly different in the context of classification.\\*
+
+\begin{tabular}{ l l l }
+	&Precision	&Recall\\
+album	&19/34		&19/19\\
+new	&1/1		&1/5\\
+event	&10/10		&10/22\\
+single	&3/3		&3/4\\
+interview&0/2		&0/0\\
+\end{tabular}
+
+\appendix
+\newpage
+Appendix A
+\lstinputlisting[language=python]{q1/getTitles.py}
+
+\newpage
+Appendix B
+\lstinputlisting[language=python]{q2/driver.py}
+
+Appendix C
+\lstinputlisting[language=python]{q2/docclass.py}
+\end{document}

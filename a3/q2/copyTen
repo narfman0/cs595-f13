@@ -1,0 +1,10 @@
+#!/bin/bash
+x=0
+for file in `grep -rl $2 $1`; do
+	cp $file "copied"
+	x=`expr $x + 1`
+	if (("$x" >= 10)); then
+		echo "Copy complete!"
+		exit
+	fi
+done

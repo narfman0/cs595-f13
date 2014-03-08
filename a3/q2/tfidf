@@ -1,0 +1,31 @@
+#!/bin/bash
+SCALE=4
+
+function getTF() {
+	tc=`grep -r $term $htmlFile | wc -l`
+	getWC
+	tf=`echo "scale=$SCALE; $tc/$wc" | bc -l`
+}
+
+function getIDF() {
+	idfToLog=`echo "$totalDocs / $totalContainingTerm" | bc -l`
+	idf=`echo "scale=$SCALE; l($idfToLog)/l(2)" | bc -l`
+}
+
+function getWC() {
+	wc=`cat $htmlFile | wc -w`
+}
+
+function getTFIDF() {
+	tfidf=`echo "scale=$SCALE; $idf*$tf" | bc -l`
+}
+
+htmlFile=$1
+term=$2
+totalContainingTerm=$3
+totalDocs=$4
+getTF
+getIDF
+getTFIDF
+echo "$htmlFile stats for $term: TC=$tc WC=$wc TF=$tf IDF=$idf TFIDF=$tfidf"
+echo "$tfidf $tf $idf" > tfidf.result

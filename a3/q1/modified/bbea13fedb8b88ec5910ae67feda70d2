@@ -1,0 +1,2864 @@
+<!DOCTYPE html>
+
+
+<!--[if lt IE 7 ]> <html class="no-js ie6" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"> <![endif]-->
+<!--[if IE 7 ]>    <html class="no-js ie7" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"> <![endif]-->
+<!--[if IE 8 ]>    <html class="no-js ie8" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"> <![endif]-->
+<!--[if IE 9 ]>    <html class="no-js ie9" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--><html class="no-js no-ie" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"><!--<![endif]-->
+
+<head >
+    <title>Sporting News - Real Insight. Real Fans. Real Conversations.</title>
+    <meta charset="utf8">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" >
+<meta property="og:title" content="Sporting News - Real Insight. Real Fans. Real Conversations." >
+<meta property="og:url" content="http://www.sportingnews.com/" >
+<meta property="og:image" content="http://st.snimg.com/image/environment/www/sn-logo-200x200.png" >
+<meta property="og:type" content="website" >
+<meta property="og:site_name" content="Sporting News" >
+<meta property="og:description" content="Sporting News is a one-stop shop for avid fans like you to follow breaking sports news and major stories." >
+<meta property="fb:app_id" content="117854138246106" >
+<meta property="fb:admins" content="1683240875,11827711" >
+<meta property="twitter:account_id" content="30690661" >
+    <link href="http://st.snimg.com/image/environment/www/sn-logo-200x200.png" rel="image_src" >
+<link href="http://dy.snimg.com/compressed/www-base-fe6424df689fb21ee497340a9930f682.css" media="screen" rel="stylesheet" type="text/css" >
+<link href="http://st.snimg.com/vendor/jquery-ui-1.8.20/css/custom-theme/jquery-ui-1.8.20.custom.css?_cb=48d70c198be97a39f1ea1c259fde7b49" media="screen" rel="stylesheet" type="text/css" >
+<link href="http://dy.snimg.com/compressed/www-component-fb4e25e3717683682c6f28fac2147ff4.css" media="screen" rel="stylesheet" type="text/css" >
+<link href="http://dy.snimg.com/compressed/www-theme-bffeb0a84bcdc04d57ed10129fc3959d.css" media="screen" rel="stylesheet" type="text/css" >
+<link href="http://dy.snimg.com/compressed/www-environment-dd15c565cee8bb21a47e8a8122aa958a.css" media="screen" rel="stylesheet" type="text/css" >
+<link href="http://dy.snimg.com/compressed/www-page-4235bab8bfc538dee5e67b3291a7ca25.css" media="screen" rel="stylesheet" type="text/css" >
+<link href="http://st.snimg.com/css/font.css?_cb=aec67a250b43feed55a27887248a3f25" media="screen" rel="stylesheet" type="text/css" >
+<link href="http://st.snimg.com/vendor/jquery-plugin/nanoScrollerJS/bin/css/nanoscroller.css?_cb=e9eba296ea4b43b5bbb39d2043f83a9c" media="screen" rel="stylesheet" type="text/css" >
+<link href="https://plus.google.com/115523108392991665451/" rel="publisher" >
+<link href="http://st.snimg.com/image/apple-touch-icon/sn-144x144.png" rel="apple-touch-icon-precomposed" sizes="144x144" >
+<link href="http://st.snimg.com/image/apple-touch-icon/sn-114x114.png" rel="apple-touch-icon-precomposed" sizes="114x114" >
+<link href="http://st.snimg.com/image/apple-touch-icon/sn-72x72.png" rel="apple-touch-icon-precomposed" sizes="72x72" >
+<link href="http://st.snimg.com/image/apple-touch-icon/sn-72x72.png" rel="apple-touch-icon-precomposed" >
+<link href="http://www.sportingnews.com/rss" rel="alternate" type="application/rss+xml" title="Sporting News Feed - Everything" >
+<link href="http://www.sportingnews.com/rss/nfl" rel="alternate" type="application/rss+xml" title="Sporting News Feed - NFL" >
+<link href="http://www.sportingnews.com/rss/mlb" rel="alternate" type="application/rss+xml" title="Sporting News Feed - MLB" >
+<link href="http://www.sportingnews.com/rss/nba" rel="alternate" type="application/rss+xml" title="Sporting News Feed - NBA" >
+<link href="http://www.sportingnews.com/rss/nhl" rel="alternate" type="application/rss+xml" title="Sporting News Feed - NHL" >
+<link href="http://www.sportingnews.com/rss/ncaa-football" rel="alternate" type="application/rss+xml" title="Sporting News Feed - NCAA Football" >
+<link href="http://www.sportingnews.com/rss/ncaa-basketball" rel="alternate" type="application/rss+xml" title="Sporting News Feed - NCAA Basketball" >
+<link href="http://www.sportingnews.com/rss/nascar" rel="alternate" type="application/rss+xml" title="Sporting News Feed - NASCAR" >
+<link href="http://www.sportingnews.com/" rel="target_url" >
+    
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+
+<script type="text/javascript">
+//<!--
+//-->
+
+</script>
+    <!-- Head JS -->
+    <script type="text/javascript">
+    //<!--
+
+                // window or var syntax cuases errors in IE
+                SN = {
+                    PAGE_URL: '',
+                    BASE_URL: 'http://www.sportingnews.com',
+                    MEDIA_BASE_URL: 'http://st.snimg.com',
+                    FACEBOOK_APP_ID: '117854138246106',
+                    FACEBOOK_APP_NAMESPACE: 'sporting-news',
+                    FACEBOOK_CHANNEL_URL: 'http://www.sportingnews.com/channel.html',
+                    LOCAL_STORAGE_VERSION: 2,
+                    module: {},
+                    SITE_SEARCH_SHOW_IMPROVED_SEARCH_TOOLTIP : false,
+                    // TODO: Deprecate
+                    view: {},
+                    model: {},
+                    collection: {}
+                };
+                    //-->
+</script>
+<script type="text/javascript">
+    //<!--
+adid=''    //-->
+</script>
+<script type="text/javascript" src="http://st.snimg.com/vendor/dart.js?_cb=1e5af7cba30cab776b70f60cafbef286"></script>
+<script type="text/javascript">
+    //<!--
+SN.AUTOCOMPLETE_SEARCH = true;    //-->
+</script>
+<script type="text/javascript">
+    //<!--
+var _sf_startpt=(new Date()).getTime();    //-->
+</script>
+<script type="text/javascript">
+    //<!--
+
+                window.SN.section = {"name":"SN","shortName":"SN","longName":"Sporting News","omnitureString":"sn","cinesport":"sn","todayOdds":"SN"}    //-->
+</script>
+<script type="text/javascript">
+    //<!--
+setTimeout(function () {
+    document.location = document.location.href;
+}, 120 * 1000);    //-->
+</script></head>
+<body class="www-env ad-env section-env sn-section-env sn-section-front-page section-front-env sn-section-front-page section-front-env">
+    
+<script type="text/javascript">
+var bN_cfg = {iframes: 0, h: location.hostname};
+
+function runOmni()
+{
+s_265.pfxID="spr";
+s_265.pageName="home";
+s_265.channel="us.sportnews";
+s_265.linkInternalFilters="javascript:,sportingnews.com";
+s_265.prop1="free content:home";
+s_265.prop12=document.URL.split('?')[0];
+s_265.mmxgo=true;
+var s_code=s_265.t();
+}
+s_265_account ="aolsvc";
+(function(){
+var d = document, s = d.createElement('script');
+s.type = 'text/javascript';
+s.src = (location.protocol == 'https:' ? 'https://s' : 'http://o') + '.aolcdn.com/os_merge/?file=/aol/beacon.min.js&file=/aol/omniture.min.js';
+d.getElementsByTagName('head')[0].appendChild(s);
+})();
+</script>
+
+    <div id="aol-bar-module" class="aol-bar-module clearfix">
+    <div class="site-container">
+        <ul>
+            <li class="first">
+                <a title="AOL." class="ir aol-logo-sm" href="http://www.aol.com/?icid=sn|header|logo" target="_blank">AOL</a>
+            </li>
+            <li>
+                <a title="Mail" class="mail" href="http://mail.aol.com" target="_blank">MAIL</a>
+            </li>
+            <li class="more-links">
+                You might also like:
+                <a href="http://www.huffingtonpost.com/" target="_blank">Huffington Post</a> and <a class="trigger" href="#">More</a>
+                <div class="box">
+                    <h5>More Links</h5>
+                    <ul>
+                        <li>
+                            <a href="http://www.huffingtonpost.com/sports/" target="_blank">HuffPost Sports</a>
+                        </li>
+                        <li>
+                            <a href="http://www.huffingtonpost.com/travel/" target="_blank">HuffPost Travel</a>
+                        </li>
+                        <li>
+                            <a href="http://engadget.com/?icid=sn|header" target="_blank">Engadget</a>
+                        </li>
+                    </ul>
+                    <ul>
+                        <li>
+                            <a href="http://www.games.com/" target="_blank">Games.com</a>
+                        </li>
+                        <li>
+                            <a href="http://www.huffingtonpost.com/comedy/" target="_blank">HuffPost Comedy</a>
+                        </li>
+                        <li>
+                            <a href="http://www.huffingtonpost.com/entertainment/" target="_blank">HuffPost Ent.</a>
+                        </li>
+                    </ul>
+                    <ul>
+                        <li>
+                            <a href="http://www.mapquest.com/" target="_blank">MapQuest</a>
+                        </li>
+                        <li>
+                            <a href="http://www.moviefone.com/?icid=sn|header" target="_blank">MovieFone</a>
+                        </li>
+                        <li>
+                            <a href="http://techcrunch.com/" target="_blank">TechCrunch</a>
+                        </li>
+                    </ul>
+                </div>
+            </li>
+        </ul>
+    </div>
+</div>
+
+<div id="mini-scoreboard-module" class="mini-scoreboard-module clearfix">
+
+    <div class="site-container clearfix">
+
+        <ul class="sport-options">
+                    <li>
+            <a class="option active" href="#" data-sport="mlb">
+                MLB            </a>
+        </li>
+                    <li>
+            <a class="option" href="#" data-sport="nfl">
+                NFL            </a>
+        </li>
+                    <li>
+            <a class="option" href="#" data-sport="ncaaf">
+                NCAAF            </a>
+        </li>
+            </ul>
+
+        <div class="scroll-pane">
+            <div class="scroll-content">
+                <ul class="games unstyled">
+
+                </ul>
+            </div>
+        </div>
+
+        <div class="actions">
+            <a class="scroll-dir left" data-direction="1" href="#">
+                <i class="icon-chevron-left icon-white"></i>
+            </a>
+            <a class="scroll-dir right" data-direction="-1" href="#">
+                <i class="icon-chevron-right icon-white"></i>
+            </a>
+            <a class="goto" href="#">
+                <i class="icon-share-alt icon-white"></i>
+            </a>
+        </div>
+
+    </div>
+
+    <script id="mini-scoreboard-game-template" type="text/html">
+        <div class="matchup">
+
+            <table>
+                <tr>
+                                        <td class="team visiting">
+                        <span class="name">
+
+                        </span>
+                        <span class="score">
+
+                        </span>
+                    </td>
+                                        <td class="team home">
+                        <span class="name">
+
+                        </span>
+                        <span class="score">
+
+                        </span>
+                    </td>
+                                    </tr>
+            </table>
+
+        </div>
+        <div class="period">
+            <a href="#">
+                <span class="scope"></span> <span class="separator">/</span>
+                <span class="remaining"></span>
+            </a>
+        </div>
+    </script>
+
+</div>
+
+<div class="masthead-module clearfix">
+    <div class="foreground">
+        <div class="site-container clearfix">
+
+            <a class="sn-feed-logo pull-left" href="http://www.sportingnews.com">
+                <img src="http://st.snimg.com/image/feed/logos/sn-logo.png" alt="Sporting News Feed Logo">
+            </a>
+
+            
+            <div class="site-search-module search pull-right">
+    <form id="header-search" class="form-inline" method="GET" action="/search">
+        <fieldset>
+            <input id="site-search-input" class="search-input" name="q" type="text" placeholder="Search Sporting News" autocomplete="off">
+            <button class="search-submit" type="submit">
+                Search <i class="icon-chevron-right icon-white"></i>
+            </button>
+        </fieldset>
+    </form>
+    <div id="search-auto-complete-popup"></div>
+</div>
+
+        </div>
+        <div class="site-navigation-module clearfix">
+    <div class="site-container">
+        <ul class="nav nav-tabs section-nav">
+            
+                                                
+            <li class="tab  detab">
+                <a class="" href="http://www.sportingnews.com/">
+                    Home                </a>
+
+                            </li>
+
+
+            
+                                                
+            <li class="tab  ">
+                <a class="" href="http://www.sportingnews.com/nfl">
+                    NFL                </a>
+
+                                                        
+                    <div class="dropdown hide">
+                        <ul class="unstyled color-nfl-border">
+                                                                                    <li>
+                                <a href="/nfl">
+                                    NFL Home                                </a>
+                            </li>
+                                                                                                        <li>
+                                <a href="/nfl/draft/2013/draft-board">
+                                    2013 NFL Draft                                </a>
+                            </li>
+                                                                                                        <li>
+                                <a href="/nfl/stories">
+                                    News                                </a>
+                            </li>
+                                                                                                        <li>
+                                <a href="http://fantasysource.sportingnews.com/football/free?affiliate_code=sn_navigation">
+                                    Fantasy                                </a>
+                            </li>
+                                                                                                        <li>
+                                <a href="/nfl/video">
+                                    Video                                </a>
+                            </li>
+                                                                                                        <li>
+                                <a href="/nfl/scoreboard">
+                                    Scores                                </a>
+                            </li>
+                                                </ul>
+                        <ul class="unstyled color-nfl-border">
+                                                                                                        <li>
+                                <a href="/nfl/schedule">
+                                    Schedule                                </a>
+                            </li>
+                                                                                                        <li>
+                                <a href="/nfl/standings">
+                                    Standings                                </a>
+                            </li>
+                                                                                                        <li>
+                                <a href="/nfl/statistics">
+                                    Statistics                                </a>
+                            </li>
+                                                                                                        <li>
+                                <a href="/nfl/teams">
+                                    Teams                                </a>
+                            </li>
+                                                                                                        <li>
+                                <a href="/nfl/players">
+                                    Players                                </a>
+                            </li>
+                                                                                                        <li>
+                                <a href="http://www.sportingnews.com/nfl/injuries">
+                                    Injuries                                </a>
+                            </li>
+                                                </ul>
+                        <ul class="unstyled color-nfl-border">
+                                                                                                        <li>
+                                <a target="_blank" href="http://www.vividseats.com/nfl/">
+                                    NFL Tickets                                </a>
+                            </li>
+                                                                                                        <li>
+                                <a target="_blank" href="http://www.fanatics.com/NFL/partnerid/9938">
+                                    NFL Shop                                </a>
+                            </li>
+                                                                                                        <li>
+                                <a target="_blank" href="http://itunes.apple.com/app/sporting-news-pro-football/id300213367?mt=">
+                                    iPhone App                                </a>
+                            </li>
+                                                                                                        <li>
+                                <a href="/nfl/fancards">
+                                    Virtual Fan Cards                                </a>
+                            </li>
+                                                                                                    </ul>
+                    </div>
+                            </li>
+
+
+            
+                                                
+            <li class="tab  ">
+                <a class="" href="http://www.sportingnews.com/mlb">
+                    MLB                </a>
+
+                                                        
+                    <div class="dropdown hide">
+                        <ul class="unstyled color-mlb-border">
+                                                                                    <li>
+                                <a href="/mlb">
+                                    MLB Home                                </a>
+                            </li>
+                                                                                                        <li>
+                                <a href="/mlb/stories">
+                                    News                                </a>
+                            </li>
+                                                                                                        <li>
+                                <a href="http://fantasysource.sportingnews.com/baseball/free?affiliate_code=sn_navigation">
+                                    Fantasy                                </a>
+                            </li>
+                                                                                                        <li>
+                                <a href="/mlb/scoreboard">
+                                    Scores                                </a>
+                            </li>
+                                                                                                        <li>
+                                <a href="/mlb/schedule">
+                                    Schedule                                </a>
+                            </li>
+                                                                                                        <li>
+                                <a href="/mlb/standings">
+                                    Standings                                </a>
+                            </li>
+                                                </ul>
+                        <ul class="unstyled color-mlb-border">
+                                                                                                        <li>
+                                <a href="/mlb/statistics">
+                                    Statistics                                </a>
+                            </li>
+                                                                                                        <li>
+                                <a href="/mlb/teams">
+                                    Teams                                </a>
+                            </li>
+                                                                                                        <li>
+                                <a href="/mlb/players">
+                                    Players                                </a>
+                            </li>
+                                                                                                        <li>
+                                <a href="/mlb/injuries">
+                                    Injuries                                </a>
+                            </li>
+                                                                                                        <li>
+                                <a href="http://www.sportingnews.com/mlb/transactions">
+                                    Transactions                                </a>
+                            </li>
+                                                                                                        <li>
+                                <a target="_blank" href="http://www.vividseats.com/mlb-baseball/">
+                                    Tickets                                </a>
+                            </li>
+                                                </ul>
+                        <ul class="unstyled color-mlb-border">
+                                                                                                        <li>
+                                <a target="_blank" href="http://www.fanatics.com/MLB/partnerid/9938">
+                                    MLB Shop                                </a>
+                            </li>
+                                                                                                        <li>
+                                <a target="_blank" href="https://www.fanduel.com/sportingnewsmlb?t=SN_BBALL13">
+                                    FanDuel                                </a>
+                            </li>
+                                                                                                        <li>
+                                <a target="_blank" href="http://itunes.apple.com/app/sporting-news-baseball/id309813391?mt=8">
+                                    iPhone App                                </a>
+                            </li>
+                                                                                                        <li>
+                                <a href="http://fantasysource.sportingnews.com/baseball/newsletter/signup">
+                                    Fantasy Newsletter                                </a>
+                            </li>
+                                                                                                        <li>
+                                <a href="/mlb/mlbpa-players-choice">
+                                    Virtual Fan Cards                                </a>
+                            </li>
+                                                                                                    </ul>
+                    </div>
+                            </li>
+
+
+            
+                                                
+            <li class="tab  ">
+                <a class="" href="http://www.sportingnews.com/nba">
+                    NBA                </a>
+
+                                                        
+                    <div class="dropdown hide">
+                        <ul class="unstyled color-nba-border">
+                                                                                    <li>
+                                <a href="/nba">
+                                    NBA Home                                </a>
+                            </li>
+                                                                                                        <li>
+                                <a href="/nba/stories">
+                                    News                                </a>
+                            </li>
+                                                                                                        <li>
+                                <a href="/nba/video">
+                                    Video                                </a>
+                            </li>
+                                                                                                        <li>
+                                <a href="/nba/scoreboard">
+                                    Scores                                </a>
+                            </li>
+                                                                                                        <li>
+                                <a href="/nba/schedule">
+                                    Schedule                                </a>
+                            </li>
+                                                                                                        <li>
+                                <a href="/nba/standings">
+                                    Standings                                </a>
+                            </li>
+                                                </ul>
+                        <ul class="unstyled color-nba-border">
+                                                                                                        <li>
+                                <a href="/nba/statistics">
+                                    Statistics                                </a>
+                            </li>
+                                                                                                        <li>
+                                <a href="/nba/teams">
+                                    Teams                                </a>
+                            </li>
+                                                                                                        <li>
+                                <a href="/nba/players">
+                                    Players                                </a>
+                            </li>
+                                                                                                        <li>
+                                <a href="/nba/injuries">
+                                    Injuries                                </a>
+                            </li>
+                                                                                                        <li>
+                                <a href="/nba/transactions">
+                                    Transactions                                </a>
+                            </li>
+                                                                                                        <li>
+                                <a target="_blank" href="http://www.vividseats.com/nba-basketball/">
+                                    NBA Tickets                                </a>
+                            </li>
+                                                </ul>
+                        <ul class="unstyled color-nba-border">
+                                                                                                        <li>
+                                <a target="_blank" href="http://www.fanatics.com/NBA/partnerid/9938">
+                                    NBA Shop                                </a>
+                            </li>
+                                                                                                        <li>
+                                <a target="_blank" href="http://www.fanduel.com/SportingNewsBasketballHockey?t=nav">
+                                    FanDuel                                </a>
+                            </li>
+                                                                                                    </ul>
+                    </div>
+                            </li>
+
+
+            
+                                                
+            <li class="tab  ">
+                <a class="" href="http://www.sportingnews.com/nhl">
+                    NHL                </a>
+
+                                                        
+                    <div class="dropdown hide">
+                        <ul class="unstyled color-nhl-border">
+                                                                                    <li>
+                                <a href="/nhl">
+                                    NHL Home                                </a>
+                            </li>
+                                                                                                        <li>
+                                <a href="/nhl/stories">
+                                    News                                </a>
+                            </li>
+                                                                                                        <li>
+                                <a href="/nhl/video">
+                                    Video                                </a>
+                            </li>
+                                                                                                        <li>
+                                <a href="/nhl/scoreboard">
+                                    Scores                                </a>
+                            </li>
+                                                                                                        <li>
+                                <a href="/nhl/schedule">
+                                    Schedule                                </a>
+                            </li>
+                                                                                                        <li>
+                                <a href="/nhl/standings">
+                                    Standings                                </a>
+                            </li>
+                                                </ul>
+                        <ul class="unstyled color-nhl-border">
+                                                                                                        <li>
+                                <a href="/nhl/statistics">
+                                    Statistics                                </a>
+                            </li>
+                                                                                                        <li>
+                                <a href="/nhl/teams">
+                                    Teams                                </a>
+                            </li>
+                                                                                                        <li>
+                                <a href="/nhl/players">
+                                    Players                                </a>
+                            </li>
+                                                                                                        <li>
+                                <a href="/nhl/injuries">
+                                    Injuries                                </a>
+                            </li>
+                                                                                                        <li>
+                                <a href="/nhl/transactions">
+                                    Transactions                                </a>
+                            </li>
+                                                                                                        <li>
+                                <a target="_blank" href="http://www.vividseats.com/nhl-hockey/">
+                                    NHL Tickets                                </a>
+                            </li>
+                                                </ul>
+                        <ul class="unstyled color-nhl-border">
+                                                                                                        <li>
+                                <a target="_blank" href="http://www.fanatics.com/NHL/partnerid/9938">
+                                    NHL Shop                                </a>
+                            </li>
+                                                                                                        <li>
+                                <a target="_blank" href="http://www.fanduel.com/SportingNewsBasketballHockey?t=nav">
+                                    FanDuel                                </a>
+                            </li>
+                                                                                                    </ul>
+                    </div>
+                            </li>
+
+
+            
+                                                
+            <li class="tab  ">
+                <a class="" href="http://www.sportingnews.com/ncaa-football">
+                    NCAAF                </a>
+
+                                                        
+                    <div class="dropdown hide">
+                        <ul class="unstyled color-ncaaf-border">
+                                                                                    <li>
+                                <a href="/ncaa-football">
+                                    NCAAF Home                                </a>
+                            </li>
+                                                                                                        <li>
+                                <a href="/ncaa-football/stories">
+                                    News                                </a>
+                            </li>
+                                                                                                        <li>
+                                <a href="/ncaa-football/video">
+                                    Video                                </a>
+                            </li>
+                                                                                                        <li>
+                                <a href="/ncaa-football/scoreboard">
+                                    Scores                                </a>
+                            </li>
+                                                                                                        <li>
+                                <a href="/ncaa-football/schedule">
+                                    Schedule                                </a>
+                            </li>
+                                                                                                        <li>
+                                <a href="/ncaa-football/standings">
+                                    Standings                                </a>
+                            </li>
+                                                </ul>
+                        <ul class="unstyled color-ncaaf-border">
+                                                                                                        <li>
+                                <a href="/ncaa-football/polls">
+                                    Polls                                </a>
+                            </li>
+                                                                                                        <li>
+                                <a href="/ncaa-football/teams">
+                                    Teams                                </a>
+                            </li>
+                                                                                                        <li>
+                                <a href="/ncaa-football/story/2012-03-02/college-football-recruiting-2013-news-position-by-position">
+                                    Recruiting                                </a>
+                            </li>
+                                                                                                        <li>
+                                <a target="_blank" href="http://www.vividseats.com/ncaaf/">
+                                    NCAAF Tickets                                </a>
+                            </li>
+                                                                                                        <li>
+                                <a target="_blank" href="http://www.fanatics.com/COLLEGE/partnerid/9938">
+                                    NCAAF Shop                                </a>
+                            </li>
+                                                                                                    </ul>
+                    </div>
+                            </li>
+
+
+            
+                                                
+            <li class="tab  ">
+                <a class="" href="http://www.sportingnews.com/ncaa-basketball">
+                    NCAAB                </a>
+
+                                                        
+                    <div class="dropdown hide">
+                        <ul class="unstyled color-ncaab-border">
+                                                                                    <li>
+                                <a href="/ncaa-basketball">
+                                    NCAAB Home                                </a>
+                            </li>
+                                                                                                        <li>
+                                <a href="/ncaa-basketball/tournament/2013/bracket">
+                                    NCAAB Tournament Bracket                                </a>
+                            </li>
+                                                                                                        <li>
+                                <a href="/ncaa-basketball/tournament/2013">
+                                    NCAAB Tournament                                </a>
+                            </li>
+                                                                                                        <li>
+                                <a href="/ncaa-basketball/stories">
+                                    News                                </a>
+                            </li>
+                                                                                                        <li>
+                                <a href="/ncaa-basketball/video">
+                                    Video                                </a>
+                            </li>
+                                                                                                        <li>
+                                <a href="/ncaa-basketball/scoreboard">
+                                    Scores                                </a>
+                            </li>
+                                                </ul>
+                        <ul class="unstyled color-ncaab-border">
+                                                                                                        <li>
+                                <a href="/ncaa-basketball/standings">
+                                    Standings                                </a>
+                            </li>
+                                                                                                        <li>
+                                <a href="/ncaa-basketball/polls">
+                                    Polls                                </a>
+                            </li>
+                                                                                                        <li>
+                                <a href="/ncaa-basketball/schedule">
+                                    Schedule                                </a>
+                            </li>
+                                                                                                        <li>
+                                <a href="http://www.sportingnews.com/ncaa-basketball/teams">
+                                    Teams                                </a>
+                            </li>
+                                                                                                        <li>
+                                <a target="_blank" href="http://www.vividseats.com/ncaab/">
+                                    NCAAB Tickets                                </a>
+                            </li>
+                                                                                                        <li>
+                                <a target="_blank" href="http://www.fanatics.com/COLLEGE/partnerid/9938">
+                                    NCAAB Shop                                </a>
+                            </li>
+                                                                                                    </ul>
+                    </div>
+                            </li>
+
+
+            
+                                                
+            <li class="tab  ">
+                <a class="" href="http://www.sportingnews.com/nascar">
+                    NASCAR                </a>
+
+                                                        
+                    <div class="dropdown hide">
+                        <ul class="unstyled color-nascar-border">
+                                                                                    <li>
+                                <a href="/nascar">
+                                    NASCAR Home                                </a>
+                            </li>
+                                                                                                        <li>
+                                <a href="/nascar/stories">
+                                    News                                </a>
+                            </li>
+                                                                                                        <li>
+                                <a href="/nascar/video">
+                                    Video                                </a>
+                            </li>
+                                                                                                        <li>
+                                <a href="/nascar/drivers">
+                                    Drivers                                </a>
+                            </li>
+                                                                                                        <li>
+                                <a href="/nascar/standings">
+                                    Standings                                </a>
+                            </li>
+                                                                                                        <li>
+                                <a href="/nascar/schedule">
+                                    Schedule/Results                                </a>
+                            </li>
+                                                </ul>
+                        <ul class="unstyled color-nascar-border">
+                                                                                                        <li>
+                                <a target="_blank" href="http://nascarillustrated.scenedaily.com/">
+                                    NASCAR Illustrated                                </a>
+                            </li>
+                                                                                                        <li>
+                                <a target="_blank" href="http://www.fanatics.com/NASCAR/partnerid/9938">
+                                    NASCAR Shop                                </a>
+                            </li>
+                                                                                                        <li>
+                                <a target="_blank" href="http://www.vividseats.com/nascar-racing/">
+                                    NASCAR Tickets                                </a>
+                            </li>
+                                                                                                    </ul>
+                    </div>
+                            </li>
+
+
+            
+                                                
+            <li class="tab  ">
+                <a class="" href="http://www.sportingnews.com/soccer">
+                    SOCCER                </a>
+
+                                                        
+                    <div class="dropdown hide">
+                        <ul class="unstyled color-soccer-border">
+                                                                                    <li>
+                                <a href="/soccer">
+                                    Soccer Home                                </a>
+                            </li>
+                                                                                                        <li>
+                                <a href="/soccer/stories">
+                                    News                                </a>
+                            </li>
+                                                                                                        <li>
+                                <a target="_blank" href="http://www.goal.com/en-us/news/66/united-states">
+                                    United States                                </a>
+                            </li>
+                                                                                                        <li>
+                                <a target="_blank" href="http://www.goal.com/en-us/news/114/united-states">
+                                    Mexico                                </a>
+                            </li>
+                                                                                                        <li>
+                                <a target="_blank" href="http://www.goal.com/en-us/news/1956/united-states">
+                                    Europe                                </a>
+                            </li>
+                                                                                                        <li>
+                                <a target="_blank" href="http://www.goal.com/en-us/live-scores/fixtures">
+                                    Scores                                </a>
+                            </li>
+                                                </ul>
+                        <ul class="unstyled color-soccer-border">
+                                                                                                        <li>
+                                <a target="_blank" href="http://www.goal.com/en-us/live-scores/standings/">
+                                    Standings                                </a>
+                            </li>
+                                                                                                        <li>
+                                <a target="_blank" href="http://www.goal.com/en-us/news/69/transfer-zone">
+                                    Transfer Zone                                </a>
+                            </li>
+                                                                                                        <li>
+                                <a target="_blank" href="http://www.fanatics.com/pages/World_Soccer/partnerid/9938">
+                                    Soccer Shop                                </a>
+                            </li>
+                                                                                                        <li>
+                                <a target="_blank" href="http://www.vividseats.com/sports/soccer/">
+                                    Soccer Tickets                                </a>
+                            </li>
+                                                                                                    </ul>
+                    </div>
+                            </li>
+
+
+            
+                                                
+            <li class="tab  detab">
+                <a class="" href="http://www.sportingnews.com/sport">
+                    MORE                </a>
+
+                            </li>
+
+
+            
+                                                
+            <li class="tab  detab">
+                <a class="" href="http://linemakers.sportingnews.com">
+                    LINEMAKERS                </a>
+
+                            </li>
+
+
+                    </ul>
+        <div class="nav-separator">
+            |
+        </div>
+
+        <ul class="upsell-nav unstyled">
+                                                <li>
+                <a href="http://www.vividseats.com/">
+                    Tickets                </a>
+            </li>
+                                </ul>
+
+        <div class="nav-separator">
+            |
+        </div>
+        <ul class="nav nav-tabs miscellaneous-nav unstyled">
+                                    <li class="tab">
+                <a href="http://www.sportingnews.com/fantasy">
+                    FANTASY                    &#x25BE;
+                </a>
+                <div class="dropdown hide">
+                    <ul class="unstyled">
+                                                                        <li>
+                            <a href="/fantasy">
+                                Fantasy Home                            </a>
+                        </li>
+                                                                                        <li>
+                            <a href="http://fantasysource.sportingnews.com/football">
+                                Fantasy Source Football                            </a>
+                        </li>
+                                                                                        <li>
+                            <a href="http://fantasysource.sportingnews.com/baseball">
+                                Fantasy Source Baseball                            </a>
+                        </li>
+                                                                                        <li>
+                            <a href="https://www.fanduel.com/?t=SN_homepage">
+                                FanDuel Fantasy Leagues                            </a>
+                        </li>
+                                                                                    </ul>
+                </div>
+            </li>
+                                    <li class="tab">
+                <a href="http://shop.sportingnews.com">
+                    SHOP                    &#x25BE;
+                </a>
+                <div class="dropdown hide">
+                    <ul class="unstyled">
+                                                                        <li>
+                            <a href="http://www.fanatics.com/NFL/partnerid/9938">
+                                NFL                            </a>
+                        </li>
+                                                                                        <li>
+                            <a href="http://www.fanatics.com/MLB/partnerid/9938">
+                                MLB                            </a>
+                        </li>
+                                                                                        <li>
+                            <a href="http://www.fanatics.com/NBA/partnerid/9938">
+                                NBA                            </a>
+                        </li>
+                                                                                        <li>
+                            <a href="http://www.fanatics.com/NHL/partnerid/9938">
+                                NHL                            </a>
+                        </li>
+                                                                                        <li>
+                            <a href="http://www.fanatics.com/COLLEGE/partnerid/9938">
+                                NCAAF                            </a>
+                        </li>
+                                                                                        <li>
+                            <a href="http://www.fanatics.com/COLLEGE/partnerid/9938">
+                                NCAAB                            </a>
+                        </li>
+                                        </ul>
+                    <ul class="unstyled">
+                                                                                        <li>
+                            <a href="http://www.fanatics.com/NASCAR/partnerid/9938">
+                                NASCAR                            </a>
+                        </li>
+                                                                                        <li>
+                            <a href="http://www.fanatics.com/pages/World_Soccer/partnerid/9938">
+                                SOCCER                            </a>
+                        </li>
+                                                                                    </ul>
+                </div>
+            </li>
+                                    <li class="tab">
+                <a href="#">
+                    MORE                    &#x25BE;
+                </a>
+                <div class="dropdown hide">
+                    <ul class="unstyled">
+                                                                        <li>
+                            <a href="http://www.vividseats.com/">
+                                Tickets                            </a>
+                        </li>
+                                                                                        <li>
+                            <a href="http://www.sportingnews.com/olympics">
+                                Olympics                            </a>
+                        </li>
+                                                                                        <li>
+                            <a href="http://covers.sportingnews.com">
+                                Covers                            </a>
+                        </li>
+                                                                                        <li>
+                            <a href="/yearbooks">
+                                Yearbooks                            </a>
+                        </li>
+                                                                                        <li>
+                            <a href="http://www.insidelacrosse.com/">
+                                Inside Lacrosse                            </a>
+                        </li>
+                                                                                        <li>
+                            <a href="http://www.golfdigest.com">
+                                Golf Digest                            </a>
+                        </li>
+                                        </ul>
+                    <ul class="unstyled">
+                                                                                        <li>
+                            <a href="/fantasy">
+                                Games                            </a>
+                        </li>
+                                                                                        <li>
+                            <a href="/user/account">
+                                My Account                            </a>
+                        </li>
+                                                                                    </ul>
+                </div>
+            </li>
+                                </ul>
+
+    </div>
+    </div>
+    </div>
+</div>
+
+    <div class="site-content background">
+        <div class="site-container foreground">
+            <div class="container">
+    <div id="dart-site-head" class="ad-wrapper">
+        <div class="adtech-js-module" id="adtech-ad-1">
+    <!--JavaScript Tag // Tag for network 5072: Sporting News Test Network // Website: Sporting News // Placement: home_home_2x2 (3003698) -->
+    <script language="javascript"><!--
+    document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtechus.com/addyn/3.0/5452.1/3003698/0/277/ADTECH;loc=100;target=_blank;key=key1+key2+key3+key4;grp=356946479;kvpos=surround;kvaction=index;kvsection=;kvsport=;misc=356946479"></scri'+'pt>');
+    //-->
+    </script><noscript><a href="http://adserver.adtechus.com/adlink/3.0/5452.1/3003698/0/277/ADTECH;loc=100;target=_blank;key=key1+key2+key3+key4;grp=356946479;kvpos=surround;kvaction=index;kvsection=;kvsport=;" target="_blank"><img src="http://adserver.adtechus.com/adserv/3.0/5452.1/3003698/0/277/ADTECH;loc=100;target=_blank;key=key1+key2+key3+key4;grp=356946479;kvpos=surround;kvaction=index;kvsection=;kvsport=;" border="0"></a></noscript>
+    <!-- End of JavaScript Tag -->
+</div>
+<div class="adtech-js-module" id="adtech-ad-10">
+    <!--JavaScript Tag // Tag for network 5072: Sporting News Test Network // Website: Sporting News // Placement: home_home_4x4 (3019826) -->
+    <script language="javascript"><!--
+    document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtechus.com/addyn/3.0/5452.1/3019826/0/0/ADTECH;loc=100;target=_blank;key=key1+key2+key3+key4;grp=356946479;kvpos=top2;kvaction=index;kvsection=;kvsport=;misc=356946479"></scri'+'pt>');
+    //-->
+    </script><noscript><a href="http://adserver.adtechus.com/adlink/3.0/5452.1/3019826/0/0/ADTECH;loc=100;target=_blank;key=key1+key2+key3+key4;grp=356946479;kvpos=top2;kvaction=index;kvsection=;kvsport=;" target="_blank"><img src="http://adserver.adtechus.com/adserv/3.0/5452.1/3019826/0/0/ADTECH;loc=100;target=_blank;key=key1+key2+key3+key4;grp=356946479;kvpos=top2;kvaction=index;kvsection=;kvsport=;" border="0"></a></noscript>
+    <!-- End of JavaScript Tag -->
+</div>
+    </div>
+
+    <div class="ad-layout">
+                    <div class="ad-layout-300x250 row">
+    <div class="span8">
+
+        <div class="trending-now-module">
+    <h3 class="heading">
+        <span class="trending">
+            Trending         </span>
+        <span class="now">
+            Now        </span>
+    </h3>
+    <div class="point-mask">
+    </div>
+
+
+
+    <ul class="unstyled">
+        <li class="item featured-item">
+            <h6 class="name-and-number">
+                <a href="http://www.sportingnews.com/ncaa-basketball/story/2013-09-26/jim-delany-college-sports-vs-pro-sports-amateur-argument-big-ten-commissioner">
+                    1. Ultimatum                </a>
+            </h6>
+            <p class="align-v-container">
+                <a class="description align-v" href="http://www.sportingnews.com/ncaa-basketball/story/2013-09-26/jim-delany-college-sports-vs-pro-sports-amateur-argument-big-ten-commissioner">
+                    Don't like college as is? Leave, Big Ten czar Delany says                </a>
+            </p>
+            <a class="story-image" href="http://www.sportingnews.com/ncaa-basketball/story/2013-09-26/jim-delany-college-sports-vs-pro-sports-amateur-argument-big-ten-commissioner">
+                <img alt="Ultimatum" title="Ultimatum" src="http://dy.snimg.com/story-image/4/95/4527667/181014-128-85.jpg" />
+            </a>
+        </li>
+                                            <li class="item">
+            <h6 class="name-and-number">
+                <a href="http://www.sportingnews.com/mlb/story/2013-09-26/robinson-cano-contract-10-years-305-million-yankees">
+                    2. Serious dough                </a>
+            </h6>
+            <p class="align-v-container">
+                <a class="description align-v" href="http://www.sportingnews.com/mlb/story/2013-09-26/robinson-cano-contract-10-years-305-million-yankees">
+                    Yanks' Robinson Cano reportedly seeking 10-year, $305 million deal                </a>
+            </p>
+        </li>
+                                                    <li class="item">
+            <h6 class="name-and-number">
+                <a href="http://www.sportingnews.com/mlb/story/2013-09-26/bud-selig-retirement-steps-down-commissioner-baseball">
+                    3. Bye-bye, Bud                </a>
+            </h6>
+            <p class="align-v-container">
+                <a class="description align-v" href="http://www.sportingnews.com/mlb/story/2013-09-26/bud-selig-retirement-steps-down-commissioner-baseball">
+                    Selig to step down as commissioner; won't happen 'til 15                </a>
+            </p>
+        </li>
+                                                    <li class="item">
+            <h6 class="name-and-number">
+                <a href="http://www.sportingnews.com/mlb/story/2013-09-26/dodger-fan-stabbed-death-giants-att-park-san-francisco">
+                    4. Ballpark death                </a>
+            </h6>
+            <p class="align-v-container">
+                <a class="description align-v" href="http://www.sportingnews.com/mlb/story/2013-09-26/dodger-fan-stabbed-death-giants-att-park-san-francisco">
+                    Dodgers fan stabbed near Giants home; latest deadly incident                </a>
+            </p>
+        </li>
+                                                    <li class="item">
+            <h6 class="name-and-number">
+                <a href="http://www.sportingnews.com/fantasy/nfl/story/2013-09-26/fantasy-football-quick-hits-for-nfl-week-4">
+                    5. LIsten up                </a>
+            </h6>
+            <p class="align-v-container">
+                <a class="description align-v" href="http://www.sportingnews.com/fantasy/nfl/story/2013-09-26/fantasy-football-quick-hits-for-nfl-week-4">
+                    Fantasy Football Quick Hits for Week 4 NFL action                </a>
+            </p>
+        </li>
+                                                    <li class="item">
+            <h6 class="name-and-number">
+                <a href="http://www.sportingnews.com/nfl/story/2013-09-26/roddy-white-falcons-streak-ankle-injury-hurting-team-himself-patriots">
+                    6. Sit, Roddy                </a>
+            </h6>
+            <p class="align-v-container">
+                <a class="description align-v" href="http://www.sportingnews.com/nfl/story/2013-09-26/roddy-white-falcons-streak-ankle-injury-hurting-team-himself-patriots">
+                    TUCKER: Forget streak, White is hurting himself and Falcons                </a>
+            </p>
+        </li>
+                                                    <li class="item">
+            <h6 class="name-and-number">
+                <a href="http://www.sportingnews.com/ncaa-basketball/story/2013-09-25/college-basketball-five-impact-transfers-jordan-clarkson-mike-moser-michigan">
+                    7. starting five                </a>
+            </h6>
+            <p class="align-v-container">
+                <a class="description align-v" href="http://www.sportingnews.com/ncaa-basketball/story/2013-09-25/college-basketball-five-impact-transfers-jordan-clarkson-mike-moser-michigan">
+                    DeCOURCY: Top impact transfers, best X's and O's coach, more                </a>
+            </p>
+        </li>
+                                                    <li class="item">
+            <h6 class="name-and-number">
+                <a href="http://www.sportingnews.com/nba/story/2013-09-26/lebron-james-heat-cavaliers-nba-free-agency-2014-dwyane-wade-chris-bosh-carmelo-">
+                    8. LeBron's future                </a>
+            </h6>
+            <p class="align-v-container">
+                <a class="description align-v" href="http://www.sportingnews.com/nba/story/2013-09-26/lebron-james-heat-cavaliers-nba-free-agency-2014-dwyane-wade-chris-bosh-carmelo-">
+                    Breaks free-agency freeze, says he won't 'go back to cold winters'                </a>
+            </p>
+        </li>
+                                                    <li class="item">
+            <h6 class="name-and-number">
+                <a href="http://www.sportingnews.com/mlb/story/2013-09-25/braves-brewers-brawl-brian-mccann-carlos-gomez-home-run-freddie-freeman-ejected">
+                    9. Base-brawl                </a>
+            </h6>
+            <p class="align-v-container">
+                <a class="description align-v" href="http://www.sportingnews.com/mlb/story/2013-09-25/braves-brewers-brawl-brian-mccann-carlos-gomez-home-run-freddie-freeman-ejected">
+                    Benches clear in Brewers-Braves game after HR taunt (video)                </a>
+            </p>
+        </li>
+                                                    <li class="item">
+            <h6 class="name-and-number">
+                <a href="http://www.sportingnews.com/nfl/story/2013-09-24/nfl-week-4-power-rankings-seahawks-broncos-bears-saints-patriots-chiefs">
+                    10. NFL rankings                </a>
+            </h6>
+            <p class="align-v-container">
+                <a class="description align-v" href="http://www.sportingnews.com/nfl/story/2013-09-24/nfl-week-4-power-rankings-seahawks-broncos-bears-saints-patriots-chiefs">
+                    Heading into Week 4, Saints, Bears, Patriots on the rise                </a>
+            </p>
+        </li>
+                </ul>
+
+    <a class="more-latest-btn btn btn-inverse unstyled" href="/stories">
+        The Latest
+        <i class="icon-chevron-right icon-white pull-right"></i>
+    </a>
+</div>
+
+        <div class="trending-now-neighbors">
+
+            
+<div class="featured-story-module">
+    <div id="featured-story-carousel" class="carousel slide">
+        <div class="carousel-inner">
+                                                                                <div class="item active">
+                    <a href="http://www.sportingnews.com/ncaa-football/story/2013-09-26/sec-saturday-day-in-life-with-commissioner-mike-slive-alabama">
+                        <img src="http://dy.snimg.com/story-image/0/0/181071/181071-478-428.jpg" class="story-photo" width="478" height="428" />                    </a>
+                    <div class="carousel-caption">
+                        <h3 class="story-title">
+                            <a href="http://www.sportingnews.com/ncaa-football/story/2013-09-26/sec-saturday-day-in-life-with-commissioner-mike-slive-alabama">
+                                Behind the SEC curtain                             </a>
+                        </h3>
+                        <p class="story-caption">
+                            What&#39;s it like at SEC headquarters on Saturdays in the fall? It&#39;s a lot about officiating and social media, says SN&#39;s Matt Hayes, who spent last Saturday in Birmingham with SEC commissioner Mike Slive. Find out what went on.                        </p>
+
+                                                <ul class="pipes unstyled">
+                                                                                                                        <li>
+                                <a href="http://www.sportingnews.com/ncaa-football/story/2013-09-14/alabama-beats-texas-am-nick-saban-aj-mccarron-johnny-manziel-bcs-championship" target="_self">
+                                    Hayes: What's left for Bama?                                </a>
+                            </li>
+                                                        <li class="divider">
+                                |
+                            </li>
+                                                                                                                                                    <li>
+                                <a href="http://www.sportingnews.com/ncaa-football/story/2013-09-25/week-5-picks-schedule-lsu-georgia-wisconsin-ohio-state-oklahoma-notre-dame" target="_self">
+                                    Week 5 picks                                </a>
+                            </li>
+                                                        <li class="divider">
+                                |
+                            </li>
+                                                                                                                                                    <li>
+                                <a href="http://www.sportingnews.com/ncaa-football/story/2013-09-24/bowl-projections-no-changes-at-top----its-still-tide-vs-ducks" target="_self">
+                                    Bowl plots                                </a>
+                            </li>
+                                                        <li class="divider">
+                                |
+                            </li>
+                                                                                                                                                    <li>
+                                <a href="http://www.sportingnews.com/ncaa-football/story/2013-09-24/week-5-college-football-schedule-tv-date-time-alabama-oregon-stanford-texas" target="_self">
+                                    Schedule, TV                                </a>
+                            </li>
+                                                                                </ul>
+                        
+                    </div>
+                    <div class="image-bleed">
+
+                    </div>
+                </div>
+                                                                                <div class="item ">
+                    <a href="http://www.sportingnews.com/nfl/story/2013-09-26/nfl-week-4-picks-dolphins-saints-patriots-falcons-bears-lions-steelers-vikings">
+                        <img src="http://st.snimg.com/image/1x1-trans.png" class="story-photo" width="478" height="428" data-href="http://dy.snimg.com/story-image/6/21/4527690/181045-478-428.jpg" />                    </a>
+                    <div class="carousel-caption">
+                        <h3 class="story-title">
+                            <a href="http://www.sportingnews.com/nfl/story/2013-09-26/nfl-week-4-picks-dolphins-saints-patriots-falcons-bears-lions-steelers-vikings">
+                                Perfection on the line                            </a>
+                        </h3>
+                        <p class="story-caption">
+                            Seven teams enter Week 4 with perfect records. Two — the Dolphins and Saints — go head to head. As talented as Ryan Tannehell is, he&#39;s no Drew Brees. SN&#39;s Vinnie Iyer predicts winners for all games.                        </p>
+
+                                                <ul class="pipes unstyled">
+                                                                                                                        <li>
+                                <a href="http://www.sportingnews.com/nfl/video/x7eha2cjxrb91foama4bd3dyv" target="_self">
+                                    Aikman: Cowboys for real?                                </a>
+                            </li>
+                                                        <li class="divider">
+                                |
+                            </li>
+                                                                                                                                                    <li>
+                                <a href="http://www.sportingnews.com/nfl/video/dknselgi30c1almddeq47btp" target="_self">
+                                    Hot Reads                                </a>
+                            </li>
+                                                        <li class="divider">
+                                |
+                            </li>
+                                                                                                                                                    <li>
+                                <a href="http://www.sportingnews.com/nfl/video/13r56nm3t8fxtzuhtesyylarv" target="_self">
+                                    Thursday preview                                </a>
+                            </li>
+                                                        <li class="divider">
+                                |
+                            </li>
+                                                                                                                                                    <li>
+                                <a href="http://www.sportingnews.com/fantasy/nfl/story/2013-09-26/fantasy-football-podcast-week-4-matthew-stafford-jordan-cameron-gio-bernard-hakeem-nicks-cj-spiller" target="_self">
+                                    Podcast                                </a>
+                            </li>
+                                                        <li class="divider">
+                                |
+                            </li>
+                                                                                                                                                    <li>
+                                <a href="http://linemakers.sportingnews.com/" target="_blank">
+                                    Odds                                </a>
+                            </li>
+                                                                                </ul>
+                        
+                    </div>
+                    <div class="image-bleed">
+
+                    </div>
+                </div>
+                                                                                <div class="item ">
+                    <a href="http://www.sportingnews.com/nba/story/2013-09-26/nba-rankings-power-forward-tim-duncan-blake-griffin-dirk-nowitzki-kevin-love">
+                        <img src="http://st.snimg.com/image/1x1-trans.png" class="story-photo" width="478" height="428" data-href="http://dy.snimg.com/story-image/0/36/4527705/181069-478-428.jpg" />                    </a>
+                    <div class="carousel-caption">
+                        <h3 class="story-title">
+                            <a href="http://www.sportingnews.com/nba/story/2013-09-26/nba-rankings-power-forward-tim-duncan-blake-griffin-dirk-nowitzki-kevin-love">
+                                Rocks of age                            </a>
+                        </h3>
+                        <p class="story-caption">
+                            When looking at SN&#39;s best power forwards, it feels like old times. Even at 37, Tim Duncan—who will likely go down as the best ever at the position—leads the pack. Several other veterans fill out Sean Deveney&#39;s list.                        </p>
+
+                                                <ul class="pipes unstyled">
+                                                                                                                        <li>
+                                <a href="http://www.sportingnews.com/nba/story/2013-09-25/nba-rankings-small-forward-lebron-james-kevin-durant-paul-george-carmelo-anthony" target="_self">
+                                    Also: Small forwards                                </a>
+                            </li>
+                                                        <li class="divider">
+                                |
+                            </li>
+                                                                                                                                                    <li>
+                                <a href="http://www.sportingnews.com/nba/story/2013-09-24/nba-rankings-shooting-guards-james-harden-kobe-bryant-dwyane-wade-joe-johnson" target="_self">
+                                    Shooting guards                                </a>
+                            </li>
+                                                        <li class="divider">
+                                |
+                            </li>
+                                                                                                                                                    <li>
+                                <a href="http://www.sportingnews.com/nba/story/2013-09-23/nba-rankings-point-guards-chris-paul-tony-parker-russell-westbrook-derrick-rose" target="_self">
+                                    Point guards                                </a>
+                            </li>
+                                                        <li class="divider">
+                                |
+                            </li>
+                                                                                                                                                    <li>
+                                <a href="http://www.sportingnews.com/nba/story/2013-09-24/nba-nickname-jersey-lebron-james-kevin-durant-nick-young-ray-allen" target="_self">
+                                    Nicknames                                </a>
+                            </li>
+                                                                                </ul>
+                        
+                    </div>
+                    <div class="image-bleed">
+
+                    </div>
+                </div>
+                    </div>
+
+        <a class="carousel-control left" href="#featured-story-carousel" data-slide="prev">
+            &lsaquo;
+        </a>
+        <a class="carousel-control right" href="#featured-story-carousel" data-slide="next">
+            &rsaquo;
+        </a>
+    </div>
+    <div class="item-select">
+        <table>
+            <tr>
+                                <td>
+                    <a class="slide-select" href="#">
+                        Inside the SEC                    </a>
+                </td>
+                                <td>
+                    <a class="slide-select" href="#">
+                        Week 4 picks                    </a>
+                </td>
+                                <td>
+                    <a class="slide-select" href="#">
+                        PF rankings                    </a>
+                </td>
+                            </tr>
+        </table>
+    </div>
+</div>
+
+            
+<div class="recent-videos-module">
+    <div class="feature-heading-module">
+    <span class="primary-color">Recent</span>
+    <h3>Videos</h3>
+</div>    <ul class="control-collection unstyled clearfix fluid-list">
+                                        <li class="split33">
+                <div class="video">
+                    <div class="image-mask">
+                        <a href="http://www.sportingnews.com/nfl/video/wvjldempxe3i1klqrgnxk91lz">
+                            <img class="photo" alt="Ross Tucker: Could concussion protocol be a &quot;slippery slope?&quot;" src="http://images.eplayer.performgroup.com/javaImages/d5/5/0,,14569~12256725,00.jpg" width="146" height="96">
+                            <button class="btn play-btn unstyled">
+                                <i class="icon-play icon-white"></i>
+                            </button>
+                        </a>
+                    </div>
+                    <p class="align-v-container">
+                        <a class="headline align-v" href="http://www.sportingnews.com/nfl/video/wvjldempxe3i1klqrgnxk91lz">
+                            Ross Tucker: Could concussion protocol be a &quot;slippery slope?&quot;                        </a>
+                    </p>
+                </div>
+            </li>
+                                            <li class="split33">
+                <div class="video">
+                    <div class="image-mask">
+                        <a href="http://www.sportingnews.com/nfl/video/1xgn7y9gzgsuj15drnudmc3xeo">
+                            <img class="photo" alt="Ross Tucker: Benching Freeman &quot;more about Greg Schiano&quot;" src="http://images.eplayer.performgroup.com/javaImages/c1/5/0,,14569~12256705,00.jpg" width="146" height="96">
+                            <button class="btn play-btn unstyled">
+                                <i class="icon-play icon-white"></i>
+                            </button>
+                        </a>
+                    </div>
+                    <p class="align-v-container">
+                        <a class="headline align-v" href="http://www.sportingnews.com/nfl/video/1xgn7y9gzgsuj15drnudmc3xeo">
+                            Ross Tucker: Benching Freeman &quot;more about Greg Schiano&quot;                        </a>
+                    </p>
+                </div>
+            </li>
+                                            <li class="split33">
+                <div class="video">
+                    <div class="image-mask">
+                        <a href="http://www.sportingnews.com/nfl/video/1rcf0fcei0oh010dikhut53y6a">
+                            <img class="photo" alt="Ross Tucker: For Roddy White &quot;it's time to sit down&quot;" src="http://images.eplayer.performgroup.com/javaImages/a3/5/0,,14569~12256675,00.jpg" width="146" height="96">
+                            <button class="btn play-btn unstyled">
+                                <i class="icon-play icon-white"></i>
+                            </button>
+                        </a>
+                    </div>
+                    <p class="align-v-container">
+                        <a class="headline align-v" href="http://www.sportingnews.com/nfl/video/1rcf0fcei0oh010dikhut53y6a">
+                            Ross Tucker: For Roddy White &quot;it's time to sit down&quot;                        </a>
+                    </p>
+                </div>
+            </li>
+                                            <li class="split33">
+                <div class="video">
+                    <div class="image-mask">
+                        <a href="http://www.sportingnews.com/ncaa-football/video/1sfizszlx19471e5vg31cv9m6k">
+                            <img class="photo" alt="Cover 4: Ole Miss vs Alabama" src="http://images.eplayer.performgroup.com/javaImages/ad/f7/0,,~12253101,00.jpeg" width="146" height="96">
+                            <button class="btn play-btn unstyled">
+                                <i class="icon-play icon-white"></i>
+                            </button>
+                        </a>
+                    </div>
+                    <p class="align-v-container">
+                        <a class="headline align-v" href="http://www.sportingnews.com/ncaa-football/video/1sfizszlx19471e5vg31cv9m6k">
+                            Cover 4: Ole Miss vs Alabama                        </a>
+                    </p>
+                </div>
+            </li>
+                                            <li class="split33">
+                <div class="video">
+                    <div class="image-mask">
+                        <a href="http://www.sportingnews.com/nfl/video/1at2z9xqercyx1e8v872cehiec">
+                            <img class="photo" alt="Troy Aikman: Biggest NFL surprises" src="http://images.eplayer.performgroup.com/javaImages/68/4/0,,14569~12256360,00.jpg" width="146" height="96">
+                            <button class="btn play-btn unstyled">
+                                <i class="icon-play icon-white"></i>
+                            </button>
+                        </a>
+                    </div>
+                    <p class="align-v-container">
+                        <a class="headline align-v" href="http://www.sportingnews.com/nfl/video/1at2z9xqercyx1e8v872cehiec">
+                            Troy Aikman: Biggest NFL surprises                        </a>
+                    </p>
+                </div>
+            </li>
+                                            <li class="split33">
+                <div class="video">
+                    <div class="image-mask">
+                        <a href="http://www.sportingnews.com/nfl/video/1osvn9l2qn6pq1n6azb6bfskfb">
+                            <img class="photo" alt="Patriots @ Falcons" src="http://images.eplayer.performgroup.com/javaImages/fd/3/0,,16207~12256253,00.png" width="146" height="96">
+                            <button class="btn play-btn unstyled">
+                                <i class="icon-play icon-white"></i>
+                            </button>
+                        </a>
+                    </div>
+                    <p class="align-v-container">
+                        <a class="headline align-v" href="http://www.sportingnews.com/nfl/video/1osvn9l2qn6pq1n6azb6bfskfb">
+                            Patriots @ Falcons                        </a>
+                    </p>
+                </div>
+            </li>
+                                            <li class="split33">
+                <div class="video">
+                    <div class="image-mask">
+                        <a href="http://www.sportingnews.com/nascar/video/jzxp0huxj9bt1hc2vosa5nea4">
+                            <img class="photo" alt="NASCAR Sprint Cup Series: Dover preview" src="http://images.eplayer.performgroup.com/javaImages/ab/2/0,,14569~12255915,00.jpg" width="146" height="96">
+                            <button class="btn play-btn unstyled">
+                                <i class="icon-play icon-white"></i>
+                            </button>
+                        </a>
+                    </div>
+                    <p class="align-v-container">
+                        <a class="headline align-v" href="http://www.sportingnews.com/nascar/video/jzxp0huxj9bt1hc2vosa5nea4">
+                            NASCAR Sprint Cup Series: Dover preview                        </a>
+                    </p>
+                </div>
+            </li>
+                                            <li class="split33">
+                <div class="video">
+                    <div class="image-mask">
+                        <a href="http://www.sportingnews.com/nfl/video/dknselgi30c1almddeq47btp">
+                            <img class="photo" alt="Troy Aikman's Hot Reads: What to do at 0-3" src="http://images.eplayer.performgroup.com/javaImages/4e/1/0,,14569~12255566,00.jpg" width="146" height="96">
+                            <button class="btn play-btn unstyled">
+                                <i class="icon-play icon-white"></i>
+                            </button>
+                        </a>
+                    </div>
+                    <p class="align-v-container">
+                        <a class="headline align-v" href="http://www.sportingnews.com/nfl/video/dknselgi30c1almddeq47btp">
+                            Troy Aikman's Hot Reads: What to do at 0-3                        </a>
+                    </p>
+                </div>
+            </li>
+                                            <li class="split33">
+                <div class="video">
+                    <div class="image-mask">
+                        <a href="http://www.sportingnews.com/ncaa-football/video/drs0gct727kv184o2d7nx6haq">
+                            <img class="photo" alt="Wisconsin @ Ohio State" src="http://images.eplayer.performgroup.com/javaImages/42/ff/0,,16207~12255042,00.png" width="146" height="96">
+                            <button class="btn play-btn unstyled">
+                                <i class="icon-play icon-white"></i>
+                            </button>
+                        </a>
+                    </div>
+                    <p class="align-v-container">
+                        <a class="headline align-v" href="http://www.sportingnews.com/ncaa-football/video/drs0gct727kv184o2d7nx6haq">
+                            Wisconsin @ Ohio State                        </a>
+                    </p>
+                </div>
+            </li>
+                        </ul>
+</div>
+
+        </div>
+
+    </div>
+
+    <div class="span4">
+
+        <div class="share-module">
+    <table>
+        <tr>
+            <td class="branding">
+                <em class="brand">SN</em><br />
+                <em>Social</em>
+            </td>
+                    <td>
+                <div class="facebook">
+                    <fb:like href="https://www.facebook.com/sportingnews" layout="button_count" width="50"></fb:like>                </div>
+            </td>
+                    <td>
+                <div class="twitter">
+                    <a class="twitter-follow-button" data-show-count="true" href="https://twitter.com/sportingnews" data-show-screen-name="false"></a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>                </div>
+            </td>
+                    <td>
+                <div class="google">
+                            <a title="Sporting News' Google+ Page" href="https://plus.google.com/115523108392991665451?prsrc=3" rel="publisher" style="text-decoration:none;">
+            <img src="//ssl.gstatic.com/images/icons/gplus-16.png" alt="Google+" style="border:0;width:16px;height:16px;"/>
+        </a>                </div>
+            </td>
+                </tr>
+    </table>
+</div>
+
+        <div id="dart-content-1" class="ad-wrapper ad-wrapped">
+            <div class="adtech-js-module" id="adtech-ad-2">
+    <!--JavaScript Tag // Tag for network 5072: Sporting News Test Network // Website: Sporting News // Placement: home_home_300x250 (3003775) -->
+    <script language="javascript"><!--
+    document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtechus.com/addyn/3.0/5452.1/3003775/0/170/ADTECH;loc=100;target=_blank;key=key1+key2+key3+key4;grp=356946479;kvpos=right1;kvaction=index;kvsection=;kvsport=;misc=356946479"></scri'+'pt>');
+    //-->
+    </script><noscript><a href="http://adserver.adtechus.com/adlink/3.0/5452.1/3003775/0/170/ADTECH;loc=100;target=_blank;key=key1+key2+key3+key4;grp=356946479;kvpos=right1;kvaction=index;kvsection=;kvsport=;" target="_blank"><img src="http://adserver.adtechus.com/adserv/3.0/5452.1/3003775/0/170/ADTECH;loc=100;target=_blank;key=key1+key2+key3+key4;grp=356946479;kvpos=right1;kvaction=index;kvsection=;kvsport=;" border="0"></a></noscript>
+    <!-- End of JavaScript Tag -->
+</div>
+        </div>
+
+                    <div class="recommended-reads-module">
+    <div class="foreground">
+            <div class="item">
+            <div class="thumbnail">
+                                                                                    <a data-partner="Los Angeles Times" data-url="http://www.latimes.com/sports/lakersnow/la-sp-ln-mitch-kupchak-20130926,0,4497933.story" href="javascript:" itemprop="url" target="_blank">
+                    <img src="http://img.publishthis.com/images/3_0/2013/09/8/4/a/84ad0e6baa9dd81976e5b598aade0f7a_ogimg_large_thumbnail_1.jpg?W=121&H=79" alt="Los Angeles Times" itemprop="image">
+                </a>
+            </div>
+            <span class="headline">
+                <a data-partner="Los Angeles Times" data-url="http://www.latimes.com/sports/lakersnow/la-sp-ln-mitch-kupchak-20130926,0,4497933.story" href="javascript:" target="_blank">Mitch Kupchak hunts for a gem among other teams' discards</a>
+            </span>
+            <div class="partner-name">
+                <a data-partner="Los Angeles Times" data-url="http://www.latimes.com/sports/lakersnow/la-sp-ln-mitch-kupchak-20130926,0,4497933.story" href="javascript:" target="_blank">Los Angeles Times</a>
+            </div>
+        </div>
+        <div class="clear"></div>
+            <div class="item">
+            <div class="thumbnail">
+                                                                                    <a data-partner="Los Angeles Times" data-url="http://www.latimes.com/local/lanow/la-me-ln-dodgers-giants-stabbing-20130926,0,998089.story" href="javascript:" itemprop="url" target="_blank">
+                    <img src="http://img.publishthis.com/images/3_0/2013/09/e/1/7/e17e666ec95c3e574a899ca69f6ec5c2_ogimg_small_thumbnail_1.jpg?W=121&H=79" alt="Los Angeles Times" itemprop="image">
+                </a>
+            </div>
+            <span class="headline">
+                <a data-partner="Los Angeles Times" data-url="http://www.latimes.com/local/lanow/la-me-ln-dodgers-giants-stabbing-20130926,0,998089.story" href="javascript:" target="_blank">Man stabbed to death after Dodgers-Giants game in San Francisco</a>
+            </span>
+            <div class="partner-name">
+                <a data-partner="Los Angeles Times" data-url="http://www.latimes.com/local/lanow/la-me-ln-dodgers-giants-stabbing-20130926,0,998089.story" href="javascript:" target="_blank">Los Angeles Times</a>
+            </div>
+        </div>
+        <div class="clear"></div>
+            <div class="item">
+            <div class="thumbnail">
+                                                                                    <a data-partner="blogs.seattletimes.com" data-url="http://blogs.seattletimes.com/seahawks/2013/09/25/five-questions-five-answers-houston-texans/" href="javascript:" itemprop="url" target="_blank">
+                    <img src="http://img.publishthis.com/images/3_0/2013/09/0/9/b/09b00145fc51d144e87a3f892b954371_ogimg_xlarge_thumbnail_1.jpg?W=121&H=79" alt="blogs.seattletimes.com" itemprop="image">
+                </a>
+            </div>
+            <span class="headline">
+                <a data-partner="blogs.seattletimes.com" data-url="http://blogs.seattletimes.com/seahawks/2013/09/25/five-questions-five-answers-houston-texans/" href="javascript:" target="_blank">Five questions, five answers: Houston Texans</a>
+            </span>
+            <div class="partner-name">
+                <a data-partner="blogs.seattletimes.com" data-url="http://blogs.seattletimes.com/seahawks/2013/09/25/five-questions-five-answers-houston-texans/" href="javascript:" target="_blank">blogs.seattletimes.com</a>
+            </div>
+        </div>
+        <div class="clear"></div>
+            <div class="item">
+            <div class="thumbnail">
+                                                                                    <a data-partner="Dallas Morning News" data-url="http://cowboysblog.dallasnews.com/2013/09/dallas-cowboys-wr-miles-austin-not-seen-at-practice-rg-brian-waters-working-with-first-team.html/" href="javascript:" itemprop="url" target="_blank">
+                    <img src="http://img.publishthis.com/images/3_0/2013/09/a/9/f/a9f5aa9cf3cb1022a246ed1d1a2d4bd9_ogimg_large_thumbnail_1.jpg?W=121&H=79" alt="Dallas Morning News" itemprop="image">
+                </a>
+            </div>
+            <span class="headline">
+                <a data-partner="Dallas Morning News" data-url="http://cowboysblog.dallasnews.com/2013/09/dallas-cowboys-wr-miles-austin-not-seen-at-practice-rg-brian-waters-working-with-first-team.html/" href="javascript:" target="_blank">Dallas Cowboys WR Miles Austin not seen at practice, RG Brian Waters working with first team</a>
+            </span>
+            <div class="partner-name">
+                <a data-partner="Dallas Morning News" data-url="http://cowboysblog.dallasnews.com/2013/09/dallas-cowboys-wr-miles-austin-not-seen-at-practice-rg-brian-waters-working-with-first-team.html/" href="javascript:" target="_blank">Dallas Morning News</a>
+            </div>
+        </div>
+        <div class="clear"></div>
+            <div class="item">
+            <div class="thumbnail">
+                                                                                    <a data-partner="The Boston Globe" data-url="http://www.boston.com/sports/baseball/redsox/extras/extra_bases/2013/09/the_red_sox_have_some_roster_decisions.html?dlvrit=833096" href="javascript:" itemprop="url" target="_blank">
+                    <img src="http://img.publishthis.com/images/3_0/2013/09/f/6/4/f647f7b8c57a6c739738da66440726aa_ogimg_xsmall_thumbnail_1.jpg?W=121&H=79" alt="The Boston Globe" itemprop="image">
+                </a>
+            </div>
+            <span class="headline">
+                <a data-partner="The Boston Globe" data-url="http://www.boston.com/sports/baseball/redsox/extras/extra_bases/2013/09/the_red_sox_have_some_roster_decisions.html?dlvrit=833096" href="javascript:" target="_blank">The Red Sox have some roster decisions</a>
+            </span>
+            <div class="partner-name">
+                <a data-partner="The Boston Globe" data-url="http://www.boston.com/sports/baseball/redsox/extras/extra_bases/2013/09/the_red_sox_have_some_roster_decisions.html?dlvrit=833096" href="javascript:" target="_blank">The Boston Globe</a>
+            </div>
+        </div>
+        <div class="clear"></div>
+            <div class="item">
+            <div class="thumbnail">
+                                                                                    <a data-partner="Dallas Morning News" data-url="http://cowboysblog.dallasnews.com/2013/09/dallas-cowboys-sit-alone-atop-nfc-east-standings-but-jerry-jones-says-theres-no-good-from-getting-carried-away.html/" href="javascript:" itemprop="url" target="_blank">
+                    <img src="http://img.publishthis.com/images/3_0/2013/09/a/9/f/a9f5aa9cf3cb1022a246ed1d1a2d4bd9_ogimg_large_thumbnail_1.jpg?W=121&H=79" alt="Dallas Morning News" itemprop="image">
+                </a>
+            </div>
+            <span class="headline">
+                <a data-partner="Dallas Morning News" data-url="http://cowboysblog.dallasnews.com/2013/09/dallas-cowboys-sit-alone-atop-nfc-east-standings-but-jerry-jones-says-theres-no-good-from-getting-carried-away.html/" href="javascript:" target="_blank">Dallas Cowboys sit alone atop NFC East standings, but Jerry Jones says 'there's no good from getting carried away'</a>
+            </span>
+            <div class="partner-name">
+                <a data-partner="Dallas Morning News" data-url="http://cowboysblog.dallasnews.com/2013/09/dallas-cowboys-sit-alone-atop-nfc-east-standings-but-jerry-jones-says-theres-no-good-from-getting-carried-away.html/" href="javascript:" target="_blank">Dallas Morning News</a>
+            </div>
+        </div>
+        <div class="clear"></div>
+            <div class="item">
+            <div class="thumbnail">
+                                                                                    <a data-partner="The Boston Globe" data-url="http://www.boston.com/sports/football/patriots/extra_points/2013/09/watch_bill_belichick_monday_press_conference.html?dlvrit=834382" href="javascript:" itemprop="url" target="_blank">
+                    <img src="http://img.publishthis.com/images/3_0/2013/09/c/9/d/c9da6c53614bd40efb30c94376f067ff_ogimg_small_thumbnail_1.jpg?W=121&H=79" alt="The Boston Globe" itemprop="image">
+                </a>
+            </div>
+            <span class="headline">
+                <a data-partner="The Boston Globe" data-url="http://www.boston.com/sports/football/patriots/extra_points/2013/09/watch_bill_belichick_monday_press_conference.html?dlvrit=834382" href="javascript:" target="_blank">Watch: Bill Belichick Monday press conference</a>
+            </span>
+            <div class="partner-name">
+                <a data-partner="The Boston Globe" data-url="http://www.boston.com/sports/football/patriots/extra_points/2013/09/watch_bill_belichick_monday_press_conference.html?dlvrit=834382" href="javascript:" target="_blank">The Boston Globe</a>
+            </div>
+        </div>
+        <div class="clear"></div>
+        </div>
+</div>
+<div class="clearfix"></div>
+        
+        <div class="promo-hole-1">
+            <a href="http://sportingnews.printstown.com" target="_blank">
+    <img src="http://st.snimg.com/image/promos/home-page/cover.png" />
+</a>        </div>
+
+    </div>
+</div>
+
+            </div>
+
+    <div id="dart-content-2" class="ad-wrapper">
+            </div>
+
+    <!-- VIVID SEATS (tickets) banner module -->
+
+<div class="vivid-tickets-ad-module vividContainer clearfix">
+    <ul class="column-one">
+        <li class="first"><a target="_blank" href="http://www.vividseats.com/" title="Tickets">Tickets</a></li>
+        <li><a target="_blank" href="http://www.vividseats.com/ncaaf/" title="NCAA Football Tickets">NCAA Football Tickets</a></li>
+    </ul>
+    <ul>
+        <li><a target="_blank" href="http://www.vividseats.com/mlb-baseball/mlb-playoff-tickets.html" title="MLB Playoff Tickets">MLB Playoff Tickets</a></li>
+        <li><a target="_blank" href="http://www.vividseats.com/nhl-hockey/" title="NHL Tickets">NHL Tickets</a></li>
+    </ul>
+
+    <ul class="column-three">
+        <li><a target="_blank" href="http://www.vividseats.com/nfl/" title="NFL Tickets">NFL Tickets</a></li>
+            <li><a target="_blank" href="http://www.vividseats.com/nba-basketball/" title="NBA Tickets">NBA Tickets</a></li>
+        </ul>
+    <ul class="column-four">
+        <li><a target="_blank" href="http://www.vividseats.com/" title="PURCHASE TICKETS AT VIVID SEATS"><span>PURCHASE TICKETS AT</span><br />VIVID SEATS</a></li>
+    </ul>
+
+</div>
+<!-- /VIVID SEATS (tickets) banner module -->
+
+    <div class="featured-gallery-module">
+    <div class="feature-heading-module">
+    <span class="primary-color">Featured</span>
+    <h3>Gallery</h3>
+</div>    <div id="featured-gallery-carousel" class="carousel slide">
+        <div class="carousel-inner">
+                                                <div class="item active">
+                                                <a href="http://www.sportingnews.com/sport/story/2013-03-10/sports-brawls">
+                            <img src="http://st.snimg.com/image/1x1-trans.png" class="story-photo" width="986" height="725" data-href="http://dy.snimg.com/story-image/3/79/4484098/180955-986-725.jpg" />                        </a>
+                        <div class="carousel-caption">
+                            <h3 class="story-title">
+                                <a href="http://www.sportingnews.com/sport/story/2013-03-10/sports-brawls">
+                                    Sports brawls you won't forget                                </a>
+                            </h3>
+                            <p class="story-caption">
+                                <a href="http://www.sportingnews.com/sport/story/2013-03-10/sports-brawls">
+                                                                    </a>
+                            </p>
+                        </div>
+                    </div>
+                                    <div class="item ">
+                                                <a href="http://www.sportingnews.com/mlb/story/2013-09-17/most-beloved-baseball-players-team-by-team">
+                            <img src="http://st.snimg.com/image/1x1-trans.png" class="story-photo" width="986" height="725" data-href="http://dy.snimg.com/story-image/6/18/4527396/180830-986-725.jpg" />                        </a>
+                        <div class="carousel-caption">
+                            <h3 class="story-title">
+                                <a href="http://www.sportingnews.com/mlb/story/2013-09-17/most-beloved-baseball-players-team-by-team">
+                                    Baseball heroes                                </a>
+                            </h3>
+                            <p class="story-caption">
+                                <a href="http://www.sportingnews.com/mlb/story/2013-09-17/most-beloved-baseball-players-team-by-team">
+                                                                    </a>
+                            </p>
+                        </div>
+                    </div>
+                                    <div class="item ">
+                                                <a href="http://www.sportingnews.com/nascar/story/2013-09-25/nascars-most-surprising-champions-dale-earnhardt-jeff-gordon-tony-stewart">
+                            <img src="http://st.snimg.com/image/1x1-trans.png" class="story-photo" width="986" height="725" data-href="http://dy.snimg.com/story-image/5/13/4527682/181023-986-725.jpg" />                        </a>
+                        <div class="carousel-caption">
+                            <h3 class="story-title">
+                                <a href="http://www.sportingnews.com/nascar/story/2013-09-25/nascars-most-surprising-champions-dale-earnhardt-jeff-gordon-tony-stewart">
+                                    NASCAR's most surprising champions                                </a>
+                            </h3>
+                            <p class="story-caption">
+                                <a href="http://www.sportingnews.com/nascar/story/2013-09-25/nascars-most-surprising-champions-dale-earnhardt-jeff-gordon-tony-stewart">
+                                                                    </a>
+                            </p>
+                        </div>
+                    </div>
+                                    </div>
+
+                <a class="carousel-control left" href="#featured-gallery-carousel" data-slide="prev">
+            <div class="btn primary-btn-metro">
+                <i class="icon-chevron-left icon-medium"></i>
+            </div>
+        </a>
+        <a class="carousel-control right" href="#featured-gallery-carousel" data-slide="next">
+            <div class="btn primary-btn-metro">
+                <i class="icon-chevron-right icon-medium"></i>
+            </div>
+        </a>
+            </div>
+</div>
+
+    
+<div class="twitter-channels-module">
+    <div class="feature-heading-module">
+    <span class="primary-color">Sporting News on</span>
+    <h3>Twitter</h3>
+</div>        <ul class="nav nav-tabs alluminum-tab-theme">
+                
+        <li class="active">
+            <a href="#sn-writers" data-toggle="tab">
+                sn writers            </a>
+        </li>
+                
+        <li class="">
+            <a href="#nfl" data-toggle="tab">
+                nfl            </a>
+        </li>
+                
+        <li class="">
+            <a href="#mlb" data-toggle="tab">
+                mlb            </a>
+        </li>
+                
+        <li class="">
+            <a href="#nba" data-toggle="tab">
+                nba            </a>
+        </li>
+                
+        <li class="">
+            <a href="#nhl" data-toggle="tab">
+                nhl            </a>
+        </li>
+                
+        <li class="">
+            <a href="#ncaaf" data-toggle="tab">
+                ncaaf            </a>
+        </li>
+                
+        <li class="">
+            <a href="#ncaab" data-toggle="tab">
+                ncaab            </a>
+        </li>
+                
+        <li class="">
+            <a href="#nascar" data-toggle="tab">
+                nascar            </a>
+        </li>
+                
+        <li class="">
+            <a href="#soccer" data-toggle="tab">
+                soccer            </a>
+        </li>
+                    </ul>
+    
+    <div class="tab-content">
+        
+        
+        <div id="sn-writers" class="scroll-pane tab-pane active">
+
+            <div class="scroll-content">
+
+            
+            
+                <div class="column">
+                                                        
+                    
+                    
+            
+<div class="tweet-item clearfix">
+        <a target="_blank" href="http://twitter.com/jessespector">
+        <img src="http://st.snimg.com/image/1x1-trans.png" data-href="http://a0.twimg.com/profile_images/378800000376052517/a0942e280ac15268d0fe2eeb274eed1b_normal.jpeg" width="50" height="50" />
+    </a>
+            <span class="name">
+        <a target="_blank" href="http://twitter.com/jessespector">Jesse Spector</a>
+    </span>
+    <span class="screen-name">
+        <a target="_blank" href="http://twitter.com/jessespector">@jessespector</a>
+    </span>
+        <p class="text">
+            Note: I will not be eating 42 of anything.        </p>
+    </div>
+                    
+                                                        
+                    
+                    
+            
+<div class="tweet-item clearfix">
+        <a target="_blank" href="http://twitter.com/jessespector">
+        <img src="http://st.snimg.com/image/1x1-trans.png" data-href="http://a0.twimg.com/profile_images/378800000376052517/a0942e280ac15268d0fe2eeb274eed1b_normal.jpeg" width="50" height="50" />
+    </a>
+            <span class="name">
+        <a target="_blank" href="http://twitter.com/jessespector">Jesse Spector</a>
+    </span>
+    <span class="screen-name">
+        <a target="_blank" href="http://twitter.com/jessespector">@jessespector</a>
+    </span>
+        <p class="text">
+            What’s the most Mariano Rivera food that I could eat at Yankee Stadium?        </p>
+    </div>
+                    
+                                </div>
+
+            
+                <div class="column">
+                                                        
+                    
+                    
+            
+<div class="tweet-item clearfix">
+        <a target="_blank" href="http://twitter.com/jessespector">
+        <img src="http://st.snimg.com/image/1x1-trans.png" data-href="http://a0.twimg.com/profile_images/378800000376052517/a0942e280ac15268d0fe2eeb274eed1b_normal.jpeg" width="50" height="50" />
+    </a>
+            <span class="name">
+        <a target="_blank" href="http://twitter.com/jessespector">Jesse Spector</a>
+    </span>
+    <span class="screen-name">
+        <a target="_blank" href="http://twitter.com/jessespector">@jessespector</a>
+    </span>
+        <p class="text">
+            What, no fake laces? RT @<a href="http://twitter.com/sportingnews" target="_blank">sportingnews</a>: Ohio State to potentially wear special Nike uniforms. <a href="http://t.co/xeVap6o5Z6" target="_blank">http://t.co/xeVap6o5Z6</a> \ <a href="http://t.co/vTsYH2k8BC" target="_blank">http://t.co/vTsYH2k8BC</a>        </p>
+    </div>
+                    
+                                                        
+                    
+                    
+            
+<div class="tweet-item clearfix">
+        <a target="_blank" href="http://twitter.com/seangentille">
+        <img src="http://st.snimg.com/image/1x1-trans.png" data-href="http://a0.twimg.com/profile_images/378800000040296963/2105dabb05b22e620585b46f8291035c_normal.png" width="50" height="50" />
+    </a>
+            <span class="name">
+        <a target="_blank" href="http://twitter.com/seangentille">Sean Gentille</a>
+    </span>
+    <span class="screen-name">
+        <a target="_blank" href="http://twitter.com/seangentille">@seangentille</a>
+    </span>
+        <p class="text">
+            NHL Metropolitan Division preview: If Penguins crash, blame Fleury <a href="http://t.co/2Uv167EV2R" target="_blank">http://t.co/2Uv167EV2R</a>        </p>
+    </div>
+                    
+                                </div>
+
+            
+                <div class="column">
+                                                        
+                    
+                    
+            
+<div class="tweet-item clearfix">
+        <a target="_blank" href="http://twitter.com/stanmcneal">
+        <img src="http://st.snimg.com/image/1x1-trans.png" data-href="http://a0.twimg.com/profile_images/378800000118850584/decb264eb75186cfae5210a8344c3b31_normal.jpeg" width="50" height="50" />
+    </a>
+            <span class="name">
+        <a target="_blank" href="http://twitter.com/stanmcneal">Stan McNeal</a>
+    </span>
+    <span class="screen-name">
+        <a target="_blank" href="http://twitter.com/stanmcneal">@stanmcneal</a>
+    </span>
+        <p class="text">
+            Patrick WIllis is inactive for <a href="http://twitter.com/#!/search?q=%23Niners" target="_blank">#Niners</a>, Pead inactive for <a href="http://twitter.com/#!/search?q=%23Rams" target="_blank">#Rams</a>.        </p>
+    </div>
+                    
+                                                        
+                    
+                    
+            
+<div class="tweet-item clearfix">
+        <a target="_blank" href="http://twitter.com/seangentille">
+        <img src="http://st.snimg.com/image/1x1-trans.png" data-href="http://a0.twimg.com/profile_images/378800000040296963/2105dabb05b22e620585b46f8291035c_normal.png" width="50" height="50" />
+    </a>
+            <span class="name">
+        <a target="_blank" href="http://twitter.com/seangentille">Sean Gentille</a>
+    </span>
+    <span class="screen-name">
+        <a target="_blank" href="http://twitter.com/seangentille">@seangentille</a>
+    </span>
+        <p class="text">
+            Jeff Jimerson's hair is in midseason form ... or something.        </p>
+    </div>
+                    
+                                </div>
+
+            
+                <div class="column">
+                                                        
+                    
+                    
+            
+<div class="tweet-item clearfix">
+        <a target="_blank" href="http://twitter.com/BillBender92">
+        <img src="http://st.snimg.com/image/1x1-trans.png" data-href="http://a0.twimg.com/profile_images/3273695846/cd03b77a4b13a55e10f45c73dd196ed9_normal.jpeg" width="50" height="50" />
+    </a>
+            <span class="name">
+        <a target="_blank" href="http://twitter.com/BillBender92">Bill Bender</a>
+    </span>
+    <span class="screen-name">
+        <a target="_blank" href="http://twitter.com/BillBender92">@BillBender92</a>
+    </span>
+        <p class="text">
+            Andersen gets first taste of rivalry between <a href="http://twitter.com/#!/search?q=%23Buckeyes" target="_blank">#Buckeyes</a> <a href="http://twitter.com/#!/search?q=%23Badgers" target="_blank">#Badgers</a> -- which was born in 1993. <a href="http://t.co/X9ZA6mvX9T" target="_blank">http://t.co/X9ZA6mvX9T</a>        </p>
+    </div>
+                    
+                                                        
+                    
+                    
+            
+<div class="tweet-item clearfix">
+        <a target="_blank" href="http://twitter.com/SeanDeveney">
+        <img src="http://st.snimg.com/image/1x1-trans.png" data-href="http://a0.twimg.com/profile_images/378800000152197876/a47d1b0982ffc57ac83047b61caf757c_normal.jpeg" width="50" height="50" />
+    </a>
+            <span class="name">
+        <a target="_blank" href="http://twitter.com/SeanDeveney">Sean Deveney</a>
+    </span>
+    <span class="screen-name">
+        <a target="_blank" href="http://twitter.com/SeanDeveney">@SeanDeveney</a>
+    </span>
+        <p class="text">
+            RT @<a href="http://twitter.com/CindyBoren" target="_blank">CindyBoren</a>: Ooooohhh. RT @<a href="http://twitter.com/EthanJSkolnick" target="_blank">EthanJSkolnick</a>: Asked if the back and forth with Durant was a joke, Dwyane Wade smiled and said "no."        </p>
+    </div>
+                    
+                                </div>
+
+            
+                <div class="column">
+                                                        
+                    
+                    
+            
+<div class="tweet-item clearfix">
+        <a target="_blank" href="http://twitter.com/BillBender92">
+        <img src="http://st.snimg.com/image/1x1-trans.png" data-href="http://a0.twimg.com/profile_images/3273695846/cd03b77a4b13a55e10f45c73dd196ed9_normal.jpeg" width="50" height="50" />
+    </a>
+            <span class="name">
+        <a target="_blank" href="http://twitter.com/BillBender92">Bill Bender</a>
+    </span>
+    <span class="screen-name">
+        <a target="_blank" href="http://twitter.com/BillBender92">@BillBender92</a>
+    </span>
+        <p class="text">
+            <a href="http://twitter.com/#!/search?q=%23Badgers" target="_blank">#Badgers</a> coach Gary Andersen about to find out what Big Ten football is all about. Can he handle Columbus? <a href="http://t.co/fYMGJ5D273" target="_blank">http://t.co/fYMGJ5D273</a>        </p>
+    </div>
+                    
+                                                        
+                    
+                    
+            
+<div class="tweet-item clearfix">
+        <a target="_blank" href="http://twitter.com/David_C_Steele">
+        <img src="http://st.snimg.com/image/1x1-trans.png" data-href="http://a0.twimg.com/profile_images/378800000142586072/e707ec161a9db477ca4e8f9df8c1fe65_normal.jpeg" width="50" height="50" />
+    </a>
+            <span class="name">
+        <a target="_blank" href="http://twitter.com/David_C_Steele">David Steele</a>
+    </span>
+    <span class="screen-name">
+        <a target="_blank" href="http://twitter.com/David_C_Steele">@David_C_Steele</a>
+    </span>
+        <p class="text">
+            RT @<a href="http://twitter.com/NotJacobyJones" target="_blank">NotJacobyJones</a>: .@<a href="http://twitter.com/David_C_Steele" target="_blank">David_C_Steele</a> DAMN RIGHT. AND IVE BEEN TWERKING LONG BEFORE THAT COPYCAT MILEY CYRUS        </p>
+    </div>
+                    
+                                </div>
+
+            
+                <div class="column">
+                                                        
+                    
+                    
+            
+<div class="tweet-item clearfix">
+        <a target="_blank" href="http://twitter.com/seangentille">
+        <img src="http://st.snimg.com/image/1x1-trans.png" data-href="http://a0.twimg.com/profile_images/378800000040296963/2105dabb05b22e620585b46f8291035c_normal.png" width="50" height="50" />
+    </a>
+            <span class="name">
+        <a target="_blank" href="http://twitter.com/seangentille">Sean Gentille</a>
+    </span>
+    <span class="screen-name">
+        <a target="_blank" href="http://twitter.com/seangentille">@seangentille</a>
+    </span>
+        <p class="text">
+            Canadian spelling of "maneuver"! RT @<a href="http://twitter.com/mirtle" target="_blank">mirtle</a>: New CBA twist could help teams like Leafs, Bruins with cap crunch <a href="http://t.co/AFLRGj3kHt" target="_blank">http://t.co/AFLRGj3kHt</a>        </p>
+    </div>
+                    
+                                                        
+                    
+                    
+            
+<div class="tweet-item clearfix">
+        <a target="_blank" href="http://twitter.com/David_C_Steele">
+        <img src="http://st.snimg.com/image/1x1-trans.png" data-href="http://a0.twimg.com/profile_images/378800000142586072/e707ec161a9db477ca4e8f9df8c1fe65_normal.jpeg" width="50" height="50" />
+    </a>
+            <span class="name">
+        <a target="_blank" href="http://twitter.com/David_C_Steele">David Steele</a>
+    </span>
+    <span class="screen-name">
+        <a target="_blank" href="http://twitter.com/David_C_Steele">@David_C_Steele</a>
+    </span>
+        <p class="text">
+            Oh, also: @<a href="http://twitter.com/1sweetpallday" target="_blank">1sweetpallday</a>. Where she seems a little uncomfortable with all this attention.        </p>
+    </div>
+                    
+                                </div>
+
+            
+                <div class="column">
+                                                        
+                    
+                    
+            
+<div class="tweet-item clearfix">
+        <a target="_blank" href="http://twitter.com/seangentille">
+        <img src="http://st.snimg.com/image/1x1-trans.png" data-href="http://a0.twimg.com/profile_images/378800000040296963/2105dabb05b22e620585b46f8291035c_normal.png" width="50" height="50" />
+    </a>
+            <span class="name">
+        <a target="_blank" href="http://twitter.com/seangentille">Sean Gentille</a>
+    </span>
+    <span class="screen-name">
+        <a target="_blank" href="http://twitter.com/seangentille">@seangentille</a>
+    </span>
+        <p class="text">
+            There are more scouts than fans at Consol.        </p>
+    </div>
+                    
+                                                        
+                    
+                    
+            
+<div class="tweet-item clearfix">
+        <a target="_blank" href="http://twitter.com/David_C_Steele">
+        <img src="http://st.snimg.com/image/1x1-trans.png" data-href="http://a0.twimg.com/profile_images/378800000142586072/e707ec161a9db477ca4e8f9df8c1fe65_normal.jpeg" width="50" height="50" />
+    </a>
+            <span class="name">
+        <a target="_blank" href="http://twitter.com/David_C_Steele">David Steele</a>
+    </span>
+    <span class="screen-name">
+        <a target="_blank" href="http://twitter.com/David_C_Steele">@David_C_Steele</a>
+    </span>
+        <p class="text">
+            Not only is there a Jacoby Jones parody account, @<a href="http://twitter.com/NotJacobyJones" target="_blank">NotJacobyJones</a>, it's been up since long before the party bus.        </p>
+    </div>
+                    
+                                </div>
+
+            
+                <div class="column">
+                                                        
+                    
+                    
+            
+<div class="tweet-item clearfix">
+        <a target="_blank" href="http://twitter.com/David_C_Steele">
+        <img src="http://st.snimg.com/image/1x1-trans.png" data-href="http://a0.twimg.com/profile_images/378800000142586072/e707ec161a9db477ca4e8f9df8c1fe65_normal.jpeg" width="50" height="50" />
+    </a>
+            <span class="name">
+        <a target="_blank" href="http://twitter.com/David_C_Steele">David Steele</a>
+    </span>
+    <span class="screen-name">
+        <a target="_blank" href="http://twitter.com/David_C_Steele">@David_C_Steele</a>
+    </span>
+        <p class="text">
+            RT @<a href="http://twitter.com/JDWackbag" target="_blank">JDWackbag</a>: @<a href="http://twitter.com/jessespector" target="_blank">jessespector</a> @<a href="http://twitter.com/David_C_Steele" target="_blank">David_C_Steele</a> he did however admit to being hit with a bottle by "escort" Sweet Pea        </p>
+    </div>
+                    
+                                                        
+                    
+                    
+            
+<div class="tweet-item clearfix">
+        <a target="_blank" href="http://twitter.com/seangentille">
+        <img src="http://st.snimg.com/image/1x1-trans.png" data-href="http://a0.twimg.com/profile_images/378800000040296963/2105dabb05b22e620585b46f8291035c_normal.png" width="50" height="50" />
+    </a>
+            <span class="name">
+        <a target="_blank" href="http://twitter.com/seangentille">Sean Gentille</a>
+    </span>
+    <span class="screen-name">
+        <a target="_blank" href="http://twitter.com/seangentille">@seangentille</a>
+    </span>
+        <p class="text">
+            Wrote this last week about Thomas. If he wants people to shut up about the Facebook stuff, it's on him: <a href="http://t.co/jYYxy0cHr8" target="_blank">http://t.co/jYYxy0cHr8</a>        </p>
+    </div>
+                    
+                                </div>
+
+            
+                <div class="column">
+                                                        
+                    
+                    
+            
+<div class="tweet-item clearfix">
+        <a target="_blank" href="http://twitter.com/jessespector">
+        <img src="http://st.snimg.com/image/1x1-trans.png" data-href="http://a0.twimg.com/profile_images/378800000376052517/a0942e280ac15268d0fe2eeb274eed1b_normal.jpeg" width="50" height="50" />
+    </a>
+            <span class="name">
+        <a target="_blank" href="http://twitter.com/jessespector">Jesse Spector</a>
+    </span>
+    <span class="screen-name">
+        <a target="_blank" href="http://twitter.com/jessespector">@jessespector</a>
+    </span>
+        <p class="text">
+            Mariners sent out an email with this header. Unfortunately, all that followed was boring old baseball stats. <a href="http://t.co/d8b1EKxPig" target="_blank">http://t.co/d8b1EKxPig</a>        </p>
+    </div>
+                    
+                                                        
+                    
+                    
+            
+<div class="tweet-item clearfix">
+        <a target="_blank" href="http://twitter.com/seangentille">
+        <img src="http://st.snimg.com/image/1x1-trans.png" data-href="http://a0.twimg.com/profile_images/378800000040296963/2105dabb05b22e620585b46f8291035c_normal.png" width="50" height="50" />
+    </a>
+            <span class="name">
+        <a target="_blank" href="http://twitter.com/seangentille">Sean Gentille</a>
+    </span>
+    <span class="screen-name">
+        <a target="_blank" href="http://twitter.com/seangentille">@seangentille</a>
+    </span>
+        <p class="text">
+            Consol <a href="http://twitter.com/#!/search?q=%23veggieupdate" target="_blank">#veggieupdate</a>: A good plate tonight. Ranch dip instead of French Onion. Interesting.        </p>
+    </div>
+                    
+                                </div>
+
+                        </div>
+
+        </div>
+                
+        <div id="nfl" class="scroll-pane tab-pane ">
+
+            <div class="scroll-content">
+
+            
+                        </div>
+
+        </div>
+                
+        <div id="mlb" class="scroll-pane tab-pane ">
+
+            <div class="scroll-content">
+
+            
+                        </div>
+
+        </div>
+                
+        <div id="nba" class="scroll-pane tab-pane ">
+
+            <div class="scroll-content">
+
+            
+                        </div>
+
+        </div>
+                
+        <div id="nhl" class="scroll-pane tab-pane ">
+
+            <div class="scroll-content">
+
+            
+                        </div>
+
+        </div>
+                
+        <div id="ncaaf" class="scroll-pane tab-pane ">
+
+            <div class="scroll-content">
+
+            
+                        </div>
+
+        </div>
+                
+        <div id="ncaab" class="scroll-pane tab-pane ">
+
+            <div class="scroll-content">
+
+            
+                        </div>
+
+        </div>
+                
+        <div id="nascar" class="scroll-pane tab-pane ">
+
+            <div class="scroll-content">
+
+            
+                        </div>
+
+        </div>
+                
+        <div id="soccer" class="scroll-pane tab-pane ">
+
+            <div class="scroll-content">
+
+            
+                        </div>
+
+        </div>
+                
+        <script id="twitter-channel-tweet" class="tweet-template" type="text/html">
+            <div class="tweet-item clearfix">
+                <a class="twitter-profile-url" target="_blank" href="">
+                    <img src="" width="50" height="50" style="display: block; ">
+                </a>
+                <span class="name">
+                    <a class="twitter-profile-url" target="_blank" href=""></a>
+                </span>
+                <span class="screen-name">
+                    <a class="twitter-profile-url" target="_blank" href=""></a>
+                </span>
+                <p class="text"></p>
+            </div>
+        </script>
+
+    </div>
+
+    <div class="scroll-control row-fluid">
+        <div class="span1">
+            <a class="scroll-left btn btn-mini" href="#" data-dir="1">
+                <i class="icon-chevron-left"></i>
+            </a>
+        </div>
+        <div class="span10">
+            <p class="pane-count-indicator align-c"></p>
+        </div>
+        <div class="span1">
+            <a class="scroll-right btn btn-mini pull-right" href="#" data-dir="-1">
+                <i class="icon-chevron-right"></i>
+            </a>
+        </div>
+    </div>
+
+</div>
+
+    <div class="in-sports-module clearfix">
+    <div class="feature-heading-module">
+    <span class="primary-color">Latest</span>
+    <h3>In Sports</h3>
+</div>
+    <ul class="unstyled">
+                                    
+                                                                <li class="section-summary first">
+            <h4 class="title color-nfl-border">
+                <a href="http://www.sportingnews.com/nfl">
+                    NFL                </a>
+            </h4>
+                        <div class="featured-story">
+                <a href="http://www.sportingnews.com/nfl/story/2013-09-26/nfl-week-4-picks-dolphins-saints-patriots-falcons-bears-lions-steelers-vikings">
+                    <div class="image-mask">
+                        <img src="http://st.snimg.com/image/1x1-trans.png" data-href="http://dy.snimg.com/story-image/6/21/4527690/181046-180-120.jpg" />                    </div>
+
+                    <div class="align-v-container title">
+                        <span class="align-v">
+                            On the line                        </span>
+                    </div>
+                </a>
+            </div>
+            
+            
+            <ul class="recent-stories unstyled">
+                                <li>
+                    <a href="http://www.sportingnews.com/nfl/story/2013-09-25/nfl-mock-draft-2014-bridgewater-clowney-mariota-hundley">
+                        Best in class                    </a>
+                </li>
+                                <li>
+                    <a href="http://www.sportingnews.com/nfl/story/2013-09-24/von-miller-broncos-drug-test-corruption-suspension-too-lenient-collector">
+                        Not tough enough                    </a>
+                </li>
+                            </ul>
+            <div class="call-to-action">
+                <a href="http://www.sportingnews.com/nfl">More NFL</a>
+                <i class="icon-chevron-right"></i>
+            </div>
+        </li>
+        
+                    
+                                                                <li class="section-summary ">
+            <h4 class="title color-mlb-border">
+                <a href="http://www.sportingnews.com/mlb">
+                    MLB                </a>
+            </h4>
+                        <div class="featured-story">
+                <a href="http://www.sportingnews.com/mlb/story/2013-09-26/screwball-giants-total-baseball-ask-spector">
+                    <div class="image-mask">
+                        <img src="http://st.snimg.com/image/1x1-trans.png" data-href="http://dy.snimg.com/story-image/2/59/4527728/181074-180-120.jpg" />                    </div>
+
+                    <div class="align-v-container title">
+                        <span class="align-v">
+                            Classic fall                        </span>
+                    </div>
+                </a>
+            </div>
+            
+            
+            <ul class="recent-stories unstyled">
+                                <li>
+                    <a href="http://www.sportingnews.com/mlb/story/2013-09-17/most-beloved-baseball-players-team-by-team">
+                        Dearly beloved                    </a>
+                </li>
+                                <li>
+                    <a href="http://www.sportingnews.com/mlb/story/2013-09-25/mlb-playoffs-2013-dodgers-pirates-indians-braves-bill-ripken-mlb-network">
+                        The view from the inside                    </a>
+                </li>
+                            </ul>
+            <div class="call-to-action">
+                <a href="http://www.sportingnews.com/mlb">More MLB</a>
+                <i class="icon-chevron-right"></i>
+            </div>
+        </li>
+        
+                    
+                                                                <li class="section-summary ">
+            <h4 class="title color-nba-border">
+                <a href="http://www.sportingnews.com/nba">
+                    NBA                </a>
+            </h4>
+                        <div class="featured-story">
+                <a href="http://www.sportingnews.com/nba/story/2013-09-26/nba-rankings-power-forward-tim-duncan-blake-griffin-dirk-nowitzki-kevin-love">
+                    <div class="image-mask">
+                        <img src="http://st.snimg.com/image/1x1-trans.png" data-href="http://dy.snimg.com/story-image/0/36/4527705/181049-180-120.jpg" />                    </div>
+
+                    <div class="align-v-container title">
+                        <span class="align-v">
+                            The powers that be                        </span>
+                    </div>
+                </a>
+            </div>
+            
+            
+            <ul class="recent-stories unstyled">
+                                <li>
+                    <a href="http://www.sportingnews.com/nba/story/2013-09-25/nba-rankings-small-forward-lebron-james-kevin-durant-paul-george-carmelo-anthony">
+                        Nothing small here                    </a>
+                </li>
+                                <li>
+                    <a href="http://www.sportingnews.com/nba/story/2013-09-24/nba-nickname-jersey-lebron-james-kevin-durant-nick-young-ray-allen">
+                        Swaggy from the start                    </a>
+                </li>
+                            </ul>
+            <div class="call-to-action">
+                <a href="http://www.sportingnews.com/nba">More NBA</a>
+                <i class="icon-chevron-right"></i>
+            </div>
+        </li>
+        
+                    
+                                                                <li class="section-summary ">
+            <h4 class="title color-nhl-border">
+                <a href="http://www.sportingnews.com/nhl">
+                    NHL                </a>
+            </h4>
+                        <div class="featured-story">
+                <a href="http://www.sportingnews.com/nhl/story/2013-09-26/nhl-season-preview-2013-metropolitan-division-penguins-sidney-crosby-henrik-lund">
+                    <div class="image-mask">
+                        <img src="http://st.snimg.com/image/1x1-trans.png" data-href="http://dy.snimg.com/story-image/1/31/4527797/181111-180-120.jpg" />                    </div>
+
+                    <div class="align-v-container title">
+                        <span class="align-v">
+                            Sink or swim                        </span>
+                    </div>
+                </a>
+            </div>
+            
+            
+            <ul class="recent-stories unstyled">
+                                <li>
+                    <a href="http://www.sportingnews.com/nhl/story/2013-09-25/nhl-season-predictions-atlantic-division-preview-teams-maple-leafs-red-wings-bru">
+                        Good—really good—to go                    </a>
+                </li>
+                                <li>
+                    <a href="http://www.sportingnews.com/nhl/story/2013-09-23/phil-kessel-john-scott-david-clarkson-suspension-maple-leafs-sabres-fight-miller">
+                        Five degrees of dumb                    </a>
+                </li>
+                            </ul>
+            <div class="call-to-action">
+                <a href="http://www.sportingnews.com/nhl">More NHL</a>
+                <i class="icon-chevron-right"></i>
+            </div>
+        </li>
+        
+                    
+                                                                <li class="section-summary ">
+            <h4 class="title color-ncaaf-border">
+                <a href="http://www.sportingnews.com/ncaa-football">
+                    NCAAF                </a>
+            </h4>
+                        <div class="featured-story">
+                <a href="http://www.sportingnews.com/ncaa-football/story/2013-09-26/sec-saturday-day-in-life-with-commissioner-mike-slive-alabama">
+                    <div class="image-mask">
+                        <img src="http://st.snimg.com/image/1x1-trans.png" data-href="http://dy.snimg.com/story-image/0/0/181043/181043-180-120.jpg" />                    </div>
+
+                    <div class="align-v-container title">
+                        <span class="align-v">
+                            Behind the SEC curtain                        </span>
+                    </div>
+                </a>
+            </div>
+            
+            
+            <ul class="recent-stories unstyled">
+                                <li>
+                    <a href="http://www.sportingnews.com/ncaa-football/story/2013-09-25/first-and-10-apu-johnny-manziel-rating-texas-mack-brown-ncaa-melvin-gordon">
+                        It's all in the wording                    </a>
+                </li>
+                                <li>
+                    <a href="http://www.sportingnews.com/ncaa-football/story/2013-09-25/heisman-candidates-week-5-mariota-manziel-boyd-bridgewater-hundley-gurley">
+                        Super sidekicks                    </a>
+                </li>
+                            </ul>
+            <div class="call-to-action">
+                <a href="http://www.sportingnews.com/ncaa-football">More NCAAF</a>
+                <i class="icon-chevron-right"></i>
+            </div>
+        </li>
+        
+                    
+                                                                <li class="section-summary first">
+            <h4 class="title color-ncaab-border">
+                <a href="http://www.sportingnews.com/ncaa-basketball">
+                    NCAAB                </a>
+            </h4>
+                        <div class="featured-story">
+                <a href="http://www.sportingnews.com/ncaa-basketball/story/2013-09-25/college-basketball-five-impact-transfers-jordan-clarkson-mike-moser-michigan">
+                    <div class="image-mask">
+                        <img src="http://st.snimg.com/image/1x1-trans.png" data-href="http://dy.snimg.com/story-image/0/20/4527495/180930-180-120.jpg" />                    </div>
+
+                    <div class="align-v-container title">
+                        <span class="align-v">
+                            Brace for impact                        </span>
+                    </div>
+                </a>
+            </div>
+            
+            
+            <ul class="recent-stories unstyled">
+                                <li>
+                    <a href="http://www.sportingnews.com/ncaa-basketball/story/2013-09-19/final-four-sites-2017-20-domed-stadiums-bids-dan-gavitt-indianapolis-new-orleans">
+                        Dome sweet dome                    </a>
+                </li>
+                                <li>
+                    <a href="http://www.sportingnews.com/ncaa-basketball/story/2013-09-12/college-basketball-preseason-all-americans-sporting-news-best-for-2013-14">
+                        Our pride and joy                    </a>
+                </li>
+                            </ul>
+            <div class="call-to-action">
+                <a href="http://www.sportingnews.com/ncaa-basketball">More NCAAB</a>
+                <i class="icon-chevron-right"></i>
+            </div>
+        </li>
+        
+                    
+                                                                <li class="section-summary ">
+            <h4 class="title color-nascar-border">
+                <a href="http://www.sportingnews.com/nascar">
+                    NASCAR                </a>
+            </h4>
+                        <div class="featured-story">
+                <a href="http://www.sportingnews.com/nascar/story/2013-09-26/dover-schedule-favorites-predictions-chase-contenders-matt-kenseth-kyle-busch">
+                    <div class="image-mask">
+                        <img src="http://st.snimg.com/image/1x1-trans.png" data-href="http://dy.snimg.com/story-image/5/69/4527738/181081-180-120.jpg" />                    </div>
+
+                    <div class="align-v-container title">
+                        <span class="align-v">
+                            Fans' choice?                        </span>
+                    </div>
+                </a>
+            </div>
+            
+            
+            <ul class="recent-stories unstyled">
+                                <li>
+                    <a href="http://www.sportingnews.com/nascar/story/2013-09-26/kevin-harvick-stewart-haas-move-sponsors-richard-childress-racing-chase">
+                        Matter of trust                    </a>
+                </li>
+                                <li>
+                    <a href="http://www.sportingnews.com/nascar/story/2013-09-25/dale-earnhardt-jr-win-chase-dover-hendrick-motorsports">
+                        Running out of time                    </a>
+                </li>
+                            </ul>
+            <div class="call-to-action">
+                <a href="http://www.sportingnews.com/nascar">More NASCAR</a>
+                <i class="icon-chevron-right"></i>
+            </div>
+        </li>
+        
+                    
+                                                                <li class="section-summary ">
+            <h4 class="title color-soccer-border">
+                <a href="http://www.sportingnews.com/soccer">
+                    SOCCER                </a>
+            </h4>
+                        <div class="featured-story">
+                <a href="http://www.sportingnews.com/soccer/story/2013-09-26/joe-corona-tijuana-transfer-usa-world-cup">
+                    <div class="image-mask">
+                        <img src="http://st.snimg.com/image/1x1-trans.png" data-href="http://dy.snimg.com/story-image/4/48/4527814/181112-180-120.jpg" />                    </div>
+
+                    <div class="align-v-container title">
+                        <span class="align-v">
+                            Odd man out                        </span>
+                    </div>
+                </a>
+            </div>
+            
+            
+            <ul class="recent-stories unstyled">
+                                <li>
+                    <a href="http://www.sportingnews.com/soccer/story/2013-09-26/shane-oneill-colorado-rapids-player-spotlight">
+                        Beyond his years                    </a>
+                </li>
+                                <li>
+                    <a href="http://www.sportingnews.com/soccer/story/2013-09-26/mexico-carlos-vela-ochoa-el-tri-return-world-cup">
+                        Help wanted                    </a>
+                </li>
+                            </ul>
+            <div class="call-to-action">
+                <a href="http://www.sportingnews.com/soccer">More SOCCER</a>
+                <i class="icon-chevron-right"></i>
+            </div>
+        </li>
+        
+                    
+                                                                <li class="section-summary ">
+            <h4 class="title color-fantasy-border">
+                <a href="http://fantasysource.sportingnews.com">
+                    FANTASY                </a>
+            </h4>
+                        <div class="featured-story">
+                <a href="http://fantasysource.sportingnews.com/football/matchups/2013/4/matchup-dolphins-at-saints">
+                    <div class="image-mask">
+                        <img src="http://st.snimg.com/image/1x1-trans.png" data-href="http://kr.snimg.com/fantasysource/football/2013-09-26/Miller_Lamar0926_ap_300.jpg" />                    </div>
+
+                    <div class="align-v-container title">
+                        <span class="align-v">
+                            Matchup: Dolphins at Saints                        </span>
+                    </div>
+                </a>
+            </div>
+            
+            
+            <ul class="recent-stories unstyled">
+                                <li>
+                    <a href="http://fantasysource.sportingnews.com/football/matchups/2013/4/matchup-patriots-at-falcons">
+                        Matchup: Patriots at Falcons                    </a>
+                </li>
+                                <li>
+                    <a href="http://fantasysource.sportingnews.com/football/matchups/2013/4/matchup-redskins-at-raiders">
+                        Matchup: Redskins at Raiders                    </a>
+                </li>
+                            </ul>
+            <div class="call-to-action">
+                <a href="http://fantasysource.sportingnews.com">More FANTASY</a>
+                <i class="icon-chevron-right"></i>
+            </div>
+        </li>
+        
+                    
+                                                                <li class="section-summary ">
+            <h4 class="title color-linemakers-border">
+                <a href="http://linemakers.sportingnews.com">
+                    LINEMAKERS                </a>
+            </h4>
+                        <div class="featured-story">
+                <a href="http://linemakers.sportingnews.com/nfl/2013-09-26/patriots-vs-falcons-point-spread-pick-vegas-odds-nfl-week-4-lines-injuries">
+                    <div class="image-mask">
+                        <img src="http://st.snimg.com/image/1x1-trans.png" data-href="http://kr.snimg.com/linemakers/nfl/2013-09-23/Tom Brady 300.jpg" />                    </div>
+
+                    <div class="align-v-container title">
+                        <span class="align-v">
+                            Patriots vs. Falcons point spread and...                        </span>
+                    </div>
+                </a>
+            </div>
+            
+            
+            <ul class="recent-stories unstyled">
+                                <li>
+                    <a href="http://linemakers.sportingnews.com/mlb/2013-09-26/mlb-odds-pick-yankees-rays-wild-card-race-standings-rivera-final-home-game">
+                        MLB odds and picks –...                    </a>
+                </li>
+                                <li>
+                    <a href="http://linemakers.sportingnews.com/ncaa-football/2013-09-25/oklahoma-notre-dame-point-spread-pick-college-football-odds-lines-injuries">
+                        Oklahoma vs. Notre Dame...                    </a>
+                </li>
+                            </ul>
+            <div class="call-to-action">
+                <a href="http://linemakers.sportingnews.com">More LINEMAKERS</a>
+                <i class="icon-chevron-right"></i>
+            </div>
+        </li>
+        
+        
+    </ul>
+</div>
+
+    <div class="row">
+
+    <div class="span8">
+
+        <div class="six-pack-ads-module">
+    <div class="feature-heading-module">
+    <span class="primary-color">More From</span>
+    <h3>Sporting News</h3>
+</div>    <div class="control-collection clearfix">
+        <div class="adtech-iframe-module" id="adtech-ad-3">
+	<!--JavaScript Tag // Tag for network 5072: Sporting News Test Network // Website: Sporting News // Placement: home_home_180x150_1 (3003649) -->
+	<iframe frameborder="0" scrolling="no" vspace="0" hspace="0" marginheight="0" marginwidth="0" src="http://adserver.adtechus.com/adiframe/3.0/5452.1/3003649/0/169/ADTECH;loc=100;target=_blank;key=key1+key2+key3+key4;grp=356946479;kvpos=promo1;kvaction=index;kvsection=;kvsport=;misc=356946479"></iframe>
+</div>
+<div class="adtech-iframe-module" id="adtech-ad-4">
+	<!--JavaScript Tag // Tag for network 5072: Sporting News Test Network // Website: Sporting News // Placement: home_home_180x150_2 (3003891) -->
+	<iframe frameborder="0" scrolling="no" vspace="0" hspace="0" marginheight="0" marginwidth="0" src="http://adserver.adtechus.com/adiframe/3.0/5452.1/3003891/0/169/ADTECH;loc=100;target=_blank;key=key1+key2+key3+key4;grp=356946479;kvpos=promo2;kvaction=index;kvsection=;kvsport=;misc=356946479"></iframe>
+</div>
+<div class="adtech-iframe-module" id="adtech-ad-5">
+	<!--JavaScript Tag // Tag for network 5072: Sporting News Test Network // Website: Sporting News // Placement: home_home_180x150_3 (3003947) -->
+	<iframe frameborder="0" scrolling="no" vspace="0" hspace="0" marginheight="0" marginwidth="0" src="http://adserver.adtechus.com/adiframe/3.0/5452.1/3003947/0/169/ADTECH;loc=100;target=_blank;key=key1+key2+key3+key4;grp=356946479;kvpos=promo3;kvaction=index;kvsection=;kvsport=;misc=356946479"></iframe>
+</div>
+<div class="adtech-iframe-module" id="adtech-ad-6">
+	<!--JavaScript Tag // Tag for network 5072: Sporting News Test Network // Website: Sporting News // Placement: home_home_180x150_4 (3003972) -->
+	<iframe frameborder="0" scrolling="no" vspace="0" hspace="0" marginheight="0" marginwidth="0" src="http://adserver.adtechus.com/adiframe/3.0/5452.1/3003972/0/169/ADTECH;loc=100;target=_blank;key=key1+key2+key3+key4;grp=356946479;kvpos=promo4;kvaction=index;kvsection=;kvsport=;misc=356946479"></iframe>
+</div>
+<div class="adtech-iframe-module" id="adtech-ad-7">
+	<!--JavaScript Tag // Tag for network 5072: Sporting News Test Network // Website: Sporting News // Placement: home_home_180x150_5 (3003838) -->
+	<iframe frameborder="0" scrolling="no" vspace="0" hspace="0" marginheight="0" marginwidth="0" src="http://adserver.adtechus.com/adiframe/3.0/5452.1/3003838/0/169/ADTECH;loc=100;target=_blank;key=key1+key2+key3+key4;grp=356946479;kvpos=promo5;kvaction=index;kvsection=;kvsport=;misc=356946479"></iframe>
+</div>
+<div class="adtech-iframe-module" id="adtech-ad-8">
+	<!--JavaScript Tag // Tag for network 5072: Sporting News Test Network // Website: Sporting News // Placement: home_home_180x150_6 (3003988) -->
+	<iframe frameborder="0" scrolling="no" vspace="0" hspace="0" marginheight="0" marginwidth="0" src="http://adserver.adtechus.com/adiframe/3.0/5452.1/3003988/0/169/ADTECH;loc=100;target=_blank;key=key1+key2+key3+key4;grp=356946479;kvpos=promo6;kvaction=index;kvsection=;kvsport=;misc=356946479"></iframe>
+</div>
+    </div>
+</div>
+    </div>
+
+    <div class="span4">
+
+        <fb:like-box href="http://www.facebook.com/sportingnews" stream="false" header="false" colorscheme="light" width="298" connections="30" height="450"></fb:like-box>
+    </div>
+
+</div>
+</div>
+
+        </div>
+    </div>
+
+    <div id="dart-site-pre-foot" class="ad-wrapper">
+    <div class="adtech-js-module" id="adtech-ad-9">
+    <!--JavaScript Tag // Tag for network 5072: Sporting News Test Network // Website: Sporting News // Placement: home_home_728x90 (3003944) -->
+    <script language="javascript"><!--
+    document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtechus.com/addyn/3.0/5452.1/3003944/0/225/ADTECH;loc=100;target=_blank;key=key1+key2+key3+key4;grp=356946479;kvpos=bottom;kvaction=index;kvsection=;kvsport=;misc=356946479"></scri'+'pt>');
+    //-->
+    </script><noscript><a href="http://adserver.adtechus.com/adlink/3.0/5452.1/3003944/0/225/ADTECH;loc=100;target=_blank;key=key1+key2+key3+key4;grp=356946479;kvpos=bottom;kvaction=index;kvsection=;kvsport=;" target="_blank"><img src="http://adserver.adtechus.com/adserv/3.0/5452.1/3003944/0/225/ADTECH;loc=100;target=_blank;key=key1+key2+key3+key4;grp=356946479;kvpos=bottom;kvaction=index;kvsection=;kvsport=;" border="0"></a></noscript>
+    <!-- End of JavaScript Tag -->
+</div>
+</div>
+
+<div class="site-footer-module">
+    <div class="site-container">
+
+        <div class="well clearfix">
+            <!-- footer main part -->
+            <span class="ir sn-logo pull-left">
+                <a href="http://www.sportingnews.com">Sporting News</a>
+            </span>
+
+            <form id="footer-search" class="form-inline pull-right" method="GET" action="/search">
+                <fieldset>
+                    <input id="search-box" name="q" type="text" placeholder="Search Sporting News">
+                    <btn class="btn btn-primary"><i class="icon-search icon-white"></i></btn>
+                </fieldset>
+            </form>
+        </div>
+
+        <div class="global-nav">
+            <h3>More From Huffington Post Media Group</h3>
+<div class="row">
+    <div class="span3">
+        <ul class="unstyled">
+            <li><a target="_blank" href="http://www.huffingtonpost.com/ ">National News</a></li>
+            <li><a target="_blank" href="http://www.huffingtonpost.com/world/">World News</a></li>
+            <li><a target="_blank" href="http://www.huffingtonpost.com/news/science/">Science News</a></li>
+            <li><a target="_blank" href="http://www.huffingtonpost.com/healthy-living/">Health News</a></li>
+        </ul>
+    </div>
+    <div class="span3">
+        <ul class="unstyled">
+            <li><a target="_blank" href="http://www.huffingtonpost.com/weird-news/">Weird News</a></li>
+            <li><a target="_blank" href="http://www.huffingtonpost.com/entertainment">Entertainment News</a></li>
+            <li><a target="_blank" href="http://www.huffingtonpost.com/politics">Politics News</a></li>
+            <li><a target="_blank" href="http://www.huffingtonpost.com/business">Business News</a></li>
+        </ul>
+    </div>
+    <div class="span3">
+        <ul class="unstyled">
+            <li><a target="_blank" href="http://www.engadget.com/">Tech News</a></li>
+            <li><a target="_blank" href="http://www.huffingtonpost.com/comedy ">Comedy</a></li>
+            <li><a target="_blank" href="http://www.games.com">Games</a></li>
+            <li><a target="_blank" href="http://www.dailyfinance.com/stock-quotes/">Stock Quotes</a></li>
+        </ul>
+    </div>
+    <div class="span3">
+        <ul class="unstyled">
+            <li><a target="_blank" href="http://www.dailyfinance.com/market-news/">Stock Market News</a></li>
+            <li><a target="_blank" href="http://www.dailyfinance.com/category/investing/">Investing</a></li>
+            <li><a target="_blank" href="http://www.huffingtonpost.com/small-business/">Small Business</a></li>
+            <li><a target="_blank" href="http://www.moviefone.com/">Movie News</a></li>
+        </ul>
+    </div>
+</div>
+        </div>
+
+        <div class="business-nav">
+            <div class="logos clearfix">
+    <a class="huffpost-logo ir pull-left" href="http://www.huffingtonpost.com/" title="The Huffington Post" target="_blank">
+        The Huffington Post
+    </a>
+    <a class="sn-logo ir pull-right" href="http://www.sportingnews.com" title="Sporting News" >
+        Sporting News
+    </a>
+</div>
+<ul class="nav-pills unstyled">
+    <li>
+        <a href="http://www.sportingnews.com/site-map" class="first">Site Map</a>
+    </li>
+    <li>
+        <a href="http://www.sportingnews.com/customer-service/faq">FAQs</a>
+    </li>
+    <li>
+        <a href="http://www.sportingnews.com/customer-service/feedback">Feedback</a>
+    </li>
+    <li>
+        <a href="http://www.sportingnews.com/customer-service/contact">Contact</a>
+    </li>
+    <li>
+        <a href="http://www.sportingnews.com/policy/cancellation">Cancellation</a>
+    </li>
+    <li>
+        <a href="http://mediakit.sportingnews.com">Media Kit</a>
+    </li>
+    <li>
+        <a href="http://www.acbj.com/">American City Business Journals, Inc.</a>
+    </li>
+</ul>
+
+<!-- /footerNav -->
+<div class="credit">
+    <p><a href="http://www.publishthis.com/">Content curation and aggregation powered by</a> <a target="_blank" href="http://www.publishthis.com/"><img src="http://st.snimg.com/image/feed/footer/publishthis-credit-logo.png" width="72" height="11" alt="PublishThis"/></a></p>
+    <p class="perform"><img src="http://st.snimg.com/image/feed/footer/perform-credit-logo.png" alt="Perform" /> an ePlayer affiliate site</p>
+    <p>&copy; 2013 by <a target="_blank" href="http://www.stats.com/"><img src="http://st.snimg.com/image/feed/footer/stats-credit-logo.png" alt="Stats" /></a>. Any commercial use or distribution without the express written consent of <a target="_blank" href="http://www.stats.com/">STATS LLC</a> is strictly prohibited.</p>
+    <p>&copy; 2013 by <a target="_blank" href="http://www.associatedpress.com/"><img src="http://st.snimg.com/image/feed/footer/ap-credit-logo.png" alt="Associated Press"/></a>. Any commercial use or distribution without the express written consent of <a target="_blank" href="http://www.associatedpress.com/">Associated Press</a> is strictly prohibited.</p>
+</div>
+<div class="copyright">
+    <p>
+        Use of this Site constitutes acceptance of our <a target="_blank" href="http://acbj.com/privacy.html">User Agreement</a> (updated 3/14/12) and <a target="_blank" href="http://acbj.com/privacy.html#VI">Privacy Policy</a> (updated 3/14/12).
+        <a target="_blank" href="http://acbj.com/privacy.html#VI8">Your California Privacy Rights</a>.
+        <a target="_blank" href="http://acbj.com/privacy.html#VI4">Ad Choices</a>.
+    </p>
+    <p>&copy; 2013 SportingNews.com and its licensors. All rights reserved.<br />The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of SportingNews.com.</p>
+</div>
+        </div>
+    </div>
+</div>
+
+    
+    <script type="text/javascript">
+    //<!--
+
+                // http://requirejs.org/docs/api.html#config
+                require = {
+                    baseUrl: 'http://st.snimg.com/js/'
+                };    //-->
+</script>
+<script type="text/javascript" src="http://st.snimg.com/vendor/JSON-js/json2.js?_cb=74d903049683e5bbea9ccb7544a42bca"></script>
+<script type="text/javascript" src="http://st.snimg.com/vendor/raphael-2.1.0.js?_cb=cd98851d26f4a73baeea7be31cc3946f"></script>
+<script type="text/javascript" src="http://st.snimg.com/vendor/moment-2.0.0.js?_cb=f542b4c84aa5db62baf27f246f10bbf5"></script>
+<script type="text/javascript" src="http://dy.snimg.com/compressed/www-a27dd8b309176cd16137de4a0bab2c37.js"></script>
+<script type="text/javascript" src="http://st.snimg.com/vendor/jquery.cookie.js?_cb=384772142d1907d7d3aea3ac11fad9d0"></script>
+<script type="text/javascript" src="http://st.snimg.com/vendor/jquery-plugin/jquery.transit-0.9.9.js?_cb=bdbee7cb70626c907b5dea3c148769f6"></script>
+<script type="text/javascript">
+    //<!--
+if (!$.support.transition) {
+                    $.fn.transition = $.fn.animate;
+                }    //-->
+</script>
+<script type="text/javascript" src="http://dy.snimg.com/compressed/www-fantasy-ec597c7de8b0fecd555017ee1e5f4741.js"></script>
+<script type="text/javascript" src="http://st.snimg.com/js/component/module/persistent-bar.js?_cb=eb120c149cc355a9245d2047378158de"></script>
+<script type="text/javascript" src="http://st.snimg.com/js/component/module/popular-stories.js?_cb=f37334b2a419d76fbfacc369419e7b37"></script>
+<script type="text/javascript" src="http://st.snimg.com/js/component/module/featured-gallery.js?_cb=5ab42b83cb5307454300dc7c50525659"></script>
+<script type="text/javascript" src="http://content.dl-rms.com/rms/mother/21524/nodetag.js"></script>
+<script type="text/javascript" src="http://st.snimg.com/js/lib/facebook/standard-sdk-loader.js?_cb=1db751b86b94f90b1a264f84a5fd596c"></script>
+<script type="text/javascript" src="http://st.snimg.com/js/lib/facebook/standard-sdk-loader.js?_cb=1db751b86b94f90b1a264f84a5fd596c"></script>
+<script type="text/javascript" src="http://st.snimg.com/js/component/module/facebook-app-help.js?_cb=ea033af237068a67a04f76e214e74c68"></script>
+<script type="text/javascript">
+    //<!--
+OmnitureExt.trackPartnerLink('.recommended-reads-module');    //-->
+</script>
+<script type="text/javascript">
+    //<!--
+var _sf_async_config={uid:22788,domain:"aol.sportingnews.com"};
+_sf_async_config.sections = "";
+_sf_async_config.authors = "";
+
+(function(){
+  function loadChartbeat()
+  {
+    window._sf_endpt=(new Date()).getTime();
+    var e = document.createElement('script');
+    e.setAttribute('language', 'javascript');
+    e.setAttribute('type', 'text/javascript');
+    e.setAttribute('src',
+       (("https:" == document.location.protocol) ? "https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/" :
+"http://") +
+       "static.chartbeat.com/js/chartbeat.js");
+    document.body.appendChild(e);
+  }
+  var oldonload = window.onload;
+  window.onload = (typeof window.onload != 'function') ?
+     loadChartbeat : function() { oldonload(); loadChartbeat(); };
+})();    //-->
+</script>
+<script type="text/javascript">
+    //<!--
+window.GravityUtils||(window.GravityUtils={});
+window.GravityUtils.includeJs||(window.GravityUtils.includeJs=function(b,e,c){var d,f,a;null==e&&(e=function(){});null==c&&(c=function(){});a=document.createElement("script");a.async=!0;d=!1;f=function(){d=!0;a.onreadystatechange=a.onload=null;return e()};a.onreadystatechange=function(){if(!d&&(!this.readyState||"complete"===this.readyState||"loaded"===this.readyState))return f()};a.onload=function(){if(!d)return f()};a.addEventListener?a.addEventListener("error",c,!1):a.attachEvent&&a.attachEvent("onerror",
+c);a.src=b;b=document.getElementsByTagName("script")[0];return b.parentNode.insertBefore(a,b)});
+(function(){var c,d,a,e,b;d="https:"===document.location.protocol?"https://b-ssl.grvcdn.com/go-v3-min.js":"http://b.grvcdn.com/go-v3-min.js";null==window.grvConversionEvents&&(window.grvConversionEvents=[]);b=[];a=0;for(e=b.length;a<e;a++)c=b[a],window.grvConversionEvents.push(c);window.grvSiteGuid="46ecb09adc92a29bc5142a779997297b";window.GravityUtils.includeJs(d)}).call(this);    //-->
+</script>
+    
+<!-- SiteCatalyst code Copyright 1997-2008 Omniture, Inc. More info available at http://www.omniture.com -->
+<script language="javascript" type="text/javascript" src="http://st.snimg.com/js/omniture_prod.js"></script>
+<script language="javascript" type="text/javascript"><!--
+/* You may give each page an identifying name, server, and channel on the next lines. */
+
+
+s.pageTitle="";
+s.pageName="home";
+s.server="www";
+s.channel="sn";
+s.pageType="";
+s.hier1="free content:home";
+s.hier2="tsn:free content:home";
+s.prop24 = "home";
+s.prop25 = "home";
+s.prop26 = "home";
+s.prop27 = "home";
+s.events = "event10";
+
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+<script language="javascript" type="text/javascript"><!--
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+//--></script><noscript><a href="http://www.omniture.com" title="Web Analytics"><img src="http://spnprod.122.2o7.net/b/ss/spnprod/11/0"
+height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
+<!-- End SiteCatalyst code -->
+
+
+
+</body>
+</html>

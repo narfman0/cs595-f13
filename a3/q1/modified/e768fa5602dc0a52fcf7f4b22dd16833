@@ -1,0 +1,600 @@
+<!DOCTYPE html>
+<script>var __pbpa = true;</script><script>var translated_warning_string = 'Warning: Never enter your Tumblr password unless \u201chttps://www.tumblr.com/login\u201d\x0ais the address in your web browser.\x0a\x0aYou should also see a green \u201cTumblr, Inc.\u201d identification in the address bar.\x0a\x0aSpammers and other bad guys use fake forms to steal passwords.\x0a\x0aTumblr will never ask you to log in from a user\u2019s blog.\x0a\x0aAre you absolutely sure you want to continue?';</script><script type="text/javascript" language="javascript" src="http://assets.tumblr.com/assets/scripts/pre_tumblelog.js?_v=90496f22ffd4b193ff4f3aa39d43d2af"></script>
+<script type="text/javascript"
+src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.1/jquery.min.js"></script>
+ 
+<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# blog: http://ogp.me/ns/blog#">
+ 
+<!--  
+THEME BY CAULDERS
+DO NOT REMOVE CREDIT
+-->
+ 
+<meta name="color:background" content="#FFFFFF" />
+<meta name="color:text" content="#2e2e2e"/>
+<meta name="color:link" content="#2e2e2e"/>
+<meta name="color:infobg" content="#FCFCFC">
+<meta name="color:scrollbar" content="#2e2e2e" />
+<meta name="color:textpost" content="#f8f8f8" />
+ 
+<meta name="image:sidebar" content=""/>
+<meta name="if:400px posts" content=""/>
+ 
+<meta name="text:Link 1" content="">
+<meta name="text:Link 1 Title" content="">
+<meta name="text:Link 2" content="">
+<meta name="text:Link 2 Title" content="">
+<meta name="text:Link 3" content="">
+<meta name="text:Link 3 Title" content="">
+ 
+<head><title>ew</title>
+<link rel="shortcut icon" href="http://25.media.tumblr.com/avatar_2a63a6c24773_128.png">
+<link rel="alternate" type="application/rss+xml" href="http://dearburnbooks.tumblr.com/rss">
+<meta name="description" content="Oi Elisa, t&aacute; muito apertado ai no seu cubo querida? Pode sair meu amor. A menina tem 26 mil tweets e 99% deles se baseiam em: Miley Cyrus, ela &eacute; a t&iacute;pica f&atilde; encubada que n&atilde;o consegue, de jeito nenhum,..." />
+    <style type="text/css">
+ 
+::-webkit-scrollbar {width: 3px; height:auto; background:#FFFFFF}
+::-webkit-scrollbar-corner {padding:2px;background:#FFFFFF}
+::-webkit-scrollbar-button:vertical {height:5px; display: block; background:#2e2e2e}
+::-webkit-scrollbar-button:horizontal {width: 3px; height: 5px; display: block; background:#2e2e2e}
+::-webkit-scrollbar-thumb:vertical {background:#2e2e2e;}
+::-webkit-scrollbar-thumb:horizontal {background: #FFFFFF;}
+::-webkit-scrollbar-thumb {background: #2e2e2e;}
+ 
+body {
+background:#FFFFFF;
+font-family:calibri;
+font-size:10px;
+letter-spacing:0px;
+color:#2e2e2e;
+line-height:120%;}
+ 
+a:link, a:active, a:visited{color: #2e2e2e;}
+a:hover{color:#2e2e2e; text-decoration:underline;}
+ 
+    a {
+    color:#2e2e2e;
+    text-decoration:none;
+    -moz-transition-duration:0.4s;
+    -webkit-transition-duration:0.4s;
+    -o-transition-duration:0.4s;
+    }
+   
+    a:hover {
+    color:#2e2e2e;
+    text-decoration:underline;
+    -moz-transition-duration:0.4s;
+    -webkit-transition-duration:0.4s;
+    -o-transition-duration:0.4s;
+    }
+ 
+    #container {
+    background-color:#FFFFFF;
+    width:700px;
+    margin: 0 auto -12px auto;
+    text-align: center;
+    }
+   
+    .links{
+    margin-top:5px;
+    word-spacing:1px;
+    text-align:center;
+    }
+   
+    .links a{
+    padding:5px;
+    letter-spacing:0px;
+    color:#2e2e2e;
+    text-decoration:none;
+    -moz-transition-duration:0.4s;
+    -webkit-transition-duration:0.4s;
+    -o-transition-duration:0.4s;
+    }
+   
+    .links a:hover{
+    color:#2e2e2e;
+    text-decoration:underline;
+    -moz-transition-duration:0.4s;
+    -webkit-transition-duration:0.4s;
+    -o-transition-duration:0.4s;
+    }
+ 
+    #sidebar {
+    margin-left:-100px;
+    top: 150px;
+    position:fixed;
+    width:245px;
+    }
+ 
+    #descri {
+    background-color:#ffffff;
+    width:245px;
+    padding:15px;
+    }
+ 
+    #descri img {
+    width:245px;
+    margin-bottom:5px;
+    }
+ 
+    #stext {
+    padding:30px;
+    padding-top:10px;
+    text-align:center;
+    }
+ 
+    .pagi {
+    text-transform:lowercase;
+    text-align:center;
+    margin-top:-20px;
+    }
+ 
+    .audio {
+    padding-bottom:10px;
+    }
+   
+    .albumart {
+    float:left;
+    padding:0px 10px 0px 0px;
+    }
+   
+    .albumart img {
+    width:100px;
+    height:100px;
+    }
+   
+    .playercontainer {
+    text-align:left;
+    padding:10px;
+    }
+   
+    .audioinfo {
+    padding:10px;
+    margin-bottom:-20px;
+    color:#2e2e2e;
+    }
+ 
+    h1 {
+    font-weight:normal;
+    font-size:10px;
+    text-align:left;
+    padding:10px;
+    font-style:normal;
+    line-height:120%;
+    letter-spacing:0px;
+    color:#2e2e2e;
+    border-bottom: 1px solid #f8f8f8;
+    }
+ 
+    h2 {
+    font-size:10px;
+    text-align:left;
+    line-height:120%;
+    letter-spacing:0px;
+    color:#2e2e2e;
+    font-weight:normal;
+    padding:10px;
+    }
+   
+    .ask {
+    font-size:15px;
+    font-weight:bold;
+    text-align:right;
+    font-style:italic;
+    padding:10px;
+    text-transform:capitalize;
+    border-bottom: 1px solid #f8f8f8;
+    }
+ 
+    .question {
+    font-size:10px;
+    letter-spacing:0px;
+    padding:10px;
+    text-align:right;
+    color:#2e2e2e;
+    }
+ 
+    .ans {
+    font-size:10px;
+    letter-spacing:0px;
+    text-align:left;
+    padding:10px;
+    color:#2e2e2e;
+    }
+   
+    blockquote {
+    border-left:1px solid #f8f8f8;
+    padding-left:10px;
+    margin:5px;
+    }
+   
+    #stuffcontainer {
+    float:left;
+    text-align:justify;
+    background-color:;
+    color:#2e2e2e;
+    margin-bottom: 35px;
+    }
+ 
+    #stuff {
+    
+    width:500px;
+    margin-left:200px;
+    
+    
+    margin-top:70px;
+    text-align:justify;
+    font-size:10px;
+    padding:10px;
+    line-height:150%;
+    letter-spacing:0px;
+    background-color:#ffffff;
+    color:#2e2e2e;
+    }
+ 
+    #postinfo {
+    margin-top:5px;
+    
+    width:500px;
+    
+    
+    font-size:10px;
+    text-transform:capitalize;
+    padding-top:5px;
+    padding-bottom:5px;
+    border-top: 1px solid #fafafa;
+    text-align:left;
+    -moz-transition-duration:0.5s;
+    -webkit-transition-duration:0.5s;
+    -o-transition-duration:0.5s;
+    }
+   
+    #postinfo a{
+    padding:5px;
+    }
+   
+    #postinfo a:hover {
+    color:#2e2e2e;
+    text-decoration:underline;
+    }
+   
+    ol.notes {
+    padding:0px;
+    margin:20px 200px;
+    list-style-type:none;
+    }
+    ol.notes li.note {
+    padding: 10px;
+    }
+    ol.notes li.note img.avatar {
+    vertical-align:-4px;
+    margin-right:10px;
+    width:16px;
+    height:16px;
+    }
+    ol.notes li.note span.action {
+    font-weight:normal;
+    }
+    ol.notes li.note .answer_content {
+    font-weight:normal;
+    }
+    ol.notes li.note blockquote {
+    padding:9px 6px 9px 6px;
+    margin:10px 0px 0px 25px;
+    }
+       
+    .tags {
+    
+    width:500px;
+    
+    
+    line-height:120%;
+    margin-top:-9px;
+    text-align:left;
+    padding:5px;
+    font-size:10px;
+    -moz-transition-duration:0.5s;
+    -webkit-transition-duration:0.5s;
+    -o-transition-duration:0.5s;
+    }
+   
+    .tags a{
+    margin-right:10px;
+    }
+   
+    .tags a:hover {
+    color:#2e2e2e;
+    text-decoration:underline;
+    }
+ 
+    #cred {
+    font-family:calibri;
+    font-size: 10px;
+    letter-spacing:1px;    
+    bottom:30px;
+    font-style:none;
+    right:35px;
+    position:fixed;
+    }
+ 
+</style>
+<style type="text/css"></style>
+ 
+
+<!-- BEGIN TUMBLR FACEBOOK OPENGRAPH TAGS -->
+<!-- If you'd like to specify your own Open Graph tags, define the og:url and og:title tags in your theme's HTML. -->
+<!-- Read more: http://ogp.me/ -->
+<meta property="fb:app_id" content="48119224995" />
+<meta property="og:site_name" content="ew" />
+<meta property="og:title" content="" />
+<meta property="og:url" content="http://dearburnbooks.tumblr.com/post/62023999033/oi-elisa-ta-muito-apertado-ai-no-seu-cubo" />
+<meta property="og:description" content="Oi Elisa, t&aacute; muito apertado ai no seu cubo querida? Pode sair meu amor. A menina tem 26 mil tweets e 99% deles se baseiam em: Miley Cyrus, ela &eacute; a t&iacute;pica f&atilde; encubada que n&atilde;o consegue, de jeito nenhum,..." />
+<meta property="og:determiner" content="a" />
+<meta property="og:type" content="tumblr-feed:photo" />
+<meta property="og:image" content="http://31.media.tumblr.com/1a87eb143657f151b0d882476797c0a9/tumblr_mtk39kchqi1sjpx4mo1_1280.png" />
+<!-- END TUMBLR FACEBOOK OPENGRAPH TAGS -->
+
+
+<!-- TWITTER TAGS -->
+<meta charset="utf-8">
+            <meta name="twitter:card" content="photo" />
+            <meta name="twitter:description" content="Oi Elisa, t&aacute; muito apertado ai no seu cubo querida? Pode sair meu amor. A menina tem 26 mil tweets e 99% deles se baseiam em: Miley Cyrus, ela &eacute; a t&iacute;pica f&atilde; encubada que n&atilde;o consegue, de jeito nenhum,..." />
+            <meta name="twitter:image" content="http://31.media.tumblr.com/1a87eb143657f151b0d882476797c0a9/tumblr_mtk39kchqi1sjpx4mo1_500.png" />
+            <meta name="twitter:url" content="http://dearburnbooks.tumblr.com/post/62023999033/oi-elisa-ta-muito-apertado-ai-no-seu-cubo" />
+            <meta name="twitter:site" content="tumblr" />
+            <meta name="twitter:app:name:iphone" content="Tumblr" />
+            <meta name="twitter:app:name:ipad" content="Tumblr" />
+            <meta name="twitter:app:name:googleplay" content="Tumblr" />
+            <meta name="twitter:app:id:iphone" content="305343404" />
+            <meta name="twitter:app:id:ipad" content="305343404" />
+            <meta name="twitter:app:id:googleplay" content="com.tumblr" />
+            <meta name="twitter:app:url:iphone" content="tumblr://x-callback-url/blog?blogName=dearburnbooks&amp;postID=62023999033&amp;referrer=twitter-cards" />
+            <meta name="twitter:app:url:ipad" content="tumblr://x-callback-url/blog?blogName=dearburnbooks&amp;postID=62023999033&amp;referrer=twitter-cards" />
+            <meta name="twitter:app:url:googleplay" content="tumblr://x-callback-url/blog?blogName=dearburnbooks&amp;postID=62023999033&amp;referrer=twitter-cards" />
+    
+
+<script type="text/javascript" src="http://assets.tumblr.com/assets/scripts/tumblelog.js?_v=cf7aeb03e820314a6cb2890dfa192802"></script>
+<meta http-equiv="x-dns-prefetch-control" content="off"/>
+
+<meta name="keywords" content="elisa,selenatornado,ew,selena gomez,miley cyrus" />
+
+</head>
+<body>
+ 
+<div id="cred"><a href="http://regansthemes.tumblr.com/">♡</a></div>
+ 
+<div id="container">
+ 
+<div id="sidebar">
+<div id="descri">
+ 
+<div id="sidebarimage"><img src="http://static.tumblr.com/dd670c3631327979e334c90c050684d3/raqowxg/rStmtjf8q/tumblr_static_burn_book.jpg"></div>
+ 
+<center><div class="links">
+<a href="/">home</a>
+<a href="http://ask.fm/dearburnbooks">ask</a>
+
+
+
+</div></center>
+ 
+<div id="stext">Look at that droopy ass booty.</div>
+ 
+
+ 
+</div></div>
+ 
+<div id="stuffcontainer">
+ 
+<div id="stuff">
+ 
+
+ 
+<center><img src="http://31.media.tumblr.com/1a87eb143657f151b0d882476797c0a9/tumblr_mtk39kchqi1sjpx4mo1_500.png"/></center><p>Oi Elisa, tá muito apertado ai no seu cubo querida? Pode sair meu amor. A menina tem 26 mil tweets e 99% deles se baseiam em: Miley Cyrus, ela é a típica fã encubada que não consegue, de jeito nenhum, maneira alguma, não falar de tal pessoa. Ela procura fotos da Miley pra achar defeito, vai no twitter dela pra ver o que ela ta postando, procura noticia, procura tudo, ela acha um meio de saber o que tá acontecendo na vida da Miley, por mais que seja pra falar mal, isso não é exatamente o que um fã faz? Será que a Elisa fica falando mal da Miley pra esconder o amor que ela sente? ahaha. Para com essa deficiência menina, como eu sempre digo: quem odeia de verdade prefere fingir que a pessoa não existe, e você simplesmente faz questão de falar da Miley, cuida da vida dela e ignora completamente a sua suposta ídola, Selena. Olha <em>rata</em>, ou você se assume ou vai curar essa sua obsessão, porque sinceramente isso não é normal.</p>
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+<div id="postinfo"><div id="date"><a href="http://dearburnbooks.tumblr.com/post/62023999033/oi-elisa-ta-muito-apertado-ai-no-seu-cubo"><u>Sep 22</u></a><a href="http://dearburnbooks.tumblr.com/post/62023999033/oi-elisa-ta-muito-apertado-ai-no-seu-cubo">5 notes</a>
+ 
+</div></div>
+ 
+
+<div class="tags">
+<a href="http://dearburnbooks.tumblr.com/tagged/selena-gomez-icons">#selena gomez icons</a>&nbsp;<a href="http://dearburnbooks.tumblr.com/tagged/miley-cyrus-icons">#miley cyrus icons</a>&nbsp;<a href="http://dearburnbooks.tumblr.com/tagged/demi-lovato-icons">#demi lovato icons</a>&nbsp;<a href="http://dearburnbooks.tumblr.com/tagged/miley-cyrus">#miley cyrus</a>&nbsp;<a href="http://dearburnbooks.tumblr.com/tagged/selena-gomez">#selena gomez</a>&nbsp;<a href="http://dearburnbooks.tumblr.com/tagged/elisa">#elisa</a>&nbsp;<a href="http://dearburnbooks.tumblr.com/tagged/selenatornado">#selenatornado</a>&nbsp;<a href="http://dearburnbooks.tumblr.com/tagged/ew">#ew</a>&nbsp;</div>
+
+</div>
+
+ 
+
+
+<ol class="notes">
+
+    <!-- START NOTES -->
+                            
+        
+                                                                
+        
+        
+        <li class="note like tumblelog_jelenurtoxic without_commentary">
+
+                                                                                <a rel="nofollow" class="avatar_frame" target="_blank" href="http://jelenurtoxic.tumblr.com/" title="brazilians though " rel="nofollow"><img src="http://25.media.tumblr.com/avatar_85c4799e0d54_16.png" class="avatar " alt="" /></a>
+                
+                <span class="action">
+                    
+                                            <a rel="nofollow" href="http://jelenurtoxic.tumblr.com/" title="brazilians though" rel="nofollow">jelenurtoxic</a> likes this                                    </span>
+
+                <div class="clear"></div>
+
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note like tumblelog_welcome-to-my-heaven without_commentary">
+
+                                                                                <a rel="nofollow" class="avatar_frame" target="_blank" href="http://welcome-to-my-heaven.tumblr.com/" title="welcome " rel="nofollow"><img src="http://31.media.tumblr.com/avatar_3f390e843ad3_16.png" class="avatar " alt="" /></a>
+                
+                <span class="action">
+                    
+                                            <a rel="nofollow" href="http://welcome-to-my-heaven.tumblr.com/" title="welcome" rel="nofollow">welcome-to-my-heaven</a> likes this                                    </span>
+
+                <div class="clear"></div>
+
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note like tumblelog_young-live-and-free without_commentary">
+
+                                                                                <a rel="nofollow" class="avatar_frame" target="_blank" href="http://young-live-and-free.tumblr.com/" title="i&#039;m back, maktub " rel="nofollow"><img src="http://25.media.tumblr.com/avatar_1d61c9a552de_16.png" class="avatar " alt="" /></a>
+                
+                <span class="action">
+                    
+                                            <a rel="nofollow" href="http://young-live-and-free.tumblr.com/" title="i&#039;m back, maktub" rel="nofollow">young-live-and-free</a> likes this                                    </span>
+
+                <div class="clear"></div>
+
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note like tumblelog_radi0active-wonderland without_commentary">
+
+                                                                                <a rel="nofollow" class="avatar_frame" target="_blank" href="http://radi0active-wonderland.tumblr.com/" title="Junny in wonderland " rel="nofollow"><img src="http://31.media.tumblr.com/avatar_231695800e76_16.png" class="avatar " alt="" /></a>
+                
+                <span class="action">
+                    
+                                            <a rel="nofollow" href="http://radi0active-wonderland.tumblr.com/" title="Junny in wonderland" rel="nofollow">radi0active-wonderland</a> likes this                                    </span>
+
+                <div class="clear"></div>
+
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note reblog tumblelog_e-le-ctra without_commentary">
+
+                        
+                
+                                                                                        <a rel="nofollow" class="avatar_frame" target="_blank" href="http://e-le-ctra.tumblr.com/" title="Don&#039;t make me sad, don&#039;t make me cry"><img src="http://31.media.tumblr.com/avatar_b406f5242073_16.png" class="avatar " alt="" /></a>
+                    
+                    <span class="action" data-post-url="http://e-le-ctra.tumblr.com/post/62027467606">
+                                                    
+                                                                                                                                                                                    <a rel="nofollow" href="http://e-le-ctra.tumblr.com/" class="tumblelog" title="Don&#039;t make me sad, don&#039;t make me cry">e-le-ctra</a> reblogged this from <a rel="nofollow" href="http://dearburnbooks.tumblr.com/" class="source_tumblelog" title="ew">dearburnbooks</a>                                                                                                                                                                                    </span>
+                    <div class="clear"></div>
+
+                                    
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note reblog tumblelog_dearburnbooks original_post without_commentary">
+
+                        
+                
+                                                                                        <a rel="nofollow" class="avatar_frame" target="_blank" href="http://dearburnbooks.tumblr.com/" title="ew"><img src="http://24.media.tumblr.com/avatar_2a63a6c24773_16.png" class="avatar " alt="" /></a>
+                    
+                    <span class="action" data-post-url="http://dearburnbooks.tumblr.com/post/62023999033">
+                                                    
+                                                            <a rel="nofollow" href="http://dearburnbooks.tumblr.com/" class="tumblelog" title="ew">dearburnbooks</a> posted this                                                                        </span>
+                    <div class="clear"></div>
+
+                                    
+                        
+        </li>
+    
+    
+    <!-- END NOTES -->
+</ol>
+
+ 
+<!-- BEGIN TUMBLR CODE -->
+        
+    
+        <iframe id="tumblr_controls" width="1" height="1" frameborder="0" scrolling="no" style="position:absolute; z-index:2147483647; top:0; right:0; border:0; background-color:transparent; overflow:hidden; " src="http://assets.tumblr.com/assets/html/iframe/o.html?_v=00c18e3e470095be41311af633109bac#src=http%3A%2F%2Fdearburnbooks.tumblr.com%2Fpost%2F62023999033%2Foi-elisa-ta-muito-apertado-ai-no-seu-cubo&amp;pid=62023999033&amp;rk=UliGnL7n&amp;lang=en_US&amp;name=dearburnbooks&amp;avatar=http%3A%2F%2F24.media.tumblr.com%2Favatar_2a63a6c24773_64.png&amp;title=ew&amp;url=http%3A%2F%2Fdearburnbooks.tumblr.com%2F&amp;page_slide=slide"></iframe>    <div id="teaser_iframe_container" style="display:none;"><iframe scrolling="no" frameborder="0" src="http://www.tumblr.com/assets/html/iframe/teaser.html#src=http%3A%2F%2Fdearburnbooks.tumblr.com%2Fpost%2F62023999033%2Foi-elisa-ta-muito-apertado-ai-no-seu-cubo&amp;pid=62023999033&amp;rk=UliGnL7n&amp;lang=en_US&amp;name=dearburnbooks&amp;avatar=http%3A%2F%2F24.media.tumblr.com%2Favatar_2a63a6c24773_64.png&amp;title=ew&amp;url=http%3A%2F%2Fdearburnbooks.tumblr.com%2F&amp;page_slide=slide" id="teaser_iframe" width="1" height="1"></iframe></div>
+
+<script type="text/javascript">
+    (function(Tumblr){
+        var follow_iframe_initialized = false;
+        if (Tumblr.FollowTeaser && Tumblr.PostMessageListener) {
+            // Don't do anything until the first initialize event
+            Tumblr.PostMessageListener.initialize(function(message, origin) {
+                if (follow_iframe_initialized || message.length < 2) return;
+
+                if (message[0] === 'follow_iframe' && message[1] === 'enable') {
+                    Tumblr.FollowTeaser.current_page = 1;
+                    Tumblr.FollowTeaser.infer_infinite_scroll = true;
+                    Tumblr.FollowTeaser.create_from_tumblr_controls('http://assets.tumblr.com/assets/html/iframe/follow.html?_v=c5638c77a8a6b7821eab58b693b3a051');
+                    Tumblr.FollowTeaser.scroll_listener(true);
+                    follow_iframe_initialized = true;
+                }
+            });
+        }
+    })(this.Tumblr || (this.Tumblr = {}));
+</script>
+    
+    <!--[if IE]><script type="text/javascript">document.getElementById('tumblr_controls').allowTransparency=true;</script><![endif]-->
+    
+        
+<iframe src="http://assets.tumblr.com/analytics.html?63fae489732da54993e4a941e42dcf5e" scrolling="no" width="1" height="1" frameborder="0" style="background-color:transparent; overflow:hidden; position:absolute; top:0; left:0 z-index:9999;" id="ga_target"></iframe>
+
+    <script>
+        var COMSCORE = true;
+        window.setTimeout(function() {
+            var analytics_frame = document.getElementById('ga_target');
+            analytics_frame.contentWindow.postMessage('enable_comscore;' + window.location, analytics_frame.src.split('/analytics.html')[0]);
+        }, 1000);
+    </script>
+
+
+
+    <script type="text/javascript">
+      var _qevents = _qevents || [];
+
+      (function() {
+       var elem = document.createElement('script');
+
+       elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+       elem.async = true;
+       elem.type = "text/javascript";
+       var scpt = document.getElementsByTagName('script')[0];
+       scpt.parentNode.insertBefore(elem, scpt);
+      })();
+    </script>
+    <script type="text/javascript">
+        _qevents.push( { qacct: 'p-19UtqE8ngoZbM' } );
+    </script>
+    <noscript>
+        <div style="display: none;"><img src="//pixel.quantserve.com/pixel/'p-19UtqE8ngoZbM'.gif" height="1" width="1" alt="Quantcast"/></div>
+    </noscript>
+
+
+    <script type="text/javascript">!function(s){s.src='http://www.tumblr.com/impixu?T=1380239256&J=eyJ0eXBlIjoidXJsIiwidXJsIjoiaHR0cDpcL1wvZGVhcmJ1cm5ib29rcy50dW1ibHIuY29tXC9wb3N0XC82MjAyMzk5OTAzM1wvb2ktZWxpc2EtdGEtbXVpdG8tYXBlcnRhZG8tYWktbm8tc2V1LWN1Ym8iLCJyZXF0eXBlIjowLCJyb3V0ZSI6IlwvcG9zdFwvOmlkXC86c3VtbWFyeSJ9&U=GDMHFPKDJN&K=0ddcd8e1493ca986bb292207b978f2e3d8c1df89890e1ae39f623c0eca45e340&R='.replace(/&R=[^&$]*/,'').concat('&R='+escape(document.referrer)).slice(0,2000).replace(/%.?.?$/,'');}(new Image());</script><noscript><img style="position:absolute;z-index:-3334;top:0px;left:0px;visibility:hidden;" src="http://www.tumblr.com/impixu?T=1380239256&J=eyJ0eXBlIjoidXJsIiwidXJsIjoiaHR0cDpcL1wvZGVhcmJ1cm5ib29rcy50dW1ibHIuY29tXC9wb3N0XC82MjAyMzk5OTAzM1wvb2ktZWxpc2EtdGEtbXVpdG8tYXBlcnRhZG8tYWktbm8tc2V1LWN1Ym8iLCJyZXF0eXBlIjowLCJyb3V0ZSI6IlwvcG9zdFwvOmlkXC86c3VtbWFyeSIsIm5vc2NyaXB0IjoxfQ==&U=GDMHFPKDJN&K=d09fa77f68b8b1ccdc1f1cc8c7ba57300d09ed016b67c7e3d96ad4e8bf7518c2&R="></noscript><script type="text/javascript">!function(s){s.src='http://www.tumblr.com/impixu?T=1380239256&J=eyJ0eXBlIjoicG9zdCIsInVybCI6Imh0dHA6XC9cL2RlYXJidXJuYm9va3MudHVtYmxyLmNvbVwvcG9zdFwvNjIwMjM5OTkwMzNcL29pLWVsaXNhLXRhLW11aXRvLWFwZXJ0YWRvLWFpLW5vLXNldS1jdWJvIiwicmVxdHlwZSI6MCwicm91dGUiOiJcL3Bvc3RcLzppZFwvOnN1bW1hcnkiLCJwb3N0cyI6W3sicG9zdGlkIjo2MjAyMzk5OTAzMywiYmxvZ2lkIjoiMTM4MTA4NjU5Iiwic291cmNlIjozM31dfQ==&U=NFEFLJNBDL&K=85d58fa5bb947a792e21f736320ad91a5498343c4e604fcbcd563e64c0514154&R='.replace(/&R=[^&$]*/,'').concat('&R='+escape(document.referrer)).slice(0,2000).replace(/%.?.?$/,'');}(new Image());</script><noscript><img style="position:absolute;z-index:-3334;top:0px;left:0px;visibility:hidden;" src="http://www.tumblr.com/impixu?T=1380239256&J=eyJ0eXBlIjoicG9zdCIsInVybCI6Imh0dHA6XC9cL2RlYXJidXJuYm9va3MudHVtYmxyLmNvbVwvcG9zdFwvNjIwMjM5OTkwMzNcL29pLWVsaXNhLXRhLW11aXRvLWFwZXJ0YWRvLWFpLW5vLXNldS1jdWJvIiwicmVxdHlwZSI6MCwicm91dGUiOiJcL3Bvc3RcLzppZFwvOnN1bW1hcnkiLCJwb3N0cyI6W3sicG9zdGlkIjo2MjAyMzk5OTAzMywiYmxvZ2lkIjoiMTM4MTA4NjU5Iiwic291cmNlIjozM31dLCJub3NjcmlwdCI6MX0=&U=NFEFLJNBDL&K=fa6f011413a64a322b2aa673fe64163e05928371bb680b372ef8c005cd613683&R="></noscript><!-- END TUMBLR CODE -->
+</body>
+</html>

@@ -1,0 +1,228 @@
+ 
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="es-ES">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>@Moda_Fashion_Ve [ve] - Variedad De Zapatos Importados Modelos Super Modernos</title>
+<meta property="og:title" content="@Moda_Fashion_Ve [ve] - Variedad De Zapatos Importados Modelos Super Modernos"/> 
+<meta property="og:site_name" content="ComercioCenter"/>
+<meta property='og:type' content='website'/>
+<meta property="fb:app_id" content="376980215695604">
+<meta property="fb:admins" content="100002970934747"/>
+<meta property="og:url" content="http://www.comerciocenter.com/info?id=44d4fb57cc181272b2f0b182bdae962e"/>
+<meta property="og:description" content="Hermosos calzados de ultima moda en los colores que estan in fucsia, naranja, turquesa, morado y no solo esto sino que tambien tenemos vestidos, blusas, pantalones, jeans, carteras, bisuteria todo importado de USA ventas al mayor y detal envios a todo el pais 04267661004 correo mercantillibre@hotmail.com siguenos en twitter @Moda_Fashion_Ve Buscanos en Facebook solo dale click http://ow.ly/lwWHq"/> 
+<meta property="og:image" content="http://comerciocenter.com/imgpublicaciones/cb9b155894481967241ee84d67ebeab7_8Twp7kN8Tbmv.jpg"/> 
+
+<META NAME="keywords" CONTENT="Calzados, Calzados de Damas, Tacones Altos, Elegantes | Venezuela">
+<META NAME="description" CONTENT="Hermosos calzados de ultima moda en los colores que estan in fucsia, naranja, turquesa, morado y no solo esto sino que tambien tenemos vestidos, blusas, pantalones, jeans, carteras, bisuteria todo importado de USA ventas al mayor y detal envios a todo el pais 04267661004 correo mercantillibre@hotmail.com siguenos en twitter @Moda_Fashion_Ve Buscanos en Facebook solo dale click http://ow.ly/lwWHq"/>      
+<link rel="stylesheet" href="estilos_inf.css" type="text/css" media="screen" />
+<link href="http://comerciocenter.com/imgpublicaciones/cb9b155894481967241ee84d67ebeab7_8Twp7kN8Tbmv.jpg" rel="image_src" />
+<link href="http://www.comerciocenter.com/imgpublicaciones/cb9b155894481967241ee84d67ebeab7_8Twp7kN8Tbmv.jpg" rel="image_src" />
+	
+	<script language="JavaScript">
+		function confirmar ( mensaje ) {
+			return confirm( mensaje );
+		}
+	
+		function mostrarurl(){
+			document.getElementById('cmdcomp').style.visibility='hidden';
+			document.getElementById('txtcomp').style.visibility='visible';
+			document.getElementById('txtcomp').focus();
+			document.getElementById('txtcomp').select();
+		}
+		function ocultarurl(){
+			document.getElementById('cmdcomp').style.visibility='visible';
+			document.getElementById('txtcomp').style.visibility='hidden';
+		}
+		function mas(){
+			document.getElementById('lmas').style.visibility='hidden';
+			document.getElementById('lmas').style.display='none';
+			document.getElementById('lmenos').style.visibility='visible';
+			document.getElementById('lmenos').style.display='block';
+			document.getElementById('info').style.margin.top='200px';
+		}
+		function menos(){
+			document.getElementById('lmas').style.visibility='visible';
+			document.getElementById('lmas').style.display='block';
+			document.getElementById('lmenos').style.visibility='hidden';
+			document.getElementById('lmenos').style.display='none';
+			document.getElementById('info').style.margin.top='0px';		
+		}	</script>
+    
+</head>	<body>
+    <div id="fb-root"></div>
+    <script>(function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = "//connect.facebook.net/es_LA/all.js#xfbml=1&appId=376980215695604";
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));</script>
+    
+    <!-- CONTADOR GOOGLE+ Añade esta etiqueta en la cabecera o delante de la etiqueta body. -->
+    <script type="text/javascript" src="https://apis.google.com/js/plusone.js">
+    {lang: 'es-419'}
+    </script>
+        
+    <div id="wrapper">
+    	<div id="container">
+        
+            <div style="top:50px; margin-left:5px; position:absolute; z-index:10001">    
+                <div class="fb-like" 
+                    data-href="http://www.comerciocenter.com/info?id=44d4fb57cc181272b2f0b182bdae962e" 
+                    data-send="false" 
+                    data-layout="button_count" 
+                    data-width="160" 
+                    data-show-faces="false">
+                </div>		
+            </div>
+        
+            <div style="top:76px; margin-left:5px; position:absolute; z-index:10000">    
+                <a href="http://www.comerciocenter.com/info?id=44d4fb57cc181272b2f0b182bdae962e"
+                onclick="window.open(
+                'https://www.facebook.com/sharer.php?u='+encodeURIComponent(location.href), 
+                'facebook-share-dialog', 
+                'width=626,height=436'); 
+                return false;"><img src='graficos/fb_share.png' title='compartir en facebook' border="0"/></a>
+            </div>
+            
+            <div style="top:95px; margin-left:-1px; position:absolute; z-index:2">  
+                <a class="botones1" style="background-image: url(graficos/botonrss20.png); margin-top:5px; margin-left:7px" 
+                type="application/rss+xml" href="rss" target="_blank" title="RSS 2.0"></a>     
+            </div>
+                                
+            <div style="top:125px; margin-left:5px; position:absolute; z-index:2">  
+                <a href="http://twitter.com/share" class="twitter-share-button" data-count="none" 
+                data-via="Comercio_Center" data-lang="es"></a>
+                <script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+            </div>
+            
+            <div style="top:150px; margin-left:5px; position:absolute; z-index:10000">  
+                <g:plusone expr:href='data:post.url' size='standard' count='false'></g:plusone>
+                <!--<div class="g-plusone" href="http://www.comerciocenter.com/info?id=44d4fb57cc181272b2f0b182bdae962e" data-size="standard" data-count="false"></div>
+                <!-- Añade esta etiqueta donde quieras colocar el botón +1 -->
+            </div>                
+        
+            <div align="center" style="margin-top:1px; left:0px; position:relative; z-index:100">                    <a class="botones1" style="background-image: url(graficos/botonlogox.png); margin-left:120px" 
+                    href="http://www.comerciocenter.com" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ir al portal</a>
+                    
+                    <a class="botones1" 
+                    style="background-image: url(graficos/boton_azul.png); margin-top:0px; font-family:Arial, Helvetica, sans-serif; font-size:12px; 
+                    margin-left:-1px; color:#FF0; font-weight:bold" 
+                    href="http://www.comerciocenter.com/anunciar" target="_blank">Anunciar</a>                
+                <div align="left">
+                	<div align="center" id="cmdcomp" style="visibility:visible" onclick="mostrarurl();"/>
+	                    <a class="botones1" style="background-image: url(graficos/boton.png)" href="#">URL Corta</a>
+    	            </div>	
+        	        <input readonly="readonly" onblur="ocultarurl()" style="visibility:hidden; font-size:12px; margin-top:2px; margin-left:-100px" name="txtcomp" 
+            	    type="text" id="txtcomp" value="http://bit.ly/176NunK" />
+                </div>
+                
+            </div>
+        
+            <div align="center" style="margin-top:12px; left:-10px; position:relative">                    <div style="overflow:auto; width:275px; height:260px; top:0px">
+                        <table width="250px" height="250px">
+                        <td style="border: hidden; vertical-align:center">        
+                            <img class="imgint" src="imgpublicaciones/cb9b155894481967241ee84d67ebeab7_8Twp7kN8Tbmv.jpg" width="250px" border="0"><br />
+                        </td>
+                        </table>    
+                    </div>            </div>                <div style="top:0px;left:-76px; position:relative; width:602px"/>
+                    <table class="imgint" style="font-family:'Lucida Sans Unicode', 'Lucida Grande', sans-serif; margin-top:5px" 
+                       border="0" cellpadding="0" width="702" cellspacing="0" bordercolor="#2A1FAA"/>
+                        <tr>
+                            <td style="text-align:center; font-size:14px; border-style:hidden; color:#009" colspan="2">
+                                <b> Variedad De Zapatos Importados Modelos Super Modernos</b>                            </td>
+                        </tr>
+                        <tr>
+                            <td style="text-align:center; border-style:hidden" colspan="2">
+                                <div align="center" id="lmas" style="display:block; font-size:13px; 
+                                font-family:Arial, Helvetica, sans-serif; letter-spacing: 1px; visibility:visible; width:698px"/>
+                                                                            <div style='margin-left:4px'> Hermosos calzados de ultima moda en los colores que estan in fucsia, naranja, turquesa, morado y no solo esto sino que tambien tenemos vestidos, blusas, pantalones, jeans, carteras, bisuteria todo importado de USA ventas al mayor y detal envios a todo el pais 04267661004 correo mercantillibre@hotmail.com siguenos en twitter @Moda_Fashion_Ve Buscanos en Facebook solo...</a><br />
+		                                    <a style="color:#F60; font-size:13px; font-family:'Lucida Sans Unicode', 'Lucida Grande', sans-serif" 
+        	                                onclick="mas()" href='#'>Mostrar más información</a>
+                                        </div>                                </div>
+            
+                                <div align="center" id="lmenos" style="display:none; visibility:hidden; font-size:13px; 
+                                	font-family:Arial, Helvetica, sans-serif; letter-spacing: 1px; width:702px"/>
+                                    <div align="center" 
+                                    style="overflow:auto; letter-spacing: 1px; font-family:Arial, Helvetica, sans-serif; height:auto; max-height:220px">
+                                         Hermosos calzados de ultima moda en los colores que estan in fucsia, naranja, turquesa, morado y no solo esto sino que tambien tenemos vestidos, blusas, pantalones, jeans, carteras, bisuteria todo importado de USA ventas al mayor y detal envios a todo el pais 04267661004 correo mercantillibre@hotmail.com siguenos en twitter @Moda_Fashion_Ve Buscanos en Facebook solo dale click <a href="http://ow.ly/lwWHq" target="_blank" rel="me nofollow">http://ow.ly/lwWHq</a></a>
+                                    </div>
+                                    
+                                    <div align="center">
+                                    <a style="color:#F60; font-size:13px; font-family:'Lucida Sans Unicode', 'Lucida Grande', sans-serif" 
+                                    onclick="menos()" href="#">Mostrar menos información</a>
+                                    </div>
+                                </div>
+                            </td>
+                        </tr>                    </table>
+                
+                    <div id="info" style="margin-top:0px; margin-left:-5px">
+                        <table class="imgint" style="font-size:13px; font-family:'Lucida Sans Unicode', 'Lucida Grande', sans-serif; margin-top:5px; 
+                            border:solid 1px #C3D9FF" border="0" cellpadding="0" width="728" cellspacing="0"/>
+                            <tr>
+                                <td style="border:solid 0px,1px #C3D9FF; border-bottom-color:#C3D9FF; text-align:left; padding-left:5px">                                            <b>Anunciante:</b>
+                                            <a style="font-size:13px" href="http://twitter.com/Moda_Fashion_Ve" target="_blank" 
+                                            title="http://twitter.com/Moda_Fashion_Ve">@Moda_Fashion_Ve</a><br />                                </td>
+                                <td style="border:solid 1px,0px #C3D9FF; border-bottom-color:#C3D9FF; text-align:left; padding-left:5px">
+                                    <b>Visitas:</b>
+                                    2,273                                </td>
+                            </tr>               
+                            <tr>	
+                                <td style="border:solid 1px,0px #C3D9FF; border-bottom-color:#C3D9FF; text-align:left; padding-left:5px">
+                                    <b>Categoría:</b>&nbsp;                                        <a style="font-size:13px" href="publicaciones?x=1&cl=Calzados" target="_blank" 
+                                        title="Calzados > Calzados de Damas > Tacones Altos > Elegantes">Calzados</a> 
+                                </td>
+                                <td style="border:solid 1px,0px #C3D9FF; border-bottom-color:#C3D9FF; text-align:left; padding-left:5px">
+                                    <b>Ubicación:</b>
+                                    Venezuela                                </td>            
+                            </tr>                                <tr>
+                                    <td style="border:solid 1px,0px #C3D9FF; border-bottom-color:#C3D9FF; text-align:left; padding-left:5px">
+                                        <b>Precio:</b> <a style='color:#00f' href='http://es.wikipedia.org/wiki/ISO_4217' target='_blank' 
+                                            title='Bolívar fuerte venezolano'>VEF</a> 490,00 | <font size='-2'>Stock:</b> 1</font>                    
+                                    </td>
+                                    <td style="border:solid 1px,0px #C3D9FF; border-bottom-color:#C3D9FF; text-align:left; padding-left:5px">                                            <b>Condición:</b>
+                                            Nuevo                                    </td>
+                                </tr>                            
+							<tr>
+								<td style="border-style: hidden; text-align:left; padding-left:5px">
+                                    <b>Publicado:</b> 30-05-2013 02:34:32								</td>
+								<td style="border-style: hidden; text-align:left; padding-left:5px">
+                                    <b>Actualizado:</b> 08-08-2013 01:02:39								</td>            
+							</tr> 
+						</table>
+            
+						<table style="margin-top:20px; margin-left:-5px"><!--110-->
+							<tr>
+								<td width="728" style="border-style:hidden; text-align:center; color:#000" colspan="2">
+                                    <script type="text/javascript"><!--
+                                    google_ad_client = "ca-pub-6178754207125139";
+                                    /* Anuncios Clasificados 728x90 */
+                                    google_ad_slot = "7347074307";
+                                    google_ad_width = 728;
+                                    google_ad_height = 90;
+                                    //-->
+                                    </script>
+                                    <script type="text/javascript"
+                                    src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+                                    </script>                      
+								</td>
+							</tr>
+						</table>
+					</div>
+				</div>            
+		</div>
+    </div>
+             
+</body>
+</html><script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-24059823-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>

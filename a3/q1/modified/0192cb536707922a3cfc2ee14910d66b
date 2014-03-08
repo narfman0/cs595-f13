@@ -1,0 +1,665 @@
+<!DOCTYPE html>
+<script>var __pbpa = true;</script><script>var translated_warning_string = 'Warning: Never enter your Tumblr password unless \u201chttps://www.tumblr.com/login\u201d\x0ais the address in your web browser.\x0a\x0aYou should also see a green \u201cTumblr, Inc.\u201d identification in the address bar.\x0a\x0aSpammers and other bad guys use fake forms to steal passwords.\x0a\x0aTumblr will never ask you to log in from a user\u2019s blog.\x0a\x0aAre you absolutely sure you want to continue?';</script><script type="text/javascript" language="javascript" src="http://assets.tumblr.com/assets/scripts/pre_tumblelog.js?_v=90496f22ffd4b193ff4f3aa39d43d2af"></script>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- Lightweight Theme by Artur Kim (http://arturkim.com) for Tumblr | version 1.1 -->
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# blog: http://ogp.me/ns/blog#">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Our counselor Pat had been doing a bit of...</title>
+    <meta name="description" content="Our counselor Pat had been doing a bit of sightseeing this travel season on the East Coast!" />
+    <link rel="shortcut icon" href="http://31.media.tumblr.com/avatar_ab3f05d239a9_128.png" />
+    <link rel="apple-touch-icon" href="http://31.media.tumblr.com/avatar_ab3f05d239a9_128.png"/>
+    <link rel="alternate" type="application/rss+xml" href="http://muadmissions.tumblr.com/rss" />
+
+    <!-- DEFAULT VARIABLES -->
+    <meta name="text:Header Font Size" content="50px"/>
+    <meta name="color:Background" content="#1B1C1F"/>
+    <meta name="color:Border" content="#000000"/>
+    <meta name="color:Link" content="#A33446"/>
+    <meta name="image:Header" content=""/>
+    <meta name="if:Show About Widget" content="1"/>
+    <meta name="if:Show Stuff I Like Widget" content="1"/>
+    <meta name="if:Show Latest Tweets Widget" content="0"/>
+    <meta name="if:Show People I Follow Widget" content="1"/>
+    <meta name="if:Show Share This Post Links" content="0"/>
+    <meta name="text:Number of Tweets" content="3"/>
+    <meta name="text:Google Analytics ID" content="" />
+    <meta name="text:Disqus Shortname" content="" />
+
+    <style type="text/css" media="screen">
+    /* Lightweight Theme by Artur Kim (http://arturkim.com) for Tumblr | version 1.1 */
+
+    /* RESET */
+    html, body, div, span, applet, object, iframe,
+    h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+    a, abbr, acronym, address, big, cite, code,
+    del, dfn, em, font, img, ins, kbd, q, s, samp,
+    small, strike, strong, sub, sup, tt, var,
+    b, u, i, center,
+    dl, dt, dd, ol, ul, li,
+    fieldset, form, label, legend,
+    table, caption, tbody, tfoot, thead, tr, th, td {
+        margin: 0; padding: 0; border: 0; outline: 0; font-size: 100%; vertical-align: baseline; background: transparent;
+    }
+    body { line-height: 1; }
+    ol, ul { list-style: none; }
+    blockquote, q { quotes: none; }
+    blockquote:before, blockquote:after, q:before, q:after { content: ''; content: none; }
+    :focus { outline: 0; }
+    del { text-decoration: line-through; }
+    table { border-collapse: collapse; border-spacing: 0; }
+
+    /* GLOBAL ELEMENTS */
+    body { background: #050f2c; }
+    body, input, textarea { color: #000; font: 16px/1.6 "helvetica neue",helvetica,arial,sans-serif; }
+    p, ul, ol, dd, pre { margin-bottom: 20px; }
+    pre, code { font: 12px Monaco,monospace; line-height: 1.6; }
+    blockquote { border-left: 5px solid #ddd; color: #555; font-style: italic; margin: 0 0 20px; padding: 0 0 0 10px; }
+    table { border: 1px solid #ccc; border-width: 1px 1px 0 1px; font-size: 14px; line-height: 1.6; margin: 0 0 20px 0; text-align: left; }
+    caption { text-align: left; }
+    tr { border-bottom: 1px solid #ccc; }
+    th, td { padding: .7em 1.25em; }
+    hr { background-color: #ccc; border: 0; color: #555; height: 1px; margin-bottom: 20px; }
+    a:link, a:visited { color: #07016f; text-decoration: none; }
+    a:focus, a:hover { text-decoration: underline; }
+    a:active { position: relative; top: 1px; }
+    h1, h2, h3, h4, h5, h6 {  font-weight:normal; clear:both; }
+    img { border: 1px solid #ccc; }
+    a img:focus, a img:hover, a img:active { border-color: #07016f; }
+
+    /* STRUCTURE */
+    #wrapper {
+        background: #fff;
+        border: 10px solid #ffcf00;
+        margin: 20px auto;
+        padding: 20px 50px;
+        width: 600px;
+    }
+        #header {
+        }
+        #main {
+        }
+            #container {
+            }
+            .sidebar {
+            }
+        #footer {
+            border-top: 1px solid #ccc;
+            color: #555;
+            font-size: 12px;
+            padding: 20px 0;
+            width: 600px;
+        }
+
+    /* DEFAULT CSS */
+    #branding {
+        padding: 40px 0;
+        text-align: center;
+    }
+        #branding h1 a {
+            color: #000;
+            font: 50px/1 Georgia, serif;
+            font-weight: normal;
+            text-decoration: none;
+        }
+        #branding h1 a:focus, #header h1 a:hover, #header h1 a:active {
+            color: #07016f;
+        }
+        #branding img {
+            max-width: 600px;
+        }
+    #access {
+        border-bottom: 1px solid #ccc;
+        font-size: 12px;
+        overflow: hidden;
+        padding: 20px 0 10px;
+    }
+        #pages ul {
+            float: left;
+            margin-bottom: 0;
+        }
+            #pages li {
+                float: left;
+                margin-right: 10px;
+                padding: 3px 0;
+            }
+                #pages li.rss {
+                    margin-right: 0;
+                }
+                    #pages a, #header #pages a:visited {
+                        color: #555;
+                        text-transform: uppercase;
+                    }
+        #search {
+            display: block;
+            float: right;
+            width: 205px;
+        }
+            #search input {
+                background: none;
+                border: 1px solid #ccc;
+                display: block;
+                font-size: 12px;
+            }
+            #search input.search-text {
+                float: left;
+                height: 15px;
+                padding: 4px;
+                width: 130px;
+            }
+            #search input.search-submit {
+                color: #555;
+                float: right;
+                height: 25px;
+                padding: 3px;
+                width: 60px;
+            }
+    .post {
+        border-top: 1px solid #ccc;
+        padding: 20px 0 60px 78px;
+        position: relative;
+    }
+        .post-type a {
+            height: 48px; width: 48px;
+            position: absolute; left: 0; top: 20px;
+            text-indent: -9999px;
+        }
+        .post-type-text .post-type a {
+            background: url("http://static.tumblr.com/euguvyd/ntXl4578z/lightweight-icons.png") no-repeat 0 0;
+        }
+        .post-type-photo .post-type a {
+            background: url("http://static.tumblr.com/euguvyd/ntXl4578z/lightweight-icons.png") no-repeat 0 -48px;
+        }
+        .post-type-photoset .post-type a {
+            background: url("http://static.tumblr.com/euguvyd/ntXl4578z/lightweight-icons.png") no-repeat 0 -48px;
+        }
+        .post-type-quote .post-type a {
+            background: url("http://static.tumblr.com/euguvyd/ntXl4578z/lightweight-icons.png") no-repeat 0 -96px;
+        }
+        .post-type-link .post-type a {
+            background: url("http://static.tumblr.com/euguvyd/ntXl4578z/lightweight-icons.png") no-repeat 0 -144px;
+        }
+        .post-type-chat .post-type a {
+            background: url("http://static.tumblr.com/euguvyd/ntXl4578z/lightweight-icons.png") no-repeat 0 -192px;
+        }
+        .post-type-audio .post-type a {
+            background: url("http://static.tumblr.com/euguvyd/ntXl4578z/lightweight-icons.png") no-repeat 0 -240px;
+        }
+        .post-type-video .post-type a {
+            background: url("http://static.tumblr.com/euguvyd/ntXl4578z/lightweight-icons.png") no-repeat 0 -288px;
+        }
+        .post-type a:focus, .post-type a:hover {
+            -webkit-transform: rotate(15deg);
+            -moz-transform: rotate(15deg);
+        }
+        .post-type a:active {
+            -webkit-transform: rotate(45deg);
+            -moz-transform: rotate(45deg);
+        }
+        .post-content h3 {
+            font: 22px/1.6 Georgia,serif;
+            margin-bottom: 20px;
+        }
+        .post-content img {
+            margin-bottom: 20px;
+            padding: 10px;
+        }
+        .post-type-text .post-content ul {
+            padding-left: 30px;
+        }
+            .post-type-text .post-content ul ul {
+                margin-bottom: 0;
+            }
+            .post-type-text .post-content ul li {
+                list-style-type: disc;
+            }
+                .post-type-text .post-content ul ul li {
+                    list-style-type: circle;
+                }
+        .post-type-text .post-content ol {
+            padding-left: 30px;
+        }
+            .post-type-text .post-content ol ol {
+                margin-bottom: 0;
+            }
+            .post-type-text .post-content ol li {
+                list-style-type: upper-latin;
+            }
+                .post-type-text .post-content ol ol li {
+                    list-style-type: lower-latin;
+                }
+        .post-type-photoset .post-content .html_photoset, .post-type-video .post-content .video-wrap {
+            border: 1px solid #ccc;
+            margin-bottom: 20px;
+            padding: 10px;
+        }
+        .post-type-link .post-content .link-wrap {
+            margin-bottom: 20px;
+        }
+        .post-type-chat .post-content .label {
+            color: #333;
+            font-weight: bold;
+        }
+        .post-type-audio .post-content .caption {
+            margin-top: 20px;
+        }
+            .tags {
+                font-size: 12px;
+                margin-bottom: 10px;
+            }
+                .tags a {
+                    border: 1px solid #ccc;
+                    border-radius: 30px; -webkit-border-radius:30px; -moz-border-radius: 30px;
+                    color: #555;
+                    margin-right: 1px;
+                    padding: 2px 10px;
+                }
+                .tags a:focus, .tags a:hover {
+                    border-color: #07016f;
+                    color: #07016f;
+                    text-decoration: none;
+                }
+        .post-meta {
+            font-size: 12px;
+            overflow: hidden;
+        }
+            .post-meta .date, .post-meta .comments, .post-meta .note-count {
+                float: left;
+            }
+                .post-meta a {
+                    color: #555;
+                    margin-right: 20px;
+                    padding: 1px 0 1px 20px;
+                }
+                .post-meta .date a {
+                    background: url("http://static.tumblr.com/euguvyd/pJkl457a4/lightweight-small-icons.png") no-repeat 0 0;
+                }
+                .post-meta .comments a {
+                    background: url("http://static.tumblr.com/euguvyd/pJkl457a4/lightweight-small-icons.png") no-repeat 0 -16px;
+                }
+                .post-meta .note-count a {
+                    background: url("http://static.tumblr.com/euguvyd/pJkl457a4/lightweight-small-icons.png") no-repeat 0 -32px;
+                }
+        .share-this-post {
+            margin-top: 10px;
+        }
+    .post-footer {
+        border-top: 1px solid #ccc;
+        font-size: 12px;
+        overflow: hidden;
+        padding: 10px 0;
+        text-transform: uppercase;
+    }
+        .post-footer .author {
+            float: left;
+        }
+        .post-footer .shorturl {
+            float: right;
+        }
+    #disqus_thread {
+        border-top: 1px solid #ccc;
+        padding-top: 20px;
+    }
+        #dsq-content {
+            font-size: 14px !important;
+            line-height: 1.6 !important;
+        }
+        #disqus_thread h3 {
+            font: 18px/1.6 Georgia,serif;
+            margin: 20px 0 10px;
+        }
+            #dsq-content .dsq-request-user-info img {
+                margin-top: 10px;
+            }
+            #dsq-content .dsq-options {
+                background: none !important;
+                border-bottom: 1px dotted #ccc;
+            }
+            #dsq-content .dsq-thread-settings {
+                border: 1px solid #ccc !important;
+            }
+            #dsq-content .dsq-comment-message {
+                line-height: 1.6 !important;
+            }
+            #dsq-content .dsq-pagination {
+                background: none !important;
+                border-top: 1px dotted #ccc;
+            }
+    #post-notes {
+        border-top: 1px solid #ccc;
+        font-size: 14px;
+        line-height: 1.6;
+        padding: 10px 0 0;
+    }
+        #post-notes ol li {
+            border-bottom: 1px dotted #ccc;
+            padding: 10px 0;
+        }
+            #post-notes ol li img {
+                border: none;
+                margin-right: 4px;
+                vertical-align: middle;
+            }
+            #post-notes ol li blockquote {
+                margin: 10px 0 0;
+            }
+    .widget {
+        border-top: 1px solid #ccc;
+        color: #555;
+        font-size: 12px;
+        padding: 20px 0;
+    }
+        .widget h3 {
+            font-size: 14px;
+            font-weight: bold;
+            margin: 0 0 10px 0;
+        }
+        .widget ul {
+            margin-bottom: 0;
+        }
+            #about {
+                overflow: hidden;
+            }
+            #about img {
+                float: left;
+                margin: 5px 10px 5px 0;
+            }
+            #about p {
+                margin-bottom: 0;
+            }
+            #stuff-i-like {
+                overflow: hidden;
+                width: 600px !important;
+            }
+                #stuff-i-like ul {
+                        overflow: hidden;
+                }
+                    #stuff-i-like li.like_post {
+                        float: left;
+                        margin-right: 30px;
+                        width: 180px;
+                    }
+                        #stuff-i-like .like_post img {
+                           max-width: 178px;
+                        }
+                #stuff-i-like .carousel-navigation {
+                    margin-top: 10px;
+                    overflow: hidden;
+                }
+                    #stuff-i-like .carousel-navigation button {
+                        background: none;
+                        border: 1px solid #ccc;
+                        color: #555;
+                        display: block;
+                        height: 30px;
+                        padding: 3px;
+                        width: 40px;
+                    }
+                    #stuff-i-like .carousel-navigation button:hover {
+                        border: 1px solid #07016f;
+                        color: #07016f;
+                    }
+                        #stuff-i-like .carousel-navigation .prev {
+                            float: left;
+                        }
+                        #stuff-i-like .carousel-navigation .next {
+                            float: right;
+                        }
+            #latest-tweets {
+                padding: 30px 0 20px;
+            }
+                #latest-tweets ul li {
+                    margin-bottom: 10px;
+                }
+            #people-i-follow {
+                overflow: hidden;
+            }
+                #people-i-follow li {
+                    display: inline;
+                    padding: 0;
+                    margin: 0;
+                }
+    .pagination {
+        border-top: 1px solid #ccc;
+        color: #555;
+        font-size: 12px;
+        overflow: hidden;
+        padding: 10px 0;
+        text-transform: uppercase;
+    }
+        .pagination .archive, .pagination .random {
+            float: left;
+            margin-right: 20px;
+        }
+        .pagination .previous-page, .pagination .page-number, .pagination .next-page {
+            float: right;
+            margin-left: 20px;
+        }
+            .pagination a {
+                color: #555;
+            }
+            .pagination .previous-page a {
+                background: url("http://static.tumblr.com/euguvyd/pJkl457a4/lightweight-small-icons.png") no-repeat left -48px;
+                padding: 1px 0 1px 20px;
+            }
+            .pagination .next-page a {
+                background: url("http://static.tumblr.com/euguvyd/pJkl457a4/lightweight-small-icons.png") no-repeat right -64px;
+                padding: 1px 20px 1px 0;
+            }
+    
+    </style>
+
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js" type="text/javascript"></script>
+    <script src="http://static.tumblr.com/euguvyd/4Dsl43n9o/jcarousellite.min.js" type="text/javascript"></script>
+
+
+<!-- BEGIN TUMBLR FACEBOOK OPENGRAPH TAGS -->
+<!-- If you'd like to specify your own Open Graph tags, define the og:url and og:title tags in your theme's HTML. -->
+<!-- Read more: http://ogp.me/ -->
+<meta property="fb:app_id" content="48119224995" />
+<meta property="og:site_name" content="Title" />
+<meta property="og:title" content="" />
+<meta property="og:url" content="http://muadmissions.tumblr.com/post/62193198115/our-counselor-pat-had-been-doing-a-bit-of" />
+<meta property="og:description" content="Our counselor Pat had been doing a bit of sightseeing this travel season on the East Coast!" />
+<meta property="og:determiner" content="a" />
+<meta property="og:type" content="tumblr-feed:photoset" />
+<meta property="og:image" content="http://24.media.tumblr.com/17dde7992bb483315be4cef8aca8bfdb/tumblr_mtnlcsMoo11sspyj6o1_1280.jpg" />
+<meta property="og:image" content="http://25.media.tumblr.com/548016aa8efd3f640000ad9cfc8d37b8/tumblr_mtnlcsMoo11sspyj6o2_1280.jpg" />
+<meta property="og:image" content="http://31.media.tumblr.com/3ee44a2ef0d9f8793d5c33a6ffcad14e/tumblr_mtnlcsMoo11sspyj6o3_1280.jpg" />
+<meta property="og:image" content="http://25.media.tumblr.com/53e8c67119b3c61de16deb0b79ef3770/tumblr_mtnlcsMoo11sspyj6o4_1280.jpg" />
+<!-- END TUMBLR FACEBOOK OPENGRAPH TAGS -->
+
+
+<!-- TWITTER TAGS -->
+<meta charset="utf-8">
+            <meta name="twitter:card" content="photo" />
+            <meta name="twitter:description" content="Our counselor Pat had been doing a bit of sightseeing this travel season on the East Coast!" />
+            <meta name="twitter:image" content="http://25.media.tumblr.com/17dde7992bb483315be4cef8aca8bfdb/tumblr_mtnlcsMoo11sspyj6o1_500.jpg" />
+            <meta name="twitter:url" content="http://muadmissions.tumblr.com/post/62193198115/our-counselor-pat-had-been-doing-a-bit-of" />
+            <meta name="twitter:site" content="tumblr" />
+            <meta name="twitter:creator" content="MUAdmissions" />
+            <meta name="twitter:app:name:iphone" content="Tumblr" />
+            <meta name="twitter:app:name:ipad" content="Tumblr" />
+            <meta name="twitter:app:name:googleplay" content="Tumblr" />
+            <meta name="twitter:app:id:iphone" content="305343404" />
+            <meta name="twitter:app:id:ipad" content="305343404" />
+            <meta name="twitter:app:id:googleplay" content="com.tumblr" />
+            <meta name="twitter:app:url:iphone" content="tumblr://x-callback-url/blog?blogName=muadmissions&amp;postID=62193198115&amp;referrer=twitter-cards" />
+            <meta name="twitter:app:url:ipad" content="tumblr://x-callback-url/blog?blogName=muadmissions&amp;postID=62193198115&amp;referrer=twitter-cards" />
+            <meta name="twitter:app:url:googleplay" content="tumblr://x-callback-url/blog?blogName=muadmissions&amp;postID=62193198115&amp;referrer=twitter-cards" />
+    
+
+<script type="text/javascript" src="http://assets.tumblr.com/assets/scripts/tumblelog.js?_v=cf7aeb03e820314a6cb2890dfa192802"></script>
+<meta http-equiv="x-dns-prefetch-control" content="off"/>
+
+<meta name="keywords" content="admission counseling,college,Marquette,admissions,travel season" />
+
+</head>
+<body>
+    <div id="wrapper">
+        <div id="header">
+            <div id="access">
+                <div class="menu">
+                    <div id="pages">
+                        <ul>
+                            <li><a href="/">Home</a></li>
+                            
+                            
+                            
+                            <li class="mobile"><a href="/mobile">Mobile</a></li>
+                            <li class="rss"><a href="http://muadmissions.tumblr.com/rss">RSS</a></li>
+                        </ul>
+                    </div><!-- #pages -->
+                    <div id="search">
+                        <form action="/search" method="get">
+                            <input type="text" name="q" value="" class="search-text" />
+                            <input type="submit" value="Search" class="search-submit" />
+                        </form>
+                    </div><!-- #search -->
+                </div><!-- .menu -->
+            </div><!-- #access -->
+            <div id="branding">
+                <h1>
+                    
+                    <a href="/">Title</a>
+                </h1>
+            </div><!-- #branding -->
+        </div><!-- #header -->
+        <div id="main">
+            <div id="container">
+                <div id="content">
+                
+                    <div id="post-62193198115" class="post post-type-photoset">
+                            <div class="post-type">
+                                <a href="http://muadmissions.tumblr.com/post/62193198115/our-counselor-pat-had-been-doing-a-bit-of">Photoset</a>
+                            </div><!-- .type -->
+                        <div class="post-content">
+                        
+                        
+                        
+                            <div id="photoset_62193198115" class="html_photoset">    <iframe id="photoset_iframe_62193198115" class="photoset" scrolling="no" frameborder="0" height="1686" width="500"
+                style="border:0px; background-color:transparent; overflow:hidden;" src="http://muadmissions.tumblr.com/post/62193198115/photoset_iframe/muadmissions/tumblr_mtnlcsMoo11sspyj6/500/false"></iframe></div>
+                            <div class="caption"><p>Our counselor Pat had been doing a bit of sightseeing this travel season on the East Coast!</p></div>
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                            <div class="tags">
+                                Tags: <a href="http://muadmissions.tumblr.com/tagged/Patrick-McDermott" class="single-tag">Patrick McDermott</a> <a href="http://muadmissions.tumblr.com/tagged/JET" class="single-tag">JET</a> <a href="http://muadmissions.tumblr.com/tagged/JETsetting" class="single-tag">JETsetting</a> <a href="http://muadmissions.tumblr.com/tagged/travel-season" class="single-tag">travel season</a> <a href="http://muadmissions.tumblr.com/tagged/admissions" class="single-tag">admissions</a> <a href="http://muadmissions.tumblr.com/tagged/admission-counseling" class="single-tag">admission counseling</a> <a href="http://muadmissions.tumblr.com/tagged/college" class="single-tag">college</a> <a href="http://muadmissions.tumblr.com/tagged/Marquette" class="single-tag">Marquette</a> 
+                            </div>
+                        
+                        </div><!-- post-content -->
+                        <div class="post-meta">
+                        
+                            <div class="date">
+                                <a href="http://muadmissions.tumblr.com/post/62193198115/our-counselor-pat-had-been-doing-a-bit-of">September 24, 2013</a>
+                            </div><!-- .date -->
+                        
+                        
+                        
+                        </div><!-- .post-meta -->
+                        
+                    </div><!-- .post -->
+                
+                    <div class="post-footer">
+                        <div class="author">Posted by <a href="http://muadmissions.tumblr.com/">muadmissions</a></div>
+                        <div class="shorturl"><a href="http://tmblr.co/Zcf04svx0EGZ">&infin; Short URL</a></div>
+                    </div>
+                
+                    
+                    
+                
+                
+                </div><!-- #content -->
+            </div><!-- #container -->
+            
+        </div><!-- #main -->
+        <div id="footer">
+            <div class="copyright">&copy; <a href="/">Title</a>. All Rights Reserved.</div>
+            <div class="colophon">Powered by <a href="http://tumblr.com">Tumblr</a>. <a href="http://www.tumblr.com/theme/10820">Lightweight Theme</a> by <a href="http://arturkim.com">Artur Kim</a></div>
+        </div><!-- #footer -->
+    </div><!-- #wrapper -->
+
+<script type="text/javascript" src="/tweets.js"></script>
+
+
+
+    <script type="text/javascript">
+        $(function() {
+            $(".carousel").jCarouselLite({
+                btnNext: ".next",
+                btnPrev: ".prev",
+                scroll: 3
+            });
+        });
+    </script>
+
+
+
+<!-- BEGIN TUMBLR CODE -->
+        
+    
+        <iframe id="tumblr_controls" width="1" height="1" frameborder="0" scrolling="no" style="position:absolute; z-index:2147483647; top:0; right:0; border:0; background-color:transparent; overflow:hidden; " src="http://assets.tumblr.com/assets/html/iframe/o.html?_v=00c18e3e470095be41311af633109bac#src=http%3A%2F%2Fmuadmissions.tumblr.com%2Fpost%2F62193198115%2Four-counselor-pat-had-been-doing-a-bit-of&amp;pid=62193198115&amp;rk=z5N4M7gk&amp;lang=en_US&amp;name=muadmissions&amp;avatar=http%3A%2F%2F24.media.tumblr.com%2Favatar_ab3f05d239a9_64.png&amp;title=Title&amp;url=http%3A%2F%2Fmuadmissions.tumblr.com%2F&amp;page_slide=slide"></iframe>    <div id="teaser_iframe_container" style="display:none;"><iframe scrolling="no" frameborder="0" src="http://www.tumblr.com/assets/html/iframe/teaser.html#src=http%3A%2F%2Fmuadmissions.tumblr.com%2Fpost%2F62193198115%2Four-counselor-pat-had-been-doing-a-bit-of&amp;pid=62193198115&amp;rk=z5N4M7gk&amp;lang=en_US&amp;name=muadmissions&amp;avatar=http%3A%2F%2F24.media.tumblr.com%2Favatar_ab3f05d239a9_64.png&amp;title=Title&amp;url=http%3A%2F%2Fmuadmissions.tumblr.com%2F&amp;page_slide=slide" id="teaser_iframe" width="1" height="1"></iframe></div>
+
+<script type="text/javascript">
+    (function(Tumblr){
+        var follow_iframe_initialized = false;
+        if (Tumblr.FollowTeaser && Tumblr.PostMessageListener) {
+            // Don't do anything until the first initialize event
+            Tumblr.PostMessageListener.initialize(function(message, origin) {
+                if (follow_iframe_initialized || message.length < 2) return;
+
+                if (message[0] === 'follow_iframe' && message[1] === 'enable') {
+                    Tumblr.FollowTeaser.current_page = 1;
+                    Tumblr.FollowTeaser.infer_infinite_scroll = true;
+                    Tumblr.FollowTeaser.create_from_tumblr_controls('http://assets.tumblr.com/assets/html/iframe/follow.html?_v=c5638c77a8a6b7821eab58b693b3a051');
+                    Tumblr.FollowTeaser.scroll_listener(true);
+                    follow_iframe_initialized = true;
+                }
+            });
+        }
+    })(this.Tumblr || (this.Tumblr = {}));
+</script>
+    
+    <!--[if IE]><script type="text/javascript">document.getElementById('tumblr_controls').allowTransparency=true;</script><![endif]-->
+    
+        
+<iframe src="http://assets.tumblr.com/analytics.html?63fae489732da54993e4a941e42dcf5e" scrolling="no" width="1" height="1" frameborder="0" style="background-color:transparent; overflow:hidden; position:absolute; top:0; left:0 z-index:9999;" id="ga_target"></iframe>
+
+    <script>
+        var COMSCORE = true;
+        window.setTimeout(function() {
+            var analytics_frame = document.getElementById('ga_target');
+            analytics_frame.contentWindow.postMessage('enable_comscore;' + window.location, analytics_frame.src.split('/analytics.html')[0]);
+        }, 1000);
+    </script>
+
+
+
+    <script type="text/javascript">
+      var _qevents = _qevents || [];
+
+      (function() {
+       var elem = document.createElement('script');
+
+       elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+       elem.async = true;
+       elem.type = "text/javascript";
+       var scpt = document.getElementsByTagName('script')[0];
+       scpt.parentNode.insertBefore(elem, scpt);
+      })();
+    </script>
+    <script type="text/javascript">
+        _qevents.push( { qacct: 'p-19UtqE8ngoZbM' } );
+    </script>
+    <noscript>
+        <div style="display: none;"><img src="//pixel.quantserve.com/pixel/'p-19UtqE8ngoZbM'.gif" height="1" width="1" alt="Quantcast"/></div>
+    </noscript>
+
+
+    <script type="text/javascript">!function(s){s.src='http://www.tumblr.com/impixu?T=1380239247&J=eyJ0eXBlIjoidXJsIiwidXJsIjoiaHR0cDpcL1wvbXVhZG1pc3Npb25zLnR1bWJsci5jb21cL3Bvc3RcLzYyMTkzMTk4MTE1XC9vdXItY291bnNlbG9yLXBhdC1oYWQtYmVlbi1kb2luZy1hLWJpdC1vZiIsInJlcXR5cGUiOjAsInJvdXRlIjoiXC9wb3N0XC86aWRcLzpzdW1tYXJ5In0=&U=ILFCEACNKG&K=5a62269260bf17b176adfdd0f2afb4c3134a1853272638b2d532dceac80a638f&R='.replace(/&R=[^&$]*/,'').concat('&R='+escape(document.referrer)).slice(0,2000).replace(/%.?.?$/,'');}(new Image());</script><noscript><img style="position:absolute;z-index:-3334;top:0px;left:0px;visibility:hidden;" src="http://www.tumblr.com/impixu?T=1380239247&J=eyJ0eXBlIjoidXJsIiwidXJsIjoiaHR0cDpcL1wvbXVhZG1pc3Npb25zLnR1bWJsci5jb21cL3Bvc3RcLzYyMTkzMTk4MTE1XC9vdXItY291bnNlbG9yLXBhdC1oYWQtYmVlbi1kb2luZy1hLWJpdC1vZiIsInJlcXR5cGUiOjAsInJvdXRlIjoiXC9wb3N0XC86aWRcLzpzdW1tYXJ5Iiwibm9zY3JpcHQiOjF9&U=ILFCEACNKG&K=a4a00fc81dfc4931379151538209ef260001c0e4987b653a284ea875f714f17d&R="></noscript><script type="text/javascript">!function(s){s.src='http://www.tumblr.com/impixu?T=1380239247&J=eyJ0eXBlIjoicG9zdCIsInVybCI6Imh0dHA6XC9cL211YWRtaXNzaW9ucy50dW1ibHIuY29tXC9wb3N0XC82MjE5MzE5ODExNVwvb3VyLWNvdW5zZWxvci1wYXQtaGFkLWJlZW4tZG9pbmctYS1iaXQtb2YiLCJyZXF0eXBlIjowLCJyb3V0ZSI6IlwvcG9zdFwvOmlkXC86c3VtbWFyeSIsInBvc3RzIjpbeyJwb3N0aWQiOiI2MjE5MzE5ODExNSIsImJsb2dpZCI6IjEwOTU1NzQ2MiIsInNvdXJjZSI6MzN9XX0=&U=HGKNJNIJGH&K=7368cd844d8960aace1e97aeb38e88225ebc3fb5fa08bfc2ea73d8fabdfc2ec4&R='.replace(/&R=[^&$]*/,'').concat('&R='+escape(document.referrer)).slice(0,2000).replace(/%.?.?$/,'');}(new Image());</script><noscript><img style="position:absolute;z-index:-3334;top:0px;left:0px;visibility:hidden;" src="http://www.tumblr.com/impixu?T=1380239247&J=eyJ0eXBlIjoicG9zdCIsInVybCI6Imh0dHA6XC9cL211YWRtaXNzaW9ucy50dW1ibHIuY29tXC9wb3N0XC82MjE5MzE5ODExNVwvb3VyLWNvdW5zZWxvci1wYXQtaGFkLWJlZW4tZG9pbmctYS1iaXQtb2YiLCJyZXF0eXBlIjowLCJyb3V0ZSI6IlwvcG9zdFwvOmlkXC86c3VtbWFyeSIsInBvc3RzIjpbeyJwb3N0aWQiOiI2MjE5MzE5ODExNSIsImJsb2dpZCI6IjEwOTU1NzQ2MiIsInNvdXJjZSI6MzN9XSwibm9zY3JpcHQiOjF9&U=HGKNJNIJGH&K=594c3c3683da8dfc3801fb10a5136dadc0a18ef2f9c78c2edf29e859afcc21de&R="></noscript><!-- END TUMBLR CODE -->
+</body>
+</html>

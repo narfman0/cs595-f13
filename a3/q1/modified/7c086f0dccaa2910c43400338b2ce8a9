@@ -1,0 +1,712 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">  <html xmlns="http://www.w3.org/1999/xhtml">  <head>  <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />   <link href="/images/_defaults.css" rel="stylesheet" type="text/css" />   <link href="/images/_layout_v2.css" rel="stylesheet" type="text/css" />    <link href="/images/_layout_sky.css" rel="stylesheet" type="text/css" />  <!--[if IE 6]><style type="text/css">@import url("/images/_defaults_ie6.css");</style><![endif]-->    <script type="text/javascript">  function isCheckedOnOff(InputName)  {   if(document.getElementById(InputName).checked == true)    document.getElementById(InputName).checked = false;   else    document.getElementById(InputName).checked = true;  }    function openCloseTabs(element){   if(document.getElementById(element).style.display == 'none'){    document.getElementById(element).style.display = 'block';   }else{    document.getElementById(element).style.display = 'none';   }  }  function PopWindow(mypage, myname, w, h, scroll)    {   var winl = (screen.width - w) / 2;   var wint = (screen.height - h) / 2;   /* winprops = 'height='+h+',width='+w+',top='+wint+',left='+winl+',scrollbars='+scroll+',resizable,status' */  winprops = 'height='+h+',width='+w+',top='+120+',left='+winl+',scrollbars='+scroll+',resizable,status=no,toolbar=no,menubar=no';    win = window.open(mypage, myname, winprops)  /* if (parseInt(navigator.appVersion) >= 4) { win.window.focus(); } */  }  </script>          <script type="text/javascript">   function hideTabContent(element){    for(var x=1;x<30;x++){     if(document.getElementById(element+'_'+x) != null){      document.getElementById(element+'_'+x).style.display = 'none';     }    }   }   function showTabContent(tab,tabId,element,id){    hideTabContent(element);    changeTabBack(tab);    if(document.getElementById(element+'_'+id) != null){     document.getElementById(element+'_'+id).style.display = 'block';    }    if(document.getElementById(tab+'_'+tabId) != null){     document.getElementById(tab+'_'+tabId).style.backgroundImage = 'url(/images/tab_selected_back.jpg)';     document.getElementById(tab+'_'+tabId).style.color = '#407740';     document.getElementById(tab+'_'+tabId).style.fontWeight = 'bold';    }   }   function changeTabBack(element){    for(var x=1;x<30;x++){     if(document.getElementById(element+'_'+x) != null){      document.getElementById(element+'_'+x).style.backgroundImage = 'url(/images/tab_unselected_back.jpg)';      document.getElementById(element+'_'+x).style.color = '#666666';      document.getElementById(element+'_'+x).style.fontWeight = 'normal';     }    }   }               function hideTabContentCal(element){    for(var x=1;x<30;x++){     if(document.getElementById(element+'_'+x) != null){      document.getElementById(element+'_'+x).style.display = 'none';     }    }   }   function showTabContentCal(tab,tabId,element,id){    hideTabContentCal(element);    changeTabBackCal(tab);    if(document.getElementById(element+'_'+id) != null){     document.getElementById(element+'_'+id).style.display = 'block';    }    if(document.getElementById(tab+'_'+tabId) != null){     document.getElementById(tab+'_'+tabId).className = 'selectedtabCal';    }   }   function changeTabBackCal(element){    for(var x=1;x<30;x++){     if(document.getElementById(element+'_'+x) != null){      document.getElementById(element+'_'+x).className = 'unselectedtabCal';     }    }   }         function hideTabContentblogs(element){    for(var x=1;x<30;x++){     if(document.getElementById(element+'_'+x) != null){      document.getElementById(element+'_'+x).style.display = 'none';     }    }   }   function showTabContentblogs(tab,tabId,element,id){    hideTabContentblogs(element);    changeTabBackblogs(tab);    if(document.getElementById(element+'_'+id) != null){     document.getElementById(element+'_'+id).style.display = 'block';    }    if(document.getElementById(tab+'_'+tabId) != null){     document.getElementById(tab+'_'+tabId).className = 'selectedtabblogs';    }   }   function changeTabBackblogs(element){    for(var x=1;x<30;x++){     if(document.getElementById(element+'_'+x) != null){      document.getElementById(element+'_'+x).className = 'unselectedtabblogs';     }    }   }  function toggle(div_id) {   var el = document.getElementById(div_id);   if ( el.style.display == 'none' ) { el.style.display = 'block';}   else {el.style.display = 'none';}  }  function blanket_size(popUpDivVar) {   if (typeof window.innerWidth != 'undefined') {    viewportheight = window.innerHeight;   } else {    viewportheight = document.documentElement.clientHeight;   }   if ((viewportheight > document.body.parentNode.scrollHeight) && (viewportheight > document.body.parentNode.clientHeight)) {    blanket_height = viewportheight;   } else {    if (document.body.parentNode.clientHeight > document.body.parentNode.scrollHeight) {     blanket_height = document.body.parentNode.clientHeight;    } else {     blanket_height = document.body.parentNode.scrollHeight;    }   }   var blanket = document.getElementById('blanket');   blanket.style.height = blanket_height + 'px';   var popUpDiv = document.getElementById(popUpDivVar);   popUpDiv_height=blanket_height/2-150;   popUpDiv.style.top = 10 + '%';  }  function window_pos(popUpDivVar) {   if (typeof window.innerWidth != 'undefined') {    viewportwidth = window.innerHeight;   } else {    viewportwidth = document.documentElement.clientHeight;   }   if ((viewportwidth > document.body.parentNode.scrollWidth) && (viewportwidth > document.body.parentNode.clientWidth)) {    window_width = viewportwidth;   } else {    if (document.body.parentNode.clientWidth > document.body.parentNode.scrollWidth) {     window_width = document.body.parentNode.clientWidth;    } else {     window_width = document.body.parentNode.scrollWidth;    }   }   var popUpDiv = document.getElementById(popUpDivVar);   window_width=window_width/2-150;   popUpDiv.style.left = 20 + '%';  }  function popup(windowname) {   blanket_size(windowname);   window_pos(windowname);   toggle('blanket');   toggle(windowname);    }  </script>    
+	
+	<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js">
+	</script>
+	<script type="text/javascript">
+	  GS_googleAddAdSenseService("ca-pub-0279219903859783");
+	  GS_googleEnableAllServices();
+	</script>
+	
+	
+	
+		
+		<script type="text/javascript">
+			GA_googleAddAttr("SiteID", "AMAP");
+		</script>
+	
+
+	
+	<script type="text/javascript">
+		GA_googleAddAttr("MSection", "news");
+	</script>
+	
+	
+		<script type="text/javascript">
+			GA_googleAddAttr("SubSection", "local_news");
+		</script>
+	
+				<script type="text/javascript">
+					GA_googleAddAttr("SLevel_1", "news");
+				</script>
+			
+				<script type="text/javascript">
+					GA_googleAddAttr("SLevel_2", "local_news");
+				</script>
+			
+	<script type="text/javascript">
+		GA_googleAddSlot("ca-pub-0279219903859783", "CMSv2_Bottom_728x90");
+GA_googleAddSlot("ca-pub-0279219903859783", "CMSv2_Top2_895x300");
+GA_googleAddSlot("ca-pub-0279219903859783", "CMSv2_x94_0x0");
+GA_googleAddSlot("ca-pub-0279219903859783", "CMSv2_x95_74x60");
+GA_googleAddSlot("ca-pub-0279219903859783", "CMSv2_Bottom1_420x200");
+GA_googleAddSlot("ca-pub-0279219903859783", "CMSv2_Top_728x90");
+GA_googleAddSlot("ca-pub-0279219903859783", "CMSv2_Left_160x600");
+GA_googleAddSlot("ca-pub-0279219903859783", "CMSv2_x40_234x60");
+GA_googleAddSlot("ca-pub-0279219903859783", "CMSv2_Middle_300x250");
+GA_googleAddSlot("ca-pub-0279219903859783", "CMSv2_x41_234x60");
+GA_googleAddSlot("ca-pub-0279219903859783", "CMSv2_x42_234x60");
+
+	</script>
+	<script type="text/javascript">
+	  GA_googleFetchAds();
+	</script>
+<title>NCAA reduces scholarship sanctions against Penn State - AltoonaMirror.com - Altoona, PA | News, Sports, Jobs, Community Information - The Altoona Mirror</title><meta name="description" content="The NCAA on Tuesday reversed course on one of the major sanctions against the Penn State football program when it announced the Nittany Lions will..." /><meta name="keywords" content="news, headlines, Altoona, Pinecroft, Lakemont, Juniata, Hollidaysburg, Duncansville, Gaysport, Bellwood, Tyrone, Williamsburg, Martinsburg, Carrolltown, Lily, Portage, Mount Union, Huntingdon, Petersburg, Alexandria, Philipsburg, Westover, Brimingham, Hes" /></head>  <body>  <div id="blanket" style="display:none;"></div>           <center>         <script type="text/javascript">           GA_googleFillSlot("CMSv2_Top2_895x300");         </script>         </center>          <div id="hdr">   <div id="hdrNav">    <div id="hdrNavL">Mobile: <a href="http://mobile.altoonamirror.com" title="Mobile Version">mobile.altoonamirror.com</a></div>    <div id="hdrNavR">   <span id="visitorNav">    <a href="https://www.altoonamirror.com/page/memberscreate.create/sign-in.html" title="Sign In">Sign In</a> |     <a href="https://www.altoonamirror.com/page/memberscreate.create/create-an-account.html" title="Create an Account for The Altoona Mirror">Create an Account</a> |    </span>   <span id="memberNav">    Welcome, <strong id="displayUsername"></strong>. <a href="https://www.altoonamirror.com/page/memberssecure.home/" title="My Account">My Account</a> |     <a href="https://www.altoonamirror.com/page/memberslogin.actLogout/" title="Logout">Logout</a> |    </span>      <a href="http://www.altoonamirror.com/page/ecocat.detail/enav/2/Altoona-Mirror-Subscriptions.html" title="Subscribe to The Altoona Mirror">Subscribe</a> | <a href="http://173.163.9.217/vnr/index.asp?publicationID=65" title="Submit News to The Altoona Mirror">Submit News</a> | <a href="/page/category.detail/nav/804/Contact-Us.html" class="">Contact Us</a> |     <a href="http://www.mirrormoms.com">MirrorMoms.com</a> |     <a href="/page/polls.list/">Polls</a> |   <a href="http://www.altoonamirror.com">Home</a>  <a href="/page/syndrss.front/headline.xml" title="RSS Feed"><img src="/images/rss.gif" border="0" class="imgMiddle" alt="RSS" /></a>    <script type="text/javascript">   var searchTerm = "DNAME=" ;   if (document.cookie.length > 0) {     offset = document.cookie.indexOf(searchTerm);    if (offset != -1) {     offset += searchTerm.length;     var stopTerm = ';';     var stopPoint = document.cookie.indexOf(stopTerm, offset);     if ( stopPoint == -1 ) {      stopPoint = document.cookie.length;     }     var accountUsername = document.cookie.substring(offset,stopPoint);     /* additional check for cookie difference between browsers */     if ( unescape(document.cookie.substring(offset,offset+1)) != ';' ) {      showMember(accountUsername);     } else {      showGuest();     }    } else {     showGuest();    }           } else {    showGuest();   }   function showMember(accountUsername) {    document.getElementById('visitorNav').style.display = 'none';    document.getElementById('memberNav').style.display = '';    document.getElementById('displayUsername').innerHTML = accountUsername;   }   function showGuest() {    document.getElementById('visitorNav').style.display = '';    document.getElementById('memberNav').style.display = 'none';    document.getElementById('displayUsername').innerHTML = '';   }  </script>  </div>   </div>   <div id="hdrM">    <div id="hdrMLogo"><a href="http://www.altoonamirror.com" title="Home"><img src="/images/spacer.gif" border="0" width="250" height="96" /></a></div>    <div id="hdrMAd">   <script type="text/javascript">     GA_googleFillSlot("CMSv2_Top_728x90");   </script>  </div>   </div>  </div>  <div id="bdy">   <div id="bdyL"><img src="/images/spacer.gif" border="0" width="1" height="1" /></div>   <div id="bdyC">    <!-- Top Nav -->    <div id="navTopCap"><img src="/images/spacer.gif" border="0" width="1" height="1" /></div>    <div id="navTop"><a href="/page/category.detail/nav/756/News.html" class="">News</a>&nbsp; <a href="/page/category.detail/nav/784/Opinion.html" class="">Opinion</a>&nbsp;      <a href="/page/blogs.list/" >Blogs</a>&nbsp; <a href="/page/category.detail/nav/765/Sports.html" class="">Sports</a>&nbsp; <a href="/page/category.detail/nav/746/PSU.html" class="">PSU</a>&nbsp; <a href="/page/category.detail/nav/768/Life.html" class="">Life</a>&nbsp; <a href="/page/category.detail/nav/1/Sections.html" class="">Sections</a>&nbsp; <a href="/page/category.detail/nav/5005/Extras.html" class="">Extras</a>&nbsp;      <a href="http://cu.altoonamirror.com" target="_blank">CU</a>&nbsp; <a href="/page/category.detail/nav/5020/Real-Estate.html" class="">Real Estate</a>&nbsp; <a href="/page/category.detail/nav/5179/Ads.html" class="">Ads</a>&nbsp;      <a href="http://jobs.altoonamirror.com" >Jobs</a>&nbsp;      <a href="http://www.hot-ads.com/browse/index.cfm?SID=PA&RGID=00000100000&CID=26" target="_blank">Classifieds</a>&nbsp;      <a href="http://extras.altoonamirror.com/videospage/" >Videos</a> </div>    <!-- Breaking -->         <div id="breakingNewsAjax"></div>   <script language="javascript">    var xmlhttp;        function getBreaking() {     xmlhttp=GetXmlHttpObject();     if (xmlhttp==null) {        alert ("Sorry, but I couldn't create an XMLHttpRequest");        return;     }          var url="/cached/layout.breakingNews.html";     url += '?sid='+Math.random();       xmlhttp.onreadystatechange=stateChanged;     xmlhttp.open('GET',url,true);     xmlhttp.send(null);          }       function GetXmlHttpObject() {     if (window.XMLHttpRequest) {       /* code for IE7+, Firefox, Chrome, Opera, Safari */       return new XMLHttpRequest();     }     if (window.ActiveXObject) {       /* code for IE6, IE5 */       return new ActiveXObject('Microsoft.XMLHTTP');     }     return null;    }        function stateChanged() {     if (xmlhttp.readyState==4) {      if (xmlhttp.status == 200) {       document.getElementById('breakingNewsAjax').innerHTML = '';       document.getElementById('breakingNewsAjax').innerHTML=xmlhttp.responseText;      }     }    }        getBreaking();      </script>                         <div id="searchBox_nC">   <div id="searchBox_nC_search"><style type="text/css">   .formInputHint {color:#999;}  </style>    <script language="javascript">      function clearTextBox(chosen,chosenValue) {     if ( document.getElementById(chosen).value == chosenValue ) {      document.getElementById(chosen).value = '';     }    }    </script>    <form action="/page/search.results" method="get">   <div>    <input class="formInputHint" onclick="clearTextBox('searchBox_nC_search_box','News, Blogs & Events'); this.className='';" name="keywords" value="News, Blogs & Events" autocomplete="off" type="text" maxlength="128" id="searchBox_nC_search_box" /><input name="btnWebSearch" type="submit" value="Search" id="searchBox_nC_search_btn" />    <input type="hidden" name="startDate" value="" />    <input type="hidden" name="endDate" value="" />   </div>  </form></div>   <div id="searchBox_nC_nC"><script type="text/javascript">     var xmlhttpNotificationCenter = false;   var notificationTitleArray = new Array();   var notificationURLArray = new Array();   var nextNotification = 1;   var notificationCenterDelay = 5000;      xmlhttpNotificationCenter=GetXmlHttpObjectSearch();   if (xmlhttpNotificationCenter==null) {      alert ("Sorry, but I couldn't create an XMLHttpRequest");   }     if (xmlhttpNotificationCenter) {    xmlhttpNotificationCenter.onreadystatechange = setnotificationTitleArray;    xmlhttpNotificationCenter.open("GET", "/page/xml.notificationCenter", true);    xmlhttpNotificationCenter.send(null);   }   else {    alert("Sorry, but I couldn't create an XMLHttpRequest");   }     function GetXmlHttpObjectSearch() {    if (window.XMLHttpRequest) {      /* code for IE7+, Firefox, Chrome, Opera, Safari */      return new XMLHttpRequest();    }    if (window.ActiveXObject) {      /* code for IE6, IE5 */      return new ActiveXObject('Microsoft.XMLHTTP');    }    return null;   }     function setnotificationTitleArray() {    if (xmlhttpNotificationCenter.readyState == 4) {     if (xmlhttpNotificationCenter.status == 200) {      if (xmlhttpNotificationCenter.responseXML) {       var allNotifications = xmlhttpNotificationCenter.responseXML.getElementsByTagName("note");       for (var i=0; i<allNotifications.length; i++) {        var curSortType = allNotifications[i].getElementsByTagName("sortType")[0].firstChild.nodeValue;        if ( curSortType == 'Latest' ) {         var curID = allNotifications[i].getElementsByTagName("FK_noteID")[0].firstChild.nodeValue;         var curTitle = allNotifications[i].getElementsByTagName("title")[0].firstChild.nodeValue;         notificationTitleArray[i] = curTitle;         notificationURLArray[i] = '/page/notificationCenter.click?noteID='+curID;        } else if ( curSortType == 'Most Clicked' ) {         var curID = allNotifications[i].getElementsByTagName("FK_contentID")[0].firstChild.nodeValue;         var curTitle = allNotifications[i].getElementsByTagName("title")[0].firstChild.nodeValue;         var curCatID = allNotifications[i].getElementsByTagName("FK_catID")[0].firstChild.nodeValue;         notificationTitleArray[i] = curTitle;         notificationURLArray[i] = '/page/content.detail/id/'+curID+'/'+curTitle.replace(/[^0-9a-zA-Z]/g,'-')+'.html?nav='+curCatID;        } else if ( curSortType == 'Most Commented Article' ) {         var curID = allNotifications[i].getElementsByTagName("FK_contentID")[0].firstChild.nodeValue;         var curTitle = allNotifications[i].getElementsByTagName("title")[0].firstChild.nodeValue;         var curCatID = allNotifications[i].getElementsByTagName("FK_catID")[0].firstChild.nodeValue;         notificationTitleArray[i] = curTitle;         notificationURLArray[i] = '/page/content.detail/id/'+curID+'/'+curTitle.replace(/[^0-9a-zA-Z]/g,'-')+'.html?nav='+curCatID;        } else if ( curSortType == 'Most Commented Poll' ) {         var curID = allNotifications[i].getElementsByTagName("FK_pollID")[0].firstChild.nodeValue;         var curTitle = allNotifications[i].getElementsByTagName("title")[0].firstChild.nodeValue;         notificationTitleArray[i] = curTitle;         notificationURLArray[i] = '/page/polls.detail/id/'+curID+'/'+curTitle.replace(/[^0-9a-zA-Z]/g,'-')+'.html';        } else if ( curSortType == 'Most Commented Topic' ) {         var curID = allNotifications[i].getElementsByTagName("FK_topicID")[0].firstChild.nodeValue;         var curTitle = allNotifications[i].getElementsByTagName("title")[0].firstChild.nodeValue;         notificationTitleArray[i] = curTitle;         notificationURLArray[i] = '/page/mboard.detail/fNav/'+curID+'/'+curTitle.replace(/[^0-9a-zA-Z]/g,'-')+'.html';        } else if ( curSortType == 'Most Commented Blog' ) {         var curID = allNotifications[i].getElementsByTagName("FK_blogID")[0].firstChild.nodeValue;         var curTitle = allNotifications[i].getElementsByTagName("title")[0].firstChild.nodeValue;         notificationTitleArray[i] = curTitle;         notificationURLArray[i] = '/page/blogs.detail/display/'+curID+'/'+curTitle.replace(/[^0-9a-zA-Z]/g,'-')+'.html';        } else {         notificationTitleArray[i] = '';         notificationURLArray[i] = '';        }       }       setNotification(0, rotateNotifications);      }     }    }   }         function rotateNotifications() {    setTimeout('setNotification("'+nextNotification+'",rotateNotifications)', notificationCenterDelay);    nextNotification++;    if ( nextNotification > notificationTitleArray.length -1 ) {     nextNotification = 0;    }   }       function setNotification(chosen,functionName) {    document.getElementById('notificationNumber').innerHTML = (parseInt(chosen)+1)+') ';    document.getElementById('notificationTitle').innerHTML = notificationTitleArray[chosen];    document.getElementById('notificationURL').href = notificationURLArray[chosen];    document.getElementById('notificationURL').title = notificationTitleArray[chosen];    functionName();   }  </script>      </div>   <div class="clearR"></div>  </div> 
+<script language="javascript">
+
+	var showMobileAd = 0;
+	
+	/* check for apple product */
+	var apple = {};
+	apple.userAgent = navigator.userAgent;
+	apple.device = false;
+	apple.products = ["iPhone", "iPod", "iPad"];
+	for (var d = 0; d < apple.products.length; d++) {
+		var t = apple.products[d];
+		apple[t] = !!apple.userAgent.match(new RegExp(t, "i"));
+		apple.device = apple.device || apple[t];
+	}
+	
+	
+	
+	/* cookie manipulation */
+	function getCookie(cookieName) {
+		var i,x,y,ARRcookies=document.cookie.split(";");
+		for ( i=0; i<ARRcookies.length; i++ ) {
+			x = ARRcookies[i].substr(0,ARRcookies[i].indexOf("="));
+			y = ARRcookies[i].substr(ARRcookies[i].indexOf("=")+1);
+			x = x.replace(/^\s+|\s+$/g,"");
+			if ( x == cookieName ) {
+				return unescape(y);
+			}
+		}
+	}
+	 
+	function setCookie(cookieName,value,exdays) {
+		var cookieName = 'mobileIphoneAppAdClose';
+		var expireDate = new Date();
+		expireDate.setDate(expireDate.getDate() + exdays);
+		/* expireDate.setTime(expireDate.getTime() + 60000); for testing - set to 1 minutes */
+		var cookieValue=escape(value) + ((exdays==null) ? "" : "; expires="+expireDate.toUTCString());
+		document.cookie = cookieName + "=" + cookieValue;
+	}
+	/* END cookie manipulation */
+	 
+ 
+
+	if ( apple.device ) {
+		var checkForCookie = getCookie("mobileIphoneAppAdClose");
+		if (checkForCookie!=null && checkForCookie!="") {
+			showMobileAd = 0;
+		} else {
+			showMobileAd = 1;
+		}
+	}
+	
+	function closeAd(){
+		setCookie("mobileIphoneAppAdClose",'adClosed',14);
+	}
+
+
+	/* create display ad */
+	if ( showMobileAd ) {
+		var msg = "\n Enjoy a better mobile experience by downloading the free \'The Altoona Mirror\' app today! Would you like to download the app now? \n\n";
+		if (confirm(msg)) {
+                                                  closeAd();
+			location.replace("/iPhone");
+		} else {
+			closeAd();
+		}
+	}
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script language="javascript">
+
+	var showMobileAndroidAd = 0;
+	
+	/* check for apple product */
+	var android = {};
+	android.userAgent = navigator.userAgent;
+	android.device = false;
+	android.products = ["android"];
+	for (var d = 0; d < android.products.length; d++) {
+		var t = android.products[d];
+		android[t] = !!android.userAgent.match(new RegExp(t, "i"));
+		android.device = android.device || android[t];
+	}
+	
+	
+	
+	/* cookie manipulation */
+	function getCookie(cookieName) {
+		var i,x,y,ARRcookies=document.cookie.split(";");
+		for ( i=0; i<ARRcookies.length; i++ ) {
+			x = ARRcookies[i].substr(0,ARRcookies[i].indexOf("="));
+			y = ARRcookies[i].substr(ARRcookies[i].indexOf("=")+1);
+			x = x.replace(/^\s+|\s+$/g,"");
+			if ( x == cookieName ) {
+				return unescape(y);
+			}
+		}
+	}
+	 
+	function setCookie(cookieName,value,exdays) {
+		var cookieName = 'mobileAndroidAppAdClose';
+		var expireDate = new Date();
+		expireDate.setDate(expireDate.getDate() + exdays);
+		/* expireDate.setTime(expireDate.getTime() + 60000); for testing - set to 1 minutes */
+		var cookieValue=escape(value) + ((exdays==null) ? "" : "; expires="+expireDate.toUTCString());
+		document.cookie = cookieName + "=" + cookieValue;
+	}
+	/* END cookie manipulation */
+	 
+ 
+
+	if ( android.device ) {
+		var checkForCookie = getCookie("mobileAndroidAppAdClose");
+		if (checkForCookie!=null && checkForCookie!="") {
+			showMobileAd = 0;
+		} else {
+			showMobileAd = 1;
+		}
+	}
+	
+	function closeAd(){
+		setCookie("mobileAndroidAppAdClose",'adClosed',14);
+	}
+
+
+	/* create display ad */
+	if ( showMobileAd ) {
+		var msg = "\n Enjoy a better mobile experience by downloading the free \'The Altoona Mirror\' app today! Would you like to download the app now? \n\n";
+		if (confirm(msg)) {
+			closeAd();
+			location.replace("/Android");
+		} else {
+			closeAd();
+		}
+	}
+</script>
+
+<!--- Main Body --->
+<table id="mBdy" width="100%" cellpadding="0" cellspacing="0">
+	<tr>
+		<td id="mBdyLAd" valign="top">
+			<div id="navCat">
+				<h3>Local News</h3>
+				
+<ul>
+
+			<li class="color_blue"><strong><a href="/page/category.detail/nav/742/Local-News.html" class="">Local News</a></strong></li>
+		
+			<li><a href="/page/category.detail/nav/725/Local-Business.html" class="">Local Business</a></li>
+		
+			<li><a href="/page/category.detail/nav/743/Obituaries.html" class="">Obituaries</a></li>
+		
+			<li><a href="/page/category.detail/nav/5109/Agriculture.html" class="">Agriculture</a></li>
+		
+			<li><a href="/page/category.detail/nav/757/Pennsylvania-News.html" class="">Pennsylvania News</a></li>
+		
+			<li><a href="/page/category.detail/nav/759/National-News.html" class="">National News</a></li>
+		
+			<li><a href="/page/category.detail/nav/760/International-News.html" class="">International News</a></li>
+		
+		<li><a href="http://www.altoonamirror.com/page/weather.lg/?wx_config=SZ=teaser*lnk=http|www.altoonamirror.com/page/weather.lg/*PID=1031326525*DN=www.altoonamirror.com*MD5=638d61cd7ce4008bdb3ad492ea58867a" >Weather</a></li>
+	
+			<li><a href="/page/category.detail/nav/5185/News-EXTRAS.html" class="">News EXTRAS</a></li>
+		
+		<li><a href="http://173.163.9.217/vnr/index.asp?publicationID=65" target="_blank">SUBMIT News</a></li>
+	
+		<li><a href="/page/video.listVideos/display/2/News.html" >VIEW news videos</a></li>
+	
+<div class="clearL"></div>
+</ul>
+
+			</div>
+			
+<div class="padBtm">
+	<script type="text/javascript">
+	  GA_googleFillSlot("CMSv2_Left_160x600");
+	</script>
+</div>
+
+		</td>
+		<td id="mBdyLC" valign="top">
+			
+<div id="navBCrumbs">
+	
+				/ <a href="/page/category.detail/nav/756/News.html" title="News">News</a>
+			
+				/ <a href="/page/category.detail/nav/742/Local-News.html" title="Local News">Local News</a>
+			 
+	/
+</div>
+			 
+
+
+<link type="text/css" rel="stylesheet" href="/shared/js/bubbleTooltip/css/bubble-tooltip.css" />
+<script type="text/javascript" src="/shared/js/bubbleTooltip/js/bubble-tooltip.js"></script>
+
+<script type="text/javascript">
+	document.onkeydown = getArrows;
+	
+	
+			var backLink = "/page/content.detail/id/575081/Six-school-districts-suing-Centax.html?nav=742";
+		
+			var nextLink = "/page/content.detail/id/575082/County-treasurer-s-office-to-close-for-move.html?nav=742";
+		
+
+	function getArrows(e) {
+		if (window.event) {
+			arrows=((event.which)||(event.keyCode));
+		} else {
+			arrows=e.keyCode;
+		}		
+
+		switch(arrows) {
+			case 37:
+				if ( backLink ) { window.location=backLink; } break;
+			case 39:
+				if ( nextLink ) { window.location=nextLink; } break;
+		}
+	 }
+</script>
+<div id="bubble_tooltip">
+	<div class="bubble_top"><span></span></div>
+	<div class="bubble_middle"><span id="bubble_tooltip_content"></span></div>
+	<div class="bubble_bottom"></div>
+</div>
+
+<table id="navPreNxt" width="100%" cellpadding="0" cellspacing="0" class="txtSmall padBtm">
+	<tr>
+		
+				<td width="50%" onmousemove="showBubbleTip(event,'Did you know you can use the <font style=\'font-size:30px;\'><sub>&larr;</sub></font> and <font style=\'font-size:30px;\'><sub>&rarr;</sub></font> arrow keys on your keyboard to activate these links ?');return false" onmouseout="hideBubbleTip()"><a href="/page/content.detail/id/575081/Six-school-districts-suing-Centax.html?nav=742" class="" title="Six school districts suing Centax">&laquo; Six school districts suing C...</a></td>
+			
+				<td width="50%" onmousemove="showBubbleTip(event,'Did you know you can use the <font style=\'font-size:30px;\'><sub>&larr;</sub></font> and <font style=\'font-size:30px;\'><sub>&rarr;</sub></font> arrow keys on your keyboard to activate these links ?');return false" onmouseout="hideBubbleTip()" class="txtRight"><a href="/page/content.detail/id/575082/County-treasurer-s-office-to-close-for-move.html?nav=742" class="" title="County treasurer’s office to close for move">County treasurer’s office to...&raquo;</a></td>
+			
+	</tr>
+</table>
+
+<div class="cBdrHdrSm">
+	<div class="cBdrTLSm">&nbsp;</div>
+	<div class="cBdrTRSm">&nbsp;</div>
+	<div class="cBdrTCOSm">&nbsp;</div>
+</div>
+<div class="cBdrMainBig">
+	<div class="hnews hentry item contentList">
+		
+		<h1 class="entry-title padBtm">NCAA reduces scholarship sanctions against Penn State</h1>
+		
+		
+		<h5 id="dspDetail_byLine" class="updated dtstamp" title="2013-09-24T00:00:00Z">September 24, 2013</h5>
+		
+		
+		<div class="padBtm txtSmaller">
+			
+					<span class="author vcard">
+						<span class="fn">
+							By Cory Giger (<a href="mailto:cgiger@altoonamirror.com" title="cgiger@altoonamirror.com">cgiger@altoonamirror.com</a>)
+						</span>
+					</span>
+					
+					,
+					<span class="source-org vcard">
+						<span class="org fn">The Altoona Mirror</span>
+					</span>
+					
+		</div>
+		
+		<div id="dspDetail_linksTop" class="navPaginate">
+			
+				<a href="/?page=mscontent.saveContentMsg&showlayout=0&id=575095&nav=742" title="Save Story">Save</a> | 
+				
+				
+                <script type="text/javascript">var switchTo5x=true;</script>
+				<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+                <script type="text/javascript">stLight.options({publisher: "117d1b7c-1924-48f0-bd2c-81b25b8ceefb"});</script>
+                
+				<span class='st_sharethis'></span>
+                <span class='st_facebook'></span>
+                <span class='st_twitter'></span>
+                <span class='st_linkedin'></span>
+                <span class='st_pinterest'></span>
+                <span class='st_email'></span>
+				
+
+			
+		</div>
+		
+		
+			
+			
+			<div id="storyBody" class="entry-content">
+				<p>The NCAA on Tuesday reversed course on one of the major sanctions against the Penn State football program when it announced the Nittany Lions will start getting back scholarships beginning next year and can return to full strength of 85 scholarships in 2016.</p> <p>Instead of being limited to 15 scholarships next year, the Lions will be able to give five more for a limit of 20. That will increase back to the NCAA maximum of 25 starting in 2015.</p> <p>The Lions were to have been limited to 65 total scholarships from 2014-17, but now the program can get back up to 85 in 2016.</p> 
+
+
+	   <script language="javascript">
+			if (typeof jQuery == 'undefined') {      
+				 document.write('<scr' + 'ipt src="/shared/js/jQuery/jquery.min.js" type="text/javascript"></scr' + 'ipt>');  
+			}
+		</script>
+		<script type="text/javascript" src="/shared/js/textOverflow/jquery.text-overflow.js"></script>
+		<script type="text/javascript">
+            $(function() {
+				$('.contentArticlesCutline p').textOverflow();
+           });
+		</script>
+
+
+
+<script type="text/javascript">
+
+	function listGetAt(c,p,d) {
+		if(arguments.length<3)d=",";
+		var e = c.split(d);
+		if( p >= 1 && p <= e.length ) {
+			return e[p-1];
+		}
+		alert("Out of range");
+		return "";
+	}
+
+	var photoContainerHeight = 0;
+
+	
+	
+	/* set large photo div container to proper height */
+	if ( photoContainerHeight != 0 ) {
+		document.getElementById('mainPhotoContainer').style.height = photoContainerHeight + 'px';
+	}
+		
+	/* popup window for full-sized photo */
+	function popupPic(loc,syndDir,imageName,cutline) { 
+		 window.open( "/?page=photos.largeImage&showlayout=0&loc=" + loc + "&photoSyndDir=" + syndDir + "&photo=" + imageName + "&cutline=" + cutline, "fullsizepopup",  
+		 "resizable=1,HEIGHT=10,WIDTH=10,top=0,left=0"); 
+	} 
+
+	/* create photo arrays */
+	var cutlineArray = new Array(1);
+	var cutlineCleanArray = new Array(1);
+	var photoArray = new Array(1);
+	var syndDirArray = new Array(1);
+	
+	cutlineArray[0] = "";
+	cutlineCleanArray[0] = "";
+	photoArray[0] = "";
+	syndDirArray[0] = "";
+	
+
+	/* switch large photo and cutline */
+	function selectArticlePhoto(chosen) {
+		var curCutline = cutlineArray[[chosen]];
+		var curCutlineClean = cutlineCleanArray[[chosen]];
+		var curPhoto = photoArray[[chosen]];
+		var curSyndDir = syndDirArray[[chosen]];
+		
+		document.getElementById('articlePhotoLargeImage').src = "/photos/news/md/" + curPhoto;
+		document.getElementById('articlePhotoLargeImage').onclick = function (){popupPic('news',curSyndDir,curPhoto,curCutlineClean)};
+		for (z=1;z<cutlineArray.length;z++) {
+			var curPhotoCutline = 'articlePhotoCutline' + z;
+			if ( z == chosen ) {
+				document.getElementById(curPhotoCutline).style.display = '';
+			} else {
+				document.getElementById(curPhotoCutline).style.display = 'none';
+			}	
+		}
+
+	}
+
+</script>
+<p>From a competitive standpoint, the drastic scholarship reductions were expected to significantly hinder Penn State's ability to compete through the 2017 season. Having only 65 scholarships while everyone else was fielding teams with 85 was expected to put the Lions at a big disadvantage, something even coach Bill O'Brien has acknowledged.</p> <p>The scholarship breakdown by year:</p> <p>2014: Can offer 20, with a maximum of 75 on the team</p> <p>2015: Can offer 25, with a maximum of 80 on the team</p> <p>2016: Can offer 25, with a maximum of 85 on the team</p> <p>Penn State's bowl ban is still in effect for this year and the next two, but that sanction also could be revisited, NCAA officials said Tuesday.</p> <p>Former Sen. George Mitchell, who has been monitoring Penn State's progress in the wake of the Jerry Sandusky scandal, said he suggested to the NCAA that "the sanctions on Penn State should be modified."</p> <p>"Penn State has made a serious, good-faith effort to embrace and adopt the changes needed to enhance its future," Mitchell said on a teleconference.</p> <p>Mitchell later added, "I believe it appropriate to recognize and reward the positive response by President [Rodney] Erickson and the university."</p> <p>Mitchell added that he has recommended to the NCAA that it reconsider the Lions' bowl ban at some point. Mitchell said it's "premature to speculate" if the $60 million fine or vacated wins from 1998-2011 could be overturned.</p> <p>The decision to reduce the sanctions came from the NCAA's executive committee.</p> <p>"The executive committee's decision  is an important recognition of the university's progress," NCAA president Mark Emmert said.</p> <p>The Mirror will have more on this story, including comments from coach Bill O'Brien, throughout the day.</p> 
+					<div class="clearL"></div>
+					
+							
+			</div>
+			
+			
+				<div class="lic">
+					
+					<a rel="item-license" href="#license-575095" id="license-575095">&copy; Copyright 2013 The Altoona Mirror. All rights reserved. This material may not be published, broadcast, rewritten or redistributed.</a>
+					
+				</div>
+			
+			
+			
+			<div id="dspDetail_linksBottom" class="navPaginate padBtm">
+				
+					<a href="/?page=mscontent.saveContentMsg&showlayout=0&id=575095&nav=742" title="Save Story">Save</a> | 
+					
+			</div>
+			
+	</div>
+	
+    
+    <div id="fb-root"></div>
+	<script>(function(d, s, id) {
+          var js, fjs = d.getElementsByTagName(s)[0];
+          if (d.getElementById(id)) return;
+          js = d.createElement(s); js.id = id;
+          js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=52956023121";
+          fjs.parentNode.insertBefore(js, fjs);
+        }(document, 'script', 'facebook-jssdk'));
+    </script>
+    <div class="fb-like" data-href="http://www.altoonamirror.com/page/content.detail/id/575095/NCAA-reduces-scholarship-sanctions-against-Penn-State.html?nav=742" data-send="false" data-width="430" data-show-faces="true" data-action="recommend"></div>
+    
+    
+    <script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+	<g:plusone></g:plusone>
+    
+</div>
+<div class="cBdrFdr">
+	<div class="cBdrBL"><img src="/images/spacer.gif" border="0" width="1" height="1" /></div>
+	<div class="cBdrBR"><img src="/images/spacer.gif" border="0" width="1" height="1" /></div>
+	<div class="cBdrBC"><img src="/images/spacer.gif" border="0" width="1" height="5" /></div>
+</div>
+		
+		<div class="padBtm txtCenter"><a href="http://www.altoonamirror.com/page/ecocat.detail/enav/2/Altoona-Mirror-Subscriptions.html"><strong>Subscribe to The Altoona Mirror</strong></a></div> 
+	<div class="padBtm txtCenter">
+		<script type="text/javascript">
+		  GA_googleFillSlot("CMSv2_Bottom1_420x200");
+		</script>
+	</div>
+
+			
+			
+		</td>
+		<td id="mBdyRC" valign="top">
+			
+	<div id="weatherMag">
+		<div id="weatherMagL">
+	<script type="text/javascript">
+	  GA_googleFillSlot("CMSv2_x95_74x60");
+	</script>
+</div>
+		<div id="weatherMagR"><div id="wx_module">
+   <a href="http://www.weather.com/weather/local/USPA0031">Altoona Weather Forecast, PA</a>
+</div>
+
+<script type="text/javascript">
+
+   /* The location ID [wx_locID] may be changed as needed.  However, please update */
+   /* the link and text in the above wx_module to reflect any changes made. */
+   var wx_locID = 'USPA0031';
+
+   /* Please do not change the configuration value [wx_config] manually - your module */
+   /* will no longer function if you do.  If at any time you wish to modify this */
+   /* configuration please use the graphical configuration tool found at */
+   /* https://registration.weather.com/ursa/wow/step2 */
+   var wx_config='SZ=teaser*lnk=http|www.altoonamirror.com/page/weather.lg/*PID=1031326525*DN=www.altoonamirror.com*MD5=638d61cd7ce4008bdb3ad492ea58867a';
+
+   document.write('<scr'+'ipt src="'+document.location.protocol+'//wow.weather.com/weather/wow/module/'+wx_locID+'?config='+wx_config+'&proto='+document.location.protocol+'&target=wx_module"></scr'+'ipt>');
+</script> </div>
+		<div class="clear"></div>
+	</div>
+
+			
+			
+
+
+
+<script type="text/javascript">
+
+	var xmlhttpSearch = false;
+	var headingsArray = new Array();
+	var headingsIDArray = new Array();
+
+	
+	function getSearchXML() {
+		xmlhttpSearch=GetXmlHttpObjectSearch();
+		if (xmlhttpSearch==null) {
+			  alert ("Sorry, but I couldn't create an XMLHttpRequest");
+		}
+	
+		if (xmlhttpSearch) {
+			xmlhttpSearch.onreadystatechange = setheadingsArray;
+			xmlhttpSearch.open("GET", "/shared/localSearch/headings.xml", true);
+			xmlhttpSearch.send(null);
+		}
+		else {
+			alert("Sorry, but I couldn't create an XMLHttpRequest");
+		}
+	
+		function GetXmlHttpObjectSearch() {
+			if (window.XMLHttpRequest) {
+			  /* code for IE7+, Firefox, Chrome, Opera, Safari */
+			  return new XMLHttpRequest();
+			}
+			if (window.ActiveXObject) {
+			  /* code for IE6, IE5 */
+			  return new ActiveXObject('Microsoft.XMLHTTP');
+			}
+			return null;
+		}
+	}
+
+	function setheadingsArray() {
+		if (xmlhttpSearch.readyState == 4) {
+			if (xmlhttpSearch.status == 200) {
+				if (xmlhttpSearch.responseXML) {
+					var allHeadingss = xmlhttpSearch.responseXML.getElementsByTagName("item");
+					for (var i=0; i<allHeadingss.length; i++) {
+						headingsArray[i] = allHeadingss[i].getElementsByTagName("headingName")[0].firstChild;
+						headingsIDArray[i] = allHeadingss[i].getElementsByTagName("localSearchHeadingID")[0].firstChild;
+					}
+					searchBoxSuggest();
+				}
+			}
+		}
+	}
+
+	function searchBoxSuggest() {
+		if ( !headingsArray.length ) {
+			getSearchXML();
+		}
+		var str = document.getElementById("searchBox").value;
+		if (str != "") {
+			document.getElementById("popupsSearch").innerHTML = "";
+			document.getElementById("popupsSearch").style.display = '';
+		
+			for (var i=0; i<headingsArray.length; i++) {
+				var thisHeading = headingsArray[i].nodeValue;
+		
+				if (thisHeading.toLowerCase().indexOf(str.toLowerCase()) == 0) {
+					var thisHeadingID = headingsIDArray[i].nodeValue;
+					var tempDiv = document.createElement("div");
+					var titleURL = thisHeading.replace(/\&amp;/g,'&');
+					var titleURL = titleURL.replace(/[^0-9a-zA-Z]/g,'-');
+					tempDiv.innerHTML = thisHeading;
+					tempDiv.onclick = new Function('makeSearchChoice('+thisHeadingID+',this.innerHTML)');
+					/*tempDiv.onclick = function (){var titleURL = thisCurrentHeading.replace(/\&amp;/g,'&'); var titleURL = titleURL.replace(/[^0-9a-zA-Z]/g,'-'); window.location="/page/local.headDetail/id/" + thisHeadingID + "/" + titleURL + ".html";}; */
+					tempDiv.className = "suggestionsSearch";
+					tempDiv.style.cursor = "pointer";
+					document.getElementById("popupsSearch").appendChild(tempDiv);
+					document.getElementById("popupsSearch").style.backgroundColor='#fff';
+					document.getElementById("popupsSearch").style.border="1px solid #999"; 
+					document.getElementById("popupsSearch").style.height="250px";
+				}
+			}
+			if ( document.getElementById("popupsSearch").innerHTML.length == 0 ) {
+				document.getElementById("popupsSearch").style.display = 'none';
+			}
+		} else {
+			document.getElementById("popupsSearch").innerHTML = "";
+			document.getElementById("popupsSearch").style.display = "none";
+		}
+				
+	}
+	
+	function onBlurSearchSuggestions() {
+		if ( document.activeElement != document.getElementById("popupsSearch") ) {
+			var delay = 250;
+			setTimeout('hideSearchSuggestions()', delay);
+		}
+	}
+
+	function onBlurSearchResults() {
+		if ( document.activeElement != document.getElementById("searchBox") ) {
+			var delay = 250;
+			setTimeout('hideSearchSuggestions()', delay);
+		}
+	}
+
+	function hideSearchSuggestions() {
+		document.getElementById('popupsSearch').innerHTML = "";
+		document.getElementById('popupsSearch').style.display = 'none';
+	}
+	
+	document.onclick = onBlurSearchResults;
+
+	function makeSearchChoice(chosen,urlTitle) {
+		/* added catch to remove category name from search term */
+		if ( urlTitle.toLowerCase().search('<a>') != -1 ) {
+			var endPoint = urlTitle.toLowerCase().search('<a>');
+			var urlTitle = urlTitle.substr(0, endPoint-1);
+		}
+		/*var thisDiv = (evt) ? evt.target : window.event.srcElement; */
+		document.getElementById("popupsSearch").innerHTML = "";
+		/*var titleURL = urlTitle.replace(/\&amp;/g,'&');
+		var titleURL = titleURL.replace(/[^0-9a-zA-Z]/g,'-');
+		window.location="/page/local.headDetail/id/" + chosen + "/" + titleURL + ".html";*/
+		window.location="/page/local.searchBoxCatchAutocomplete/id/" + chosen + "/text/" + urlTitle;		
+		document.getElementById("popupsSearch").style.display = "none";
+		/*document.getElementById('searchBox').value = thisDiv.innerHTML.replace(/\&amp;/g,'&'); */
+		/*document.getElementById("popupsSearch").innerHTML = ""; */
+	}
+	
+</script> 
+		<div id="searchHeaderClass" class="cBdrHdr">
+			<div class="cBdrTLOn">&nbsp;</div>
+			<div class="cBdrTROn">&nbsp;</div>
+			<div class="cBdrTC"><h2 class="color_lBlue">EZToUse.com</h2></div>
+		</div>
+		<div class="cBdrMain">
+			<form id="frmEzSearch" action="http://altoona.eztouse.com/searchname.asp" method="get" enctype="application/x-www-form-urlencoded" name="NameSearch" target="_blank" class="odistyle28">
+				<h5>I am looking for:</h5>
+				<div><input name="name" id="ezSearchBox" value="" autocomplete="off" type="text" size="24" maxlength="128" /> <input name="btnEzSearch" type="submit" value="Search" class="fButton" /></div>
+			</form>
+			<div><a href="http://altoona.eztouse.com/" title="Visit EZToUse.com" target="_blank"><img src="/shared/ads/ez/EZToUse300x50.gif" border="0" /></a></div>
+		</div>
+		<div class="cBdrFdr">
+			<div class="cBdrBL"><img src="/images/spacer.gif" border="0" width="1" height="1" /></div>
+			<div class="cBdrBR"><img src="/images/spacer.gif" border="0" width="1" height="1" /></div>
+			<div class="cBdrBC"><img src="/images/spacer.gif" border="0" width="1" height="5" /></div>
+		</div>	
+	
+			
+                        
+			<div class="adBlock_rightRail">
+	<script type="text/javascript">
+	  GA_googleFillSlot("CMSv2_Middle_300x250");
+	</script>
+</div>
+			
+			
+			
+			
+			<div class="adBlock_rightRail">
+	<script type="text/javascript">
+	  GA_googleFillSlot("CMSv2_x40_234x60");
+	</script>
+</div>
+			<div class="adBlock_rightRail">
+	<script type="text/javascript">
+	  GA_googleFillSlot("CMSv2_x41_234x60");
+	</script>
+</div>
+			<div class="adBlock_rightRail">
+	<script type="text/javascript">
+	  GA_googleFillSlot("CMSv2_x42_234x60");
+	</script>
+</div>
+		</td>
+	</tr>
+</table> </div>   <div id="bdyR"><img src="images/spacer.gif" border="0" width="1" height="1" /></div>   <div class="clear"></div>  </div>    <div class="adBlock_bottom">   <script type="text/javascript">     GA_googleFillSlot("CMSv2_Bottom_728x90");   </script>     <script type="text/javascript">     GA_googleFillSlot("CMSv2_x94_0x0");   </script>  </div>    <div class="footer">   <h4 class="color_white">The Altoona Mirror</h4>   <p>301 Cayuga Ave. , Altoona, PA 16602 | 814-946-7411</p>   <p>© 2013. All rights reserved.| <a href="/tos.html" target="_blank">Terms of Service and Privacy Policy</a></p>  </div>  </body>    <script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>  <script type="text/javascript">  _uacct = "UA-2488063-1";  urchinTracker();  </script>  </html> 

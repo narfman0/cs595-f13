@@ -1,0 +1,300 @@
+<!DOCTYPE html>
+<html lang="en">
+<head xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:og="http://ogp.me/ns#"
+      xmlns:fb="https://www.facebook.com/2008/fbml">
+          
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <link rel="shortcut icon" type="image/x-icon" href="//dfo9svwruwoho.cloudfront.net/images/favicon.ico">
+
+	<title>Twitpic - Share photos and videos on Twitter</title>
+	
+	<!-- Facebook Meta -->
+<link rel="image_src" href="http://twitpic.com/show/thumb/det6dl.jpg" />
+
+<meta property="og:title" content="A photo from @MrFabulous915"/>
+
+<meta property="og:type" content="twitpicfbapp:photo" />
+<meta property="og:url" content="http://twitpic.com/det6dl"/>
+<meta property="og:image" content="http://twitpic.com/show/thumb/det6dl"/>
+
+<meta property="og:site_name" content="TwitPic"/>
+<meta property="fb:app_id" content="331538683530736" />
+
+<!-- Twitter Cards -->
+
+  <meta name="twitter:card" value="photo" />
+
+<meta name="twitter:title" value="" />
+<meta name="twitter:description" value="" />
+<meta name="twitter:url" value="https://twitpic.com/det6dl" />
+<meta name="twitter:image" value="https://twitpic.com/show/large/det6dl.jpg" />
+
+  <meta name="twitter:image:width" value="600" />
+  <meta name="twitter:image:height" value="408" />
+
+
+<meta name="twitter:site" value="@twitpic" />
+<meta name="twitter:site:id" value="12925072" />
+<meta name="twitter:creator" value="@MrFabulous915" />
+<meta name="twitter:creator:id" value="130728319" />
+
+
+
+
+<!-- Our Stylesheets -->
+<link rel="stylesheet" type="text/css" href="//dfo9svwruwoho.cloudfront.net/css/baseline/baseline.min.css" />
+<link rel="stylesheet" type="text/css" href="//dfo9svwruwoho.cloudfront.net/css/lib/main.min.css?v5" />
+
+<!-- Required JS Libs -->
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+<script type="text/javascript" src="//dfo9svwruwoho.cloudfront.net/js/ext/jquery.timeago.js"></script>
+<script type="text/javascript" src="//dfo9svwruwoho.cloudfront.net/js/ext/ejs.js"></script>
+<script type="text/javascript" src="//maps.google.com/maps/api/js?sensor=false"></script>
+<script type="text/javascript" src="//dfo9svwruwoho.cloudfront.net/js/swfupload/swfupload.js"></script>
+<script src="//platform.twitter.com/anywhere.js?id=FeB4w6iaI2ICGtL1ZE0jQ&v=1" type="text/javascript"></script>
+
+<script type="text/javascript">
+ var addthis_config = {
+    pubid: 'twitpic',
+    services_exclude: "facebook,twitter"
+  };
+
+  var addthis_share = {
+    title: "",
+    description: "",
+    templates: {
+      twitter: " {{url}} via @TwitPic"
+    }
+  };
+</script>
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=twitpic"></script>
+
+<!-- Our JS Lib -->
+<script type="text/javascript" src="//dfo9svwruwoho.cloudfront.net/js/lib/twitpic.min.js?v8"></script>
+
+<!-- VideoJS -->
+<script type="text/javascript" src="//dfo9svwruwoho.cloudfront.net/js/video-js/video.js"></script>
+<link type="text/css" rel="stylesheet" href="//dfo9svwruwoho.cloudfront.net/js/video-js/video-js.css" />
+<link type="text/css" rel="stylesheet" href="//dfo9svwruwoho.cloudfront.net/js/video-js/skins/vim.css" />
+<!-- End VideoJS -->
+
+<script type="text/javascript">
+	Twitpic.load();
+
+	Twitpic.Config.set({"activeUser":null,"PHPSESSID":"b9382494181759fcc560ea176bec3694","is_mobile":false,"user":{"id":"19361682","twitter_id":"130728319","username":"MrFabulous915","name":"BobbyJoe","location":"9ine1ne5ive","website":"http:\/\/t.co\/dCI4cnOL","bio":"Single Father of 5\nBoys but\nDon't Worry About Me\nCuz I'm Making It\nAnd If I Can't Have It\nThen I'm Taking It!\n#RedSkins #RedSox #Celtics & #Boxing IS MY LIFE","avatar_url":"http:\/\/a0.twimg.com\/profile_images\/378800000480690238\/abfb9f55a27cba5050b6e4fcf2e25254_normal.jpeg","profile_background_color":"C0DEED","profile_text_color":"333333","profile_link_color":"0084B4","profile_sidebar_fill_color":"DDEEF6","profile_background_image_url":"http:\/\/a0.twimg.com\/profile_background_images\/682473387\/68647538059bb48b247882863b140199.jpeg","profile_background_tile":"0","utc_offset":"-25200","geo_enabled":"0","public_updates":"0","public_tagging":"0","banned":"0","timestamp":"2011-03-26 02:48:04","photo_count":"514","photo_only_count":517,"video_only_count":"0","events":null,"images":null,"places":null},"media":{"id":"810936201","short_id":"det6dl","user_id":"19361682","source":"api","message":"","views":36,"width":"640","height":"436","size":"84316","type":"jpg","status_id":"0","in_reply_to_status_id":"0","in_reply_to_user_id":"0","location":"","timestamp":"2013-09-24 23:23:35","tags":null,"video":null,"number_of_comments":"0","user":{"id":"19361682","twitter_id":"130728319","username":"MrFabulous915","name":"BobbyJoe","location":"9ine1ne5ive","website":"http:\/\/t.co\/dCI4cnOL","bio":"Single Father of 5\nBoys but\nDon't Worry About Me\nCuz I'm Making It\nAnd If I Can't Have It\nThen I'm Taking It!\n#RedSkins #RedSox #Celtics & #Boxing IS MY LIFE","avatar_url":"http:\/\/a0.twimg.com\/profile_images\/378800000480690238\/abfb9f55a27cba5050b6e4fcf2e25254_normal.jpeg","profile_background_color":"C0DEED","profile_text_color":"333333","profile_link_color":"0084B4","profile_sidebar_fill_color":"DDEEF6","profile_background_image_url":"http:\/\/a0.twimg.com\/profile_background_images\/682473387\/68647538059bb48b247882863b140199.jpeg","profile_background_tile":"0","utc_offset":"-25200","geo_enabled":"0","public_updates":"0","public_tagging":"0","banned":"0","timestamp":"2011-03-26 02:48:04","photo_count":"514","photo_only_count":517,"video_only_count":"0","events":null,"images":null,"places":null},"faces":null,"comments":null,"events":null,"application":{"id":"36935","title":"TweetCaster","url":"http:\/\/tweetcaster.com","description":"#1 mobile twitter app","timestamp":"2011-09-02 12:02:30"}},"neighbors":[{"id":"810770227","short_id":"depmb7","user_id":"19361682","source":"api","message":"","views":"0","width":"501","height":"640","size":"50959","type":"jpg","status_id":"0","in_reply_to_status_id":"0","in_reply_to_user_id":"0","location":"","timestamp":"2013-09-24 04:21:02","application":null,"user":null,"video":null,"number_of_comments":"0","faces":null,"comments":null,"events":null,"tags":null},{"id":"810760958","short_id":"depf5q","user_id":"19361682","source":"api","message":"","views":"0","width":"523","height":"640","size":"65276","type":"jpg","status_id":"0","in_reply_to_status_id":"0","in_reply_to_user_id":"0","location":"","timestamp":"2013-09-24 03:11:34","application":null,"user":null,"video":null,"number_of_comments":"0","faces":null,"comments":null,"events":null,"tags":null},{"id":"810760718","short_id":"depez2","user_id":"19361682","source":"api","message":"","views":"0","width":"640","height":"480","size":"60856","type":"jpg","status_id":"0","in_reply_to_status_id":"0","in_reply_to_user_id":"0","location":"","timestamp":"2013-09-24 03:09:49","application":null,"user":null,"video":null,"number_of_comments":"0","faces":null,"comments":null,"events":null,"tags":null},{"id":"810745458","short_id":"dep376","user_id":"19361682","source":"api","message":"","views":"0","width":"505","height":"640","size":"70675","type":"jpg","status_id":"0","in_reply_to_status_id":"0","in_reply_to_user_id":"0","location":"","timestamp":"2013-09-24 00:52:02","application":null,"user":null,"video":null,"number_of_comments":"0","faces":null,"comments":null,"events":null,"tags":null},{"id":"810744315","short_id":"dep2bf","user_id":"19361682","source":"api","message":"","views":"0","width":"559","height":"640","size":"108629","type":"jpg","status_id":"0","in_reply_to_status_id":"0","in_reply_to_user_id":"0","location":"","timestamp":"2013-09-24 00:41:09","application":null,"user":null,"video":null,"number_of_comments":"0","faces":null,"comments":null,"events":null,"tags":null},{"id":"810424126","short_id":"dei79a","user_id":"19361682","source":"api","message":"","views":"0","width":"465","height":"640","size":"60544","type":"jpg","status_id":"0","in_reply_to_status_id":"0","in_reply_to_user_id":"0","location":"","timestamp":"2013-09-21 23:47:12","application":null,"user":null,"video":null,"number_of_comments":"0","faces":null,"comments":null,"events":null,"tags":null},{"id":"810352948","short_id":"degoc4","user_id":"19361682","source":"api","message":"","views":"0","width":"426","height":"640","size":"103465","type":"jpg","status_id":"0","in_reply_to_status_id":"0","in_reply_to_user_id":"0","location":"","timestamp":"2013-09-21 14:19:51","application":null,"user":null,"video":null,"number_of_comments":"0","faces":null,"comments":null,"events":null,"tags":null},{"id":"810192823","short_id":"ded8s7","user_id":"19361682","source":"api","message":"","views":"0","width":"520","height":"640","size":"82438","type":"jpg","status_id":"0","in_reply_to_status_id":"0","in_reply_to_user_id":"0","location":"","timestamp":"2013-09-21 00:51:18","application":null,"user":null,"video":null,"number_of_comments":"0","faces":null,"comments":null,"events":null,"tags":null},{"id":"810139816","short_id":"dec3vs","user_id":"19361682","source":"api","message":"","views":"0","width":"640","height":"480","size":"123838","type":"jpg","status_id":"0","in_reply_to_status_id":"0","in_reply_to_user_id":"0","location":"","timestamp":"2013-09-20 16:55:18","application":null,"user":null,"video":null,"number_of_comments":"0","faces":null,"comments":null,"events":null,"tags":null},{"id":"810056279","short_id":"deabfb","user_id":"19361682","source":"api","message":"","views":"0","width":"480","height":"467","size":"38678","type":"jpg","status_id":"0","in_reply_to_status_id":"0","in_reply_to_user_id":"0","location":"","timestamp":"2013-09-20 10:56:17","application":null,"user":null,"video":null,"number_of_comments":"0","faces":null,"comments":null,"events":null,"tags":null},{"id":"809976422","short_id":"de8lt2","user_id":"19361682","source":"api","message":"","views":"0","width":"600","height":"600","size":"80032","type":"jpg","status_id":"0","in_reply_to_status_id":"0","in_reply_to_user_id":"0","location":"","timestamp":"2013-09-20 01:58:53","application":null,"user":null,"video":null,"number_of_comments":"0","faces":null,"comments":null,"events":null,"tags":null},{"id":"811223150","short_id":"dezbse","user_id":"19361682","source":"api","message":"","views":"0","width":"640","height":"480","size":"61218","type":"jpg","status_id":"0","in_reply_to_status_id":"0","in_reply_to_user_id":"0","location":"","timestamp":"2013-09-26 11:00:04","application":null,"user":null,"video":null,"number_of_comments":"0","faces":null,"comments":null,"events":null,"tags":null},{"id":"811157314","short_id":"dexwzm","user_id":"19361682","source":"api","message":"","views":"0","width":"640","height":"480","size":"111257","type":"jpg","status_id":"0","in_reply_to_status_id":"0","in_reply_to_user_id":"0","location":"","timestamp":"2013-09-26 02:45:03","application":null,"user":null,"video":null,"number_of_comments":"0","faces":null,"comments":null,"events":null,"tags":null},{"id":"811142057","short_id":"dexl7t","user_id":"19361682","source":"api","message":"","views":"0","width":"360","height":"640","size":"110681","type":"jpg","status_id":"0","in_reply_to_status_id":"0","in_reply_to_user_id":"0","location":"","timestamp":"2013-09-26 00:18:19","application":null,"user":null,"video":null,"number_of_comments":"0","faces":null,"comments":null,"events":null,"tags":null},{"id":"811115910","short_id":"dex11i","user_id":"19361682","source":"api","message":"","views":"0","width":"640","height":"480","size":"92746","type":"jpg","status_id":"0","in_reply_to_status_id":"0","in_reply_to_user_id":"0","location":"","timestamp":"2013-09-25 19:17:59","application":null,"user":null,"video":null,"number_of_comments":"0","faces":null,"comments":null,"events":null,"tags":null},{"id":"811114983","short_id":"dex0br","user_id":"19361682","source":"api","message":"","views":"0","width":"620","height":"640","size":"62414","type":"jpg","status_id":"0","in_reply_to_status_id":"0","in_reply_to_user_id":"0","location":"","timestamp":"2013-09-25 19:07:25","application":null,"user":null,"video":null,"number_of_comments":"0","faces":null,"comments":null,"events":null,"tags":null},{"id":"810979983","short_id":"deu45r","user_id":"19361682","source":"api","message":"","views":"0","width":"540","height":"538","size":"171155","type":"jpg","status_id":"0","in_reply_to_status_id":"0","in_reply_to_user_id":"0","location":"","timestamp":"2013-09-25 05:53:28","application":null,"user":null,"video":null,"number_of_comments":"0","faces":null,"comments":null,"events":null,"tags":null},{"id":"810946408","short_id":"dete94","user_id":"19361682","source":"api","message":"","views":"0","width":"470","height":"640","size":"84654","type":"jpg","status_id":"0","in_reply_to_status_id":"0","in_reply_to_user_id":"0","location":"","timestamp":"2013-09-25 01:06:44","application":null,"user":null,"video":null,"number_of_comments":"0","faces":null,"comments":null,"events":null,"tags":null},{"id":"810937421","short_id":"det7bh","user_id":"19361682","source":"api","message":"","views":"0","width":"480","height":"640","size":"72990","type":"jpg","status_id":"0","in_reply_to_status_id":"0","in_reply_to_user_id":"0","location":"","timestamp":"2013-09-24 23:35:28","application":null,"user":null,"video":null,"number_of_comments":"0","faces":null,"comments":null,"events":null,"tags":null},{"id":"810770227","short_id":"depmb7","user_id":"19361682","source":"api","message":"","views":"0","width":"501","height":"640","size":"50959","type":"jpg","status_id":"0","in_reply_to_status_id":"0","in_reply_to_user_id":"0","location":"","timestamp":"2013-09-24 04:21:02","application":null,"user":null,"video":null,"number_of_comments":"0","faces":null,"comments":null,"events":null,"tags":null}]});
+Twitpic.Template.store({"name":"rotate","content":"<div id=\"rotate\">\n\t<div id=\"rotate-background\"><\/div>\n\t<div id=\"rotate-wrap\">\n\t\t<div id=\"rotate-controls\" class=\"clear\">\n\t\t\t<div class=\"rotate left\" data-dir=\"cc\">\n\t\t\t\t<img src=\"\/images\/hud-img-arrow-cc.png\" \/>\n\t\t\t\tRotate Left\n\t\t\t<\/div>\n\t\t\t\t\t\t<div class=\"rotate right\" data-dir=\"c\">\n\t\t\t\tRotate Right\n\t\t\t\t<img src=\"\/images\/hud-img-arrow.png\" \/>\n\t\t\t<\/div>\n\t\t<\/div>\n\t\t<div id=\"rotate-image\">\n\t\t\t<img src=\"\/show\/large\/<%=short_id%>\" \/>\n\t\t<\/div>\n\t<\/div>\n<\/div>\n"});
+Twitpic.Template.store({"name":"facetag_editor","content":"<div id=\"facetag-editor\">\n  <div class=\"left\">\n    <div id=\"facetag-left-arrow\"><\/div>\n  <\/div>\n  <div class=\"right\">\n    <p><small>Name<\/small><\/p>\n    <input type=\"text\" name=\"name\" \/>\n\n    <p><small>Twitter Username<\/small><\/p>\n    <input type=\"text\" name=\"username\" value=\"@\" \/>\n\n    <p><input type=\"checkbox\" name=\"reply\" value=\"1\" checked=\"true\" \/> Post to Twitter<\/p>\n\n    <div id=\"facetag-save\">\n      <input type=\"button\" class=\"red-button\" value=\"Delete\" name=\"delete\" \/>\n      <input type=\"button\" class=\"grey-button\" value=\"Cancel\" name=\"cancel\" \/>\n      <input type=\"button\" class=\"grey-button\" value=\"Save\" name=\"save\" \/>\n    <\/div>\n  <\/div>\n<\/div>"});
+Twitpic.Template.store({"name":"search_photo","content":"<div class=\"user-photo-wrap\">\n  <div class=\"user-photo left\">\n    <a href=\"<%=link%>\">\n      <img src=\"<%=thumb%>\" \/>\n    <\/a>\n  <\/div>\n<\/div>"});
+Twitpic.Template.store({"name":"realtime_image","content":"<div class=\"image-wrap\" data-id=\"<%= id %>\">\n  <div class=\"image\">\n    <img src=\"http:\/\/twitpic.com\/show\/large\/<%= short_id %>\" \/>\n  <\/div>\n\n  <div class=\"image-info\">\n    <h1><%= user.name %> <small>@<%= user.username %><\/small><\/h1>\n    <p><%= message %><\/p>\n  <\/div>\n<\/div>"});
+Twitpic.Template.store({"name":"comment","content":"<div class=\"comment clear\" data-id=\"<%=id%>\">\n\t<div class=\"avatar left\">\n\t\t<img src=\"<%=user.avatar_url.replace('normal', 'reasonably_small')%>\" \/>\n\t<\/div>\n\t<div class=\"comment-content right\">\n\t\t<div class=\"comment-header\">\n\t\t\t<h4 class=\"reset-height\">\n\t\t\t\t<a href=\"\/photos\/<%=user.username%>\"><%=user.username%><\/a> \n\t\t\t\t<small>\n\t\t\t\t\t<%=$.timeago(new Date(timestamp.replace('-', '\/')))%>\n\t\t\t\t\t<span class=\"comment-delete\"><img src=\"\/images\/delete.png\" \/> delete<\/span>\n\t\t\t\t<\/small>\n\t\t\t<\/h4>\n\t\t<\/div>\n\t\t<div class=\"comment-body\">\n\t\t\t<p><%=message_html%><\/p>\n\t\t<\/div>\n\t<\/div>\n<\/div>"});
+Twitpic.Template.store({"name":"facetag","content":"<div \n  class=\"facetag\" \n  data-id=\"<%=id%>\" \n  data-name=\"<%=typeof name !== 'undefined' ? name : ''%>\"\n  data-username=\"<%=typeof username !== 'undefined' ? username : ''%>\"\n  style=\"top:<%=top%>px;left:<%=left%>px;\">\n\n  <div class=\"facetag-inner\">\n    <% if (!isNew && canEdit) { %>\n    <p class=\"facetag-edit\"><strong>Edit?<\/strong><\/p>\n    <% } %>\n  <\/div>\n  <% if (typeof name !== \"undefined\") { %>\n  <div class=\"facetag-name\">\n    <%=name%>\n    <%= typeof username !== \"undefined\" && username !== null && username.length > 0 ? \"(@\" + username + \")\" : \"\" %>\n  <\/div>\n  <% } %>\n<\/div>"});
+Twitpic.Template.store({"name":"event_tag","content":"<div class=\"event\">\n  <h5 class=\"reset-height\">\n  \t<a href=\"\/e\/<%=id.toString(36)%>\"><%=name%><\/a>\n  \t<small><%= hash_trigger ? \"#\" + hash_trigger : \"\" %><\/small>\n  <\/h5>\n<\/div>"});
+Twitpic.Template.store({"name":"location_result","content":"<div class=\"location-result\" data-id=\"<%=id%>\">\n  <h4><%=name%><\/h4>\n  <p><%= typeof street_address !== \"undefined\" ? street_address : full_name %><\/p>\n<\/div>"});
+Twitpic.Modal.store({"name":"upload","content":"\n<form id=\"upload-modal\" action=\"\/upload\/process\" method=\"post\" enctype=\"multipart\/form-data\">\n\t<input type=\"hidden\" name=\"form_auth\" value=\"fcbf7fb44d92d1c1ced259cea95ffa78245314bb\" \/>\n\t<div id=\"select-media\">\n\t\t<h4>Select photo or video<\/h4>\n\t\n\t\t<div id=\"media-upload-wrap\">\n\t\t\t<div id=\"media-upload\"><\/div>\n\t\t<\/div>\n\t\t\n\t\t<p id=\"upload-meta\"><small><b>\n\t\t\tReady to upload <span id=\"media-upload-name\"><\/span> (<span id=\"media-upload-size\"><\/span>) as <span id=\"media-upload-type\">\n\t\t<\/span><\/b><\/small><\/p>\n\t\t\n\t\t<p><small>We take GIF, JPG, & PNG images up to 10MB in size, and videos up to 3:00 in length in most formats.<\/small><\/p>\n\t\t<p><small>Having problems uploading? Try the <a href=\"\/upload\">simple uploader<\/a> instead.<\/small><\/p>\n\t<\/div>\n\t\n\t<div id=\"upload-caption\" class=\"upload-section\">\n\t\t<div class=\"clear\">\n\t\t\t<h4 class=\"left\">Caption<\/h4>\n\t\t\t<p class=\"right\"><span id=\"upload-chars-left\">114<\/span> <small>(twitter limit only)<\/small><\/p>\n\t\t<\/div>\n\t\t\n\t\t<textarea name=\"message\"><\/textarea>\n\t<\/div>\n\t\n\t<div id=\"upload-options\" class=\"upload-section\">\n\t\t<h4>Post Options<\/h4>\n\t\t<div>\n\t\t\t<label for=\"save_location\">\n\t\t\t\t<input type=\"checkbox\" name=\"save_location\" id=\"save_location\" checked=\"checked\" value=\"1\" \/> Set Location (if available)\n\t\t\t<\/label>\n\t\t<\/div>\n\n\t\t<h4>Share to<\/h4>\n\t\t\n\t\t<div id=\"share-options\">\n\t\t\t<label for=\"post_photo\"><input type=\"checkbox\" name=\"post_photo\" id=\"post_photo\" checked=\"checked\" value=\"1\" \/> Twitter<\/label>\n\n\t\t\t\t\t<\/div>\n\t\t\n\t<\/div>\n\t\n\t<div id=\"upload-submit\" class=\"clear\">\n\t\t<div class=\"left\">\n\t\t\t<div id=\"upload-progress-wrap\">\n\t\t\t\t<div id=\"upload-progress\"><\/div>\n\t\t\t<\/div>\n\t\t\t<p id=\"upload-progress-amount\" class=\"left\"><\/p>\n\t\t<\/div>\n\t\t<div class=\"right\">\n\t\t\t<input type=\"submit\" value=\"Upload\" class=\"grey-button\" id=\"upload-button\" \/>\n\t\t<\/div>\n\t<\/div>\n<\/div>\n\n"});
+</script>
+
+<script type="text/javascript">if(navigator.userAgent.match(/iphone|ipad|ipod|android/i))document.write('\x3cscript type="text/javascript" src="http://overpass.mobiletheory.com/325?keywords=">\x3c/script>');</script>
+</head>
+<body>  
+	<div id="fb-root"></div>
+	
+	<!--<div id="announcement">
+	<p>Get the official <a href="http://itunes.apple.com/us/app/twitpic/id523490954">Twitpic for iPhone</a> or <a href="https://play.google.com/store/apps/details?id=com.twitpic">Twitpic for Android</a> apps</p>
+</div>-->
+
+<div id="navbar-wrap">
+	<div id="navbar" class="header">
+		<div id="navbar-main">
+			<div id="logo" class="left">
+				<a href="/"><img src="//dfo9svwruwoho.cloudfront.net/images/logo.png" alt="Twitpic" /></a>
+			</div>
+			
+			<div id="nav-links" class="right">
+				<ul class="inline-list">
+										<li><a href="/session/new">Login or Register</a></li>
+									</ul>
+			</div>
+		</div>
+	</div>
+</div>	
+			<div id="infobar-wrap">
+	<div id="infobar" class="clear ">
+		<div id="infobar-left" class="left">
+	<div id="infobar-user-avatar" class="left">
+		<a href="/photos/MrFabulous915">
+			<img src="http://a0.twimg.com/profile_images/378800000480690238/abfb9f55a27cba5050b6e4fcf2e25254_reasonably_small.jpeg" />
+		</a>
+	</div>
+	<div id="infobar-user-info" class="right">
+		<h2>BobbyJoe</h2>
+		<h4><a href="/photos/MrFabulous915">@MrFabulous915</a></h4>
+		<p>Single Father of 5
+Boys but
+Don't Worry About Me
+Cuz I'm Making It
+And If I Can't Have It
+Then I'm Taking It!
+#RedSkins #RedSox #Celtics & #Boxing IS MY LIFE</p>
+	</div>
+</div>
+
+<div id="infobar-right" class="media-info right">
+			<div id="media-neighbors">
+	<div class="neighbors-control"><div class="control-left"></div></div>
+	
+	<span id="neighbor-images">
+		  <a href="/depmb7"><img src="http://d3j5vwomefv46c.cloudfront.net/photos/mini/810770227.jpg?1379996462" /></a>
+		  <a href="/depf5q"><img src="http://d3j5vwomefv46c.cloudfront.net/photos/mini/810760958.jpg?1379992294" /></a>
+		  <a href="/depez2"><img src="http://d3j5vwomefv46c.cloudfront.net/photos/mini/810760718.jpg?1379992189" /></a>
+		</span>
+	
+	<div class="neighbors-control"><div class="control-right"></div></div>
+			
+</div>	</div>	</div>
+	<div id="infobar-wedge">
+		<img src="//dfo9svwruwoho.cloudfront.net/images/info-wedge.png" />
+	</div>
+</div>		
+	<div id="content" class="content  clear">
+		<div id="media-main" class="left-content">
+			<div id="media" style="width:600px;">
+  <div id="media-overlay">
+    <div>
+      <span id="rotate-open"><img src="/images/hud-img-arrow.png" /> Rotate photo</span>
+      <span>
+        <a href="/det6dl/full">
+          <img src="/images/hud-img-plus.png" /> View full size
+        </a>
+      </span>
+    </div>
+  </div>
+
+  <img src="http://d3j5vwomefv46c.cloudfront.net/photos/large/810936201.jpg?1380065015" alt="" style="width:600px;" />
+</div>
+		
+	<div id="media-caption">
+		<div id="media-stats" class="right">
+			<div class="media-stat">
+				<p><img src="/images/views-icon.png" alt="Views" /> 
+				36</p>
+			</div>
+			<div class="media-stat">
+				<p>2 days ago</p>
+			</div>
+		</div>
+		
+		<p>
+			
+			<span id="facetag-text">
+			
+				
+				<span id="facetag-names">
+									</span>
+
+							</span>
+		</p>
+	</div>
+	
+	<div id="media-comments">		
+		<div id="comments">
+						
+			<h2>
+				<span id="num-comments">0</span>
+				Comments			</h2>
+			
+							<div id="realtime-toggle" class="disabled" data-init="false">
+					<p><small>Realtime comments <span class="state">disabled</span></small></p>
+				</div>
+			
+			<div id="comment-wrap">
+						</div>
+		</div>
+	</div>
+</div>
+
+<div id="media-sidebar" class="right-content">
+		<!-- <div style="font-size:12px;color:#cacaca;font-weight: normal;"><a style="text-decoration:none;color:#cacaca;font-weight: normal;" href="http://advertise.twitpic.com">Advertise on Twitpic</a></div> -->
+
+	<div id="social-plugins">
+  <div id="social-twitter">
+    <a href="https://twitter.com/share" class="twitter-share-button" data-text="" data-via="TwitPic" data-related="TwitPic" data-count="vertical">Tweet</a>
+  </div>
+  
+  <div id="social-facebook">
+    <div class="fb-like" data-send="false" data-layout="box_count" data-width="60" data-show-faces="false"></div>
+  </div>
+    
+  <div id="social-addthis">
+    <div class="addthis_toolbox addthis_default_style ">
+      <a class="addthis_counter"></a>
+    </div>
+  </div>
+</div>		
+	
+	<div class="sidebar-section">
+  <h3 class="reset-height">Embed this Photo</h3>
+  <p class="reset-height"><small>Copy & paste this code into your website</small></p>
+  <textarea class="photo-embed" readonly="true">&lt;a href=&quot;http://twitpic.com/det6dl&quot; title=&quot;Share photos on twitter with Twitpic&quot;&gt;&lt;img src=&quot;http://twitpic.com/show/thumb/det6dl.jpg&quot; width=&quot;150&quot; height=&quot;150&quot; alt=&quot;Share photos on twitter with Twitpic&quot;&gt;&lt;/a&gt;</textarea>
+</div>
+					
+</div>
+	</div>
+	
+	<div id="footer">
+  <div class="left">
+    <p>&copy;2013 Twitpic Inc, All Rights Reserved</p>
+  </div>
+  <div class="right">
+    <p>
+      <a href="/">Home</a>
+      <a href="/faq.do">FAQ</a>
+      <a href="/contact.do">Contact</a>
+      <a href="http://dev.twitpic.com">API</a>
+      <a href="http://advertise.twitpic.com">Advertise</a>
+      <a href="/terms.do">Terms</a>
+      <a href="/privacy.do">Privacy</a>
+    </p>
+  </div>
+</div>
+
+<script type="text/javascript" src="//platform.twitter.com/widgets.js"></script>
+<script type="text/javascript" src="//connect.facebook.net/en_US/all.js#xfbml=1&appId=331538683530736"></script>
+
+  <script type="text/javascript">
+  var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+  document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+  </script>
+  <script type="text/javascript">
+  var pageTracker = _gat._getTracker("UA-1618034-6");
+  pageTracker._initData();
+  pageTracker._trackPageview();
+  </script>
+
+  <!-- Start Quantcast tag -->
+  <script type="text/javascript">
+  _qoptions={
+  qacct:"p-28dQY-2rVKMYI"
+  };
+  </script>
+  <script type="text/javascript" src="//secure.quantserve.com/quant.js"></script>
+  <noscript>
+  <img src="//secure.quantserve.com/pixel/p-28dQY-2rVKMYI.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
+  </noscript>
+  <!-- End Quantcast tag -->
+
+
+
+
+<iframe name="_rlcdn" width=0 height=0 frameborder=0 src="http://rc.rlcdn.com/332971.html"></iframe>
+
+
+<script>
+(function(a,b,c){function d(){var a=b.createElement(c),d=b.getElementsByTagName(c)[0];a.async=a.src="http://s2.cdnplanet.com/static/rum/rum.js",d.parentNode.insertBefore(a,d)}if(a.location.protocol=="https:")return;a.addEventListener&&a.addEventListener("load",d,!1)})(window,document,"script")
+</script>
+
+
+<!-- Generated by web05 -->
+</body>
+</html>

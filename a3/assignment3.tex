@@ -1,0 +1,51 @@
+\documentclass{article}
+\usepackage[pdftex]{graphicx}
+\usepackage{listings}
+\usepackage{xcolor}
+\lstset{basicstyle=\ttfamily,
+  showstringspaces=false,
+  commentstyle=\color{red},
+  keywordstyle=\color{blue}
+}
+\begin{document}
+
+\author{Jon Robison}
+\title{CS595 Assignment 3}
+\maketitle
+
+Q1. Download the 1000 URIs from assignment 2...remove formatting \\
+Large collection of files included in modified/ directory \\
+See Appendix A for download program
+\\*
+
+Q2. Choose a query term...to ten documents...compute TFIDF values for the term
+in each of the 10 documents. \\
+\lstinputlisting[language=R]{q2/results}
+See Appendix B for scripts to produce table
+\\*
+
+Q3. Now rank the same 10 URIs from question 2, but this time by their
+PageRank. \\
+\lstinputlisting[language=R]{q3/results}
+Briefly compare and contrast the rankings produced in questions 2
+and 3.
+
+A3: Top TFIDF was floydmayweather.com. This was one of two non-zero scoring
+options, and I infer TFIDF was heavily weighted in the pagerank calculation.
+This would result in being calculated as number one. themoneyteam.com on the
+other hand is relatively low TFIDF, but is a domain in and of itself, thus
+disproportionately large TFIDF. It is unfortunate the other pages weren't
+page ranked, but I predict they would have linearly small results.
+
+\newpage
+\appendix
+Appendix A
+\lstinputlisting[language=bash,caption={Downloads via curl and lynxifies product to produce a more easily searchable/indexable file}]{q1/download}
+
+\newpage
+Appendix B
+\lstinputlisting[language=bash,caption={Control runscript to launch other utils}]{q2/run}
+\lstinputlisting[language=bash,caption={Script taking arguments to calculate single TFIDF}]{q2/tfidf}
+\lstinputlisting[language=bash,caption={Copied first ten files matching criteria passed in}]{q2/copyTen}
+
+\end{document} 

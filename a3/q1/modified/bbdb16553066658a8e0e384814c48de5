@@ -1,0 +1,1152 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>Miley Cyrus, en shock por Eiza y Liam</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="tabascohoy, tabascohoy.com, Tabasco Hoy, Diario, periodico, noticias, Mexico, internacional, economia, Villahermosa, politica, analisis, el pais, sureste, justicia, economia domestica y negocios, mundo, espectaculos, show, loteria, entretenimiento, cultura, dinero, opinion, ultimas noticias, deportes, sport, internet, Salud, Elite, Clasificados, newspaper, news, breaking news, urgente, technology, tiempo, weather, buscador, search" />
+<meta name="DC.Title" content="TabascoHOY.com" />
+<meta name="DC.Publisher" content="Editorial Acuario S.A. de C.V." />
+<meta name="DC.Contributors" content="Editorial Acuario S.A. de C.V." />
+<meta name="DC.Creator" content="Editorial Acuario S.A. de C.V." />
+<meta http-equiv="DC.Description" content="TabascoHOY.com" />
+<meta http-equiv="Cache-Control" content="no-cache" />
+<meta http-equiv="Pragma" content="no-cache" />
+<meta http-equiv="Content-Language" content="es" />
+<meta http-equiv="description" content="TabascoHOY.com" />
+<meta http-equiv="keywords" content="tabascohoy, tabascohoy.com, Tabasco Hoy, Diario, periodico, noticias, Mexico, internacional, economia, Villahermosa, politica, analisis, el pais, sureste, justicia, economia domestica y negocios, mundo, espectaculos, show, loteria, entretenimiento, cultura, dinero, opinion, ultimas noticias, deportes, sport, internet, Salud, Elite, Clasificados, newspaper, news, breaking news, urgente, technology, tiempo, weather, buscador, search" />
+<meta name="author" content="Editorial Acuario S.A. de C.V." />
+<meta name="Revisit" content="1 days" />
+<meta name="revisit-after" content="1 days" />
+<meta name="robots" content="all,index,follow" />
+<meta name="language" content="Spanish" />
+<meta name="DC.Language" scheme="RFC1766" content="Spanish" />
+<meta name="VW96.ObjectType" content="Homepage" />
+<meta name="distribution" content="global" />
+<meta name="resource-type" content="document" />
+<meta http-equiv="Pragma" content="cache" />
+<meta name="classification" content="Commerce" />
+<meta name="rating" content="General" />
+<meta name="doc-type" content="Journal" />
+<meta name="doc-class" content="Completed" />
+<meta name="doc-rights" content="Public Domain" />
+<meta name="GENERATOR" content="http://www.tabascohoy.com/" />
+<meta name="Publisher" content="Editorial Acuario S.A. de C.V." />
+<meta name="Pagetype" content="Productinfo" />
+<meta name="Audience" content="All" />
+<meta http-equiv="pragma" content="no-cache" />
+<meta name="Abstract" content="TabascoHoy.com" />
+<meta name="DC.Language" scheme="RFC1766" content="Spanish" />
+<meta name="Copyright" content="Editorial Acuario S.A. de C.V." />
+<link rel="shortcut icon" href="http://www.tabascohoy.com/2/favicon.ico" type="image/x-icon">
+<meta http-equiv="Reply-to" content="enlinea@tabascohoy.com" />
+<link rev="made" href="mailto:enlinea@tabascohoy.com" />
+<link href="./../css/plantilla.css" rel="stylesheet" type="text/css" />
+<link href="./../css/fuentes.css" rel="stylesheet" type="text/css" />
+<link href="./../css/header.css" rel="stylesheet" type="text/css" />
+<link href="./../css/footer.css" rel="stylesheet" type="text/css" />
+<link href="./../includes/plugins/jquery/jquery_ui/flick/jquery-ui.custom.css" rel="stylesheet" type="text/css" />
+<link href="http://www.grupocanton.com/colector/plugins/lightbox/jquery.lightbox.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="./../includes/plugins/jquery/jquery.min.js"></script>
+<script type="text/javascript" src="./../includes/plugins/jquery/jquery_ui/jquery-ui.custom.min.js"></script>
+<script type="text/javascript" src="./../includes/plugins/jquery/jquery_galerytop/jquery.galerytop.js"></script>
+<script type="text/javascript" src="./../includes/plugins/jquery/jquery_jclock/jquery.jclock.js"></script>
+<script type="text/javascript" src="./../includes/plugins/jquery/jquery_cookie/jquery.cookie.js"></script>
+<script type="text/javascript" src="./../includes/js/eventos_plantilla.js"></script>
+<script type="text/javascript" src="http://www.grupocanton.com/colector/plugins/lightbox/jquery.lightbox.min.js"></script><meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@TabascoHOY">
+<meta name="twitter:title" content="Miley Cyrus, en shock por Eiza y Liam">
+<meta name="twitter:description" content="Allegados a la cantante aseguran que ha tachado al actor de hipócrita, pues está muy dolida">
+<meta name="twitter:creator" content="@TabascoHOY"><meta name="twitter:image:src" content="http://www.grupocanton.com/all/imagenes/1/2013/09/24/150369_grande_nxiqeEZr.jpg"><meta name="twitter:domain" content="tabascohoy.com">
+<link href="../css/nota.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript">
+$(function() {
+  // Font-size dinamico
+  $("#bt_font_mas").click(function() { $("#noticia_texto span").ampliarFont(); });
+  $("#bt_font_mns").click(function() { $("#noticia_texto span").reducirFont(); });
+
+  // Especiales Acordión
+  $("#especiales_acordion").accordion({ icons:false, fillSpace:true });
+
+  // Lightbox
+  $(".lightbox").lightbox();
+
+  // Slide videos
+  $(".bt_extra2").click(function() {
+    var clave = this.rel;
+    var video = $(this).attr("data-rel");
+    lightbox_video(clave,video,"");
+  });
+
+  // Slide galeria
+  $(".bt_extra1").click(function() {
+    var clave = this.rel;
+    var fotos = JSON.parse($(this).attr("data-rel"));
+    lightbox_galeria(clave,fotos,"");
+  });
+
+  // Selección de codigo link
+  $(".cnt_comp_tags>div:last-child input").click(function() { $(this).select(); });
+
+  // Eventons del text nombre
+  if($("#coment_nombre").val()!=="Escribe un nombre") { $("#coment_nombre").css("color","#333"); }
+  else if($("#coment_nombre").val()=="") { $("#coment_nombre").val("Escribe un nombre").css("color","#CCC"); }
+
+  if($("#coment_texto").val()!=="Escribe tu mensaje"){ $("#coment_texto").css("color","#333"); }
+  else if($("#coment_texto").val()=="") { $("#coment_texto").val("Escribe tu mensaje").css("color","#CCC"); }
+
+  $("#coment_nombre").bind("focus blur",function() {
+    var v = $(this).val();
+    if(v=="Escribe un nombre") { $(this).val("").css("color","#333"); }
+    else if(v=="") { $(this).val("Escribe un nombre").css("color","#CCC"); }
+  });
+
+  $("#coment_texto").bind("focus blur",function() {
+    var v = $(this).val();
+    if(v=="Escribe tu mensaje") { $(this).val("").css("color","#333"); }
+    else if(v=="") { $(this).val("Escribe tu mensaje").css("color","#CCC"); }
+  });
+
+  // Eventos de envío
+  $("#coment_envio").click(function() {
+    var clv = $("#coment_clave").val();
+    var nmb = $("#coment_nombre").val();
+    var txt = $("#coment_texto").val();
+
+    if(nmb!=="" && nmb!==" " && nmb!==undefined && nmb!==null) {
+      if(!(/^[a-z A-Z á é í ó ú ñ ü Á É Í Ó Ú Ñ Ü ]{3,}$/.test(nmb))) {
+        alert("El campo nombre debe incluir sólo letras, mínimo 3 caracteres.");
+        $("#coment_nombre").focus();
+        return false;
+      }
+    }
+    else if(nmb=="" && nmb==" ") {
+      alert("El campo nombre está vacío...");
+      $("#coment_nombre").focus();
+      return false;
+    }
+
+    if(nmb=="Escribe un nombre") {
+      alert("Debes poner tu nombre en el campo");
+      $("#coment_nombre").focus();
+      return false;
+    }
+
+    if(txt!=="" && txt!==" " && txt!==undefined && txt!==null) {
+      if(!(/^[a-z A-Z 0-9 á é í ó ú ü ñ Á É Í Ó Ú Ñ Ü @ \. \, ; : _ \\ \= \- \' \" \/ \@ \¡ \! \¿ \?]{5,}$/.test(txt))) {
+        alert("El campo comentario debe incluir sólo caracteres y números válidos, mínimo 5 caracteres.");
+        $("#coment_texto").focus();
+        return false;
+      }
+    }
+    else if(txt=="" && txt==" ") {
+      alert("El campo comentario está vacío...");
+      $("#coment_texto").focus();
+      return false;
+    }
+
+    if(txt=="Escribe tu mensaje") {
+      alert("Debes de poner un comentario en el campo");
+      $("#coment_texto").focus();
+      return false;
+    }
+
+    $.ajax({ url:"../includes/servicios/comentarios_guardar_comentario.php", type: "POST", data:{ clv:clv, nmb:nmb, txt:txt, tip:1},
+      success: function(d) {
+        var msj = "";
+        $("#coment_nombre").empty().val("Escribe un nombre").css("color","#CCC");
+        $("#coment_texto").empty().val("Escribe tu mensaje").css("color","#CCC");
+
+        if(d!==undefined && d!=="" && d!==null) msj=d;
+        else {
+          var nobj = $(".aux_coment_item").clone();
+          $(".notas_comntarios").after(nobj.attr({"id":"aux_coment_item","class":"coment_item"}).removeClass("aux_coment_item"));
+          $("#aux_coment_item .fecha_comentario").text("Por aprobar - "+$.datepicker.formatDate('yy-m-dd', new Date()));
+          $("#aux_coment_item .nombre_comentario").text(nmb);
+          $("#aux_coment_item .text_comentario").text(txt);
+          $("#aux_coment_item").fadeIn(2000,function(){ $("#aux_coment_item").removeAttr("id"); });
+          msj = "Tu comentario fue agregado correctamente, <br/><b>Gracias</b>.";
+        }
+        $("<div>"+msj+"</div>").dialog({ title: "Aviso" });
+      }
+    });
+  });
+
+  $("#coment_terminos").click(function() {
+    $(".contenedores_terminos").dialog({ title:"Terminos de uso", width:500, resize:false, modal:true });
+  });
+
+  // Eventos botón coment
+  $(".noticia_tcoment").click(function() {
+    var y = $(".notas_comntarios").position();
+    $('html, body').animate({ scrollTop: y.top }, 'slow');
+  });
+});
+</script>
+</head>
+
+<body>
+<!-- Inicia Macro Header -->
+
+  <!-- Inicia Bandera Septiembre
+  <div style="position:relative; width:960px !important; margin:0px auto 10px auto;">
+    <img src="http://www.ftpgrupocanton.com/especiales/informe/bandera.jpg" width="960" height="40" alt="" /></div>
+  Inicia Bandera Septiembre -->
+
+  <!-- Inicia Publicidad -->
+  <div id="m_header_publicidad"><a href="http://www.grupocanton.com/publicidad/click.php?p=1&s=nota&e=top_banner&a=altozano" target="_blank"><img src="http://eid.com.mx/publicidad/altozano.gif" width="728" height="90" alt="" /></a></div>
+  <!-- Fin de Publicidad -->
+  
+  <!-- Inicia Header Contenido -->
+  <div id="m_header">
+    <div id="c_header">
+      <div style="position:absolute; left:-170px; top:0px; width:373px; height:136px;">
+        <a href="./../"><img id="img_logo_prin" src="./../imgs/temp/logo_yo_sigo_th.png" width="373" height="136" alt=""></a></div>
+
+      <!-- Inicia Redes -->
+      <div id="c_header_social">
+        <span id="header_reloj" class="fc_gray_soft fwb"></span>
+        <span id="header_fecha" class="fc_gray_soft">Jueves, 26 de Septiembre del 2013</span>
+        <span id="header_siguenos" class="fc_gray_soft fwb">S&Iacute;GUENOS</span>
+        <a href="http://www.facebook.com/pages/Tabasco-HOY/245011458910858" class="header_img_redes" target="_blank">
+          <img src="./../imgs/imgs_plantilla/icon_facebook.png" width="22" height="22" alt="" /></a>
+        <a href="https://twitter.com/#!/tabascohoy" class="header_img_redes">
+          <img src="./../imgs/imgs_plantilla/icon_twitter.png" width="22" height="22" alt="" /></a>
+        <a href="http://www.youtube.com/user/tabascohoy" class="header_img_redes">
+          <img src="./../imgs/imgs_plantilla/icon_youtube.png" width="22" height="22" alt="" /></a>
+        <a href="./../rss/" class="header_img_redes">
+          <img src="./../imgs/imgs_plantilla/icon_rss.png" width="22" height="22" alt="" /></a>
+        <div id="header_google_plus"><g:plusone size="medium"></g:plusone></div>
+        <span id="header_contacto" class="fc_gray_soft fwb"><span class="fs30">112,894</span> VISITAS &Uacute;NICAS
+        <a href="http://www.statcounter.com/" target="_blank">
+        <img width="20" height="22" alt="Power by StatCounter.com" title="Power by StatCounter.com" src="http://www.tabascohoy.com/2/imgs/statcounter.jpg"></a></span>
+        <!--<a href="./../empresa/contacto.php" class="fc_gray_soft fwb">CONT&Aacute;CTANOS</a>
+        <a id="header_login" href="./../usuarios/" class="fc_gray_soft">INGRESAR</a>-->
+      </div>
+      <!-- Fin de Redes -->
+
+      <!-- Inicia Menú Superior -->
+      <div id="c_header_menu_sup">
+        <a href="#" class="header_link_menu_superior f_helvetica fc_blue_light" style="padding-right:185px;">PIN NOTICIAS BLACKBERRY 231856D1</a>
+        <a href="http://www.eid.com.mx/tarifas.php" class="header_link_menu_superior f_stag_semibold fc_white">SUSCRIPCIONES</a>
+        <a href="https://itunes.apple.com/us/app/tabasco-hoy/id374804838" target="_blank" class="header_link_menu_superior f_stag_semibold fc_white">IPHONE</a>
+        <!--<a href="http://www.eid.com.mx/" class="header_link_menu_superior f_stag_bold fc_blue_light">CELULARES</a>
+        <a href="./../empresa/boletin.php" class="header_link_menu_superior f_stag_bold fc_blue_light">BOLET&Iacute;N DE NOTICIAS</a>
+      </div>-->
+      <!-- Fin de Menú Superior -->
+
+      <!-- Inicia Header Contenido -->
+      <div id="c_header_cmp">
+        <div id="header_cmp_director">
+          <a href="https://twitter.com/miguelcanton1" class="f_stag_book fc_white fs13">DIRECTOR GENERAL</a>
+          <a href="https://twitter.com/miguelcanton1" class="f_stag_semibold fc_white fs13">MIGUEL CANTON ZETINA</a><br />
+          <!--<a href="https://twitter.com/miguelcanton1" class="header_cmp_director_twitter fc_white fs13">@MiguelCanton1</a>-->
+        </div>
+        <div id="header_cmp_servicios">
+        	<!--<a href="http://www.tabascohoy.com/2/temas/index.php?ID=787"><img src="http://tabascohoy.com/2/imgs/cambio_horario_header.png" style="border:none;" /></a>
+          <a id="header_cmp_clasificados" href="javascript:void(0);" class="f_stag_semibold fc_white fs13">CLASIFICADOS</a>-->
+          <!--<a id="header_cmp_consulte" href="javascript:void(0);" class="f_stag_bold fc_blue_soft fs10">CONSULTE</a>
+          <a id="header_cmp_anuncie" href="javascript:void(0);" class="f_stag_bold fc_blue_soft fs10">ANUNCIE</a>
+          <a id="header_cmp_suplementos" href="javascript:void(0);" class="f_stag_bold fc_white fs13">SUPLEMENTOS</a>-->
+        </div>
+        <div class="cmp_mod_clima"><iframe frameborder="0" scrolling="no" width="100" height="45" src="./../includes/modulos/clima.php"></iframe></div>
+        <div id="header_cmp_buscador">
+          <input name="q" id="busqueda_hd" class="f_stag_bold" type="text" />
+          <a class="bt_bsq_notas bt_bsq_ext"></a>
+        </div>
+      </div>
+      <!-- Fin de Header Contenido -->
+
+      <!-- Inicia Menú Principal -->
+      <div id="c_header_menu_principal"><ol>
+        <li><a class="header_link_menu_home f_helvetica fc_white fs13" href="./../index2.php">INICIO</a></li>
+        <li id="header_link_menu_noticias"><a id="menu_noticias" href="./../noticias/" class="header_menu_prin1 f_stag_semibold fc_white fs14">NOTICIAS</a></li>
+        <li id="header_link_menu_deportes"><a id="menu_deportes" href="./../deportes/" class="header_menu_prin2 f_stag_semibold fc_white fs14">DEPORTES</a></li>
+        <li id="header_link_menu_show"><a id="menu_show" href="./../show/" class="header_menu_prin3 f_stag_semibold fc_white fs14">SHOW</a></li>
+        <li id="header_link_menu_vivirbien"><a id="menu_vivirbien" href="./../vivirbien/" class="header_menu_prin4 f_stag_semibold fc_white fs14">VIVIR BIEN</a></li> 
+        <!--<li id="header_link_menu_especial"><a href="./../noticias/voto2013/" class="header_menu_prin5 f_stag_semibold fc_white fs14">VOTO 2013</a></li>-->
+        <li id="header_link_menu_multimedia"><a href="./../multimedia/videos/" class="header_menu_prin6 f_helvetica fc_white fs12">MULTIMEDIA</a></li>
+        <li id="header_link_menu_multimedia"><a href="http://www.tabascohoy.com/clasificados/trabajo/" class="header_menu_prin6 f_helvetica fc_white fs12">TU AVISO</a></li>
+        <li id="header_link_menu_analisis"><a href="./../columnistas/" class="header_menu_prin7 f_helvetica fc_white fs12">COLUMNISTAS</a></li>
+        <li id="header_link_menu_servicios"><a href="./../empresa/servicios.php" class="header_menu_prin8 f_helvetica fc_white fs12">SERVICIOS</a></li>
+      </ol></div>
+      <!-- Fin de Menú Principal -->
+
+      <div style="position:absolute; left:789px; top:0px; width:182px; height:158px;">
+        <a href="javascript:void(0);" onclick="open_url_video('http://www.tabascohoy.com/2/multimedia/television_visor1.php', 'video', 460, 288);"><img width="182" height="158" src="http://www.tabascohoy.com/2/imgs/tv_thumb.png" alt="Ir a Tabasco HOY Televisi&oacute;n" title="Ir a Tabasco HOY Televisi&oacute;n" /></a></div>
+    </div>
+    <!--Fin de Header Contenido -->
+  </div>
+<!-- Fin de Macro Header -->
+
+<!-- Inicia Contenido General -->
+<div id="plantilla">
+  <!-- Inicia Macro Cuerpo -->
+  <div id="m_cuerpo">
+    <!-- Inicia Columna Izquierda -->
+    <div id="c_izquierda">
+      <!-- Inicia Noticia -->
+      <div id="c_noticia">
+        <div id="noticia_seccion"><a href="http://www.tabascohoy.com/2/show/index.php" class="f_stag_black fc_purple fs32" target="_self">SHOW!</a> <span class="f_stag_black fc_purple fs32">/</span> <a href="http://www.tabascohoy.com/2/show/showbiz/index.php" class="f_stag_black fc_purple fs32" target="_self">SHOWBIZ</a></div>
+        <div id="noticia_fecha"><table width="100%" border="0" cellpadding="0" cellspacing="0">
+          <tr>
+            <td valign="top" width="100%"><span class="fc_gray_soft fs12">Publicada: 18:05 del 24/09/2013</span><span class="fc_gray_soft fs12"> -- Ciudad: Ciudad de México</span></td>
+            <td><a class="noticia_tcoment"><img src="./../imgs/icon_comentarios_morado.png" width="22" height="18" alt="" /><span>(0)</span></a></td>
+          </tr>
+        </table></div>
+        <div id="noticia_titulo" class="f_stag_semibold fc_gray_dark fs34">Miley Cyrus, en shock por Eiza y Liam</div>
+        <div id="noticia_sumario" class="fc_gray_dark fs18">Allegados a la cantante aseguran que ha tachado al actor de hipócrita, pues está muy dolida</div>
+        <div id="noticia_imagen_6"><img src="http://www.grupocanton.com/all/imagenes/1/2013/09/24/150369_grande_nxiqeEZr.jpg" width="630" height="355" />
+          <span class="noticia_pie">.</span>
+        </div>
+        <div id="noticia_fuente">
+          <span class="noticia_pie fc_gray_soft" style="color:#000;">Foto: .</span>
+          <a class="bt_font" id="bt_font_mas"></a>
+          <a class="bt_font" id="bt_font_mns"></a>
+        </div>
+        <div id="noticia_compartir">
+          <script type="text/javascript">var addthis_config = { ui_language: "es" }</script>
+          <table width="100%" border="0" cellpadding="0" cellspacing="0">
+            <tr>
+              <td style="padding-right:3px;"><a class="addthis_button_preferred_1"></a></td>
+              <td style="padding-right:3px;"><a class="addthis_button_preferred_2"></a></td>
+              <td style="padding-right:3px;"><a class="addthis_button_preferred_3"></a></td>
+              <td style="padding-right:3px;"><a class="addthis_button_preferred_4"></a></td>
+              <td style="padding-right:3px;"><a class="addthis_button_compact"></a></td>
+              <td style="padding-right:3px;"><a class="addthis_counter addthis_bubble_style"></a></td>
+              <td width="100%" align="right"><a class="addthis_button_google_plusone" g:plusone:size="medium"></a></td>
+              <td><a class="addthis_button_tweet"></a></td>
+              <td><a class="addthis_button_facebook_like" fb:like:layout="button_count"></a></td>
+            </tr>
+          </table>
+          <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4fa925f25e963639"></script>
+        </div>
+        <div id="noticia_pin">
+          <span class="f_stag_light fc_purple fs21">231856D1</span><br />
+          <span class="fc_gray_soft fs11">Recibe las noticias desde tu PIN Blackberry</span>
+          <div id="noticia_autor">             
+             <span id="nt_autor_redes">
+             </span>
+             <span class="fc_gray_soft">Agencias</span>             
+             <span class="fc_gray_soft"></span>
+             <span class="fc_gray_soft"></span>
+          </div>
+        </div>
+        <div id="noticia_texto" class="fc_gray_soft">
+          <span class="noticia_mod_rel">
+            <ol class="lista_rel">
+              <li class="f_stag_bold fc_purple">EN RELACI&Oacute;N</li>
+              <li><a href="http://www.tabascohoy.com/2/notas/index.php?ID=149456">Se niega Eiza a hablar de  Liam Hemsworth</a></li>
+              <li><a href="http://www.tabascohoy.com/2/notas/index.php?ID=149288">Eiza y Liam ¡se besan!</a></li>
+              <li><a href="http://www.tabascohoy.com/2/notas/index.php?ID=148879">!Eiza González liga con ex de Miley Cyrus!</a></li>
+            </ol>
+          </span>
+          <span><p style="margin-bottom: 0cm">
+	Aunque trata de mostrarse tranquila, Miley Cyrus est&aacute; en shock y muy dolida por c&oacute;mo se ha portado Liam Hemsworth tras su ruptura.</p>
+<p style="margin-bottom: 0cm">
+	Poco despu&eacute;s de que se confirmara el fin de su compromiso, Hemsworth se dej&oacute; ver muy cerca de la actriz mexicana Eiza Gonz&aacute;lez, en Las Vegas. Despu&eacute;s incluso fueron captados bes&aacute;ndose en Beverly Hills.</p>
+<p style="margin-bottom: 0cm">
+	Eso es lo que ha sorprendido m&aacute;s a Miley, pues durante los a&ntilde;os de su romance un punto de acuerdo fue tratar de mantener su relaci&oacute;n en privado.</p>
+<p style="margin-bottom: 0cm">
+	La actriz se siente &quot;insultada&quot; y adem&aacute;s considera que Liam es un &quot;hip&oacute;crita&quot;, seg&uacute;n indica el sitio entertainmentwise.com.</p>
+<p style="margin-bottom: 0cm">
+	&quot;Siente que no lo reconoce. Est&aacute; en shock de que &eacute;l fuera tan p&uacute;blico con Eiza. es incluso m&aacute;s insultante porque &eacute;l hab&iacute;a estado en el pedestal de mantener las cosas privadas, por eso ellos no aparec&iacute;an mucho en fotos. Ahora est&aacute; rompiendo sus propias reglas. Si est&aacute; tratando de lastimarla, est&aacute; funcionando, pero eso lo hace ver tambi&eacute;n como un hip&oacute;crita&quot;, detall&oacute; una fuente cercana a Miley.</p>
+<p style="margin-bottom: 0cm">
+	Cyrus dio de qu&eacute; hablar el fin de semana en el iHeart Radio Festival en Las Vegas, en donde se present&oacute; semidesnuda en escena.</p>
+<br /><br /><br />--- <b>FA</b></span>
+        </div>
+        <div id="noticia_tags">
+
+        <div class="cnt_comp_tags">
+          <div>
+            <span class="f_stag_light fc_purple fs14">TAGS&nbsp;</span>
+            <a class="fc_gray_soft fs12" href="./../buscador/index.php?p=Miley Cyrus&t=tags">Miley Cyrus, </a>
+            <a class="fc_gray_soft fs12" href="./../buscador/index.php?p=Eiza González&t=tags">Eiza González, </a>
+            <a class="fc_gray_soft fs12" href="./../buscador/index.php?p=Liam Hemsworth&t=tags">Liam Hemsworth, </a>
+            <a class="fc_gray_soft fs12" href="./../buscador/index.php?p=Escándalo&t=tags">Escándalo</a>
+          </div>
+          <div class="fc_gray_soft fs11">Link&nbsp;
+            <input name="liga" id="liga" type="text" class="ui-widget-content ui-corner-all fc_gray_soft fs11" value="http://thoy.mx/15RMcvu
+" />
+          </div>
+        </div>
+      </div>
+      <!-- Fin de Noticia -->
+
+      <!-- Inicia Además -->
+      <div id="noticia_ademas">
+        <div class="f_stag_black fc_purple fs18">ADEM&Aacute;S</div>
+          <div class="noticia_ademas_item">
+            <div class="ademas_vineta_morado">
+              <a class="ademas_item_sec fc_purple fwb" href="http://www.tabascohoy.com/2/show/index.php">SHOW!</a>
+              <a class="ademas_item_subsec fc_gray_soft" href="http://www.tabascohoy.com/2/show/viajes/index.php">VIAJES</a>
+            </div>
+            <a href="http://www.tabascohoy.com/2/notas/index.php?ID=150372" class="fc_gray_dark fs16">Museos Vaticanos darán entradas gratis</a>
+          </div>
+          <div class="noticia_ademas_item">
+            <div class="ademas_vineta_morado">
+              <a class="ademas_item_sec fc_purple fwb" href="http://www.tabascohoy.com/2/show/index.php">SHOW!</a>
+              <a class="ademas_item_subsec fc_gray_soft" href="http://www.tabascohoy.com/2/show/musica/index.php">MÚSICA</a>
+            </div>
+            <a href="http://www.tabascohoy.com/2/notas/index.php?ID=150340" class="fc_gray_dark fs16">Miley Cyrus se desnuda una vez más</a>
+          </div>
+          <div class="noticia_ademas_item">
+            <div class="ademas_vineta_morado">
+              <a class="ademas_item_sec fc_purple fwb" href="http://www.tabascohoy.com/2/show/index.php">SHOW!</a>
+              <a class="ademas_item_subsec fc_gray_soft" href="http://www.tabascohoy.com/2/show/cocina/index.php">COCINA</a>
+            </div>
+            <a href="http://www.tabascohoy.com/2/notas/index.php?ID=150331" class="fc_gray_dark fs16">Hacen posible las primeras papas fritas 'light'</a>
+          </div>
+          <div class="noticia_ademas_item">
+            <div class="ademas_vineta_morado">
+              <a class="ademas_item_sec fc_purple fwb" href="http://www.tabascohoy.com/2/show/index.php">SHOW!</a>
+              <a class="ademas_item_subsec fc_gray_soft" href="http://www.tabascohoy.com/2/show/moda/index.php">MODA</a>
+            </div>
+            <a href="http://www.tabascohoy.com/2/notas/index.php?ID=150329" class="fc_gray_dark fs16">Pronto, sabremos cómo es 'El mundo según Karl'</a>
+          </div>
+          <div class="noticia_ademas_item">
+            <div class="ademas_vineta_morado">
+              <a class="ademas_item_sec fc_purple fwb" href="http://www.tabascohoy.com/2/show/index.php">SHOW!</a>
+              <a class="ademas_item_subsec fc_gray_soft" href="http://www.tabascohoy.com/2/show/musica/index.php">MÚSICA</a>
+            </div>
+            <a href="http://www.tabascohoy.com/2/notas/index.php?ID=150318" class="fc_gray_dark fs16">Luis Miguel envía aviones con ayuda para Acapulco</a>
+          </div>
+          <div class="noticia_ademas_item">
+            <div class="ademas_vineta_morado">
+              <a class="ademas_item_sec fc_purple fwb" href="http://www.tabascohoy.com/2/show/index.php">SHOW!</a>
+              <a class="ademas_item_subsec fc_gray_soft" href="http://www.tabascohoy.com/2/show/farandula/index.php">FARÁNDULA</a>
+            </div>
+            <a href="http://www.tabascohoy.com/2/notas/index.php?ID=150313" class="fc_gray_dark fs16">Notifican a Luis Miguel sobre demanda por manutención</a>
+          </div>
+        <div><script type="text/javascript"><!--
+google_ad_client="ca-pub-0837612922410250"; google_ad_slot="9258609138"; google_ad_width=468; google_ad_height=60;
+//--></script><script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script></div>
+        </div>
+      </div>
+      <!-- Fin de Además-->
+      <!-- Inicia Comentarios -->
+      <div class="notas_comntarios"><form id="frm_envio_coment">
+        <ol>
+          <li>
+            <span id="label_presenta" class="f_stag_black">D&Eacute;JANOS TUS COMENTARIOS</span>
+            <input id="coment_clave" type="hidden" value="150369" />
+            <input id="coment_nombre" type="text" value="Escribe un nombre" maxlength="50" />
+          </li>
+          <li><textarea id="coment_texto">Escribe tu mensaje</textarea></li>
+          <li><a id="coment_terminos">LEA ATENTAMENTE LAS REGLAS DE USO</a><input id="coment_envio" type="button" value="Enviar comentario" /></li>
+        </ol>
+      </form></div>
+      <div class="contenedores_terminos">
+        <h1 align="left" class="terminos">Reglas para comentar<br />en TabascoHOY.com</h1>
+        <p>La participaci&oacute;n de los lectores es la esencia de <span class="tabascohoy">TabascoHOY.com.</span></p>
+        <p>Para que nuestro Blog del Lector sea un foro de encuentro, de cr&iacute;tica, interesante y respetuoso, hemos elaborado las siguientes normas b&aacute;sicas de convivencia:</p>
+        <ul>
+          <li>No se aceptar&aacute;n comentarios que inciten a la violencia o que hagan apolog&iacute;a de actos violentos</li>
+          <li>No se aceptar&aacute;n comentarios que inciten a realizar alguna violaci&oacute;n a la ley.</li>
+          <li>No se admitir&aacute;n comentarios que sean denigrantes contra cualquier minor&iacute;a racial, sexual, de  g&eacute;nero, grupos humanos, discapacitados, grupos de edad.</li>
+          <li>Se eliminar&aacute;n los comentarios que contengan acusaciones graves contra personas e instituciones  hechas de forma gratuita y sin aportar pruebas.</li>
+          <li>Eliminaremos cualquier comentario con insultos e injurias contra cualquier persona p&uacute;blica o privada y contra cualquier instituci&oacute;n.</li>
+          <li>No admitiremos burlas e insultos contra los propios participantes en los foros.</li>
+          <li>El mal uso de este servicio, tal como la suplantaci&oacute;n de personalidad o la difamaci&oacute;n a personas e instituciones, puede derivar en responsabilidad penal.</li>
+          <li><strong>TabascoHOY.com</strong> garantiza el derecho a la privacidad de las personas que participan y el resguardo de todos los datos que se nos proporcionan.</li>
+        </ul>
+      </div>
+      <div class="contenedores_comentarios">
+        <div class="aux_coment_item">
+          <span class="fecha_comentario"></span>
+          <span class="nombre_comentario"></span>
+          <span class="text_comentario"></span>
+        </div>
+      </div>
+      <!-- Fin de Comentarios -->
+    </div>
+    <!-- Fin de Columna Izquierda -->
+
+    <!-- Inicia Columna Derecha -->
+    <div id="c_derecha">
+      <!-- Inicia Temas -->
+      <div id="c_temas_principales" style="border: none !important; margin-top: 15px;"><div id="temas_principales_titulo">
+  <a href="http://www.tabascohoy.com/2/temas/index.php?ID=106" class="f_stag_black fc_magenta fs14">TEMAS</a><br />
+  <a href="http://www.tabascohoy.com/2/temas/index.php?ID=106" class="f_stag_black fc_gray_dark fs14">&iquest;QU&Eacute; EST&Aacute;<br />PASANDO HOY?</a>
+</div>
+<div id="temas_principales_lista">
+  <ol>
+        <li class="temas_principales_item">
+          <a href="http://www.tabascohoy.com/2/temas/index.php?ID=106" style="background:url('./../imgs/temas_num1.png') left top no-repeat;" class="f_stag_book fc_gray_soft">
+          Far&aacute;ndula          </a>
+        </li>
+        <li class="temas_principales_item">
+          <a href="http://www.tabascohoy.com/2/temas/index.php?ID=1086" style="background:url('./../imgs/temas_num2.png') left top no-repeat;" class="f_stag_book fc_gray_soft">
+          Cae Romero del Valle          </a>
+        </li>
+        <li class="temas_principales_item">
+          <a href="http://www.tabascohoy.com/2/temas/index.php?ID=275" style="background:url('./../imgs/temas_num3.png') left top no-repeat;" class="f_stag_book fc_gray_soft">
+          Rojas Tabasco          </a>
+        </li>
+        <li class="temas_principales_item">
+          <a href="http://www.tabascohoy.com/2/temas/index.php?ID=107" style="background:url('./../imgs/temas_num4.png') left top no-repeat;" class="f_stag_book fc_gray_soft">
+          Esc&aacute;ndalo          </a>
+        </li>
+        <li class="temas_principales_item">
+          <a href="http://www.tabascohoy.com/2/temas/index.php?ID=105" style="background:url('./../imgs/temas_num5.png') left top no-repeat;" class="f_stag_book fc_gray_soft">
+          Mundo Loco          </a>
+        </li>
+        <li class="temas_principales_item">
+          <a href="http://www.tabascohoy.com/2/temas/index.php?ID=906" style="background:url('./../imgs/temas_num6.png') left top no-repeat;" class="f_stag_book fc_gray_soft">
+          #Lluvias2013          </a>
+        </li>
+        <li class="temas_principales_item">
+          <a href="http://www.tabascohoy.com/2/temas/index.php?ID=491" style="background:url('./../imgs/temas_num7.png') left top no-repeat;" class="f_stag_book fc_gray_soft">
+          Gasolinazo          </a>
+        </li>
+        <li class="temas_principales_item">
+          <a href="http://www.tabascohoy.com/2/temas/index.php?ID=902" style="background:url('./../imgs/temas_num8.png') left top no-repeat;" class="f_stag_book fc_gray_soft">
+          Secuestro          </a>
+        </li>
+  </ol>
+</div></div>
+      <!-- Fin de Temas -->
+
+      <!-- Inicia Publicidad 3 Ad Box -->
+      <div><img src="http://eid.com.mx/publicidad/honda/honda.gif" width="300" height="250" alt="" /></div>
+      <!-- Fin de Publicidad 3 Ad Box -->
+
+      <!-- Inicia Twitter -->
+      <div id="c_twitter"><!--<iframe allowtransparency="yes" frameborder="0" scrolling="no" src="http://www.tabascohoy.com/2/includes/modulos/twitter/twitter_contenido.php?w=280&amp;h=100&seccion=" width="300" height="200"></iframe>--><a class="twitter-timeline"  href="https://twitter.com/TabascoHOY" data-widget-id="244163897882451969">Tweets por @TabascoHOY</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script></div>
+      <!-- Fin de Twitter -->
+
+      <!-- Inicia Encuesta -->
+      <div id="c_encuesta_corta">        <div id="encuesta_corta_titulo"><table width="100%" border="0" cellpadding="0" cellspacing="0">
+          <tr>
+            <td><span class="f_stag_semibold fc_gray_dark fs24">TÚ QUE OPINAS</span></td>
+            <td align="right" valign="bottom"><span class="fc_gray_soft fs10">VOTOS AL MOMENTO</span><br />
+              <span id="total" class="fc_blue_soft fs16 fwb">1540</span></td>
+          </tr>
+        </table>
+        </div>
+        <div id="encuesta_corta_pregunta" class="fc_gray_dark fs17">¿Qué tan seguro te sientes de que este año no sufrirás una inundación  en tu municipio?</div>
+        <div id="encuesta_corta_sino_opciones" style="display:none;">
+          <div class="encuesta_corta_sino_campo1 f_stag_book fc_white fs14">SI</div>
+          <div class="encuesta_corta_sino_campo2">
+            <div class="encuesta_corta_texto_izq f_stag_book fc_white fs14">49%</div>
+            <div class="encuesta_corta_texto_der"><a href="javascript:void();" class="f_stag_bold fc_blue_soft fs12">VOTAR</a></div>
+          </div>
+          <div class="encuesta_corta_sino_campo3 f_stag_book fc_white fs14">NO</div>
+          <div class="encuesta_corta_sino_campo4">
+            <div class="encuesta_corta_texto_izq f_stag_book fc_white fs14">51%</div>
+            <div class="encuesta_corta_texto_der"><a href="javascript:void();" class="f_stag_bold fc_blue_soft fs12">VOTAR</a></div>
+          </div>
+        </div>
+        <div class="encuesta_corta_multiple_opciones"><table width="100%" border="0" cellpadding="0" cellspacing="0">
+          <tr>
+            <td><img src="./../imgs/encuesta1_izq.png" width="5" height="19" alt="" /></td>
+            <td width="100%" valign="top" bgcolor="404041" class="f_stag_book fc_white fs12" style="padding-top:3px;">Muy seguro</td>
+            <td><img src="./../imgs/encuesta1_der.png" width="5" height="19" alt="" /></td>
+            <td style="padding-left:3px;"><img src="./../imgs/encuesta1_izq.png" width="5" height="19" alt="" /></td>
+            <td id="respuesta0" bgcolor="404041" align="right" class="f_stag_book fc_white fs12 fwb"><a href="javascript:void(0);" onclick="f_encuesta(76, 1);" class="f_stag_book fc_white fs12 fwb">VOTAR</a></td>
+            <td><img src="./../imgs/encuesta1_der.png" width="5" height="19" alt="" /></td>
+          </tr>
+          <tr><td colspan="6"><img src="./../imgs/spacer.gif" width="100%" height="4" alt="" /></td></tr>
+          <tr>
+            <td><img src="./../imgs/encuesta1_izq.png" width="5" height="19" alt="" /></td>
+            <td width="100%" valign="top" bgcolor="404041" class="f_stag_book fc_white fs12" style="padding-top:3px;">Poco seguro</td>
+            <td><img src="./../imgs/encuesta1_der.png" width="5" height="19" alt="" /></td>
+            <td style="padding-left:3px;"><img src="./../imgs/encuesta1_izq.png" width="5" height="19" alt="" /></td>
+            <td id="respuesta1" bgcolor="404041" align="right" class="f_stag_book fc_white fs12 fwb"><a href="javascript:void(0);" onclick="f_encuesta(76, 2);" class="f_stag_book fc_white fs12 fwb">VOTAR</a></td>
+            <td><img src="./../imgs/encuesta1_der.png" width="5" height="19" alt="" /></td>
+          </tr>
+          <tr><td colspan="6"><img src="./../imgs/spacer.gif" width="100%" height="4" alt="" /></td></tr>
+          <tr>
+            <td><img src="./../imgs/encuesta1_izq.png" width="5" height="19" alt="" /></td>
+            <td width="100%" valign="top" bgcolor="404041" class="f_stag_book fc_white fs12" style="padding-top:3px;">Nada seguro</td>
+            <td><img src="./../imgs/encuesta1_der.png" width="5" height="19" alt="" /></td>
+            <td style="padding-left:3px;"><img src="./../imgs/encuesta1_izq.png" width="5" height="19" alt="" /></td>
+            <td id="respuesta2" bgcolor="404041" align="right" class="f_stag_book fc_white fs12 fwb"><a href="javascript:void(0);" onclick="f_encuesta(76, 3);" class="f_stag_book fc_white fs12 fwb">VOTAR</a></td>
+            <td><img src="./../imgs/encuesta1_der.png" width="5" height="19" alt="" /></td>
+          </tr>
+          <tr><td colspan="6"><img src="./../imgs/spacer.gif" width="100%" height="4" alt="" /></td></tr>
+        </table></div>
+        <div id="encuesta_corta_cierre" class="fc_gray_dark fs10">Su opini&oacute;n nos interesa, presione en VOTAR.</div>
+      </div>
+      <!-- Fin de Encuesta -->
+      <!-- Inicia Especiales -->
+      <div id="c_especiales_acordion" style="height:520px;">
+        <div id="especiales_acordion"><h3 class="f_stag_bold"><a href="#">LO M&Aacute;S LE&Iacute;DO</a></h3>
+<div class="especiales_contenido">
+  <p><div id="especiales_masleido">
+    <ol>
+      <li><div class="especiales_masleido_item" style="background:url(http://www.tabascohoy.com/2/imgs/masleido_num1.png) left top no-repeat;">
+        <table width="100%" border="0" cellpadding="0" cellspacing="0"><tr><td height="30">
+          <a href="http://www.tabascohoy.com/2/notas/index.php?ID=150693" class="f_stag_book fc_gray_soft">¿Lucero Se va de Televisa?</a>
+          <a href="http://www.tabascohoy.com/2/notas/index.php?ID=150693" class="fc_gray_light">(14888 lecturas)</a>
+        </td></tr></table>
+      </div></li>
+      <li><div class="especiales_masleido_item" style="background:url(http://www.tabascohoy.com/2/imgs/masleido_num2.png) left top no-repeat;">
+        <table width="100%" border="0" cellpadding="0" cellspacing="0"><tr><td height="30">
+          <a href="http://www.tabascohoy.com/2/notas/index.php?ID=150748" class="f_stag_book fc_gray_soft">El audio que tumbó a Roberto Romero del Valle</a>
+          <a href="http://www.tabascohoy.com/2/notas/index.php?ID=150748" class="fc_gray_light">(7303 lecturas)</a>
+        </td></tr></table>
+      </div></li>
+      <li><div class="especiales_masleido_item" style="background:url(http://www.tabascohoy.com/2/imgs/masleido_num3.png) left top no-repeat;">
+        <table width="100%" border="0" cellpadding="0" cellspacing="0"><tr><td height="30">
+          <a href="http://www.tabascohoy.com/2/notas/index.php?ID=150691" class="f_stag_book fc_gray_soft">La quieren fuera de México</a>
+          <a href="http://www.tabascohoy.com/2/notas/index.php?ID=150691" class="fc_gray_light">(3734 lecturas)</a>
+        </td></tr></table>
+      </div></li>
+      <li><div class="especiales_masleido_item" style="background:url(http://www.tabascohoy.com/2/imgs/masleido_num4.png) left top no-repeat;">
+        <table width="100%" border="0" cellpadding="0" cellspacing="0"><tr><td height="30">
+          <a href="http://www.tabascohoy.com/2/notas/index.php?ID=150732" class="f_stag_book fc_gray_soft">Ejecutan zetas a otro; culpan a PUCD de atentado</a>
+          <a href="http://www.tabascohoy.com/2/notas/index.php?ID=150732" class="fc_gray_light">(2557 lecturas)</a>
+        </td></tr></table>
+      </div></li>
+      <li><div class="especiales_masleido_item" style="background:url(http://www.tabascohoy.com/2/imgs/masleido_num5.png) left top no-repeat;">
+        <table width="100%" border="0" cellpadding="0" cellspacing="0"><tr><td height="30">
+          <a href="http://www.tabascohoy.com/2/notas/index.php?ID=150730" class="f_stag_book fc_gray_soft">Matan a ganadero frente a su hijo</a>
+          <a href="http://www.tabascohoy.com/2/notas/index.php?ID=150730" class="fc_gray_light">(2542 lecturas)</a>
+        </td></tr></table>
+      </div></li>
+      <li><div class="especiales_masleido_item" style="background:url(http://www.tabascohoy.com/2/imgs/masleido_num6.png) left top no-repeat;">
+        <table width="100%" border="0" cellpadding="0" cellspacing="0"><tr><td height="30">
+          <a href="http://www.tabascohoy.com/2/notas/index.php?ID=150695" class="f_stag_book fc_gray_soft">Usa Marisol pompas postizas</a>
+          <a href="http://www.tabascohoy.com/2/notas/index.php?ID=150695" class="fc_gray_light">(2455 lecturas)</a>
+        </td></tr></table>
+      </div></li>
+      <li><div class="especiales_masleido_item" style="background:url(http://www.tabascohoy.com/2/imgs/masleido_num7.png) left top no-repeat;">
+        <table width="100%" border="0" cellpadding="0" cellspacing="0"><tr><td height="30">
+          <a href="http://www.tabascohoy.com/2/notas/index.php?ID=150753" class="f_stag_book fc_gray_soft">Me cansé de decirle que están mal las cosas</a>
+          <a href="http://www.tabascohoy.com/2/notas/index.php?ID=150753" class="fc_gray_light">(2421 lecturas)</a>
+        </td></tr></table>
+      </div></li>
+      <li><div class="especiales_masleido_item" style="background:url(http://www.tabascohoy.com/2/imgs/masleido_num8.png) left top no-repeat;">
+        <table width="100%" border="0" cellpadding="0" cellspacing="0"><tr><td height="30">
+          <a href="http://www.tabascohoy.com/2/notas/index.php?ID=150869" class="f_stag_book fc_gray_soft">Recolectan firmas para correr a Laura Bozzo de México</a>
+          <a href="http://www.tabascohoy.com/2/notas/index.php?ID=150869" class="fc_gray_light">(1876 lecturas)</a>
+        </td></tr></table>
+      </div></li>
+      <li><div class="especiales_masleido_item" style="background:url(http://www.tabascohoy.com/2/imgs/masleido_num9.png) left top no-repeat;">
+        <table width="100%" border="0" cellpadding="0" cellspacing="0"><tr><td height="30">
+          <a href="http://www.tabascohoy.com/2/notas/index.php?ID=150686" class="f_stag_book fc_gray_soft">Arremete Bozzo contra Aristegui</a>
+          <a href="http://www.tabascohoy.com/2/notas/index.php?ID=150686" class="fc_gray_light">(1732 lecturas)</a>
+        </td></tr></table>
+      </div></li>
+      <li><div class="especiales_masleido_item" style="background:url(http://www.tabascohoy.com/2/imgs/masleido_num10.png) left top no-repeat;">
+        <table width="100%" border="0" cellpadding="0" cellspacing="0"><tr><td height="30">
+          <a href="http://www.tabascohoy.com/2/notas/index.php?ID=150743" class="f_stag_book fc_gray_soft">No saben que hacer con el Musevi</a>
+          <a href="http://www.tabascohoy.com/2/notas/index.php?ID=150743" class="fc_gray_light">(1612 lecturas)</a>
+        </td></tr></table>
+      </div></li>
+    </ol>
+  </div></p>
+</div><h3 class="f_stag_bold"><a href="#">LO M&Aacute;S COMENTADO</a></h3>
+<div class="especiales_contenido">
+  <p><div id="especiales_mascomentado">
+    <ol>
+      <li><div class="especiales_mascomentado_item" style="background:url(http://www.tabascohoy.com/2/imgs/masleido_num1.png) left top no-repeat;">
+        <table width="100%" border="0" cellpadding="0" cellspacing="0"><tr><td height="30">
+          <a href="http://www.tabascohoy.com/2/notas/index.php?ID=149983" class="f_stag_book fc_gray_soft">Vuelan por calles conductores tabasqueños</a>
+          <a href="http://www.tabascohoy.com/2/notas/index.php?ID=149983" class="fc_gray_light">(11 comentarios)</a>
+        </td></tr></table>
+      </div></li>
+      <li><div class="especiales_mascomentado_item" style="background:url(http://www.tabascohoy.com/2/imgs/masleido_num2.png) left top no-repeat;">
+        <table width="100%" border="0" cellpadding="0" cellspacing="0"><tr><td height="30">
+          <a href="http://www.tabascohoy.com/2/notas/index.php?ID=150275" class="f_stag_book fc_gray_soft">Romero del Valle anuncia renuncia a dirigencia del PRD</a>
+          <a href="http://www.tabascohoy.com/2/notas/index.php?ID=150275" class="fc_gray_light">(6 comentarios)</a>
+        </td></tr></table>
+      </div></li>
+      <li><div class="especiales_mascomentado_item" style="background:url(http://www.tabascohoy.com/2/imgs/masleido_num3.png) left top no-repeat;">
+        <table width="100%" border="0" cellpadding="0" cellspacing="0"><tr><td height="30">
+          <a href="http://www.tabascohoy.com/2/notas/index.php?ID=150746" class="f_stag_book fc_gray_soft">Va la PEC contra los cafres con fotorradares</a>
+          <a href="http://www.tabascohoy.com/2/notas/index.php?ID=150746" class="fc_gray_light">(5 comentarios)</a>
+        </td></tr></table>
+      </div></li>
+      <li><div class="especiales_mascomentado_item" style="background:url(http://www.tabascohoy.com/2/imgs/masleido_num4.png) left top no-repeat;">
+        <table width="100%" border="0" cellpadding="0" cellspacing="0"><tr><td height="30">
+          <a href="http://www.tabascohoy.com/2/notas/index.php?ID=150148" class="f_stag_book fc_gray_soft">No tenemos capacidad para cubrir a todas las áreas: SSP</a>
+          <a href="http://www.tabascohoy.com/2/notas/index.php?ID=150148" class="fc_gray_light">(4 comentarios)</a>
+        </td></tr></table>
+      </div></li>
+      <li><div class="especiales_mascomentado_item" style="background:url(http://www.tabascohoy.com/2/imgs/masleido_num5.png) left top no-repeat;">
+        <table width="100%" border="0" cellpadding="0" cellspacing="0"><tr><td height="30">
+          <a href="http://www.tabascohoy.com/2/notas/index.php?ID=149945" class="f_stag_book fc_gray_soft">Salva Laura Bozzo su vida</a>
+          <a href="http://www.tabascohoy.com/2/notas/index.php?ID=149945" class="fc_gray_light">(4 comentarios)</a>
+        </td></tr></table>
+      </div></li>
+      <li><div class="especiales_mascomentado_item" style="background:url(http://www.tabascohoy.com/2/imgs/masleido_num6.png) left top no-repeat;">
+        <table width="100%" border="0" cellpadding="0" cellspacing="0"><tr><td height="30">
+          <a href="http://www.tabascohoy.com/2/notas/index.php?ID=150501" class="f_stag_book fc_gray_soft">Cayó Roberto Romero de dirigencia PRD por bocón</a>
+          <a href="http://www.tabascohoy.com/2/notas/index.php?ID=150501" class="fc_gray_light">(4 comentarios)</a>
+        </td></tr></table>
+      </div></li>
+      <li><div class="especiales_mascomentado_item" style="background:url(http://www.tabascohoy.com/2/imgs/masleido_num7.png) left top no-repeat;">
+        <table width="100%" border="0" cellpadding="0" cellspacing="0"><tr><td height="30">
+          <a href="http://www.tabascohoy.com/2/notas/index.php?ID=150142" class="f_stag_book fc_gray_soft">Hallan gusano en una hamburguesa de McDonalds</a>
+          <a href="http://www.tabascohoy.com/2/notas/index.php?ID=150142" class="fc_gray_light">(3 comentarios)</a>
+        </td></tr></table>
+      </div></li>
+      <li><div class="especiales_mascomentado_item" style="background:url(http://www.tabascohoy.com/2/imgs/masleido_num8.png) left top no-repeat;">
+        <table width="100%" border="0" cellpadding="0" cellspacing="0"><tr><td height="30">
+          <a href="http://www.tabascohoy.com/2/notas/index.php?ID=150791" class="f_stag_book fc_gray_soft">Acusa Aristegui distractor morboso</a>
+          <a href="http://www.tabascohoy.com/2/notas/index.php?ID=150791" class="fc_gray_light">(2 comentarios)</a>
+        </td></tr></table>
+      </div></li>
+      <li><div class="especiales_mascomentado_item" style="background:url(http://www.tabascohoy.com/2/imgs/masleido_num9.png) left top no-repeat;">
+        <table width="100%" border="0" cellpadding="0" cellspacing="0"><tr><td height="30">
+          <a href="http://www.tabascohoy.com/2/notas/index.php?ID=150308" class="f_stag_book fc_gray_soft">Sebastián Rulli anuncia su rompimiento con Aracely Arámbula</a>
+          <a href="http://www.tabascohoy.com/2/notas/index.php?ID=150308" class="fc_gray_light">(2 comentarios)</a>
+        </td></tr></table>
+      </div></li>
+      <li><div class="especiales_mascomentado_item" style="background:url(http://www.tabascohoy.com/2/imgs/masleido_num10.png) left top no-repeat;">
+        <table width="100%" border="0" cellpadding="0" cellspacing="0"><tr><td height="30">
+          <a href="http://www.tabascohoy.com/2/notas/index.php?ID=150345" class="f_stag_book fc_gray_soft">Engañan diciendo que iOS 7 crea resistencia al agua</a>
+          <a href="http://www.tabascohoy.com/2/notas/index.php?ID=150345" class="fc_gray_light">(2 comentarios)</a>
+        </td></tr></table>
+      </div></li>
+    </ol>
+  </div></p>
+</div><h3 class="f_stag_bold"><a href="http://www.tabascohoy.com/2/columnistas/index.php">COLUMNISTAS</a></h3>
+<div class="especiales_contenido">
+  <p><div id="especiales_analisis_titular" class="f_stag_bold fc_gray_dark fs12">&Uacute;LTIMAS ENTRADAS</div>
+  <div class="especiales_analisis_item">
+    <div class="especiales_analisis_imagen"><a href="http://www.tabascohoy.com/2/columnistas/columna.php?ID=28411">
+      <img src="http://www.grupocanton.com/all/editoriales/autores/1/thumb/autor_32_0dLUZyKX.jpg" width="56" height="56" alt="" /></a></div>
+    <div class="especiales_analisis_info"><a href="http://www.tabascohoy.com/2/columnistas/columna.php?ID=28411">
+      <span class="f_stag_light fc_blue fs12">Locales - </span><span class="f_stag_semibold fc_gray_dark fs12">CURUL 36</span></a><br />
+      <span class="f_stag_light fc_gray_dark fs12">
+      por: <span class="f_stag_semibold fc_gray_dark fs12"><a href="http://www.tabascohoy.com/2/columnistas/columna.php?ID=28411">Leobardo Pérez Marín</a></span><br />
+      <a href="http://www.tabascohoy.com/2/columnistas/columna.php?ID=28411" class="fc_gray_dark fs12">Canibalismo perredista</a><br />
+      <a href="javascript:void(0);" class="fc_gray_light fs11">26 SEP 2013 | (432) lecturas</a></div>
+  </div>
+  <div class="especiales_analisis_item">
+    <div class="especiales_analisis_imagen"><a href="http://www.tabascohoy.com/2/columnistas/columna.php?ID=28422">
+      <img src="http://www.grupocanton.com/all/editoriales/autores/1/autor_1029_thumb_yl0dSHHv.jpg" width="56" height="56" alt="" /></a></div>
+    <div class="especiales_analisis_info"><a href="http://www.tabascohoy.com/2/columnistas/columna.php?ID=28422">
+      <span class="f_stag_light fc_blue fs12">Locales - </span><span class="f_stag_semibold fc_gray_dark fs12">Plataforma</span></a><br />
+      <span class="f_stag_light fc_gray_dark fs12">
+      por: <span class="f_stag_semibold fc_gray_dark fs12"><a href="http://www.tabascohoy.com/2/columnistas/columna.php?ID=28422">Lino Zentella</a></span><br />
+      <a href="http://www.tabascohoy.com/2/columnistas/columna.php?ID=28422" class="fc_gray_dark fs12">Los renglones torcidos de Pemex</a><br />
+      <a href="javascript:void(0);" class="fc_gray_light fs11">26 SEP 2013 | (400) lecturas</a></div>
+  </div>
+  <div class="especiales_analisis_item">
+    <div class="especiales_analisis_imagen"><a href="http://www.tabascohoy.com/2/columnistas/columna.php?ID=28423">
+      <img src="http://www.grupocanton.com/all/editoriales/autores/1/thumb/autor_39_3s8P3eHG.jpg" width="56" height="56" alt="" /></a></div>
+    <div class="especiales_analisis_info"><a href="http://www.tabascohoy.com/2/columnistas/columna.php?ID=28423">
+      <span class="f_stag_light fc_blue fs12">Locales - </span><span class="f_stag_semibold fc_gray_dark fs12">OPINIÓN</span></a><br />
+      <span class="f_stag_light fc_gray_dark fs12">
+      por: <span class="f_stag_semibold fc_gray_dark fs12"><a href="http://www.tabascohoy.com/2/columnistas/columna.php?ID=28423">Francisco Peralta Burelo</a></span><br />
+      <a href="http://www.tabascohoy.com/2/columnistas/columna.php?ID=28423" class="fc_gray_dark fs12">IFE, ¿mejor opción?</a><br />
+      <a href="javascript:void(0);" class="fc_gray_light fs11">26 SEP 2013 | (145) lecturas</a></div>
+  </div>
+  <div class="especiales_analisis_item">
+    <div class="especiales_analisis_imagen"><a href="http://www.tabascohoy.com/2/columnistas/columna.php?ID=28424">
+      <img src="http://www.grupocanton.com/all/editoriales/autores/1/thumb/autor_41_pADGYtoh.jpg" width="56" height="56" alt="" /></a></div>
+    <div class="especiales_analisis_info"><a href="http://www.tabascohoy.com/2/columnistas/columna.php?ID=28424">
+      <span class="f_stag_light fc_blue fs12">Locales - </span><span class="f_stag_semibold fc_gray_dark fs12">CÁSCARA AMARGA</span></a><br />
+      <span class="f_stag_light fc_gray_dark fs12">
+      por: <span class="f_stag_semibold fc_gray_dark fs12"><a href="http://www.tabascohoy.com/2/columnistas/columna.php?ID=28424">Laureano Naranjo Cobian</a></span><br />
+      <a href="http://www.tabascohoy.com/2/columnistas/columna.php?ID=28424" class="fc_gray_dark fs12">Suave patria</a><br />
+      <a href="javascript:void(0);" class="fc_gray_light fs11">26 SEP 2013 | (165) lecturas</a></div>
+  </div>
+  <div class="especiales_analisis_item">
+    <div class="especiales_analisis_imagen"><a href="http://www.tabascohoy.com/2/columnistas/columna.php?ID=28425">
+      <img src="http://www.grupocanton.com/all/editoriales/autores/1/thumb/autor_43_MHSiVBnQ.jpg" width="56" height="56" alt="" /></a></div>
+    <div class="especiales_analisis_info"><a href="http://www.tabascohoy.com/2/columnistas/columna.php?ID=28425">
+      <span class="f_stag_light fc_blue fs12">Locales - </span><span class="f_stag_semibold fc_gray_dark fs12">DOBLE FILO</span></a><br />
+      <span class="f_stag_light fc_gray_dark fs12">
+      por: <span class="f_stag_semibold fc_gray_dark fs12"><a href="http://www.tabascohoy.com/2/columnistas/columna.php?ID=28425">Homero T. Calderon</a></span><br />
+      <a href="http://www.tabascohoy.com/2/columnistas/columna.php?ID=28425" class="fc_gray_dark fs12">Gobernador rebasó a partidos</a><br />
+      <a href="javascript:void(0);" class="fc_gray_light fs11">26 SEP 2013 | (503) lecturas</a></div>
+  </div>
+  <div class="especiales_analisis_item">
+    <div class="especiales_analisis_imagen"><a href="http://www.tabascohoy.com/2/columnistas/columna.php?ID=28426">
+      <img src="http://www.grupocanton.com/all/editoriales/autores/1/autor_88_thumb_rhKtEhVk.jpg" width="56" height="56" alt="" /></a></div>
+    <div class="especiales_analisis_info"><a href="http://www.tabascohoy.com/2/columnistas/columna.php?ID=28426">
+      <span class="f_stag_light fc_blue fs12">Locales - </span><span class="f_stag_semibold fc_gray_dark fs12">MANIFIESTO</span></a><br />
+      <span class="f_stag_light fc_gray_dark fs12">
+      por: <span class="f_stag_semibold fc_gray_dark fs12"><a href="http://www.tabascohoy.com/2/columnistas/columna.php?ID=28426">José Chablé Ruiz</a></span><br />
+      <a href="http://www.tabascohoy.com/2/columnistas/columna.php?ID=28426" class="fc_gray_dark fs12">Que Dios nos agarre confesados</a><br />
+      <a href="javascript:void(0);" class="fc_gray_light fs11">26 SEP 2013 | (367) lecturas</a></div>
+  </div>
+  <div class="especiales_analisis_item">
+    <div class="especiales_analisis_imagen"><a href="http://www.tabascohoy.com/2/columnistas/columna.php?ID=28427">
+      <img src="http://www.grupocanton.com/all/editoriales/autores/1/autor_938_thumb_nYN57euz.jpg" width="56" height="56" alt="" /></a></div>
+    <div class="especiales_analisis_info"><a href="http://www.tabascohoy.com/2/columnistas/columna.php?ID=28427">
+      <span class="f_stag_light fc_blue fs12">Locales - </span><span class="f_stag_semibold fc_gray_dark fs12">Mesa de Negocios</span></a><br />
+      <span class="f_stag_light fc_gray_dark fs12">
+      por: <span class="f_stag_semibold fc_gray_dark fs12"><a href="http://www.tabascohoy.com/2/columnistas/columna.php?ID=28427">Freddy Izquierdo</a></span><br />
+      <a href="http://www.tabascohoy.com/2/columnistas/columna.php?ID=28427" class="fc_gray_dark fs12">Rompiendo tabúes</a><br />
+      <a href="javascript:void(0);" class="fc_gray_light fs11">26 SEP 2013 | (136) lecturas</a></div>
+  </div>
+  <div class="especiales_analisis_item">
+    <div class="especiales_analisis_imagen"><a href="http://www.tabascohoy.com/2/columnistas/columna.php?ID=28428">
+      <img src="http://www.grupocanton.com/all/editoriales/autores/1/autor_48_thumb_FhB5WL5p.jpg" width="56" height="56" alt="" /></a></div>
+    <div class="especiales_analisis_info"><a href="http://www.tabascohoy.com/2/columnistas/columna.php?ID=28428">
+      <span class="f_stag_light fc_blue fs12">Nacionales - </span><span class="f_stag_semibold fc_gray_dark fs12">ASTILLERO</span></a><br />
+      <span class="f_stag_light fc_gray_dark fs12">
+      por: <span class="f_stag_semibold fc_gray_dark fs12"><a href="http://www.tabascohoy.com/2/columnistas/columna.php?ID=28428">Julio Hernández López</a></span><br />
+      <a href="http://www.tabascohoy.com/2/columnistas/columna.php?ID=28428" class="fc_gray_dark fs12">Viernes 13, 8 a.m.</a><br />
+      <a href="javascript:void(0);" class="fc_gray_light fs11">26 SEP 2013 | (313) lecturas</a></div>
+  </div>
+  <div class="especiales_analisis_item">
+    <div class="especiales_analisis_imagen"><a href="http://www.tabascohoy.com/2/columnistas/columna.php?ID=28429">
+      <img src="http://www.grupocanton.com/all/editoriales/autores/1/thumb/autor_45_hKmnzbnZ.jpg" width="56" height="56" alt="" /></a></div>
+    <div class="especiales_analisis_info"><a href="http://www.tabascohoy.com/2/columnistas/columna.php?ID=28429">
+      <span class="f_stag_light fc_blue fs12">Nacionales - </span><span class="f_stag_semibold fc_gray_dark fs12">ESTRICTAMENTE PERSONAL</span></a><br />
+      <span class="f_stag_light fc_gray_dark fs12">
+      por: <span class="f_stag_semibold fc_gray_dark fs12"><a href="http://www.tabascohoy.com/2/columnistas/columna.php?ID=28429">Raymundo Riva Palacios</a></span><br />
+      <a href="http://www.tabascohoy.com/2/columnistas/columna.php?ID=28429" class="fc_gray_dark fs12">¡Nació muerta la reforma educativa!</a><br />
+      <a href="javascript:void(0);" class="fc_gray_light fs11">26 SEP 2013 | (161) lecturas</a></div>
+  </div>
+  <div class="especiales_analisis_item">
+    <div class="especiales_analisis_imagen"><a href="http://www.tabascohoy.com/2/columnistas/columna.php?ID=28431">
+      <img src="http://www.grupocanton.com/all/editoriales/autores/1/autor_26_thumb_iVfWWgM1.jpg" width="56" height="56" alt="" /></a></div>
+    <div class="especiales_analisis_info"><a href="http://www.tabascohoy.com/2/columnistas/columna.php?ID=28431">
+      <span class="f_stag_light fc_blue fs12">Nacionales - </span><span class="f_stag_semibold fc_gray_dark fs12">HISTORIAS DE REPORTERO</span></a><br />
+      <span class="f_stag_light fc_gray_dark fs12">
+      por: <span class="f_stag_semibold fc_gray_dark fs12"><a href="http://www.tabascohoy.com/2/columnistas/columna.php?ID=28431">Carlos Loret de Mola</a></span><br />
+      <a href="http://www.tabascohoy.com/2/columnistas/columna.php?ID=28431" class="fc_gray_dark fs12">AMLO contra los huracanes</a><br />
+      <a href="javascript:void(0);" class="fc_gray_light fs11">26 SEP 2013 | (185) lecturas</a></div>
+  </div>
+  <div class="especiales_analisis_item">
+    <div class="especiales_analisis_imagen"><a href="http://www.tabascohoy.com/2/columnistas/columna.php?ID=28418">
+      <img src="http://www.grupocanton.com/all/editoriales/autores/1/autor_978_thumb_9YXa4baE.jpg" width="56" height="56" alt="" /></a></div>
+    <div class="especiales_analisis_info"><a href="http://www.tabascohoy.com/2/columnistas/columna.php?ID=28418">
+      <span class="f_stag_light fc_blue fs12">Show! - </span><span class="f_stag_semibold fc_gray_dark fs12">Desde el averno</span></a><br />
+      <span class="f_stag_light fc_gray_dark fs12">
+      por: <span class="f_stag_semibold fc_gray_dark fs12"><a href="http://www.tabascohoy.com/2/columnistas/columna.php?ID=28418">Daniel Bisogno</a></span><br />
+      <a href="http://www.tabascohoy.com/2/columnistas/columna.php?ID=28418" class="fc_gray_dark fs12">Comida de lujo y conductores de cuarta</a><br />
+      <a href="javascript:void(0);" class="fc_gray_light fs11">26 SEP 2013 | (168) lecturas</a></div>
+  </div>
+  <div class="especiales_analisis_item">
+    <div class="especiales_analisis_imagen"><a href="http://www.tabascohoy.com/2/columnistas/columna.php?ID=28419">
+      <img src="http://www.grupocanton.com/all/editoriales/autores/1/autor_1039_thumb_Vbo2R6Ha.jpg" width="56" height="56" alt="" /></a></div>
+    <div class="especiales_analisis_info"><a href="http://www.tabascohoy.com/2/columnistas/columna.php?ID=28419">
+      <span class="f_stag_light fc_blue fs12">Show! - </span><span class="f_stag_semibold fc_gray_dark fs12">PASARELA</span></a><br />
+      <span class="f_stag_light fc_gray_dark fs12">
+      por: <span class="f_stag_semibold fc_gray_dark fs12"><a href="http://www.tabascohoy.com/2/columnistas/columna.php?ID=28419">Luisa y Clark</a></span><br />
+      <a href="http://www.tabascohoy.com/2/columnistas/columna.php?ID=28419" class="fc_gray_dark fs12">EL QUE NO PSA REPRUEBA</a><br />
+      <a href="javascript:void(0);" class="fc_gray_light fs11">26 SEP 2013 | (72) lecturas</a></div>
+  </div>
+  <div class="especiales_analisis_item">
+    <div class="especiales_analisis_imagen"><a href="http://www.tabascohoy.com/2/columnistas/columna.php?ID=28421">
+      <img src="http://www.grupocanton.com/all/editoriales/autores/1/autor_1053_thumb_yVwjOWNr.jpg" width="56" height="56" alt="" /></a></div>
+    <div class="especiales_analisis_info"><a href="http://www.tabascohoy.com/2/columnistas/columna.php?ID=28421">
+      <span class="f_stag_light fc_blue fs12">Deportes - </span><span class="f_stag_semibold fc_gray_dark fs12">Desde el vestidor</span></a><br />
+      <span class="f_stag_light fc_gray_dark fs12">
+      por: <span class="f_stag_semibold fc_gray_dark fs12"><a href="http://www.tabascohoy.com/2/columnistas/columna.php?ID=28421">Por el Atleta</a></span><br />
+      <a href="http://www.tabascohoy.com/2/columnistas/columna.php?ID=28421" class="fc_gray_dark fs12">¿Porqué a escondiditas?</a><br />
+      <a href="javascript:void(0);" class="fc_gray_light fs11">26 SEP 2013 | (106) lecturas</a></div>
+  </div>
+  <div class="especiales_analisis_item">
+    <div class="especiales_analisis_imagen"><a href="http://www.tabascohoy.com/2/columnistas/columna.php?ID=28420">
+      <img src="http://www.grupocanton.com/all/editoriales/autores/1/autor_1031_thumb_4MU1c0gI.jpg" width="56" height="56" alt="" /></a></div>
+    <div class="especiales_analisis_info"><a href="http://www.tabascohoy.com/2/columnistas/columna.php?ID=28420">
+      <span class="f_stag_light fc_blue fs12">Vivir Bien - </span><span class="f_stag_semibold fc_gray_dark fs12">Pregúntale a...</span></a><br />
+      <span class="f_stag_light fc_gray_dark fs12">
+      por: <span class="f_stag_semibold fc_gray_dark fs12"><a href="http://www.tabascohoy.com/2/columnistas/columna.php?ID=28420">Hermana  Margarita de Jesús</a></span><br />
+      <a href="http://www.tabascohoy.com/2/columnistas/columna.php?ID=28420" class="fc_gray_dark fs12">¿Eres una persona impulsiva o motivadora?</a><br />
+      <a href="javascript:void(0);" class="fc_gray_light fs11">26 SEP 2013 | (66) lecturas</a></div>
+  </div>
+  <div class="especiales_analisis_item">
+    <div class="especiales_analisis_imagen"><a href="http://www.tabascohoy.com/2/columnistas/columna.php?ID=28430">
+      <img src="http://www.grupocanton.com/all/editoriales/autores/1/autor_976_thumb_Uc026tTd.jpg" width="56" height="56" alt="" /></a></div>
+    <div class="especiales_analisis_info"><a href="http://www.tabascohoy.com/2/columnistas/columna.php?ID=28430">
+      <span class="f_stag_light fc_blue fs12">Justicia - </span><span class="f_stag_semibold fc_gray_dark fs12">Minutos Policíacos</span></a><br />
+      <span class="f_stag_light fc_gray_dark fs12">
+      por: <span class="f_stag_semibold fc_gray_dark fs12"><a href="http://www.tabascohoy.com/2/columnistas/columna.php?ID=28430">Juan Manuel Aguilar Baños </a></span><br />
+      <a href="http://www.tabascohoy.com/2/columnistas/columna.php?ID=28430" class="fc_gray_dark fs12">Butifarrero calenturiento</a><br />
+      <a href="javascript:void(0);" class="fc_gray_light fs11">26 SEP 2013 | (164) lecturas</a></div>
+  </div>
+  <div id="especiales_analisis_mas"><a href="http://www.tabascohoy.com/2/columnistas/index.php" class="f_stag_black fc_gray_soft fs11">VER TODOS LOS AN&Aacute;LISIS</a></div></p>
+</div><h3 class="f_stag_bold"><a href="http://www.tabascohoy.com/temas/index.php?ID=681">ESPECIALES</a></h3><div class="especiales_contenido">  <p><div id="especiales_principal">
+    <div id="especiales_principal_titular">
+      <a href="http://www.tabascohoy.com/2/temas/index.php?ID=681" class="f_stag_bold fc_magenta fs10">Religi�n y Familia </a></div>
+    <div id="especiales_principal_marco">
+      <div id="especiales_principal_imagen1"><a href="http://www.tabascohoy.com/2/notas/index.php?ID=141232">
+        <img src="http://www.grupocanton.com/all/imagenes/1/2013/08/04/141232_mediana_Clprz6w5.jpg" width="290" height="163" alt="�Es malo tener mis ahorros?" title="�Es malo tener mis ahorros?" /></a></div>
+      <div id="especiales_principal_footer">
+        <a href="http://www.tabascohoy.com/2/notas/index.php?ID=141232" class="f_stag_bold fc_white fs15">�Es malo tener mis ahorros?</a><br />
+        <a href="http://www.tabascohoy.com/2/notas/index.php?ID=141232" class="fc_white"></a>
+      </div>
+    </div>
+  
+  <div id="especiales_principal_izq">
+    <a href="http://www.tabascohoy.com/2/notas/index.php?ID=140163" class="f_stag_bold fc_gray_dark fs13">El significado de la oraci�n </a><br />
+    <span class="fc_gray_dark fs12">Jes�s como los grandes maestros de su tiempo, ense�a a sus seguidores una oraci�n que los identifica: el 'Padre nuestro'</span></div>
+  
+  <div id="especiales_principal_der">
+    <a href="http://www.tabascohoy.com/2/notas/index.php?ID=136513" class="f_stag_bold fc_gray_dark fs13">El objetivo de los disc�pulos</a><br />
+    <span class="fc_gray_dark fs12">El Evangelio se�ala normas pr�cticas a los 72 seguidores de Jes�s en el anuncio de la Buena Nueva del Reino de Dios. </span>
+  </div>
+  </div></p>
+</div></div>
+      </div>
+      <!-- Fin de Especiales -->
+      <!-- Inicia Publicidad 4 Ad Box -->
+      <div><script type="text/javascript"><!--
+google_ad_client="ca-pub-4500669741776131"; google_ad_slot="6772434101"; google_ad_width=300; google_ad_height=250;
+//--></script><script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script></div>
+      <!-- Fin de Publicidad 4 Ad Box -->
+    </div>
+    <!-- Fin de Columna Derecha -->
+  </div>
+  <!-- Fin de Macro Cuerpo -->
+
+  <!-- Inicia Macro Footer -->
+  <div id="m_footer">
+    <!-- Inicia Footer -->
+    <div id="c_footer">
+      <!-- Inicia Footer Izquierda -->
+      <div id="c_footer_izq">
+        <img id="footer_logo" src="./../imgs/imgs_plantilla/logo.png" width="214" height="136" alt="" />
+        <ol id="footer_menu_serv">
+          <li><a href="./../empresa/" class="fs12">Nuestra Empresa</a></li> 
+          <li><a href="./../empresa/laborsocial.php" class="fs12">Labor Social</a></li>
+          <li><a href="./../empresa/misionvision.php" class="fs12">Misi&oacute;n y Visi&oacute;n</a></li>  
+          <li><a href="./../empresa/directorio.php" class="fs12">Directorio</a></li>
+          <li><a href="./../empresa/servicios.php" class="fs12">Ventas y Publicidad</a></li>                                                                
+        </ol>   
+        <a id="on_top" class="footer_inicio f_helvetica">INICIO</a>
+      </div>
+      <!-- Fin de Footer Izquierda -->
+
+      <!-- Inicia Footer Central -->
+      <div id="c_footer_cen">
+        <span id="footer_blackberry" class="f_helvetica fs14">PIN NOTICIAS BLACKBERRY 231856D1</span>
+        <div id="c_footer_menu_sup">
+          <a href="http://www.eid.com.mx/" class="f_helvetica fc_gray_soft fwb">EDICI&Oacute;N DIGITAL</a>
+          <!--<a class="ft_lnk_menu_sup f_helvetica fc_gray_soft fwb">BOLETIN DE NOTICIAS</a>-->
+          <a href="https://itunes.apple.com/us/app/tabasco-hoy/id374804838" target="_blank" class="ft_lnk_menu_sup f_helvetica fc_gray_soft fwb">IPHONE</a>
+          <a href="http://eid.com.mx/tarifas.php" class="ft_lnk_menu_sup f_helvetica fc_gray_soft fwb" target="_blank">SUSCRIPCIONES</a>
+          <a href="./../multimedia/videos/" class="ft_lnk_menu_sup f_helvetica fc_gray_soft fwb">MULTIMEDIA</a>
+        </div>
+        <div id="footer_login"><table align="right" border="0" cellpadding="0" cellspacing="0">
+          <tr>
+            <td nowrap="nowrap" style="padding:5px 10px 0px 0px; padding-right:10px; border-right:1px solid #666666;">
+              <a href="http://www.tabascohoy.com/2/empresa/contacto.php" class="f_helvetica fc_gray_dark fs11">CONT&Aacute;CTANOS</a></td>
+            <!--<td nowrap="nowrap" style="padding:5px 3px 0px 10px;">
+              <a href="javascript:void(0);" class="fc_gray_soft fs11">INGRESAR</a></td>
+            <td><a href="javascript:void(0);">
+              <img src="./../imgs/icon_ingresar.png" width="18" height="23" alt="" /></a></td>-->
+          </tr>
+        </table></div>
+        <ol class="footer_menu_list" id="footer_menu_list1">
+          <li><a href="./../noticias/" class="f_stag_semibold">NOTICIAS</a></li>
+          <li><a href="./../noticias/centro/">Centro</a></li>
+          <li><a href="./../noticias/region/">Regiones</a></li>
+          <li><a href="./../noticias/pais/">Pa&iacute;s</a></li>
+          <li><a href="./../noticias/mundo/">Mundo</a></li>
+          <li><a href="./../noticias/politica/">Pol&iacute;tica</a></li>
+          <li><a href="./../noticias/dinero/">Dinero</a></li>
+          <li><a href="./../noticias/justicia/">Justicia</a></li>
+        </ol>
+        <ol class="footer_menu_list" id="footer_menu_list2">
+          <li><a href="./../deportes/" class="f_stag_semibold">DEPORTES</a></li>
+          <li><a href="./../deportes/futbol/">Futbol</a></li>
+          <li><a href="./../deportes/beisbol/">Beisbol</a></li>
+          <li><a href="./../deportes/futbol_americano/">Futbol Americano</a></li>
+          <li><a href="./../deportes/lucha_libre/">Lucha Libre</a></li>
+          <li><a href="./../deportes/basquetbol/">Basquetbol</a></li>
+          <li><a href="./../deportes/box/">Box</a></li>
+          <li><a href="./../deportes/tenis/">Tenis</a></li>
+        </ol>
+        <ol class="footer_menu_list" id="footer_menu_list3">
+          <li><a href="./../show/" class="f_stag_semibold">SHOW</a></li>
+          <li><a href="./../show/moda/">Moda</a></li>
+          <li><a href="./../show/musica/">M&uacute;sica</a></li>
+          <li><a href="./../show/autos/">Autos</a></li>
+          <li><a href="./../show/cocina/">Cocina</a></li>
+          <li><a href="./../show/showbiz">Showbiz</a></li>
+          <li><a href="./../show/deco/">Deco</a></li>
+          <li><a href="./../show/viajes/">Viajes</a></li>
+          <li><a href="./../show/farandula/">Far&aacute;ndula</a></li>
+          <li><a href="./../show/grupera/">Grupera</a></li>
+        </ol>
+        <ol class="footer_menu_list" id="footer_menu_list4">
+          <li><a href="./../vivirbien/" class="f_stag_semibold">VIVIR BIEN</a></li>
+          <li><a href="./../vivirbien/salud/">Salud</a></li>
+          <li><a href="./../vivirbien/calidad/">Calidad de Vida</a></li>
+          <li><a href="./../vivirbien/religion/">Religi&oacute;n</a></li>
+          <li><a href="./../vivirbien/autoayuda/">Autoayuda</a></li>
+          <li><a href="./../vivirbien/psicologia/">Psicolog&iacute;a</a></li>
+          <li><a href="./../vivirbien/cultura/">Cultura</a></li>
+          <li><a href="./../vivirbien/expresion/">Expresi&oacute;n</a></li>
+        </ol>
+        <ol class="footer_menu_list" id="footer_menu_list5">
+          <li><a href="./../tecnologia/" class="f_stag_semibold">TECNOLOG&Iacute;A</a></li>
+          <li><a href="./../tecnologia/software/">Software</a></li>
+          <li><a href="./../tecnologia/videojuegos/">Video Juegos</a></li>
+          <li><a href="./../tecnologia/apple/">Apple</a></li>
+          <li><a href="./../tecnologia/moviles/">Moviles</a></li>
+          <li><a href="./../tecnologia/gadgets/">Gadgets</a></li>
+          <li><a href="./../tecnologia/microsoft/">Microsoft</a></li>
+          <li><a href="./../tecnologia/android/">Android</a></li>
+        </ol>  
+        <ol id="footer_list_varios">
+          <li>
+            <div id="footer_afiliados"><table width="100%" border="0" cellpadding="0" cellspacing="0">
+              <tr>
+                <td nowrap="nowrap" class="fc_white fs10">Avalados y Certificados por</td>
+                <td style="padding-left:2px;"><img src="./../imgs/icon_comscore.png" width="115" height="28" alt="" /></td>
+                <td width="50%"><img src="./../imgs/icon_statcounter.png" width="141" height="28" alt="" /></td>
+              </tr>
+            </table></div>
+            <div id="footer_redes">
+              <a href="http://www.facebook.com/pages/Tabasco-HOY/245011458910858" class="footer_imgs_redes" target="_blank">
+                <img src="./../imgs/imgs_plantilla/icon_facebook.png" width="22" height="22" alt="" /></a>
+              <a href="https://twitter.com/#!/tabascohoy" class="footer_imgs_redes" target="_blank">
+                <img src="./../imgs/imgs_plantilla/icon_twitter.png" width="22" height="22" alt="" /></a>
+              <a href="http://www.youtube.com/user/tabascohoy" class="footer_imgs_redes" target="_blank">
+                <img src="./../imgs/imgs_plantilla/icon_youtube.png" width="22" height="22" alt="" /></a>
+              <a href="./../rss/" class="footer_imgs_redes" target="_blank">
+                <img src="./../imgs/imgs_plantilla/icon_rss.png" width="22" height="22" alt="" /></a>
+              <span>S&iacute;ganos en tiempo real</span>
+            </div>
+            <div id="footer_visitas">
+              <span class="f_helvetica fs14">VISITAS &Uacute;NICAS DE AYER</span>
+              <span class="f_stag_semibold fs30">112,894</span>
+            </div>
+          </li>
+          <!--<li>
+            <div id="footer_especiales_titulo"><table width="100%" border="0" cellpadding="0" cellspacing="0">
+              <tr>
+                <td height="25"><a class="f_stag_semibold fc_gray_dark fs12">ESPECIALES</a></td>
+              </tr>
+            </table></div>
+            <div id="footer_especiales_links"><table width="100%" border="0" cellpadding="0" cellspacing="0">
+              <tr class="fc_gray_dark fs11">
+                <td>
+				<span class="footer_especiales_link"><a class="fc_gray_dark fs11">Especial de prueba</a></span><span class="footer_especiales_link2">+</span><span class="footer_especiales_link"><a class="fc_gray_dark fs11">Especial de prueba</a></span><span class="footer_especiales_link2">+</span><span class="footer_especiales_link"><a class="fc_gray_dark fs11">Especial de prueba</a></span><span class="footer_especiales_link2">+</span><span class="footer_especiales_link"><a class="fc_gray_dark fs11">Especial de prueba</a></span><span class="footer_especiales_link2">+</span><span class="footer_especiales_link"><a class="fc_gray_dark fs11">Especial de prueba</a></span><span class="footer_especiales_link2">+</span><span class="footer_especiales_link"><a class="fc_gray_dark fs11">Especial de prueba</a></span>                </td>
+              </tr>
+			</table></div>
+            <div id="footer_especiales_todos"><table width="100%" border="0" cellpadding="0" cellspacing="0">
+              <tr>
+                <td height="25" align="right"><a class="f_stag_semibold fc_gray_dark fs12">VER TODOS LOS ESPECIALES</a></td>
+              </tr>
+            </table></div>
+          </li>-->
+          <!--<li>
+            <div id="footer_suplementos_titulo"><table width="100%" border="0" cellpadding="0" cellspacing="0">
+              <tr>
+                <td height="25"><a class="f_stag_black fc_gray_soft fs12">TODOS NUESTROS SUPLEMENTOS</a></td>
+              </tr>
+            </table></div>
+            <div id="footer_suplementos_links"><table width="100%" border="0" cellpadding="0" cellspacing="0">
+              <tr class="fc_gray_soft fs11">
+                <td><span class="footer_suplementos_link"><a class="fc_gray_soft fs11">Clasificados</a></span>
+                  <span class="footer_suplementos_link2">+</span>
+                  <span class="footer_suplementos_link"><a class="fc_gray_soft fs11">Wey</a></span>
+                  <span class="footer_suplementos_link2">+</span>
+                  <span class="footer_suplementos_link"><a class="fc_gray_soft fs11">&Eacute;lite</a></span>
+                  <span class="footer_suplementos_link2">+</span>
+                  <span class="footer_suplementos_link"><a class="fc_gray_soft fs11">100% Deportes</a></span>
+                  <span class="footer_suplementos_link2">+</span>
+                  <span class="footer_suplementos_link"><a class="fc_gray_soft fs11">Show!</a></span>
+                  <span class="footer_suplementos_link2">+</span>
+                  <span class="footer_suplementos_link"><a class="fc_gray_soft fs11">Vivir bien</a></span></td>
+              </tr>
+			</table></div>
+            <div id="footer_suplementos_todos"><table width="100%" border="0" cellpadding="0" cellspacing="0">
+              <tr>
+                <td height="25" align="right"><a class="f_stag_bold fc_gray_soft fs12">VER TODOS LOS SUPLEMENTOS</a></td>
+              </tr>
+            </table></div>
+          </li>-->
+          <li>
+            <span id="footer_derechos">&reg;2013 Todos los derechos reservados Organizaci&oacute;n Editorial Acuario S.A. de C.V.</span>
+          </li>                
+        </ol>
+      </div>  
+      <!-- Fin de Footer Central -->
+
+      <!-- Inicia Footer Logos -->
+      <div id="c_footer_logos">
+        <img src="./../imgs/imgs_plantilla/gpo_logo.jpg" width="215" height="60" alt="" usemap="#footer_gpologoMap" id="footer_gpologo" border="0" />
+        <map name="footer_gpologoMap" id="footer_gpologoMap">
+          <area shape="rect" coords="6,4,211,55" href="http://www.grupocanton.com/" target="_blank" alt="Grupo Canton" />
+        </map>
+        <img src="http://tabascohoy.com/2/imgs/imgs_plantilla/gpo_logos.jpg" width="674" height="90" alt="" usemap="#footer_gpologosMap" id="footer_gpologos" border="0" />
+        <map name="footer_gpologosMap" id="footer_gpologosMap">
+          <area shape="rect" coords="4,5,87,39" href="http://www.lavozdequintanaroo.com" target="_blank" alt="La Voz de Q. Roo" />
+          <area shape="rect" coords="102,5,187,37" href="http://www.diariobasta.com" target="_blank" alt="Diario Basta" />
+          <area shape="rect" coords="203,5,258,41" href="http://www.carmenhoy.com.mx" target="_blank" alt="Campeche HOY" />
+          <area shape="rect" coords="280,4,313,39" href="http://www.elcirollo.com.mx" target="_blank" alt="El Criollo" />
+          <area shape="rect" coords="333,6,443,39" href="http://www.campechehoy.com.mx" target="_blank" alt="Campeche HOY" />
+          <area shape="rect" coords="466,5,531,37" href="http://www.eid.com.mx" target="_blank" alt="Wey" />
+          <area shape="rect" coords="550,5,592,38" href="http://www.tabascohoy.tv" target="_blank" alt="Tabasco HOY TV" />
+          <area shape="rect" coords="612,5,668,40" href="http://www.quintareal.com/acapulco/villahermosa" target="_blank" alt="Quinta Real" />
+          <area shape="rect" coords="6,53,129,86" href="http://www.tabascohoyradio.com.mx" target="_blank" alt="Tabasco HOY Radio" />
+          <area shape="rect" coords="146,50,209,87" href="http://www.oye999.com.mx" target="_blank" alt="Oye 99.9 fm" />
+          <area shape="rect" coords="224,50,350,85" href="http://www.conexion909.com" target="_blank" alt="Conexion 90.9 fm" />
+          <area shape="rect" coords="364,47,419,86" href="http://www.850am.com.mx" target="_blank" alt="La Z 850 am" />
+        </map> 
+      </div>
+      <!-- Fin de Footer Logos -->
+    </div>
+    <!-- Fin de Footer -->
+  </div>
+  <!-- Fin de Macro Footer -->
+
+  <!-- Inicia Barra Flash -->
+  <div id="m_flash"><table width="100%" border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td height="46" valign="top"><img src="./../imgs/flash_logo.png" width="143" height="46" alt="" /></td>
+      <td valign="top"><table border="0" cellpadding="0" cellspacing="0">
+        <tr>
+          <td height="23"><a id="flash_up" href="javascript:void(0);">
+            <img src="./../imgs/flash_up.png" width="18" height="18" alt="" /></a></td>
+        </tr>
+        <tr>
+          <td height="23"><a id="flash_down" href="javascript:void(0);">
+            <img src="./../imgs/flash_down.png" width="18" height="18" alt="" /></a></td>
+        </tr>
+      </table></td>
+      <td width="100%" valign="top"><table border="0" cellpadding="0" cellspacing="0">
+        <tr>
+          <td width="100%" height="46" style="padding-left:10px;"><span id="flash_hora"></span><br />
+            <span id="flash_noticia"></span></td>
+        </tr>
+      </table></td>
+      <td valign="top" nowrap="nowrap" style="padding:19px 5px 0px 30px;">
+        <a href="./../ultimas/" class="f_popular_bold fc_white fs12 fwb">Ver todas &raquo;</a></td>
+      <td valign="top" nowrap="nowrap" style="padding-top:2px;"><table border="0" cellpadding="0" cellspacing="0">
+        <tr>
+          <td nowrap="nowrap" style="padding:3px 4px 3px 9px; border-left:1px solid #8FD7F5;">
+            <div id="flash_compartir" class="addthis_toolbox addthis_default_style addthis_32x32_style">
+              <a class="flash_facebook" style="float:left;" title="Compartir esto en Facebook">
+              <img src="http://cdn1.iconfinder.com/data/icons/socialmediabookmark/32/facebook.png" alt="Compartir en facebook"/></a>
+            </div>
+            <script type="text/javascript" src="http://s7.addthis.com/js/300/addthis_widget.js#pubid=xa-509eb35469b61eb4"></script>
+          </td>
+          <td style="padding:3px 4px 3px 0px;"><a id="flash_twitter" target="_blank"><img src="./../imgs/icon_twitter2.png" width="32" height="32" alt="" /></a>
+            <script type="text/javascript">!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);
+			js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script></td>
+        </tr>
+      </table></td>
+      <td valign="top" style="padding:9px 10px 0px 10px;">
+        <a id="flash_view_on" href="javascript:void(0);" class="flash_close">
+        <img src="./../imgs/spacer.gif" width="16" height="16" alt="Cerrar barra flash" title="Cerrar barra flash" /></a></td>
+    </tr>
+  </table></div>
+  <div id="m_flash2"><a id="flash_view_off" href="javascript:void(0);" class="flash_open">
+    <img src="./../imgs/spacer.gif" width="130" height="32" alt="Abrir barra flash" title="Abrir barra flash" /></a></div>
+  <!-- Fin de Barra Flash -->
+
+  <!-- Start of StatCounter All Site -->
+  <script type="text/javascript">var sc_project=8495136; var sc_invisible=1; var sc_security="2c03807a"; var scJsHost=(("https:"==document.location.protocol)?"https://secure.":"http://www.");
+  document.write("<sc"+"ript type='text/javascript' src='"+scJsHost+"statcounter.com/counter/counter.js'></"+"script>");</script>
+  <!-- End of StatCounter All Site -->
+  
+  <!-- Start Google Analytics -->
+  <script type="text/javascript">var _gaq=_gaq || []; _gaq.push(['_setAccount', 'UA-1855041-1']); _gaq.push(['_trackPageview']);
+  (function() { var ga=document.createElement('script'); ga.type='text/javascript'; ga.async=true;
+  ga.src=('https:'==document.location.protocol?'https://ssl':'http://www')+'.google-analytics.com/ga.js';
+  var s=document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s); })();</script>
+  <!-- End Google Analytics -->
+</div>
+<!-- Fin de Contenido General -->
+
+<!-- Start of StatCounter Nota -->
+<script type="text/javascript">var sc_project=8495300; var sc_invisible=1; var sc_security="b8efed5e"; var scJsHost=(("https:"==document.location.protocol)?"https://secure.":"http://www.");
+document.write("<sc"+"ript type='text/javascript' src='"+scJsHost+"statcounter.com/counter/counter.js'></"+"script>");</script>
+<!-- End of StatCounter Nota -->
+</body>
+</html>

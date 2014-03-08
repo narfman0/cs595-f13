@@ -1,0 +1,5 @@
+#!/bin/bash
+for i in {2..5}; do
+	convert $i*.svg -append $i-karate.png
+	rm $i*.svg
+done

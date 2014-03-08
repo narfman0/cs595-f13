@@ -1,0 +1,766 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:fb="https://www.facebook.com/2008/fbml">
+  <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article# food_prod: http://ogp.me/ns/fb/food_prod#">
+    <title>Food52 - Food community, recipe search and cookbook contests</title>
+    <meta charset="utf-8">
+    <meta name="Description" content="Food community, recipe search, kitchen &amp; home products, and cookbook contests.">
+
+    <meta name="viewport" content="width=1120">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+
+    <meta name="verify-v1" content="lMOAF4P7f2sxMtpjVkGgQTON1Js3aD2uDielq9qdoYI=">
+    <meta name="google-site-verification" content="3hxp5oA8CYuqgtPrXrz0LmDSGYTIe2jQK9ToV1gwurI">
+    <meta name="msvalidate.01" content="F298E853CF03751CAD3FE09E0A2FD491">
+
+    <meta property="fb:app_id" content="174162069306426">
+    <meta property="og:site_name" content="Food52">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="http://food52.com/hotline/21875-a-question-about-a-recipe-no-knead-sandwich-bread">
+
+    <meta name="twitter:site" content="@food52">
+    <meta name="twitter:site:id" content="2635091612">
+    <meta property="twitter:account_id" content="21769127">
+
+    <meta content="authenticity_token" name="csrf-param" />
+<meta content="hmac4AbCbP4HK6pArWpREjDA+RHJHOpQGegIi5Y2SIw=" name="csrf-token" />
+
+    
+
+    
+
+      <link href="/assets/application-d6296242dd255a368ec33c870b33bbe1.css" media="all" rel="stylesheet" type="text/css" />
+  
+  <!--[if IE]>
+    <link href="/assets/ie8-b58a9088f592ae297c89dc0e48b67f11.css" media="screen" rel="stylesheet" type="text/css" />
+  <![endif]-->
+
+
+    <!--[if lt IE 9]>
+      <link href="/assets/ie8-and-down-811d4c630ffbf86574e782f60e1d85ed.css" media="screen" rel="stylesheet" type="text/css" />
+    <![endif]-->
+    <!--[if lte IE 8]>
+      <link href="/assets/ie8-and-down-811d4c630ffbf86574e782f60e1d85ed.css" media="screen" rel="stylesheet" type="text/css" />
+    <![endif]-->
+
+    <script src="/assets/modernizr-2.6.2.custom.min-d1612ea6dcc164052907898f0f948489.js" type="text/javascript"></script>
+
+    <script src="//use.typekit.net/wbt3vmf.js"></script>
+<script>try{Typekit.load();}catch(e){}</script>
+
+    <script>
+      // as we clean up the code, any inline uses of javascript that depend
+      // on jquery or other libraries can be pushed onto this array; they'll
+      // be executed in order by application.js
+      var _f52_inline_q = [];
+    </script>
+
+    <!-- need this in head until we get rid of rails2.x ajaxonrails inline handlers -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+
+    <!-- non blocking kiss metrics init -->
+    <script>
+        var _kmq = _kmq || [];
+        var _kmk = _kmk || 'f04eb42449baceb16143bbacfd0f899733b40286';
+        function _kms(u){
+            setTimeout(function(){
+                var d = document, f = d.getElementsByTagName('script')[0],
+                        s = d.createElement('script');
+                s.type = 'text/javascript'; s.async = true; s.src = u;
+                f.parentNode.insertBefore(s, f);
+            }, 1);
+        }
+        _kms('//i.kissmetrics.com/i.js');
+        _kms('//doug1izaerwt3.cloudfront.net/' + _kmk + '.1.js');
+    </script>
+
+      <!-- Chartbeat Async script 1 of 2 -->
+      <script>var _sf_startpt=(new Date()).getTime()</script>
+
+      <script>
+        var googletag = googletag || {};
+        googletag.cmd = googletag.cmd || [];
+        (function() {
+            var gads = document.createElement('script');
+            gads.async = true;
+            gads.type = 'text/javascript';
+            var useSSL = 'https:' == document.location.protocol;
+            gads.src = (useSSL ? 'https:' : 'http:') +
+                    '//www.googletagservices.com/tag/js/gpt.js';
+            var node = document.getElementsByTagName('script')[0];
+            node.parentNode.insertBefore(gads, node);
+        })();
+      </script>
+      <script>
+        googletag.cmd.push(function() {
+          googletag.defineSlot('/26220654/leaderboard', [[728, 90], [970, 90], [970, 250]], 'div-gpt-ad-1378318893753-0').addService(googletag.pubads());
+          googletag.defineSlot('/26220654/leaderboard_mobile', [320, 50], 'div-gpt-ad-1378318893753-1').addService(googletag.pubads());
+          googletag.defineSlot('/26220654/right_column_300x250', [[300, 250], [300, 600], [300, 1050]], 'div-gpt-ad-1378318893753-2').addService(googletag.pubads());
+          googletag.defineSlot('/26220654/right_column_bottom_300x250', [300, 250], 'div-gpt-ad-1378318893753-3').addService(googletag.pubads());
+          googletag.pubads().enableSingleRequest();
+          googletag.pubads().collapseEmptyDivs();
+          googletag.enableServices();
+        });
+      </script>
+
+    
+      <meta property="og:title" content="Food52">
+  <meta property="og:description" content="Food community, recipe search and cookbook contests.">
+  <meta property="og:image" content="">
+
+  </head>
+  <body class="">
+
+    <div id="fb-root"></div>
+    <script>
+      // Initialize Facebook app for Like buttons and app actions ie Ask Question, Save Recipe
+      window.fbAsyncInit = function() {
+        FB.init({
+          appId : '174162069306426', // App ID
+          status : true, // check login status
+          cookie : true, // enable cookies to allow the server to access the session
+          xfbml : true, // parse XFBML
+          oauth: true
+        });
+      };
+
+      // Load the SDK Asynchronously
+      (function(d){
+          var js, id = 'facebook-jssdk', ref = d.getElementsByTagName('script')[0];
+          if (d.getElementById(id)) {return;}
+          js = d.createElement('script'); js.id = id; js.async = true;
+          js.src = "//connect.facebook.net/en_US/all.js";
+          ref.parentNode.insertBefore(js, ref);
+      }(document));
+    </script>
+
+    <div id="global-page-frame">
+      <div id="global-header-block">
+        <header class="block-container">
+          <a href="#" class="mobile-toggle ss-icon ss-pika" id="mobile-nav-toggle" rel="nofollow">&#xE9A1;</a>
+          <a href="/" class="logo" title="Home">Food52</a>
+          <nav>
+            <ul>
+              <li><a href="/blog" class="section-link">Columns</a>
+                <div class="frame wide">
+                  <ul>
+                      <li><a href="/blog/category/103-cooking-from-every-angle">Cooking From Every Angle</a></li>
+                      <li><a href="/blog/category/123-weeknights-with-jenny">Weeknights with Jenny</a></li>
+                      <li><a href="/blog/category/128-genius-recipes">Genius Recipes</a></li>
+                      <li><a href="/blog/category/148-sunday-dinners">Sunday Dinners</a></li>
+                      <li><a href="/blog/category/149-kitchen-confidence">Kitchen Confidence</a></li>
+                      <li><a href="/blog/category/156-dinner-vs-child">Dinner vs. Child</a></li>
+                      <li><a href="/blog/category/158-the-new-veganism">The New Veganism</a></li>
+                      <li><a href="/blog/category/167-booze52">Booze52</a></li>
+                  </ul>
+                  <a href="http://food52.com/recipes/13566-green-chile-chicken-posole-soup" class="feature" title="Read article">
+                    <img alt="Food52_05-08-12-7938" nopin="nopin" src="//d2k9njawademcf.cloudfront.net/homepage_promo_images/2954/five_col/food52_05-08-12-7938.jpg?1379880650" />
+                    <div>
+                      <h4>Featured Article</h4>
+                      <h3>Chicken soup gets warmed up with gentle spice.</h3>
+                    </div>
+</a>                </div>
+              </li>
+              <li><a href="/recipes" class="section-link">Recipes</a>
+                <div class="frame wide">
+                  <ul>
+                    <li><a href="/recipes/new"><strong>Add a Recipe &raquo;</strong></a></li>
+                    <li><a href="/recipes/search?cat=top-recipes">Top Recipes</a></li>
+                    <li><a href="/recipes/search?cat=community-picks">Community Picks</a></li>
+                    <li><a href="/recipes/search?cat=contest-winners">Contest Winners</a></li>
+                    <li><a href="/blog/category/128-genius-recipes">Genius Recipes</a></li>
+                    <li><a href="/recipes/search?cat=fall">Recipes for Fall</a></li>
+                  </ul>
+                  <a href="/recipes/19368-michael-ruhlman-s-rosemary-brined-buttermilk-fried-chicken" class="feature" title="View recipe">
+                    <img alt="Michael Ruhlman&#x27;s Rosemary-Brined, Buttermilk Fried Chicken" nopin="nopin" src="//d2k9njawademcf.cloudfront.net/indeximages/28817/five_col/184_food52120707_2L0A2558_184.jpg?1380094899" />
+                    <div>
+                      <h4>Featured Recipe</h4>
+                      <h3>Michael Ruhlman&#x27;s Rosemary-Brined, Buttermilk Fried Chicken</h3>
+                    </div>
+</a>                </div>
+              </li>
+              <li><a href="/contests" class="section-link">Contests</a>
+                <div class="frame wide">
+                  <ul>
+                    <li><a href="/contests/343-your-best-spicy-recipe"><strong>The Current Contest &raquo;</strong></a></li>
+                    <li><a href="/recipes/23676-roasted-tomato-jam">The Latest Winner</a></li>
+                    <li><a href="/contests/archives">Contest Winners</a></li>
+                    <li><a href="/recipes/wildcards">Wildcard Winners</a></li>
+                    <li><a href="/blog/category/137-winners-qa">Meet the Winning Cooks</a></li>
+                    <li><a href="/contests/about">About the Contests</a></li>
+                  </ul>
+                  <a href="/contests/343-your-best-spicy-recipe" class="feature" title="View contest">
+                    <img alt="Your Best Spicy Recipe " nopin="nopin" src="//s3.amazonaws.com/food52_assets/contests/343/medium/2013-0806_theme-spicy-food-014.jpg?1378127417" />
+                    <div>
+                      <h4>finalists</h4>
+                      <h3>Your Best Spicy Recipe </h3>
+                    </div>
+</a>                </div>
+              </li>
+              <li><a href="/hotline" class="section-link current">Hotline</a>
+                <div class="frame narrow">
+                  <a href="/hotline" class="hotline"><strong>Ask</strong> any food question. <br/>Or <strong>answer</strong> any food question!</a>
+                </div>
+              </li>
+              <li><a href="/provisions" class="section-link provisions">Provisions</a>
+                <div class="frame provisions">
+                  <ul>
+                    <li><strong><a href="/provisions/collections">Collections&raquo;</a></strong></li>
+                      <li><a href="/provisions/kitchen">Kitchen</a></li>
+                      <li><a href="/provisions/table">Table</a></li>
+                      <li><a href="/provisions/outdoors">Outdoors</a></li>
+                      <li><a href="/provisions/one-of-a-kind">One-of-a-Kind</a></li>
+                      <li><a href="/provisions/pantry">Pantry</a></li>
+                  </ul>
+                  <a href="/provisions/collections/freshly-picked-apples" class="feature">
+                    <img alt="Ixjcv1j9e9e7hzvgdyh8izxodvi_t0ur5ba6c84vbpgnongkh1fr9ldgzkslpziybxx1acu05x50mast6xk" nopin="nopin" src="//lh5.ggpht.com/ixjcV1j9e9e7hzVGdyH8izxOdVi_t0Ur5ba6c84vBPGNoNgkH1fr9LDgzkSlPziybXx1aCu05x50maST6xk" />
+                    <div>
+                      <h4>Latest Collection</h4>
+                      <h3>Freshly Picked: Apples</h3>
+                    </div>
+</a>                </div>
+              </li>
+            </ul>
+          </nav>
+
+          <div class="user-info pre-ko-hide" data-bind="ifnot: base.pendingLoginCheck">
+            <div class="user-nav" data-bind="css: {sessionless: !base.currentUser()}">
+              <a href="#" class="current-user">
+                <span class="avatar">
+                  <img alt="Default-small-global-nav" data-bind="attr: { src: base.currentUser() ? base.currentUser().imageUrl  : &#x27;/assets/avatars/default-small-global-nav.png&#x27;}" src="/assets/avatars/default-small-global-nav-9b2e8853845d9f854de59a783eae80fb.png" />
+                </span>
+                <span class="ss-icon">&#xF501;</span>
+              </a>
+              <ul>
+                <!-- ko if: base.currentUser -->
+                  <li>
+                    <a data-bind="attr: { href: base.currentUser().url }" class="profile" title="Your profile"><span data-bind="text: base.currentUser().login"></span>View Profile</a>
+                  </li>
+                  <li>
+                    <a data-bind="attr: { href: base.currentUser().url }" id="recipe_link" title="Recipes you've saved">Recipe Collections</a>
+                  </li>
+                  <li>
+                    <a data-bind="attr: { href: base.currentUser().saved_posts_url }" title="Articles you've saved">Saved Articles</a>
+                  </li>
+                  <li>
+                    <a data-bind="attr: { href: base.currentUser().recipes_added_url }" title="Recipes you've added">Recipes</a>
+                  </li>
+                  <li class="divider">
+                    <a href="/users/orders">My Orders</a>
+                  </li>
+                  <li class="divider">
+                    <a href="/users/dashboard" title="Edit your profile and settings">Account Settings</a>
+                  </li>
+                  <li>
+                    <a href="/users/sign_out" data-method="delete" id="header-signout" rel="nofollow">Log Out</a>
+                  </li>
+                <!-- /ko -->
+                <!-- ko ifnot: base.currentUser -->
+                  <li><a href="/users/sign_up" id="header-signup">Sign Up</a></li>
+                  <li><a href="/users/sign_in" id="header-login">Log In</a></li>
+                <!-- /ko -->
+              </ul>
+            </div>
+
+            <!-- ko ifnot: base.currentUser -->
+              <p><a href="/users/sign_in" class="link" id="header-login">Log In</a> or
+                <a href="/users/sign_up" class="btn primary" id="header-signup">Sign Up</a></p>
+            <!-- /ko -->
+          </div>
+            <a href="#" class="mobile-toggle ss-icon ss-standard" id="mobile-search-toggle" rel="nofollow">&#x1F50E;</a>
+            <div class="global-header-search">
+              <form action="/home/search">
+                <input autocapitalize="off" class="search" id="search" name="search" placeholder="Search&hellip;" type="search" />
+                <label>
+                  <select class="context" name="option" title="Recipes">
+                    <option value="recipes">in Recipes</option>
+                    <option value="articles">in Columns</option>
+                    <option value="hotline" selected>in Hotline</option>
+                    <option value="users">in Users</option>
+                  </select>
+                </label>
+                <input class="ss-icon ss-standard" id="submit" name="commit" type="submit" value="&#x1F50E;" />
+              </form>
+            </div>
+        </header>
+      </div>
+
+        <div id="flash-notice" class="dynamic">
+          <div class="block-container">
+            <span class="ss-icon">&#x2713;</span><span class="message"></span>
+          </div>
+        </div>
+
+          <div id="leaderboard-block">
+      <div id="div-gpt-ad-1378318893753-0">
+        <script>
+          googletag.cmd.push(function() { googletag.display('div-gpt-ad-1378318893753-0'); });
+        </script>
+      </div>
+    </div>
+    <div class="mobile-leaderboard-block" id="div-gpt-ad-1378318893753-1">
+      <script>
+        googletag.cmd.push(function() { googletag.display('div-gpt-ad-1378318893753-1'); });
+      </script>
+    </div>
+
+  <div id="page-body-block">
+    
+    <div class="block-container">
+      
+      <div class="errorModule">
+  <h3 rel="error">Oops! That page doesn't exist.</h3>
+  <div class="bttnWrapper">
+    <a class="btn" href="#" onclick="history.back();return false;">&laquo;BACK</a>
+  </div>
+  <div class="rule"></div>
+  <p>Looking for something in particular?</p>
+  <p>Try the the search box above.</p><br/>
+
+    <h3 rel="error">In the meantime, here is one of our favorite recipes:</h3>
+  <div class="errorRecipe">
+    <ol>
+      <li>1. Slice a baguette.</li>
+      <li>2. Lay a piece of chocolate on top.</li>
+      <li>3. Place in a 350 degree oven until the chocolate melts.</li>
+      <li>4. Sprinkle with olive oil and sea salt.</li>
+    </ol>
+  </div>
+  <br/>
+  <p class="errorFooter">Do let us know if this error persists -- we're at <a href="mailto:editors@food52.com">editors@food52.com</a></p>
+
+</div>
+      <div class="clearfix"></div>
+    </div>
+  </div>
+
+
+      <div id="global-footer-block">
+        <div class="block-container">
+          <div class="column first">
+            <!-- <h3>Connect</h3> -->
+            <div>
+              <a href="http://facebook.com/food52" class="ss-icon ss-social-circle facebook" target="_blank" title="Food52 on Facebook">&#xF610;</a>
+              <a href="http://twitter.com/Food52" class="ss-icon ss-social-circle twitter" target="_blank" title="Food52 on Twitter">&#xF611;</a>
+              <a href="https://plus.google.com/+food52/" class="ss-icon ss-social-circle google-plus" target="_blank" title="Food52 on Google Plus" rel="publisher">&#xF613;</a>
+              <a href="http://instagram.com/Food52" class="ss-icon ss-social-circle instagram" target="_blank" title="Food52 on Instagram">&#xF641;</a>
+              <a href="http://pinterest.com/Food52" class="ss-icon ss-social-circle pinterest" target="_blank" title="Food52 on Pinterest">&#xF650;</a>
+            </div>
+            <p><strong>&copy;2013 Food52</strong> <br/>
+              <a href="http://nytm.org/made-in-nyc" target="_blank"><span class="ss-icon ss-pika">&#xF162;</span>Made in NYC</a> <br>
+              <a href="/terms-of-service">Terms</a> | <a href="/privacy-policy">Privacy</a></p>
+          </div>
+          <div class="column">
+            <h3>Find</h3>
+            <ul>
+              <li><a href="/blog">Columns</a></li>
+              <li><a href="/recipes">Recipes</a></li>
+              <li><a href="/contests">Contests</a></li>
+              <li><a href="/hotline">Hotline</a></li>
+              <li><a href="/provisions">Provisions</a></li>
+              <li><a href="/the-piglet">The Piglet</a></li>
+            </ul>
+          </div>
+          <div class="column">
+            <h3>Company</h3>
+            <ul>
+              <li><a href="/about-food52">About Us</a></li>
+              <li><a href="/team">Team</a></li>
+              <li><a href="/jobs">Jobs<em class='hideable'> - We're Hiring!</em></a></li>
+              <li><a href="/contact">Contact</a></li>
+              <li><a href="/faq">FAQs</a></li>
+              <li><a href="/articles/category/115_press">Press</a></li>
+              <li><a href="mailto:advertising@food52.com" target="_blank">Advertising</a></li>
+            </ul>
+          </div>
+          <div class="column">
+            <h3>Provisions</h3>
+            <ul>
+              <li><a href="/users/orders">My Orders</a></li>
+              <li><a href="/provisions/collections">Shop Collections</a></li>
+              <li><a href="https://food52.zendesk.com/anonymous_requests/new" class="open-zendesk-popup" target="_blank">Get Help</a></li>
+              <li><a href="/faq#provisions">FAQ</a></li>
+              <li><a href="/provisions/referrals">Refer Friends, Get $25</a></li>
+            </ul>
+          </div>
+          <div class="column partners">
+            <h3>Partners</h3>
+            <ul>
+              <li><a href="http://wholefoodsmarketcooking.com" target="_blank"><img alt="Whole Foods Market" nopin="true" src="/assets/footer/partner-wfmc-68dd38ff3c588944e94c11aadb20280b.png" width="190" /></a></li>
+              <li><a href="http://www.realtimefarms.com" target="_blank"><img alt="Real Time Farms" nopin="true" src="/assets/footer/partner-rtf-302e984ea03dd2360ccd699338d23413.png" width="190" /></a></li>
+              <li><a href="http://www.firstgrowthvn.com" target="_blank"><img alt="First Growth Venture Network" nopin="true" src="/assets/footer/partner-first-growth-d2f259c3ff5fb82e76f1065e151be646.png" /></a></li>
+                <li>
+                  <script>
+                    glam_affiliate_id = '1656573373';
+                    glam_logo_type = 'Foodie';
+                    glam_logo_size = '160x48';
+                    color_or_grayscale_flag ='';
+                    glam_logo_color = 'gry';
+                    glam_gs_logo_color = 'wht';
+                    glam_logo_country = 'US';
+                  </script>
+                  <div id="glam-logo"></div>
+                </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div id="ko-login-wrapper" data-bind="with: loginSystem.loginModal" class="pre-ko-hide">
+      <div id="ko-modal-bg" class="modal-bg" data-bind="visible: showing"></div>
+      <div id="ko-login-modal" data-bind="visible: showing">
+        <a href="#" class="dismiss ss-icon">&#x2421;</a>
+        <div class="loading-overlay" data-bind="visible: loading"></div>
+        <div class="loading-gif" data-bind="visible: loading"></div>
+        <div class="devise-form">
+  <!-- ko if: signingUp -->
+    <h3>Sign Up <i>Already a member? <a href="/users/sign_in" class="toggle-sign-mode">Log In</a></i></h3>
+
+    <form id="signup-form">
+
+      <div class="error-explanation" data-bind="visible: createErrors().length > 0">
+        <p>
+          <!-- ko if: createErrors().length === 1 -->
+            1 error
+          <!-- /ko -->
+          <!-- ko if: createErrors().length > 1 -->
+            <span data-bind="text: createErrors().length"></span> errors
+          <!-- /ko -->
+          prevented successful signup:
+        </p>
+        <ul data-bind="foreach: createErrors">
+          <li data-bind="text: $data[1]"></li>
+        </ul>
+      </div>
+
+      <div class="session-field" data-bind="css: {field_with_errors: hasCreateError('login')}">
+        <label for="user_login">Name</label>
+        <div>
+          <span class="ss-icon">&#x1F464;</span>
+          <input data-bind="value: createLogin" id="user_login" name="user_login" placeholder="name" type="text" />
+        </div>
+      </div>
+
+      <div class="session-field" data-bind="css: {field_with_errors: hasCreateError('email')}">
+        <label for="user_email">Email</label>
+        <div>
+          <span class="ss-icon">&#x2709;</span>
+          <input data-bind="value: createEmail" id="user_email" name="user_email" placeholder="email" type="email" />
+        </div>
+      </div>
+
+      <div class="session-field" data-bind="css: {field_with_errors: hasCreateError('password')}">
+        <label for="user_password">Password</label>
+        <div>
+          <span class="ss-icon">&#x1F512;</span>
+          <input type="password" data-bind="value: createPassword" name="user[password]" placeholder="password"  />
+        </div>
+      </div>
+
+      <div class="session-field check-box">
+        <input data-bind="checked: createReceiveNewsletter" id="user_receive_newsletter" name="user[receive_newsletter]" type="checkbox" value="1" checked="checked">
+        <label for="user_receive_newsletter">
+          <strong>Get our handsome and useful recipe newsletters (2-3 a week)</strong>
+        </label>
+      </div>
+
+      <div class="session-field check-box">
+        <input data-bind="checked: createReceiveShopNewsletter" id="user_receive_provisions_newsletter" name="user[receive_provisions_newsletter]" type="checkbox" value="1" checked="checked">
+        <label for="user_receive_provisions_newsletter">
+          <strong>Keep up with what's new and exclusive in Provisions, our kitchen and home shop</strong>
+        </label>
+      </div>
+
+      <div class="session-field">
+        I affirm I'm 18 or older and have read the
+          <a href="/terms-of-service" target="_blank">Terms of Service</a> and
+          <a href="/privacy-policy" target="_blank">Privacy Policy</a>.
+      </div>
+
+      <div class="session-field">
+        <input class="btn primary" name="commit" type="submit" value="Sign Up!" />
+      </div>
+    </form>
+  <!-- /ko -->
+
+  <!-- ko if: signingIn -->
+    <h3>Log In <i>Need an account? <a href="/users/sign_up" class="toggle-sign-mode">Sign Up</a></i></h3>
+
+    <form id="login-form" novalidate>
+      <div class="error-explanation" data-bind="visible: loginErrors().length > 0">
+        <p>
+          <!-- ko if: loginErrors().length === 1 -->
+            1 error
+          <!-- /ko -->
+          <!-- ko if: loginErrors().length > 1 -->
+            <span data-bind="text: loginErrors().length"></span> errors
+          <!-- /ko -->
+          prevented successful login:
+        </p>
+        <ul data-bind="foreach: loginErrors">
+          <li data-bind="html: $data[1]"></li>
+        </ul>
+      </div>
+
+      <div class="session-field">
+        <label for="email">Email</label>
+        <div>
+          <span class="ss-icon">&#x2709;</span>
+          <input data-bind="value: loginEmail" id="email" name="email" placeholder="email" type="email" />
+        </div>
+      </div>
+
+      <div class="session-field">
+        <label for="password">Password</label>
+        <div>
+          <span class="ss-icon">&#x1F512;</span>
+          <input data-bind="value: loginPassword, valueUpdate: [&#x27;keyup&#x27;,&#x27;search&#x27;]" id="password" name="password" placeholder="password" type="password" />
+        </div>
+      </div>
+
+      <div class="session-field">
+        <input class="btn primary" name="commit" type="submit" value="Log In" />
+        <a href="/users/password/new" class="forgot">Forgot password?</a>
+      </div>
+    </form>
+  <!-- /ko -->
+
+  <div class="facebook-connect">
+    <h3><span>Or</span></h3>
+    <a href="#" class="btn-facebook-login"><span class="ss-icon ss-social-regular">&#xF610;</span> Facebook</a>
+    <p>We'll never post anything without your permission.</p>
+  </div>
+</div>
+
+<script>
+  if (!Modernizr.input.placeholder){
+    $('.session-field label').show();
+  }
+</script>
+
+      </div>
+    </div>
+
+    <div id="email-modal-wrapper">
+      <div id="email-modal-bg" class="modal-bg"></div>
+      <div id="email-modal">
+        <a href="#" class="dismiss ss-icon">&#x2421;</a>
+        <div class="inner">
+          <div class="photos">
+            <div class="photo"><img src="//lh5.ggpht.com/MuaT2HmiZo1NTLkoHC4RaCon6PmhUa9mrK1SDj-RqTRMvPdXt4P0JV6Kngrd32LYUW61yNxkhSg8ce_dXVXV=s300-c" nopin="nopin"></div>
+            <div class="photo"><img src="//lh5.ggpht.com/3YPVUYeSk6f_cxp7GTjsxcf8R_9vLqKZDcTIZ5WVrzcuA8x5MvwYlNTXFDnf-IKoqBWVpOyqNvP_6j1FSn_d=s300-c" nopin="nopin"></div>
+            <div class="photo fourth"><img src="//lh5.ggpht.com/3kYLG8X2M6fHr9ZpMtYs9kJiZl7Ei8iAqNQ2Gh9DxBh7OXoyOjRW7rVmJgcPIIjlAI5-BlZNiZYsYfjx3syOqA=s300-c" nopin="nopin"></div>
+            <div class="photo third"><img src="//lh4.ggpht.com/dc2tQJGgEXnI6XHq9WLiQbduw3sUt5_QDNvUH76Omfgid_EpDVVvdGVBjA-zWMu29LC3ytlgqkt-e47FZZwb=s300-c" id="last-email-modal-img" nopin="nopin"></div>
+            <br class="clear-left">
+          </div>
+          <div class="messaging">
+            <h2></h2>
+            <p class="tagline">
+              How you eat is how you live. <br>Let's eat well together.
+            </p>
+            <p class="offer">
+              Sign up for our useful and inspired emails.
+              <br>Plus, get a $10 credit at <strong><i>Provisions</i></strong>, our new kitchen&nbsp;and&nbsp;home shop.
+            </p>
+            <form method="POST" action="/emailmodal/signup">
+              <label for="email">Your Email Address</label>
+              <input class="email" type="email" placeholder="Your Email Address">
+              <input class="submit" type="submit" value="Sign Up">
+              <p class="error">Please enter a valid email address.</p>
+            </form>
+            <p class="confirm">
+              Well played.<br> You deserve <a href="/recipes/8595-magical-marvelous-memorable-cookies">a cookie</a>.</p>
+          </div>
+          <br class="clear-left">
+        </div>
+      </div>
+    </div>
+
+    
+    <script type="text/javascript">
+      (function() {
+        if (typeof(f52) === 'undefined') {
+          f52 = {};
+        }
+        if (typeof(f52.inputs) === 'undefined') {
+          f52.inputs = {};
+        }
+        var base = {"logoutUrl":"/users/ajax_logout","loginUrl":"/users/ajax_login","fbLoginUrl":"/users/ajax_fb_login","signupUrl":"/users/ajax_signup","loginRequiresNoPageRefresh":null,"neverShowEmailModal":null};
+        f52.inputs.base = base;
+      })();
+    </script>
+    
+
+      <script>
+  var _gaq=[['_setAccount','UA-9081548-1'],['_trackPageview']];
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+
+    
+  <script src="/assets/application-19de0a0655ca3a0fe7c2ce3fe9b67cc5.js" type="text/javascript"></script>
+
+    
+    <script>f52.kovm.bindViewModel();</script>
+
+    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
+      <!-- Chartbeat Async script 2 of 2 -->
+      <script>
+        var _sf_async_config={};
+        _sf_async_config.uid = 2344;
+        _sf_async_config.domain = "food52.com";
+        (function(){
+          function loadChartbeat() {
+            window._sf_endpt=(new Date()).getTime();
+            var e = document.createElement("script");
+            e.setAttribute("language", "javascript");
+            e.setAttribute("type", "text/javascript");
+            e.setAttribute('src', '//static.chartbeat.com/js/chartbeat.js');
+            document.body.appendChild(e);
+          }
+          var oldonload = window.onload;
+          window.onload = (typeof window.onload != "function") ?
+             loadChartbeat : function() { oldonload(); loadChartbeat(); };
+        })();
+      </script>
+
+      <script>
+        $(function(){
+          if (typeof(_gaq) !== "undefined") {
+            $(".track-ga-click-event").on("click", function(e){
+              var url;
+              var isA = $(this).is("a");
+
+              // Check For Anchor Tag
+              if(isA) {
+                var target = this.target || "_self";
+                e.preventDefault();
+                url =  this.href;
+              }
+
+              // Setup The Options
+              var options = {
+                  category: $(this).data("ga-category") || '',
+                  action:   $(this).data("ga-action") || '',
+                  label:    $(this).data("ga-label") || '',
+                  value:    $(this).data("ga-value") || 0
+              };
+
+              // Push To Google
+              _gaq.push(['_trackEvent', options.category, options.action, options.label, options.value]);
+
+              // Give _gaq Time To Push
+              if (isA){setTimeout(function(){window.open(url,target);}, 110);}
+            });
+          }
+          else {
+              // Analytics not activated - Most likely devevelopment env - Do nothing
+              //console.log("Missing Analytics Analytics Tracking Code")
+          }
+        });
+      </script>
+
+      <script>
+        /**
+         *  @author:  Danny Ng (http://www.dannytalk.com)
+         *  @date:    30/08/08
+         *  @updated: 26/09/08
+         *  @notes:   Free to use and distribute without altering this notice. Would appreciate a link back.
+         */
+        var dtalk_ga = {
+         applyVirtualExits: function() {
+
+           var trackPage = function(a) {
+             var domain_name = document.location.toString().toLowerCase().split('/')[2];
+             var exit_domain = a.href.split('/')[2].toLowerCase();
+
+             if (domain_name.toLowerCase().indexOf(exit_domain) == -1) {
+               _gaq.push(['_trackEvent', 'Exit', exit_domain, a.href]);
+             }
+           };
+
+           var anchors = document.getElementsByTagName('a');
+
+           for (var i = 0; i < anchors.length; i++) {
+
+             if (anchors[i].href && anchors[i].href != (document.location + '#') && anchors[i].href.indexOf("#") == -1) {
+
+               if (anchors[i].onclick == undefined || typeof anchors[i].onclick == 'undefined') {
+                  anchors[i].onclick = function(e) {
+                      trackPage(this);
+                  };
+                } else if (typeof anchors[i].onclick == 'function') {
+                  var old_onclick = anchors[i].onclick;
+                  anchors[i].onclick = function(e) {
+                    old_onclick();
+                    trackPage(this);
+                  };
+                }
+              }
+            }
+          }
+        };
+
+        dtalk_ga.applyVirtualExits();
+      </script>
+
+      <!-- Begin comScore Tag -->
+      <script>
+        var _comscore = _comscore || [];
+        _comscore.push({ c1: "2", c2: "6036036" });
+        (function() {
+          var s = document.createElement("script"), el = document.getElementsByTagName("script")[0];
+          s.async = true;
+          s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+          el.parentNode.insertBefore(s, el);
+        })();
+      </script>
+      <noscript>
+        <img src="http://b.scorecardresearch.com/p?c1=2&c2=6036036&cv=2.0&cj=1" alt="" />
+      </noscript>
+
+      <script type="text/javascript">
+          adroll_adv_id = "LK3JAZ45HNGHLALM3U5R5Y";
+          adroll_pix_id = "X7O5KBCUHREJPEGP5MER5K";
+          (function () {
+              var oldonload = window.onload;
+              window.onload = function(){
+                  __adroll_loaded=true;
+                  var scr = document.createElement("script");
+                  var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+                  scr.setAttribute('async', 'true');
+                  scr.type = "text/javascript";
+                  scr.src = host + "/j/roundtrip.js";
+                  ((document.getElementsByTagName('head') || [null])[0] ||
+                          document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+                  if(oldonload){oldonload()}};
+          }());
+      </script>
+
+   
+
+    <script src="//assets.zendesk.com/external/zenbox/v2.6/zenbox.js"></script>
+    <style type="text/css" media="screen, projection">
+      @import url(//assets.zendesk.com/external/zenbox/v2.6/zenbox.css);
+    </style>
+    <script>
+      if (typeof(Zenbox) !== "undefined") {
+        Zenbox.init({
+          dropboxID:   "20194731",
+          url:         "https://food52.zendesk.com",
+          tabTooltip:  "Help",
+          tabImageURL: "https://assets.zendesk.com/external/zenbox/images/tab_help.png",
+          tabColor:    "#909090",
+          tabPosition: "Left"
+        });
+      }
+    </script>
+
+    
+  </body>
+</html>

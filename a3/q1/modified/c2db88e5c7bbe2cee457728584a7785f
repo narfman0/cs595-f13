@@ -1,0 +1,1016 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML+RDFa 1.1//EN">
+<html lang="en" dir="ltr" version="HTML+RDFa 1.1"
+  xmlns:c="http://s.opencalais.com/1/pred/"
+  xmlns:sys="http://s.opencalais.com/1/type/sys/"
+  xmlns:lid="http://s.opencalais.com/1/type/lid/"
+  xmlns:cat="http://s.opencalais.com/1/type/cat/"
+  xmlns:resolved="http://s.opencalais.com/1/type/er/"
+  xmlns:cgeo="http://s.opencalais.com/1/type/er/Geo/"
+  xmlns:eventfact="http://s.opencalais.com/1/type/em/r/"
+  xmlns:entity="http://s.opencalais.com/1/type/em/e/"
+  xmlns:cld="http://s.opencalais.com/1/linkeddata/pred/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta charset="utf-8" />
+<meta property="og:site_name" content="Billboard" />
+<meta property="og:url" content="http://www.billboard.com/articles/columns/pop-shop/5720660/miley-cyrus-invades-a-high-school-in-mike-will-made-its-23-video" />
+<meta property="og:type" content="article" />
+<meta property="dcterms.format" content="text/html" />
+<meta property="dcterms.type" content="Text" />
+<meta content="Miley Cyrus Invades A High School in Mike WiLL Made It&amp;#039;s &amp;#039;23&amp;#039; Video: Watch" about="/articles/columns/pop-shop/5720660/miley-cyrus-invades-a-high-school-in-mike-will-made-its-23-video" property="dc:title" />
+<meta about="/articles/columns/pop-shop/5720660/miley-cyrus-invades-a-high-school-in-mike-will-made-its-23-video" property="sioc:num_replies" content="0" datatype="xsd:integer" />
+<link rel="apple-touch-icon-precomposed" href="/sites/all/themes/bb/images/billboard-touch-icon-precomposed.png" sizes="72x72" />
+<link rel="apple-touch-icon-precomposed" href="/sites/all/themes/bb/images/billboard-touch-icon-precomposed-retina.png" sizes="114x114" />
+<link rel="apple-touch-icon-precomposed" href="/sites/all/themes/bb/images/billboard-touch-icon-precomposed-phone.png" />
+<meta name="sailthru.date" content="2013-09-24T14:45:22-04:00" />
+<link rel="shortcut icon" href="http://www.billboard.com/files/bb-favicon-alpha.png" type="image/png" />
+<meta name="sailthru.tags" content="News,Pop-Shop,The Juice" />
+<link rel="shortlink" href="http://www.billboard.com/node/5720660" />
+<link rel="canonical" href="http://www.billboard.com/articles/columns/pop-shop/5720660/miley-cyrus-invades-a-high-school-in-mike-will-made-its-23-video" />
+<meta property="og:image" content="http://www.billboard.com/files/media/miley-cyrus-juice-j-wiz-khalifa-23-music-video-650-430.jpg" />
+<meta name="description" content="Mike WiLL Made It has produced massive hits for Miley Cyrus (&quot;We Can&#039;t Stop&quot;) and Juicy J (&quot;Bandz A Make Her Dance&quot;). How did those artists repay the hip-hop maestro? By going back to high school, of course, and bringing Wiz Khalifa along for the ride!" />
+<meta name="parsely-page" content="{&quot;title&quot;:&quot;Miley Cyrus Invades A High School in Mike WiLL Made It&#039;s &#039;23&#039; Video: Watch&quot;,&quot;link&quot;:&quot;www.billboard.com\/node\/5720660&quot;,&quot;image_url&quot;:&quot;http:\/\/www.billboard.com\/files\/media\/miley-cyrus-juice-j-wiz-khalifa-23-music-video-650-430.jpg&quot;,&quot;type&quot;:&quot;post&quot;,&quot;post_id&quot;:&quot;5720660&quot;,&quot;pub_date&quot;:&quot;2013-09-24T14:45:22-04:00&quot;,&quot;section&quot;:&quot;Article&quot;,&quot;author&quot;:&quot;Jason Lipshutz&quot;,&quot;tags&quot;:&quot;&quot;}" />
+<script type="text/javascript">var _sf_startpt=(new Date()).getTime();</script>
+<meta name="OBKey" content="2FjaRlq7We+cAr6hrz12ZA==" />
+<meta property="dcterms.title" content="Miley Cyrus Invades A High School in Mike WiLL Made It&#039;s &#039;23&#039; Video: Watch" />
+<meta property="dcterms.date" content="2013-09-24T14:45-04:00" />
+<meta property="og:title" content="Miley Cyrus Invades A High School in Mike WiLL Made It&#039;s &#039;23&#039; Video: Watch" />
+<meta property="og:description" content="Mike WiLL Made It has produced massive hits for Miley Cyrus (&quot;We Can&#039;t Stop&quot;) and Juicy J (&quot;Bandz A Make Her Dance&quot;)." />
+<meta property="dcterms.creator" content="jason.lipshutz" />
+<meta property="dcterms.language" content="und" />
+<meta property="dcterms.identifier" content="http://www.billboard.com/articles/columns/pop-shop/5720660/miley-cyrus-invades-a-high-school-in-mike-will-made-its-23-video" />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+  <title>Miley Cyrus Invades A High School in Mike WiLL Made It&#039;s &#039;23&#039; Video: Watch | Billboard</title>
+  <link type="text/css" rel="stylesheet" href="http://www.billboard.com/files/css/css_pbm0lsQQJ7A7WCCIMgxLho6mI_kBNgznNUWmTWcnfoE.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.billboard.com/files/css/css_H2Ds0Szmus79ZU6G0Gv8be7ZJhXfUee6g7XMh6DqVAQ.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.billboard.com/files/css/css_jnc83a0W7KMCxBc5c-VKNRG4cN8brGeqGJ2KVN8qtYo.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.billboard.com/files/css/css_Tj3807Nvil4iVHKhrMYzhNeP5BeKOM4QNGt_QB6-Chg.css" media="screen" />
+<link type="text/css" rel="stylesheet" href="http://www.billboard.com/files/css/css_zGRh2678TvYYO5TKsSPs4EGJS8DZYacD5VNTQRhPCNk.css" media="print" />
+  <script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.google_analytics_uacct = "UA-1266747-9";
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://www.billboard.com/files/js/js_Fk2EtWXE7LCynSwKaRdAXUBdaCDoMujrnIEpGHWyzko.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+    (function() {
+      var useSSL = "https:" == document.location.protocol;
+      var src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+      document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
+    })();
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://www.billboard.com/files/js/js_PdiuypZMI8o81AYEdTHwjRslVPEF69JFzr7Y9sMWt4s.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+    function DARTLegolasGetCookie(name) {
+        var nameEQ = name + "=";
+        var ca = document.cookie.split(';');
+        for (var i = 0; i < ca.length; i++) {
+          var c = ca[i];
+          while (c.charAt(0) == ' ') c = c.substring(1, c.length);
+          if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length, c.length);
+        }
+        return null;
+    }
+    var segments = [];
+    //Read the cookie
+    var lsg = DARTLegolasGetCookie('lsg');
+    if (lsg) {
+      //Tokenize
+      var cookieTokens = this.lsg.split('s');
+
+      //Build string for dart requests
+      for(var i=0; i < cookieTokens.length; i++) {
+        if (cookieTokens[i] != '0') { 
+          segments.push(cookieTokens[i]); 
+        }
+      }
+    }
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://www.billboard.com/files/js/js_BOf-FR7Wm4w7K3OBdPkmXp2iRQpRf-PeYx-FfmQKi-c.js"></script>
+<script type="text/javascript" src="http://www.billboard.com/files/js/js_-jenMcWHoY-_YofME9QdfIdN78Hvtfo2npip2cxdObU.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+googletag.cmd.push(function() {
+googletag.defineSlot("/6419/billboard/articles/columns", [[970, 250], [970, 90], [970, 66]], "dfp-ad-t")
+  .addService(googletag.companionAds())
+  .addService(googletag.pubads())
+  .setTargeting("pos", "t")
+  .setTargeting("nid", "5720660")
+  .setTargeting("tags", ["Pop-Shop","The Juice","News"]);
+})
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+googletag.cmd.push(function() {
+googletag.defineSlot("/6419/billboard/articles/columns", [[300, 250], [300, 600], [300, 1050]], "dfp-ad-m1")
+  .addService(googletag.companionAds())
+  .addService(googletag.pubads())
+  .setTargeting("pos", "m1")
+  .setTargeting("dartlegolas", segments)
+  .setTargeting("nid", "5720660")
+  .setTargeting("tags", ["Pop-Shop","The Juice","News"]);
+})
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+googletag.cmd.push(function() {
+googletag.defineSlot("/6419/billboard/articles/columns", [300, 250], "dfp-ad-m2")
+  .addService(googletag.companionAds())
+  .addService(googletag.pubads())
+  .setTargeting("pos", "m2")
+  .setTargeting("dartlegolas", segments)
+  .setTargeting("nid", "5720660")
+  .setTargeting("tags", ["Pop-Shop","The Juice","News"]);
+})
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+googletag.cmd.push(function() {
+googletag.defineSlot("/6419/billboard/articles/columns", [728, 90], "dfp-ad-a")
+  .addService(googletag.companionAds())
+  .addService(googletag.pubads())
+  .setTargeting("pos", "a")
+  .setTargeting("dartlegolas", segments)
+  .setTargeting("nid", "5720660")
+  .setTargeting("tags", ["Pop-Shop","The Juice","News"]);
+})
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+googletag.cmd.push(function() {
+googletag.defineOutOfPageSlot("/6419/billboard/articles/columns", "dfp-ad-o1")
+  .addService(googletag.companionAds())
+  .addService(googletag.pubads())
+  .setTargeting("nid", "5720660")
+  .setTargeting("tags", ["Pop-Shop","The Juice","News"]);
+})
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://www.billboard.com/files/js/js_EppbyVRYhU34reEYHpU3cF7DDqB8y46khqgW9yA_hAQ.js"></script>
+<script type="text/javascript" src="http://www.billboard.com/files/js/js_8_ECbCCh3rwv9R29V_MUYHrjpTH3e0pEaCur9_NOfhY.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+googletag.cmd.push(function() {
+  googletag.pubads().enableAsyncRendering();
+  googletag.pubads().enableSingleRequest();
+  googletag.pubads().collapseEmptyDivs();
+  googletag.pubads().setTargeting("tags_global", ["articles","columns","pop-shop","5720660","miley-cyrus-invades-a-high-school-in-mike-will-made-its-23-video"]);
+});
+googletag.enableServices();
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://www.billboard.com/files/js/js_t7h6pxjzUm3b-0WRrUEPEIQsOPoZh1h3bCc1fwbew7g.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+SA.redirection_mobile ({redirection_param : 'mobile_redirection',mobile_url   : 'm.billboard.com',cookie_hours : '2', keep_path    : true, keep_query   : true, });
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://admin.brightcove.com/js/BrightcoveExperiences.js"></script>
+<script type="text/javascript" src="http://www.billboard.com/files/js/js_SOvllzNvex-Qe_E0fVax0CyaJkYx3_OIFl5m9ZT2cPE.js"></script>
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+<script type="text/javascript" src="http://www.billboard.com/files/js/js_GCrULKj3UnUxePqBRhrrnbJqwarfBmRL-x1B0bRyicI.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-1266747-9"]);_gaq.push(["_trackPageview"]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = ("https:" == document.location.protocol ? "https://" : "http://") + "stats.g.doubleclick.net/dc.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://www.billboard.com/files/js/js_DEgdS0g3Fwini7ePB9r8IuxpQ0teOQm7oNoXQ-QBk7A.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var dart_url = "http://ad.doubleclick.net";
+var tile = 1;
+var ord = 1000000000 + Math.floor(Math.random() * 900000000);
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://www.billboard.com/files/js/js_HBumS-Hins8ToiO0JXuM1uSs4heqTVr7UtSqjGJrS8M.js"></script>
+<script type="text/javascript" src="http://www.billboard.com/files/js/js_euaVn7hfjFmab62YzAShQuGhi7B-54wIHnMAa05ASiA.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"bb","theme_token":"UPsKuWyMIapTlZRVpc9OMOcVnE8XZVJ4KTehxZ-01uQ","js":{"0":1,"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.7\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/external\/jquery.cookie.js":1,"sites\/all\/modules\/jquery_update\/replace\/misc\/jquery.form.min.js":1,"misc\/ajax.js":1,"sites\/all\/modules\/admin_menu\/admin_devel\/admin_devel.js":1,"sites\/all\/modules\/contentanalysis\/contentanalysis.js":1,"sites\/all\/modules\/contentoptimizer\/contentoptimizer.js":1,"sites\/all\/modules\/google_analytics_reports\/google_analytics_reports\/google_analytics_reports.js":1,"sites\/all\/modules\/user_alert\/js\/user-alert.js":1,"sites\/all\/modules\/apachesolr_autocomplete\/apachesolr_autocomplete.js":1,"sites\/all\/modules\/apachesolr_autocomplete\/jquery-autocomplete\/jquery.autocomplete.js":1,"misc\/progress.js":1,"sites\/all\/modules\/billboard\/bb_chart_archived\/bb_chart_archived.js":1,"sites\/all\/modules\/billboard\/bb_mobile\/js\/redirection-mobile.js":1,"1":1,"http:\/\/admin.brightcove.com\/js\/BrightcoveExperiences.js":1,"sites\/all\/libraries\/colorbox\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_default_style.js":1,"sites\/all\/modules\/disqus\/disqus.js":1,"https:\/\/apis.google.com\/js\/plusone.js":1,"sites\/all\/modules\/billboard\/bb_chart\/bb_chart.js":1,"sites\/all\/modules\/jcarousel\/js\/jcarousel.js":1,"sites\/all\/modules\/jcarousel\/js\/jquery.jcarousel.min.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"2":1,"sites\/all\/modules\/billboard\/dart\/dart.js":1,"3":1,"sites\/all\/themes\/bb\/js\/modernizr.js":1,"sites\/all\/themes\/bb\/js\/plugins\/functions.js":1,"sites\/all\/themes\/bb\/js\/plugins\/add_placeholder.js":1,"sites\/all\/themes\/bb\/js\/plugins\/jquery.client.js":1,"sites\/all\/themes\/bb\/js\/plugins\/jquery.masonry.min.js":1,"sites\/all\/themes\/bb\/js\/application.js":1,"sites\/all\/themes\/bb\/js\/behaviors\/bbbiz.js":1,"sites\/all\/themes\/bb\/js\/behaviors\/billboard.js":1,"sites\/all\/themes\/bb\/js\/behaviors\/milestone_lightbox.js":1,"sites\/all\/themes\/bb\/js\/behaviors\/listing_clicks.js":1,"sites\/all\/themes\/bb\/js\/behaviors\/open_drawer.js":1,"sites\/all\/themes\/bb\/js\/behaviors\/fake_header.js":1,"sites\/all\/themes\/bb\/js\/behaviors\/my_rating.js":1,"sites\/all\/themes\/bb\/js\/behaviors\/gallery.js":1,"sites\/all\/themes\/bb\/js\/behaviors\/infographic.js":1,"sites\/all\/themes\/bb\/js\/behaviors\/jcarousel.js":1,"sites\/all\/themes\/bb\/js\/behaviors\/pinteresterize.js":1,"sites\/all\/themes\/bb\/js\/behaviors\/breaking_news_bar.js":1,"sites\/all\/themes\/bb\/js\/behaviors\/more_copy.js":1,"sites\/all\/themes\/bb\/js\/behaviors\/sticky_social_links.js":1,"sites\/all\/themes\/bb\/js\/behaviors\/reveal_hidden.js":1,"sites\/all\/themes\/bb\/js\/behaviors\/top.js":1,"sites\/all\/themes\/bb\/js\/behaviors\/slide_switch.js":1,"sites\/all\/themes\/bb\/js\/behaviors\/fbc_switch.js":1,"sites\/all\/themes\/bb\/js\/behaviors\/do_masonry.js":1,"sites\/all\/themes\/bb\/js\/vendor\/select2.min.js":1,"sites\/all\/themes\/bb\/js\/behaviors\/chart_name_search.js":1,"sites\/all\/themes\/bb\/js\/overrides\/fivestar.ajax.js":1,"http:\/\/i.po.st\/static\/v3\/post-widget.js#publisherKey=b9alt6tq217m0vjbjqtc":1,"4":1,"\/\/ak.sail-horizon.com\/scout\/v1.js":1,"5":1,"http:\/\/platform.twitter.com\/widgets.js":1,"6":1,"7":1,"8":1,"9":1,"10":1,"11":1,"12":1,"13":1,"14":1,"15":1,"16":1,"17":1,"18":1,"19":1,"20":1,"21":1,"misc\/jquery.cookie.js":1,"sites\/all\/modules\/mostpopular\/js\/fade.js":1,"sites\/all\/modules\/mostpopular\/js\/mostpopular.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/google_analytics_reports\/google_analytics_reports\/google_analytics_reports.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/user_alert\/css\/user-alert.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/apachesolr_autocomplete\/apachesolr_autocomplete.css":1,"sites\/all\/modules\/apachesolr_autocomplete\/jquery-autocomplete\/jquery.autocomplete.css":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_default_style.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/linkedin\/linkedin_auth\/linkedin_auth.css":1,"sites\/all\/modules\/linkedin\/linkedin_profile\/linkedin_profile.css":1,"sites\/all\/modules\/linkedin\/linkedin_status\/linkedin_status.css":1,"sites\/all\/modules\/jcarousel\/skins\/default\/jcarousel-default.css":1,"sites\/all\/modules\/field_collection\/field_collection.theme.css":1,"sites\/all\/themes\/bb\/css\/common.css":1,"sites\/all\/themes\/bb\/css\/application.css":1,"sites\/all\/themes\/bb\/css\/header.css":1,"sites\/all\/themes\/bb\/css\/headers.css":1,"sites\/all\/themes\/bb\/css\/footer.css":1,"sites\/all\/themes\/bb\/css\/social.css":1,"sites\/all\/themes\/bb\/css\/modules\/teaser.css":1,"sites\/all\/themes\/bb\/css\/modules\/gallery.css":1,"sites\/all\/themes\/bb\/css\/modules\/most_popular.css":1,"sites\/all\/themes\/bb\/css\/modules\/newsletter.css":1,"sites\/all\/themes\/bb\/css\/modules\/pull_quote.css":1,"sites\/all\/themes\/bb\/css\/modules\/rating.css":1,"sites\/all\/themes\/bb\/css\/modules\/chart.css":1,"sites\/all\/themes\/bb\/css\/modules\/charts.css":1,"sites\/all\/themes\/bb\/css\/modules\/chart_summary.css":1,"sites\/all\/themes\/bb\/css\/modules\/chart_legend.css":1,"sites\/all\/themes\/bb\/css\/modules\/search.css":1,"sites\/all\/themes\/bb\/css\/modules\/album.css":1,"sites\/all\/themes\/bb\/css\/modules\/on_tour.css":1,"sites\/all\/themes\/bb\/css\/modules\/forms.css":1,"sites\/all\/themes\/bb\/css\/modules\/archive.css":1,"sites\/all\/themes\/bb\/css\/modules\/linkedin.css":1,"sites\/all\/themes\/bb\/css\/modules\/inline_promo.css":1,"sites\/all\/themes\/bb\/css\/pages\/artist.css":1,"sites\/all\/themes\/bb\/css\/pages\/article.css":1,"sites\/all\/themes\/bb\/css\/pages\/tertiary.css":1,"sites\/all\/themes\/bb\/css\/pages\/landing-page.css":1,"sites\/all\/themes\/bb\/css\/pages\/landing-page-biz.css":1,"sites\/all\/themes\/bb\/css\/pages\/home-page.css":1,"sites\/all\/themes\/bb\/css\/pages\/search_results.css":1,"sites\/all\/themes\/bb\/css\/pages\/milestone.css":1,"sites\/all\/themes\/bb\/css\/pages\/bbma.css":1,"sites\/all\/themes\/bb\/css\/select2.css":1,"sites\/all\/themes\/bb\/css\/select2_overrides.css":1,"sites\/all\/themes\/bb\/css\/billboard-print.css":1}},"apachesolr_autocomplete":{"path":"\/apachesolr_autocomplete"},"win_sonic_url":"\/milestone\/sonic","chartbeat":{"uid":3388,"domain":"billboard.com"},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"100%","maxHeight":"100%","fixed":true},"googleAnalyticsReportsAjaxUrl":"\/google-analytics-reports\/ajax","jcarousel":{"ajaxPath":"\/jcarousel\/ajax\/views","carousels":{"on_the_charts":{"buttonNextHTML":"\u003Cspan\u003E\u003C\/span\u003E","scroll":1,"buttonPrevHTML":"\u003Cspan\u003E\u003C\/span\u003E","skin":"default","selector":".on_the_charts"}}},"user_alert":{"url_prefix":""},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"},"disqusComments":"billboardredesign","disqus":{"domain":"billboardredesign","url":"http:\/\/www.billboard.com\/articles\/columns\/pop-shop\/5720660\/miley-cyrus-invades-a-high-school-in-mike-will-made-its-23-video","title":"Miley Cyrus Invades A High School in Mike WiLL Made It\u0026#039;s \u0026#039;23\u0026#039; Video: Watch","identifier":"node\/5720660","developer":1,"sso":{"name":"Billboard","url":"\/user\/login?destination=disqus\/closewindow","logout":"\/user\/logout?destination=node\/5720660","width":800,"height":600,"button":"http:\/\/www.billboard.com\/sites\/all\/themes\/bb\/logo.png","icon":"http:\/\/www.billboard.com\/files\/bb-favicon-alpha.png"},"remote_auth_s3":"W10= 5e2c734e3e5475669a1a8ce4adb116c60dca45d0 1380237188","api_key":"nmkh9jr6yJlDoGOGswtUyZn9b4qI2nPty2RmJ04xUagDnaCSlUTDCesoWGsL67sK"},"ajax":{"edit-submit--2":{"wrapper":"sailthru_block_messages","callback":"bb_sailthru_block_ajax_form_submit","event":"mousedown","keypress":true,"prevent":"click","url":"\/sailthru\/ajax\/bbcom","submit":{"_triggering_element_name":"op","_triggering_element_value":"Sign Up"}}},"mostpopular":{"url":"\/mostpopular\/ajax"}});
+//--><!]]>
+</script>
+  
+<!--[if lt IE 9]>
+<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+  <!--[if IE]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+  <!--[if lte IE 6]>
+  <link rel="stylesheet" href="http://universal-ie6-css.googlecode.com/files/ie6.1.1.css" media="screen, projection">
+  <![endif]-->
+  <!--[if IE 8]><meta http-equiv="X-UA-Compatible" content="IE=7" /><![endif]-->
+  <!-- Begin comScore Tag -->
+<script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "7395269" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script>
+<noscript>
+  <img src="http://b.scorecardresearch.com/p?c1=2&c2=7395269&cv=2.0&cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+<!-- Begin Legolas Tag -->
+<script type="text/javascript" src="http://rt.legolas-media.com/lgrt?ci=2&ti=1200&pbi=10805"></script>
+<!-- End Legolas Tag -->
+</head>
+<body class="html not-front not-logged-in one-sidebar sidebar-second page-node page-node- page-node-5720660 node-type-article"  data-behavior="billboard">
+    <div id="bb" >
+
+        
+    
+    <header id="header" role="banner"><div class="section clearfix">
+            <img src="/sites/all/themes/bb/images/bb_logo.png" class="logo" />
+              <div id="logo">
+          <a href="/" title="Billboard.com" onclick="_gaq.push(['_trackEvent','TopNavigation','Main-Logo']);" rel="home">Billboard</a>
+        </div>
+              <div class="region region-header">
+    <div id="block-imageblock-4" class="block block-imageblock">
+
+      
+  <div class="content">
+      <div class="block-image">
+    <a href="/biz" class="imageblock-link" target="_self"><img class="imageblock-image" typeof="foaf:Image" src="http://www.billboard.com/files/imageblock/billboard-biz-switch.png" alt="Billboard biz" /></a>  </div>
+
+  <div class="block-body">
+     <!--smart_paging_autop_filter--><!--smart_paging_filter-->   </div>
+  </div> <!-- /.content -->
+
+</div> <!-- /.block -->
+<div id="block-twitter-follow-button-twitter-follow-button" class="block block-twitter-follow-button">
+
+      
+  <div class="content">
+    <div class="twitter_follow_wrap">
+    <a href="https://twitter.com/billboard" class="twitter-follow-button" data-show-count="false" data-show-screen-name="false">Follow @twitter</a>
+    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+</div>
+  </div> <!-- /.content -->
+
+</div> <!-- /.block -->
+<div id="block-fblikebutton-fblikebutton-static-block" class="block block-fblikebutton">
+
+      
+  <div class="content">
+    <iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Ffacebook.com%2Fbillboard&amp;layout=button_count&amp;show_faces=false&amp;width=100&amp;font=arial&amp;height=25&amp;action=like&amp;colorscheme=light&amp;locale=en_US&amp;send=false" scrolling="no" frameborder="0" style="border: none; overflow: hidden; width: 100px; height: 25px;" allowTransparency="true"></iframe>  </div> <!-- /.content -->
+
+</div> <!-- /.block -->
+<div id="block-menu-menu-secondary-menu" class="block block-menu tertiary-menu">
+
+      
+  <div class="content">
+    <ul class="menu"><li class="first leaf"><a href="/videos" title="Videos" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;TopNavigation&#039;,&#039;Videos&#039;]);">Videos</a></li>
+<li class="leaf"><a href="/photos" title="Photos" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;TopNavigation&#039;,&#039;Photos&#039;]);">Photos</a></li>
+<li class="leaf"><a href="/articles" title="Articles" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;TopNavigation&#039;,&#039;Articles&#039;]);" class="active active">Articles</a></li>
+<li class="last leaf"><a href="/artists/top-100" title="Top 100 Artists" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;TopNavigation&#039;,&#039;Top-100-Artists&#039;]);">Artists</a></li>
+</ul>  </div> <!-- /.content -->
+
+</div> <!-- /.block -->
+<div id="block-search-form" class="block block-search">
+
+      
+  <div class="content">
+    <form action="/articles/columns/pop-shop/5720660/miley-cyrus-invades-a-high-school-in-mike-will-made-its-23-video" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input placeholder="Search Billboard" type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-PTTjdh3Bs6f6tJ2sIJooehB1psohMFYtcZIJhTCOqro" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>  </div> <!-- /.content -->
+
+</div> <!-- /.block -->
+  </div>
+        <div class="region region-user-menu">
+    <div id="block-billboard-blocks-header-subscribe" class="block block-billboard-blocks subscribe-link">
+
+      
+  <div class="content">
+    <div><a href="https://subscribe.billboard.com/sub/?p=bbl&amp;f=offer1&amp;s=I1303BBC1" class="subscribe" title="Subscribe To Billboard" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;TopNavigation&#039;,&#039;Subscribe-Top-Right&#039;]);"></a><span class="separator"></span><a href="https://subscribe.billboard.com/sub/?p=bbl&amp;f=offer1&amp;s=IB1303BC12" class="rollover" target="_blank" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;TopNavigation&#039;,&#039;Subscribe-Top-Right2&#039;]);"></a></div>  </div> <!-- /.content -->
+
+</div> <!-- /.block -->
+<div id="block-bb-user-navigation" class="block block-bb-user">
+
+      
+  <div class="content">
+          </div> <!-- /.content -->
+
+</div> <!-- /.block -->
+  </div>
+    </div></header> <!-- /.section, /#header -->
+
+        <nav id="navigation" role="navigation"><div class="section links clearfix">
+        <div class="region region-navigation">
+    <div id="block-system-main-menu" class="block block-system block-menu">
+
+      
+  <div class="content">
+    <ul class="menu"><li class="first leaf"><a href="/charts/hot-100" title="Hot 100" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;MainNavigation&#039;,&#039;Hot-100&#039;]);">Hot 100</a></li>
+<li class="leaf"><a href="/charts/billboard-200" title="Billboard 200" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;MainNavigation&#039;,&#039;Billboard-200&#039;]);">Billboard 200</a></li>
+<li class="expanded"><a href="/">Genres</a><ul class="menu"><li class="first leaf"><a href="/charts#id-chart-category-pop" title="Pop Chart" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;MainNavigation&#039;,&#039;Pop-Chart&#039;]);">Pop</a></li>
+<li class="leaf"><a href="/charts#id-chart-category-breaking-and-entering" title="Breaking and Entering Chart" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;MainNavigation&#039;,&#039;Breaking-and-Entering-Chart&#039;]);">Breaking and Entering</a></li>
+<li class="leaf"><a href="/charts#id-chart-category-rock" title="Rock Chart" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;MainNavigation&#039;,&#039;Rock-Chart&#039;]);">Rock</a></li>
+<li class="leaf"><a href="/charts#id-chart-category-rbhip-hop" title="R&amp;B/Hip-Hop Chart" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;MainNavigation&#039;,&#039;RB-Hip-Hop-Chart&#039;]);">R&amp;B/Hip-Hop</a></li>
+<li class="leaf"><a href="/charts#id-chart-category-country" title="Country Chart" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;MainNavigation&#039;,&#039;Country-Chart&#039;]);">Country</a></li>
+<li class="leaf"><a href="/charts#id-chart-category-latin" title="Latin Chart" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;MainNavigation&#039;,&#039;Latin-Chart&#039;]);">Latin</a></li>
+<li class="leaf"><a href="/charts#id-chart-category-danceelectronic" title="Dance/Electronic Chart" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;MainNavigation&#039;,&#039;Dance-Electronic-Chart&#039;]);">Dance/Electronic</a></li>
+<li class="leaf"><a href="/charts#id-chart-category-christiangospel" title="Christian/Gospel Chart" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;MainNavigation&#039;,&#039;Christian-Gospel-Chart&#039;]);">Christian/Gospel</a></li>
+<li class="last leaf"><a href="/charts#id-chart-category-additional-genres" title="Additional Genres" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;MainNavigation&#039;,&#039;Additional-Genres&#039;]);">Additional Genres</a></li>
+</ul></li>
+<li class="expanded"><a href="/">International</a><ul class="menu"><li class="first leaf"><a href="/charts/canadian-hot-100" title="Canadian Hot 100" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;MainNavigation&#039;,&#039;Canadian-Hot-100&#039;]);">Canadian Hot 100</a></li>
+<li class="leaf"><a href="/charts/canadian-albums" title="Canadian Albums" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;MainNavigation&#039;,&#039;Canadian-Albums&#039;]);">Canadian Albums</a></li>
+<li class="leaf"><a href="/charts/france-songs" title="France Songs" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;MainNavigation&#039;,&#039;France-Songs&#039;]);">France Songs</a></li>
+<li class="leaf"><a href="/charts/german-albums" title="Germany Albums" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;MainNavigation&#039;,&#039;Germany-Albums&#039;]);">Germany Albums</a></li>
+<li class="leaf"><a href="/charts/germany-songs" title="Germany Songs" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;MainNavigation&#039;,&#039;Germany-Songs&#039;]);">Germany Songs</a></li>
+<li class="leaf"><a href="/charts/japan-hot-100" title="Japan Hot 100" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;MainNavigation&#039;,&#039;Japan-Hot-100&#039;]);">Japan Hot 100</a></li>
+<li class="last leaf"><a href="/charts/k-pop-hot-100" title="K-Pop Hot 100" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;MainNavigation&#039;,&#039;Korea-K-Pop-Hot-100&#039;]);">K-Pop Hot 100</a></li>
+</ul></li>
+<li class="leaf"><a href="/charts" title="All Charts" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;MainNavigation&#039;,&#039;All-Charts&#039;]);">All Charts</a></li>
+<li class="last leaf"><a href="/articles/columns/pop-shop/5720544/21-under-21-musics-hottest-minors-2013" title="21 Under 21 Title Here" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;MainNavigation&#039;,&#039;21-Under-21&#039;]);" class="promoted-red">21 Under 21</a></li>
+</ul>  </div> <!-- /.content -->
+
+</div> <!-- /.block -->
+  </div>
+    </div></nav> <!-- /.section, /#navigation -->
+    
+    
+        <div id="content-header"><div class="section clearfix">
+        <div class="region region-content-header">
+    <div id="block-dfp-t" class="block block-dfp">
+
+      
+  <div class="content">
+    <div id="dfp-ad-t-wrapper" class="dfp-tag-wrapper">
+<div  id="dfp-ad-t" class="dfp-tag-wrapper">
+  <script type="text/javascript">
+    googletag.cmd.push(function() {
+      googletag.display("dfp-ad-t");
+    });
+  </script>
+</div>
+</div>  </div> <!-- /.content -->
+
+</div> <!-- /.block -->
+  </div>
+    </div></div> <!-- /.section, /#content-header -->
+    
+    <article class="cols cols_2x article">
+                                                <header class="section_header">
+                                        <h1 class="title" id="page-title">Miley Cyrus Invades A High School in Mike WiLL Made It's '23' Video: Watch</h1>
+                                    <ul class="categories header_meta header_meta_categories"><li><a href="/articles">Articles</a></li><li class="pipes_separated"><a href="/tag/pop-shop">Pop-Shop</a></li><li class="last_element"><a href="/tag/the-juice-0">The Juice</a></li></ul>                          <p><i>By <a href="/author/6369" rel="author">Jason Lipshutz</a>, New York<a href="http://twitter.com/jasonlipshutz" class="tw" target="_blank"></a></i> <time> | September 24, 2013 2:45 PM EDT</time></p>
+                    </header>
+                                    <div class="tabs"></div>
+                        
+        
+        <div id="main-wrapper"><div id="main" class="clearfix">
+            <div class="col col_1" role="main"><div class="section">
+                  <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+      
+  <div class="content">
+    <div id="node-5720660" data-behavior="infographic" class="node node-article bbcom clearfix" about="/articles/columns/pop-shop/5720660/miley-cyrus-invades-a-high-school-in-mike-will-made-its-23-video" typeof="sioc:Item foaf:Document">
+                        <div class="article-hero">
+        <div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even" rel="og:image rdfs:seeAlso" resource="http://www.billboard.com/files/styles/promo_650/public/media/miley-cyrus-juice-j-wiz-khalifa-23-music-video-650-430.jpg"><img typeof="foaf:Image" src="http://www.billboard.com/files/styles/promo_650/public/media/miley-cyrus-juice-j-wiz-khalifa-23-music-video-650-430.jpg" width="650" height="430" alt="Miley Cyrus Invades A High School in Mike WiLL Made It&#039;s &#039;23&#039; Video: Watch" /></div></div></div>        <div class="social-actions">
+          <a href="http://pinterest.com/pin/create/button/?media=http%3A//www.billboard.com/files/media/miley-cyrus-juice-j-wiz-khalifa-23-music-video-650-430.jpg&amp;url=http%3A//www.billboard.com/articles/columns/pop-shop/5720660/miley-cyrus-invades-a-high-school-in-mike-will-made-its-23-video" class="pin-it-button" count-layout="none"><img border="0" src="//assets.pinterest.com/images/PinExt.png" title="Pin It" /></a>        </div>
+                     <small data-behavior="caption">
+    <span class="caption_photo">
+      <p>Mike Will Made It - 23 (Explicit) ft. Miley Cyrus, Wiz Khalifa &amp; Juicy J</p>  </span>
+    </small>
+               </div>
+              <div data-behavior="sticky_social_links" class="social social_vert">
+	<ul class="with_buttons">
+        		<li>
+      <span class="ib fb">29</span> 
+      <div><iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.billboard.com%2Farticles%2Fcolumns%2Fpop-shop%2F5720660%2Fmiley-cyrus-invades-a-high-school-in-mike-will-made-its-23-video&amp;layout=standard&amp;show_faces=true&amp;width=300&amp;font=arial&amp;height=65&amp;action=like&amp;colorscheme=light&amp;locale=en_US&amp;send=false" scrolling="no" frameborder="0" style="border: none; overflow: hidden; width: 300px; height: 65px;" allowTransparency="true"></iframe></div>
+    </li>
+        		<li>
+      <span class="ib tw">113</span> 
+      <div><div class="tweetbutton-tweet tweetbutton"><a href="http://twitter.com/share" data-size="medium" data-count="none" data-via="billboard" data-related=":" data-text="Miley Cyrus Invades A High School in Mike WiLL Made It&#039;s &#039;23&#039; Video: Watch" data-counturl="http://www.billboard.com/articles/columns/pop-shop/5720660/miley-cyrus-invades-a-high-school-in-mike-will-made-its-23-video" data-url="http://www.billboard.com/articles/columns/pop-shop/5720660/miley-cyrus-invades-a-high-school-in-mike-will-made-its-23-video" data-lang="en" class="twitter-share-button"></a></div></div>
+    </li>
+        		<li>
+      <span class="ib gplus">1</span> 
+      <div><div class="g-plusone-wrapper"  ><div class="g-plusone" data-href="http://www.billboard.com/articles/columns/pop-shop/5720660/miley-cyrus-invades-a-high-school-in-mike-will-made-its-23-video" data-size="medium" data-annotation="none" ></div></div></div>
+    </li>
+    	</ul>	
+  	<ul>
+        <li class="sep">
+        <div class="pw-widget pw-size-medium" pw:copypaste="false" pw:url="http://www.billboard.com/articles/columns/pop-shop/5720660/miley-cyrus-invades-a-high-school-in-mike-will-made-its-23-video">	
+					<a class="pw-button-post"></a>
+				</div>
+    </li>
+            <li class="sep">
+        <a href="/articles/columns/pop-shop/5720660/miley-cyrus-invades-a-high-school-in-mike-will-made-its-23-video#disqus_thread" data-disqus-identifier="node/5720660" data-behavior="scroll_to" class="cmt ib active">0</a>    </li>
+    	</ul>
+    <div class="cleaner"></div>
+</div>
+  <div class="article_content fix_image">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Mike WiLL Made It has produced massive hits for Miley Cyrus ("We Can't Stop") and Juicy J ("Bandz A Make Her Dance"). How did those artists repay the hip-hop maestro? By going back to high school, of course, and bringing Wiz Khalifa along for the ride! In Mike WiLL's new video for his single "23," the producer steps in front of the "featuring" tag, and also, into the principal's office to wreak some havoc. Miley raps and, naturally, sticks out her tongue.</p>
+<iframe src="//www.youtube.com/embed/bbEoRnaOIbs?rel=0&wmode=transparent" frameborder="0" height="281" width="500"></iframe><p>
+Wearing the remnants of a Michael Jordan "23" Bulls jersey and shorts, Cyrus takes over the girls' bathroom in a high school and gets relatively turnt while Mike WiLL presides over the principal's desk. Later, Juicy J delivers body-blow rhymes in the gymnasium during a wild pep rally, and in the funniest sequence in the video, that rascal Khalifa mixes some curious elements in the chemistry lab.</p>
+<p style="text-align: center;"><a href="http://www.billboard.com/articles/columns/the-juice/5645388/mike-will-made-it-the-billboard-cover-story"><strong>Mike WiLL Made It: The Billboard Cover Story</strong></a></p>
+<p>"23" debuted at No. 70 on last week's Hot 100 chart, and precedes Mike WiLL's forthcoming "Est. in 1989 Pt. 3" album. Also on last week's tally, Cyrus scored her <a href="http://www.billboard.com/articles/news/5695590/miley-cyrus-wrecking-ball-swings-to-top-of-hot-100">first-ever Hot 100 chart-topper</a>, when "Wrecking Ball" shot to No. 1.   </p>
+<p><a href="http://www.billboard.com/articles/columns/pop-shop/5719346/miley-cyrus-debuts-wrecking-ball-live-at-iheartradio-performance"><strong>Click here</strong></a> for a full report from last weekend's iHeartRadio Music Festival, where Cyrus performed "Wrecking Ball" for the first time live.</p>
+</div></div></div><div class="field-collection-container clearfix"><div class="field field-name-field-infographic-collection field-type-field-collection field-label-hidden"><div class="field-items"></div></div></div>  </div> <!-- /.content -->
+  <div class="paginator">
+        <p>
+        <span class="comments-link-text">Join the conversation</span>
+        <a href="/articles/columns/pop-shop/5720660/miley-cyrus-invades-a-high-school-in-mike-will-made-its-23-video#disqus_thread" data-disqus-identifier="node/5720660" class="active"></a>        <a href="#print" class="prt print">Print</a>
+    </p>
+  </div>
+      <div class="tagged">
+      <h3 class="field-label">Tagged</h3>
+<ul class="field-items">
+      </ul>
+    </div>
+    <div class="sibling-nav">
+      </div>
+        </div> <!-- /.node -->
+  </div> <!-- /.content -->
+
+</div> <!-- /.block -->
+<div id="block-billboard-blocks-outbrain-widget" class="block block-billboard-blocks">
+
+      
+  <div class="content">
+    <div class="OUTBRAIN" data-src="http://billboard.com/articles/columns/pop-shop/5720660/miley-cyrus-invades-a-high-school-in-mike-will-made-its-23-video" data-widget-id="AR_1" data-ob-template="billboard" ></div><script type="text/javascript" src="http://widgets.outbrain.com/outbrain.js"></script>  </div> <!-- /.content -->
+
+</div> <!-- /.block -->
+<div id="block-taboola-taboola-block" class="block block-taboola">
+
+      
+  <div class="content">
+    <div id="taboola-grid-4x2"></div>  </div> <!-- /.content -->
+
+</div> <!-- /.block -->
+<div id="block-disqus-disqus-comments" class="block block-disqus">
+
+      
+  <div class="content">
+    <div id="disqus_thread"><noscript><p><a href="http://billboardredesign.disqus.com/?url=http%3A%2F%2Fwww.billboard.com%2Farticles%2Fcolumns%2Fpop-shop%2F5720660%2Fmiley-cyrus-invades-a-high-school-in-mike-will-made-its-23-video">View the discussion thread.</a></p></noscript></div>  </div> <!-- /.content -->
+
+</div> <!-- /.block -->
+  </div>
+                            </div></div> <!-- /.section, /#content -->
+                            <aside id="sidebar-second" class="col col_2 side_rail" role="complementary"><div class="section">
+                      <div class="region region-sidebar-second">
+    <div id="block-dfp-m1" class="block block-dfp">
+
+      
+  <div class="content">
+    <div id="dfp-ad-m1-wrapper" class="dfp-tag-wrapper">
+<div  id="dfp-ad-m1" class="dfp-tag-wrapper">
+  <script type="text/javascript">
+    googletag.cmd.push(function() {
+      googletag.display("dfp-ad-m1");
+    });
+  </script>
+</div>
+</div>  </div> <!-- /.content -->
+
+</div> <!-- /.block -->
+<div id="block-bb-chart-on-the-charts" class="block block-bb-chart">
+
+      
+  <div class="content">
+    <h2 class="aside_on_the_charts">On the charts </h2>
+<div class="module module_chart_summary carousel">
+  <ul class="on_the_charts">
+        <li>
+    <p>
+      <a class="chart_name">The Hot 100</a>
+      <span class="chart_date chart_carousel">Oct 05, 2013</span>
+      <span class="chart_position position-static">1</span>                                <a href="/song/miley-cyrus/5694600/wrecking-ball" class="black">
+              <b>
+                Wrecking Ball              </b>
+            </a>
+                                      <a href="/album/5694599/bangerz" class="black">
+            <i>
+              Bangerz            </i>
+          </a>
+                            <a href="/artist/311278/miley-cyrus" class="black">
+          <i>Miley Cyrus</i>
+        </a>
+          </p>
+        <p>
+      <a href="/charts/2013-10-05/the-hot-100">View Chart</a>    </p>
+      </li>
+        <li>
+    <p>
+      <a class="chart_name">Radio Songs</a>
+      <span class="chart_date chart_carousel">Oct 05, 2013</span>
+      <span class="chart_position position-up position-greatest-gains">31</span>                                <a href="/song/miley-cyrus/5694600/wrecking-ball" class="black">
+              <b>
+                Wrecking Ball              </b>
+            </a>
+                                      <a href="/album/5694599/bangerz" class="black">
+            <i>
+              Bangerz            </i>
+          </a>
+                            <a href="/artist/311278/miley-cyrus" class="black">
+          <i>Miley Cyrus</i>
+        </a>
+          </p>
+        <p>
+      <a href="/charts/2013-10-05/radio-songs">View Chart</a>    </p>
+      </li>
+        <li>
+    <p>
+      <a class="chart_name">Digital Songs</a>
+      <span class="chart_date chart_carousel">Oct 05, 2013</span>
+      <span class="chart_position position-down">3</span>                                <a href="/song/miley-cyrus/5694600/wrecking-ball" class="black">
+              <b>
+                Wrecking Ball              </b>
+            </a>
+                                      <a href="/album/5694599/bangerz" class="black">
+            <i>
+              Bangerz            </i>
+          </a>
+                            <a href="/artist/311278/miley-cyrus" class="black">
+          <i>Miley Cyrus</i>
+        </a>
+          </p>
+        <p>
+      <a href="/charts/2013-10-05/digital-songs">View Chart</a>    </p>
+      </li>
+    </ul>
+</div>
+  </div> <!-- /.content -->
+
+</div> <!-- /.block -->
+<section id="block-billboard-blocks-article-artist" class="block block-billboard-blocks">
+
+        <h2>Artists in this Article</h2>
+    
+  <div class="content">
+            <div data-behavior="listing_clicks" class="listing">
+        <article class="artist_thumb no_category">
+          <header>
+            <h1><a href="/artist/311278/miley-cyrus">Miley Cyrus</a></h1>
+            <iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.billboard.com%2Fartist%2F311278%2Fmiley-cyrus&amp;layout=button_count&amp;show_faces=false&amp;width=100&amp;font=arial&amp;height=25&amp;action=like&amp;colorscheme=light&amp;locale=en_US&amp;send=false" scrolling="no" frameborder="0" style="border: none; overflow: hidden; width: 100px; height: 25px;" allowTransparency="true"></iframe>          </header>
+                      <img typeof="foaf:Image" src="http://www.billboard.com/files/styles/thumbnail_55x55/public/artists/m/7623870.jpg" alt="Miley Cyrus" />                  </article>
+    </div>
+        <!--<p><a data-behavior="reveal_hidden" href="#">View more<i class="icon down-arrow"></i></a></p>-->
+  </div> <!-- /.content -->
+
+</section> <!-- /.block -->
+<div class="block module module_newsletter"><div><p><span>The best in music — <br> straight to your inbox.</span></p><div id="block-bb-sailthru-bbcom-sailthru-subscribe" class="block block-bb-sailthru">
+
+      
+  <div class="content">
+    <form action="/articles/columns/pop-shop/5720660/miley-cyrus-invades-a-high-school-in-mike-will-made-its-23-video" method="post" id="bb-sailthru-subscribe-block" accept-charset="UTF-8"><div><div id="sailthru_block_messages" class="form-wrapper"></div><div class="form-item form-type-textfield form-item-email">
+  <label for="edit-email">Email <span class="form-required" title="This field is required.">*</span></label>
+ <input placeholder="Enter your email address" type="text" id="edit-email" name="email" value="" size="60" maxlength="128" class="form-text required" />
+</div>
+<input type="submit" id="edit-submit--2" name="op" value="Sign Up" class="form-submit" /><input type="hidden" name="form_build_id" value="form-H1snSeDOoCaD6ZegTiQl5qEx7DWJBjC-Dw19wDmdS5w" />
+<input type="hidden" name="form_id" value="bb_sailthru_subscribe_block" />
+</div></form>  </div> <!-- /.content -->
+
+</div> <!-- /.block -->
+</div></div><section id="block-mostpopular-1" class="block block-mostpopular">
+
+        <h2>Most Popular</h2>
+    
+  <div class="content">
+    <div  data-bid="1" class="mostpopular-block">
+        <div class="item-list"><ul class="mostpopular--services"><li data-sid="4" class="selected first">Articles</li>
+<li data-sid="6">Photos</li>
+<li data-sid="7" class="last">Videos</li>
+</ul></div>    <div class="item-list"><ul class="mostpopular--intervals"><li class="mostpopular--label first">Past:</li>
+<li data-iid="1" class="last">12 hour</li>
+</ul></div>          <div class="mostpopular--content"><div class="item-list"><ul class="mostpopular--items"><li data-count="41841" class="first"><article class="small_thumb no_category mostpopular-item" >
+    <header>
+        <div class='category'><a href="/tag/code-5">Code</a></div>        <h1><a href="/articles/columns/pop-shop/5720544/21-under-21-musics-hottest-minors-2013">21 Under 21: Music's Hottest Minors 2013</a></h1>
+    </header>
+    <div class='thumbnail'><img typeof="foaf:Image" src="http://www.billboard.com/files/styles/thumbnail_85/public/media/21under21-2013-650.jpg" alt="21 Under 21: Music&#039;s Hottest Minors 2013" /></div></article>
+</li>
+<li data-count="16501"><article class="small_thumb no_category mostpopular-item" >
+    <header>
+        <div class='category'><a href="/tag/the-juice-0">The Juice</a></div>        <h1><a href="/articles/review/5720656/drake-nothing-was-the-same-track-by-track-review">Drake, 'Nothing Was The Same': Track-By-Track Review</a></h1>
+    </header>
+    <div class='thumbnail'><img typeof="foaf:Image" src="http://www.billboard.com/files/styles/thumbnail_85/public/drake-nothing-same-410.jpg" alt="Drake, &#039;Nothing Was The Same&#039;: Track-By-Track Review" /></div></article>
+</li>
+<li data-count="13025"><article class="small_thumb no_category mostpopular-item" >
+    <header>
+        <div class='category'><a href="/tag/news-6">News</a></div>        <h1><a href="/articles/news/5733088/miley-cyrus-wrecking-ball-spends-second-week-atop-hot-100">Miley Cyrus' 'Wrecking Ball' Spends Second Week Atop Hot 100</a></h1>
+    </header>
+    <div class='thumbnail'><img typeof="foaf:Image" src="http://www.billboard.com/files/styles/thumbnail_85/public/media/miley-cyrus-singsclouse-iheartradio-2013-650-getty.jpg" alt="Miley Cyrus&#039; &#039;Wrecking Ball&#039; Spends Second Week Atop Hot 100" /></div></article>
+</li>
+<li data-count="6186"><article class="small_thumb no_category mostpopular-item" >
+    <header>
+        <div class='category'><a href="/tag/pop-shop">Pop-Shop</a></div>        <h1><a href="/articles/columns/pop-shop/5721047/ariana-grande-21-under-21-2013">4. Ariana Grande: 21 Under 21 (2013)</a></h1>
+    </header>
+    <div class='thumbnail'><img typeof="foaf:Image" src="http://www.billboard.com/files/styles/thumbnail_85/public/media/ariana-grande-baby-650.jpg" alt="4. Ariana Grande: 21 Under 21 (2013)" /></div></article>
+</li>
+<li data-count="6170" class="last"><article class="small_thumb no_category mostpopular-item" >
+    <header>
+        <div class='category'><a href="/tag/news-6">News</a></div>        <h1><a href="/articles/news/5725173/jack-johnson-scores-fourth-no-1-album-on-billboard-200">Jack Johnson Scores Fourth No. 1 Album on Billboard 200</a></h1>
+    </header>
+    <div class='thumbnail'><img typeof="foaf:Image" src="http://www.billboard.com/files/styles/thumbnail_85/public/media/jack-johnson_2013-650-430.jpg" alt="Jack Johnson Scores Fourth No. 1 Album on Billboard 200" /></div></article>
+</li>
+</ul></div></div>
+    </div>  </div> <!-- /.content -->
+
+</section> <!-- /.block -->
+<div id="block-dfp-m2" class="block block-dfp">
+
+      
+  <div class="content">
+    <div id="dfp-ad-m2-wrapper" class="dfp-tag-wrapper">
+<div  id="dfp-ad-m2" class="dfp-tag-wrapper">
+  <script type="text/javascript">
+    googletag.cmd.push(function() {
+      googletag.display("dfp-ad-m2");
+    });
+  </script>
+</div>
+</div>  </div> <!-- /.content -->
+
+</div> <!-- /.block -->
+    <section id="block-views-related-articles-block" class="block block-views">
+
+              <h2>Related articles</h2>
+        
+    <div class="content">
+      <div class="view view-related-articles view-id-related_articles view-display-id-block mostpopular-block listing no-category view-dom-id-1dcff6e06faa47d4bc7eb876ebb0b5ad">
+        
+  
+  
+      <div class="view-content">
+      <div class="item-list">    <ul>          <li class="views-row views-row-1 views-row-odd views-row-first views-row-last"><article class="small_thumb no_category mostpopular-item">
+    <header>
+  <h1>
+    <a href="/articles/columns/the-juice/5687336/miley-cyrus-tests-her-rapping-skills-on-mike-will-made-its-23">Miley Cyrus Tests Her Rapping Skills On Mike Will Made It&#039;s &#039;23&#039;: Listen</a>   </h1>
+</header>
+    <div class="thumbnail">
+  <img typeof="foaf:Image" src="http://www.billboard.com/files/styles/thumbnail_85/public/media/miley_cyrus-2013-650-430a.jpg" width="83" height="55" alt="Miley Cyrus Tests Her Rapping Skills On Mike Will Made It&#039;s &#039;23&#039;: Listen" /></div>
+</article>
+</li>
+      </ul></div>    </div>
+  
+  
+  
+      
+<div class="more-link">
+  <a href="/articles">
+    View more  </a>
+</div>
+  
+  
+  
+</div>    </div> <!-- /.content -->
+
+  </section> <!-- /.block -->
+<div id="block-taboola-taboola-right-rail-block" class="block block-taboola">
+
+      
+  <div class="content">
+    <div id="taboola-grid-2x2"></div>  </div> <!-- /.content -->
+
+</div> <!-- /.block -->
+  </div>
+                </div></aside> <!-- /.section, /#sidebar-second -->
+                        <div class="cleaner"></div>
+        </div></div> <!-- /#main, /#main-wrapper -->
+    </article>
+
+        
+    
+        <div id="footer-top" role="contentinfo"><div class="section">
+          <div class="region region-footer-top">
+    <section id="block-billboard-blocks-news-features" class="block block-billboard-blocks">
+
+        <h2>News and Features</h2>
+    
+  <div class="content">
+    <div class="sitewide-news-features">
+  <div class="view-gallery" data-behavior="listing_clicks">
+    <div class="view-content">
+    
+<article id="node-5720544" class="promo   node-article">
+  <div class="content-wrapper">
+        <div class="content-image">
+              <a href="/articles/columns/pop-shop/5720544/21-under-21-musics-hottest-minors-2013"><img typeof="foaf:Image" src="http://www.billboard.com/files/styles/promo_225/public/media/21under21-2013-650.jpg" alt="21 Under 21: Music&#039;s Hottest Minors 2013" /></a>          </div>
+        <div class="content">
+      <header>
+                  <div class="category">Code</div>
+                <h1><a href="/articles/columns/pop-shop/5720544/21-under-21-musics-hottest-minors-2013"  title="21 Under 21: Music's Hottest Minors 2013">21 Under 21: Music's Hottest Minors 2013</a></h1>
+      </header>
+
+      
+    </div> <!-- /.content -->
+    <div class="clearfix"></div>
+  </div>
+</article> <!-- /.node -->
+
+<article id="node-5720656" class="promo   node-review">
+  <div class="content-wrapper">
+        <div class="content-image">
+              <a href="/articles/review/5720656/drake-nothing-was-the-same-track-by-track-review"><img typeof="foaf:Image" src="http://www.billboard.com/files/styles/promo_225/public/drake-nothing-same-410.jpg" alt="Drake, &#039;Nothing Was The Same&#039;: Track-By-Track Review" /></a>          </div>
+        <div class="content">
+      <header>
+                  <div class="category">The Juice</div>
+                <h1><a href="/articles/review/5720656/drake-nothing-was-the-same-track-by-track-review"  title="Drake, 'Nothing Was The Same': Track-By-Track Review">Drake, 'Nothing Was The Same': Track-By-Track Review</a></h1>
+      </header>
+
+      
+    </div> <!-- /.content -->
+    <div class="clearfix"></div>
+  </div>
+</article> <!-- /.node -->
+
+<article id="node-427560" class="promo   node-photo_gallery">
+  <div class="content-wrapper">
+        <div class="content-image">
+              <a href="/photos/427560/music-photos-of-the-week"><img typeof="foaf:Image" src="http://www.billboard.com/files/styles/promo_225/public/media/katy-perry-killer-queen-650-430.jpg" alt="Music Photos of the Week" /></a>          </div>
+        <div class="content">
+      <header>
+                  <div class="category">Features</div>
+                <h1><a href="/photos/427560/music-photos-of-the-week"  title="Music Photos of the Week">Music Photos of the Week</a></h1>
+      </header>
+
+      
+    </div> <!-- /.content -->
+    <div class="clearfix"></div>
+  </div>
+</article> <!-- /.node -->
+
+<article id="node-5719198" class="promo   node-article">
+  <div class="content-wrapper">
+        <div class="content-image">
+              <a href="/articles/columns/pop-shop/5719198/miley-cyrus-wrecking-ball-parodies-10-hilarious-clips-even-billy"><img typeof="foaf:Image" src="http://www.billboard.com/files/styles/promo_225/public/media/wrecking-ball-parodies-2-650-430.jpg" alt="Miley Cyrus &#039;Wrecking Ball&#039; Parodies: 10 Hilarious Clips Even Billy Ray Would Love" /></a>          </div>
+        <div class="content">
+      <header>
+                  <div class="category">Pop-Shop</div>
+                <h1><a href="/articles/columns/pop-shop/5719198/miley-cyrus-wrecking-ball-parodies-10-hilarious-clips-even-billy"  title="Miley Cyrus 'Wrecking Ball' Parodies: 10 Hilarious Clips Even Billy Ray Would Love">Miley Cyrus 'Wrecking Ball' Parodies: 10 Hilarious Clips Even Billy Ray Would Love</a></h1>
+      </header>
+
+      
+    </div> <!-- /.content -->
+    <div class="clearfix"></div>
+  </div>
+</article> <!-- /.node -->
+   </div>
+  </div>
+</div>
+  </div> <!-- /.content -->
+
+</section> <!-- /.block -->
+  </div>
+        <div id="footer-banner-wrapper" style="text-align: center;">
+<div  id="dfp-ad-a" class="dfp-tag-wrapper">
+  <script type="text/javascript">
+    googletag.cmd.push(function() {
+      googletag.display("dfp-ad-a");
+    });
+  </script>
+</div>
+</div>      </div>
+    </div></div><!-- /.section, /#footer-top -->
+    
+    <footer id="footer" role="contentinfo"><div class="section">
+          <div class="region region-footer">
+    <div id="block-billboard-blocks-cover-art-image" class="block block-billboard-blocks">
+
+      
+  <div class="content">
+    <a href="https://subscribe.billboard.com/sub/?p=bbl&amp;f=paid" target="_blank" title="Subscribe To Billboard" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;Footer&#039;,&#039;Subscribe-Image&#039;]);"><img typeof="foaf:Image" src="http://www.billboard.com/files/styles/magazine_cover/public/media/avicii_cover.jpeg" alt="Billboard Magazine" /></a>  </div> <!-- /.content -->
+
+</div> <!-- /.block -->
+<section id="block-billboard-blocks-footer-subscribe" class="block block-billboard-blocks footer-magazine">
+
+        <h2>Magazine</h2>
+    
+  <div class="content">
+    <ul>
+  <li>
+    <a href="https://subscribe.billboard.biz/sub/?p=BBL&f=landing" title="Customer Service"  onclick="_gaq.push(['_trackEvent', 'Footer', 'Customer-Service']);">Customer Service</a>
+    <br />
+    <a href="https://subscribe.billboard.com/sub/?p=bbl&f=offer1&s=I1303BBC2" class="subscribe" title="Subscribe"  onclick="_gaq.push(['_trackEvent', 'Footer', 'Subscribe-Bottom-Left']);">Subscribe</a>
+    <br />
+    <a href="http://shop.billboard.com/" class="buy" title="Buy this issue"  onclick="_gaq.push(['_trackEvent', 'Footer', 'Buy-This-Issue']);">Buy this issue</a>
+  </li>
+</ul>
+  </div> <!-- /.content -->
+
+</section> <!-- /.block -->
+<section id="block-billboard-blocks-footer-industry" class="block block-billboard-blocks">
+
+        <h2>Billboard biz</h2>
+    
+  <div class="content">
+    
+
+<div id="block-billboard_blocks_1" class="billboard_blocks">
+    <div class="footer_industry">
+                    <p>The online extension of Billboard magazine, Billboard.biz is the essential online destination for the music business.</p>
+                            <a href="/biz" title="Learn more" onclick="_gaq.push(['_trackEvent', 'Footer', 'Biz-Learn-More']);">Learn more</a>
+            </div>
+</div>
+  </div> <!-- /.content -->
+
+</section> <!-- /.block -->
+<section id="block-menu-menu-explore-billboard" class="block block-menu">
+
+        <h2>Explore Billboard</h2>
+    
+  <div class="content">
+    <ul class="menu"><li class="first leaf"><a href="/articles/news/467859/about-us" title="About Billboard" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;Footer&#039;,&#039;ExploreBillboard&#039;,&#039;About-Billboard&#039;]);">About Billboard</a></li>
+<li class="leaf"><a href="http://shop.billboard.com/" title="Shop" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;Footer&#039;,&#039;ExploreBillboard&#039;,&#039;Shop&#039;]);">Shop</a></li>
+<li class="leaf"><a href="/archive/article" title="News Archive" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;Footer&#039;,&#039;ExploreBillboard&#039;,&#039;News-Archive&#039;]);">News Archive</a></li>
+<li class="leaf"><a href="/photos" title="Photos Archive" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;Footer&#039;,&#039;ExploreBillboard&#039;,&#039;Photos-Archive&#039;]);">Photos Archive</a></li>
+<li class="leaf"><a href="/archive/video_item" title="Videos Archive" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;Footer&#039;,&#039;ExploreBillboard&#039;,&#039;Videos-Archive&#039;]);">Videos Archive</a></li>
+<li class="leaf"><a href="http://www.billboard.com/magazine-archive">Magazine Archive</a></li>
+<li class="last leaf"><a href="/archive/charts">Charts Archive</a></li>
+</ul>  </div> <!-- /.content -->
+
+</section> <!-- /.block -->
+<section id="block-menu-menu-informations" class="block block-menu">
+
+        <h2>Information</h2>
+    
+  <div class="content">
+    <ul class="menu"><li class="first leaf"><a href="http://m.billboard.com/" title="Mobile" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;Footer&#039;,&#039;ExploreBillboard&#039;,&#039;Mobile&#039;]);">Mobile</a></li>
+<li class="leaf"><a href="http://www.billboardevents.com/">Billboard Events</a></li>
+<li class="leaf"><a href="/articles/news/468196/contact-us" title="Contact Us" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;Footer&#039;,&#039;ExploreBillboard&#039;,&#039;contact-us&#039;]);">Contact Us</a></li>
+<li class="leaf"><a href="/sitemap" title="Sitemap" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;Footer&#039;,&#039;ExploreBillboard&#039;,&#039;sitemap&#039;]);">Sitemap</a></li>
+<li class="leaf"><a href="/faq" title="FAQ" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;Footer&#039;,&#039;ExploreBillboard&#039;,&#039;faq&#039;]);">FAQ</a></li>
+<li class="leaf"><a href="https://docs.google.com/spreadsheet/viewform?formkey=dDZ1RmJPWndBRmc0cThUOEMwMXhLMXc6MQ#gid=0" title="Feedback" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;Footer&#039;,&#039;ExploreBillboard&#039;,&#039;Feedback&#039;]);">Feedback</a></li>
+<li class="last leaf"><a href="http://www.metrolyrics.com/" target="_blank">Lyrics</a></li>
+</ul>  </div> <!-- /.content -->
+
+</section> <!-- /.block -->
+<section id="block-menu-menu-sharing-billboard" class="block block-menu">
+
+        <h2>Sharing Billboard</h2>
+    
+  <div class="content">
+    <ul class="menu"><li class="first leaf"><a href="http://www.facebook.com/Billboard" title="Facebook" onclick="&quot;_gaq.push([&#039;_trackEvent&#039;,&#039;Footer&#039;,&#039;SharingBillboard&#039;,&#039;Facebook&#039;]);&quot;" class="fb" target="_blank">Facebook</a></li>
+<li class="leaf"><a href="https://twitter.com/billboard" title="Twitter" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;Footer&#039;,&#039;SharingBillboard&#039;,&#039;Twitter&#039;]);" class="tw" target="_blank">Twitter</a></li>
+<li class="leaf"><a href="https://plus.google.com/+Billboard/posts" title="Google+" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;Footer&#039;,&#039;SharingBillboard&#039;,&#039;GooglePlus&#039;]);" class="gplus" target="_blank">Google+</a></li>
+<li class="leaf"><a href="http://youtube.com/billboard" title="YouTube" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;Footer&#039;,&#039;SharingBillboard&#039;,&#039;YouTube&#039;]);" class="yt" target="_blank">YouTube</a></li>
+<li class="leaf"><a href="http://instagram.com/billboard" title="Instagram" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;Footer&#039;,&#039;SharingBillboard&#039;,&#039;Instagram&#039;]);" class="ig" target="_blank">Instagram</a></li>
+<li class="leaf"><a href="http://billboard.tumblr.com/" title="Tumblr" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;Footer&#039;,&#039;SharingBillboard&#039;,&#039;Tumblr&#039;]);" class="tb" target="_blank">Tumblr</a></li>
+<li class="leaf"><a href="http://pintrest.com/billboard" title="Pinterest" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;Footer&#039;,&#039;SharingBillboard&#039;,&#039;Pinterest&#039;]);" class="pi" target="_blank">Pinterest</a></li>
+<li class="leaf"><a href="http://open.spotify.com/app/billboard" title="Spotify" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;Footer&#039;,&#039;SharingBillboard&#039;,&#039;Spotify&#039;]);" class="sp" target="_blank">Spotify</a></li>
+<li class="leaf"><a href="http://www.billboard.com/biz/newsletters" title="Newsletter" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;Footer&#039;,&#039;SharingBillboard&#039;,&#039;Newsletter&#039;]);" class="nsl biz">Newsletter</a></li>
+<li class="last leaf"><a href="/newsletters" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;Footer&#039;,&#039;SharingBillboard&#039;,&#039;Newsletter&#039;]);" class="nsl com">Newsletter</a></li>
+</ul>  </div> <!-- /.content -->
+
+</section> <!-- /.block -->
+<div id="block-imageblock-2" class="block block-imageblock footer-logo">
+
+      
+  <div class="content">
+      <div class="block-image">
+    <img class="imageblock-image" typeof="foaf:Image" src="http://www.billboard.com/files/imageblock/logo_footer.png" alt="Billboard" />  </div>
+
+  <div class="block-body">
+     <!--smart_paging_autop_filter--><!--smart_paging_filter-->   </div>
+  </div> <!-- /.content -->
+
+</div> <!-- /.block -->
+<div id="block-menu-menu-footer-links" class="block block-menu">
+
+      
+  <div class="content">
+    <ul class="menu"><li class="first leaf"><a href="/terms-of-use" title="Terms of Use" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;Footer&#039;,&#039;ExploreBillboard&#039;,&#039;Terms-Of-Use&#039;]);">Terms of Use</a></li>
+<li class="leaf"><a href="/privacy-policy" title="Privacy Policy" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;Footer&#039;,&#039;ExploreBillboard&#039;,&#039;Privacy-Policy&#039;]);">Privacy Policy</a></li>
+<li class="last leaf"><a href="http://advertising.billboard.com/" title="Advertising" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;Footer&#039;,&#039;ExploreBillboard&#039;,&#039;Advertising&#039;]);" class="item-advertising">Advertising</a></li>
+</ul>  </div> <!-- /.content -->
+
+</div> <!-- /.block -->
+<div id="block-dfp-o1" class="block block-dfp">
+
+      
+  <div class="content">
+    <div id="dfp-ad-o1-wrapper" class="dfp-tag-wrapper">
+<div  id="dfp-ad-o1" class="dfp-tag-wrapper">
+  <script type="text/javascript">
+    googletag.cmd.push(function() {
+      googletag.display("dfp-ad-o1");
+    });
+  </script>
+</div>
+</div>  </div> <!-- /.content -->
+
+</div> <!-- /.block -->
+  </div>
+        <div id="copy">&copy; 2013 Billboard. All Rights Reserved.</div>
+    </div></footer> <!-- /.section, /#footer -->
+</div> <!-- /#bb -->    <div class="region region-page-bottom">
+    <script type="text/javascript">
+  var _sf_async_config=Drupal.settings.chartbeat;
+  (function(){
+    function loadChartbeat() {
+      window._sf_endpt=(new Date()).getTime();
+      var e = document.createElement('script');
+      e.setAttribute('language', 'javascript');
+      e.setAttribute('type', 'text/javascript');
+      e.setAttribute('src',
+         (("https:" == document.location.protocol) ? "https://s3.amazonaws.com/" : "http://") +
+         "static.chartbeat.com/js/chartbeat.js");
+      document.body.appendChild(e);
+    }
+    var oldonload = window.onload;
+    window.onload = (typeof window.onload != 'function') ?
+       loadChartbeat : function() { oldonload(); loadChartbeat(); };
+  })();
+</script>  </div>
+<script type="text/javascript" src="http://i.po.st/static/v3/post-widget.js#publisherKey=b9alt6tq217m0vjbjqtc"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+                    function loadHorizon() {
+                          var s = document.createElement('script');
+                          s.type = 'text/javascript';
+                          s.async = true;
+                          s.src = location.protocol + '//ak.sail-horizon.com/horizon/v1.js';
+                          var x = document.getElementsByTagName('script')[0];
+                          x.parentNode.insertBefore(s, x);
+                      }
+                      loadHorizon();
+                      var oldOnLoad = window.onload;
+                      window.onload = function() {
+                          if (typeof oldOnLoad === 'function') {
+                              oldOnLoad();
+                          }
+                          
+                      };
+
+        
+//--><!]]>
+</script>
+<script type="text/javascript" src="//ak.sail-horizon.com/scout/v1.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+          SailthruScout.setup({
+            domain: 'horizon.billboard.com',
+            numVisible: '10',
+            includeConsumed: 'false',
+            
+          });
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+              var s = document.createElement('script'); s.async = true;
+                  s.type = 'text/javascript';
+                  s.src = 'http://cdn.taboolasyndication.com/libtrc/billboard/loader.js';
+                  s.defer = 'true';
+              document.getElementsByTagName('BODY')[0].appendChild(s);
+              window._taboola = window._taboola || [];
+              _taboola.push({article:'auto'});
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+          window._taboola = window._taboola || [];
+          _taboola.push({mode:'text-links-2-columns', container:'taboola-grid-4x2', placement:'article-sc', target_type:"text"});
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+          window._taboola = window._taboola || [];
+          _taboola.push({mode:'grid-2x2', container:'taboola-grid-2x2', placement:'article-hybrid-rr'});
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+_sf_async_config.sections = "BBcom,Articles,The Juice"
+//--><!]]>
+</script>
+        <script type="text/javascript" src="//assets.pinterest.com/js/pinit.js"></script>
+  <!-- START Parse.ly Include: Standard -->
+  <div id="parsely-root" style="display: none">
+    <div id="parsely-cfg" data-parsely-site="billboard.com"></div>
+  </div>
+  <script>
+    (function(s, p, d) { var h=d.location.protocol, i=p+"-"+s, e=d.getElementById(i), r=d.getElementById(p+"-root"), u=h==="https:"?"d1z2jf7jlzjs58.cloudfront.net" :"static."+p+".com"; if (e) return; e = d.createElement(s); e.id = i; e.async = true; e.src = h+"//"+u+"/p.js"; r.appendChild(e); })("script", "parsely", document);
+  </script>
+  <!-- END Parse.ly Include -->
+</body>
+</html>

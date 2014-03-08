@@ -1,0 +1,4657 @@
+			<!DOCTYPE html>
+<html lang="en-US"  xmlns:fb="https://www.facebook.com/2008/fbml" >
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+<script type="text/javascript" src ="http://cdn.bimreg.co/loader"></script>
+
+	<meta property="fb:app_id" content="219367534774750"/>
+
+<!--[if IE]><![endif]-->
+
+	
+			        <title>
+                        WVEC.com                        | HAMPTON ROADS NEWS | WVEC.com | News for Hampton Roads, Virginia             </title>
+				
+ 
+<meta name="apple-itunes-app" content="app-id=474883978"/>
+<meta name="p:domain_verify" content="eb08315b36abbea5533bfe8f9da1b582" >
+
+					
+<meta http-equiv="content-language" content="en">
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+
+
+	
+	
+			<link rel="icon" href="http://media.wvec.com/designimages/wvec_favicon2.ico" type="image/x-icon" />
+		<link rel="shortcut icon" href="http://media.wvec.com/designimages/wvec_favicon2.ico" type="image/x-icon" />
+		
+			<link rel="apple-touch-icon" href="/WVEC_iPhone.png" />
+		
+			<meta name="google-site-verification" content="cfTFIEAHr6vZXDE6nzBCSvepBLIkrQsdynUtq1OmPds" />
+					
+					
+<meta property="og:site_name" content="WVEC.com"/>
+								<meta name="keywords" content="13 News, WVEC.com, Hampton Roads news, Norfolk local news, Hampton Roads weather, Norfolk weather, Nortolk news, Hampton roads radar, Norfolk doppler radar, channel 13, Norfolk radar, local radar, Virginia news, Hampton Roads traffic, hurricane, local new" />
+							<meta name="description" content="Hampton Roads' trusted source for local news in Norfolk, Hampton Roads, Virginia, featuring top headlines, Norfolk weather, Doppler radar, video traffic cams, sports, live news.  WVEC.com" />
+				 	
+  				                	<link rel="stylesheet" href="http://www.wvec.com/includes/belo-jquery-ui.css" type="text/css" media="screen" />
+													<link rel="stylesheet" href="http://www.wvec.com/includes/belo_styles.css" type="text/css" media="screen" />
+				<link rel="stylesheet" href="http://www.wvec.com/includes/belo_top_styles.css" type="text/css" media="screen" />
+																		<link rel="stylesheet" href="http://www.wvec.com/includes/belo_home.css" type="text/css" media="screen" />
+													<link rel="stylesheet" href="http://www.wvec.com/templates/belo_colors.css" type="text/css" media="screen">
+										<link rel="stylesheet" href="http://www.wvec.com/includes/wvec_styles.css" type="text/css"  media="screen" />
+										<link rel="stylesheet" href="http://www.wvec.com/includes/wvec_top_styles.css" type="text/css" media="screen" />
+			
+													        <link rel="stylesheet" href="http://www.wvec.com/includes/wvec_home.css" type="text/css" media="screen" />
+								
+			
+												<link rel="stylesheet" href="http://www.wvec.com/includes/wvec_local_styles.css" type="text/css" media="screen" />
+										<!--[if IE 6]>
+				<link rel="stylesheet" type="text/css" href="http://www.wvec.com/includes/belo_ie6.css" media="screen" />
+			<![endif]-->
+						
+
+	
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js"></script>
+	<script>!window.jQuery && document.write('<script src="http://www.wvec.com/includes/jquery-1.6.4.min.js"><\/script>')</script>
+
+	
+	<!--[if lt IE 9]>
+		<script>
+	/* Modernizr 2.0.6 (Custom Build) | MIT & BSD
+	 * Build: http://www.modernizr.com/download/#-iepp
+	 */
+	;window.Modernizr=function(a,b,c){function w(a,b){return!!~(""+a).indexOf(b)}function v(a,b){return typeof a===b}function u(a,b){return t(prefixes.join(a+";")+(b||""))}function t(a){j.cssText=a}var d="2.0.6",e={},f=b.documentElement,g=b.head||b.getElementsByTagName("head")[0],h="modernizr",i=b.createElement(h),j=i.style,k,l=Object.prototype.toString,m={},n={},o={},p=[],q,r={}.hasOwnProperty,s;!v(r,c)&&!v(r.call,c)?s=function(a,b){return r.call(a,b)}:s=function(a,b){return b in a&&v(a.constructor.prototype[b],c)};for(var x in m)s(m,x)&&(q=x.toLowerCase(),e[q]=m[x](),p.push((e[q]?"":"no-")+q));t(""),i=k=null,a.attachEvent&&function(){var a=b.createElement("div");a.innerHTML="<elem></elem>";return a.childNodes.length!==1}()&&function(a,b){function s(a){var b=-1;while(++b<g)a.createElement(f[b])}a.iepp=a.iepp||{};var d=a.iepp,e=d.html5elements||"abbr|article|aside|audio|canvas|datalist|details|figcaption|figure|footer|header|hgroup|mark|meter|nav|output|progress|section|summary|time|video",f=e.split("|"),g=f.length,h=new RegExp("(^|\\s)("+e+")","gi"),i=new RegExp("<(/*)("+e+")","gi"),j=/^\s*[\{\}]\s*$/,k=new RegExp("(^|[^\\n]*?\\s)("+e+")([^\\n]*)({[\\n\\w\\W]*?})","gi"),l=b.createDocumentFragment(),m=b.documentElement,n=m.firstChild,o=b.createElement("body"),p=b.createElement("style"),q=/print|all/,r;d.getCSS=function(a,b){if(a+""===c)return"";var e=-1,f=a.length,g,h=[];while(++e<f){g=a[e];if(g.disabled)continue;b=g.media||b,q.test(b)&&h.push(d.getCSS(g.imports,b),g.cssText),b="all"}return h.join("")},d.parseCSS=function(a){var b=[],c;while((c=k.exec(a))!=null)b.push(((j.exec(c[1])?"\n":c[1])+c[2]+c[3]).replace(h,"$1.iepp_$2")+c[4]);return b.join("\n")},d.writeHTML=function(){var a=-1;r=r||b.body;while(++a<g){var c=b.getElementsByTagName(f[a]),d=c.length,e=-1;while(++e<d)c[e].className.indexOf("iepp_")<0&&(c[e].className+=" iepp_"+f[a])}l.appendChild(r),m.appendChild(o),o.className=r.className,o.id=r.id,o.innerHTML=r.innerHTML.replace(i,"<$1font")},d._beforePrint=function(){p.styleSheet.cssText=d.parseCSS(d.getCSS(b.styleSheets,"all")),d.writeHTML()},d.restoreHTML=function(){o.innerHTML="",m.removeChild(o),m.appendChild(r)},d._afterPrint=function(){d.restoreHTML(),p.styleSheet.cssText=""},s(b),s(l);d.disablePP||(n.insertBefore(p,n.firstChild),p.media="print",p.className="iepp-printshim",a.attachEvent("onbeforeprint",d._beforePrint),a.attachEvent("onafterprint",d._afterPrint))}(a,b),e._version=d;return e}(this,this.document);
+	</script>
+	<![endif]-->
+
+	
+									
+
+        
+		<!-- / == "/community/contests" -->
+			 		
+		
+																																
+													
+<!-- 
+beloDartSection: /home
+nladzone: $nladZone
+-->
+<script>
+if(typeof beloadcode == "undefined"){
+		beloadcode = {
+		ordId: Math.floor(Math.random()*1000000),
+                        		zoneName:"/home",
+                		dartSite:"belo.wvec",
+		pageType:""
+		};
+	}else if(beloadcode.pageType=="slideshow"){
+        beloadcode.ordId=Math.floor(Math.random()*1000000);
+}
+
+
+
+
+if(typeof(OAS_sitepage) == "undefined"){
+	OAS_sitepage = "www.wvec.com/";
+	}
+</script>
+
+
+
+	
+				<script>
+	function videopopitup(url) {
+		videowindow=window.open(url,'name','height=376,width=778','toolbar = 0','location=1','status=0','scrollbars=0');
+		if (window.focus) {videowindow.focus()}
+		return false;
+	}
+	</script>
+
+
+
+			<script language="Javascript" type="text/javascript">document.write('<scr'+'ipt language="Javascript" type="text/javascript" src="http://cas.clickability.com/cas/caspl.js?r='+Math.random()+'&c=3031&m=10257&d=544702&p=5992"></scr'+'ipt>');</script>
+	
+	<script type="text/javascript" src="http://www.wvec.com/includes/swfobject.js"></script>
+        <script>
+                var belo_tracking_sitepage = "www.wvec.com/home";
+                var _sf_startpt=(new Date()).getTime();
+        </script>
+
+    
+	<!-- Criteo script -->
+	<script type='text/javascript'> 
+	var crtg_nid="1493"; 
+	var crtg_cookiename="cto_belo"; 
+	function crtg_getCookie(c_name){var i,x,y,ARRcookies=document.cookie.split(";");for(i=0;i<ARRcookies.length;i++){x=ARRcookies[i].substr(0,ARRcookies[i].indexOf("="));y=ARRcookies[i].substr(ARRcookies[i].indexOf("=")+1);x=x.replace(/^\s+|\s+$/g,"");if(x==c_name){return unescape(y);}}return'';} var crtg_content=crtg_getCookie(crtg_cookiename);var crtg_rnd=Math.floor(Math.random()*99999999999);var crtg_url='http://rtax.criteo.com/delivery/rta/rta.js?netId='+escape(crtg_nid);crtg_url+='&cookieName='+escape(crtg_cookiename);crtg_url+='&rnd='+crtg_rnd;crtg_url+='&varName=crtg_content';var crtg_script=document.createElement('script');crtg_script.type='text/javascript';crtg_script.src=crtg_url;crtg_script.async=true;if(document.getElementsByTagName("head").length>0)document.getElementsByTagName("head")[0].appendChild(crtg_script);else if(document.getElementsByTagName("body").length>0)document.getElementsByTagName("body")[0].appendChild(crtg_script); </script>
+	
+	<!--DataSphere Loader Code Start -->
+	<script type="text/javascript">
+	/*
+	window['tsaRestyle_bck'] = tsaRestyle;
+	window['tsaRestyle'] = function() {};
+	setTimeout(tsaRestyle_bck, 500);
+	*/
+	
+	
+ 
+	
+	setTimeout(function(){var s="wvec",a=document.getElementsByTagName("head")[0]||document.documentElement,c=document.createElement("script"),b=document.createElement("link");c.type="text/javascript";c.async=true;c.src="http://content.secondspace.com/"+s+"/widgets"+(window.__dsns_.GetCookie('dsnswidgetversion')||'')+".js";b.rel="stylesheet";b.type="text/css";b.href="http://content.secondspace.com/"+s+"/widgets"+(window.__dsns_.GetCookie('dsnswidgetversion')||'')+".css";a.insertBefore(b,a.firstChild);a.insertBefore(c,a.firstChild);},200);if(typeof window.__dsns_=="undefined")window.__dsns_={};window.__dsns_.GetCookie=function(a){a+="=";for(var c=document.cookie.split(";"),b=0;b<c.length;b++){for(var d=c[b];d.charAt(0)==" ";)d=d.substring(1,d.length);if(d.indexOf(a)==0)return d.substring(a.length,d.length)}return null};document.write('<style type="text/css">#dsnslocal {display:none}</style>');
+	
+	</script>
+	<!--DataSphere Loader Code End -->
+
+
+
+
+				
+		         
+	
+			
+												
+			
+											 
+ 				                                                          
+
+</head>
+	
+  		
+
+
+				
+		         
+	
+			
+												
+			
+											 
+ 		
+	  		    		    									        
+        			          				            					              				            				          				        			      			    		  		
+  		    	
+	  		
+
+<body class="index index2" id="">
+<!-- layout classname $layout.className -->
+	
+<div id="wrapper">
+
+		<ul class="skipnav">
+			<li class="skip"><a href="#content">Skip Navigation.</a></li>
+			<li class="skip"><a href="#sidebar">Jump to Side Bar.</a></li>
+		</ul>
+					<div id="header">		<a href="/" title="Return to the homepage" id="header-link">Return to the homepage</a>
+				<div id="leadertop">
+										
+
+	
+		
+																															        																																														       				        				        				        				        				        				        																												        				        													
+
+
+
+			
+<!-- belodartMeta: ;dcopt=ist;mtfIFPath=/includes/;sz=728x90;tile=1;pagetype=home;"+crtg_content+"ord= -->
+	
+	
+	
+		
+					<div class="ad-display" id="ad-leadertop">
+							<!-- beloDartSection /home -->
+				<!-- tag LeaderTop currentDartAd com.clickability.cms.translator.UtilContext$userObject@67aaa2bf -->
+				<!-- dartTag tile1 -->
+					<script>
+					beloadcode.adsource = "http://ad.doubleclick.net/adj/belo.wvec"+ beloadcode.zoneName + ";dcopt=ist;mtfIFPath=/includes/;sz=728x90;tile=1;pagetype=home;"+crtg_content+"ord="+ beloadcode.ordId + "?";
+					document.write('<script src="'+beloadcode.adsource+'" ><\/script>')
+					</script>
+	
+					<script type="text/javascript">
+					<!--
+					if ((!document.images && navigator.userAgent.indexOf('Mozilla/2.') >= 0) || (navigator.userAgent.indexOf('WebTV') >= 0)) {
+						document.write("<a href='http://ad.doubleclick.net/jump/belo.wvec"+beloadcode.zoneName+";dcopt=ist;mtfIFPath=/includes/;sz=728x90;tile=1;pagetype=home;"+crtg_content+"ord="+beloadcode.ordId+"?'><img src='http://ad.doubleclick.net/adj/belo.wvec"+beloadcode.zoneName+";dcopt=ist;mtfIFPath=/includes/;sz=728x90;tile=1;pagetype=home;"+crtg_content+"ord="+beloadcode.ordId+"?' width='728' height='90'  border='0' /></a>");	
+					}
+					//-->
+					</script>
+										<noscript>
+					<a href="http://ad.doubleclick.net/jump/belo.wvec/home;dcopt=ist;mtfIFPath=/includes/;sz=728x90;tile=1;pagetype=home;ord=3788761?"><img src="http://ad.doubleclick.net/adj/belo.wvec/home;dcopt=ist;mtfIFPath=/includes/;sz=728x90;tile=1;pagetype=home;ord=3788761?" width="728" height="90"  border="0" /></a>
+					</noscript>
+												</div>
+				
+		
+
+					</div>
+							<div class="search" id="search-top">
+	<form action="/results" class="search-form" name="searchForm" method="get">
+                <p><label for="search-box">Search</label></p>
+		<input type="hidden" id="search-box" name="search" value="site" />
+						<input name="keywords" class="search-text" id="search-text-top" type="text" maxlength="255" title="Search WVEC.com" accesskey="f" value="Find stories, photos and video" onFocus="this.value='';" />
+				<input type="submit" class="search-button" id="search-button-top" name="searchbutton" value="Go" title="Search" />
+	</form>
+</div>
+
+									
+
+
+				
+		         
+	
+			
+												
+															
+							
+
+											 
+ 		
+			
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+            
+<div id="quickcast" style="background: transparent url(http://media.wvec.com/designimages/belo_nt_clear.png) right 25px  no-repeat;">
+            		                        			                                                                                                            <a href="http://www.wvec.com/weather/radar?radar=64440637&img=0&sz=lrg&c=y" title="">
+                        <img src="http://belo.bimedia.net/WVEC/weather/animated-loops/regional_thumb.gif" alt=" Regional" border="0" height="75" width="100" class="weather-image">
+                        </a>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            			    
+	<ul id="quickcast-links">
+			<li class="quickcast-links-area">Norfolk, VA</li>
+													<li class="quickcast-links-link"><a href="http://www.wvec.com/weather/forecast/" target="_self">Forecast</a></li>	
+											<li class="quickcast-links-link"><a href="http://www.wvec.com/weather/maps?radar=64443582&img=10&c=y" target="_self">7-Day</a></li>	
+											<li class="quickcast-links-link"><a href="http://www.wvec.com/weather/interactive-radar/radar?map=regional" target="_self">Interactive Radar</a></li>	
+				</ul>
+        			<p class="temp">69&deg;</p>
+				<p class="conditions">Clear</p>
+		
+
+
+
+
+
+
+
+
+	</div>
+
+			</div>				<div class="nav " id="nav-top">
+						
+<ul class="top-level">
+									<li class="top-level-item topNav1  current"><a href="/" rel="home">Home</a></li>
+								<li class="top-level-item topNav2 "><a href="/news">News</a></li>
+								<li class="top-level-item topNav3 "><a href="/my-city/">MyCity</a></li>
+								<li class="top-level-item topNav4 "><a href="/weather">Weather</a></li>
+								<li class="top-level-item topNav5 "><a href="/traffic">Traffic</a></li>
+								<li class="top-level-item topNav6 "><a href="/sports">Sports</a></li>
+								<li class="top-level-item topNav7 "><a href="/entertainment">Entertainment</a></li>
+								<li class="top-level-item topNav8 "><a href="/video">Video</a></li>
+								<li class="top-level-item topNav9 "><a href="/community">Community</a></li>
+								<li class="top-level-item topNav10 "><a href="/marketplace">Marketplace</a></li>
+								<li class="top-level-item topNav11  last"><a href="/on-tv">On TV</a></li>
+		<li id="login-item" class="top-level-item">
+	<div id="login-button" class="hide"><a href="/register/?form=login&docReferrer=http://www.wvec.com/" class="signin"><span>Login</span></a></div>
+</li>
+
+</ul>
+			<ul class="sub-level">
+																			<li class="sub-level-item subNav1 "><a href="/on-tv/news-link">Links in the News</a></li>
+																					<li class="sub-level-item subNav2 "><a href="/news/daybreak">Daybreak</a></li>
+																					<li class="sub-level-item subNav3 "><a href="/on-tv/tv-schedule">TV Schedule</a></li>
+																					<li class="sub-level-item subNav4 "><a href="/marketplace/green">Project Green</a></li>
+																					<li class="sub-level-item subNav5 "><a href="/on-tv/bios">News Team</a></li>
+																					<li class="sub-level-item subNav6 "><a href="http://mypics.wvec.com">My Pics</a></li>
+																					<li class="sub-level-item subNav7 "><a href="/on-tv/contact">Contact Us</a></li>
+																					<li class="sub-level-item subNav8 "><a href="/marketplace/13specialist
+">13 Specialist</a></li>
+											</ul>
+			</div>
+                
+
+
+
+
+
+
+
+			
+<!-- belodartMeta: ;mtfIFPath=/includes/;sz=980x30,970x90;tile=3;pagetype=home;"+crtg_content+"ord= -->
+	
+	
+	
+		
+					<div class="ad-display" id="Billboard">
+							<!-- beloDartSection /home -->
+				<!-- tag Billboard currentDartAd com.clickability.cms.translator.UtilContext$userObject@73a2dec4 -->
+				<!-- dartTag tile3 -->
+					<script>
+					beloadcode.adsource = "http://ad.doubleclick.net/adj/belo.wvec"+ beloadcode.zoneName + ";mtfIFPath=/includes/;sz=980x30,970x90;tile=3;pagetype=home;"+crtg_content+"ord="+ beloadcode.ordId + "?";
+					document.write('<script src="'+beloadcode.adsource+'" ><\/script>')
+					</script>
+	
+					<script type="text/javascript">
+					<!--
+					if ((!document.images && navigator.userAgent.indexOf('Mozilla/2.') >= 0) || (navigator.userAgent.indexOf('WebTV') >= 0)) {
+						document.write("<a href='http://ad.doubleclick.net/jump/belo.wvec"+beloadcode.zoneName+";mtfIFPath=/includes/;sz=980x30,970x90;tile=3;pagetype=home;"+crtg_content+"ord="+beloadcode.ordId+"?'><img src='http://ad.doubleclick.net/adj/belo.wvec"+beloadcode.zoneName+";mtfIFPath=/includes/;sz=980x30,970x90;tile=3;pagetype=home;"+crtg_content+"ord="+beloadcode.ordId+"?' width='980' height='30'  border='0' /></a>");	
+					}
+					//-->
+					</script>
+										<noscript>
+					<a href="http://ad.doubleclick.net/jump/belo.wvec/home;mtfIFPath=/includes/;sz=980x30,970x90;tile=3;pagetype=home;ord=3788761?"><img src="http://ad.doubleclick.net/adj/belo.wvec/home;mtfIFPath=/includes/;sz=980x30,970x90;tile=3;pagetype=home;ord=3788761?" width="980" height="30"  border="0" /></a>
+					</noscript>
+												</div>
+				
+		
+        
+                                <div id="bimregStatusBox" class="hide"><div id="status-loggingin"></div>
+<ul>
+		<li id="status-avatar"><div id="avatar-image"></div></li>
+		<li id="status-welcome"></li>
+                <li id="status-profile"><a href="#" title="Profile">My Profile</a></li>
+		<li id="status-signout"><a href="#" title="Log out of your account.">Sign Out</a></li>		
+</ul>
+</div>
+        
+	
+        		<div id="spanner"><script language="Javascript" type="text/javascript">if (self['plpm'] && plpm['z_spanner']){ document.write(plpm['z_spanner']);} else if (self['plunpla'] && plunpla['5992']){document.write('<scr'+'ipt language="Javascript" type="text/javascript" src="http://cas.clickability.com/cas/cas.js?r='+Math.random()+'&p=5992&c=3031&m=10257&d=544702&a='+plunpla['5992']+'"></scr'+'ipt>'); } else {  if(self['plurp'] && plurp['5992']){} else {document.write('<scr'+'ipt language="Javascript" type="text/javascript" src="http://cas.clickability.com/cas/cas.js?r='+Math.random()+'&p=5992&c=3031&m=10257&d=544702"></scr'+'ipt>'); } }</script></div>
+        
+
+
+				
+		         
+	
+			
+					
+												
+			
+										 
+ 
+		<div id="content">
+
+	        	
+
+
+
+				
+		         
+	
+			
+												
+			
+											 
+ 				
+
+
+		        		        	 	
+            	<div id="content-main">
+  			    		        	
+
+
+
+				
+		         
+	
+			
+												
+			
+											 
+ 				
+
+
+		            		
+									
+<div class="breaking-event textBox">
+	<div class='breakingType'>
+					<h2>ASK THE EXPERTS</h2>
+				
+					</div>
+			
+
+  
+    
+ 
+
+	      	<div class="breakingImg hmedia">
+        		<img src="http://media.wvec.com/images/aca_thumbnai_bbl.jpg" width="" height="" class="photo" alt="Health Care: The Bottom Line Live Chat" title="Health Care: The Bottom Line Live Chat" border="0" />
+		</div>
+	         		<h1><a href="http://www.wvec.com/aca" >Health Care: The Bottom Line Live Chat</a></h1>
+	
+	
+			<p class="summary">From 5 p.m. until 8 p.m. we will have a panel of experts answering viewer questions about the Affordable Care Act via a live chat.
+<br /><br />
+<a href="http://www.wvec.com/news/health/health-reform#livechat" style="color: #CC0000;"><strong>CLICK HERE TO PARTICIPATE</strong></a></p>
+		
+	
+	
+		
+	</div>
+
+			                		            		
+									
+
+<div id="breaking-weather" class="breaking-event imageBar">
+								<span id="breaking-weather-title">
+        		<h2>WVEC.COM LIVE DOPPLER RADAR</h2>
+		<h1><a href="/weather"> - FROM THE 13 NEWS NOW WEATHER AUTHORITY</a></h1>		
+		</span>
+	
+								<ul id="breaking-weather-images">
+						
+																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																							
+																																																																																																					<li class="photo">
+															<a href="http://www.wvec.com/weather/radar?radar=64440637&amp;img=0&amp;sz=lrg&amp;c=y" title="Regional Radar">
+														<img src="http://belo.bimedia.net/WVEC/weather/animated-loops/regional.gif" alt="Regional Radar" border="0" height="75" width="100" class="breaking-weather-image">
+							<p class="breaking-weather-image-title">Regional Radar</p>
+															</a>
+														</li>
+																																																																											<li class="photo">
+															<a href="http://www.wvec.com/weather/radar?radar=64440637&amp;img=1&amp;c=y" title="Metro Radar">
+														<img src="http://belo.bimedia.net/WVEC/weather/animated-loops/metro.gif" alt="Metro Radar" border="0" height="75" width="100" class="breaking-weather-image">
+							<p class="breaking-weather-image-title">Metro Radar</p>
+															</a>
+														</li>
+																																																																											<li class="photo">
+															<a href="http://www.wvec.com/weather/radar?radar=64440637&amp;img=3&amp;c=y" title="Southern">
+														<img src="http://belo.bimedia.net/WVEC/weather/animated-loops/southern.gif" alt="Southern" border="0" height="75" width="100" class="breaking-weather-image">
+							<p class="breaking-weather-image-title">Southern</p>
+															</a>
+														</li>
+																																																																											<li class="photo">
+															<a href="http://www.wvec.com/weather/radar?radar=64440637&amp;img=2&amp;c=y" title="Northern">
+														<img src="http://belo.bimedia.net/WVEC/weather/animated-loops/northern.gif" alt="Northern" border="0" height="75" width="100" class="breaking-weather-image">
+							<p class="breaking-weather-image-title">Northern</p>
+															</a>
+														</li>
+																																																																											<li class="photo">
+															<a href="http://www.wvec.com/weather/radar?radar=64440637&amp;img=5&amp;c=y" title="Mid-Atlantic">
+														<img src="http://maps.wunderground.com//data/640x480/2xne_rd_anim.gif" alt="Mid-Atlantic" border="0" height="75" width="100" class="breaking-weather-image">
+							<p class="breaking-weather-image-title">Mid-Atlantic</p>
+															</a>
+														</li>
+																																																																											<li class="photo">
+															<a href="/weather/interactive-radar/future" title="Futurecast">
+														<img src="http://q.wvec.com/weather/7day/FutureCast_6HR_thumb.jpg" alt="Futurecast" border="0" height="75" width="100" class="breaking-weather-image">
+							<p class="breaking-weather-image-title">Futurecast</p>
+															</a>
+														</li>
+																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																		 						</ul>
+			
+								<div id="breaking-related-content">
+					<h3>More Information: </h3>
+			<ul id="breaking-weather-info">
+																		<li class="related-link"><a href="/weather/interactive-radar/radar?map=regional" rel="bookmark" title="Interactive Radar |">Interactive Radar |</a></li>
+															<li class="related-link"><a href="/weather/interactive/Extreme-Interactive-Radar-160570715.html" rel="bookmark" title="Extreme Radar |">Extreme Radar |</a></li>
+															<li class="related-link"><a href="/weather/severe-weather/closings/WVEC-Closings-64446762.html" rel="bookmark" title="Closings |">Closings |</a></li>
+															<li class="related-link"><a href="/younews?cid=71571" rel="bookmark" title="Submit photos &amp; video |">Submit photos &amp; video |</a></li>
+															<li class="related-link"><a href="/video?id=68024842&amp;sec=577832&amp;ref=rcvidmod" rel="bookmark" title="Video Forecast |">Video Forecast |</a></li>
+															<li class="related-link"><a href="http://weather.wvec.com/MAR/AN/632.html" rel="bookmark" title="VA Marine Weather |" target="_blank">VA Marine Weather |</a></li>
+						</ul>
+				</div>
+	</div>
+<!-- breaking news storyimgobj false -->
+
+			                	 	
+        
+						
+
+
+				
+		         
+	
+			
+												
+															
+							
+
+											 
+ 		
+	
+									
+						
+
+
+				
+		         
+	
+			
+												
+			
+										 
+ 
+			
+						<div id="content-promotion">
+	                	                	                					        
+
+<!-- Displayw $displayw -->
+	   		</div>
+		
+			<!-- noLayout is true -->
+			                <div id="content-two">
+                    					        
+																																																																																																																																																																																																																																																																																		
+					        								        																																																																											                								        				        
+															
+
+
+
+
+				
+		         
+	
+			
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+												
+			
+																								
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+						
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+																																																																																																											
+																																																																																																																																			  
+ 		
+<div id="topStoryModule1" class="tsOption1">
+	<div id="bigStory">
+		                   				<div id="beloMediadiv">
+			
+
+
+	
+			
+
+                
+ 
+
+			<!-- story.hideVideo is false -->
+                                				       					       
+																																	
+					                       				<a href="http://www.wvec.com/news/Police-question-person-of-interest-following-Chesapeake-death-225412832.html" class="photo-link"><img class="photo" src="http://media.wvec.com/images/avatianawesley.jpg" alt="" /></a>
+												       <div id="imageCredit">
+					       				  	      </div>	
+				                                      					</div>
+		<h2 class="entry-title">
+			                <a class="storyTitle" href="http://www.wvec.com/news/Police-question-person-of-interest-following-Chesapeake-death-225412832.html">Chesapeake woman stabbed to death, police question person of interest</a>
+					</h2>
+		<p class="summary">Around 3:30 p.m., police responded to check the welfare of an individual in the 3000 block of Welcome Rd. when they discovered a person who was wounded. </p>
+		
+		
+		
+		
+		<ul class="related">
+									
+
+
+																											</ul>
+			
+			
+		
+		<div id="topStoryShare73681" class="topStoryShare">
+	<div>
+		<p>Share:</p>
+	</div>
+	<div>
+		<a href="#" id="beloFBShareButton-73681" class="beloFBShareButton">FB</a>
+	</div>
+	<div id="beloFBShare73681" class="beloFBShare" style="width: 0px;overflow:hidden;">
+		                                                     	    	         		 		<iframe src="http://www.facebook.com/plugins/like.php?href=http://www.wvec.com/news/Police-question-person-of-interest-following-Chesapeake-death-225412832.html&amp;send=false&amp;layout=button_count&amp;width=450&amp;show_faces=false&amp;action=recommend&amp;colorscheme=light&amp;font&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:450px; height:21px;" allowTransparency="true"></iframe>
+	</div>								
+	<div>
+		<a href="#" id="beloTwShareButton-73681" class="beloTwShareButton">Tw</a>
+	</div>
+                         	<div id="beloTwShare73681" class="beloTwShare" style="width: 0px;overflow:hidden;">
+		<a href='http://twitter.com/share' class='twitter-share-button' data-count='horizontal' data-text='Chesapeake woman stabbed to death, police question person of interest' data-url='http://www.wvec.com/news/Police-question-person-of-interest-following-Chesapeake-death-225412832.html'>Tweet</a>
+		<script type='text/javascript' src='http://platform.twitter.com/widgets.js'></script>
+	</div>
+	<script>
+		$(document).ready(function(){
+		     $(".beloFBShareButton").unbind("click").bind("click", function(){
+		     	id=$(this).attr("id").split("-");
+		     	if($("#beloFBShare"+id[1]).width()<80){    	
+		    		$("#beloTwShare"+id[1]).css("width","0px");
+		    		$("#topStoryShare"+id[1]).css("width","210px");
+		    		$("#beloFBShare"+id[1]).css("width","128px");
+		     	}else{
+		     		$("#beloTwShare"+id[1]).css("width","0px");
+		    		$("#beloFBShare"+id[1]).css("width","0px");
+		    		$("#topStoryShare"+id[1]).css("width","78px");
+		     	}
+		        return false;
+		    });
+		    $(".beloTwShareButton").unbind("click").bind("click", function(){
+		    	id=$(this).attr("id").split("-");
+		    	if($("#beloTwShare"+id[1]).width()<80){ 
+		    		$("#beloFBShare"+id[1]).css("width","0px");
+		    		$("#topStoryShare"+id[1]).css("width","168px");
+		    		$("#beloTwShare"+id[1]).css("width","88px");
+		    	}else{
+		    		$("#beloTwShare"+id[1]).css("width","0px");
+		    		$("#beloFBShare"+id[1]).css("width","0px");
+		    		$("#topStoryShare"+id[1]).css("width","78px");
+		    	}
+		        return false;
+		    });
+		});
+	</script>
+</div>
+
+	</div><!-- end og bigStorydiv -->
+	<div id="otherTopStories">
+						
+
+    <!-- %moduleConfigPath = /home -->
+        <!-- %didPos = -1 -->
+        
+
+
+		
+
+
+
+
+
+
+
+
+
+	<!-- dockey  -->
+	<ul >
+														
+										
+												
+
+				
+
+																                                                                                                                                        		                		
+																														<li class="hentry item1 hasvideo hasimage ">
+																								
+						
+							
+																																		
+						
+						<a href="http://www.wvec.com/my-city/vabeach/Three-people-killed-in-I-64-accident-225270232.html"  title="UPDATE: Woman, child killed in I-64 accident" class="photo-link"><img src="http://media.wvec.com/images/160*90/sandieamayone.jpg" width="160" height="90" class="photo" alt="UPDATE: Woman, child killed in I-64 accident" title="UPDATE: Woman, child killed in I-64 accident" border="0" /></a>
+																										<h3 class="entry-title">
+			<a href="http://www.wvec.com/my-city/vabeach/Three-people-killed-in-I-64-accident-225270232.html"  title="UPDATE: Woman, child killed in I-64 accident" class="storyLink" rel="bookmark">UPDATE: Woman, child killed in I-64 accident</a><a href='#' class='addToList hide'><span style="display:none;">add to reading list</span></a>
+			<span class="video-icon">&nbsp;</span>						</h3>
+														
+		                                                        <span class='author fn hide'>			By Jonathan Costen, 13News Now	
+			</span>
+                		</li>
+																								
+										
+												
+
+				
+
+																                                                                                                                                        		                		
+																														<li class="hentry item2 hasvideo hasimage ">
+																								
+						
+							
+											<a href="http://www.wvec.com/video/featured-videos/Mother-makes-plea-for-information-on-sons-death-225410322.html"  title="Mother makes plea for information on son's death" class="photo-link"><img src="http://redirect.bimfs.com/package/thumb/0f67ea933a005f56e774bea47b81a4a50db8cdf9" width="160" height="90" class="photo" alt="Mother makes plea for information on son's death" title="Mother makes plea for information on son's death" border="0" /></a>
+																										<h3 class="entry-title">
+			<a href="http://www.wvec.com/video/featured-videos/Mother-makes-plea-for-information-on-sons-death-225410322.html"  title="Mother makes plea for information on son's death" class="storyLink" rel="bookmark">Mother makes plea for information on son's death</a><a href='#' class='addToList hide'><span style="display:none;">add to reading list</span></a>
+			<span class="video-icon">&nbsp;</span>						</h3>
+														
+		                                                        <span class='author fn hide'>			By Velma Scaife, 13News Now	
+			</span>
+                		</li>
+																								
+										
+												
+
+				
+
+																                                                                                                                                        		                		
+																														<li class="hentry item3 hasimage ">
+																								
+						
+							
+																																					
+						
+						<a href="http://www.wvec.com/my-city/hampton/Hampton-women-to-appear-on-ABCs-Shark-Tank-225424862.html"  title="Hampton women to appear on ABC's Shark Tank" class="photo-link"><img src="http://media.wvec.com/images/128*90/shark+tank.jpg" width="128" height="90" class="photo" alt="Hampton women to appear on ABC's Shark Tank" title="Hampton women to appear on ABC's Shark Tank" border="0" /></a>
+																										<h3 class="entry-title">
+			<a href="http://www.wvec.com/my-city/hampton/Hampton-women-to-appear-on-ABCs-Shark-Tank-225424862.html"  title="Hampton women to appear on ABC's Shark Tank" class="storyLink" rel="bookmark">Hampton women to appear on ABC's Shark Tank</a><a href='#' class='addToList hide'><span style="display:none;">add to reading list</span></a>
+									</h3>
+														
+		                                                        <span class='author fn hide'>			By Velma Scaife, 13News Now	
+			</span>
+                		</li>
+											 	</ul>
+	<!-- targetWssID 553927 -->
+	<!-- linkToExtendedContent $linkToExtendedContent -->
+		<!-- targetWssIDStr 553927 -->
+            <a class="headlines-morelink" href="http://www.wvec.com?more=y&c=y">More</a>
+    
+ 
+
+
+
+
+	</div>
+</div>
+								
+
+        
+
+					        								        																																																																											                								        				        
+															<div id="top-stories-headlines" class="content-headlines-list">
+
+<h2><a href="/news/local">Top Stories</h2>
+
+
+
+                                    
+
+<!-- path is now /home -->
+<!-- wssid is now 553927 -->
+
+
+
+
+
+			    <div class="content-headlines-list module" id="content-headlines-home">
+	        <h2><a href="http://www.wvec.com/home">Home</a></h2>	        
+                                                                                                                                                                
+    <!-- %moduleConfigPath = /home -->
+        <!-- %didPos = -1 -->
+        
+
+
+		
+
+
+
+
+
+
+
+
+
+	<!-- dockey  -->
+	<ul >
+														
+										
+												
+
+				
+
+																                                                                                                                                        		                		
+																								<li class="hentry item1 hasvideo ">
+																															<h3 class="entry-title">
+			<a href="http://www.wvec.com/news/business/Businesses-weigh-Affordable-Care-Act-options-225373322.html"  type=""  title="Businesses weigh Affordable Care Act options" class="storyLink" rel="bookmark">Businesses weigh Affordable Care Act options</a><a href='#' class='addToList hide'><span style="display:none;">add to reading list</span></a>
+			<span class="video-icon">&nbsp;</span>						</h3>
+														
+		                                                        <span class='author fn hide'>			By Janet Roach, 13News Now	
+			</span>
+                		</li>
+																						
+										
+												
+
+				
+
+																                                                                                                                                        		                		
+																								<li class="hentry item2 ">
+																													<h3 class="entry-title">
+			<a href="http://www.wvec.com/home/Man-Arrested-in-South-Carolina-for-Beach-murder-160473805.html"  type=""  title="UPDATE: Man arrested in South Carolina found guilty of Beach murder" class="storyLink" rel="bookmark">UPDATE: Man arrested in South Carolina found guilty of Beach murder</a><a href='#' class='addToList hide'><span style="display:none;">add to reading list</span></a>
+									</h3>
+														
+		                                                        <span class='author fn hide'>			By 13 News/WCIV News	
+			</span>
+                		</li>
+																						
+										
+												
+
+				
+
+																                                                                                                                                        		                		
+																								<li class="hentry item3 hasvideo ">
+																													<h3 class="entry-title">
+			<a href="http://www.wvec.com/home/Shutdown-looms-225411242.html"  type=""  title="Hampton Roads' workers worried about possible furloughs - again" class="storyLink" rel="bookmark">Hampton Roads' workers worried about possible furloughs - again</a><a href='#' class='addToList hide'><span style="display:none;">add to reading list</span></a>
+			<span class="video-icon">&nbsp;</span>						</h3>
+														
+		                                                        <span class='author fn hide'>			By Mike Gooding, 13News Now	
+			</span>
+                		</li>
+																						
+										
+												
+
+				
+
+																                                                                                                                                        		                		
+																								<li class="hentry item4 ">
+																													<h3 class="entry-title">
+			<a href="http://www.wvec.com/home/stabbing-225415582.html"  type=""  title="Two hospitalized following Suffolk domestic dispute " class="storyLink" rel="bookmark">Two hospitalized following Suffolk domestic dispute </a><a href='#' class='addToList hide'><span style="display:none;">add to reading list</span></a>
+									</h3>
+														
+		                                                        <span class='author fn hide'>			By 13News Now	
+			</span>
+                		</li>
+																						
+										
+												
+
+				
+
+																                                                                                                                                        		                		
+																								<li class="hentry item5 hasvideo ">
+																													<h3 class="entry-title">
+			<a href="http://www.wvec.com/news/health/health-reform/13-News-Now-prepares-to-air-Healthcare-The-Bottom-Line-224133961.html"  type=""  title="13News Now prepares to air Healthcare: The Bottom Line" class="storyLink" rel="bookmark">13News Now prepares to air Healthcare: The Bottom Line</a><a href='#' class='addToList hide'><span style="display:none;">add to reading list</span></a>
+			<span class="video-icon">&nbsp;</span>						</h3>
+														
+		                                                        <span class='author fn hide'>			By 13News Now	
+			</span>
+                		</li>
+									 	</ul>
+	<!-- targetWssID 553927 -->
+	<!-- linkToExtendedContent false -->
+		<!-- targetWssIDStr 553927 -->
+            <a class="headlines-morelink" href="http://www.wvec.com?more=y&c=y">More</a>
+    
+ 
+
+
+
+
+	    </div>
+	
+
+
+</div>								
+
+        
+
+					        								        																																																																											                								        				        
+															
+
+                                    
+
+<!-- path is now /home -->
+<!-- wssid is now 553927 -->
+
+
+
+
+
+			    <div class="content-headlines-list module" id="content-headlines-home">
+	        <h2><a href="http://www.wvec.com/home">Home</a></h2>	        
+                                                                                                                                                                
+    <!-- %moduleConfigPath = /home -->
+        <!-- %didPos = -1 -->
+        
+
+
+		
+
+
+
+
+
+
+
+
+
+	<!-- dockey 3122f2349b3e1be028a7bbda1fff58fe94cb7d99 -->
+	<ul >
+														
+										
+												
+
+				
+
+																                                                                                                                                        		                		
+																								<li class="hentry item1 hasvideo ">
+																															<h3 class="entry-title">
+			<a href="http://www.wvec.com/home/Wanted-suspect-leads-Portsmouth-Police-on-chase-225399302.html"  type=""  title="Wanted suspect injured after leading Portsmouth Police on car chase" class="storyLink" rel="bookmark">Wanted suspect injured after leading Portsmouth Police on car chase</a><a href='#' class='addToList hide'><span style="display:none;">add to reading list</span></a>
+			<span class="video-icon">&nbsp;</span>						</h3>
+														
+		                                                        <span class='author fn hide'>			By 13News Now	
+			</span>
+                		</li>
+																						
+										
+												
+
+				
+
+																                                                                                                                                        		                		
+																								<li class="hentry item2 ">
+																													<h3 class="entry-title">
+			<a href="http://www.wvec.com/home/Seven-suspects-arrested-in-three-non-related-Beach-burglary-cases-225390472.html"  type=""  title="Several suspects arrested in non-related Beach burglary cases" class="storyLink" rel="bookmark">Several suspects arrested in non-related Beach burglary cases</a><a href='#' class='addToList hide'><span style="display:none;">add to reading list</span></a>
+									</h3>
+														
+		                                                        <span class='author fn hide'>			By 13News Now	
+			</span>
+                		</li>
+																						
+										
+												
+
+				
+
+																                                                                                                                                        		                		
+																								<li class="hentry item3 ">
+																													<h3 class="entry-title">
+			<a href="http://www.wvec.com/home/Gas-line-225403032.html"  type=""  title="Construction crew hits gas line in Norfolk" class="storyLink" rel="bookmark">Construction crew hits gas line in Norfolk</a><a href='#' class='addToList hide'><span style="display:none;">add to reading list</span></a>
+									</h3>
+														
+		                                                        <span class='author fn hide'>			By 13News Now	
+			</span>
+                		</li>
+																						
+										
+												
+
+				
+
+																                                                                                                                                        		                		
+																								<li class="hentry item4 hasvideo ">
+																													<h3 class="entry-title">
+			<a href="http://www.wvec.com/home/Police-investigate-possible-weapon-at-Maury-HS-225382362.html"  type=""  title="Police investigate possible weapon at Maury HS" class="storyLink" rel="bookmark">Police investigate possible weapon at Maury HS</a><a href='#' class='addToList hide'><span style="display:none;">add to reading list</span></a>
+			<span class="video-icon">&nbsp;</span>						</h3>
+														
+		                                                        <span class='author fn hide'>			By 13News Now	
+			</span>
+                		</li>
+																						
+										
+												
+
+				
+
+																                                                                                                                                        		                		
+																								<li class="hentry item5 ">
+																													<h3 class="entry-title">
+			<a href="http://www.wvec.com/home/Navy-USS-Roosevelt-needs-more-work-after-overhaul-225401512.html"  type=""  title="Navy: USS Roosevelt needs more work after overhaul" class="storyLink" rel="bookmark">Navy: USS Roosevelt needs more work after overhaul</a><a href='#' class='addToList hide'><span style="display:none;">add to reading list</span></a>
+									</h3>
+														
+		                                                        
+                		</li>
+									 	</ul>
+	<!-- targetWssID 553927 -->
+	<!-- linkToExtendedContent false -->
+		<!-- targetWssIDStr 553927 -->
+            <a class="headlines-morelink" href="http://www.wvec.com?more=y&c=y">More</a>
+    
+ 
+
+
+
+
+	    </div>
+	
+								
+
+        
+
+					        								        																																																																											                								        				        
+															<br clear="all" />								
+
+        
+
+					        								        																																																																											                								        				        
+															<div id="genericdivtopper">								
+
+        
+
+					        								        																																																																											                								        				        
+															
+
+
+
+
+
+
+
+			
+<!-- belodartMeta: ;mtfIFPath=/includes/;sz=160x600;tile=4;pagetype=home;"+crtg_content+"ord= -->
+	
+	
+	
+		
+					<div class="ad-display" id="ad-skyscraper">
+							<!-- beloDartSection /home -->
+				<!-- tag Skyscraper currentDartAd com.clickability.cms.translator.UtilContext$userObject@38c71865 -->
+				<!-- dartTag tile4 -->
+					<script>
+					beloadcode.adsource = "http://ad.doubleclick.net/adj/belo.wvec"+ beloadcode.zoneName + ";mtfIFPath=/includes/;sz=160x600;tile=4;pagetype=home;"+crtg_content+"ord="+ beloadcode.ordId + "?";
+					document.write('<script src="'+beloadcode.adsource+'" ><\/script>')
+					</script>
+	
+					<script type="text/javascript">
+					<!--
+					if ((!document.images && navigator.userAgent.indexOf('Mozilla/2.') >= 0) || (navigator.userAgent.indexOf('WebTV') >= 0)) {
+						document.write("<a href='http://ad.doubleclick.net/jump/belo.wvec"+beloadcode.zoneName+";mtfIFPath=/includes/;sz=160x600;tile=4;pagetype=home;"+crtg_content+"ord="+beloadcode.ordId+"?'><img src='http://ad.doubleclick.net/adj/belo.wvec"+beloadcode.zoneName+";mtfIFPath=/includes/;sz=160x600;tile=4;pagetype=home;"+crtg_content+"ord="+beloadcode.ordId+"?' width='160' height='600'  border='0' /></a>");	
+					}
+					//-->
+					</script>
+										<noscript>
+					<a href="http://ad.doubleclick.net/jump/belo.wvec/home;mtfIFPath=/includes/;sz=160x600;tile=4;pagetype=home;ord=3788761?"><img src="http://ad.doubleclick.net/adj/belo.wvec/home;mtfIFPath=/includes/;sz=160x600;tile=4;pagetype=home;ord=3788761?" width="160" height="600"  border="0" /></a>
+					</noscript>
+												</div>
+				
+		
+								
+
+        
+
+					        								        																																																																											                								        				        
+																																																															
+				
+
+
+
+
+<div id="newsLetterWidget" class="widget-Breaking News module">
+			<img src="http://media.wvec.com/designimages/email-newsletter-icon.png" alt="Breaking News Icon"/>
+		<h3>Breaking News</h3>
+	<p class="newsletter-description">Get the latest breaking news sent  to your inbox from WVEC.com</p>
+	<form method="post">
+		<input type="hidden" class="datranNewsletterName" value="WVEC_BREAK" />
+		<span class="newsletter-email">
+		<label for="widget-email">Email Address:</label>
+		<input type="email" id="widget-email" class="required email e-mail" required="required" />
+		</span>
+		<button type="button" class="signup submit" >Sign Up!</button>
+		<div id="loading"></div>
+	</form>
+</div>
+
+<script>
+$(document).ready(function() {
+	$("#newsLetterWidget form .signup").click(function(){
+		if(bim_reg.m.user.isLoggedIn()){
+			//bimreg.listener.addListener("updateProfile",newsletterUpdate);
+			nl=$('.datranNewsletterName').val();
+			bim_reg.m.user.subscribeToNewsletter(nl);
+			bim_reg.m.user.save();
+			$(".newsletter-description").html("Thank you for subscribing to this newsletter.");
+			$(".newsletter-email").css("display","none");
+			$("button.signup").css("display","none");
+		}else{
+			$("#login-button a").click();
+		}
+	});
+});
+
+function newsletterUpdate(){
+	bimreg.listener.removeListener("updateProfile",newsletterUpdate);
+	//window.location = "/register?form=welcome-back-int&docReferrer=%2F&newsletter=newsletter_wvec_break";
+	location.reload();
+	return;
+}
+
+function loadprofile(){
+	var nogo=false;
+	var newsletters = bim_reg.m.site.getNewsletters(); 
+	for (var i in newsletters) {
+		if(bim_reg.m.user.getNewsletters()[i] == true){
+			if(newsletters[i]=="WVEC_BREAK"){
+				nogo=true;
+			}
+		}
+	}
+	if(nogo){
+		$("#newsLetterWidget form").css("display","none");
+    	$(".newsletter-description").html("You are currently subscribed to this newsletter.");
+	}else{	
+ 		$('#widget-email').val(bim_reg.m.user.getEmail());
+ 		$('#widget-email').css("border","none");
+    	$('#widget-email').attr("disabled", true);
+	}
+}
+$(document).ready(function(){
+	//bimreg.listener.addListener("userLogin",loadprofile);
+	bim_reg.subscribeToChannel("user_data_ready", loadprofile);
+});
+</script>
+								
+
+        
+
+					        								        																																																																											                								        				        
+																<div class="non-editorial" id="linktown">
+		
+
+
+<!-- Begin LinkTown widget code -->
+<style type="text/css">
+/* 160 widget styles */
+.linktown-container-160 { width: 160px; background: transparent url('http://media.wvec.com/designimages/sky_bg.gif') top right no-repeat; }
+.linktown-container-160 .linktown-logo { padding: 5px 0 45px 3px; border: 0; }
+.linktown-container-160 form { margin: 0 5px; padding: 5px 0 2px 0; height: 40px; border-top: 1px solid #ddd; border-bottom: 1px solid #ddd; }
+.linktown-container-160 input { margin: 0 3px 5px 0; padding: 0; color: #767676; font-size: 10px; font-family: Arial, Helvetica, sans-serif; font-style: italic; background-color: #f1f1f1; border: 1px solid #bebebe; width: 78px; float: left; }
+.linktown-container-160 label { margin: 0; padding: 0; display: block; float: left; width: 48px; color: #333; font-size: 10px; font-family: Arial, Helvetica, sans-serif; }
+.linktown-container-160 .linktown-search { border: 0; margin: 0; padding: 0; float: left; position: relative; top: -2px; }
+.linktown-container-160 div { padding: 5px 0 5px 25px; }
+.linktown-container-160 span { display: block; }
+.linktown-container-160 span a { font-size: 12px; }
+.linktown-container-160 p { margin: 0; padding: 0 5px 5px 0; text-align: right; }
+.linktown-container-160 p a:link { font-family: Arial, Helvetica, sans-serif; font-size: 11px; color: #353535; text-decoration: none; }
+.linktown-container-160 p a:visited { font-family: Arial, Helvetica, sans-serif; font-size: 11px; color: #353535; text-decoration: none; }
+.linktown-container-160 p a:hover { font-family: Arial, Helvetica, sans-serif; font-size: 11px; color: #353535; text-decoration: none; }
+.linktown-container-160 p a:active { font-family: Arial, Helvetica, sans-serif; font-size: 11px; color: #353535; text-decoration: none; }
+</style>
+<div class="linktown-container-160">
+	<a href="http://linktown.wvec.com/yellow-pages/norfolk/va"><img src="http://media.wvec.com/designimages/wvec_logo.gif" class="linktown-logo" /></a>
+	<form name="mpSearchForm" action="http://linktown.wvec.com/s/search">
+    	<label>Business:</label>
+        <input id="mpSearchBusiness" class="mpSearchInputPreClick" name="search_term" value="Dentist" onclick="this.className = 'mpSearchInput'; this.value=''; this.onclick = null;" />
+        <label>Location:</label>
+        <input id="mpSearchLocation" class="mpSearchInputPreClick" name="search_location" value="Norfolk, VA" onclick="this.className = 'mpSearchInput'; this.value=''; this.onclick = null;" />
+        <a href="javascript:document.mpSearchForm.submit();"><img src="http://media.wvec.com/designimages/search_icon.gif" class="linktown-search" alt="Search" /></a>
+        <br clear="all" />
+    </form>
+    <div>
+        <span><a href="http://linktown.wvec.com/auto-dealers/norfolk/va" title="Auto Dealers">Auto Dealers</a></span>
+        <span><a href="http://linktown.wvec.com/auto-repair/norfolk/va" title="Auto Repair">Auto Repair</a></span>
+        <span><a href="http://linktown.wvec.com/bar/norfolk/va" title="Bar">Bar</a></span>
+        <span><a href="http://linktown.wvec.com/carpet-cleaning/norfolk/va" title="Carpet Cleaning">Carpet Cleaning</a></span>
+        <span><a href="http://linktown.wvec.com/child-care/norfolk/va" title="Child Care">Child Care</a></span>
+        <span><a href="http://linktown.wvec.com/chocolate/norfolk/va" title="Chocolate">Chocolate</a></span>
+        <span><a href="http://linktown.wvec.com/coffee/norfolk/va" title="Coffee">Coffee</a></span>
+        <span><a href="http://linktown.wvec.com/dentist/norfolk/va" title="Dentist">Dentist</a></span>
+        <span><a href="http://linktown.wvec.com/doctor/norfolk/va" title="Doctor">Doctor</a></span>
+        <span><a href="http://linktown.wvec.com/florists/norfolk/va" title="Florists">Florists</a></span>
+        <span><a href="http://linktown.wvec.com/furniture/norfolk/va" title="Furniture">Furniture</a></span>
+        <span><a href="http://linktown.wvec.com/golf-course/norfolk/va" title="Golf Course">Golf Course</a></span>
+        <span><a href="http://linktown.wvec.com/gym/norfolk/va" title="Gym">Gym</a></span>
+        <span><a href="http://linktown.wvec.com/hair-salon/norfolk/va" title="Hair Salon">Hair Salon</a></span>
+        <span><a href="http://linktown.wvec.com/hotels/norfolk/va" title="Hotels">Hotels</a></span>
+        <span><a href="http://linktown.wvec.com/insurance/norfolk/va" title="Insurance">Insurance</a></span>
+        <span><a href="http://linktown.wvec.com/jewelry/norfolk/va" title="Jewelry">Jewelry</a></span>
+        <span><a href="http://linktown.wvec.com/landscaping/norfolk/va" title="Landscaping">Landscaping</a></span>
+        <span><a href="http://linktown.wvec.com/locksmith/norfolk/va" title="Locksmith">Locksmith</a></span>
+        <span><a href="http://linktown.wvec.com/movers/norfolk/va" title="Movers">Movers</a></span>
+        <span><a href="http://linktown.wvec.com/pizza/norfolk/va" title="Pizza">Pizza</a></span>
+        <span><a href="http://linktown.wvec.com/plumbing/norfolk/va" title="Plumbing">Plumbing</a></span>
+        <span><a href="http://linktown.wvec.com/realtor/norfolk/va" title="Realtor">Realtor</a></span>
+        <span><a href="http://linktown.wvec.com/remodeling/norfolk/va" title="Remodeling">Remodeling</a></span>
+        <span><a href="http://linktown.wvec.com/storage/norfolk/va" title="Storage">Storage</a></span>
+        <span><a href="http://linktown.wvec.com/yellow-pages/norfolk/va" title="Browse all categories"><strong>Browse all &raquo;</strong></a></span>
+    </div>
+    
+</div>
+<!-- End LinkTown widget code -->
+
+
+	</div>
+								
+
+        
+
+					        								        																																																																											                								        				        
+															</div>								
+
+        
+
+					        								        																																																																											                								        				        
+															<div id="content-headlines-container-main">								
+
+        
+
+					        								        																																																																											                								        				        
+															
+<div id="features" class="module horizontal skinnyFeatures f5827495">
+         	<h5>Featured</h5>
+                	        																															
+
+    <!-- %moduleConfigPath = /featured-content -->
+        <!-- %didPos = -1 -->
+        
+
+
+		
+
+
+
+
+
+
+
+
+
+	<!-- dockey  -->
+	<ul class="skinnyFeatures">
+														
+										
+												
+
+				
+
+																                                                		                		
+																														<li class="hentry item1 hasimage ">
+																								
+									
+							
+																																		
+						
+						<a href="http://www.wvec.com/aca"  type=""  title="Health Reform: The Bottom Line" target="_blank" class="photo-link"><img src="http://media.wvec.com/images/128*72/aca+thumbnail.jpg" width="128" height="72" class="photo" alt="Health Reform: The Bottom Line" title="Health Reform: The Bottom Line" border="0" /></a>
+																												<h3 class="entry-title">
+			<a href="http://www.wvec.com/aca"  type=""  title="Health Reform: The Bottom Line" class="storyLink" rel="bookmark" target="_blank">Health Reform: The Bottom Line</a><a href='#' class='addToList hide'><span style="display:none;">add to reading list</span></a>
+									</h3>
+														
+		                                                        
+                		</li>
+																								
+										
+												
+
+				
+
+																                                                		                		
+																														<li class="hentry item2 hasimage ">
+																								
+									
+							
+																																		
+						
+						<a href="http://www.ysa.org/ABC"  type=""  title="Apply for a grant today. Winners receive a $1,000 award!" target="_blank" class="photo-link"><img src="http://media.wvec.com/images/128*51/ysa-abc1.gif" width="128" height="51" class="photo" alt="Apply for a grant today. Winners receive a $1,000 award!" title="Apply for a grant today. Winners receive a $1,000 award!" border="0" /></a>
+																										<h3 class="entry-title">
+			<a href="http://www.ysa.org/ABC"  type=""  title="Apply for a grant today. Winners receive a $1,000 award!" class="storyLink" rel="bookmark" target="_blank">Apply for a grant today. Winners receive a $1,000 award!</a><a href='#' class='addToList hide'><span style="display:none;">add to reading list</span></a>
+									</h3>
+														
+		                                                        
+                		</li>
+																								
+										
+												
+
+				
+
+																                                                		                		
+																														<li class="hentry item3 hasimage ">
+																								
+						
+							
+																																		
+						
+						<a href="/on-tv/news-link"  type=""  title="Dig deeper" class="photo-link"><img src="http://media.wvec.com/images/128*58/LINKS-IN-THE-NEWS.jpg" width="128" height="58" class="photo" alt="Dig deeper" title="Dig deeper" border="0" /></a>
+																										<h3 class="entry-title">
+			<a href="/on-tv/news-link"  type=""  title="Dig deeper" class="storyLink" rel="bookmark">Dig deeper</a><a href='#' class='addToList hide'><span style="display:none;">add to reading list</span></a>
+									</h3>
+														
+		                                                        
+                		</li>
+																								
+										
+												
+
+				
+
+																                                                		                		
+																														<li class="hentry item4 hasimage ">
+																								
+									
+							
+																																					<a href="http://images.bimedia.net/documents/hurricaneguide.pdf"  type=""  title="Hurricane Guide 2013" target="_blank" class="photo-link"><img src="http://media.wvec.com/images/hurricaneguide_button.jpg" width="128" height="60" class="photo" alt="Hurricane Guide 2013" title="Hurricane Guide 2013" border="0" /></a>
+																										<h3 class="entry-title">
+			<a href="http://images.bimedia.net/documents/hurricaneguide.pdf"  type=""  title="Hurricane Guide 2013" class="storyLink" rel="bookmark" target="_blank">Hurricane Guide 2013</a><a href='#' class='addToList hide'><span style="display:none;">add to reading list</span></a>
+									</h3>
+														
+		                                                        
+                		</li>
+																								
+										
+												
+
+				
+
+																                                                		                		
+																														<li class="hentry item5 hasimage ">
+																								
+									
+							
+																																		
+						
+						<a href="http://q.belo.com/shared/mobappdir/v3/?station=belo&appname=weathercaster&returnStation=wvec"  type=""  title="Forecast your life" target="_blank" class="photo-link"><img src="http://media.wvec.com/images/128*60/weathercaster-featured.png" width="128" height="60" class="photo" alt="Forecast your life" title="Forecast your life" border="0" /></a>
+																										<h3 class="entry-title">
+			<a href="http://q.belo.com/shared/mobappdir/v3/?station=belo&appname=weathercaster&returnStation=wvec"  type=""  title="Forecast your life" class="storyLink" rel="bookmark" target="_blank">Forecast your life</a><a href='#' class='addToList hide'><span style="display:none;">add to reading list</span></a>
+									</h3>
+														
+		                                                        
+                		</li>
+																								
+										
+												
+
+				
+
+																                                                		                		
+																														<li class="hentry item6 hasimage ">
+																								
+									
+							
+																																		
+						
+						<a href="http://www.wvec.com/sports/contests/13sports-Golf-Pickem-200232821.html"  type=""  title="Make Your Picks!" target="_blank" class="photo-link"><img src="http://media.wvec.com/images/128*60/golfpickembutton.jpg" width="128" height="60" class="photo" alt="Make Your Picks!" title="Make Your Picks!" border="0" /></a>
+																										<h3 class="entry-title">
+			<a href="http://www.wvec.com/sports/contests/13sports-Golf-Pickem-200232821.html"  type=""  title="Make Your Picks!" class="storyLink" rel="bookmark" target="_blank">Make Your Picks!</a><a href='#' class='addToList hide'><span style="display:none;">add to reading list</span></a>
+									</h3>
+														
+		                                                        
+                		</li>
+																								
+										
+												
+
+				
+
+																                                                		                		
+																														<li class="hentry item7 hasimage ">
+																								
+									
+							
+																																		
+						
+						<a href="/news/health/oz"  type=""  title="Weekdays at 4:00" class="photo-link"><img src="http://media.wvec.com/images/128*58/Oz-home-page-button2.jpg" width="128" height="58" class="photo" alt="Weekdays at 4:00" title="Weekdays at 4:00" border="0" /></a>
+																										<h3 class="entry-title">
+			<a href="/news/health/oz"  type=""  title="Weekdays at 4:00" class="storyLink" rel="bookmark">Weekdays at 4:00</a><a href='#' class='addToList hide'><span style="display:none;">add to reading list</span></a>
+									</h3>
+														
+		                                                        
+                		</li>
+																								
+										
+												
+
+				
+
+																                                                		                		
+																														<li class="hentry item8 hasimage ">
+																								
+									
+							
+																																		
+						
+						<a href="http://www.wvec.com/sports/contests/nascar-pick-em-contest-190203071.html"  type=""  title="Pick your drivers!" target="_blank" class="photo-link"><img src="http://media.wvec.com/images/128*60/nascar-challenge-button.jpg" width="128" height="60" class="photo" alt="Pick your drivers!" title="Pick your drivers!" border="0" /></a>
+																										<h3 class="entry-title">
+			<a href="http://www.wvec.com/sports/contests/nascar-pick-em-contest-190203071.html"  type=""  title="Pick your drivers!" class="storyLink" rel="bookmark" target="_blank">Pick your drivers!</a><a href='#' class='addToList hide'><span style="display:none;">add to reading list</span></a>
+									</h3>
+														
+		                                                        
+                		</li>
+																								
+										
+												
+
+				
+
+																                                                		                		
+																														<li class="hentry item9 hasimage ">
+																								
+									
+							
+																																		
+						
+						<a href="/community/rachels-challenge"  type=""  title="Start a chain reaction" class="photo-link"><img src="http://media.wvec.com/images/128*58/reachels-challenge.jpg" width="128" height="58" class="photo" alt="Rachel's Challenge" title="Start a chain reaction" border="0" /></a>
+																										<h3 class="entry-title">
+			<a href="/community/rachels-challenge"  type=""  title="Start a chain reaction" class="storyLink" rel="bookmark">Start a chain reaction</a><a href='#' class='addToList hide'><span style="display:none;">add to reading list</span></a>
+									</h3>
+														
+		                                                        
+                		</li>
+																								
+										
+												
+
+				
+
+																                                                		                		
+																														<li class="hentry item10 hasimage ">
+																								
+						
+							
+																																		
+						
+						<a href="http://www.wvec.com/news/you-paid-for-it"  type=""  title="Is government spending your money wisely?" class="photo-link"><img src="http://media.wvec.com/images/128*58/YOU-PAID-FOR-IT_REV-6-11.jpg" width="128" height="58" class="photo" alt="Is government spending your money wisely?" title="Is government spending your money wisely?" border="0" /></a>
+																										<h3 class="entry-title">
+			<a href="http://www.wvec.com/news/you-paid-for-it"  type=""  title="Is government spending your money wisely?" class="storyLink" rel="bookmark">Is government spending your money wisely?</a><a href='#' class='addToList hide'><span style="display:none;">add to reading list</span></a>
+									</h3>
+														
+		                                                        
+                		</li>
+											 	</ul>
+	<!-- targetWssID 553892 -->
+	<!-- linkToExtendedContent false -->
+		<!-- targetWssIDStr 553892 -->
+            <a class="headlines-morelink" href="http://www.wvec.com/featured-content">More</a>
+    
+ 
+
+
+
+	
+</div>
+	<script src="http://www.wvec.com/includes/jquery.jcarousel.min.js"></script>
+	<script>
+		jQuery(document).ready(function() {
+			$(".f5827495").css("display","block");
+			jQuery(".f5827495 ul").jcarousel({
+				scroll:3,
+				visible:3,
+wrap:null,
+    			buttonNextHTML: "<div id='nextFeatured'>Next</div>",
+    			buttonPrevHTML: "<div id='prevFeatured'>Prev</div>"
+    		});
+	    });
+	</script>
+								
+
+        
+
+					        								        																																																																											                								        				        
+															<div class="content-headlines-list" id="headline-APTopStories">
+<h2>AP Top Stories</h2>
+
+
+    <!-- %moduleConfigPath = http://hosted.ap.org/lineups/TOPHEADS-rss_2.0.xml?SITE=WVEC&SECTION=HOME&TEMPLATE=DEFAULT -->
+        <!-- %didPos = -1 -->
+        
+
+
+		
+
+
+
+
+
+
+
+
+
+	<!-- dockey  -->
+	<ul >
+														
+										
+												
+
+				
+
+																                                                		                		
+																								<li class="hentry item1 ">
+																															<h3 class="entry-title">
+			<a href="http://hosted.ap.org/dynamic/stories/A/AS_KENYA_THE_TERROR_BEGINS?SITE=WVEC&SECTION=HOME&TEMPLATE=DEFAULT"  type=""  title="One day, many dead: The start of Kenya mall siege" class="storyLink" rel="bookmark">One day, many dead: The start of Kenya mall siege</a><a href='#' class='addToList hide'><span style="display:none;">add to reading list</span></a>
+									</h3>
+														
+		                                                        
+                		</li>
+																						
+										
+												
+
+				
+
+																                                                		                		
+																								<li class="hentry item2 ">
+																													<h3 class="entry-title">
+			<a href="http://hosted.ap.org/dynamic/stories/U/US_BUDGET_BATTLE?SITE=WVEC&SECTION=HOME&TEMPLATE=DEFAULT"  type=""  title="No compromise: Government on brink of a shutdown?" class="storyLink" rel="bookmark">No compromise: Government on brink of a shutdown?</a><a href='#' class='addToList hide'><span style="display:none;">add to reading list</span></a>
+									</h3>
+														
+		                                                        
+                		</li>
+																						
+										
+												
+
+				
+
+																                                                		                		
+																								<li class="hentry item3 ">
+																													<h3 class="entry-title">
+			<a href="http://hosted.ap.org/dynamic/stories/U/UN_UNITED_NATIONS_IRAN?SITE=WVEC&SECTION=HOME&TEMPLATE=DEFAULT"  type=""  title="Diplomats hail new Iranian attitude in nuke talks" class="storyLink" rel="bookmark">Diplomats hail new Iranian attitude in nuke talks</a><a href='#' class='addToList hide'><span style="display:none;">add to reading list</span></a>
+									</h3>
+														
+		                                                        
+                		</li>
+																						
+										
+												
+
+				
+
+																                                                		                		
+																								<li class="hentry item4 ">
+																													<h3 class="entry-title">
+			<a href="http://hosted.ap.org/dynamic/stories/U/UN_SYRIA_DIPLOMACY?SITE=WVEC&SECTION=HOME&TEMPLATE=DEFAULT"  type=""  title="Deal reached on UN resolution on Syria weapons" class="storyLink" rel="bookmark">Deal reached on UN resolution on Syria weapons</a><a href='#' class='addToList hide'><span style="display:none;">add to reading list</span></a>
+									</h3>
+														
+		                                                        
+                		</li>
+																						
+										
+												
+
+				
+
+																                                                		                		
+																								<li class="hentry item5 ">
+																													<h3 class="entry-title">
+			<a href="http://hosted.ap.org/dynamic/stories/U/US_NSA_SURVEILLANCE?SITE=WVEC&SECTION=HOME&TEMPLATE=DEFAULT"  type=""  title="Official sidesteps queries on cellphone locations" class="storyLink" rel="bookmark">Official sidesteps queries on cellphone locations</a><a href='#' class='addToList hide'><span style="display:none;">add to reading list</span></a>
+									</h3>
+														
+		                                                        
+                		</li>
+									 	</ul>
+	<!-- targetWssID  -->
+	<!-- linkToExtendedContent false -->
+		<!-- targetWssIDStr  -->
+    
+ 
+
+
+
+
+</div>								
+
+        
+
+					        								        																																																																											                								        				        
+															<div class="content-headlines-list" id="headline-VirginiaNews">
+<h2>Virginia News</h2>
+
+
+    <!-- %moduleConfigPath = http://hosted.ap.org/lineups/VIRGINIAHEADS-rss_2.0.xml?SITE=WVEC&SECTION=HOME&TEMPLATE=DEFAULT -->
+        <!-- %didPos = -1 -->
+        
+
+
+		
+
+
+
+
+
+
+
+
+
+	<!-- dockey  -->
+	<ul >
+														
+										
+												
+
+				
+
+																                                                		                		
+																								<li class="hentry item1 ">
+																															<h3 class="entry-title">
+			<a href="http://hosted.ap.org/dynamic/stories/U/US_NAVY_YARD_SHOOTING_EMPLOYEES_VAOL-?SITE=WVEC&SECTION=HOME&TEMPLATE=DEFAULT"  type=""  title="Navy Yard employees get counseling after massacre" class="storyLink" rel="bookmark">Navy Yard employees get counseling after massacre</a><a href='#' class='addToList hide'><span style="display:none;">add to reading list</span></a>
+									</h3>
+														
+		                                                        
+                		</li>
+																						
+										
+												
+
+				
+
+																                                                		                		
+																								<li class="hentry item2 ">
+																													<h3 class="entry-title">
+			<a href="http://hosted.ap.org/dynamic/stories/U/US_NAVY_YARD_SHOOTING_VAOL-?SITE=WVEC&SECTION=HOME&TEMPLATE=DEFAULT"  type=""  title="Navy Yard employees get counseling after massacre" class="storyLink" rel="bookmark">Navy Yard employees get counseling after massacre</a><a href='#' class='addToList hide'><span style="display:none;">add to reading list</span></a>
+									</h3>
+														
+		                                                        
+                		</li>
+																						
+										
+												
+
+				
+
+																                                                		                		
+																								<li class="hentry item3 ">
+																													<h3 class="entry-title">
+			<a href="http://hosted.ap.org/dynamic/stories/V/VA_MCAULIFFE_CHAMBER_VAOL-?SITE=WVEC&SECTION=HOME&TEMPLATE=DEFAULT"  type=""  title="Fairfax Chamber endorses McAuliffe in Va. race" class="storyLink" rel="bookmark">Fairfax Chamber endorses McAuliffe in Va. race</a><a href='#' class='addToList hide'><span style="display:none;">add to reading list</span></a>
+									</h3>
+														
+		                                                        
+                		</li>
+																						
+										
+												
+
+				
+
+																                                                		                		
+																								<li class="hentry item4 ">
+																													<h3 class="entry-title">
+			<a href="http://hosted.ap.org/dynamic/stories/V/VA_USS_ROOSEVELT_OVERHAUL_VAOL-?SITE=WVEC&SECTION=HOME&TEMPLATE=DEFAULT"  type=""  title="Navy: USS Roosevelt needs more work after overhaul" class="storyLink" rel="bookmark">Navy: USS Roosevelt needs more work after overhaul</a><a href='#' class='addToList hide'><span style="display:none;">add to reading list</span></a>
+									</h3>
+														
+		                                                        
+                		</li>
+																						
+										
+												
+
+				
+
+																                                                		                		
+																								<li class="hentry item5 ">
+																													<h3 class="entry-title">
+			<a href="http://hosted.ap.org/dynamic/stories/M/MD_NAVY_BLIMP_VAOL-?SITE=WVEC&SECTION=HOME&TEMPLATE=DEFAULT"  type=""  title="Blimp tests mapping gear over Baltimore, Frederick" class="storyLink" rel="bookmark">Blimp tests mapping gear over Baltimore, Frederick</a><a href='#' class='addToList hide'><span style="display:none;">add to reading list</span></a>
+									</h3>
+														
+		                                                        
+                		</li>
+									 	</ul>
+	<!-- targetWssID  -->
+	<!-- linkToExtendedContent false -->
+		<!-- targetWssIDStr  -->
+    
+ 
+
+
+
+
+</div>								
+
+        
+
+					        								        																																																																																											        				        
+															<div class="module" id="slideshows">
+<h5>Slideshows</h5>
+
+
+    <!-- %moduleConfigPath = /news/slideshows -->
+        <!-- %didPos = -1 -->
+        
+
+
+		
+
+
+
+
+
+
+
+
+
+	<!-- dockey  -->
+	<ul >
+														
+										
+												
+
+				
+
+																                                                                                                                                        		                		
+																														<li class="hentry item1 hasimage ">
+																								
+						
+							
+																																					
+						
+						<a href="http://www.wvec.com/news/slideshows/Hampton-Roads-Mugshot-Gallery-August-2013-220182901.html?gallery=y&c=y&ref=%2F"  type=""  title="Hampton Roads Mugshot Gallery, August-September 2013" class="photo-link"><img src="http://media.wvec.com/images/96*72/norf_Travis+Brown.jpg" width="96" height="72" class="photo" alt="Hampton Roads Mugshot Gallery, August-September 2013" title="Hampton Roads Mugshot Gallery, August-September 2013" border="0" /></a>
+				<p class="credit light-gray">Credit: Norfolk Police Dept.</p>																								<h3 class="entry-title">
+			<a href="http://www.wvec.com/news/slideshows/Hampton-Roads-Mugshot-Gallery-August-2013-220182901.html?gallery=y&c=y&ref=%2F"  type=""  title="Hampton Roads Mugshot Gallery, August-September 2013" class="storyLink" rel="bookmark">Hampton Roads Mugshot Gallery, August-September 2013</a><a href='#' class='addToList hide'><span style="display:none;">add to reading list</span></a>
+									</h3>
+														
+		                                                        
+                		</li>
+																								
+										
+												
+
+				
+
+																                                                                                                                                        		                		
+																														<li class="hentry item2 hasimage ">
+																								
+						
+							
+																																		
+						
+						<a href="http://www.wvec.com/news/slideshows/Picking-225364952.html?gallery=y&c=y&ref=%2F"  type=""  title="2013 Bra-ha-ha creations" class="photo-link"><img src="http://media.wvec.com/images/128*72/brahaha1.jpg" width="128" height="72" class="photo" alt="2013 Bra-ha-ha creations" title="2013 Bra-ha-ha creations" border="0" /></a>
+																										<h3 class="entry-title">
+			<a href="http://www.wvec.com/news/slideshows/Picking-225364952.html?gallery=y&c=y&ref=%2F"  type=""  title="2013 Bra-ha-ha creations" class="storyLink" rel="bookmark">2013 Bra-ha-ha creations</a><a href='#' class='addToList hide'><span style="display:none;">add to reading list</span></a>
+									</h3>
+														
+		                                                        <span class='author fn hide'>			By 13News Now 	
+			</span>
+                		</li>
+																								
+										
+												
+
+				
+
+																                                                                                                                                        		                		
+																														<li class="hentry item3 hasimage ">
+																								
+						
+							
+																																		
+						
+						<a href="http://www.wvec.com/news/slideshows/225346862.html?gallery=y&c=y&ref=%2F"  type=""  title="Top 10 most popular songs on iTunes" class="photo-link"><img src="http://media.wvec.com/images/128*71/top10songs-jayz-092413.jpg" width="128" height="71" class="photo" alt="Top 10 most popular songs on iTunes" title="Top 10 most popular songs on iTunes" border="0" /></a>
+																										<h3 class="entry-title">
+			<a href="http://www.wvec.com/news/slideshows/225346862.html?gallery=y&c=y&ref=%2F"  type=""  title="Top 10 most popular songs on iTunes" class="storyLink" rel="bookmark">Top 10 most popular songs on iTunes</a><a href='#' class='addToList hide'><span style="display:none;">add to reading list</span></a>
+									</h3>
+														
+		                                                        <span class='author fn hide'>			By KENS 5 staff	
+			</span>
+                		</li>
+																								
+										
+												
+
+				
+
+																                                                                                                                                        		                		
+																														<li class="hentry item4 hasimage ">
+																								
+						
+							
+																																		
+						
+						<a href="http://www.wvec.com/news/slideshows/225182842.html?gallery=y&c=y&ref=%2F"  type=""  title="Things that have happened since gas was $3 a gallon" class="photo-link"><img src="http://media.wvec.com/images/128*72/gas-pump-generic-1.jpg" width="128" height="72" class="photo" alt="Things that have happened since gas was $3 a gallon" title="Things that have happened since gas was $3 a gallon" border="0" /></a>
+																										<h3 class="entry-title">
+			<span class='storylabel hide'>Photos</span> <a href="http://www.wvec.com/news/slideshows/225182842.html?gallery=y&c=y&ref=%2F"  type=""  title="Things that have happened since gas was $3 a gallon" class="storyLink" rel="bookmark">Things that have happened since gas was $3 a gallon</a><a href='#' class='addToList hide'><span style="display:none;">add to reading list</span></a>
+									</h3>
+														
+		                                                        <span class='author fn hide'>			By KING 5 News	
+			</span>
+                		</li>
+																								
+										
+												
+
+				
+
+																                                                                                                                                        		                		
+																														<li class="hentry item5 hasimage ">
+																								
+						
+							
+																																		
+						
+						<a href="http://www.wvec.com/news/slideshows/225181522.html?gallery=y&c=y&ref=%2F"  type=""  title="Photos: Katy Perry wax figure unveiled" class="photo-link"><img src="http://media.wvec.com/images/128*72/0924-katy-perry-wax-figure.jpg" width="128" height="72" class="photo" alt="Photos: Katy Perry wax figure unveiled" title="Photos: Katy Perry wax figure unveiled" border="0" /></a>
+																										<h3 class="entry-title">
+			<a href="http://www.wvec.com/news/slideshows/225181522.html?gallery=y&c=y&ref=%2F"  type=""  title="Photos: Katy Perry wax figure unveiled" class="storyLink" rel="bookmark">Photos: Katy Perry wax figure unveiled</a><a href='#' class='addToList hide'><span style="display:none;">add to reading list</span></a>
+									</h3>
+														
+		                                                        <span class='author fn hide'>			By Getty Images	
+			</span>
+                		</li>
+																								
+										
+												
+
+				
+
+																                                                                                                                                        		                		
+																														<li class="hentry item6 hasimage ">
+																								
+						
+							
+																																		
+						
+						<a href="http://www.wvec.com/news/slideshows/225182132.html?gallery=y&c=y&ref=%2F"  type=""  title="<FONT color=000099><B>PHOTOS:</B></FONT> Child stars all grown up " class="photo-link"><img src="http://media.wvec.com/images/128*72/130603182959-childstar-01-horizontal-gallery.jpg" width="128" height="72" class="photo" alt="<FONT color=000099><B>PHOTOS:</B></FONT> Child stars all grown up " title="<FONT color=000099><B>PHOTOS:</B></FONT> Child stars all grown up " border="0" /></a>
+																										<h3 class="entry-title">
+			<a href="http://www.wvec.com/news/slideshows/225182132.html?gallery=y&c=y&ref=%2F"  type=""  title="&lt;FONT color=000099&gt;&lt;B&gt;PHOTOS:&lt;/B&gt;&lt;/FONT&gt; Child stars all grown up " class="storyLink" rel="bookmark"><FONT color=000099><B>PHOTOS:</B></FONT> Child stars all grown up </a><a href='#' class='addToList hide'><span style="display:none;">add to reading list</span></a>
+									</h3>
+														
+		                                                        <span class='author fn hide'>			By CNN.com	
+			</span>
+                		</li>
+											 	</ul>
+	<!-- targetWssID 554087 -->
+	<!-- linkToExtendedContent false -->
+		<!-- targetWssIDStr 554087 -->
+            <a class="headlines-morelink" href="http://www.wvec.com/news/slideshows">More</a>
+    
+ 
+
+
+
+	
+<a href="/news/slideshows" class="more">More Slideshows</a>
+</div>
+
+								
+
+        
+
+					        								        																																																																											                								        				        
+															
+
+
+
+<!-- path is now /news/military -->
+<!-- wssid is now 566327 -->
+
+
+
+
+
+			    <div class="content-headlines-list module" id="content-headlines-military">
+	        <h2><a href="http://www.wvec.com/news/military">Military</a></h2>	        
+
+    <!-- %moduleConfigPath = /news/military -->
+        <!-- %didPos = -1 -->
+        
+
+
+		
+
+
+
+
+
+
+
+
+
+	<!-- dockey  -->
+	<ul >
+														
+										
+												
+
+				
+
+																                                                                                                                                        		                		
+																								<li class="hentry item1 hasvideo ">
+																															<h3 class="entry-title">
+			<a href="http://www.wvec.com/news/military/Shutdown-looms-225411242.html"  type=""  title="Hampton Roads' workers worried about possible furloughs - again" class="storyLink" rel="bookmark">Hampton Roads' workers worried about possible furloughs - again</a><a href='#' class='addToList hide'><span style="display:none;">add to reading list</span></a>
+			<span class="video-icon">&nbsp;</span>						</h3>
+														
+		                                                        <span class='author fn hide'>			By Mike Gooding, 13News Now	
+			</span>
+                		</li>
+																						
+										
+												
+
+				
+
+																                                                                                                                                        		                		
+																								<li class="hentry item2 ">
+																													<h3 class="entry-title">
+			<a href="http://www.wvec.com/news/military/Navy-searches-for-2-missing-crewmen-after-chopper-crash-3-saved-224842162.html"  type=""  title="Navy identifies two airmen who died in helo crash in the Red Sea" class="storyLink" rel="bookmark">Navy identifies two airmen who died in helo crash in the Red Sea</a><a href='#' class='addToList hide'><span style="display:none;">add to reading list</span></a>
+									</h3>
+														
+		                                                        
+                		</li>
+																						
+										
+												
+
+				
+
+																                                                                                                                                        		                		
+																								<li class="hentry item3 ">
+																													<h3 class="entry-title">
+			<a href="http://www.wvec.com/news/military/Navy-USS-Roosevelt-needs-more-work-after-overhaul-225401512.html"  type=""  title="Navy: USS Roosevelt needs more work after overhaul" class="storyLink" rel="bookmark">Navy: USS Roosevelt needs more work after overhaul</a><a href='#' class='addToList hide'><span style="display:none;">add to reading list</span></a>
+									</h3>
+														
+		                                                        
+                		</li>
+																						
+										
+												
+
+				
+
+																                                                                                                                                        		                		
+																								<li class="hentry item4 hasvideo ">
+																													<h3 class="entry-title">
+			<a href="http://www.wvec.com/news/military/Admiral-studying-base-security-says-there-are-no-absolute-guarantees-225089392.html"  type=""  title="Admiral studying base security says there are no absolute guarantees" class="storyLink" rel="bookmark">Admiral studying base security says there are no absolute guarantees</a><a href='#' class='addToList hide'><span style="display:none;">add to reading list</span></a>
+			<span class="video-icon">&nbsp;</span>						</h3>
+														
+		                                                        <span class='author fn hide'>			By Mike Gooding, 13News Now	
+			</span>
+                		</li>
+																						
+										
+												
+
+				
+
+																                                                                                                                                        		                		
+																								<li class="hentry item5 ">
+																													<h3 class="entry-title">
+			<a href="http://www.wvec.com/news/military/Trial-delayed-for-Army-general-facing-sex-charges-225097492.html"  type=""  title="Trial delayed for Army general facing sex charges" class="storyLink" rel="bookmark">Trial delayed for Army general facing sex charges</a><a href='#' class='addToList hide'><span style="display:none;">add to reading list</span></a>
+									</h3>
+														
+		                                                        
+                		</li>
+									 	</ul>
+	<!-- targetWssID 566327 -->
+	<!-- linkToExtendedContent false -->
+		<!-- targetWssIDStr 566327 -->
+            <a class="headlines-morelink" href="http://www.wvec.com/news/military">More</a>
+    
+ 
+
+
+
+
+	    </div>
+	
+								
+
+        
+
+					        								        																																																																											                								        				        
+															
+
+
+
+<!-- path is now /sports -->
+<!-- wssid is now 554172 -->
+
+
+
+
+
+			    <div class="content-headlines-list module" id="content-headlines-local-sports">
+	        <h2><a href="http://www.wvec.com/sports">Local Sports</a></h2>	        
+
+    <!-- %moduleConfigPath = /sports -->
+        <!-- %didPos = -1 -->
+        
+
+
+		
+
+
+
+
+
+
+
+
+
+	<!-- dockey  -->
+	<ul >
+														
+										
+												
+
+				
+
+																                                                                                                                                        		                		
+																								<li class="hentry item1 hasvideo ">
+																															<h3 class="entry-title">
+			<a href="http://www.wvec.com/sports/ODU-defense-rests--and-then-hopes-to-recover-225269472.html"  type=""  title="ODU defense rests...  and then hopes to recover" class="storyLink" rel="bookmark">ODU defense rests...  and then hopes to recover</a><a href='#' class='addToList hide'><span style="display:none;">add to reading list</span></a>
+			<span class="video-icon">&nbsp;</span>						</h3>
+														
+		                                                        <span class='author fn hide'>			By Scott Cash	
+			</span>
+                		</li>
+																						
+										
+												
+
+				
+
+																                                                                                                                                        		                		
+																								<li class="hentry item2 hasvideo ">
+																													<h3 class="entry-title">
+			<a href="http://www.wvec.com/sports/ODUs-Lee-dismissed-from-football-team-225103732.html"  type=""  title="ODU's Lee dismissed from football team" class="storyLink" rel="bookmark">ODU's Lee dismissed from football team</a><a href='#' class='addToList hide'><span style="display:none;">add to reading list</span></a>
+			<span class="video-icon">&nbsp;</span>						</h3>
+														
+		                                                        <span class='author fn hide'>			By Brian Smith	
+			</span>
+                		</li>
+																						
+										
+												
+
+				
+
+																                                                                                                                                        		                		
+																								<li class="hentry item3 hasvideo ">
+																													<h3 class="entry-title">
+			<a href="http://www.wvec.com/sports/Admirals-first-day-of-training-camp-225104202.html"  type=""  title="Admirals first day of training camp" class="storyLink" rel="bookmark">Admirals first day of training camp</a><a href='#' class='addToList hide'><span style="display:none;">add to reading list</span></a>
+			<span class="video-icon">&nbsp;</span>						</h3>
+														
+		                                                        <span class='author fn hide'>			By Brian Smith	
+			</span>
+                		</li>
+																						
+										
+												
+
+				
+
+																                                                                                                                                        		                		
+																								<li class="hentry item4 hasvideo ">
+																													<h3 class="entry-title">
+			<a href="http://www.wvec.com/sports/Athlete-of-the-Week--Isaiah-Harper-225104762.html"  type=""  title="Athlete of the Week:  Isaiah Harper" class="storyLink" rel="bookmark">Athlete of the Week:  Isaiah Harper</a><a href='#' class='addToList hide'><span style="display:none;">add to reading list</span></a>
+			<span class="video-icon">&nbsp;</span>						</h3>
+														
+		                                                        <span class='author fn hide'>			By Brian Smith	
+			</span>
+                		</li>
+																						
+										
+												
+
+				
+
+																                                                                                                                                        		                		
+																								<li class="hentry item5 hasvideo ">
+																													<h3 class="entry-title">
+			<a href="http://www.wvec.com/sports/Redskins-react-to-0-3-start-224930742.html"  type=""  title="Redskins react to 0-3 start" class="storyLink" rel="bookmark">Redskins react to 0-3 start</a><a href='#' class='addToList hide'><span style="display:none;">add to reading list</span></a>
+			<span class="video-icon">&nbsp;</span>						</h3>
+														
+		                                                        <span class='author fn hide'>			By Scott Cash	
+			</span>
+                		</li>
+									 	</ul>
+	<!-- targetWssID 554172 -->
+	<!-- linkToExtendedContent false -->
+		<!-- targetWssIDStr 554172 -->
+            <a class="headlines-morelink" href="http://www.wvec.com/sports">More</a>
+    
+ 
+
+
+
+
+	    </div>
+	
+								
+
+        
+
+					        								        																																																																											                								        				        
+															<br clear="all" />								
+
+        
+
+					        								        																																																																											                								        				        
+															<div class="content-headlines-list" id="headline-EntertainmentNews">
+<h2>Entertainment News</h2>
+
+
+    <!-- %moduleConfigPath = http://hosted.ap.org/lineups/ENTERTAINMENT-rss_2.0.xml?SITE=WVEC&SECTION=HOME&TEMPLATE=DEFAULT -->
+        <!-- %didPos = -1 -->
+        
+
+
+		
+
+
+
+
+
+
+
+
+
+	<!-- dockey fd9cdb1ddabbbb68bb205dd874e3f3eece6a616f -->
+	<ul >
+														
+										
+												
+
+				
+
+																                                                		                		
+																								<li class="hentry item1 ">
+																															<h3 class="entry-title">
+			<a href="http://hosted.ap.org/dynamic/stories/U/US_JACKSON_AEG_SUIT?SITE=WVEC&SECTION=HOME&TEMPLATE=DEFAULT"  type=""  title="Jury gets negligence case over death of Jackson" class="storyLink" rel="bookmark">Jury gets negligence case over death of Jackson</a><a href='#' class='addToList hide'><span style="display:none;">add to reading list</span></a>
+									</h3>
+														
+		                                                        
+                		</li>
+																						
+										
+												
+
+				
+
+																                                                		                		
+																								<li class="hentry item2 ">
+																													<h3 class="entry-title">
+			<a href="http://hosted.ap.org/dynamic/stories/U/US_FILM_RUSH?SITE=WVEC&SECTION=HOME&TEMPLATE=DEFAULT"  type=""  title="Howard makes a believable racing film with 'Rush'" class="storyLink" rel="bookmark">Howard makes a believable racing film with 'Rush'</a><a href='#' class='addToList hide'><span style="display:none;">add to reading list</span></a>
+									</h3>
+														
+		                                                        
+                		</li>
+																						
+										
+												
+
+				
+
+																                                                		                		
+																								<li class="hentry item3 ">
+																													<h3 class="entry-title">
+			<a href="http://hosted.ap.org/dynamic/stories/U/US_FILM_NEW_YORK_FILM_FESTIVAL?SITE=WVEC&SECTION=HOME&TEMPLATE=DEFAULT"  type=""  title="The NY Film Festival in flux, to match the times" class="storyLink" rel="bookmark">The NY Film Festival in flux, to match the times</a><a href='#' class='addToList hide'><span style="display:none;">add to reading list</span></a>
+									</h3>
+														
+		                                                        
+                		</li>
+																						
+										
+												
+
+				
+
+																                                                		                		
+																								<li class="hentry item4 ">
+																													<h3 class="entry-title">
+			<a href="http://hosted.ap.org/dynamic/stories/U/US_TV_MASTERS_OF_SEX?SITE=WVEC&SECTION=HOME&TEMPLATE=DEFAULT"  type=""  title="`Masters of Sex' serves beguiling side of feminism" class="storyLink" rel="bookmark">`Masters of Sex' serves beguiling side of feminism</a><a href='#' class='addToList hide'><span style="display:none;">add to reading list</span></a>
+									</h3>
+														
+		                                                        
+                		</li>
+																						
+										
+												
+
+				
+
+																                                                		                		
+																								<li class="hentry item5 ">
+																													<h3 class="entry-title">
+			<a href="http://hosted.ap.org/dynamic/stories/U/US_PEOPLE_RUBEN_STUDDARD?SITE=WVEC&SECTION=HOME&TEMPLATE=DEFAULT"  type=""  title="'Idol' winner Ruben Studdard now 'Biggest Loser'" class="storyLink" rel="bookmark">'Idol' winner Ruben Studdard now 'Biggest Loser'</a><a href='#' class='addToList hide'><span style="display:none;">add to reading list</span></a>
+									</h3>
+														
+		                                                        
+                		</li>
+									 	</ul>
+	<!-- targetWssID  -->
+	<!-- linkToExtendedContent false -->
+		<!-- targetWssIDStr  -->
+    
+ 
+
+
+
+
+</div>								
+
+        
+
+					        								        																																																																											                								        				        
+															
+
+
+
+<!-- path is now /news/health -->
+<!-- wssid is now 554062 -->
+
+
+
+
+
+			    <div class="content-headlines-list module" id="content-headlines-health-news">
+	        <h2><a href="http://www.wvec.com/news/health">Health News</a></h2>	        
+
+    <!-- %moduleConfigPath = /news/health -->
+        <!-- %didPos = -1 -->
+        
+
+
+		
+
+
+
+
+
+
+
+
+
+	<!-- dockey  -->
+	<ul >
+														
+										
+												
+
+				
+
+																                                                                                                                                        		                		
+																								<li class="hentry item1 hasvideo ">
+																															<h3 class="entry-title">
+			<a href="http://www.wvec.com/news/health/Businesses-weigh-Affordable-Care-Act-options-225373322.html"  type=""  title="Businesses weigh Affordable Care Act options" class="storyLink" rel="bookmark">Businesses weigh Affordable Care Act options</a><a href='#' class='addToList hide'><span style="display:none;">add to reading list</span></a>
+			<span class="video-icon">&nbsp;</span>						</h3>
+														
+		                                                        <span class='author fn hide'>			By Janet Roach, 13News Now	
+			</span>
+                		</li>
+																						
+										
+												
+
+				
+
+																                                                		                		
+																								<li class="hentry item2 ">
+																													<h3 class="entry-title">
+			<a href="http://www.wvec.com/news/health/225322492.html"  type=""  title="Obama mocks GOP for 'crazy' Obamacare predictions" class="storyLink" rel="bookmark">Obama mocks GOP for 'crazy' Obamacare predictions</a><a href='#' class='addToList hide'><span style="display:none;">add to reading list</span></a>
+									</h3>
+														
+		                                                        
+                		</li>
+																						
+										
+												
+
+				
+
+																                                                                                                                                        		                		
+																								<li class="hentry item3 hasvideo ">
+																													<h3 class="entry-title">
+			<a href="http://www.wvec.com/news/health/Premiums-unveiled-for-health-overhaul-plans-225166692.html"  type=""  title="Premiums unveiled for health overhaul plans" class="storyLink" rel="bookmark">Premiums unveiled for health overhaul plans</a><a href='#' class='addToList hide'><span style="display:none;">add to reading list</span></a>
+			<span class="video-icon">&nbsp;</span>						</h3>
+														
+		                                                        
+                		</li>
+																						
+										
+												
+
+				
+
+																                                                                                                                                        		                		
+																								<li class="hentry item4 ">
+																													<h3 class="entry-title">
+			<a href="http://www.wvec.com/news/health/Obama-Bill-Clinton-tout-health-care-law-225167632.html"  type=""  title="Obama, Bill Clinton tout health care law" class="storyLink" rel="bookmark">Obama, Bill Clinton tout health care law</a><a href='#' class='addToList hide'><span style="display:none;">add to reading list</span></a>
+									</h3>
+														
+		                                                        
+                		</li>
+																						
+										
+												
+
+				
+
+																                                                                                                                                        		                		
+																								<li class="hentry item5 ">
+																													<h3 class="entry-title">
+			<a href="http://www.wvec.com/news/health/VCU-to-notify-300-of-possible-exposure-to-TB-225096452.html"  type=""  title="VCU to notify 300 of possible exposure to TB" class="storyLink" rel="bookmark">VCU to notify 300 of possible exposure to TB</a><a href='#' class='addToList hide'><span style="display:none;">add to reading list</span></a>
+									</h3>
+														
+		                                                        
+                		</li>
+									 	</ul>
+	<!-- targetWssID 554062 -->
+	<!-- linkToExtendedContent false -->
+		<!-- targetWssIDStr 554062 -->
+            <a class="headlines-morelink" href="http://www.wvec.com/news/health">More</a>
+    
+ 
+
+
+
+
+	    </div>
+	
+								
+
+        
+
+					        								        																																																																											                								        				        
+															<div id="wvecfacebook" class="module">
+<script src="http://static.ak.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php/en_US" type="text/javascript"></script>
+<script type="text/javascript">FB.init("299bb6783599dd5d75eb1df1fbfe4aa0");</script>
+<fb:fan profile_id="54711713629" connections="8" width="470" height="188" show_faces="true" stream="false" header="false"></fb:fan>
+<div style="font-size:8px; padding-left:10px;text-align:center;">
+<a href="http://www.facebook.com/wvec13">WVEC-TV & WVEC.com</a> on Facebook
+</div>
+</div>								
+
+        
+
+					        								        																																																																											                								        				        
+															</div>								
+
+        
+
+<!-- Displayw  -->
+										                </div>
+					</div><!-- CLOSE content-main DIV -->
+                <div id="sidebar">
+                                
+																																																																																																																						
+					        								        																																																																											                								        				        
+															<style type="text/css">
+#tabs { margin: -1px 0 8px; }
+#tabs ul { float: left; width: 300px; padding: 0; margin: 0;}
+#tabs li { margin: 0 4px 0 0; list-style: none; padding: 0; border: 1px solid #ddd; background-color: #fff; position: 
+
+relative; top: 1px; z-index: 5; }
+* html #tabs li { display: inline; }
+#tabs li, #tabs li a { float: left; font-size: 12px; }
+#tabs ul li.active {  }
+#tabs ul li.active a { color: #333; background: -webkit-gradient(linear, left top, left bottom, from(#E6E6E6), to(#FFFFFF)); background: -moz-linear-gradient(center top , #E6E6E6, #FFFFFF) repeat scroll 0 0 transparent; }
+#tabs div { clear: both; padding: 0; border: 1px solid #ddd; position: relative; z-index: 4; background-color: 
+
+#fff; }
+#tabs ul li a { text-decoration: none; padding: 3px 6px; background: -webkit-gradient(linear, left top, left bottom, from(#FFFFFF), to(#CECECE)); background: -moz-linear-gradient(center top , #FFFFFF, #CECECE) repeat scroll 0 0 transparent; }
+#tabs div span#tab-photo { display: block; width: 100%;
+overflow: hidden;
+text-align: center; }
+#tabs .tabbed-title {font-size: 10px; 
+font-weight: bold; 
+background: -webkit-gradient(linear, left top, left bottom, from(#FFFFFF), to(#CECECE));
+background: -moz-linear-gradient(center top , #FFFFFF, #CECECE) repeat scroll 0 0 transparent;
+margin-top: -3px;
+padding: 4px 0 4px 0;
+width: 316px;
+float: left;
+clear: both;
+text-align: center;
+}
+
+.radar-thumb {
+width: 104.5px;
+height: 79px;
+margin: 0;
+padding: 0;
+float: left;
+text-align: center;
+}
+
+.radar-text.tabbed-title {font-size: 11px; 
+font-weight: bold; 
+background: -webkit-gradient(linear, left top, left bottom, from(#FFFFFF), to(#CECECE));
+background: -moz-linear-gradient(center top , #FFFFFF, #CECECE) repeat scroll 0 0 transparent;
+margin-top: -3px;
+padding: 4px 0 4px 0;
+text-align: center;
+}
+
+.radar-text {
+	width: 313px;
+	float: none;
+}
+</style>
+
+<script type="text/javascript">
+$(document).ready(function(){
+$('#tabs div').hide();
+$('#tabs div:first').show();
+$('#tabs ul li:first').addClass('active');
+$('#tabs ul li a').click(function(){ 
+$('#tabs ul li').removeClass('active');
+$(this).parent().addClass('active'); 
+var currentTab = $(this).attr('href'); 
+$('#tabs div').hide();
+$(currentTab).show();
+return false;
+});
+
+});
+</script>
+
+<div id="tabs">
+    <ul>
+
+
+
+
+       <li><a href="#tab-2">Forecast</a></li>
+        <li><a href="#tab-3">Social Media</a></li>
+        <li><a href="#tab-4">Radars</a></li>
+                <li><a href="#tab-5">Mugshots</a></li>
+
+
+    </ul>
+
+    <div id="tab-2">
+    	<span id="tab-photo"><a href="/weather/" title="Forecast"><script src="http://www.wvec.com/templates/belo_embed_video.js?storyid=69435892&pos=top&swfw=363"></script><object name="player" id="_fp_0.9023508378304541" width="315" height="178"    data="http://swfs.bimvid.com/player-3.2.15.swf"  type="application/x-shockwave-flash">    <param value="true" name="allowfullscreen"/>    <param value="always" name="allowscriptaccess"/>    <param value="transparent" name="wmode"/>    <param value="high" name="quality"/>    <param name="movie" value="http://swfs.bimvid.com/player-3.2.15.swf" />    <param value="config=http://www.wvec.com/?j=embed_69435892&ref=http://www.wvec.com/weather/Weather-Synopsis-69435892.html" name="flashvars"/></object><script src="http://www.wvec.com/templates/belo_embed_video.js?storyid=69435892&pos=bottom"></script></a><a href="/weather/" title="Forecast"><p class="tabbed-title">Video Forecast from the 13News Now Weather Authority</p></a></span>
+    </div>
+
+    <div id="tab-3" style="display: none;"><span id="tab-photo"><a href="http://www.wvec.com/content-toolbar/twitter" title="Social Media"><img src="http://images.bimedia.net/images/13news-socialmedia.jpg" width="280" height="134" /></a><a href="http://www.wvec.com/content-toolbar/twitter" title="Social Media"><p class="tabbed-title">Follow 13 News on social media!</p></a></span>
+    	
+    </div>
+    <div id="tab-4" style="display: none;">
+    	    	
+<span class="radar-thumb">
+<a href="/weather/radar?radar=64440637&img=0&sz=lrg&c=y" title="Radars"><img src="http://belo.bimedia.net/WVEC/weather/animated-loops/regional.gif" width="105" height="79" /></a></span>
+
+<span class="radar-thumb">
+<a href="/weather/radar?radar=64440637&img=1&c=y" title="Radars"><img src="http://belo.bimedia.net/WVEC/weather/animated-loops/metro.gif" width="105" height="79"  /></a></span>
+
+<span class="radar-thumb">
+<a href="/weather/radar?radar=64440637&img=3&c=y" title="Radars"><img src="http://belo.bimedia.net/WVEC/weather/animated-loops/southern.gif" width="105" height="79"   /></a></span>
+
+<span class="radar-thumb">
+<a href="/weather/radar?radar=64440637&img=2&c=y" title="Radars"><img src="http://belo.bimedia.net/WVEC/weather/animated-loops/northern.gif" width="105" height="79"   /></a></span>
+
+<span class="radar-thumb">
+<a href="/weather/radar?radar=64440637&img=5&c=y" title="Radars"><img src="http://maps.wunderground.com//data/640x480/2xne_rd_anim.gif" width="105" height="79"  /></a></span>
+
+<span class="radar-thumb">
+<a href="/weather/interactive-radar/future" title="Radars"><img src="http://q.wvec.com/weather/7day/FutureCast_6HR_thumb.jpg" width="105" height="79"  /></a></span>
+<span class="tabbed-title">
+<a href="/weather/radar?radar=64440637&img=0&c=y" title="Radars">Track storms in Hampton Roads with WVEC radars</a></span>
+    </div>
+    <div id="tab-5" style="display: none;">
+    	<span id="tab-photo"><a href="/news/slideshows/mugshots" title="Mugshots"><img src="http://images.bimedia.net/images/mugshots4.jpg" width="280" height="134" /></a><a href="/weather/" title="Forecast"><p class="tabbed-title">View Hampton Roads mugshot galleries.</p></a></span>
+    </div>
+
+</div>								
+
+        
+
+					        								        																																																																											                								        				        
+															<!--  docKey reset? -->
+
+
+
+
+<!-- THUMBSNUM : $pref.thumbs -->
+
+	<script src="http://www.wvec.com/includes/jquery.jcarousel.min.js"></script>
+	
+
+
+
+
+
+
+		
+
+
+
+				
+		         
+	
+									
+																		
+							
+
+														  
+		  
+
+
+
+	   		   	
+
+
+				
+		         
+	
+									
+			
+											 
+											
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+																																																																																																																																																																																																																
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+																						
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+																																																																																																																																																																																																																
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+																						
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+																																																																																																																																																																																																																
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+																						
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+																																																																																																																																																																																																																
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+																						
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+																																																																																																																																																																																																																
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+																						
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+																																																																																																																																																																																																																
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+													  												
+   	
+
+	
+<div class="content-headlines-list vidOption2 module" id="featuredvideo"><h5>Featured Video</h5>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<!-- dockey  -->
+	<ul class="vidOption2">
+														
+						
+																																																																																																																																																																													
+												
+
+				
+
+																                                                                                                                                        		                		
+																														<li class="hentry item1 hasvideo hasimage ">
+																								
+						
+							
+																																		
+						
+						<a href="/video?id=225384702&sec=577832&ref=articlevidmod"  type=""  title="UPDATE: Warrant served at Toano business" class="photo-link"><img src="http://media.wvec.com/images/128*72/lumber+liquidators+sept+26.JPG" width="128" height="72" class="photo" alt="UPDATE: Warrant served at Toano business" title="UPDATE: Warrant served at Toano business" border="0" /></a>
+																			<!--
+showSectionHeading: true
+sectionHeadingLink : /news
+sectionHeading: News
+-->
+							<h6 ><a href="/news" title="News" rel="tag">News</a></h6>
+																				<h3 class="entry-title">
+			<a href="/video?id=225384702&sec=577832&ref=articlevidmod"  type=""  title="UPDATE: Warrant served at Toano business" class="storyLink" rel="bookmark">UPDATE: Warrant served at Toano business</a><a href='#' class='addToList hide'><span style="display:none;">add to reading list</span></a>
+			<span class="video-icon">&nbsp;</span>						</h3>
+														
+		                                                        <span class='author fn hide'>			By 13News Now	
+			</span>
+                		</li>
+																								
+						
+																																																																																																																																																																																																
+												
+
+				
+
+																                                                                                                                                        		                		
+																														<li class="hentry item2 hasvideo hasimage ">
+																								
+						
+							
+											<a href="/video?id=225411242&sec=577832&ref=articlevidmod"  type=""  title="Hampton Roads' workers worried about possible furloughs - again" class="photo-link"><img src="http://redirect.bimfs.com/package/thumb/542af61a7eadb3b062e1f1cb8fdcb52435f189c2" width="128" height="72" class="photo" alt="Hampton Roads' workers worried about possible furloughs - again" title="Hampton Roads' workers worried about possible furloughs - again" border="0" /></a>
+																<!--
+showSectionHeading: true
+sectionHeadingLink : /news
+sectionHeading: News
+-->
+							<h6 ><a href="/news" title="News" rel="tag">News</a></h6>
+																		<h3 class="entry-title">
+			<a href="/video?id=225411242&sec=577832&ref=articlevidmod"  type=""  title="Hampton Roads' workers worried about possible furloughs - again" class="storyLink" rel="bookmark">Hampton Roads' workers worried about possible furloughs - again</a><a href='#' class='addToList hide'><span style="display:none;">add to reading list</span></a>
+			<span class="video-icon">&nbsp;</span>						</h3>
+														
+		                                                        <span class='author fn hide'>			By Mike Gooding, 13News Now	
+			</span>
+                		</li>
+																								
+						
+																																																																																																																																																																															
+												
+
+				
+
+																                                                                                                                                        		                		
+																														<li class="hentry item3 hasvideo hasimage ">
+																								
+						
+							
+											<a href="/video?id=68024842&sec=577832&ref=articlevidmod"  type=""  title="WVEC.com video forecast" class="photo-link"><img src="http://redirect.bimfs.com/package/thumb/52b63667ec580b8855d49a70a40403255d23e158" width="128" height="72" class="photo" alt="WVEC.com video forecast" title="WVEC.com video forecast" border="0" /></a>
+																<!--
+showSectionHeading: true
+sectionHeadingLink : /weather
+sectionHeading: Hampton Roads, Virginia Weather
+-->
+							<h6 ><a href="/weather" title="Hampton Roads, Virginia Weather" rel="tag">Hampton Roads, Virginia Weather</a></h6>
+																		<h3 class="entry-title">
+			<a href="/video?id=68024842&sec=577832&ref=articlevidmod"  type=""  title="WVEC.com video forecast" class="storyLink" rel="bookmark">WVEC.com video forecast</a><a href='#' class='addToList hide'><span style="display:none;">add to reading list</span></a>
+			<span class="video-icon">&nbsp;</span>						</h3>
+														
+		                                                        
+                		</li>
+																								
+						
+																																																																																																																																																																															
+												
+
+				
+
+																                                                                                                                                        		                		
+																														<li class="hentry item4 hasvideo hasimage ">
+																								
+						
+							
+											<a href="/video?id=225410322&sec=577832&ref=articlevidmod"  type=""  title="Mother makes plea for information on son's death" class="photo-link"><img src="http://redirect.bimfs.com/package/thumb/0f67ea933a005f56e774bea47b81a4a50db8cdf9" width="128" height="72" class="photo" alt="Mother makes plea for information on son's death" title="Mother makes plea for information on son's death" border="0" /></a>
+																<!--
+showSectionHeading: true
+sectionHeadingLink : /video/featured-videos
+sectionHeading: Featured Videos
+-->
+							<h6 ><a href="/video/featured-videos" title="Featured Videos" rel="tag">Featured Videos</a></h6>
+																		<h3 class="entry-title">
+			<a href="/video?id=225410322&sec=577832&ref=articlevidmod"  type=""  title="Mother makes plea for information on son's death" class="storyLink" rel="bookmark">Mother makes plea for information on son's death</a><a href='#' class='addToList hide'><span style="display:none;">add to reading list</span></a>
+			<span class="video-icon">&nbsp;</span>						</h3>
+														
+		                                                        <span class='author fn hide'>			By Velma Scaife, 13News Now	
+			</span>
+                		</li>
+																								
+						
+																																																																																																			
+												
+
+				
+
+																                                                                                                                                        		                		
+																														<li class="hentry item5 hasvideo hasimage ">
+																								
+						
+							
+											<a href="/video?id=225422052&sec=577832&ref=articlevidmod"  type=""  title="Beach trying to lure foreign travelers" class="photo-link"><img src="http://redirect.bimfs.com/package/thumb/80c84e7ce49d5979bcd52a18b2018350ca097130" width="128" height="72" class="photo" alt="Beach trying to lure foreign travelers" title="Beach trying to lure foreign travelers" border="0" /></a>
+																<!--
+showSectionHeading: true
+sectionHeadingLink : /video/featured-videos
+sectionHeading: Featured Videos
+-->
+							<h6 ><a href="/video/featured-videos" title="Featured Videos" rel="tag">Featured Videos</a></h6>
+																		<h3 class="entry-title">
+			<a href="/video?id=225422052&sec=577832&ref=articlevidmod"  type=""  title="Beach trying to lure foreign travelers" class="storyLink" rel="bookmark">Beach trying to lure foreign travelers</a><a href='#' class='addToList hide'><span style="display:none;">add to reading list</span></a>
+			<span class="video-icon">&nbsp;</span>						</h3>
+														
+		                                                        <span class='author fn hide'>			By Philip Townsend, 13News Now	
+			</span>
+                		</li>
+																								
+						
+																																																																																																																																																																																																		
+												
+
+				
+
+																                                                                                                                                        		                		
+																														<li class="hentry item6 hasvideo hasimage ">
+																								
+						
+							
+																																		
+						
+						<a href="/video?id=225373322&sec=577832&ref=articlevidmod"  type=""  title="Businesses weigh Affordable Care Act options" class="photo-link"><img src="http://media.wvec.com/images/128*71/health_care_reform_cropped_generic.jpg" width="128" height="71" class="photo" alt="Businesses weigh Affordable Care Act options" title="Businesses weigh Affordable Care Act options" border="0" /></a>
+																<!--
+showSectionHeading: true
+sectionHeadingLink : /news/business
+sectionHeading: Business
+-->
+							<h6 ><a href="/news/business" title="Business" rel="tag">Business</a></h6>
+																		<h3 class="entry-title">
+			<a href="/video?id=225373322&sec=577832&ref=articlevidmod"  type=""  title="Businesses weigh Affordable Care Act options" class="storyLink" rel="bookmark">Businesses weigh Affordable Care Act options</a><a href='#' class='addToList hide'><span style="display:none;">add to reading list</span></a>
+			<span class="video-icon">&nbsp;</span>						</h3>
+														
+		                                                        <span class='author fn hide'>			By Janet Roach, 13News Now	
+			</span>
+                		</li>
+											 	</ul>
+	<!-- targetWssID  -->
+	<!-- linkToExtendedContent false -->
+		<!-- targetWssIDStr  -->
+    
+ 
+
+
+
+
+	<a href="/video?sec=577832&ref=articlevidmod" class="more">More Video</a></span></div>
+
+	<script>
+		jQuery(document).ready(function() {
+$('#featuredvideo.vidOption4').css('display','block');
+$('#featuredvideo.vidOption2').css('display','block');
+    		jQuery(".vidOption2 ul").jcarousel({
+scroll:2,
+visible:2,
+    			buttonNextHTML: "<div id='nextVideoThumb'>Next</div>",
+    			buttonPrevHTML: "<div id='prevVideoThumb'>Prev</div>"
+    		});
+	    });
+	</script>
+
+								
+
+        
+
+					        								        																																																																											                								        				        
+															
+
+
+
+
+
+
+
+			
+<!-- belodartMeta: ;mtfIFPath=/includes/;sz=300x250,300x600;tile=7;pagetype=home;"+crtg_content+"ord= -->
+	
+	
+	
+		
+					<div class="ad-display" id="ad-medrectangle">
+							<!-- beloDartSection /home -->
+				<!-- tag MedRectangle currentDartAd com.clickability.cms.translator.UtilContext$userObject@276e4ca6 -->
+				<!-- dartTag tile7 -->
+					<script>
+					beloadcode.adsource = "http://ad.doubleclick.net/adj/belo.wvec"+ beloadcode.zoneName + ";mtfIFPath=/includes/;sz=300x250,300x600;tile=7;pagetype=home;"+crtg_content+"ord="+ beloadcode.ordId + "?";
+					document.write('<script src="'+beloadcode.adsource+'" ><\/script>')
+					</script>
+	
+					<script type="text/javascript">
+					<!--
+					if ((!document.images && navigator.userAgent.indexOf('Mozilla/2.') >= 0) || (navigator.userAgent.indexOf('WebTV') >= 0)) {
+						document.write("<a href='http://ad.doubleclick.net/jump/belo.wvec"+beloadcode.zoneName+";mtfIFPath=/includes/;sz=300x250,300x600;tile=7;pagetype=home;"+crtg_content+"ord="+beloadcode.ordId+"?'><img src='http://ad.doubleclick.net/adj/belo.wvec"+beloadcode.zoneName+";mtfIFPath=/includes/;sz=300x250,300x600;tile=7;pagetype=home;"+crtg_content+"ord="+beloadcode.ordId+"?' width='300' height='250'  border='0' /></a>");	
+					}
+					//-->
+					</script>
+										<noscript>
+					<a href="http://ad.doubleclick.net/jump/belo.wvec/home;mtfIFPath=/includes/;sz=300x250,300x600;tile=7;pagetype=home;ord=3788761?"><img src="http://ad.doubleclick.net/adj/belo.wvec/home;mtfIFPath=/includes/;sz=300x250,300x600;tile=7;pagetype=home;ord=3788761?" width="300" height="250"  border="0" /></a>
+					</noscript>
+												</div>
+				
+		
+
+
+								
+
+        
+
+					        								        																																																																											                								        				        
+															
+ 
+
+
+<div id="datasphere-widget" >
+
+<div id="datasphere-events">
+    <div id="dsnsdmaevents"></div>
+    <div id="dsnsevents"></div>
+    <div id="dsnscommunityevents"></div>
+</div>
+
+
+
+<div id="datasphere-ad" align="center">
+    <script type="text/javascript">
+    <!--
+        OAS_url = 'http://oascentral.datasphere.com';
+        OAS_sitepage = 'wvec/home';
+        OAS_pos = 'Frame1';
+        try {
+          OAS_query = 'WVEC_COMMUNITY='+__dsns_.GetCookie('dsnscomm');
+        } catch(e) {
+          OAS_query = '';
+        }
+        var OAS_RN = new String (Math.random());
+        var OAS_RNS = OAS_RN.substring (2,11);
+        document.write('<scr' + 'ipt type="text/javascript" src="' + OAS_url + '/RealMedia/ads/adstream_jx.ads/' + OAS_sitepage + '/1' + OAS_RNS + '@' + OAS_pos + '?' + OAS_query + '"></scr' + 'ipt>');
+    // -->
+    </script>
+    <noscript><a href="http://oascentral.datasphere.com/RealMedia/ads/click_nx.ads/wvec/home/@Frame1?"><img src="http://oascentral.datasphere.com/RealMedia/ads/adstream_nx.ads/wvec/home/@Frame1?" border="0"></a></noscript>
+</div>
+
+</div>
+
+									
+
+        
+
+					        								        																																																																											                								        				        
+															        
+<div id="content-toolbar2" class="fancyToolBar">
+					<ul id="content-tools">
+								
+				
+
+
+				
+		         
+	
+			
+					
+												
+			
+																								
+							
+							
+							
+							
+							
+							
+							
+							
+							
+						
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+																					
+							
+							
+							
+							
+							
+							
+							
+							
+							
+						
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+																					
+							
+							
+							
+							
+							
+							
+							
+							
+							
+						
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+												  
+ 													
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+					
+							
+				
+		
+		
+		
+		
+		
+		
+		
+		
+		
+																							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+					
+							
+				
+		
+		
+		
+		
+		
+		
+		
+		
+		
+																							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+					
+							
+				
+		
+		
+		
+		
+		
+		
+		
+		
+		
+										
+				    				
+
+      
+      
+ 
+
+										
+																																	
+			<li class=" item1 hasimage" style="background: transparent url(http://media.wvec.com/images/kvue-home-page-facebook-logo.jpg) top left no-repeat">
+				<a href="http://www.facebook.com/wvec13" title="Facebook">Facebook</a>
+					    </li>
+				    				
+
+      
+      
+ 
+
+										
+																																	
+			<li class=" item2 hasimage" style="background: transparent url(http://media.wvec.com/images/kvue-home-page-twitter-logo.jpg) top left no-repeat">
+				<a href="/news/interactives/13News-on-Twitter-164019896.html" title="Twitter">Twitter</a>
+					    </li>
+				    				
+
+      
+      
+ 
+
+										
+																																	
+			<li class=" item3 hasimage" style="background: transparent url(http://media.wvec.com/images/twitter-wx.jpg) top left no-repeat">
+				<a href="http://twitter.com/13weather" title="Weather">Weather</a>
+					    </li>
+							</ul><ul id="contentToolsStdLink">
+				
+
+
+				
+		         
+	
+									
+			
+											 
+ 													
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+					
+							
+				
+		
+		
+		
+		
+		
+		
+		
+		
+		
+																							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+					
+							
+				
+		
+		
+		
+		
+		
+		
+		
+		
+		
+																							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+					
+							
+				
+		
+		
+		
+		
+		
+		
+		
+		
+		
+																							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+					
+							
+				
+		
+		
+		
+		
+		
+		
+		
+		
+		
+																							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+					
+							
+				
+		
+		
+		
+		
+		
+		
+		
+		
+		
+										
+				    				
+
+      
+      
+ 
+
+										
+																																	
+			<li class=" item1 hasimage" style="background: transparent url(http://media.wvec.com/images/mobile-icon.png) top left no-repeat">
+				<a href="/community/text-alerts" title="Text Alerts">Text Alerts</a>
+					    </li>
+				    				
+
+      
+      
+ 
+
+										
+																																	
+			<li class=" item2 hasimage" style="background: transparent url(http://media.wvec.com/images/envelope-toolbar.jpg) top left no-repeat">
+				<a href="http://weather.wvec.com/auto/wvec/member/editemailuser.html" title="Weather">Weather</a>
+					    </li>
+				    				
+
+      
+      
+ 
+
+										
+																																	
+			<li class=" item3 hasimage" style="background: transparent url(http://media.wvec.com/images/belo-mobile-icon.png) top left no-repeat">
+				<a href="http://q.belo.com/shared/mobappdir/v3/?station=wvec" title="Mobile">Mobile</a>
+					    </li>
+				    				
+
+      
+      
+ 
+
+										
+																																	
+			<li class=" item4 hasimage" style="background: transparent url(http://media.wvec.com/images/belo-feeds-icon.png) top left no-repeat">
+				<a href="/content-toolbar/rss" title="RSS Feeds">RSS Feeds</a>
+					    </li>
+				    				
+
+      
+      
+ 
+
+										
+																																	
+			<li class=" item5 hasimage" style="background: transparent url(http://media.wvec.com/images/belo-offers-icon.png) top left no-repeat">
+				<a href="/content-toolbar/specials" title="Special Offers">Special Offers</a>
+					    </li>
+			
+	</ul>
+	</div>
+								
+
+        
+
+					        								        																																																																											                								        				        
+															<style type="text/css">
+    #watch-abc-mod {width: 308px; height: 50px; float: left; border: 1px solid #eaeaea; border-radius: 11px; margin-bottom: 8px; background: url(http://media.wvec.com/designimages/abc-watch-background-lg1.png) repeat-x scroll 0 0 transparent; padding: 3px;}
+    #watch-abc-mod img {float: left;}
+    #watch-abc-links {float: right; width: 240px; margin-top: 1px;}
+    #watch-abc-links li {float: left; list-style-type: none; background: url(http://media.wvec.com/designimages/abc-watch-arrow1.png) no-repeat scroll 0 1px transparent; padding: 0 0 2px 12px; clear: both; margin: 2px 0; overflow: hidden; height: 10px;}
+    #watch-abc-links li.item2 {width: 80px;}
+    #watch-abc-links li.item3 {width: 83px;}
+    #watch-abc-links li img {border: none;}
+    #watch-abc-links li img:hover {border-bottom: 1px solid #a81010;}
+</style>
+
+<div id="watch-abc-mod">
+
+<img src="http://media.wvec.com/designimages/abc-watch-logo-lg.png" width="50" alt="Watch ABC" />
+
+<ul id="watch-abc-links">
+    <li class="item1"><a href="http://watchabc.go.com/?aff=wvec" target="_blank"><img src="http://media.wvec.com/designimages/abc-full-episodes-14px.png" alt="Full Episodes" /></a></li>
+    <li class="item2"><a href="http://abcnews.go.com/Video/playerIndex?affil=wvec" target="_blank"><img src="http://media.wvec.com/designimages/abc-news-video-14px.png" alt="News Video" /></a></li>
+    <li class="item3"><a href="/news/interactives/live_video_ABCNews.html" target="_blank"><img src="http://media.wvec.com/designimages/abc-live-stream-14px.png" alt="Live Stream" /></a></li>
+</ul>
+
+</div>								
+
+        
+
+					        								        																																																																											                								        				        
+															<iframe src="http://www.wvec.com/templates/wvec_doapp_widget" id="mobile-app-promo" frameborder="0" scrolling="no" width="310" height="320"></iframe>								
+
+        
+
+					        								        																																																																																											        				        
+															
+
+
+
+<!-- path is now /marketplace -->
+<!-- wssid is now 553972 -->
+
+
+
+
+
+			    <div class="content-headlines-list module" id="content-headlines-marketplace">
+	        <h2><a href="http://www.wvec.com/marketplace">Marketplace</a></h2>	        
+
+    <!-- %moduleConfigPath = /marketplace -->
+        <!-- %didPos = -1 -->
+        
+
+
+		
+
+
+
+
+
+
+
+
+
+	<!-- dockey e2287f52a14d268e77923aa681de351c940c66bc -->
+	<ul >
+														
+										
+												
+
+				
+
+																                                                		                		
+																														<li class="hentry item1 hasimage ">
+																								
+									
+							
+																																		
+						
+						<a href="/pigskinpickem"  type=""  title="13Sports Pigskin Pickem" class="photo-link"><img src="http://media.wvec.com/images/128*60/pigskin-button.jpg" width="128" height="60" class="photo" alt="13Sports Pigskin Pickem" title="13Sports Pigskin Pickem" border="0" /></a>
+																												<h3 class="entry-title">
+			<a href="/pigskinpickem"  type=""  title="13Sports Pigskin Pickem" class="storyLink" rel="bookmark">13Sports Pigskin Pickem</a><a href='#' class='addToList hide'><span style="display:none;">add to reading list</span></a>
+									</h3>
+														
+		                                                        
+                		</li>
+																								
+										
+												
+
+				
+
+																                                                		                		
+																														<li class="hentry item2 hasimage ">
+																								
+									
+							
+																																		
+						
+						<a href="http://www.wvec.com/sports/contests/nascar-pick-em-contest-190203071.html"  type=""  title="Pick your drivers each week!" target="_blank" class="photo-link"><img src="http://media.wvec.com/images/128*60/nascar-challenge-button1.jpg" width="128" height="60" class="photo" alt="Pick your drivers each week!" title="Pick your drivers each week!" border="0" /></a>
+																										<h3 class="entry-title">
+			<a href="http://www.wvec.com/sports/contests/nascar-pick-em-contest-190203071.html"  type=""  title="Pick your drivers each week!" class="storyLink" rel="bookmark" target="_blank">Pick your drivers each week!</a><a href='#' class='addToList hide'><span style="display:none;">add to reading list</span></a>
+									</h3>
+														
+		                                                        
+                		</li>
+																								
+										
+												
+
+				
+
+																                                                		                		
+																														<li class="hentry item3 hasimage ">
+																								
+						
+							
+																																					<a href="http://www.wvec.com/marketplace/13specialist"  type=""  title="13 Specialist" target="_blank" class="photo-link"><img src="http://media.wvec.com/images/13+SPECIALIST_homebutton.png" width="128" height="49" class="photo" alt="13 Specialist" title="13 Specialist" border="0" /></a>
+																										<h3 class="entry-title">
+			<a href="http://www.wvec.com/marketplace/13specialist"  type=""  title="13 Specialist" class="storyLink" rel="bookmark" target="_blank">13 Specialist</a><a href='#' class='addToList hide'><span style="display:none;">add to reading list</span></a>
+									</h3>
+														
+		                                                        
+                		</li>
+																								
+										
+												
+
+				
+
+																                                                		                		
+																														<li class="hentry item4 hasimage ">
+																								
+									
+							
+																																					<a href="/marketplace/hr-happenings"  type=""  title="Hampton Roads Happenings" class="photo-link"><img src="http://media.wvec.com/images/hr-happenings-thumbnail.jpg" width="128" height="49" class="photo" alt="Hampton Roads Happenings" title="Hampton Roads Happenings" border="0" /></a>
+																										<h3 class="entry-title">
+			<a href="/marketplace/hr-happenings"  type=""  title="Hampton Roads Happenings" class="storyLink" rel="bookmark">Hampton Roads Happenings</a><a href='#' class='addToList hide'><span style="display:none;">add to reading list</span></a>
+									</h3>
+														
+		                                                        
+                		</li>
+											 	</ul>
+	<!-- targetWssID 553972 -->
+	<!-- linkToExtendedContent false -->
+		<!-- targetWssIDStr 553972 -->
+            <a class="headlines-morelink" href="http://www.wvec.com/marketplace">More</a>
+    
+ 
+
+
+
+
+	    </div>
+	
+								
+
+        
+
+					        								        																																																																											                								        				        
+															<div id="popular" class="module ui-tabs ui-widget ui-widget-content ui-corner-all">
+<h5>Most Popular</h5>
+ 	
+		<ul id="most-tabs">
+		<li><a href="#most-view">Most Viewed</a></li>
+		<li><a href="#most-email">Most Emailed</a></li>
+	</ul>
+	<div id="most-view" class="ui-tabs-panel">
+								
+
+
+
+<ul>
+															
+
+                    <!-- gptTargetPath /home -->
+                        <!-- gptTargetPath2 /my-city/vabeach -->
+                                                                
+
+												<li>
+						
+
+        							
+			
+
+
+
+						
+	
+												<a href="http://www.wvec.com/home/Three-people-killed-in-I-64-accident-225270232.html" title="UPDATE: Woman, child killed in I-64 accident"  class=""  >UPDATE: Woman, child killed in I-64 accident</a> 		
+		
+
+
+
+
+
+	
+
+																						
+
+		
+																																	
+	
+		
+		
+			
+									<div class="videoicon">
+
+
+    
+    </div>
+
+			
+			</li>
+																		
+
+                    <!-- gptTargetPath /home -->
+                        <!-- gptTargetPath2 /news -->
+    
+
+												<li>
+						
+
+        							
+			
+
+
+
+						
+	
+												<a href="http://www.wvec.com/home/225251202.html" title="Sheriff: Mom killed husband, 3 children at Texas home"  class=""  >Sheriff: Mom killed husband, 3 children at Texas home</a> 		
+		
+
+
+
+
+
+	
+
+																						
+
+		
+																																	
+	
+		
+		
+			
+									<div class="videoicon">
+
+
+    
+    </div>
+
+			
+			</li>
+																		
+
+                    <!-- gptTargetPath /home -->
+                        <!-- gptTargetPath2 /my-city/nnews -->
+                                                                
+
+												<li>
+						
+
+        							
+			
+
+
+
+						
+	
+												<a href="http://www.wvec.com/home/Newport-News-man-arrested-for-animal-cruelty-225248542.html" title="Newport News man arrested for animal cruelty"  class=""  >Newport News man arrested for animal cruelty</a> 		
+		
+
+
+
+
+
+	
+
+																						
+
+		
+																																	
+	
+		
+		
+			
+									<div class="videoicon">
+
+
+    
+    </div>
+
+			
+			</li>
+																		
+
+                    <!-- gptTargetPath /home -->
+                        <!-- gptTargetPath2 /my-city/portsmouth -->
+                
+
+												<li>
+						
+
+        							
+			
+
+
+
+						
+	
+												<a href="http://www.wvec.com/home/Sedan-ends-up-on-top-of-parked-car-in-Portsmouth-225279152.html" title="Sedan ends up on top of parked car in Portsmouth"  class=""  >Sedan ends up on top of parked car in Portsmouth</a> 		
+		
+
+
+
+
+
+
+
+	
+
+			</li>
+																		
+
+                    <!-- gptTargetPath /my-city/norfolk -->
+                        <!-- gptTargetPath2 /home -->
+                                                    
+
+												<li>
+						
+
+        							
+			
+
+
+
+						
+	
+												<a href="http://www.wvec.com/my-city/norfolk/Breaking-Two-people-shot-in-Norfolk-225354552.html" title="UPDATE: Two people shot in Norfolk"  class=""  >UPDATE: Two people shot in Norfolk</a> 		
+		
+
+
+
+
+
+	
+
+																						
+
+		
+																																	
+	
+		
+		
+			
+									<div class="videoicon">
+
+
+    
+    </div>
+
+			
+			</li>
+													</ul>
+	</div>
+	<div id="most-email" class="ui-tabs-panel ui-tabs-hide">
+								
+
+
+
+<ul>
+															
+
+                    <!-- gptTargetPath /home -->
+                        <!-- gptTargetPath2 /my-city/vabeach -->
+                                                                
+
+												<li>
+						
+
+        							
+			
+
+
+
+						
+	
+												<a href="http://www.wvec.com/home/Three-people-killed-in-I-64-accident-225270232.html" title="UPDATE: Woman, child killed in I-64 accident"  class=""  >UPDATE: Woman, child killed in I-64 accident</a> 		
+		
+
+
+
+
+
+	
+
+																						
+
+		
+																																	
+	
+		
+		
+			
+									<div class="videoicon">
+
+
+    
+    </div>
+
+			
+			</li>
+																		
+
+                    <!-- gptTargetPath /home -->
+                        <!-- gptTargetPath2 /my-city/norfolk -->
+                                                    
+
+												<li>
+						
+
+        							
+			
+
+
+
+						
+	
+												<a href="http://www.wvec.com/home/City-hopes-cruise-ship-business-will-soon-sail-back-into-downtown-Norfolk-225249782.html" title="City hopes cruise ship business will soon sail back into downtown Norfolk"  class=""  >City hopes cruise ship business will soon sail back into downtown Norfolk</a> 		
+		
+
+
+
+
+
+	
+
+																						
+
+		
+																																	
+	
+		
+		
+			
+									<div class="videoicon">
+
+
+    
+    </div>
+
+			
+			</li>
+																		
+
+                    <!-- gptTargetPath /my-city/chesapeake -->
+                        <!-- gptTargetPath2 /news -->
+                                        
+
+												<li>
+						
+
+        							
+			
+
+
+
+						
+	
+												<a href="http://www.wvec.com/my-city/chesapeake/Stretch-of-Dominion-Blvd-will-be-closed-for-nearly-two-years-225222072.html" title="Stretch of Dominion Blvd. will be closed for nearly two years"  class=""  >Stretch of Dominion Blvd. will be closed for nearly two years</a> 		
+		
+
+
+
+
+
+
+
+	
+
+			</li>
+																		
+
+                    <!-- gptTargetPath /my-city/portsmouth -->
+                        <!-- gptTargetPath2 /news/local -->
+                            
+
+												<li>
+						
+
+        							
+			
+
+
+
+						
+	
+												<a href="http://www.wvec.com/my-city/portsmouth/Crash-blocks-Western-Freeway-during-morning-rush-225326162.html" title="Crash blocks Western Freeway during morning rush"  class=""  >Crash blocks Western Freeway during morning rush</a> 		
+		
+
+
+
+
+
+	
+
+																						
+
+
+											
+
+			</li>
+																		
+
+                    <!-- gptTargetPath /video/featured-videos -->
+                        <!-- gptTargetPath2 /video/yahoo-video -->
+                
+
+												<li>
+						
+
+        							
+			
+
+
+
+						
+	
+												<a href="http://www.wvec.com/video/featured-videos/Video-Extra-2-killed-in-I-64-crash--225327142.html" title="Video Extra: 2 killed in I-64 crash "  class=""  >Video Extra: 2 killed in I-64 crash </a> 		
+		
+
+
+
+
+
+	
+
+																						
+
+		
+																																	
+	
+		
+		
+			
+									<div class="videoicon">
+
+
+    
+    </div>
+
+			
+			</li>
+													</ul>
+	</div>
+		<a href="/most-popular" title="More most popular options" rel="bookmark" class="headlines-morelink">More>></a>
+
+
+</div>								
+
+        
+
+<!-- Displayw  -->
+
+			<!--
+				type: ArrayList 
+				moduleArraySize: 9 
+			-->
+                    </div><!-- ClOSE sidebar div -->
+    	</div><!-- CLOSE content DIV -->
+
+    		<div id="disabilities-contact-list">
+<p><a href="https://stations.fcc.gov/station-profile/wvec" target="_new">View Public Inspection Files</a> - <strong>Individuals with disabilities needing assistance accessing the public file should contact:</strong> <em>Deborah Shollenberger - (757) 628-6232</em></p>
+</div>
+
+		        <div class="nav" id="nav-bottom">
+        
+<ul class="top-level">
+									<li class="top-level-item topNav1  current"><a href="/" rel="home">Home</a></li>
+								<li class="top-level-item topNav2 "><a href="/news">News</a></li>
+								<li class="top-level-item topNav3 "><a href="/my-city/">MyCity</a></li>
+								<li class="top-level-item topNav4 "><a href="/weather">Weather</a></li>
+								<li class="top-level-item topNav5 "><a href="/traffic">Traffic</a></li>
+								<li class="top-level-item topNav6 "><a href="/sports">Sports</a></li>
+								<li class="top-level-item topNav7 "><a href="/entertainment">Entertainment</a></li>
+								<li class="top-level-item topNav8 "><a href="/video">Video</a></li>
+								<li class="top-level-item topNav9 "><a href="/community">Community</a></li>
+								<li class="top-level-item topNav10 "><a href="/marketplace">Marketplace</a></li>
+								<li class="top-level-item topNav11  last"><a href="/on-tv">On TV</a></li>
+	</ul>
+    </div>
+    <div id="footer">
+	<div id="footer-contact" class="vcard">
+			<div class="fn org">
+			WVEC.com
+		</div>
+		<div class="tel">757-625-1313 (phone)</div>		<div class="fax">757-628-5855 (fax)</div>		<a class="email" href="mailto:news@wvec.com">news@wvec.com</a>		</div>
+		<div class="search" id="search-bottom">
+	<form action="/results" class="search-form" name="searchForm" method="get">
+                <p><label for="search-box">Search</label></p>
+		<input type="hidden" id="search-box" name="search" value="site" />
+						<input name="keywords" class="search-text" id="search-text-bottom" type="text" maxlength="255" title="Search WVEC.com" accesskey="f" value="Find stories, photos and video" onFocus="this.value='';" />
+				<input type="submit" class="search-button" id="search-button-bottom" name="searchbutton" value="Go" title="Search" />
+	</form>
+</div>
+
+		<ul id="footer-tools">
+		<li class="footer-tools-contact"><a href="/on-tv/contact" title="Contact Us">Contact Us</a></li>
+		<li class="footer-tools-employment"><a href="/on-tv/employment" title="Employment">Employment</a></li>
+		<li class="footer-tools-advertising"><a href="/advertise" title="Advertising">Advertising</a></li>
+		<li class="footer-tools-terms"><a href="/terms-and-conditions/terms-of-use" title="Terms Of Service">Terms Of Service</a></li>
+                <li class="footer-tools-privacy"><a href="/terms-and-conditions/privacy-policy" title="Privacy Policy">Privacy Policy</a></li>                
+	</ul>
+			<div id="copyright">
+		<p>© 2009-2013 WVEC Television, Inc., a subsidiary of Belo Corp. All Rights Reserved.</p>
+		<p class="bimpower">Powered by <a href="http://www.broadcast-interactive.com" target="_new" title="Broadcast Interactive Media">Broadcast Interactive Media</a>.</p>
+	</div>
+</div>
+<script language="Javascript" >var js="0.0";</script><script language="Javascript1.0" >js="1.0";</script><script language="Javascript1.1">js="1.1";</script><script language="Javascript1.2" >js="1.2";</script><script language="Javascript1.3">js="1.3";</script><script language="Javascript1.4" >js="1.4";</script><script language="Javascript1.5">js="1.5";</script><script language="Javascript1.6">js="1.6";</script><script language="Javascript1.7">js="1.7";</script><script language="Javascript1.8">js="1.8";</script><script language="Javascript1.9">js="1.9";</script><script language="javascript1.1" type="text/javascript"> 
+<!-- 
+var bb=new Image();var _ti=910;var _q="";var na=(navigator.appName=="Netscape");var ns=(navigator.appName.substring(0,9)=="Microsoft");var _qDate=new Date();var _r=(document.referrer.indexOf(getdomain(location))>-1?"":document.referrer);_q+="&5="+parseInt(_qDate.getTimezoneOffset());_q+="&35="+parseInt(_qDate.toString().indexOf("aylight")>-1?1:0);_q+="&6=900553927";_q+="&7=553927";_q+="&8="+encodeURIComponent(document.location);_q+="&9="+encodeURIComponent(_r);_q+="&10="+encodeURIComponent(document.title);_q+="&11="+encodeURIComponent(navigator.userAgent);_q+="&12="+encodeURIComponent((na?navigator.language:navigator.userLanguage));_q+="&13="+((navigator.javaEnabled()?'1':'0'));_q+="&14="+encodeURIComponent(js);if(document.cookie.indexOf("cc")==-1)document.cookie="cc=t;";_q+="&15="+((document.cookie.indexOf("cc")==-1)?"0":"1");_q+="&16="+encodeURIComponent((screen.width+'x'+screen.height));_q+="&17="+encodeURIComponent(((ns)?screen.colorDepth:screen.pixelDepth));_q+="&18="+encodeURIComponent(Math.random());_q+="&19="+_ti;bb.src="http://s.clickability.com/s?"+_q;
+function setonclicks(a,b){var i=0;var retval=true;while(document.links[i]!=a){i++;}if(b.li[i])retval=b.li[i].oldonclick();bye(a);return retval;}
+function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.links.length;lnks.li=new Array(sze);for (var i=0; i<sze; i++){if(document.links[i].onclick){lnks.li[i]=document.links[i];lnks.li[i].oldonclick=document.links[i].onclick;}eval("document.links[i].onclick=function(){return setonclicks(this,lnks);}");}}function bye(a){if(a.href.toLowerCase().indexOf('http')!=0)return true;if(getdomain(location)==getdomain(a))return true;if(a.href.toLowerCase().indexOf('http')!=0)return true;var _qc="http://s.clickability.com/s?19=912";_qc+="&6=900553927";_qc+="&7=553927";_qc+="&18="+encodeURIComponent(Math.random());_qc+="&100="+a.href;_qc+="&101="+encodeURIComponent(a.text);var cc=new Image();if(na){cc.src=_qc;pc(100);}else cc.src=_qc;return true;}function pc(a){d = new Date(); while (1){m =new Date(); df = m-d;if( df > a ) {break;}}}function getdomain(a){var i=a.host.indexOf(":");return (i>=0)?a.host.substring(0,i):a.host;}if(self['setupalready']){var dosetup = false;alert('There are two $imware.tracker calls on this page. Please alert Client Services');}else{var dosetup = true;var hasonload=false;}if(dosetup && ((window.screen)||((new Array()).toSource)||((new Array()).shift&&ns))&&(navigator.userAgent.indexOf('Mac')<0)){if(window.onload){oldonld=window.onload;hasonload=true;}window.onload=newonld;var setupalready = true;}//-->
+</script><noscript>
+<img width="1" height="1" src="http://s.clickability.com/s?19=990&14=0&6=900553927&7=553927&25=0&18=0.12323132729841635">
+</noscript>
+
+<script type="text/javascript">
+_qoptions={
+qacct:"p-9a3CzpxOy4iiQ"
+};
+</script>
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+<noscript>
+<a href="http://www.quantcast.com/p-9a3CzpxOy4iiQ" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-9a3CzpxOy4iiQ.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/></a>
+</noscript>
+
+
+
+
+
+
+
+
+
+
+
+						
+					
+					
+					
+	
+
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-39059752-1']);
+  _gaq.push(['_setDomainName', 'wvec.com']); 
+  _gaq.push(['_trackPageview']);
+_gaq.push(['rollup._setAccount', 'UA-39056763-1']); 
+_gaq.push(['rollup._setDomainName', 'wvec.com']); 
+_gaq.push(['rollup._trackPageview']); 
+
+(function() {
+	if (typeof _gat === "undefined") {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	}
+})();
+
+</script>
+
+
+
+<script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.5/jquery-ui.min.js" type="text/javascript"></script>
+<script src="http://www.wvec.com/includes/bim_javascript_library.js" type="text/javascript"></script>
+<script src="http://ajax.aspnetcdn.com/ajax/jquery.validate/1.11.1/jquery.validate.js" type="text/javascript"></script>
+<script type="text/javascript" src ="http://cdn.bimreg.co/loader"></script>
+
+<!-- <script src="http://www.wvec.com/includes/lazyload.js" type="text/javascript"></script> -->
+   <script src="http://www.wvec.com/templates/belo_js_lib_template.js" type="text/javascript"></script>
+
+<!-- <script src="http://www.wvec.com/includes/jquery.pop-min.js" type="text/javascript"></script> -->
+
+<div id="regModal" class="hide">
+
+</div>
+
+
+
+<script type="text/javascript">
+// BIMreg Hooks
+
+bim_reg.subscribeToChannel("bim_reg_ready", function(message) {
+    if (!bim_reg.m.user.isLoggedIn()) {
+    	$("li#login-item.top-level-item, li#login-item.top-level-item #login-button").removeClass("hide");
+    }
+});
+
+// 
+(function(){
+		var regOptions = {
+		emailchangeurl: "/register?form=confirm"			
+	}
+	 	
+				
+
+
+})();
+var	ajaxImgObj = 'http://media.wvec.com/designimages/belo-ajax-loader.gif';
+$(document).ready(function() {
+	$("#regModal").dialog({ 
+		position: ['center',100],
+    	autoOpen: false,
+    	modal: true,
+    	width:"640px"
+    });
+
+});
+
+function belologout() {
+	bim_reg.m.user.logout();
+};  
+function regAuthEvents() {
+		};
+
+//bimreg.listener.addListener("regAuth",regAuthEvents);
+//bimreg.listener.addListener("regAuthNoUser",belologoutFromNav);  
+
+function userloginEvents(event){
+	belologinFromNav();
+			userNameErrorCheck();
+		createIMGCookie();
+	//initRedirect();
+		};
+
+
+bim_reg.subscribeToChannel("user_data_ready", userloginEvents);
+//bim_reg.subscribeToChannel("user_data_ready", moreInfoLoggedIn);
+bim_reg.subscribeToChannel("regAuthNoUser", thresholdReg);
+
+
+
+
+function thresholdReg() {
+	var _optout = bim_reg.l.cookies.get("BIMREG_optout");
+
+    if(!_optout) {
+        if(bim_reg.m.page.getPageCount() > 5) {
+            bim_reg.m.page.resetPageCount();
+            setTimeout("$('#login-button a.signin').click()",500);
+        }
+    }
+};
+
+function initRedirect() {
+			}
+	
+function createIMGCookie() {
+	var zipcode = bim_reg.m.user.getZipcode();
+	if(typeof(zipcode) == "undefined") zipcode = "";
+	var firstname = bim_reg.m.user.getFirstName();
+	if(typeof(firstname) == "undefined") firstname = "";
+	bim_reg.l.cookies.set("IMG","|"+firstname+"|"+zipcode+"||",365);	
+}
+        
+function userNameErrorCheck() {
+	
+        //if ( bim_reg.m.user.getEmail().replace(/\W/g,"") === bim_reg.m.user.getUsername().replace(/\W/g,"") ) {
+	//	var failedName = bimreg.getuserkey("username");  
+	//	var forcedUpdateName = failedName.replace(/@.*/,"").replace(/\W/g,"");
+	//	var currentTime = new Date();
+	//	var seconds = currentTime.getTime();
+	//	var secString = seconds+'';
+	//	var digits = secString.length + forcedUpdateName.length - 16;
+	//	if (digits > 0) {
+	//		seconds = secString.substring(digits,secString.length);
+	//	}
+	//	username = forcedUpdateName + seconds;
+	//	//update user
+	//	bimreg.updateprofile({username:username});
+	//	
+	//	if ( document.URL.indexOf('form=login') > -1 ) {
+	//		//window.location.replace("/register/?form=user");
+	//		$('#login-button a.signin').click();
+	//	} else {
+	//		//window.location = "/register/?form=user";
+	//		$('#login-button a.signin').click();
+	//	}
+	//}
+	
+	//[bim_reg] Update -Begin-
+	if(bim_reg.m.user.getEmail().replace(/\W/g,"") === bim_reg.m.user.getUsername().replace(/\W/g,"")){
+		var failedName = bim_reg.m.user.getUsername();  
+		var forcedUpdateName = failedName.replace(/@.*/,"").replace(/\W/g,"");
+		var currentTime = new Date();
+		var seconds = currentTime.getTime();
+		var secString = seconds+'';
+		var digits = secString.length + forcedUpdateName.length - 16;
+		if (digits > 0) {
+			seconds = secString.substring(digits,secString.length);
+		}
+		username = forcedUpdateName + seconds;
+		//update user
+		bim_reg.m.user.setUsername(username);
+		bim_reg.m.user.save();
+		
+		if ( document.URL.indexOf('form=login') > -1 ) {
+			//window.location.replace("/register/?form=user");
+			$('#login-button a.signin').click();
+		} else {
+			//window.location = "/register/?form=user";
+			$('#login-button a.signin').click();
+		}
+	}
+	//[bim_reg] Update -End-
+}
+        
+function checkLoginReferrer() {
+	if(referrer) {
+		bim_reg.l.cookies.remove("BIMREG_signup_referrer");
+		window.location = referrer;
+	} else {
+		try {
+			if (document.referrer) {
+				window.location = document.referrer+window.location.hash; 
+							} else if (window.location.hash !== "") { 
+								window.history.go(-1);
+			} else {
+				window.location = "/";
+			}
+		} catch(e) {
+			window.location = "/";
+		}  
+	} 	
+}
+    
+//function beloYouNewsPostPage() {
+//	var username = bimreg.getuserkey("username");
+//	$("#submission").show();
+//	//		if(bimreg.loggedin && document.URL.indexOf('form=post') > -1){
+//			document.getElementById('username').appendChild(document.createTextNode(username));
+//			document.forms['ynform']['element.author'].value = username;
+//			$("p#author").text(username);
+//			document.forms['ynform']['element.ae'].value = bimreg.getuserkey("private.email");
+//			$("div#authorcopy div.text-note p a").attr("href", "/register/?profile="+username);
+//		}
+//	//}
+function belologinFromNav() {
+	//var username = bimreg.getuserkey("username");
+	//[bim_reg] update -Begin-
+	var username = bim_reg.m.user.getUsername();
+	//[bim_reg] update -End-
+if($("#bimregStatusBox").length){
+        var toolbarObject = $("#bimregStatusBox");
+}else{
+	var toolbarObject = $("#toolbar-status");
+}
+	$(toolbarObject).removeClass("loggingiIn").removeClass("hide");
+	$(toolbarObject).find("ul").show();
+	$(toolbarObject).find("#status-loggingin").hide();
+	$(".status-out").hide();
+	$("li#login-item.top-level-item").addClass("hide");
+	$(toolbarObject).show();
+	$("li.status-loggedin").show();
+	//$('span.username').text(bimreg.getuserkey("username"));
+	//[bim_reg] update -Begin-
+	$('span.username').text(bim_reg.m.user.getUsername());
+	//[bim_reg] update -End-
+	$(toolbarObject).find('li#status-welcome').html('Welcome, <a href=\"/register?profile='+username+'"\'>'+username+'<\/a>');
+	//if(typeof bimreg.getuseravatar() != "undefined"){
+		//var avatarImageSrc="http://bim-storage.s3.amazonaws.com/BIM/"+bimreg.getuserkey('key')+".jpg?cb="+Math.floor(Math.random()*90000) + 10000;
+		//$("div#avatar-image").html("<img src='"+avatarImageSrc+"' width='40' height='34'/>");
+	//};
+	//[bim_reg] update -Begin-
+	$("div#avatar-image").html("<img src='"+bim_reg.m.user.getAvatarUrl()+"' width='40' height='34'/>");
+	//[bim_reg] update -End-
+	$(toolbarObject).find('li#status-profile').html("<a href='/register?profile="+username+"'>My Profile<\/a>");
+	var surveyObject = $('#content-two table .cmP_survey') 
+	$(surveyObject).find('.cmP_question, .cmP_response, .cmP_responses, #survey-submit, .cmP_input, .cmP_label, #survey-signup-newsletters').removeClass("hide");
+	$("#survey-reg-prompt").addClass("hide");
+	$("form[name=loginformnav] input[name=login-nav-password]").val("");
+}
+    
+function belologoutFromNav() {
+if($("#bimregStatusBox").length){
+        var toolbarObject = $("#bimregStatusBox");
+}else{
+	var toolbarObject = $("#toolbar-status");
+}
+	$(".status-out").show();
+	$("li#login-item.top-level-item, li#login-item.top-level-item #login-button").removeClass("hide");
+	$(toolbarObject).hide();
+	$("li.status-loggedin").hide();
+	$("#status-loggingin").hide();
+	}
+    	
+
+function onloadlogout(status) {
+	$("li#login-item.top-level-item").removeClass("hide");
+	$(".signin").removeClass("menu-open");
+	BELOJS.reg.pagecount.reset();
+	belologoutFromNav();
+}
+
+//bimreg.listener.addListener("userLogout",onloadlogout);
+//[bim_reg] update -Begin-
+bim_reg.subscribeToChannel("user_logout", function(){document.location = '/'; });
+//[bim_reg] update -End-
+
+var carouselRan = false;
+
+function modalShow() {
+	$("#regModal").removeClass("hide").dialog();
+	BELOJS.reg.showLoginModal();
+	//bimreg.listener.addListener("userLogin",BELOJS.reg.loginModalClose);
+	//[bim_reg] Update -Begin-
+	bim_reg.subscribeToChannel("user_login_success", BELOJS.reg.loginModalClose);
+	//[bim_reg] Update -End-
+	if(!carouselRan){
+		setTimeout("loadCarousel()",500);
+		carouselRan = true;
+	}
+	return false;
+}
+    
+$(function() {
+    if(document.URL.indexOf('form=int') > -1 || document.URL.indexOf('form=signup') > -1) {
+        $(function() {
+            window.onunload = function() { bim_reg.l.cookies.set("BELO_OptOut","true",30); }
+        })
+    }
+    
+    $("#status-signout a").click(function(e) {
+        belologout(belologoutFromNav);
+        return false;
+    });
+
+    $("#login-button a.signin").click(function(e) {
+    	if($('#regModal').html().length<5){
+    		jQuery.post('/templates/belo_registration_modal', function(data) {
+  				$('#regModal').html(data);
+			});
+    	}
+    	setTimeout("modalShow()",500);
+    	return false;
+	});
+});
+
+</script>
+
+<!--  Removing vote iq
+-->
+
+ <script language="javascript">
+ bim_reg.main();
+</script>
+<script> 
+
+$(function() {
+        
+                
+        
+        if ($("#popular").size() > 0) {
+            $("#popular").tabs().tabs("option", "disabled", false);
+        }
+        
+        
+              
+        
+        
+            });
+</script>
+
+
+
+
+
+
+</script>
+
+<script>
+window.twttr=window.twttr||{};
+</script>
+
+<script>
+         if ($('#promo-alert').length > 0){ 
+                 $('#promo-alert').beloScroll(); 
+        } 
+</script>
+
+
+
+
+    
+    <script type="text/javascript">
+        $(document).ready(function() {
+            BELOJS.winRefresh.init(300000);
+                                                });
+    </script>
+
+
+<!-- Begin comScore Tag -->
+<script src="http://b.scorecardresearch.com/beacon.js"></script>
+<script>
+
+//Comscore vars
+COMSCORE.beacon({c1:2,c2:"12936549",c3:"",c4:"",c5:"",c6:"",c15:""});
+
+</script>
+<noscript>
+<img src="http://b.scorecardresearch.com/b?c1=2&c2=12936549&c3=&c4=&c5=&c6=&c15=&cv=1.3&cj=1"
+style="display:none" width="0" height="0" alt="" />
+</noscript>
+<!-- End comScore Tag -->
+
+
+<script language="javascript">
+	var _sf_async_config={};
+	/** CONFIGURATION START **/
+	_sf_async_config.uid = 31997;
+	_sf_async_config.domain = 'wvec.com';
+		   
+	_sf_async_config.sections = 'WVEC - Home';
+			_sf_async_config.authors = '';
+		_sf_async_config.title = "";
+		/** CONFIGURATION END **/
+	(function(){
+		function loadChartbeat() {
+			window._sf_endpt=(new Date()).getTime();
+			var e = document.createElement('script');
+			e.setAttribute('language', 'javascript');
+			e.setAttribute('type', 'text/javascript');
+			e.setAttribute('src',
+			(('https:' == document.location.protocol) ? 'https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/' : 'http://static.chartbeat.com/') +
+			'js/chartbeat.js');
+			document.body.appendChild(e);
+		}
+		var oldonload = window.onload;
+		window.onload = (typeof window.onload != 'function') ?
+		loadChartbeat : function() { oldonload(); loadChartbeat(); };
+	})(); 
+
+
+  
+             
+
+
+        
+
+
+
+
+
+ 
+ 
+
+
+ 
+
+if(typeof belo_tracking_sitepage == "undefined" || belo_tracking_sitepage == ""){
+	belo_tracking_sitepage = window.location.host + window.location.pathname+"/";
+	if(belo_tracking_sitepage.charAt(belo_tracking_sitepage.length-1) == "/") {
+	    belo_tracking_sitepage = belo_tracking_sitepage.substring(0,belo_tracking_sitepage.length-1);
+	}
+}
+s={};
+s_account="biwveccom,bikbnglobal";
+site_tag="wvec.com";
+om_fpcdomain="wvec.com";
+
+
+
+if(twttr.events){
+	twttr.events.bind('click', function(event) {
+	    shareToolsOmnitureTracking(event.region,"twitter");
+	});
+}
+
+function beloOmnitureGPlusTrack(){
+	shareToolsOmnitureTracking($(".tool-gplus-belo"),"gPlus");
+}
+
+function shareToolsOmnitureTracking(clicked,shareTitle){
+                var s=s_gi('biwveccom,bikbnglobal');
+		s.tl(clicked,'o',': '+ shareTitle +': $util.encode.js($!imwareTrackingName): wvec: $util.encode.js($sectionPath): ');
+}
+
+
+
+function PollTrackReport(obj,id,title){
+	var s=s_gi('biwveccom,bikbnglobal');
+	s.tl(obj,'o', 'Polltracking: '+ id +': ' + title + ': wvec');
+}
+
+function lastFolder() {
+	var folderPath = window.location.pathname;
+	var folderPathArray = folderPath.split("/");
+	var lastfolder = folderPathArray[folderPathArray.length - 1];
+	return lastfolder;
+};	
+
+function rollUpUrl() {
+	var om_location_path = belo_tracking_sitepage;
+	om_location_path = om_location_path.replace("http://","");
+	var om_location_path_array = om_location_path.split("/");
+	var om_location_end = om_location_path_array.length - 1;
+    var s_hier1Roll = om_location_path_array[0];
+    for(i=1;i<om_location_path_array.length; i++){
+        if(i==1){
+            s_hier1Roll += "/" + om_location_path_array[i];
+        }else{
+            s_hier1Roll += "," + om_location_path_array[i];
+        }
+    }	
+    return s_hier1Roll;
+};
+</script>
+
+<script language="JavaScript" src="http://www.wvec.com/templates/belo_omnitureVarsComm.js?s_events=&s_prop14=&s_prop12=&s_prop11=&s_prop9=&s_prop8=main channel&s_prop7=&s_prop5=&s_prop4=&s_pageType=Home&s_channel=main channel&s_pagename=Home:www.wvec.com::&s_account=biwveccom&sdomain=wvec.com&"></script>
+
+
+</div>
+</body>
+</html>

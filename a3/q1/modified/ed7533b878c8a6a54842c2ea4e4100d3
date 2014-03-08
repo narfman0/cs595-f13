@@ -1,0 +1,543 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr"xmlns:fb="http://www.facebook.com/2008/fbml"
+>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    
+	<meta name="robots" content="index, follow">
+  <link rel="shortcut icon" href="http://www.masaisrael.org/sites/default/files/masa_favicon.ico" type="image/x-icon" />
+  
+  <link type="text/css" rel="stylesheet" media="all" href="/sites/default/files/css/css_85bdfd57591c14c4cdef6c740ffa9a9b.css" />
+  <script type="text/javascript" src="/sites/default/files/js/js_5a8a6859aea17c896f23a230d9fe5b11.jsmin.js"></script>
+<script type="text/javascript" src="/sites/all/themes/masa/js/jquery.validate.js?3"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, { "basePath": "/", "fbconnect": { "user_pictures": "disallow", "language_code": "en_US", "app_id": "204528312906638", "debug": 0, "connect_js": "document.location.protocol + \'//connect.facebook.net/en_US/all.js\'", "loginout_mode": "manual", "invite_name": "Masa Israel", "fast_reg_mode": 0, "fbuid": null, "user": { "uid": 0, "fbuid": null } }, "googleanalytics": { "trackOutgoing": 1, "trackMailto": 1, "trackDownload": 1, "trackDownloadExtensions": "7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip" }, "lightbox2": { "rtl": "0", "file_path": "/(\\w\\w/)sites/default/files", "default_image": "/sites/all/modules/others/lightbox2/images/brokenimage.jpg", "border_size": 10, "font_color": "000", "box_color": "fff", "top_position": "", "overlay_opacity": "0.8", "overlay_color": "000", "disable_close_click": true, "resize_sequence": 0, "resize_speed": 400, "fade_in_speed": 400, "slide_down_speed": 600, "use_alt_layout": false, "disable_resize": false, "disable_zoom": false, "force_show_nav": false, "show_caption": true, "loop_items": false, "node_link_text": "View Image Details", "node_link_target": false, "image_count": "Image !current of !total", "video_count": "Video !current of !total", "page_count": "Page !current of !total", "lite_press_x_close": "press \x3ca href=\"#\" onclick=\"hideLightbox(); return FALSE;\"\x3e\x3ckbd\x3ex\x3c/kbd\x3e\x3c/a\x3e to close", "download_link_text": "", "enable_login": false, "enable_contact": false, "keys_close": "c x 27", "keys_previous": "p 37", "keys_next": "n 39", "keys_zoom": "z", "keys_play_pause": "32", "display_image_size": "original", "image_node_sizes": "()", "trigger_lightbox_classes": "", "trigger_lightbox_group_classes": "", "trigger_slideshow_classes": "", "trigger_lightframe_classes": "", "trigger_lightframe_group_classes": "", "custom_class_handler": 0, "custom_trigger_classes": "", "disable_for_gallery_lists": true, "disable_for_acidfree_gallery_lists": true, "enable_acidfree_videos": true, "slideshow_interval": 5000, "slideshow_automatic_start": true, "slideshow_automatic_exit": true, "show_play_pause": true, "pause_on_next_click": false, "pause_on_previous_click": true, "loop_slides": false, "iframe_width": 600, "iframe_height": 400, "iframe_border": 1, "enable_video": false }, "language": "en" });
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+ 				$(document).ready(function(){
+	 				$('#comment-form').validate();
+	 				$('#edit-mail ,#edit-name , #edit-comment').each(function()
+	 					{ 
+	 					var field_name = $(this).attr('name');
+	 					field_name = field_name.slice(0,1).toUpperCase() + field_name.slice(1);
+	 					$(this).rules('add',{required:true,messages:{
+	 				required:field_name + ' field is required'}});
+	 				});
+	 				$('#edit-mail').rules('add',{email:true,messages:{email: 'The e-mail address you specified is not valid.'} });
+	 				$('#edit-homepage').rules('add',{url:true,messages:{url: 'The URL of your homepage is not valid. Remember that it must be fully qualified, i.e. of the form <code>http://example.com/directory</code>.'}});
+ 				});
+ 			
+//--><!]]>
+</script>
+  <!--[if lt IE 10]>
+		<script type="text/javascript" src="/sites/all/libraries/PIE/PIE.js?‬"></script>
+	<![endif]-->
+  <script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher:'979172ba-b715-444e-af04-d47153af4bff'});</script>
+  <title>Yom Kippur Souls | Masa Israel</title>
+	
+</head>
+<body class="not-front not-logged-in page-node node-type-blog two-sidebars i18n-en section-blog section-blog-201309 section-blog-201309-yom-kippur-souls OTHER" id="page-node-29311">
+	<div id="header">
+		<div id="tools">		
+				
+		<span id="lang">
+			<a id="en" class="selected" href="http://www.masaisrael.org">en</a>
+			<a id="es" class="unselected" href="http://www.masaisrael.org/es">es</a>
+			<a id="fr" class="unselected" href="http://www.masaisrael.org/fr">fr</a>
+			<a id="rs" class="unselected" href="http://www.masaisrael.org/ru">ru</a>
+			<a id="pt" class="unselected" href="http://www.masaisrael.org/pt-br">pt</a>
+		</span>				
+		</div>
+		<div id="slogo">
+					
+			<a id="logo" href="/"><img src="/sites/all/themes/masa/images/logo.png" alt="Masa logo" /></a>
+			<img id="slog" src="/sites/all/themes/masa/images/slogan.png" alt="Masa logo" />
+		</div>
+	</div>
+	<div id="toolbar">
+		
+<div  id="block-menu-primary-links" class="block block-menu">
+
+      <h2 class="block-title"><none></h2>
+  
+  <div class="block-content clear-block">
+    <ul class="menu"><li class="expanded first"><a href="/find_programs" title="">Find a Program</a><ul class="menu"><li class="leaf first"><a href="/gap-year" title="">Gap year</a></li>
+<li class="leaf"><a href="/study-abroad" title="">Study abroad</a></li>
+<li class="leaf"><a href="/post-college" title="">Post-college</a></li>
+<li class="leaf"><a href="/volunteer" title="">Volunteer</a></li>
+<li class="leaf"><a href="/jewish-studies" title="">Jewish studies</a></li>
+<li class="leaf last"><a href="/programs/apply" title="">Apply to a Program</a></li>
+</ul></li>
+<li class="expanded"><a href="/grants" title="">Grants &amp; Scholarships</a><ul class="menu"><li class="leaf first"><a href="/grants/apply" title="">Apply for a Grant</a></li>
+<li class="leaf last"><a href="/grants/funding" title="">Find additional funding</a></li>
+</ul></li>
+<li class="expanded"><a href="/experience" title="">The Masa Israel Experience</a><ul class="menu"><li class="expanded first"><a href="/experience/applicants" title="">For Applicants</a><ul class="menu"><li class="leaf first"><a href="/experience/applicants/whyisrael" title="">Why Israel?</a></li>
+<li class="leaf"><a href="/experience/applicants/beforeyougo" title="">Before you go</a></li>
+<li class="leaf"><a href="/experience/applicants/whileyourethere" title="">While you&#039;re there</a></li>
+<li class="leaf"><a href="/experience/applicants/afteryoureturn" title="">After you return</a></li>
+<li class="leaf last"><a href="/experience/applicants/talk" title="">Talk to an alum</a></li>
+</ul></li>
+<li class="leaf"><a href="/experience/participants" title="">For Participants</a></li>
+<li class="leaf"><a href="/experience/alumni" title="">For Alumni</a></li>
+<li class="leaf last"><a href="/experience/israel101" title="">Israel 101</a></li>
+</ul></li>
+<li class="expanded last active-trail"><a href="/meet_masa_israel" title="">Meet Masa Israel</a><ul class="menu"><li class="leaf first"><a href="/meet_masa_israel/about" title="">About Us</a></li>
+<li class="leaf"><a href="/meet_masa_israel" title="">Staff</a></li>
+<li class="leaf"><a href="/events" title="">Events</a></li>
+<li class="leaf"><a href="/meet_masa_israel/news" title="">News</a></li>
+<li class="leaf"><a href="/photos" title="">Photos</a></li>
+<li class="leaf"><a href="/videos" title="">Videos</a></li>
+<li class="leaf active-trail"><a href="/blog" title="">Blog</a></li>
+<li class="leaf last"><a href="/contactus" title="">Contact Us</a></li>
+</ul></li>
+</ul>  </div>
+</div>
+
+
+<div  id="block-search-0" class="block block-search">
+
+  
+  <div class="block-content clear-block">
+    <form action="/blog/201309/yom-kippur-souls"  accept-charset="UTF-8" method="post" id="search-block-form">
+<div><div class="container-inline">
+  <div class="form-item" id="toolbar-search-wrapper">
+ <input type="text" maxlength="128" name="search_block_form" id="toolbar-search" value="" title="Enter the terms you wish to search for." class="form-text fluid" />
+</div>
+<input type="submit" name="op" id="edit-submit-1" value=""  class="form-submit" />
+<input type="hidden" name="form_build_id" id="form-e05cbbb33ffcfa1cfc4b14ded55878c4" value="form-e05cbbb33ffcfa1cfc4b14ded55878c4"  />
+<input type="hidden" name="form_id" id="edit-search-block-form" value="search_block_form"  />
+</div>
+
+</div></form>
+  </div>
+</div>
+
+	</div>
+	<div id="page">
+		<style>
+			.font_increase span {cursor: pointer;}
+		</style>
+		<div class="page_seprator"></div>
+		<div class="blocks_content_left">
+<div  id="block-menu_block-1" class="block block-menu_block">
+
+      <h2 class="block-title"><none></h2>
+  
+  <div class="block-content clear-block">
+    <div class="menu-block-1 menu-name-primary-links parent-mlid-0 menu-level-2">
+  <ul class="menu"><li class="leaf first menu-mlid-30400"><a href="/meet_masa_israel/about" title="">About Us</a></li>
+<li class="leaf menu-mlid-28940"><a href="/meet_masa_israel" title="">Staff</a></li>
+<li class="leaf menu-mlid-4080"><a href="/events" title="">Events</a></li>
+<li class="leaf menu-mlid-4079"><a href="/meet_masa_israel/news" title="">News</a></li>
+<li class="leaf menu-mlid-38564"><a href="/photos" title="">Photos</a></li>
+<li class="leaf menu-mlid-4082"><a href="/videos" title="">Videos</a></li>
+<li class="leaf menu-mlid-25189 active-trail"><a href="/blog" title="" class="active-trail">Blog</a></li>
+<li class="leaf last menu-mlid-4083"><a href="/contactus" title="">Contact Us</a></li>
+</ul></div>
+  </div>
+</div>
+
+
+<div  id="block-sitemasa-12" class="block block-sitemasa">
+
+  
+  <div class="block-content clear-block">
+    <div id="block-views-blog_view-block_3"><h2 class="block_title">ARCHIVE</h2><div><a href="/blog/201309">September 2013</a></div><div><a href="/blog/201308">August 2013</a></div><div><a href="/blog/201306">June 2013</a></div><div><a href="/blog/201305">May 2013</a></div><div><a href="/blog/201304">April 2013</a></div><div><a href="/blog/201303">March 2013</a></div><div><a href="/blog/201302">February 2013</a></div><div><a href="/blog/201301">January 2013</a></div><div><a href="/blog/201212">December 2012</a></div><div><a href="/blog/201211">November 2012</a></div><div><a href="/blog/201210">October 2012</a></div><div><a href="/blog/201207">July 2012</a></div></div>  </div>
+</div>
+
+</div>
+		<div id="page_content">
+  		<div class ="breadcrumb">
+  			<a href="/">Home</a> | <a href="/meet_masa_israel" title="">Meet Masa Israel</a> | <a href="/blog" title="">Blog</a> | <b>Yom Kippur Souls</b>  	 </div>
+									<div class="page_node_wrapper">
+							 <h2 class="more_videos"><div class="masa-blog-title">Yom Kippur Souls</div></h2>				 
+				
+			<div  id="node-29311" class="node node-blog node-blog-page clear-block">	
+	  	  	  
+	<div class="node-content clear-block">
+	  <div class="blue blog-author-date"><span>September 24, 2013</span></div><div class="link_back_to_blog"><a href="/blog">Back to blog</a></div><div class="clear-date-author"></div><div>
+	<em>By Sam Oppenheimer, <a href="http://www.masaisrael.org/programs/maase-olam-israel-service-fellows" target="_blank">Ma&#39;ase Olam, Israel Service Fellows</a></em></div>
+<div>
+	&nbsp;</div>
+<div>
+	<em></em><span style="font-size: 13px;">God made Adam out of clay, and clay we remain. Bodies are doughy and malleable, and every morning you wake a fresh, blank slab. You can&rsquo;t quite remember exactly what you are, what you look like, how it feels to be you; so every day you change, slowly, subtly, until your original self is forgotten. Parents enjoy fashioning their children&rsquo;s faces and shaping them fat, round cheeks and delicate seashell ears, while across a lifetime, the elderly desperately force their sagging faces upward, fighting a daily battle against the reality of age.</span></div>
+<div>
+	&nbsp;</div>
+<div>
+	<span style="font-size: 13px;">How, then, do we form a sense of self at all? The answer lies in the nature of our souls. The soul is our anchor, our bedrock, the strong spine to which we graft our bones, muscles, and skin. Each soul is newly crafted as sinewy, silvery mesh, unblemished by stain or shadow, wholly bright in every corner and curve. Yet as a body grows, delicate and soft, the soul is marked by the harshness of living. Tarnished here, frayed there, stains of coffee rings and teardrops and blotches purple like wine. The soul, that bright pulsing center, flutters and shakes and makes itself known in the body; but as time wears on, its struggles becomes weaker, feebler, until at times the body barely feels its presence. Yom Kippur is the day designed to wax and polish our souls, to shake off the dust and debris, to buff and burnish with thought and reflection and intention.</span></div>
+<div>
+	&nbsp;</div>
+<div>
+	<span style="font-size: 13px;">I chose to experience my first Israeli Yom Kippur in Jerusalem, at a service hosted by Hebrew Union College. The day was characterized by fiery white light and hope and purpose, and utilizing this day, Yom Kippur, to cleave to the darkest depths of yourself, to remember and re-define who you believe you are, and who you feel the need to be. The Unetaneh Tokef, that damning, fatalistic prayer that speaks of people perishing by fire and water, sword and hunger and earthquake, meant that the moment to live is now, that it is imperative you make the choice to live and fight and love here, today, with the entirety of your soul, because anything could happen tomorrow. The music, performed by the cantorial students, was entirely focused on pulling the heart up and out of each individual, to weave them together into a tapestry of light and sound and soul, to make it so that no one could manage to feel even the slightest bit alone on this day. Twice through the service I felt my soul flutter up into my throat and watched a gleaming silvery coil emerge, trying to reach ever closer to the music, and to unity. On Yom Kippur I felt a part of something far greater that I could imagine, a system of hearts beating in unison, that my soul was made of the stuff of other souls. I felt whole and renewed and reborn, and ready to take on the adventure of the year.</span></div>
+<div class="facebook_twitter_blog">
+									<span class="twitter_blog">
+										<a href="http://twitter.com/share" class="twitter-share-button" data-count="none">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+									</span>
+									<span class="facebook_blog">
+										<iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.masaisrael.org%2F/blog/201309/yom-kippur-souls&amp;send=false&amp;layout=button_count&amp;width=450&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=47&amp;locale=en_US" scrolling="no" frameborder="0" style="border:none;" allowTransparency="true"></iframe>
+									</span>
+								</div>
+								<div>&nbsp;</div>	</div>	
+		    <div class="node-links clear-block"></div>
+	  </div>
+</div>
+		<div id="comments">
+		 
+		  
+
+
+<div  class="box">
+
+  
+  <div class="box-content clear-block">
+    <div class='standrad-bottom-border'></div><div class='comment-form'><h2 class='standard-header'>Leave a Comment</h2><span>Your email is never published or shared. Required fields marked <span class='form-required'>*</span></span></div><form action="/comment/reply/29311"  accept-charset="UTF-8" method="post" id="comment-form">
+<div><div class="form-item" id="edit-comment-wrapper">
+ <label for="edit-comment">Comment: <span class="form-required" title="This field is required.">*</span></label>
+ <textarea cols="60" rows="4" name="comment" id="edit-comment"  class="form-textarea resizable required"></textarea>
+</div>
+<input type="hidden" name="form_build_id" id="form-1b02090e80ef54b54e4ff2c8fd60b032" value="form-1b02090e80ef54b54e4ff2c8fd60b032"  />
+<input type="hidden" name="form_id" id="edit-comment-form" value="comment_form"  />
+<div class="form-item" id="edit-name-wrapper">
+ <label for="edit-name">name: <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" maxlength="128" name="name" id="edit-name" value="" class="form-text required fluid" />
+</div>
+<div class="form-item" id="edit-mail-wrapper">
+ <label for="edit-mail">email: <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" maxlength="128" name="mail" id="edit-mail" value="" class="form-text required fluid" />
+</div>
+<div class="form-item" id="edit-homepage-wrapper">
+ <label for="edit-homepage">website: </label>
+ <input type="text" maxlength="128" name="homepage" id="edit-homepage" value="" class="form-text fluid" />
+</div>
+<input type="submit" name="op" id="edit-submit" value="Save"  class="form-submit" />
+
+</div></form>
+  </div>
+</div>
+
+
+
+		</div>
+	
+
+
+<div  id="block-blog-0" class="block block-blog">
+
+      <h2 class="block-title"><none></h2>
+  
+  <div class="block-content clear-block">
+    <div class="item-list"><ul><li class="first"><a href="/blog/201309/yom-kippur-souls" class="active">Yom Kippur Souls</a></li>
+<li><a href="/blog/201308/repairing-world-jaffa">Repairing the world at Jaffa</a></li>
+<li><a href="/blog/201308/home-and-goodbyes%E2%80%A6">Home and Goodbyes…</a></li>
+<li><a href="/blog/201306/denver-akko-living-conservation-saving-stones">From Denver to Akko: Living conservation on Saving the Stones</a></li>
+<li><a href="/blog/201305/live-it-local-rebecca-lee%E2%80%99s-lonely-planet-guide-gedera-israel">Live it Like a Local: Rebecca Lee’s Lonely Planet Guide to Gedera, Israel</a></li>
+<li><a href="/blog/201305/what-magen-david-adom-has-done-me">What Magen David Adom Has Done for Me</a></li>
+<li><a href="/blog/201304/dating-israel">Dating Israel</a></li>
+<li><a href="/blog/201303/under-reacting-israeli-0">Under-reacting Like an Israeli</a></li>
+<li><a href="/blog/201303/postcards-masa-israel-leadership-summit">Postcards from the Masa Israel Leadership Summit</a></li>
+<li class="last"><a href="/blog/201303/my-typical-day-saving-stones-1">My Typical Day With Saving the Stones</a></li>
+</ul></div>  </div>
+</div>
+
+		</div>
+		<div class="blocks_content_right">
+<div  id="block-sitemasa-2" class="block block-sitemasa">
+
+  
+  <div class="block-content clear-block">
+    <div class="">
+					<ul class="top-share-menu">
+						<li class="print_item"><a href="{$print_path}" target="_blank">Print</a></li>
+						<li class="email_item"><a href="{$printmail_path}">Email</a></li>
+						<li class="share_item"><span class="st_sharethis_custom">Share</span></li>
+						<li class="font_increase">
+							<span class="menu_small_font font-access">A</span>
+							<span class="menu_medium_font font-access">A</span>
+							<span class="menu_big_font font-access">A</span>
+						</li>
+					</ul>
+				</div>  </div>
+</div>
+
+
+<div  id="block-sitemasa-10" class="block block-sitemasa">
+
+  
+  <div class="block-content clear-block">
+    <h1 class="block_title">Explore The Blog</h1>
+		<div>
+			<select name="explore-blog" id="explore-blog">
+			<option value="0" >Select Category</option>
+			<option value="/blog">Go to blog homepage</option>
+	<option value="/blog/all/67">Gap Year</option><option value="/blog/all/66">Study Abroad</option><option value="/blog/all/65">Post College</option><option value="/blog/all/64">Volunteer</option><option value="/blog/all/63">Jewish Studies</option></select></div>  </div>
+</div>
+
+
+<div  id="block-sitemasa-11" class="block block-sitemasa">
+
+  
+  <div class="block-content clear-block">
+    <div id="search_the_blog"><h1 class="block_title">SEARCH THE BLOG</h1><input type="text" class="search_blog_field" value="Enter Keyword" ><input id="search_blog_button" class="masa-button blog_button" type="button" value="Search" /></div>  </div>
+</div>
+
+
+<div  id="block-views-inner_page_news-block_1" class="block block-views">
+
+  
+  <div class="block-content clear-block">
+    <div class="view view-inner-page-news view-id-inner_page_news view-display-id-block_1 view-dom-id-1">
+        <div class="view-header">
+      What's new at masa Israel    </div>
+  
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field-title">
+                <span class="field-content"><a href="/news/wishing-us-new-year-activism">Wishing Us A New Year of Activism</a></span>
+  </div>
+  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field-title">
+                <span class="field-content"><a href="/news/masa-israel-alumni-gather-leadership-training">Masa Israel Alumni Gather for Leadership Training</a></span>
+  </div>
+  </div>
+  <div class="views-row views-row-3 views-row-odd">
+      
+  <div class="views-field-title">
+                <span class="field-content"><a href="/news/jpost-real-hands-experience">JPost: The real hands on experience</a></span>
+  </div>
+  </div>
+  <div class="views-row views-row-4 views-row-even">
+      
+  <div class="views-field-title">
+                <span class="field-content"><a href="/news/year-studying-israel-fills-gap">Year studying in Israel fills in the &#039;gap&#039;</a></span>
+  </div>
+  </div>
+  <div class="views-row views-row-5 views-row-odd views-row-last">
+      
+  <div class="views-field-title">
+                <span class="field-content"><a href="/news/times-israel-dizzy-dance">Times of Israel: Dizzy for the dance</a></span>
+  </div>
+  </div>
+    </div>
+  
+  
+  
+  
+      <div class="view-footer">
+      <a href="/News">See all News</a>    </div>
+  
+  
+</div>   </div>
+</div>
+
+
+<div  id="block-sitemasa-6" class="block block-sitemasa">
+
+  
+  <div class="block-content clear-block">
+    		<div class="side_block_spacing">
+		<div class="block_title">
+		Masa Israel on Twitter
+		</div>
+		<div class="tweet"></div>
+		</div>  </div>
+</div>
+
+
+<div  id="block-sitemasa-1" class="block block-sitemasa">
+
+  
+  <div class="block-content clear-block">
+    <script src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script><fb:like-box href="http://www.facebook.com/masaisrael" width="215" height="290" connections="6" stream="false"></fb:like-box>  </div>
+</div>
+
+</div>
+	</div>
+	<div id="footer">
+<div  id="block-views-call_for_action-block_2" class="block block-views">
+
+  
+  <div class="block-content clear-block">
+    <div class="view view-call-for-action view-id-call_for_action view-display-id-block_2 view-dom-id-2">
+    
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field-title">
+                <span class="field-content">For Participants</span>
+  </div>
+  
+  <div class="views-field-field-call-action-picture-fid-1">
+                <span class="field-content"><img src="http://www.masaisrael.org/sites/default/files/imagecache/call_to_action/content/call_for_action/for participants.jpg" alt="" title=""  class="imagecache imagecache-call_to_action imagecache-default imagecache-call_to_action_default" width="65" height="63" /></span>
+  </div>
+  
+  <div class="views-field-body">
+                <div class="field-content"><p>Find out about events and opportunities while you are in Israel.</p>
+ <a href="http://www.masaisrael.org/experience/participants">Read More</a></div>
+  </div>
+  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field-title">
+                <span class="field-content">For Alumni</span>
+  </div>
+  
+  <div class="views-field-field-call-action-picture-fid-1">
+                <span class="field-content"><img src="http://www.masaisrael.org/sites/default/files/imagecache/call_to_action/content/call_for_action/alumni.jpg" alt="" title=""  class="imagecache imagecache-call_to_action imagecache-default imagecache-call_to_action_default" width="65" height="63" /></span>
+  </div>
+  
+  <div class="views-field-body">
+                <div class="field-content"><p>Connect with fellow Israel program alumni on the Masa Israel Community site.</p>
+ <a href="http://www.masaisrael.org/experience/alumni">Read More</a></div>
+  </div>
+  </div>
+  <div class="views-row views-row-3 views-row-odd">
+      
+  <div class="views-field-title">
+                <span class="field-content">Find A Program</span>
+  </div>
+  
+  <div class="views-field-field-call-action-picture-fid-1">
+                <span class="field-content"><img src="http://www.masaisrael.org/sites/default/files/imagecache/call_to_action/content/call_for_action/find a program.jpg" alt="" title=""  class="imagecache imagecache-call_to_action imagecache-default imagecache-call_to_action_default" width="65" height="63" /></span>
+  </div>
+  
+  <div class="views-field-body">
+                <div class="field-content"><p>Find the program that is right for you with our program matchmaker</p>
+ <a href="http://www.masaisrael.org/find_programs">Read More</a></div>
+  </div>
+  </div>
+  <div class="views-row views-row-4 views-row-even views-row-last">
+      
+  <div class="views-field-title">
+                <span class="field-content">Apply for Funding</span>
+  </div>
+  
+  <div class="views-field-field-call-action-picture-fid-1">
+                <span class="field-content"><img src="http://www.masaisrael.org/sites/default/files/imagecache/call_to_action/content/call_for_action/funding3.jpg" alt="" title=""  class="imagecache imagecache-call_to_action imagecache-default imagecache-call_to_action_default" width="65" height="63" /></span>
+  </div>
+  
+  <div class="views-field-body">
+                <div class="field-content"><div>
+	Once you have chosen your program, apply for your Masa Israel grant.</div>
+ <a href="http://www.masaisrael.org/grants/apply">Read More</a></div>
+  </div>
+  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>   </div>
+</div>
+
+
+<div  id="block-menu-menu-footer-links" class="block block-menu">
+
+      <h2 class="block-title"><none></h2>
+  
+  <div class="block-content clear-block">
+    <ul class="menu"><li class="leaf first"><a href="mailto:masainfo@masaisrael.org" title="Send  us mail 
+">masainfo@masaisrael.org</a></li>
+<li class="leaf"><a href="/privacy" title="Our Privacy Policy ">Privacy Policy</a></li>
+<li class="leaf last"><a href="/rss" title="Frequently asked questions">RSS</a></li>
+</ul>  </div>
+</div>
+
+
+<div  id="block-sitemasa-7" class="block block-sitemasa">
+
+  
+  <div class="block-content clear-block">
+    
+	<div class='fotter-text'>
+	<ul>
+		<li>
+			<span class='fotter_text_bold can_us'>Call free from US &amp; Canada</span>
+			<span class='fotter_text_abstract can_us_abs'> 1.866.864.3279 </span></li>
+		<li>
+			<span class='fotter_text_bold intl_eng'>International(English) </span>
+			<span class='fotter_text_abstract intl_eng_abs'> +972.2.621.6497 </span></li>
+		<li>
+			<span class='fotter_text_bold intl_sp_fr'>French/Spanish/Russian </span>
+			<span class='fotter_text_abstract intl_sp_fr_abs'> +972.2.621.6581 </span></li>
+		<li class='fax'>
+			<span class='fotter_text_bold fax' fax>Fax </span>
+			<span class='fotter_text_abstract fax_abs'> +972.2.621.6014 </span></li>
+	</ul>
+</div>
+<div class='fotter-info'>
+	<a href='http://www.jafi.org.il'><img alt='Jewish Agency for Israel' class='ja-fotter-image' src='/sites/all/themes/masa/images/masa_footer_icn.png' title='Jewish Agency for Israel' /></a>
+	<p>&copy;2012 Masa Israel Journey is a joint project of the Government of Israel, the Jewish<br/>
+		Agency for Israel and its partners, the Jewish Federations of North America and Keren Hayesod - UIA</p>
+	<br/>
+	Developed by &nbsp; <a href='http://www.realcommerce.co.il'><img class='rc_logo' src='/sites/all/themes/masa/images/rc_logo.gif' border='0' title='Developed by RealCommerce'></a>	
+</div>  </div>
+</div>
+
+
+<div  id="block-sitemasa-8" class="block block-sitemasa">
+
+  
+  <div class="block-content clear-block">
+    		
+	<p>
+		<a href="http://www.facebook.com/masaisrael" target="_blank">
+			<img class="fotter-share" src="/sites/all/themes/masa/images/btn_fb.png" />
+		</a>
+		<a href="http://twitter.com/MasaIsrael" target="_blank"><img class="fotter-share" src="/sites/all/themes/masa/images/btn_tw.png" /></a>
+		<span class="st_sharethis_large" displayText="ShareThis"></span>
+	</p>
+	  </div>
+</div>
+
+</div>
+	<div id="close_footer"></div>
+	      <div id="fb-root"></div>
+      <script type="text/javascript">
+        window.fbAsyncInit = function() {
+          FB.init({
+            appId  : '204528312906638',
+            status : true, // check login status
+            cookie : true, // enable cookies to allow the server to access the session
+            xfbml  : true,
+            logging: '0'
+          });
+          
+          jQuery(document).trigger('fb:init');
+        };
+      
+        (function() {
+          var e = document.createElement('script');
+          e.src = document.location.protocol + '//connect.facebook.net/en_US/all.js';
+          e.async = true;
+          document.getElementById('fb-root').appendChild(e);
+        }());
+      </script>
+<div style="display: none"><form action="/blog/201309/yom-kippur-souls?destination=node%2F29311"  accept-charset="UTF-8" method="post" id="fbconnect-autoconnect-form">
+<div><input type="submit" name="op" id="edit-connect" value="Connect"  class="form-submit" />
+<input type="hidden" name="form_build_id" id="form-107020b56a59609569c8af1da3081fdd" value="form-107020b56a59609569c8af1da3081fdd"  />
+<input type="hidden" name="form_id" id="edit-fbconnect-autoconnect-form" value="fbconnect_autoconnect_form"  />
+
+</div></form>
+</div><script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-22331787-1"]);_gaq.push(["_trackPageview"]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();
+//--><!]]>
+</script>
+	<div id='mask'></div>
+	<script>
+		</script>
+</body>
+</html>

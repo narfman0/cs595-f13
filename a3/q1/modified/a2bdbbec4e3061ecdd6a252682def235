@@ -1,0 +1,5182 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<!--start of main-->
+<head>
+<!-- Page generated: 11:48:23 27-Sep-2013 -->
+
+  <!--start of components/homepage_header-->
+<meta name="verify-v1" content="RazNiYjuvNuEsMeFXxfR9l9cDZIKxcq2VjQZA25CHgM=" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Stuff.co.nz - Latest New Zealand News &amp; World News, Sports News &amp; NZ Weather Forecasts</title>
+<meta name="robots" content="noarchive">
+
+<meta name="description" content="Latest NZ news, world news, sport, weather forecasts, travel, entertainment, business, science, environment, politics and newspapers. Visit Stuff.co.nz.">
+
+<meta name="keywords" content="stuff, latest, breaking, new zealand, nz, world, news, sport, sports, weather, forecast, forecasts, business, entertainment, science, environment, politics, newspaper, newspapers">
+<link href="http://static2.stuff.co.nz/1378959298/static/css/all.min.css" rel="stylesheet" type="text/css" media="screen" />
+<link href="http://static2.stuff.co.nz/1378959298/static/css/print.min.css" rel="stylesheet" type="text/css" media="print" />
+<!--start of components/gigya_headers-->
+
+<!-- socialize.js script should only be included once -->
+<script type="text/javascript" src="http://cdn.gigya.com/js/socialize.js?apiKey=3_9JitkeW_HEZvUcTSahg2tBTNm_psp2j-F58dCHDCilHVDYpGUAnC0vHmZMfro1_V">
+{
+    siteName: 'stuff.co.nz',
+    enabledProviders: 'facebook,yahoo,google,twitter,messenger,linkedin,openid',
+    sessionExpiration: 0
+}
+</script>
+<!--end of components/gigya_headers-->
+
+<!--start of components/header_css-->
+
+<link href="http://static2.stuff.co.nz/stuff/stuff-nation/snation_homepage_strap.css" rel="stylesheet" type="text/css" media="screen" />
+
+<link href="http://static2.stuff.co.nz/clientdev/production/refresh/css/homepage.min.css" rel="stylesheet" type="text/css" media="screen" />
+
+<!--end of components/header_css-->
+
+<link href="http://static2.stuff.co.nz/1378959298/static/css/newspapersDropDownFix2.css" rel="stylesheet" type="text/css" media="screen" />
+<link rel="apple-touch-icon-precomposed" href="http://static2.stuff.co.nz/1378959298/static/images/apple-touch-icon-precomposed.png" />
+<script type="text/javascript">
+    var JavaScriptCSS = document.createElement('link');
+    JavaScriptCSS.setAttribute('href', 'http://static2.stuff.co.nz/1378959298/static/css/javascript.min.css');
+    JavaScriptCSS.setAttribute('rel', 'stylesheet');
+    JavaScriptCSS.setAttribute('type', 'text/css');
+    document.getElementsByTagName('head')[0].appendChild(JavaScriptCSS);
+</script>
+
+<!--start of components/section_head_properties-->
+
+    <link rel="shortcut icon" href="http://static.stuff.co.nz/781/3251781.ico" />
+<style type="text/css">
+#container {
+}
+</style>
+
+<!--end of components/section_head_properties-->
+
+<link rel="alternate" type="application/rss+xml" title="Stuff RSS" href=" http://www.stuff.co.nz/rss/" />
+
+<!--[if IE]>
+    <link rel="stylesheet" type="text/css" href="http://static2.stuff.co.nz/1378959298/static/css/ie.min.css" />
+<![endif]-->
+<!--[if IE 8]>
+<link href="http://static2.stuff.co.nz/1378959298/static/css/homepage-refresh-ie8.min.css" rel="stylesheet" type="text/css" media="screen" />
+<![endif]-->
+
+<script src="http://static2.stuff.co.nz/1378959298/static/js/homepage-all.min.js" type="text/javascript"></script>
+
+<!--end of components/homepage_header-->
+
+<!--start of components/ad/javascript-->
+
+<script type="text/javascript">//<![CDATA[
+//Doubleclick
+var dartSite = "onl.stuff.homepage";
+var dartSiteMob = "mob.stuff.essentialmums";
+var dartZone = "/homepage";
+var dartEnv = "prod";
+var dartCtype = "section";
+var dartKeys = "";
+var dartWeatherLoc = $.cookie('weatherSelection') || 33; // 33 is Welly - default location
+var dartPid = "";
+suitableFlash = "false";
+//]]></script>
+<script src="http://static2.stuff.co.nz/1378959298/static/jwplayer/flashDetector.js" type="text/javascript" charset="utf-8"></script>
+<!--end of components/ad/javascript-->
+
+</head>
+<body>
+<!--start of components/ad/gutter-->
+
+<div id="leftgutter" style="width:160px; height:1500px; border-right:0px solid black; position: fixed; left:-158px; z-index:0; display:none;">
+<div class="right_col_ad" style="width:160px" id="adGUTTERLEFT">
+</div>
+<script language="javascript">
+<!--
+if (!((window.XMLHttpRequest == undefined) && (ActiveXObject != undefined))){
+    PushDartJSAd('GUTTERLEFT', 0, 160, 1500, '160x1500');
+}
+//-->
+</script>
+</div>
+<div id="rightgutter" style="width:160px; height:1500px; border-left:0px solid black; position: fixed; right:-158px; z-index:0; display:none;">
+<div class="right_col_ad" style="width:160px" id="adGUTTERRIGHT">
+</div>
+
+<script language="javascript">
+<!--
+if (!((window.XMLHttpRequest == undefined) && (ActiveXObject != undefined))){
+    PushDartJSAd('GUTTERRIGHT', 0, 160, 1500, '160x1500');
+}
+//-->
+</script>
+</div>
+<!--end of components/ad/gutter-->
+
+<!--start of components/top_strip-->
+
+<div class="all_site_nav nav_list nav_list_section">
+  <div class="all_site_nav_inner">
+
+    <ul class="nav_list nav_list_homepage">
+    <li class="current"><a href=" http://www.stuff.co.nz/">Stuff</a></li>
+    <li><a href="http://www.essentialmums.co.nz/">Essential Mums</a></li>
+    <li><a href="http://www.trademe.co.nz/">Trade Me</a></li>
+    <li><a href="http://www.findsomeone.co.nz/">FindSomeone</a></li>
+    <li><a href="http://www.holidayhouses.co.nz/">Holiday Houses</a></li>
+    <li><a href="http://www.travelbug.co.nz/">Travelbug</a></li>
+    <li><a href="http://www.treatme.co.nz/">Treat Me</a></li>
+    <li><a href="http://www.weatherzone.co.nz/">Weatherzone</a></li>
+    </ul>
+
+    <div class="all_site_nav_right logged_in account_only">
+      <div class="all_site_nav_dropdown">
+        <a class="all_site_nav_account">
+          <img src="http://static2.stuff.co.nz/images/blocker.png" class="blocker" />
+          <img border="0" class="all_site_nav_dropdown_avatar avatar" /><span class="username"></span></a>
+          <div class="all_site_nav_submenu">
+          <ul class="all_site_nav_root">
+            <li><a class="profile-link" href="/stuff-nation/public-profile">Profile</a></li>
+            <li><a href="/stuff-nation/settings">Settings</a></li>
+            <li><a href="#" class="logout">Sign Out</a></li>
+          </ul>
+          <div class="all_site_nav_dropdown_btm"></div>
+        </div>
+      </div>
+    </div>
+    <div class="all_site_nav_right guest_only">
+      <div class="all_site_nav_signup_loading"><a class="all_site_nav_signup open-cbox" href="/lightbox/user/register"></a></div>
+      <div class="all_site_nav_login_loading"><a class="all_site_nav_login open-cbox" href="/lightbox/user/login"></a></div>
+    </div>
+  </div>
+
+  <div id="trademenav_right">
+<!--start of components/ad/standard-->
+
+  <!-- No ad set up for position TOPPIXEL -->
+
+<!--end of components/ad/standard-->
+
+  </div>
+</div>
+<!--end of components/top_strip-->
+
+<div id="mobile_link"></div>
+
+<div id="slidedown" style="height:auto;width:950px;margin: 0 auto;">
+  <div id ="adPUSHDOWNBANNER">
+    <!--start of components/ad/push-->
+
+<script language="javascript">
+<!--
+
+PushDartJSAd('PUSHDOWNBANNER', null, 950, 120, '950x120,950x160');
+
+//-->
+</script>
+<!--end of components/ad/push-->
+
+  </div>
+</div>
+
+<div id="container">
+
+<!--start of homepage-->
+
+  <!--start of components/masthead-->
+
+<!-- components/masthead homepage -->
+
+<div id="pagetop_masthead">
+    <div id="pagetop_left_masthead">
+        <!-- Local weather widget (included via JS) -->
+        <div id="widget_local_weather_box"></div>
+    </div>
+    <div id="pagetop_mid">
+
+        <a href="/">
+
+    <!--start of components/masthead_logo-->
+
+<img src="http://static2.stuff.co.nz/1380224796/718/9216718.gif" alt="Stuff.co.nz" border="0" />
+<!--end of components/masthead_logo-->
+
+        </a>
+
+    </div><!--end pagetop_mid-->
+
+      <!--start of components/homepage_top_right-->
+
+<!--start of components/pointer/skybox-home-->
+
+    <div class="homesky">
+
+        <a href="http://www.stuff.co.nz/travel/deals/">
+
+            <img src="http://static2.stuff.co.nz/1379980738/605/9202605.jpg" alt="Skoybox HoT Deals" />
+        </a>
+        <p></p>
+        <p>
+
+        <a href="http://www.stuff.co.nz/travel/deals/">
+
+        </a>
+        </p>
+    </div>
+
+<!--end of components/pointer/skybox-home-->
+
+<!--end of components/homepage_top_right-->
+
+</div><!-- end pagetop_masthead -->
+
+<!--end of components/masthead-->
+
+<div id="date_home"><p>September 27 2013,
+
+<span id="lastUpdate" > updated</span><span class="timestamp"> 11:34am</span></p>
+</div>
+
+<!--start of components/nav/search_and_login-->
+<div id="search_box">
+  <form action="/searchresults" id="cse-search-box">
+  <input name="Search Site" type="submit" class="search_box_button" value="Search Site" />
+
+  <input type="hidden" name="cof" value="FORID:9" />
+
+  <input type="hidden" name="cx" value="006730714154542492986:oh6vl0ybuqy" />
+
+  <input type="hidden" name="ie" value="UTF-8" />
+
+  <input type="text" name="q" size="31" id="search_box_text"/>
+  </form>
+  <script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&lang=en"></script>
+</div>
+<!--end of components/nav/search_and_login-->
+
+<!--start of components/nav/homepage_nav-->
+
+<div id="home_nav">
+    <ul>
+
+            <li><a href="/national/" class="homenav_darkblue">National</a></li>
+
+            <li><a href="/world/" class="homenav_midblue">World</a></li>
+
+            <li><a href="/business/" class="homenav_lightblue">Business</a></li>
+
+            <li><a href="/technology/" class="homenav_green">Technology</a></li>
+
+            <li><a href="/sport/" class="homenav_red">Sport</a></li>
+
+            <li><a href="/entertainment/" class="homenav_purple">Entertainment</a></li>
+
+            <li><a href="/life-style/" class="homenav_orange">Life & Style</a></li>
+
+            <li><a href="/travel/" class="homenav_yellow">Travel</a></li>
+
+            <li><a href="/motoring/" class="homenav_lyellow">Motoring</a></li>
+
+         <li><a class="homenav_nml" href="/competitions/">Competitions</a></li>
+         <li><a class="homenav_tdn" href="/taranaki-daily-news/">Taranaki Daily News</a></li>
+         <li><a class="homenav_akl" href="/auckland/">Auckland</a></li>
+
+    </ul>
+</div><!--end home nav-->
+<div id="greybar">
+    <div id="greybar_left"></div>
+    <div id="greybar_left_side">
+        <ul>
+            <li><a href="/stuff-nation" class="greybar_snation_link">Stuff Nation</a></li>
+
+            <li><a href="/stuff-nation/saved-stories" class="greybar_savedstories_link">Saved Stories</a></li>
+        </ul>
+    </div><!--end grey bar left side-->
+
+    <!--start of components/nav/advertorial_pointers-->
+
+            <a href="http://www.stuff.co.nz/business/better-business/new-zealand-post-better-business" >
+                <img class="adv_pointer_home" src="http://static2.stuff.co.nz//1379891266/119/9198119.jpg" alt="" border="0" />
+            </a>
+
+            <a href="http://www.stuff.co.nz/travel/inspire" >
+                <img class="adv_pointer_home" src="http://static2.stuff.co.nz//1378234816/054/8854054.jpg" alt="" border="0" />
+            </a>
+
+<!--end of components/nav/advertorial_pointers-->
+
+    <div id="greybar_right"></div>
+        <div id="greybar_right_side">
+
+        <ul class="megadropdown_top_link">
+            <!--start of components/nav/mega_dropdown-->
+<li>
+
+    <span><h2><a href="#">Newspapers &raquo;</a></h2></span>
+    <ul class="megadropdown">
+        <div class="megadropdown_inner">
+            <div class="megadropdown_title">Our Network</div>
+
+                        <a href="/dominion-post" class="megadropdown_link_border"><img src="http://static2.stuff.co.nz/1285819224/587/4184587.gif" border="0" /></a>
+
+                        <a href="/the-press" class="megadropdown_link_border"><img src="http://static2.stuff.co.nz/1285819191/585/4184585.gif" border="0" /></a>
+
+                        <a href="/waikato-times" class="megadropdown_link_noborder"><img src="http://static2.stuff.co.nz/1285817881/514/4184514.gif" border="0" /></a>
+
+                    <div class="megadropdown_divider"></div>
+
+                        <a href="/auckland" class="megadropdown_link_border"><img src="http://static2.stuff.co.nz/1311236650/230/5323230.jpg" border="0" /></a>
+
+                        <a href="/southland-times" class="megadropdown_link_border"><img src="http://static2.stuff.co.nz/1286835925/008/4223008.gif" border="0" /></a>
+
+                        <a href="/taranaki-daily-news" class="megadropdown_link_noborder"><img src="http://static2.stuff.co.nz/1285819614/599/4184599.gif" border="0" /></a>
+
+                    <div class="megadropdown_divider"></div>
+
+                        <a href="/manawatu-standard" class="megadropdown_link_border"><img src="http://static2.stuff.co.nz/1285819544/596/4184596.gif" border="0" /></a>
+
+                        <a href="/nelson-mail" class="megadropdown_link_border"><img src="http://static2.stuff.co.nz/1297742470/669/4660669.gif" border="0" /></a>
+
+                        <a href="/marlborough-express" class="megadropdown_link_noborder"><img src="http://static2.stuff.co.nz/1285819243/588/4184588.gif" border="0" /></a>
+
+                    <div class="megadropdown_divider"></div>
+
+                        <a href="/timaru-herald" class="megadropdown_link_border"><img src="http://static2.stuff.co.nz/1285819647/602/4184602.gif" border="0" /></a>
+
+            <a href="http://www.stuff.co.nz/about-stuff/2071058/Newspapers?label=Newspapers" class="megadropdown_more">View other publications</a>
+        </div>
+        <div class="megadropdown_btm">
+        </div>
+    </ul>
+</li> 
+<!--end of components/nav/mega_dropdown-->
+
+        </ul>
+
+          <div class="hottopics">
+              <ul>
+                  <li class="hottopicslink">Hot Topics &raquo;</li>
+
+                      <h2><a href="http://www.stuff.co.nz/sport/americas-cup?label=America's+Cup">America's Cup &raquo;</a></h2>
+
+                      <h2><a href="http://www.stuff.co.nz/national/stuff-quizzes/?label=Quizzes">Quizzes &raquo;</a></h2>
+
+                      <h2><a href="http://www.stuff.co.nz/blogs?label=Blogs">Blogs &raquo;</a></h2>
+
+              </ul>
+          </div><!--end hot topics-->
+
+    </div><!--end grey bar right side-->
+
+</div><!--end grey bar-->
+<!--end of components/nav/homepage_nav-->
+
+<div id="content">
+<!--start of components/breaking_news-->
+
+<!--end of components/breaking_news-->
+
+<div id="left_col">
+<!-- Need some ifs here for different layouts -->
+
+<!--start of components/section/uber_header_pointer-->
+
+    <!--start of components/pointer/promo-->
+
+        <div id="uber_pointer">
+            <a href="http://yourvoice.stuff.co.nz/local/index.php">
+                <img src="http://static2.stuff.co.nz/1380238446/570/9217570.png" alt="Election uber" />
+            </a>
+            <ul>
+
+            </ul>
+        </div>
+<!--end of components/pointer/promo-->
+
+<!--end of components/section/uber_header_pointer-->
+
+    <!--start of components/homepage/topstories_stories-->
+<!--start of components/homepage_topstories_stories-->
+
+<!--end of components/homepage_topstories_stories-->
+<!--end of components/homepage/topstories_stories-->
+
+    <!--html/components/homepage_topstories-->
+
+<!--start of components/homepage_feature_image-->
+
+    <div id="home_features"> <a href="/world/africa/9217668/Pictures-and-stories-of-terror-in-Kenyan-mall"><img src="http://static2.stuff.co.nz/1380237463/670/9217670.jpg" alt="Kenya Mall" border="0" class="home_photo" /></a>
+
+      <div class="home_photo_caption_splash">
+
+        <h2>
+            <a href="/world/africa/9217668/Pictures-and-stories-of-terror-in-Kenyan-mall">Incredible destruction at terror mall</a>
+            <!--start of components/stuffnation_icon-->
+
+<!--end of components/stuffnation_icon-->
+
+        </h2>
+        <!--start of components/star_rating-->
+
+<!--end of components/star_rating-->
+
+        <p>
+
+          Images of the Kenyan mall carnage and tales of the terror shoppers encountered therein emerge.
+        </p>
+	<p>
+
+            <a href="/world/photos/9217549/Aftermath-of-the-mall-terrorist-attack-in-Kenya" class="serif splash_gallery">Photos</a>
+
+            <a href="/world/videos/9213794/Aftermath-of-Kenyan-mall-attack" class="serif splash_video">Video</a>
+
+            <a href="/world/africa/9216602/Interpol-issues-White-Widow-alert" class="serif splash_story">'White widow' hunt</a>
+
+	</p>
+      </div>
+    </div>
+
+<!--end of components/homepage_feature_image-->
+
+<div id="home_top_midcol">
+
+    <h1 class="first_headline"><a href="/national/politics/9217379/Key-tells-UN-it-needs-reform">
+
+    <strong>Key takes world stage</strong>
+
+    </a>
+    <!--start of components/stuffnation_icon-->
+
+<!--end of components/stuffnation_icon-->
+
+        <!--start of components/story_attributes-->
+
+    <img src="http://static2.stuff.co.nz/1378959298/static/images/icon_video.gif" style="float:none; margin-left:5px;" alt="" >
+
+<!--end of components/story_attributes-->
+
+    </h2>
+
+    <!--start of components/section/story_credit-->
+<p class="storycredit">
+
+</p>
+<!--end of components/section/story_credit-->
+
+    <!--start of components/styled_intro-->
+
+            <p class="first_headline_thumb">
+                <a href="/national/politics/9217379/Key-tells-UN-it-needs-reform">
+                    <img class="foursquare_photo" src="http://static2.stuff.co.nz/1380236988/638/9217638.jpg" alt="key strap" width="90" height="60" />
+                </a>
+
+    <!--start of components/intro-->
+
+        <span class="red">11:06am</span>
+
+      In trenchant speech, PM tells UN it badly needs reform and has become a hostage of its own traditions. | <a href="/world/middle-east/9217508/Deal-struck-on-Syrias-chemical-weapons">Syria deal</a>
+
+    <!--start of components/intro_links-->
+
+<!--end of components/intro_links-->
+
+<!--end of components/intro-->
+
+    </p>
+<!--end of components/styled_intro-->
+
+    <h2 class="other_headline"><a href="/national/crime/9217541/Reward-offered-in-hunt-for-missing-man">
+
+    $20,000 reward offered 
+
+    </a>
+    <!--start of components/stuffnation_icon-->
+
+<!--end of components/stuffnation_icon-->
+
+        <!--start of components/story_attributes-->
+
+<!--end of components/story_attributes-->
+
+    </h2>
+
+    <!--start of components/section/story_credit-->
+<p class="storycredit">
+
+</p>
+<!--end of components/section/story_credit-->
+
+    <!--start of components/styled_intro-->
+
+        <p>
+
+    <!--start of components/intro-->
+
+        <span class="red">10:56am</span>
+
+      Police post reward with conditional immunity from prosecution in an effort to find missing man.
+
+    <!--start of components/intro_links-->
+
+<!--end of components/intro_links-->
+
+<!--end of components/intro-->
+
+    </p>
+<!--end of components/styled_intro-->
+
+    <h2 class="other_headline"><a href="/national/9216547/Crash-shuts-major-Auckland-road">
+
+    Airport traffic piled up
+
+    </a>
+    <!--start of components/stuffnation_icon-->
+
+<!--end of components/stuffnation_icon-->
+
+        <!--start of components/story_attributes-->
+
+<!--end of components/story_attributes-->
+
+    </h2>
+
+    <!--start of components/section/story_credit-->
+<p class="storycredit">
+
+</p>
+<!--end of components/section/story_credit-->
+
+    <!--start of components/styled_intro-->
+
+        <p>
+
+    <!--start of components/intro-->
+
+        <span class="red"></span>
+
+      Alcohol thought to be factor in crash which led to closure of major Auckland road and seven people being sent to hospital.
+
+    <!--start of components/intro_links-->
+
+<!--end of components/intro_links-->
+
+<!--end of components/intro-->
+
+    </p>
+<!--end of components/styled_intro-->
+
+    <h2 class="other_headline"><a href="/national/politics/local-body-elections/9217298/Candidate-quits-after-explicit-images-leaked">
+
+    Candidate quits over explicit images
+
+    </a>
+    <!--start of components/stuffnation_icon-->
+
+<!--end of components/stuffnation_icon-->
+
+        <!--start of components/story_attributes-->
+
+<!--end of components/story_attributes-->
+
+    </h2>
+
+    <!--start of components/section/story_credit-->
+<p class="storycredit">
+
+</p>
+<!--end of components/section/story_credit-->
+
+    <!--start of components/styled_intro-->
+
+        <p>
+
+    <!--start of components/intro-->
+
+        <span class="red"></span>
+
+      A community board candidate has quit the race after explicit photos of him were leaked online.
+
+    <!--start of components/intro_links-->
+
+<!--end of components/intro_links-->
+
+<!--end of components/intro-->
+
+    </p>
+<!--end of components/styled_intro-->
+
+    <h2 class="other_headline"><a href="/travel/9216665/What-the-guests-leave-behind">
+
+    What guests leave behind
+
+    </a>
+    <!--start of components/stuffnation_icon-->
+
+<!--end of components/stuffnation_icon-->
+
+        <!--start of components/story_attributes-->
+
+<!--end of components/story_attributes-->
+
+    </h2>
+
+    <!--start of components/section/story_credit-->
+<p class="storycredit">
+
+</p>
+<!--end of components/section/story_credit-->
+
+    <!--start of components/styled_intro-->
+
+        <p>
+
+    <!--start of components/intro-->
+
+        <span class="red"></span>
+
+      Motels say they often find dirty underwear in the bed - but sometimes stranger items turn up.
+
+    <!--start of components/intro_links-->
+
+<!--end of components/intro_links-->
+
+<!--end of components/intro-->
+
+    </p>
+<!--end of components/styled_intro-->
+
+ </div><!--end home top mid col-->
+<!--end of components/homepage_topstories-->
+
+<div class="hdividier"></div>
+<div id="related_box">
+<!--start of components/homepage_latest_headlines_box-->
+
+<div class="editor_latest" id="related_box_left">
+    <span class="related_box_title">Latest News Headlines</span>
+
+    <!--start of components/latest_headlines-->
+    <table class="latest_headlines">
+
+        <!-- 28 11275 -->
+        <tr>
+            <td class="latest_timestamp" style="padding-right: 1em;">11:45am</td>
+            <td><h3><a href="/technology/digital-living/9217763/The-virtual-Lady-Gaga">The virtual Lady Gaga</a></h3>
+            <!--start of components/story_attributes-->
+
+<!--end of components/story_attributes-->
+
+        </td>
+        </tr>
+
+        <!-- 27384 27391 -->
+        <tr>
+            <td class="latest_timestamp" style="padding-right: 1em;">11:41am</td>
+            <td><h3><a href="/business/industries/9217786/Economy-on-upward-swing-BusinessNZ">Economy on upward swing - BusinessNZ</a></h3>
+            <!--start of components/story_attributes-->
+
+<!--end of components/story_attributes-->
+
+        </td>
+        </tr>
+
+        <!-- 1860 1869 -->
+        <tr>
+            <td class="latest_timestamp" style="padding-right: 1em;">11:40am</td>
+            <td><h3><a href="/entertainment/tv/9217784/This-is-how-Dexter-should-ve-ended">This is how Dexter should've ended</a></h3>
+            <!--start of components/story_attributes-->
+
+<!--end of components/story_attributes-->
+
+        </td>
+        </tr>
+
+        <!-- 12 29934 -->
+        <tr>
+            <td class="latest_timestamp" style="padding-right: 1em;">11:34am</td>
+            <td><h3><a href="/world/africa/9217668/Pictures-and-stories-of-terror-in-Kenyan-mall">Pictures and stories of terror in Kenyan mall</a></h3>
+            <!--start of components/story_attributes-->
+
+    <img src="http://static2.stuff.co.nz/1378959298/static/images/icon_gallery.gif" style="float:none; margin-left:5px;" alt="" >
+
+    <img src="http://static2.stuff.co.nz/1378959298/static/images/icon_video.gif" style="float:none; margin-left:5px;" alt="" >
+
+<!--end of components/story_attributes-->
+
+        </td>
+        </tr>
+
+        <!-- 27384 27391 -->
+        <tr>
+            <td class="latest_timestamp" style="padding-right: 1em;">11:34am</td>
+            <td><h3><a href="/business/industries/9217765/China-wage-growth-good-for-NZ">China wage growth good for NZ</a></h3>
+            <!--start of components/story_attributes-->
+
+<!--end of components/story_attributes-->
+
+        </td>
+        </tr>
+
+        <!-- 11 11 -->
+        <tr>
+            <td class="latest_timestamp" style="padding-right: 1em;">11:31am</td>
+            <td><h3><a href="/national/9217707/Local-body-elections-live-chat">Local body elections live chat</a></h3>
+            <!--start of components/story_attributes-->
+
+<!--end of components/story_attributes-->
+
+        </td>
+        </tr>
+
+    </table>
+<!--end of components/latest_headlines-->
+
+    <!--start of components/ad/standard-->
+
+  <div class="right_col_ad" style="" id="adTICKERLEFT">
+
+    <!--start of components/ad/feedback_link-->
+
+<span class="ad_leftcol_feedback" id="feedback_TICKERLEFT">
+  <a class="adfeedback" target="_blank" href="/about-stuff/advertising-feedback/?pos=TICKERLEFT&adsize=300x250&area=s.stuff">
+
+  Ad Feedback</a>
+</span>
+<!--end of components/ad/feedback_link-->
+
+  </div> 
+  <!--start of components/ad/push-->
+
+<script language="javascript">
+<!--
+
+PushDartIframeAd('TICKERLEFT', null, 300, 60, '300x60');
+
+//-->
+</script>
+<!--end of components/ad/push-->
+
+<!--end of components/ad/standard-->
+
+</div>
+<!--end of components/homepage_latest_headlines_box-->
+
+<!--start of components/editors_picks-->
+
+  <div id="related_box_right" class="editor_latest">
+    <span class="related_box_title">Editors' Picks</span>
+
+    <p>
+
+        <a class="story_icon" href="/national/9217707/Local-body-elections-live-chat">Local body elections live chat</a>
+        <!--start of components/story_attributes-->
+
+<!--end of components/story_attributes-->
+
+    </p>
+
+    <p>
+
+        <a class="story_icon" href="/business/industries/9217297/Businesses-warned-of-phishing-attack">Businesses warned of phishing attack</a>
+        <!--start of components/story_attributes-->
+
+<!--end of components/story_attributes-->
+
+    </p>
+
+    <p>
+
+        <a class="story_icon" href="/science/9217665/Climate-change-for-all-to-get">Climate change for all to get</a>
+        <!--start of components/story_attributes-->
+
+<!--end of components/story_attributes-->
+
+    </p>
+
+    <p>
+
+        <a class="story_icon" href="/world/africa/9216602/Interpol-issues-White-Widow-alert">Interpol issues 'White Widow' alert</a>
+        <!--start of components/story_attributes-->
+
+<!--end of components/story_attributes-->
+
+    </p>
+
+    <p>
+
+        <a class="story_icon" href="/motoring/photos/9213577/New-muscle-car-from-melting-pot-of-old-models">New muscle car from melting pot of old models</a>
+        <!--start of components/story_attributes-->
+
+    <img src="http://static2.stuff.co.nz/1378959298/static/images/icon_gallery.gif" style="float:none; margin-left:5px;" alt="" >
+
+<!--end of components/story_attributes-->
+
+    </p>
+
+    <p>
+
+        <a class="story_icon" href="/technology/digital-living/9217317/Google-introduces-new-Hummingbird-search">Google introduces new 'Hummingbird' search</a>
+        <!--start of components/story_attributes-->
+
+<!--end of components/story_attributes-->
+
+    </p>
+
+    <p>
+
+        <a class="story_icon" href="/motoring/news/9216927/Little-speedsters-not-for-faint-of-heart">Little speedsters not for faint of heart</a>
+        <!--start of components/story_attributes-->
+
+<!--end of components/story_attributes-->
+
+    </p>
+
+    <p>
+
+        <a class="assignment_icon" href="/stuff-nation/assignments/8712943/Pick-your-Rugby-Championship-team">Pick your Rugby Championship team</a>
+        <!--start of components/story_attributes-->
+
+<!--end of components/story_attributes-->
+
+    </p>
+
+   </div>
+
+<!--end of components/editors_picks-->
+
+<div class="clearer"></div>
+</div>
+
+</div>
+
+<div id="right_col">
+
+  <!--start of components/ad/top_right_col_ad-->
+<!--start of components/ad/standard-->
+
+  <div class="top_corner_ad hidden_ad" style="" id="adTOPSTRIP">
+
+  </div> 
+  <!--start of components/ad/push-->
+
+<script language="javascript">
+<!--
+
+PushDartJSAd('TOPSTRIP', 8, 275, 23, '275x23,300x25');
+
+//-->
+</script>
+<!--end of components/ad/push-->
+
+<!--end of components/ad/standard-->
+
+<!--end of components/ad/top_right_col_ad-->
+
+<!--start of components/pointer/slider-->
+
+<div id="home-slider-placeholder">
+<div id="home-slider-wrapper">
+    <div id="homeslider-prev-button"><a id="homeslider-prev" href="#"></a></div>
+    <div id="homeslider-next-button"><a id="homeslider-next" href="#"></a></div>
+    <div id="homeslider-slidebox">
+
+        <div class="homeslider-slide">
+                <div class="home-slide-left">
+		     <a href="/world/asia/9217290/A-closer-look-at-Pakistans-new-quake-island"><img src="http://static2.stuff.co.nz/1380231781/293/9217293.jpg" alt="Quake island" /></a>
+                </div>
+                <div class="home-slide-right">
+		  <span><a href="/world/asia/9217290/A-closer-look-at-Pakistans-new-quake-island">A closer look at the new quake island</a>
+		  <!--start of components/story_attributes-->
+
+    <img src="http://static2.stuff.co.nz/1378959298/static/images/icon_video.gif" style="float:none; margin-left:5px;" alt="" >
+
+<!--end of components/story_attributes-->
+
+		  </span>
+		  <p>A new island which emerged in the Arabian Sea after a 7.7 magnitude earthquake hit a remote Pakistan province  this week this a first.</p>
+                </div>
+        </div><!--end homeslider slide-->
+
+    </div><!--end homeslider slide box-->
+    <div id="home-slider-nav">
+    </div><!--end home slider nav-->
+    <div class="clearer"></div>
+    </div><!--end home slider wrapper-->
+</div><!--end home slider placeholder-->
+
+<!--end of components/pointer/slider-->
+
+<!--start of components/ad/right_col_ad-->
+<!--start of components/ad/standard-->
+
+  <div class="right_col_ad" style="" id="adHOMEPAGETOPRIGHT">
+
+    <!--start of components/ad/feedback_link-->
+
+<span class="ad_leftcol_feedback" id="feedback_HOMEPAGETOPRIGHT">
+  <a class="adfeedback" target="_blank" href="/about-stuff/advertising-feedback/?pos=HOMEPAGETOPRIGHT&adsize=300x250&area=s.stuff">
+
+  Ad Feedback</a>
+</span>
+<!--end of components/ad/feedback_link-->
+
+  </div> 
+  <!--start of components/ad/push-->
+
+<script language="javascript">
+<!--
+
+PushDartJSAd('HOMEPAGETOPRIGHT', 3, 300, 250, '300x250');
+
+//-->
+</script>
+<!--end of components/ad/push-->
+
+<!--end of components/ad/standard-->
+
+<!--end of components/ad/right_col_ad-->
+
+<!--start of components/most_popular-->
+
+<!-- start components/most_popular most_popular_section_id=10 -->
+<div id="most_popular_wrapper">
+    <div class="hbox_narrow">
+        <div class="hbox_top_grey">
+            <div class="hbox_top_grey_left"></div>
+            <span class="hbox_top_title">Most popular</span>
+            <div class="hbox_top_grey_right"></div>
+        </div>
+
+        <div id="most_popular">
+            <ul>
+                <li><a href="#viewed"><span>Viewed</span></a></li>
+                <li><a href="#shared"><span>Shared</span></a></li>
+                <li class="last-tab"><a href="#commented"><span>Commented</span></a></li>
+            </ul>
+            <div id="viewed">
+
+    <p>
+
+        <a class="story_icon" href="/life-style/fashion/9214646/Best-worst-dressed-Sept-27">Best & worst dressed: Sept 27</a>
+        <!--start of components/story_attributes-->
+
+    <img src="http://static2.stuff.co.nz/1378959513/static/images/icon_gallery.gif" style="float:none; margin-left:5px;" alt="" >
+
+<!--end of components/story_attributes-->
+
+    </p>
+
+    <p>
+
+        <a class="story_icon" href="/sport/americas-cup/9214138/Team-New-Zealand-drown-in-sea-of-rival-money">Team New Zealand drown in sea of rival money</a>
+        <!--start of components/story_attributes-->
+
+<!--end of components/story_attributes-->
+
+    </p>
+
+    <p>
+
+        <a class="story_icon" href="/national/9216547/Crash-shuts-major-Auckland-road">Crash shuts major Auckland road</a>
+        <!--start of components/story_attributes-->
+
+<!--end of components/story_attributes-->
+
+    </p>
+
+    <p>
+
+        <a class="story_icon" href="/travel/9216665/What-the-guests-leave-behind">What the guests leave behind</a>
+        <!--start of components/story_attributes-->
+
+<!--end of components/story_attributes-->
+
+    </p>
+
+    <p>
+
+        <a class="story_icon" href="/national/9216541/Prostitutes-accosting-teens">Prostitutes accosting teens</a>
+        <!--start of components/story_attributes-->
+
+<!--end of components/story_attributes-->
+
+    </p>
+
+    <p>
+
+        <a class="assignment-submission_icon" href="/stuff-nation/assignments/americas-cup-what-went-wrong/9213990/Americas-Cup-Data-shows-we-were-faster">America's Cup: Data shows we were faster</a>
+        <!--start of components/story_attributes-->
+
+<!--end of components/story_attributes-->
+
+    </p>
+
+    <p>
+
+        <a class="story_icon" href="/national/quizzes/9213196/Daily-trivia-quiz-September-27">Daily trivia quiz: September 27</a>
+        <!--start of components/story_attributes-->
+
+<!--end of components/story_attributes-->
+
+    </p>
+
+    <p>
+
+        <a class="story_icon" href="/national/crime/9215546/Notorious-fugitive-on-the-loose">Notorious fugitive on the loose</a>
+        <!--start of components/story_attributes-->
+
+<!--end of components/story_attributes-->
+
+    </p>
+
+    <p>
+
+        <a class="story_icon" href="/national/politics/local-body-elections/9217298/Candidate-quits-after-explicit-images-leaked">Candidate quits after explicit images leaked</a>
+        <!--start of components/story_attributes-->
+
+<!--end of components/story_attributes-->
+
+    </p>
+
+    <p>
+
+        <a class="story_icon" href="/national/health/9215524/Suicide-review-after-134-vulnerable-people-die">Suicide review after 134 vulnerable people die</a>
+        <!--start of components/story_attributes-->
+
+<!--end of components/story_attributes-->
+
+    </p>
+
+            </div>
+            <div id="shared">
+
+    <p class="story_icon_link">
+        <a href="/stuff-nation/assignments/americas-cup-what-went-wrong/9213990/Americas-Cup-Data-shows-we-were-faster">America's Cup: Data shows we were faster</a>
+        <!--start of components/story_attributes-->
+
+<!--end of components/story_attributes-->
+
+    </p>
+
+    <p class="story_icon_link">
+        <a href="/sport/americas-cup/9214138/Team-New-Zealand-drown-in-sea-of-rival-money">Team New Zealand drown in sea of rival money</a>
+        <!--start of components/story_attributes-->
+
+<!--end of components/story_attributes-->
+
+    </p>
+
+    <p class="story_icon_link">
+        <a href="/national/health/9215671/Manuka-honey-expert-doesn-t-like-taste">Manuka honey expert doesn't like taste</a>
+        <!--start of components/story_attributes-->
+
+<!--end of components/story_attributes-->
+
+    </p>
+
+    <p class="story_icon_link">
+        <a href="/national/health/9215524/Suicide-review-after-134-vulnerable-people-die">Suicide review after 134 vulnerable people die</a>
+        <!--start of components/story_attributes-->
+
+<!--end of components/story_attributes-->
+
+    </p>
+
+    <p class="story_icon_link">
+        <a href="/sport/opinion/9214285/Reason-Team-NZ-beaten-by-Kiwi-boat-expertise">Reason: Team NZ beaten by Kiwi boat expertise </a>
+        <!--start of components/story_attributes-->
+
+<!--end of components/story_attributes-->
+
+    </p>
+
+    <p class="story_icon_link">
+        <a href="/life-style/food-wine/recipes/9212732/Healthy-puddings-with-chia">Healthy puddings with chia</a>
+        <!--start of components/story_attributes-->
+
+<!--end of components/story_attributes-->
+
+    </p>
+
+    <p class="story_icon_link">
+        <a href="/sport/americas-cup/9213744/NZ-designer-No-blank-cheque-from-Larry">NZ designer: 'No blank cheque from Larry'</a>
+        <!--start of components/story_attributes-->
+
+    <img src="http://static2.stuff.co.nz/1378959513/static/images/icon_video.gif" style="float:none; margin-left:5px;" alt="" >
+
+<!--end of components/story_attributes-->
+
+    </p>
+
+    <p class="story_icon_link">
+        <a href="/national/politics/9213754/Keys-royal-snaps-ruffle-feathers">Key's royal snaps ruffle feathers</a>
+        <!--start of components/story_attributes-->
+
+<!--end of components/story_attributes-->
+
+    </p>
+
+    <p class="story_icon_link">
+        <a href="/the-press/christchurch-life/art-and-stage/9215593/Bronze-bull-back-for-good">Bronze bull back for good</a>
+        <!--start of components/story_attributes-->
+
+<!--end of components/story_attributes-->
+
+    </p>
+
+    <p class="story_icon_link">
+        <a href="/the-press/opinion/blogs/annas-turn/9215639/Your-phone-can-find-you-an-instant-date">Your phone can find you an instant date</a>
+        <!--start of components/story_attributes-->
+
+<!--end of components/story_attributes-->
+
+    </p>
+
+            </div>
+            <div id="commented"></div>
+<script type="text/javascript">
+gigya.comments.getTopStreams({
+
+    callback:GigyaStuff.updateMostCommented,
+    limit: '10'
+});
+</script>
+            <div class="hbox_btm">
+                <div class="hbox_btm_left"></div>
+                <div class="hbox_btm_right"></div>
+            </div>
+            <div class="clearer"></div>
+        </div><!-- most_popular -->
+    </div><!-- hbox_narrow -->
+</div><!-- most_popular_wrapper -->
+<!-- end components/most_popular -->
+<!--end of components/most_popular-->
+
+</div>
+<!--start of components/pointer/middle-strip-->
+
+<div class="hdividier"></div>
+
+<div class="left_col_pointer_box">
+
+        <div class="left_col_pointer">
+
+        <a href="/national/quizzes/9213196/Daily-trivia-quiz-September-27"><img src="http://static2.stuff.co.nz/1380159572/338/9213338.jpg" alt="Stuff quiz" border="0" class="photoborder" /></a>
+            <h2><a href="/national/quizzes/9213196/Daily-trivia-quiz-September-27">Quiz: Stuff's daily trivia challenge</a></h2>
+        </div>
+
+        <div class="left_col_pointer">
+
+        <a href="http://www.stuff.co.nz/national/9217707/Local-body-elections-live-chat"><img src="http://static2.stuff.co.nz/1380239244/820/9217820.jpg" alt="MID live chat" border="0" class="photoborder" /></a>
+            <h2><a href="http://www.stuff.co.nz/national/9217707/Local-body-elections-live-chat">Live chat: Local elections</a></h2>
+        </div>
+
+        <div class="left_col_pointer">
+
+        <a href="http://www.stuff.co.nz/technology/digital-living/9217436/Bill-Gates-Ctrl-alt-delete-was-a-mistake"><img src="http://static2.stuff.co.nz/1380235443/514/9217514.jpg" alt="Gates: Ctrl-alt-delete 'a mistake'" border="0" class="photoborder" /></a>
+            <h2><a href="http://www.stuff.co.nz/technology/digital-living/9217436/Bill-Gates-Ctrl-alt-delete-was-a-mistake">Gates: Ctrl-alt-delete 'a mistake'</a></h2>
+        </div>
+
+        <div class="left_col_pointer">
+
+        <a href="/life-style/fashion/9217402/Topless-ladies-take-on-fashion"><img src="http://static2.stuff.co.nz/1380235309/503/9217503.jpg" alt="Mid Femen Protesters" border="0" class="photoborder" /></a>
+            <h2><a href="/life-style/fashion/9217402/Topless-ladies-take-on-fashion">Topless ladies take on fashion</a></h2>
+        </div>
+
+        <div class="left_col_pointer">
+
+        <a href="http://www.stuff.co.nz/business/better-business/9215514/A-reluctant-tipple-to-feel-accepted"><img src="http://static2.stuff.co.nz/1380236450/573/9217573.jpg" alt="drinking" border="0" class="photoborder" /></a>
+            <h2><a href="http://www.stuff.co.nz/business/better-business/9215514/A-reluctant-tipple-to-feel-accepted">Reluctant tipple to feel accepted</a></h2>
+        </div>
+
+        <div class="left_col_pointer_right">
+
+        <a href="/life-style/blogs/four-legs-good"><img src="http://static2.stuff.co.nz/1380229525/145/9217145.jpg" alt="Cat view blog midstrip" border="0" class="photoborder" /></a>
+            <h2><a href="/life-style/blogs/four-legs-good">Blog: Cat's eye view of the world</a></h2>
+        </div>
+
+</div><!--end horizonal pointer divider -->
+
+  <div class="hdividier"></div>
+
+<!--end of components/pointer/middle-strip-->
+
+<div class="clearer"></div>
+<div id="left_col">
+
+<!--start of components/ad/sushi_train_home-->
+<!--start of components/ad/standard-->
+
+  <!-- No ad set up for position SUSHITRAINHOME -->
+
+<!--end of components/ad/standard-->
+
+<!--end of components/ad/sushi_train_home-->
+
+              <!--start of components/homepage_bluebox_wide-->
+
+<div class="hbox_wide">
+    <div class="hbox_top_blue">
+        <div class="hbox_top_blue_left"></div>
+        <span class="hbox_top_title">
+            <a href="/national/">National<span class="jeremy_ie6">&raquo;</span></a>
+        </span>
+
+        <div class="hbox_top_blue_right"></div>
+        <!--start of components/section/sponsor_hbox-->
+
+<!--end of components/section/sponsor_hbox-->
+
+        <!--start of components/strap-subsections -->
+
+    <div class="hbox_subsections">
+
+            <a href="/national/crime/">Crime</a>
+
+            <a href="/national/politics/">Politics</a>
+
+            <a href="/national/education/">Education</a>
+
+            <a href="/national/videos/">Videos</a>
+
+    </div>
+
+<!--end of components/strap-subsections -->
+
+    </div><!--end hbox top-->
+    <div class="clearer"></div>
+    <div class="hbox_body">
+        <div class="spacer"><!--IE bug--></div>
+        <div class="hbox_body_left">
+
+          <h3 class="first_headline"><a href="/national/9217707/Local-body-elections-live-chat">Local body elections live chat</a>
+      <!--start of components/stuffnation_icon-->
+
+<!--end of components/stuffnation_icon-->
+
+      <!--start of components/story_attributes-->
+
+<!--end of components/story_attributes-->
+
+      </h3>
+      <!--start of components/strap_star_rating-->
+
+<!--end of components/strap_star_rating-->
+
+          <p class="first_headline_thumb">
+
+          <a href="/national/9217707/Local-body-elections-live-chat"><img class="foursquare_photo" src="http://static2.stuff.co.nz/1380238141/752/9217752.jpg" alt="MALCOLM ALEXANDER: LGNZ chief executive." height="60" width="90"/></a>
+
+          Joining us at midday is LGNZ chief executive Malcolm Alexander to answer your questions on local body elections.</p>
+          <div class="clearer"></div>
+
+            <h3 class="first_headline"><a href="/national/crime/9215546/Notorious-fugitive-on-the-loose">Police hunt fugitive on the loose</a>
+
+      <!--start of components/stuffnation_icon-->
+
+<!--end of components/stuffnation_icon-->
+
+      <!--start of components/story_attributes-->
+
+<!--end of components/story_attributes-->
+
+          </h3>
+          <!--start of components/strap_star_rating-->
+
+<!--end of components/strap_star_rating-->
+
+          <p>Notorious fugitive with a penchant for guns remains on the run in the Hutt Valley.</p>
+
+          <h3 class="other_headline"><a href="/national/9216541/Prostitutes-accosting-teens">Prostitutes target teens</a>
+          <!--start of components/stuffnation_icon-->
+
+<!--end of components/stuffnation_icon-->
+
+          <!--start of components/story_attributes-->
+
+<!--end of components/story_attributes-->
+
+          </h3>
+              <!--start of components/strap_star_rating-->
+
+<!--end of components/strap_star_rating-->
+
+          <h3 class="other_headline"><a href="/national/politics/9215842/Key-urges-action-on-nuclear-disarmament">Disarmament action urged</a>
+          <!--start of components/stuffnation_icon-->
+
+<!--end of components/stuffnation_icon-->
+
+          <!--start of components/story_attributes-->
+
+<!--end of components/story_attributes-->
+
+          </h3>
+              <!--start of components/strap_star_rating-->
+
+<!--end of components/strap_star_rating-->
+
+          </div><!--end box body left-->
+          <div class="hbox_body_right">
+
+            <div class="hbox_body_right_img">
+
+                <a href="/national/health/9215729/Cancer-proves-to-be-a-wake-up-call"><img src="http://static2.stuff.co.nz/1380197395/727/9215727.jpg" alt="Neil Sandford" width="300" height="200"/></a>
+
+            </div><!--end hbox body right image-->
+            <div class="hbox_body_right_caption">
+                <h3><a href="/national/health/9215729/Cancer-proves-to-be-a-wake-up-call">Cancer proves to be wake-up call</a>
+            <!--start of components/stuffnation_icon-->
+
+<!--end of components/stuffnation_icon-->
+
+            <!--start of components/story_attributes-->
+
+<!--end of components/story_attributes-->
+
+            </h3>
+              <!--start of components/strap_star_rating-->
+
+<!--end of components/strap_star_rating-->
+
+                <p>Neil Sandford was 19 when he found out he had cancer, and is grateful he got through it with help from a charity.</p>
+            </div><!--hbox_body_right_caption-->
+
+        </div><!--end box body right-->
+        <div class="clearer"></div>
+        <div class="spacer"><!--IE bug--></div>
+    </div><!--close business day box body-->
+    <div class="hbox_btm"><!--IE bug-->
+        <div class="hbox_btm_left"><!--IE bug--></div>
+        <div class="hbox_btm_right"><!--IE bug--></div>
+    </div><!--end hbox bottom-->
+</div><!--end hbox wide-->
+
+<!--start of components/ad/homepage_strap_ad-->
+
+<div class="clearer"></div>
+<!--end of components/homepage_bluebox_wide-->
+
+              <!-- start of components/video_strap -->
+
+<div class="hbox_wide video_strap">
+    <div class="hbox_top_msl">
+        <div class="hbox_top_msl_left"></div>
+        <span class="hbox_top_title"><a href="/video/">Video</a></span>
+
+        <div class="hbox_top_msl_right"></div>
+
+        <!--start of components/section/sponsor_hbox-->
+
+<!--end of components/section/sponsor_hbox-->
+
+    </div>
+    <div class="clearer"></div>
+    <div class="hbox_body">
+        <div class="spacer"><!--IE bug--></div>
+        <div class="hbox_body_left">
+    <!--start of components/video-->
+
+ <!--Begin Video Template Embed-->
+<script src="http://static2.stuff.co.nz/1378959298/static/jwplayer/jwplayer.js" type="text/javascript" charset="utf-8"></script>
+<div class="clearer"></div>
+<!--Begin Video Embed-->
+<div id="story_top_asset"></div>
+<div id="companionAd"></div> 
+<!--End Video Embed-->
+
+ <!--End Video Template Embed-->
+<!--end of components/video-->
+
+            <h3 class="first_headline"><a href="/world/asia/9217290/A-closer-look-at-Pakistans-new-quake-island">A closer look at Pakistan's earthquake island</a>
+            <!--start of components/stuffnation_icon-->
+
+<!--end of components/stuffnation_icon-->
+
+            <!--start of components/story_attributes-->
+
+<!--end of components/story_attributes-->
+
+            </h3>
+            <!--start of components/strap_star_rating-->
+
+<!--end of components/strap_star_rating-->
+
+            <p>After a 7.7 magnitude earthquake hit a remote province of Pakistan, a new island emerges in the Arabian Sea, but this isn't the first island created by an earthquake.</p>
+        </div><!--end box body left-->
+        <div class="hbox_body_right">
+
+            <div class="hbox_body_right_img">
+                <a href="/sport/americas-cup/9211193/Oracle-complete-Americas-Cup-comeback">
+                    <img src="http://static2.stuff.co.nz/1380163327/622/9213622.jpg" alt="Oracle win" height="60" width="90" />
+                </a>
+            </div>
+
+            <div class="hbox_body_right_caption">
+                <h3><a href="/sport/americas-cup/9211193/Oracle-complete-Americas-Cup-comeback">Shed 10 celebrations reach their end</a>
+                <!--start of components/stuffnation_icon-->
+
+<!--end of components/stuffnation_icon-->
+
+                <!--start of components/story_attributes-->
+
+<!--end of components/story_attributes-->
+
+                </h3>
+                <!--start of components/strap_star_rating-->
+
+<!--end of components/strap_star_rating-->
+
+            </div><!--hbox_body_right_caption-->
+
+            <div class="clearer"></div>
+
+            <div class="hbox_body_right_img">
+                <a href="/sport/americas-cup/9211836/Nerves-tears-polite-applause-as-Oracle-wins">
+                    <img src="http://static2.stuff.co.nz/1380145207/921/9211921.jpg" alt="Shed 10 AMerica's CUp" height="60" width="90" />
+                </a>
+            </div>
+
+            <div class="hbox_body_right_caption">
+                <h3><a href="/sport/americas-cup/9211836/Nerves-tears-polite-applause-as-Oracle-wins">RNZYS proud of Team NZ</a>
+                <!--start of components/stuffnation_icon-->
+
+<!--end of components/stuffnation_icon-->
+
+                <!--start of components/story_attributes-->
+
+<!--end of components/story_attributes-->
+
+                </h3>
+                <!--start of components/strap_star_rating-->
+
+<!--end of components/strap_star_rating-->
+
+            </div><!--hbox_body_right_caption-->
+
+            <div class="clearer"></div>
+
+            <div class="hbox_body_right_img">
+                <a href="/entertainment/film/9212748/Aaron-Paul-has-a-Need-for-Speed">
+                    <img src="http://static2.stuff.co.nz/1380152952/751/9212751.jpg" alt="Aaron Paul" height="60" width="90" />
+                </a>
+            </div>
+
+            <div class="hbox_body_right_caption">
+                <h3><a href="/entertainment/film/9212748/Aaron-Paul-has-a-Need-for-Speed">Trailer: Need For Speed</a>
+                <!--start of components/stuffnation_icon-->
+
+<!--end of components/stuffnation_icon-->
+
+                <!--start of components/story_attributes-->
+
+<!--end of components/story_attributes-->
+
+                </h3>
+                <!--start of components/strap_star_rating-->
+
+<!--end of components/strap_star_rating-->
+
+            </div><!--hbox_body_right_caption-->
+
+            <div class="clearer"></div>
+
+            <div class="hbox_body_right_img">
+                <a href="/world/americas/9211294/New-video-shows-mass-killer">
+                    <img src="http://static2.stuff.co.nz/1380153296/778/9212778.jpg" alt="Aaron Alexis" height="60" width="90" />
+                </a>
+            </div>
+
+            <div class="hbox_body_right_caption">
+                <h3><a href="/world/americas/9211294/New-video-shows-mass-killer">Navy shooter thought he was controlled</a>
+                <!--start of components/stuffnation_icon-->
+
+<!--end of components/stuffnation_icon-->
+
+                <!--start of components/story_attributes-->
+
+<!--end of components/story_attributes-->
+
+                </h3>
+                <!--start of components/strap_star_rating-->
+
+<!--end of components/strap_star_rating-->
+
+            </div><!--hbox_body_right_caption-->
+
+        </div><!--end box body right-->
+        <div class="clearer"></div>
+        <div class="spacer"><!--IE bug--></div>
+        <div class="hbox_btm"><!--IE bug-->
+            <div class="hbox_btm_left"><!--IE bug--></div>
+            <div class="hbox_btm_right"><!--IE bug--></div>
+        </div>
+    </div>
+</div>
+<div class="clearer"></div>
+
+<!-- end of components/video_strap -->
+
+              <!--start of components/homepage_bluebox_wide-->
+
+<div class="hbox_wide">
+    <div class="hbox_top_mblue">
+        <div class="hbox_top_mblue_left"></div>
+        <span class="hbox_top_title">
+            <a href="/world/">World<span class="jeremy_ie6">&raquo;</span></a>
+        </span>
+
+        <div class="hbox_top_mblue_right"></div>
+        <!--start of components/section/sponsor_hbox-->
+
+<!--end of components/section/sponsor_hbox-->
+
+        <!--start of components/strap-subsections -->
+
+    <div class="hbox_subsections">
+
+            <a href="/world/australia/">Australia</a>
+
+            <a href="/world/americas/">Americas</a>
+
+            <a href="/world/europe/">Europe</a>
+
+            <a href="/world/middle-east/">Middle&nbsp;East</a>
+
+            <a href="/world/asia/">Asia</a>
+
+            <a href="/world/africa/">Africa</a>
+
+    </div>
+
+<!--end of components/strap-subsections -->
+
+    </div><!--end hbox top-->
+    <div class="clearer"></div>
+    <div class="hbox_body">
+        <div class="spacer"><!--IE bug--></div>
+        <div class="hbox_body_left">
+
+          <h3 class="first_headline"><a href="/world/europe/9216803/Russian-jail-for-Greenpeace-activists">Russian jail for activists</a>
+      <!--start of components/stuffnation_icon-->
+
+<!--end of components/stuffnation_icon-->
+
+      <!--start of components/story_attributes-->
+
+<!--end of components/story_attributes-->
+
+      </h3>
+      <!--start of components/strap_star_rating-->
+
+<!--end of components/strap_star_rating-->
+
+          <p class="first_headline_thumb">
+
+          <a href="/world/europe/9216803/Russian-jail-for-Greenpeace-activists"><img class="foursquare_photo" src="http://static2.stuff.co.nz/1380066003/068/9207068.jpg" alt="Greenpeace Arctic arrest" height="60" width="90"/></a>
+
+          Russia jails Greenpeace activists, including Kiwi, for two months after protest at Russian Arctic oil platform.</p>
+          <div class="clearer"></div>
+
+            <h3 class="first_headline"><a href="/world/asia/9217415/Celebrities-son-jailed-for-gang-rape">Celebrities' son jailed for rape </a>
+
+      <!--start of components/stuffnation_icon-->
+
+<!--end of components/stuffnation_icon-->
+
+      <!--start of components/story_attributes-->
+
+<!--end of components/story_attributes-->
+
+          </h3>
+          <!--start of components/strap_star_rating-->
+
+<!--end of components/strap_star_rating-->
+
+          <p>Court jails the teenage son of two celebrity army singers for 10 years for gang-raping a woman.</p>
+
+          <h3 class="other_headline"><a href="/world/europe/9216768/Berlusconi-threat-could-bring-down-govt">Threat could bring down govt</a>
+          <!--start of components/stuffnation_icon-->
+
+<!--end of components/stuffnation_icon-->
+
+          <!--start of components/story_attributes-->
+
+<!--end of components/story_attributes-->
+
+          </h3>
+              <!--start of components/strap_star_rating-->
+
+<!--end of components/strap_star_rating-->
+
+          <h3 class="other_headline"><a href="/world/africa/9216602/Interpol-issues-White-Widow-alert">Interpol's 'White Widow' alert</a>
+          <!--start of components/stuffnation_icon-->
+
+<!--end of components/stuffnation_icon-->
+
+          <!--start of components/story_attributes-->
+
+<!--end of components/story_attributes-->
+
+          </h3>
+              <!--start of components/strap_star_rating-->
+
+<!--end of components/strap_star_rating-->
+
+          </div><!--end box body left-->
+          <div class="hbox_body_right">
+
+            <div class="hbox_body_right_img">
+
+                <a href="/world/americas/9217019/Afro-ban-brings-girl-to-tears"><img src="http://static2.stuff.co.nz/1380228976/063/9217063.jpg" alt="TIANA PARKER: "I think that they should let me have my dreads."" width="300" height="200"/></a>
+
+            </div><!--end hbox body right image-->
+            <div class="hbox_body_right_caption">
+                <h3><a href="/world/americas/9217019/Afro-ban-brings-girl-to-tears">Afro ban brings girl to tears</a>
+            <!--start of components/stuffnation_icon-->
+
+<!--end of components/stuffnation_icon-->
+
+            <!--start of components/story_attributes-->
+
+<!--end of components/story_attributes-->
+
+            </h3>
+              <!--start of components/strap_star_rating-->
+
+<!--end of components/strap_star_rating-->
+
+                <p>"Why are you so sad?" a TV reporter asked the little girl with a bright pink bow in her hair.</p>
+            </div><!--hbox_body_right_caption-->
+
+        </div><!--end box body right-->
+        <div class="clearer"></div>
+        <div class="spacer"><!--IE bug--></div>
+    </div><!--close business day box body-->
+    <div class="hbox_btm"><!--IE bug-->
+        <div class="hbox_btm_left"><!--IE bug--></div>
+        <div class="hbox_btm_right"><!--IE bug--></div>
+    </div><!--end hbox bottom-->
+</div><!--end hbox wide-->
+
+<!--start of components/ad/homepage_strap_ad-->
+
+<div class="clearer"></div>
+<!--end of components/homepage_bluebox_wide-->
+
+              <!--start of components/homepage_bluebox_wide-->
+
+<div class="hbox_wide">
+    <div class="hbox_top_lblue">
+        <div class="hbox_top_lblue_left"></div>
+        <span class="hbox_top_title">
+            <a href="/business/">Business<span class="jeremy_ie6">&raquo;</span></a>
+        </span>
+
+        <div class="hbox_top_lblue_right"></div>
+        <!--start of components/section/sponsor_hbox-->
+
+<!--end of components/section/sponsor_hbox-->
+
+        <!--start of components/strap-subsections -->
+
+    <div class="hbox_subsections">
+
+            <a href="/business/industries/">Industries</a>
+
+            <a href="/business/small-business/">Small&nbsp;Business</a>
+
+            <a href="/business/farming/">Farming</a>
+
+    </div>
+
+<!--end of components/strap-subsections -->
+
+    </div><!--end hbox top-->
+    <div class="clearer"></div>
+    <div class="hbox_body">
+        <div class="spacer"><!--IE bug--></div>
+        <div class="hbox_body_left">
+
+          <h3 class="first_headline"><a href="/business/industries/financial-results/9217500/Pumpkin-Patch-returns-to-profit">Pumpkin Patch returns to profit</a>
+      <!--start of components/stuffnation_icon-->
+
+<!--end of components/stuffnation_icon-->
+
+      <!--start of components/story_attributes-->
+
+<!--end of components/story_attributes-->
+
+      </h3>
+      <!--start of components/strap_star_rating-->
+
+<!--end of components/strap_star_rating-->
+
+          <p class="first_headline_thumb">
+
+          <a href="/business/industries/financial-results/9217500/Pumpkin-Patch-returns-to-profit"><img class="foursquare_photo" src="http://static2.stuff.co.nz/1380236627/598/9217598.jpg" alt="Di Humphries" height="60" width="90"/></a>
+
+          Happier times but the childrenswear company says there is a lot of work still to be done.</p>
+          <div class="clearer"></div>
+
+            <h3 class="first_headline"><a href="/business/industries/9217786/Economy-on-upward-swing-BusinessNZ">Economy on upward swing</a>
+
+      <!--start of components/stuffnation_icon-->
+
+<!--end of components/stuffnation_icon-->
+
+      <!--start of components/story_attributes-->
+
+<!--end of components/story_attributes-->
+
+          </h3>
+          <!--start of components/strap_star_rating-->
+
+<!--end of components/strap_star_rating-->
+
+          <p>BusinessNZ says things are getting better but warns of high household debt and rising inflation.</p>
+
+          <h3 class="other_headline"><a href="/business/industries/9217765/China-wage-growth-good-for-NZ">China wage growth good for NZ</a>
+          <!--start of components/stuffnation_icon-->
+
+<!--end of components/stuffnation_icon-->
+
+          <!--start of components/story_attributes-->
+
+<!--end of components/story_attributes-->
+
+          </h3>
+              <!--start of components/strap_star_rating-->
+
+<!--end of components/strap_star_rating-->
+
+          <h3 class="other_headline"><a href="/business/opinion-analysis/9216794/Greens-need-to-talk-business-sense">Green's need to talk business sense</a>
+          <!--start of components/stuffnation_icon-->
+
+<!--end of components/stuffnation_icon-->
+
+          <!--start of components/story_attributes-->
+
+<!--end of components/story_attributes-->
+
+          </h3>
+              <!--start of components/strap_star_rating-->
+
+<!--end of components/strap_star_rating-->
+
+          </div><!--end box body left-->
+          <div class="hbox_body_right">
+
+            <div class="hbox_body_right_img">
+
+                <a href="/business/industries/9217297/Businesses-warned-of-phishing-attack"><img src="http://static2.stuff.co.nz/1380238086/746/9217746.jpg" alt="Online fraud" width="300" height="200"/></a>
+
+            </div><!--end hbox body right image-->
+            <div class="hbox_body_right_caption">
+                <h3><a href="/business/industries/9217297/Businesses-warned-of-phishing-attack">Customer credit cards the target</a>
+            <!--start of components/stuffnation_icon-->
+
+<!--end of components/stuffnation_icon-->
+
+            <!--start of components/story_attributes-->
+
+<!--end of components/story_attributes-->
+
+            </h3>
+              <!--start of components/strap_star_rating-->
+
+<!--end of components/strap_star_rating-->
+
+                <p>Scammers targeting a retail chain probably wanted to infiltrate eftpos and get customer credit card numbers.</p>
+            </div><!--hbox_body_right_caption-->
+
+        </div><!--end box body right-->
+        <div class="clearer"></div>
+        <div class="spacer"><!--IE bug--></div>
+    </div><!--close business day box body-->
+    <div class="hbox_btm"><!--IE bug-->
+        <div class="hbox_btm_left"><!--IE bug--></div>
+        <div class="hbox_btm_right"><!--IE bug--></div>
+    </div><!--end hbox bottom-->
+</div><!--end hbox wide-->
+
+<!--start of components/ad/homepage_strap_ad-->
+
+<!-- Begin Ad Block -->
+
+<div class="widestrip">
+
+<div class="hidden_ad" id="adSTUFFBUSINESSWIDE">
+  <!--start of components/ad/feedback_link-->
+
+<span class="ad_feedback_wide" id="feedback_STUFFBUSINESSWIDE">
+  <a class="adfeedback" target="_blank" href="/about-stuff/advertising-feedback/?pos=STUFFBUSINESSWIDE&adsize=300x250&area=s.stuff">
+
+  Ad Feedback</a>
+</span>
+<!--end of components/ad/feedback_link-->
+
+</div> 
+  <!--start of components/ad/push-->
+
+<script language="javascript">
+<!--
+
+PushDartJSAd('STUFFBUSINESSWIDE', null, 620, 45, '620X45');
+
+//-->
+</script>
+<!--end of components/ad/push-->
+
+</div>
+<div class="narrowstrip">
+
+<div class="narrowstrip hidden_ad" id="adSTUFFBUSINESSNARROW">
+  <!--start of components/ad/feedback_link-->
+
+<span class="ad_feedback_narrow" id="feedback_STUFFBUSINESSNARROW">
+  <a class="adfeedback" target="_blank" href="/about-stuff/advertising-feedback/?pos=STUFFBUSINESSNARROW&adsize=300x250&area=s.stuff">
+
+  Ad Feedback</a>
+</span>
+<!--end of components/ad/feedback_link-->
+
+</div>
+  <!--start of components/ad/push-->
+
+<script language="javascript">
+<!--
+
+PushDartJSAd('STUFFBUSINESSNARROW', null, 300, 45, '300X45');
+
+//-->
+</script>
+<!--end of components/ad/push-->
+
+</div>
+
+<!-- End Ad Block -->
+<!--end of components/ad/homepage_strap_ad-->
+
+<div class="clearer"></div>
+<!--end of components/homepage_bluebox_wide-->
+
+              <!--start of components/homepage_bluebox_wide-->
+
+<div class="hbox_wide">
+    <div class="hbox_top_lblue">
+        <div class="hbox_top_lblue_left"></div>
+        <span class="hbox_top_title">
+            <a href="/business/money/">Money<span class="jeremy_ie6">&raquo;</span></a>
+        </span>
+
+        <div class="hbox_top_lblue_right"></div>
+        <!--start of components/section/sponsor_hbox-->
+
+<!--end of components/section/sponsor_hbox-->
+
+        <!--start of components/strap-subsections -->
+
+<!--end of components/strap-subsections -->
+
+    </div><!--end hbox top-->
+    <div class="clearer"></div>
+    <div class="hbox_body">
+        <div class="spacer"><!--IE bug--></div>
+        <div class="hbox_body_left">
+
+          <h3 class="first_headline"><a href="/business/money/9214280/Financial-adviser-fined-over-6m-loss">Adviser fined over $6m loss</a>
+      <!--start of components/stuffnation_icon-->
+
+<!--end of components/stuffnation_icon-->
+
+      <!--start of components/story_attributes-->
+
+<!--end of components/story_attributes-->
+
+      </h3>
+      <!--start of components/strap_star_rating-->
+
+<!--end of components/strap_star_rating-->
+
+          <p class="first_headline_thumb">
+
+          <a href="/business/money/9214280/Financial-adviser-fined-over-6m-loss"><img class="foursquare_photo" src="http://static2.stuff.co.nz/1379457984/854/9179854.jpg" alt="gavel" height="60" width="90"/></a>
+
+          Rodney Bourke-Shaw censured and fined $4000 after investors lost nearly $6m in Ross Asset Management.
+</p>
+          <div class="clearer"></div>
+
+            <h3 class="first_headline"><a href="/business/money/9212680/Mortgage-lender-under-fire">Mortgage lender under fire</a>
+
+      <!--start of components/stuffnation_icon-->
+
+<!--end of components/stuffnation_icon-->
+
+      <!--start of components/story_attributes-->
+
+<!--end of components/story_attributes-->
+
+          </h3>
+          <!--start of components/strap_star_rating-->
+
+<!--end of components/strap_star_rating-->
+
+          <p>A third-tier mortgage lender admits charging unfair fees and trying to contract out of its obligations.</p>
+
+          <h3 class="other_headline"><a href="/business/money/9212367/Home-detention-for-Rockforte-director">Rockforte director remorseful</a>
+          <!--start of components/stuffnation_icon-->
+
+<!--end of components/stuffnation_icon-->
+
+          <!--start of components/story_attributes-->
+
+<!--end of components/story_attributes-->
+
+          </h3>
+              <!--start of components/strap_star_rating-->
+
+<!--end of components/strap_star_rating-->
+
+          <h3 class="other_headline"><a href="/business/money/9208837/English-continues-ASB-attack">English continues ASB attack</a>
+          <!--start of components/stuffnation_icon-->
+
+<!--end of components/stuffnation_icon-->
+
+          <!--start of components/story_attributes-->
+
+<!--end of components/story_attributes-->
+
+          </h3>
+              <!--start of components/strap_star_rating-->
+
+<!--end of components/strap_star_rating-->
+
+          </div><!--end box body left-->
+          <div class="hbox_body_right">
+
+            <div class="hbox_body_right_img">
+
+                <a href="/business/money/9211684/Agents-work-on-second-tier-solutions"><img src="http://static2.stuff.co.nz/1380146507/047/9212047.jpg" alt="mortgage" width="300" height="200"/></a>
+
+            </div><!--end hbox body right image-->
+            <div class="hbox_body_right_caption">
+                <h3><a href="/business/money/9211684/Agents-work-on-second-tier-solutions">Estate agents help with loans</a>
+            <!--start of components/stuffnation_icon-->
+
+<!--end of components/stuffnation_icon-->
+
+            <!--start of components/story_attributes-->
+
+<!--end of components/story_attributes-->
+
+            </h3>
+              <!--start of components/strap_star_rating-->
+
+<!--end of components/strap_star_rating-->
+
+                <p>There's still hope for borrowers with small deposits - second-tier lenders with rates as low as 5.59 per cent.</p>
+            </div><!--hbox_body_right_caption-->
+
+        </div><!--end box body right-->
+        <div class="clearer"></div>
+        <div class="spacer"><!--IE bug--></div>
+    </div><!--close business day box body-->
+    <div class="hbox_btm"><!--IE bug-->
+        <div class="hbox_btm_left"><!--IE bug--></div>
+        <div class="hbox_btm_right"><!--IE bug--></div>
+    </div><!--end hbox bottom-->
+</div><!--end hbox wide-->
+
+<!--start of components/ad/homepage_strap_ad-->
+
+<div class="clearer"></div>
+<!--end of components/homepage_bluebox_wide-->
+
+              <!--start of components/homepage_bluebox_wide-->
+
+<div class="hbox_wide">
+    <div class="hbox_top_green">
+        <div class="hbox_top_green_left"></div>
+        <span class="hbox_top_title">
+            <a href="/technology/">Technology<span class="jeremy_ie6">&raquo;</span></a>
+        </span>
+
+        <div class="hbox_top_green_right"></div>
+        <!--start of components/section/sponsor_hbox-->
+
+<!--end of components/section/sponsor_hbox-->
+
+        <!--start of components/strap-subsections -->
+
+    <div class="hbox_subsections">
+
+            <a href="/technology/digital-living/">Digital&nbsp;Living</a>
+
+            <a href="/technology/gadgets/">Gadgets</a>
+
+            <a href="/technology/games/">Games</a>
+
+    </div>
+
+<!--end of components/strap-subsections -->
+
+    </div><!--end hbox top-->
+    <div class="clearer"></div>
+    <div class="hbox_body">
+        <div class="spacer"><!--IE bug--></div>
+        <div class="hbox_body_left">
+
+          <h3 class="first_headline"><a href="/technology/digital-living/9217763/The-virtual-Lady-Gaga">The virtual Lady Gaga</a>
+      <!--start of components/stuffnation_icon-->
+
+<!--end of components/stuffnation_icon-->
+
+      <!--start of components/story_attributes-->
+
+<!--end of components/story_attributes-->
+
+      </h3>
+      <!--start of components/strap_star_rating-->
+
+<!--end of components/strap_star_rating-->
+
+          <p class="first_headline_thumb">
+
+          <a href="/technology/digital-living/9217763/The-virtual-Lady-Gaga"><img class="foursquare_photo" src="http://static2.stuff.co.nz/1380175433/320/9214320.jpg" alt="hatsune miku" height="60" width="90"/></a>
+
+          In Japan, anime has gone a step further and created a virtual pop star.</p>
+          <div class="clearer"></div>
+
+            <h3 class="first_headline"><a href="/technology/games/9217398/EA-says-no-NCAA-Football-game-next-year">EA's NCAA Football on hold</a>
+
+      <!--start of components/stuffnation_icon-->
+
+<!--end of components/stuffnation_icon-->
+
+      <!--start of components/story_attributes-->
+
+<!--end of components/story_attributes-->
+
+          </h3>
+          <!--start of components/strap_star_rating-->
+
+<!--end of components/strap_star_rating-->
+
+          <p>Electronic Arts is evaluating the fate of its college football video game series.</p>
+
+          <h3 class="other_headline"><a href="/technology/digital-living/9217436/Bill-Gates-Ctrl-alt-delete-was-a-mistake">Gates: Ctrl-alt-delete 'a mistake'</a>
+          <!--start of components/stuffnation_icon-->
+
+<!--end of components/stuffnation_icon-->
+
+          <!--start of components/story_attributes-->
+
+<!--end of components/story_attributes-->
+
+          </h3>
+              <!--start of components/strap_star_rating-->
+
+<!--end of components/strap_star_rating-->
+
+          <h3 class="other_headline"><a href="/technology/digital-living/9217654/Lawsuit-over-Google-email-ads">Lawsuit over Google email ads</a>
+          <!--start of components/stuffnation_icon-->
+
+<!--end of components/stuffnation_icon-->
+
+          <!--start of components/story_attributes-->
+
+<!--end of components/story_attributes-->
+
+          </h3>
+              <!--start of components/strap_star_rating-->
+
+<!--end of components/strap_star_rating-->
+
+          </div><!--end box body left-->
+          <div class="hbox_body_right">
+
+            <div class="hbox_body_right_img">
+
+                <a href="/technology/digital-living/9217317/Google-introduces-new-Hummingbird-search"><img src="http://static2.stuff.co.nz/1380232502/336/9217336.jpg" alt="Google Hummingbird " width="300" height="200"/></a>
+
+            </div><!--end hbox body right image-->
+            <div class="hbox_body_right_caption">
+                <h3><a href="/technology/digital-living/9217317/Google-introduces-new-Hummingbird-search">Hummingbird search algorithm</a>
+            <!--start of components/stuffnation_icon-->
+
+<!--end of components/stuffnation_icon-->
+
+            <!--start of components/story_attributes-->
+
+<!--end of components/story_attributes-->
+
+            </h3>
+              <!--start of components/strap_star_rating-->
+
+<!--end of components/strap_star_rating-->
+
+                <p>New search algorithm introduced in the same garage where Google was founded 15 years ago. </p>
+            </div><!--hbox_body_right_caption-->
+
+        </div><!--end box body right-->
+        <div class="clearer"></div>
+        <div class="spacer"><!--IE bug--></div>
+    </div><!--close business day box body-->
+    <div class="hbox_btm"><!--IE bug-->
+        <div class="hbox_btm_left"><!--IE bug--></div>
+        <div class="hbox_btm_right"><!--IE bug--></div>
+    </div><!--end hbox bottom-->
+</div><!--end hbox wide-->
+
+<!--start of components/ad/homepage_strap_ad-->
+
+<div class="clearer"></div>
+<!--end of components/homepage_bluebox_wide-->
+
+              <!--start of components/homepage_bluebox_wide-->
+
+<div class="hbox_wide">
+    <div class="hbox_top_orange">
+        <div class="hbox_top_orange_left"></div>
+        <span class="hbox_top_title">
+            <a href="/life-style/">Life & Style<span class="jeremy_ie6">&raquo;</span></a>
+        </span>
+
+        <div class="hbox_top_orange_right"></div>
+        <!--start of components/section/sponsor_hbox-->
+
+<!--end of components/section/sponsor_hbox-->
+
+        <!--start of components/strap-subsections -->
+
+    <div class="hbox_subsections">
+
+            <a href="/life-style/love-sex/">Love&nbsp;&&nbsp;Sex</a>
+
+            <a href="/life-style/beauty/">Beauty&nbsp;</a>
+
+            <a href="/life-style/fashion/">Fashion</a>
+
+    </div>
+
+<!--end of components/strap-subsections -->
+
+    </div><!--end hbox top-->
+    <div class="clearer"></div>
+    <div class="hbox_body">
+        <div class="spacer"><!--IE bug--></div>
+        <div class="hbox_body_left">
+
+          <h3 class="first_headline"><a href="/life-style/fashion/9217402/Topless-ladies-take-on-fashion">Topless ladies take on fashion</a>
+      <!--start of components/stuffnation_icon-->
+
+<!--end of components/stuffnation_icon-->
+
+      <!--start of components/story_attributes-->
+
+    <img src="http://static2.stuff.co.nz/1378959513/static/images/icon_gallery.gif" style="float:none; margin-left:5px;" alt="" >
+
+<!--end of components/story_attributes-->
+
+      </h3>
+      <!--start of components/strap_star_rating-->
+
+<!--end of components/strap_star_rating-->
+
+          <p class="first_headline_thumb">
+
+          <a href="/life-style/fashion/9217402/Topless-ladies-take-on-fashion"><img class="foursquare_photo" src="http://static2.stuff.co.nz/1380234318/424/9217424.jpg" alt="ricci protest" height="60" width="90"/></a>
+
+          The show must go on, and Nina Ricci's catwalk did when stormed by two half-naked protesters. </p>
+          <div class="clearer"></div>
+
+            <h3 class="first_headline"><a href="/life-style/weddings/weddings-of-the-week/9212573/Stuffs-wedding-of-the-week">Introducing Shelley and Blair</a>
+
+      <!--start of components/stuffnation_icon-->
+
+<!--end of components/stuffnation_icon-->
+
+      <!--start of components/story_attributes-->
+
+    <img src="http://static2.stuff.co.nz/1378959513/static/images/icon_gallery.gif" style="float:none; margin-left:5px;" alt="" >
+
+<!--end of components/story_attributes-->
+
+          </h3>
+          <!--start of components/strap_star_rating-->
+
+<!--end of components/strap_star_rating-->
+
+          <p>They met at work, were engaged in a secret garden and married on a lucky weather day. </p>
+
+          <h3 class="other_headline"><a href="/life-style/beauty/hair/9213986/Turning-40-a-short-argument-for-long-hair">Is 40 too old for long hair?</a>
+          <!--start of components/stuffnation_icon-->
+
+<!--end of components/stuffnation_icon-->
+
+          <!--start of components/story_attributes-->
+
+<!--end of components/story_attributes-->
+
+          </h3>
+              <!--start of components/strap_star_rating-->
+
+<!--end of components/strap_star_rating-->
+
+          <h3 class="other_headline"><a href="/life-style/beauty/product-reviews/9213656/Beauty-product-of-the-week-L-Oreal-Paris-NutriLift-Gold-Anti-Ageing-Serum-Foundation">Beauty product of the week</a>
+          <!--start of components/stuffnation_icon-->
+
+<!--end of components/stuffnation_icon-->
+
+          <!--start of components/story_attributes-->
+
+<!--end of components/story_attributes-->
+
+          </h3>
+              <!--start of components/strap_star_rating-->
+
+<!--end of components/strap_star_rating-->
+
+          </div><!--end box body left-->
+          <div class="hbox_body_right">
+
+            <div class="hbox_body_right_img">
+
+                <a href="/life-style/fashion/9214646/Best-worst-dressed-Sept-27"><img src="http://static2.stuff.co.nz/1380228606/004/9217004.jpg" alt="best worst" width="300" height="200"/></a>
+
+            </div><!--end hbox body right image-->
+            <div class="hbox_body_right_caption">
+                <h3><a href="/life-style/fashion/9214646/Best-worst-dressed-Sept-27">The week's best & worst dressed</a>
+            <!--start of components/stuffnation_icon-->
+
+<!--end of components/stuffnation_icon-->
+
+            <!--start of components/story_attributes-->
+
+    <img src="http://static2.stuff.co.nz/1378959513/static/images/icon_gallery.gif" style="float:none; margin-left:5px;" alt="" >
+
+<!--end of components/story_attributes-->
+
+            </h3>
+              <!--start of components/strap_star_rating-->
+
+<!--end of components/strap_star_rating-->
+
+                <p>There's timeless, flattering and just plain stunning. Then there's a mesh disaster.</p>
+            </div><!--hbox_body_right_caption-->
+
+        </div><!--end box body right-->
+        <div class="clearer"></div>
+        <div class="spacer"><!--IE bug--></div>
+    </div><!--close business day box body-->
+    <div class="hbox_btm"><!--IE bug-->
+        <div class="hbox_btm_left"><!--IE bug--></div>
+        <div class="hbox_btm_right"><!--IE bug--></div>
+    </div><!--end hbox bottom-->
+</div><!--end hbox wide-->
+
+<!--start of components/ad/homepage_strap_ad-->
+
+<div class="clearer"></div>
+<!--end of components/homepage_bluebox_wide-->
+
+<!--start of components/bluebox_narrow-->
+<!-- bluebox_narrow -->
+
+    <div class="hbox_narrow">
+
+    <div class="hbox_top_dd">
+        <div class="hbox_top_dd_left"></div>
+        <span class="hbox_top_title"><a href="/life-style/food-wine/">Food & Wine</a></span>
+        <div class="hbox_top_dd_right"></div>
+
+            <!--start of components/strap-subsections -->
+
+    <div class="hbox_subsections">
+
+            <a href="/life-style/food-wine/recipes/">Recipes</a>
+
+    </div>
+
+<!--end of components/strap-subsections -->
+
+    </div>
+    <div class="hbox_body_left">
+
+      <h3 class="first_headline"><a href="/life-style/food-wine/food-news/9212285/Artworks-recreated-with-breakfast-foods">Breakfast becomes art</a>
+      <!--start of components/stuffnation_icon-->
+
+<!--end of components/stuffnation_icon-->
+
+      <!--start of components/story_attributes-->
+
+    <img src="http://static2.stuff.co.nz/1378959298/static/images/icon_gallery.gif" style="float:none; margin-left:5px;" alt="" >
+
+<!--end of components/story_attributes-->
+
+      </h3>
+
+          <p class="first_headline_thumb">
+
+          <a class="foursquare_photo" href="/life-style/food-wine/food-news/9212285/Artworks-recreated-with-breakfast-foods"><img src="http://static2.stuff.co.nz/1380150170/463/9212463.jpg" alt="art food"  height="60" width="90"/></a>
+
+          As children, we were taught to not play with our food. Thank goodness Ida Skivenes didn't listen to her parents.</p>
+          <div class="clearer"></div>
+
+          <h3 class="first_headline"><a href="/life-style/food-wine/recipes/9212732/Healthy-puddings-with-chia">Healthy puddings with chia</a>
+          <!--start of components/stuffnation_icon-->
+
+<!--end of components/stuffnation_icon-->
+
+          <!--start of components/story_attributes-->
+
+<!--end of components/story_attributes-->
+
+          </h3>
+          <p>Celebrity chef Pete Evans shares some recipes for healthy desserts using chia seeds. </p>
+
+          <h3 class="other_headline"><a href="/life-style/food-wine/food-news/9208848/What-to-know-about-paleo">What to know about paleo</a>
+          <!--start of components/stuffnation_icon-->
+
+<!--end of components/stuffnation_icon-->
+
+          <!--start of components/story_attributes-->
+
+<!--end of components/story_attributes-->
+
+          </h3>
+
+          <h3 class="other_headline"><a href="/life-style/food-wine/food-news/9206534/NZs-finest-fish-chips">NZ's finest fish & chips</a>
+          <!--start of components/stuffnation_icon-->
+
+<!--end of components/stuffnation_icon-->
+
+          <!--start of components/story_attributes-->
+
+<!--end of components/story_attributes-->
+
+          </h3>
+
+      </div>
+    <div class="hbox_body_right"></div>
+    <div class="hbox_btm">
+        <div class="hbox_btm_left"></div>
+        <div class="hbox_btm_right"></div>
+    </div><!--end hbox bottom-->
+</div><!--end narrow dd box-->
+
+<!--start of components/narrow_strap_ad-->
+
+<!--end of components/narrow_strap_ad-->
+
+<!--end of components/bluebox_narrow-->
+
+<!--start of components/bluebox_narrow-->
+<!-- bluebox_narrow -->
+
+  <div class="hbox_narrow hbox_narrow_even">
+
+    <div class="hbox_top_lyellow">
+        <div class="hbox_top_lyellow_left"></div>
+        <span class="hbox_top_title"><a href="/motoring/">Motoring</a></span>
+        <div class="hbox_top_lyellow_right"></div>
+
+            <!--start of components/strap-subsections -->
+
+<!--end of components/strap-subsections -->
+
+    </div>
+    <div class="hbox_body_left">
+
+      <h3 class="first_headline"><a href="/motoring/photos/9213577/New-muscle-car-from-melting-pot-of-old-models">A new - old - muscle car</a>
+      <!--start of components/stuffnation_icon-->
+
+<!--end of components/stuffnation_icon-->
+
+      <!--start of components/story_attributes-->
+
+    <img src="http://static2.stuff.co.nz/1378959298/static/images/icon_gallery.gif" style="float:none; margin-left:5px;" alt="" >
+
+<!--end of components/story_attributes-->
+
+      </h3>
+
+          <p class="first_headline_thumb">
+
+          <a class="foursquare_photo" href="/motoring/photos/9213577/New-muscle-car-from-melting-pot-of-old-models"><img src="http://static2.stuff.co.nz/1380162793/585/9213585.jpg" alt="Equus Bass 770."  height="60" width="90"/></a>
+
+          A new muscle car concept looks like it's been poured out of a melting pot of models from the 1960s and 70s.</p>
+          <div class="clearer"></div>
+
+          <h3 class="first_headline"><a href="/motoring/road-tests/9203312/The-car-that-watches-over-you">A top safe drive</a>
+          <!--start of components/stuffnation_icon-->
+
+<!--end of components/stuffnation_icon-->
+
+          <!--start of components/story_attributes-->
+
+    <img src="http://static2.stuff.co.nz/1378959298/static/images/icon_gallery.gif" style="float:none; margin-left:5px;" alt="" >
+
+<!--end of components/story_attributes-->
+
+          </h3>
+          <p>Honda's ninth-generation Accord is remarkable for the level of safety technology it carries.</p>
+
+          <h3 class="other_headline"><a href="/motoring/bikes/9206590/A-Honda-bike-with-retro-chic">A ride with retro chic</a>
+          <!--start of components/stuffnation_icon-->
+
+<!--end of components/stuffnation_icon-->
+
+          <!--start of components/story_attributes-->
+
+<!--end of components/story_attributes-->
+
+          </h3>
+
+          <h3 class="other_headline"><a href="/motoring/bikes/9175282/Just-a-man-and-his-beloved-Honda">Just a man and his bike</a>
+          <!--start of components/stuffnation_icon-->
+
+<!--end of components/stuffnation_icon-->
+
+          <!--start of components/story_attributes-->
+
+<!--end of components/story_attributes-->
+
+          </h3>
+
+      </div>
+    <div class="hbox_body_right"></div>
+    <div class="hbox_btm">
+        <div class="hbox_btm_left"></div>
+        <div class="hbox_btm_right"></div>
+    </div><!--end hbox bottom-->
+</div><!--end narrow lyellow box-->
+
+<!--start of components/narrow_strap_ad-->
+<!--start of components/ad/strap_ad-->
+
+<!--start of components/ad/standard-->
+
+  <!-- No ad set up for position STRAPSPONSOR -->
+
+<!--end of components/ad/standard-->
+
+<!--end of components/ad/strap_ad-->
+<!--start of components/ad/strap_ad-->
+
+<!--start of components/ad/standard-->
+
+  <!-- No ad set up for position STRAPSPONSOR -->
+
+<!--end of components/ad/standard-->
+
+<!--end of components/ad/strap_ad-->
+
+<!--end of components/narrow_strap_ad-->
+
+<!--end of components/bluebox_narrow-->
+
+              <!--start of components/homepage_bluebox_wide-->
+
+<div class="hbox_wide">
+    <div class="hbox_top_purple">
+        <div class="hbox_top_purple_left"></div>
+        <span class="hbox_top_title">
+            <a href="/entertainment/">Entertainment<span class="jeremy_ie6">&raquo;</span></a>
+        </span>
+
+        <div class="hbox_top_purple_right"></div>
+        <!--start of components/section/sponsor_hbox-->
+
+<!--end of components/section/sponsor_hbox-->
+
+        <!--start of components/strap-subsections -->
+
+    <div class="hbox_subsections">
+
+            <a href="/entertainment/celebrities/">Celebrities</a>
+
+            <a href="/entertainment/film/">Film</a>
+
+            <a href="/entertainment/music/">Music</a>
+
+            <a href="/entertainment/tv/">TV</a>
+
+            <a href="/entertainment/arts/">Arts</a>
+
+    </div>
+
+<!--end of components/strap-subsections -->
+
+    </div><!--end hbox top-->
+    <div class="clearer"></div>
+    <div class="hbox_body">
+        <div class="spacer"><!--IE bug--></div>
+        <div class="hbox_body_left">
+
+          <h3 class="first_headline"><a href="/entertainment/tv/9217784/This-is-how-Dexter-should-ve-ended">How Dexter should've ended</a>
+      <!--start of components/stuffnation_icon-->
+
+<!--end of components/stuffnation_icon-->
+
+      <!--start of components/story_attributes-->
+
+<!--end of components/story_attributes-->
+
+      </h3>
+      <!--start of components/strap_star_rating-->
+
+<!--end of components/strap_star_rating-->
+
+          <p class="first_headline_thumb">
+
+          <a href="/entertainment/tv/9217784/This-is-how-Dexter-should-ve-ended"><img class="foursquare_photo" src="http://static2.stuff.co.nz/1380238811/794/9217794.jpg" alt="Dexter" height="60" width="90"/></a>
+
+          Former producer on serial killer show had a much better ending for the series finale.</p>
+          <div class="clearer"></div>
+
+            <h3 class="first_headline"><a href="/entertainment/music/9217700/Lorde-covers-80s-classic-for-Hunger-Games">Lorde sheds tears for Hunger Games</a>
+
+      <!--start of components/stuffnation_icon-->
+
+<!--end of components/stuffnation_icon-->
+
+      <!--start of components/story_attributes-->
+
+<!--end of components/story_attributes-->
+
+          </h3>
+          <!--start of components/strap_star_rating-->
+
+<!--end of components/strap_star_rating-->
+
+          <p>Soundtrack listing for Catching Fire released and Kiwi teen is doing a cover of an 80s classic.</p>
+
+          <h3 class="other_headline"><a href="/entertainment/film/9217579/Batman-v-Superman-v-Wonder-Woman">Batman v Superman v Wonder Woman?</a>
+          <!--start of components/stuffnation_icon-->
+
+<!--end of components/stuffnation_icon-->
+
+          <!--start of components/story_attributes-->
+
+<!--end of components/story_attributes-->
+
+          </h3>
+              <!--start of components/strap_star_rating-->
+
+<!--end of components/strap_star_rating-->
+
+          <h3 class="other_headline"><a href="/entertainment/celebrities/9214141/Kendra-Wilkinson-suffers-stroke">Kendra Wilkinson suffers stroke</a>
+          <!--start of components/stuffnation_icon-->
+
+<!--end of components/stuffnation_icon-->
+
+          <!--start of components/story_attributes-->
+
+<!--end of components/story_attributes-->
+
+          </h3>
+              <!--start of components/strap_star_rating-->
+
+<!--end of components/strap_star_rating-->
+
+          </div><!--end box body left-->
+          <div class="hbox_body_right">
+
+            <div class="hbox_body_right_img">
+
+                <a href="/entertainment/9217465/Watch-Avengers-2-Age-of-Ultron-teaser-trailer"><img src="http://static2.stuff.co.nz/1380234949/492/9217492.jpg" alt="Ultron" width="300" height="200"/></a>
+
+            </div><!--end hbox body right image-->
+            <div class="hbox_body_right_caption">
+                <h3><a href="/entertainment/9217465/Watch-Avengers-2-Age-of-Ultron-teaser-trailer">Watch Avengers 2 teaser trailer</a>
+            <!--start of components/stuffnation_icon-->
+
+<!--end of components/stuffnation_icon-->
+
+            <!--start of components/story_attributes-->
+
+<!--end of components/story_attributes-->
+
+            </h3>
+              <!--start of components/strap_star_rating-->
+
+<!--end of components/strap_star_rating-->
+
+                <p>Teaser for Avengers sequel Age Of Ultron debuted at Comic-Con. Now the rest of the world can see it.</p>
+            </div><!--hbox_body_right_caption-->
+
+        </div><!--end box body right-->
+        <div class="clearer"></div>
+        <div class="spacer"><!--IE bug--></div>
+    </div><!--close business day box body-->
+    <div class="hbox_btm"><!--IE bug-->
+        <div class="hbox_btm_left"><!--IE bug--></div>
+        <div class="hbox_btm_right"><!--IE bug--></div>
+    </div><!--end hbox bottom-->
+</div><!--end hbox wide-->
+
+<!--start of components/ad/homepage_strap_ad-->
+
+<div class="clearer"></div>
+<!--end of components/homepage_bluebox_wide-->
+
+              <!--start of components/homepage_bluebox_wide-->
+
+<div class="hbox_wide">
+    <div class="hbox_top_yellow">
+        <div class="hbox_top_yellow_left"></div>
+        <span class="hbox_top_title">
+            <a href="/travel/">Travel<span class="jeremy_ie6">&raquo;</span></a>
+        </span>
+
+        <div class="hbox_top_yellow_right"></div>
+        <!--start of components/section/sponsor_hbox-->
+
+<!--end of components/section/sponsor_hbox-->
+
+        <!--start of components/strap-subsections -->
+
+    <div class="hbox_subsections">
+
+            <a href="/travel/destinations/">Destinations</a>
+
+            <a href="/travel/themes/">Themes</a>
+
+            <a href="/travel/travel-troubles/">Travel&nbsp;Troubles</a>
+
+            <a href="/travel/kiwi-traveller/">Kiwi&nbsp;Traveller</a>
+
+    </div>
+
+<!--end of components/strap-subsections -->
+
+    </div><!--end hbox top-->
+    <div class="clearer"></div>
+    <div class="hbox_body">
+        <div class="spacer"><!--IE bug--></div>
+        <div class="hbox_body_left">
+
+          <h3 class="first_headline"><a href="/travel/destinations/europe/germany/9217530/Cheers-to-the-180th-Oktoberfest">In Pics: Oktoberfest</a>
+      <!--start of components/stuffnation_icon-->
+
+<!--end of components/stuffnation_icon-->
+
+      <!--start of components/story_attributes-->
+
+    <img src="http://static2.stuff.co.nz/1378959513/static/images/icon_gallery.gif" style="float:none; margin-left:5px;" alt="" >
+
+<!--end of components/story_attributes-->
+
+      </h3>
+      <!--start of components/strap_star_rating-->
+
+<!--end of components/strap_star_rating-->
+
+          <p class="first_headline_thumb">
+
+          <a href="/travel/destinations/europe/germany/9217530/Cheers-to-the-180th-Oktoberfest"><img class="foursquare_photo" src="http://static2.stuff.co.nz/1380235940/544/9217544.jpg" alt="Oktoberfest Strap" height="60" width="90"/></a>
+
+          Millions of beer drinkers from around the world will come to Munich over the next two weeks for the 180th Oktoberfest.</p>
+          <div class="clearer"></div>
+
+            <h3 class="first_headline"><a href="/travel/destinations/usa/9217296/Haunted-House-puts-underwear-on-naked-event">Keep your underwear on</a>
+
+      <!--start of components/stuffnation_icon-->
+
+<!--end of components/stuffnation_icon-->
+
+      <!--start of components/story_attributes-->
+
+<!--end of components/story_attributes-->
+
+          </h3>
+          <!--start of components/strap_star_rating-->
+
+<!--end of components/strap_star_rating-->
+
+          <p>Naked and scared has turned into semi-clothed and kind of spooked.</p>
+
+          <h3 class="other_headline"><a href="/travel/9216788/What-hotel-concierges-really-do">No drugs, no sex</a>
+          <!--start of components/stuffnation_icon-->
+
+<!--end of components/stuffnation_icon-->
+
+          <!--start of components/story_attributes-->
+
+<!--end of components/story_attributes-->
+
+          </h3>
+              <!--start of components/strap_star_rating-->
+
+<!--end of components/strap_star_rating-->
+
+          <h3 class="other_headline"><a href="/travel/destinations/asia/9212855/Asias-new-family-gaming-playground">Gaming playground for families</a>
+          <!--start of components/stuffnation_icon-->
+
+<!--end of components/stuffnation_icon-->
+
+          <!--start of components/story_attributes-->
+
+<!--end of components/story_attributes-->
+
+          </h3>
+              <!--start of components/strap_star_rating-->
+
+<!--end of components/strap_star_rating-->
+
+          </div><!--end box body left-->
+          <div class="hbox_body_right">
+
+            <div class="hbox_body_right_img">
+
+                <a href="/travel/travel-troubles/9216894/Tightwads-whingers-and-party-animals"><img src="http://static2.stuff.co.nz/1380229277/107/9217107.jpg" alt="Traveller Strap" width="300" height="200"/></a>
+
+            </div><!--end hbox body right image-->
+            <div class="hbox_body_right_caption">
+                <h3><a href="/travel/travel-troubles/9216894/Tightwads-whingers-and-party-animals">Whingers and vegetarians</a>
+            <!--start of components/stuffnation_icon-->
+
+<!--end of components/stuffnation_icon-->
+
+            <!--start of components/story_attributes-->
+
+<!--end of components/story_attributes-->
+
+            </h3>
+              <!--start of components/strap_star_rating-->
+
+<!--end of components/strap_star_rating-->
+
+                <p>You'll meet all sorts of travellers on your trip - including these people.</p>
+            </div><!--hbox_body_right_caption-->
+
+        </div><!--end box body right-->
+        <div class="clearer"></div>
+        <div class="spacer"><!--IE bug--></div>
+    </div><!--close business day box body-->
+    <div class="hbox_btm"><!--IE bug-->
+        <div class="hbox_btm_left"><!--IE bug--></div>
+        <div class="hbox_btm_right"><!--IE bug--></div>
+    </div><!--end hbox bottom-->
+</div><!--end hbox wide-->
+
+<!--start of components/ad/homepage_strap_ad-->
+
+<!-- Begin Ad Block -->
+
+<div class="widestrip">
+
+<div class="hidden_ad" id="adSTUFFTRAVELWIDE">
+  <!--start of components/ad/feedback_link-->
+
+<span class="ad_feedback_wide" id="feedback_STUFFTRAVELWIDE">
+  <a class="adfeedback" target="_blank" href="/about-stuff/advertising-feedback/?pos=STUFFTRAVELWIDE&adsize=300x250&area=s.stuff">
+
+  Ad Feedback</a>
+</span>
+<!--end of components/ad/feedback_link-->
+
+</div> 
+  <!--start of components/ad/push-->
+
+<script language="javascript">
+<!--
+
+PushDartJSAd('STUFFTRAVELWIDE', null, 620, 45, '620X45');
+
+//-->
+</script>
+<!--end of components/ad/push-->
+
+</div>
+<div class="narrowstrip">
+
+<div class="narrowstrip hidden_ad" id="adSTUFFTRAVELNARROW">
+  <!--start of components/ad/feedback_link-->
+
+<span class="ad_feedback_narrow" id="feedback_STUFFTRAVELNARROW">
+  <a class="adfeedback" target="_blank" href="/about-stuff/advertising-feedback/?pos=STUFFTRAVELNARROW&adsize=300x250&area=s.stuff">
+
+  Ad Feedback</a>
+</span>
+<!--end of components/ad/feedback_link-->
+
+</div>
+  <!--start of components/ad/push-->
+
+<script language="javascript">
+<!--
+
+PushDartJSAd('STUFFTRAVELNARROW', null, 300, 45, '300X45');
+
+//-->
+</script>
+<!--end of components/ad/push-->
+
+</div>
+
+<!-- End Ad Block -->
+<!--end of components/ad/homepage_strap_ad-->
+
+<div class="clearer"></div>
+<!--end of components/homepage_bluebox_wide-->
+
+              <!--start of components/homepage_bluebox_wide-->
+
+<div class="hbox_wide">
+    <div class="hbox_top_akl">
+        <div class="hbox_top_akl_left"></div>
+        <span class="hbox_top_title">
+            <a href="/stuff-nation/">Stuff Nation<span class="jeremy_ie6">&raquo;</span></a>
+        </span>
+
+        <div class="hbox_top_akl_right"></div>
+        <!--start of components/section/sponsor_hbox-->
+
+<!--end of components/section/sponsor_hbox-->
+
+        <!--start of components/strap-subsections -->
+
+    <div class="hbox_subsections">
+
+            <a href="/stuff-nation/quiz-groups/global_leaderboard?type=individual">Quiz Groups </a>
+
+            <a href="/stuff-nation/assignments/">Assignments&nbsp;</a>
+
+    </div>
+
+<!--end of components/strap-subsections -->
+
+    </div><!--end hbox top-->
+    <div class="clearer"></div>
+    <div class="hbox_body">
+        <div class="spacer"><!--IE bug--></div>
+        <div class="hbox_body_left">
+
+          <h3 class="first_headline"><a href="/stuff-nation/assignments/americas-cup-what-went-wrong/9213990/Americas-Cup-Data-shows-we-were-faster">Cup data tells different story</a>
+      <!--start of components/stuffnation_icon-->
+
+    <img src="http://static2.stuff.co.nz/1378959513/static/images/sn-logo-14x14.png" style="float:none; margin-left:5px;" alt="" > 
+
+<!--end of components/stuffnation_icon-->
+
+      <!--start of components/story_attributes-->
+
+<!--end of components/story_attributes-->
+
+      </h3>
+      <!--start of components/strap_star_rating-->
+
+<!--end of components/strap_star_rating-->
+
+          <p class="first_headline_thumb">
+
+          <a href="/stuff-nation/assignments/americas-cup-what-went-wrong/9213990/Americas-Cup-Data-shows-we-were-faster"><img class="foursquare_photo" src="http://static2.stuff.co.nz/1380163327/622/9213622.jpg" alt="Oracle win" height="60" width="90"/></a>
+
+          If ETNZ had sailed the same path as Oracle, they would have finished more than 20 seconds in front.</p>
+          <div class="clearer"></div>
+
+            <h3 class="first_headline"><a href="/stuff-nation/assignments/tips-for-helping-kids-eat-healthy/9212763/Whats-good-food-for-kids">What's good food for kids?</a>
+
+      <!--start of components/stuffnation_icon-->
+
+    <img src="http://static2.stuff.co.nz/1378959513/static/images/sn-logo-14x14.png" style="float:none; margin-left:5px;" alt="" > 
+
+<!--end of components/stuffnation_icon-->
+
+      <!--start of components/story_attributes-->
+
+<!--end of components/story_attributes-->
+
+          </h3>
+          <!--start of components/strap_star_rating-->
+
+<!--end of components/strap_star_rating-->
+
+          <p>A change in eating habits has meant more energy and better health for Maureen Dunn's family</p>
+
+          <h3 class="other_headline"><a href="/stuff-nation/assignments/weather-photo-of-the-week/9212583/Weather-photo-of-the-week-Sunrise-over-Hamilton">Weather photo of the week</a>
+          <!--start of components/stuffnation_icon-->
+
+    <img src="http://static2.stuff.co.nz/1378959513/static/images/sn-logo-14x14.png" style="float:none; margin-left:5px;" alt="" > 
+
+<!--end of components/stuffnation_icon-->
+
+          <!--start of components/story_attributes-->
+
+<!--end of components/story_attributes-->
+
+          </h3>
+              <!--start of components/strap_star_rating-->
+
+<!--end of components/strap_star_rating-->
+
+          <h3 class="other_headline"><a href="/stuff-nation/assignments/whats-hot-and-not-in-your-headphones/9213580/Album-review-Shapeshifter-Delta">New flavas from Shapeshifter</a>
+          <!--start of components/stuffnation_icon-->
+
+    <img src="http://static2.stuff.co.nz/1378959513/static/images/sn-logo-14x14.png" style="float:none; margin-left:5px;" alt="" > 
+
+<!--end of components/stuffnation_icon-->
+
+          <!--start of components/story_attributes-->
+
+<!--end of components/story_attributes-->
+
+          </h3>
+              <!--start of components/strap_star_rating-->
+
+<!--end of components/strap_star_rating-->
+
+          </div><!--end box body left-->
+          <div class="hbox_body_right">
+
+            <div class="hbox_body_right_img">
+
+                <a href="/stuff-nation/assignments/the-weird-world-of-pet-yoga/9211912/Pet-yoga-Inverted-bridge-pose"><img src="http://static2.stuff.co.nz/1380146009/998/9211998.jpg" alt="Bridge cat" width="300" height="200"/></a>
+
+            </div><!--end hbox body right image-->
+            <div class="hbox_body_right_caption">
+                <h3><a href="/stuff-nation/assignments/the-weird-world-of-pet-yoga/9211912/Pet-yoga-Inverted-bridge-pose">Pet yoga: Bridge pose</a>
+            <!--start of components/stuffnation_icon-->
+
+    <img src="http://static2.stuff.co.nz/1378959513/static/images/sn-logo-14x14.png" style="float:none; margin-left:5px;" alt="" > 
+
+<!--end of components/stuffnation_icon-->
+
+            <!--start of components/story_attributes-->
+
+<!--end of components/story_attributes-->
+
+            </h3>
+              <!--start of components/strap_star_rating-->
+
+<!--end of components/strap_star_rating-->
+
+                <p>Stacie holds these yoga poses for a considerable amount of time every day.</p>
+            </div><!--hbox_body_right_caption-->
+
+        </div><!--end box body right-->
+        <div class="clearer"></div>
+        <div class="spacer"><!--IE bug--></div>
+    </div><!--close business day box body-->
+    <div class="hbox_btm"><!--IE bug-->
+        <div class="hbox_btm_left"><!--IE bug--></div>
+        <div class="hbox_btm_right"><!--IE bug--></div>
+    </div><!--end hbox bottom-->
+</div><!--end hbox wide-->
+
+<!--start of components/ad/homepage_strap_ad-->
+
+<div class="clearer"></div>
+<!--end of components/homepage_bluebox_wide-->
+
+<!--start of components/bluebox_narrow-->
+<!-- bluebox_narrow -->
+
+    <div class="hbox_narrow">
+
+    <div class="hbox_top_cl">
+        <div class="hbox_top_cl_left"></div>
+        <span class="hbox_top_title"><a href="/business/farming/">Farming</a></span>
+        <div class="hbox_top_cl_right"></div>
+
+            <!--start of components/strap-subsections -->
+
+    <div class="hbox_subsections">
+
+            <a href="/business/farming/digital-editions/">Digital&nbsp;Editions</a>
+
+    </div>
+
+<!--end of components/strap-subsections -->
+
+    </div>
+    <div class="hbox_body_left">
+
+      <h3 class="first_headline"><a href="/business/farming/agribusiness/9216559/Big-wind-could-be-billion-dollar-blow">Wind's billion-dollar blow?</a>
+      <!--start of components/stuffnation_icon-->
+
+<!--end of components/stuffnation_icon-->
+
+      <!--start of components/story_attributes-->
+
+<!--end of components/story_attributes-->
+
+      </h3>
+
+          <p class="first_headline_thumb">
+
+          <a class="foursquare_photo" href="/business/farming/agribusiness/9216559/Big-wind-could-be-billion-dollar-blow"><img src="http://static2.stuff.co.nz/1380221775/574/9216574.jpg" alt="Over 800 irrigators blew over in the recent storm that hit Canterbury including this one belonging to Andrew Brooker near Kirwee."  height="60" width="90"/></a>
+
+          Fears rising that the economic impact and damage from recent gales to hit the South Island could approach a billion dollars.</p>
+          <div class="clearer"></div>
+
+          <h3 class="first_headline"><a href="/business/farming/agribusiness/9216884/AgResearch-confirms-job-cuts-at-Invermay">AgResearch confirms job cuts</a>
+          <!--start of components/stuffnation_icon-->
+
+<!--end of components/stuffnation_icon-->
+
+          <!--start of components/story_attributes-->
+
+<!--end of components/story_attributes-->
+
+          </h3>
+          <p>AgResearch is going ahead with its proposal to downsize its southern institute.</p>
+
+          <h3 class="other_headline"><a href="/business/farming/sheep/9215934/Tail-of-two-studies-then-and-now">Tail of two studies</a>
+          <!--start of components/stuffnation_icon-->
+
+<!--end of components/stuffnation_icon-->
+
+          <!--start of components/story_attributes-->
+
+<!--end of components/story_attributes-->
+
+          </h3>
+
+          <h3 class="other_headline"><a href="/business/farming/markets/9215926/Angus-premiums-push-up-demand">Angus premiums push up demand</a>
+          <!--start of components/stuffnation_icon-->
+
+<!--end of components/stuffnation_icon-->
+
+          <!--start of components/story_attributes-->
+
+<!--end of components/story_attributes-->
+
+          </h3>
+
+      </div>
+    <div class="hbox_body_right"></div>
+    <div class="hbox_btm">
+        <div class="hbox_btm_left"></div>
+        <div class="hbox_btm_right"></div>
+    </div><!--end hbox bottom-->
+</div><!--end narrow cl box-->
+
+<!--start of components/narrow_strap_ad-->
+
+<!--end of components/narrow_strap_ad-->
+
+<!--end of components/bluebox_narrow-->
+
+<!--start of components/bluebox_narrow-->
+<!-- bluebox_narrow -->
+
+  <div class="hbox_narrow hbox_narrow_even">
+
+    <div class="hbox_top_blue">
+        <div class="hbox_top_blue_left"></div>
+        <span class="hbox_top_title"><a href="/science/">Science</a></span>
+        <div class="hbox_top_blue_right"></div>
+
+            <!--start of components/strap-subsections -->
+
+<!--end of components/strap-subsections -->
+
+    </div>
+    <div class="hbox_body_left">
+
+      <h3 class="first_headline"><a href="/science/9217462/Space-flight-a-pretty-good-ride-Mum">Space 'a pretty good ride Mum'</a>
+      <!--start of components/stuffnation_icon-->
+
+<!--end of components/stuffnation_icon-->
+
+      <!--start of components/story_attributes-->
+
+<!--end of components/story_attributes-->
+
+      </h3>
+
+          <p class="first_headline_thumb">
+
+          <a class="foursquare_photo" href="/science/9217462/Space-flight-a-pretty-good-ride-Mum"><img src="http://static2.stuff.co.nz/1380234868/477/9217477.jpg" alt="Astronaut Michael Hopkins"  height="60" width="90"/></a>
+
+          Astronauts take six hours to travel about 400km to arrive at the International Space Station.</p>
+          <div class="clearer"></div>
+
+          <h3 class="first_headline"><a href="/science/9217665/Climate-change-for-all-to-get">Climate change for all to get</a>
+          <!--start of components/stuffnation_icon-->
+
+<!--end of components/stuffnation_icon-->
+
+          <!--start of components/story_attributes-->
+
+<!--end of components/story_attributes-->
+
+          </h3>
+          <p>Constructive language hoped to make UN report on manmade climate change accessible to a wide audience.</p>
+
+          <h3 class="other_headline"><a href="/science/9213194/Fossil-reveals-oldest-known-face">Fossil reveals oldest known face</a>
+          <!--start of components/stuffnation_icon-->
+
+<!--end of components/stuffnation_icon-->
+
+          <!--start of components/story_attributes-->
+
+<!--end of components/story_attributes-->
+
+          </h3>
+
+          <h3 class="other_headline"><a href="/science/9212302/Top-picks-for-Nobel-prizes">Top picks for Nobel prizes</a>
+          <!--start of components/stuffnation_icon-->
+
+<!--end of components/stuffnation_icon-->
+
+          <!--start of components/story_attributes-->
+
+<!--end of components/story_attributes-->
+
+          </h3>
+
+      </div>
+    <div class="hbox_body_right"></div>
+    <div class="hbox_btm">
+        <div class="hbox_btm_left"></div>
+        <div class="hbox_btm_right"></div>
+    </div><!--end hbox bottom-->
+</div><!--end narrow blue box-->
+
+<!--start of components/narrow_strap_ad-->
+<!--start of components/ad/strap_ad-->
+
+<!--start of components/ad/standard-->
+
+  <!-- No ad set up for position STRAPSPONSOR -->
+
+<!--end of components/ad/standard-->
+
+<!--end of components/ad/strap_ad-->
+<!--start of components/ad/strap_ad-->
+
+<!--start of components/ad/standard-->
+
+  <!-- No ad set up for position STRAPSPONSOR -->
+
+<!--end of components/ad/standard-->
+
+<!--end of components/ad/strap_ad-->
+
+<!--end of components/narrow_strap_ad-->
+
+<!--end of components/bluebox_narrow-->
+
+              <!--start of components/homepage_bluebox_wide-->
+
+<div class="hbox_wide">
+    <div class="hbox_top_red">
+        <div class="hbox_top_red_left"></div>
+        <span class="hbox_top_title">
+            <a href="/sport/">Sport<span class="jeremy_ie6">&raquo;</span></a>
+        </span>
+
+        <div class="hbox_top_red_right"></div>
+        <!--start of components/section/sponsor_hbox-->
+
+<!--end of components/section/sponsor_hbox-->
+
+        <!--start of components/strap-subsections -->
+
+    <div class="hbox_subsections">
+
+            <a href="/sport/rugby/">Rugby</a>
+
+            <a href="/sport/cricket/">Cricket</a>
+
+            <a href="/sport/football/">Football</a>
+
+            <a href="/sport/motorsport/">Motorsport</a>
+
+    </div>
+
+<!--end of components/strap-subsections -->
+
+    </div><!--end hbox top-->
+    <div class="clearer"></div>
+    <div class="hbox_body">
+        <div class="spacer"><!--IE bug--></div>
+        <div class="hbox_body_left">
+
+          <h3 class="first_headline"><a href="/sport/americas-cup/9216603/Time-for-Team-NZ-to-take-their-leave">Time for Team NZ to take their leave?</a>
+      <!--start of components/stuffnation_icon-->
+
+<!--end of components/stuffnation_icon-->
+
+      <!--start of components/story_attributes-->
+
+<!--end of components/story_attributes-->
+
+      </h3>
+      <!--start of components/strap_star_rating-->
+
+<!--end of components/strap_star_rating-->
+
+          <p class="first_headline_thumb">
+
+          <a href="/sport/americas-cup/9216603/Time-for-Team-NZ-to-take-their-leave"><img class="foursquare_photo" src="http://static2.stuff.co.nz/1380068217/735/9207735.jpg" alt="Jimmy Spithill" height="60" width="90"/></a>
+
+          I don't know if New Zealand should contest the next America's Cup and that has nothing to do with the issue of funding.</p>
+          <div class="clearer"></div>
+
+            <h3 class="first_headline"><a href="/sport/football/9217643/All-Whites-confirm-warm-up-games-in-US">Warm-up games confirmed</a>
+
+      <!--start of components/stuffnation_icon-->
+
+<!--end of components/stuffnation_icon-->
+
+      <!--start of components/story_attributes-->
+
+<!--end of components/story_attributes-->
+
+          </h3>
+          <!--start of components/strap_star_rating-->
+
+<!--end of components/strap_star_rating-->
+
+          <p>The All Whites will play two club teams in Los Angeles next month in their final build-up to November's World Cup qualifiers.</p>
+
+          <h3 class="other_headline"><a href="/sport/rugby/sevens/9217537/System-glitch-hits-Wellington-Sevens-tickets">System glitch hits Sevens tickets</a>
+          <!--start of components/stuffnation_icon-->
+
+<!--end of components/stuffnation_icon-->
+
+          <!--start of components/story_attributes-->
+
+<!--end of components/story_attributes-->
+
+          </h3>
+              <!--start of components/strap_star_rating-->
+
+<!--end of components/strap_star_rating-->
+
+          <h3 class="other_headline"><a href="/sport/americas-cup/9216932/Dotcom-to-fund-Team-New-Zealand">Mega Team New Zealand?</a>
+          <!--start of components/stuffnation_icon-->
+
+<!--end of components/stuffnation_icon-->
+
+          <!--start of components/story_attributes-->
+
+<!--end of components/story_attributes-->
+
+          </h3>
+              <!--start of components/strap_star_rating-->
+
+<!--end of components/strap_star_rating-->
+
+          </div><!--end box body left-->
+          <div class="hbox_body_right">
+
+            <div class="hbox_body_right_img">
+
+                <a href="/sport/rugby/all-blacks/9216716/Read-in-doubt-for-All-Blacks-test"><img src="http://static2.stuff.co.nz/1380225208/764/9216764.jpg" alt="Kieran Read" width="300" height="200"/></a>
+
+            </div><!--end hbox body right image-->
+            <div class="hbox_body_right_caption">
+                <h3><a href="/sport/rugby/all-blacks/9216716/Read-in-doubt-for-All-Blacks-test">Read in doubt for All Blacks test</a>
+            <!--start of components/stuffnation_icon-->
+
+<!--end of components/stuffnation_icon-->
+
+            <!--start of components/story_attributes-->
+
+<!--end of components/story_attributes-->
+
+            </h3>
+              <!--start of components/strap_star_rating-->
+
+<!--end of components/strap_star_rating-->
+
+                <p>Kieran Read missed All Blacks training today and is in doubt for Sunday's test against the Pumas.</p>
+            </div><!--hbox_body_right_caption-->
+
+        </div><!--end box body right-->
+        <div class="clearer"></div>
+        <div class="spacer"><!--IE bug--></div>
+    </div><!--close business day box body-->
+    <div class="hbox_btm"><!--IE bug-->
+        <div class="hbox_btm_left"><!--IE bug--></div>
+        <div class="hbox_btm_right"><!--IE bug--></div>
+    </div><!--end hbox bottom-->
+</div><!--end hbox wide-->
+
+<!--start of components/ad/homepage_strap_ad-->
+
+<div class="clearer"></div>
+<!--end of components/homepage_bluebox_wide-->
+
+</div><!-- end left column -->
+
+<div id="right_col">
+  <!--start of components/ad/top_lower_right_col_ad-->
+<!--start of components/ad/standard-->
+
+  <div class="right_col_ad" style="" id="adTICKERRIGHT">
+
+    <!--start of components/ad/feedback_link-->
+
+<span class="ad_leftcol_feedback" id="feedback_TICKERRIGHT">
+  <a class="adfeedback" target="_blank" href="/about-stuff/advertising-feedback/?pos=TICKERRIGHT&adsize=300x250&area=s.stuff">
+
+  Ad Feedback</a>
+</span>
+<!--end of components/ad/feedback_link-->
+
+  </div> 
+  <!--start of components/ad/push-->
+
+<script language="javascript">
+<!--
+
+PushDartIframeAd('TICKERRIGHT', null, 300, 60, '300x60');
+
+//-->
+</script>
+<!--end of components/ad/push-->
+
+<!--end of components/ad/standard-->
+
+<!--end of components/ad/top_lower_right_col_ad-->
+
+<!--start of components/split_right_col_strap-->
+
+<div class="hbox_right_cpl">
+    <div class="hbox_top_nn">
+        <div class="hbox_top_nn_left"></div>
+        <span class="hbox_top_title"><a href="/good-reads/">Good reads</a></span>
+        <div class="hbox_top_nn_right"></div>
+
+            <!--start of components/strap-subsections -->
+
+<!--end of components/strap-subsections -->
+
+    </div>
+    <div class="hbox_body">
+
+            <div class="hbox_right_item">
+
+                    <a href="/business/better-business/9215514/A-reluctant-tipple-to-feel-accepted"><img class="right_image_thumb" src="http://static2.stuff.co.nz/1380222891/606/9216606.jpg" alt="Alcohol 200x150" height="60" width="90"/></a>
+
+                <h3 class="right_headline"><a href="/business/better-business/9215514/A-reluctant-tipple-to-feel-accepted">Reluctant tipple to feel accepted</a></h3>
+
+                <p>Do you go out boozing just to fit in with workmates? You're not alone.</p>
+            </div>
+
+            <div class="hbox_right_item">
+
+                    <a href="/entertainment/tv/9214174/In-defence-of-Gordon-Ramsay"><img class="right_image_thumb" src="http://static2.stuff.co.nz/1380171243/199/9214199.jpg" alt="Gordon Ramsey" height="60" width="90"/></a>
+
+                <h3 class="right_headline"><a href="/entertainment/tv/9214174/In-defence-of-Gordon-Ramsay">In defence of Gordon Ramsay</a></h3>
+
+                <p>How the once-great chef shouted his way into - and out of - our hearts. </p>
+            </div>
+
+            <div class="hbox_right_item">
+
+                    <a href="/life-style/beauty/hair/9213986/Turning-40-a-short-argument-for-long-hair"><img class="right_image_thumb" src="http://static2.stuff.co.nz/1380167758/001/9214001.jpg" alt="hair" height="60" width="90"/></a>
+
+                <h3 class="right_headline"><a href="/life-style/beauty/hair/9213986/Turning-40-a-short-argument-for-long-hair">Is 40 too old for long hair?</a></h3>
+
+                <p>I'm incensed that people think older women look like "mutton dressed as lamb" with long tresses. </p>
+            </div>
+
+            <div class="hbox_right_item">
+
+                    <a href="/technology/digital-living/9214225/Stay-productive-when-everythings-blocked"><img class="right_image_thumb" src="http://static2.stuff.co.nz/1372895699/038/8878038.jpg" alt="keyboard" height="60" width="90"/></a>
+
+                <h3 class="right_headline"><a href="/technology/digital-living/9214225/Stay-productive-when-everythings-blocked">Unblock productivity</a></h3>
+
+                <p>How to be productive when everything's blocked at work.</p>
+            </div>
+
+    </div>
+</div>
+<!--start of components/ad/strap_ad-->
+
+<!--start of components/ad/standard-->
+
+  <!-- No ad set up for position STRAPSPONSOR -->
+
+<!--end of components/ad/standard-->
+
+<!--end of components/ad/strap_ad-->
+
+<!--end of components/split_right_col_strap-->
+
+  <!--start of components/pointer/right_col_upper_pointers-->
+
+  <!-- start components/ad/specialoffer -->
+<div class="hbox_narrow hidden_ad" id="adspecial_offer_box">
+    <div class="hbox_top_none">
+        <div class="hbox_top_none_left"></div>
+        <span class="hbox_top_none_title">Special offers</span>
+        <div class="hbox_top_none_right"></div>
+    </div>
+
+    <div class="hbox_body_left">
+        <div class="special_offers">
+<!--start of components/ad/standard-->
+
+  <div class="special_offer hidden_ad" style="" id="adSPECIALOFFER1">
+
+  </div> 
+  <!--start of components/ad/push-->
+
+<script language="javascript">
+<!--
+
+PushDartIframeAd('SPECIALOFFER1', 15, 240, 65, '240X45');
+
+//-->
+</script>
+<!--end of components/ad/push-->
+
+  <div class="special_offer hidden_ad" style="" id="adSPECIALOFFER2">
+
+  </div> 
+  <!--start of components/ad/push-->
+
+<script language="javascript">
+<!--
+
+PushDartIframeAd('SPECIALOFFER2', 15, 240, 65, '240X45');
+
+//-->
+</script>
+<!--end of components/ad/push-->
+
+  <div class="special_offer hidden_ad" style="" id="adSPECIALOFFER3">
+
+  </div> 
+  <!--start of components/ad/push-->
+
+<script language="javascript">
+<!--
+
+PushDartIframeAd('SPECIALOFFER3', 15, 240, 65, '240X45');
+
+//-->
+</script>
+<!--end of components/ad/push-->
+
+<!--end of components/ad/standard-->
+
+        </div>
+    </div>
+
+    <div class="hbox_btm">
+        <div class="hbox_btm_left"></div>
+        <div class="hbox_btm_right"></div>
+    </div>
+</div><!-- adspecial_offer_box -->
+<!-- end components/ad/specialoffer -->
+<!--end of components/ad/specialoffer-->
+
+  <!-- start of components/polls -->
+
+<script type="text/javascript" src="http://static2.stuff.co.nz/1378959298/static/js/polls.min.js"></script>
+
+<div class="hbox_narrow">
+
+    <div class="hbox_top_grey">
+        <div class="hbox_top_grey_left"></div>
+        <span class="hbox_top_title">Opinion poll</span>
+        <div class="hbox_top_grey_right"></div>
+    </div>
+
+    <div class="hbox_body_left">
+
+        <p>
+
+            <img src="http://static2.stuff.co.nz/1380238558/769/9217769.jpg" width="90" height="60" align="right" class="photoborder poll-image" alt="" />
+
+    Rate PM John Key's speech to the UN:  
+        </p>
+
+    <!--start of components/poll/submit-form-->
+
+<form id="poll-9217769" action="/do/poll_vote" method="POST">
+    <input name="poll_id" type="hidden" value="9217769" />
+
+    <p>
+        <input name="radiobutton" type="radio" value="radiobutton_9217779" class="poll_option" />
+        Impressive
+    </p>
+
+    <p>
+        <input name="radiobutton" type="radio" value="radiobutton_9217780" class="poll_option" />
+        Forgettable
+    </p>
+
+    <p>
+        <input name="radiobutton" type="radio" value="radiobutton_9217781" class="poll_option" />
+        What speech?
+    </p>
+
+    <p class="poll_buttons" id="poll_button_asset">
+        <a onclick="poll_vote(9217769, '/lightbox//9217769?KeepThis=true&TB_iframe=true&height=500&width=680&msg=voted', 'Results');" class="vote">Vote</a>
+
+        <a title="Results" href="/lightbox//9217769?KeepThis=true&TB_iframe=true&height=500&width=680" onclick="" class="result thickbox" style="display: inline;">Result</a>
+
+    </p>
+</form>
+<!--end of components/poll/submit-form-->
+
+        <div class="poll_bottom_divider"></div>
+        <span class="serif">Related story: <a href="/national/politics/9217379/Key-tells-UN-it-needs-reform">Key tells UN it needs reform</a></span>
+
+    </div>
+
+    <div class="hbox_btm">
+        <div class="hbox_btm_left"></div>
+        <div class="hbox_btm_right"></div>
+    </div>
+
+</div>
+
+<!--end of components/polls-->
+
+<!--start of components/homepage_lower_right_col-->
+<!--start of components/ad/mid_right_col_ad-->
+<!--start of components/ad/standard-->
+
+  <div class="right_col_ad" style="" id="adHOMEPAGEMIDDLERIGHT">
+
+    <!--start of components/ad/feedback_link-->
+
+<span class="ad_island_feedback" id="feedback_HOMEPAGEMIDDLERIGHT">
+  <a class="adfeedback" target="_blank" href="/about-stuff/advertising-feedback/?pos=HOMEPAGEMIDDLERIGHT&adsize=300x250&area=s.stuff">
+
+  Ad Feedback</a>
+</span>
+<!--end of components/ad/feedback_link-->
+
+  </div> 
+  <!--start of components/ad/push-->
+
+<script language="javascript">
+<!--
+
+PushDartJSAd('HOMEPAGEMIDDLERIGHT', 4, 300, 250, '300x250');
+
+//-->
+</script>
+<!--end of components/ad/push-->
+
+<!--end of components/ad/standard-->
+
+<!--end of components/ad/mid_right_col_ad-->
+
+<!-- start components/ad/featured_promotions -->
+<div class="hbox_narrow hidden_ad" id="adfeatured_promobox">
+    <div class="hbox_top_none">
+        <div class="hbox_top_none_left"></div>
+        <h2 class="hbox_top_none_title">Featured Promotions</h2>
+        <div class="hbox_top_none_right"></div>
+    </div>
+
+    <div class="hbox_body_left">
+        <div class="special_offers" style="width:258px; padding-left:10px; padding-right:10px;">
+
+<!--start of components/ad/standard-->
+
+<!--end of components/ad/standard-->
+
+        </div>
+    </div>
+
+    <div class="hbox_btm">
+        <div class="hbox_btm_left"></div>
+        <div class="hbox_btm_right"></div>
+    </div>
+</div>
+<!-- end components/ad/featured_promotions -->
+<!--end of components/ad/featured_promotions-->
+
+<!-- start components/ad/sponsored_contents -->
+<div class="hbox_narrow hidden_ad" id="adsponsored_contentbox">
+    <div class="hbox_top_none">
+        <div class="hbox_top_none_left"></div>
+        <h2 class="hbox_top_none_title">Sponsored Content</h2>
+        <div class="hbox_top_none_right"></div>
+    </div>
+
+    <div class="hbox_body_left">
+        <div class="special_offers" style="width:278px; padding:0px;">
+
+<!--start of components/ad/standard-->
+
+  <div class="" style="width:278px; height:auto; float:left;" id="adSPONSOREDCONTENT">
+
+  </div> 
+  <!--start of components/ad/push-->
+
+<script language="javascript">
+<!--
+
+PushDartIframeAd('SPONSOREDCONTENT', null, 278, 200, '278x200');
+
+//-->
+</script>
+<!--end of components/ad/push-->
+
+<!--end of components/ad/standard-->
+
+        </div>
+    </div>
+
+    <div class="hbox_btm">
+        <div class="hbox_btm_left"></div>
+        <div class="hbox_btm_right"></div>
+    </div>
+</div>
+<!-- end components/ad/sponsored_contents -->
+<!--end of components/ad/sponsored_contents-->
+
+<!--start of components/ad/right_col_sponsored_links-->
+
+<div id="adsponsored_links_box" class="hbox_narrow hidden_ad">
+    <div class="hbox_top_none">
+        <div class="hbox_top_none_left"></div>
+        <span class="hbox_top_none_title" style="font-size:12px;">Sponsored Links</span>
+        <div class="hbox_top_none_right"></div>
+    </div>
+
+    <div class="hbox_body_left sponsored_links_right_col">
+        <ul>
+
+        <li><span id="adSPONSOREDLINK1" class="hidden_ad">
+<!--start of components/ad/push-->
+
+<script language="javascript">
+<!--
+
+PushDartIframeAd('SPONSOREDLINK1', 12, 310, 16, '310x16');
+
+//-->
+</script>
+<!--end of components/ad/push-->
+
+</span></li>
+
+        <li><span id="adSPONSOREDLINK2" class="hidden_ad">
+<!--start of components/ad/push-->
+
+<script language="javascript">
+<!--
+
+PushDartIframeAd('SPONSOREDLINK2', null, 310, 16, '310x16');
+
+//-->
+</script>
+<!--end of components/ad/push-->
+
+</span></li>
+
+        <li><span id="adSPONSOREDLINK3" class="hidden_ad">
+<!--start of components/ad/push-->
+
+<script language="javascript">
+<!--
+
+PushDartIframeAd('SPONSOREDLINK3', null, 310, 16, '310x16');
+
+//-->
+</script>
+<!--end of components/ad/push-->
+
+</span></li>
+
+        <li><span id="adSPONSOREDLINK4" class="hidden_ad">
+<!--start of components/ad/push-->
+
+</span></li>
+
+        <li><span id="adSPONSOREDLINK5" class="hidden_ad">
+<!--start of components/ad/push-->
+
+</span></li>
+
+        <li><span id="adSPONSOREDLINK6" class="hidden_ad">
+<!--start of components/ad/push-->
+
+</span></li>
+
+        <li><span id="adSPONSOREDLINK7" class="hidden_ad">
+<!--start of components/ad/push-->
+
+</span></li>
+
+        <li><span id="adSPONSOREDLINK8" class="hidden_ad">
+<!--start of components/ad/push-->
+
+</span></li>
+
+        </ul>
+    </div>
+    <div class="hbox_btm">
+        <div class="hbox_btm_left"></div>
+        <div class="hbox_btm_right"></div>
+    </div>
+</div>
+<br clear="all">
+<!--end of components/ad/right_col_sponsored_links-->
+
+<!--start of components/pointer/recommended-links-->
+
+<!--end of components/pointer/recommended-links-->
+
+<!--start of components/pointer/right_col_pointers-->
+
+<div class="hbox_narrow">
+
+    <div class="hbox_top_grey">
+        <div class="hbox_top_grey_left"></div>
+
+        <span class="hbox_top_title">daily fix</span>
+
+        <div class="hbox_top_grey_right"></div>
+    </div>
+
+    <div class="hbox_body_left">
+        <div class="blog_pointer"><a href="http://www.stuff.co.nz/national/today-in-history"><img src="http://static2.stuff.co.nz/1379279170/960/9169960.png" alt="Today in History" border="0" class="photoborder" /></a>
+            <h2 class="other_headline"><a href="http://www.stuff.co.nz/national/today-in-history">Today in history</a></h2>
+            <p>Dig into New Zealand's archives</p>
+        </div>
+    </div>
+
+    <div class="poll_bottom_divider"></div>
+
+    <div class="hbox_body_left">
+        <div class="blog_pointer"><a href="/life-style/horoscopes/"><img src="http://static2.stuff.co.nz/1365048325/135/2876135.jpg" alt="What do the stars have in store for you today?" border="0" class="photoborder" /></a>
+            <h2 class="other_headline"><a href="/life-style/horoscopes/">Horoscopes</a></h2>
+            <p>What do the stars have in store for you today?</p>
+        </div>
+    </div>
+
+    <div class="poll_bottom_divider"></div>
+
+    <div class="hbox_body_left">
+        <div class="blog_pointer"><a href="/life-style/crosswords-sudoku/daily-puzzles/2092/Sudoku-Daily"><img src="http://static2.stuff.co.nz/1366870697/960/2369960.jpg" alt="sudoku" border="0" class="photoborder" /></a>
+            <h2 class="other_headline"><a href="/life-style/crosswords-sudoku/daily-puzzles/2092/Sudoku-Daily">Puzzles</a></h2>
+            <p>Test your mind with our puzzles</p>
+        </div>
+    </div>
+
+    <div class="poll_bottom_divider"></div>
+
+    <div class="hbox_body_left">
+        <div class="blog_pointer"><a href="http://www.stuff.co.nz/blogs/opinion/cartoons"><img src="http://static2.stuff.co.nz/1380114545/561/7190561.jpg" alt="Dilbert cartoon" border="0" class="photoborder" /></a>
+            <h2 class="other_headline"><a href="http://www.stuff.co.nz/blogs/opinion/cartoons">Cartoons</a></h2>
+            <p>The Little Things, Dilbert, Tom Scott and others </p>
+        </div>
+    </div>
+
+    <div class="hbox_btm">
+        <div class="hbox_btm_left"></div>
+        <div class="hbox_btm_right"></div>
+    </div>
+</div>
+
+<!--start of components/split_right_col_strap-->
+
+<div class="hbox_right_cpl">
+    <div class="hbox_top_kc">
+        <div class="hbox_top_kc_left"></div>
+        <span class="hbox_top_title"><a href="/essentialmums/">EssentialMums</a></span>
+        <div class="hbox_top_kc_right"></div>
+
+            <!--start of components/strap-subsections -->
+
+    <div class="hbox_subsections">
+
+            <a href="http://www.essentialmums.co.nz/">View site </a>
+
+    </div>
+
+<!--end of components/strap-subsections -->
+
+    </div>
+    <div class="hbox_body">
+
+            <div class="hbox_right_item">
+
+                    <a href="/essentialmums/mums-life/health/9217188/Yummy-mummy-fallacy"><img class="right_image_thumb" src="http://static2.stuff.co.nz/1380230422/234/9217234.jpg" alt="Yummy mummy" height="60" width="90"/></a>
+
+                <h3 class="right_headline"><a href="/essentialmums/mums-life/health/9217188/Yummy-mummy-fallacy">'Yummy mummy' fallacy</a></h3>
+
+                <p>I don't know how other new mums feel about the phrase "yummy mummy' but I personally find it a bit judgemental.</p>
+            </div>
+
+            <div class="hbox_right_item">
+
+                    <a href="/essentialmums/little-kids/9217648/Childcare-centre-sued-after-baby-bite"><img class="right_image_thumb" src="http://static2.stuff.co.nz/1380237461/669/9217669.jpg" alt="abc learning" height="60" width="90"/></a>
+
+                <h3 class="right_headline"><a href="/essentialmums/little-kids/9217648/Childcare-centre-sued-after-baby-bite">Centre sued over baby bite</a></h3>
+
+                <p>The family of an 11-month-old child who was badly bitten by another child at a childcare centre has settled the matter out of court.    </p>
+            </div>
+
+            <div class="hbox_right_item">
+
+                    <a href="/essentialmums/baby/caring-for-baby/9214037/Saying-goodbye-to-the-newborn-stage"><img class="right_image_thumb" src="http://static2.stuff.co.nz/1378787292/021/9148021.jpg" alt="Cute Newborn" height="60" width="90"/></a>
+
+                <h3 class="right_headline"><a href="/essentialmums/baby/caring-for-baby/9214037/Saying-goodbye-to-the-newborn-stage">Newborn no more</a></h3>
+
+                <p>I can't seem to get enough of newborn babies or imagine my life without one. </p>
+            </div>
+
+            <div class="hbox_right_item">
+
+                    <a href="/essentialmums/family-life/family-time/9216804/Tom-Fitzsimons-In-the-tantrums"><img class="right_image_thumb" src="http://static2.stuff.co.nz/1380227229/820/9216820.jpg" alt="Tantrum" height="60" width="90"/></a>
+
+                <h3 class="right_headline"><a href="/essentialmums/family-life/family-time/9216804/Tom-Fitzsimons-In-the-tantrums">In the tantrums</a></h3>
+
+                <p>What  happened to our upbeat, endlessly distractable little boy? </p>
+            </div>
+
+    </div>
+</div>
+<!--start of components/ad/strap_ad-->
+
+<!--start of components/ad/standard-->
+
+  <!-- No ad set up for position STRAPSPONSOR -->
+
+<!--end of components/ad/standard-->
+
+<!--end of components/ad/strap_ad-->
+
+<!--end of components/split_right_col_strap-->
+
+<div class="hbox_narrow">
+
+    <div class="hbox_top_grey">
+        <div class="hbox_top_grey_left"></div>
+
+        <span class="hbox_top_title"><a href="http://www.stuff.co.nz/about-stuff/2708777/Follow-us-on-Facebook-and-Twitter">connect<span class="jeremy_ie6">&raquo;</span></a></span>
+
+        <div class="hbox_top_grey_right"></div>
+    </div>
+
+    <div class="hbox_body_left">
+        <div class="blog_pointer"><a href=""><img src="http://static2.stuff.co.nz/1370916799/987/8358987.gif" alt="social media " border="0" class="photoborder" /></a>
+            <h2 class="other_headline"><a href=""></a></h2>
+            <p><img width="236" height="60" border="0" usemap="#Map" src="http://file.stuff.co.nz/stuff/images/social.png" style="float: left; margin-right:0"><map name="Map">   <area alt="Facebook" target="_blank" href="https://www.facebook.com/Stuff.co.nz" coords="11,4,61,52" shape="rect">   <area alt="Twitter" target="_blank" href="https://twitter.com/nzstuff" coords="94,4,142,52" shape="rect">  <area alt="Google Plus" target="_blank" href="https://plus.google.com/u/1/b/103399355275576421007/103399355275576421007/posts" coords="175,4,226,52" shape="rect"></map></p>
+        </div>
+    </div>
+
+    <div class="poll_bottom_divider"></div>
+
+    <div class="hbox_body_left">
+        <div class="blog_pointer"><a href="http://www.stuff.co.nz/stuff-nation/stuff-nation-benefits/7619045"><img src="http://static2.stuff.co.nz/1365048360/732/8353732.jpg" alt="Newsletters" border="0" class="photoborder" /></a>
+            <h2 class="other_headline"><a href="http://www.stuff.co.nz/stuff-nation/stuff-nation-benefits/7619045">Newsletters</a></h2>
+            <p>Decide what news you want to receive when it suits you</p>
+        </div>
+    </div>
+
+    <div class="poll_bottom_divider"></div>
+
+    <div class="hbox_body_left">
+        <div class="blog_pointer"><a href="http://www.stuff.co.nz/about-stuff/1513469/Make-Stuff-my-Homepage"><img src="http://static2.stuff.co.nz/1365048362/735/8353735.jpg" alt="Homepage" border="0" class="photoborder" /></a>
+            <h2 class="other_headline"><a href="http://www.stuff.co.nz/about-stuff/1513469/Make-Stuff-my-Homepage">Make us your homepage</a></h2>
+            <p>Keep up with the latest news by making us your homepage</p>
+        </div>
+    </div>
+
+    <div class="hbox_btm">
+        <div class="hbox_btm_left"></div>
+        <div class="hbox_btm_right"></div>
+    </div>
+</div>
+
+  <!--start of components/pointer/iframe_pointer-->
+
+<!-- start iframe_pointer -->
+<div class="iframe_pointer">
+<iframe scrolling="no" height="390" frameborder="0" width="300" src="http://clientscdn.beyondd.co.nz/ezibuy/"></iframe>
+</div> 
+<!-- end iframe_pointer -->
+<!--end of components/pointer/iframe_pointer-->
+
+  <!--start of components/pointer/iframe_pointer-->
+
+<!-- start iframe_pointer -->
+<div class="iframe_pointer">
+<iframe scrolling="no" height="310" frameborder="0" width="300" src="http://file.stuff.co.nz/stuff/hot-booking-banner-html/index.html"></iframe>
+</div> 
+<!-- end iframe_pointer -->
+<!--end of components/pointer/iframe_pointer-->
+
+<!--end of components/pointer/right_col_pointers-->
+
+<!--start of components/split_right_col_strap-->
+
+<div class="hbox_right_cpl">
+    <div class="hbox_top_yellow">
+        <div class="hbox_top_yellow_left"></div>
+        <span class="hbox_top_title"><a href="/travel/kiwi-traveller/">Kiwi Traveller</a></span>
+        <div class="hbox_top_yellow_right"></div>
+
+            <!--start of components/section/sponsor_hbox-->
+
+    <div class="hbox_top_sponsor">
+        <!--start of components/section/sponsor_logo-->
+
+    <a href="/track/click/8940158?dest=http%3A%2F%2Fwww.houseoftravel.co.nz%2F" target="_blank" >
+      <img src="http://static2.stuff.co.nz/1375243315/159/8940159.gif" alt="Click Here" />
+    </a>
+
+<!--end of components/section/sponsor_logo-->
+
+    </div>
+
+<!--end of components/section/sponsor_hbox-->
+
+    </div>
+    <div class="hbox_body">
+
+            <div class="hbox_right_item">
+
+                    <a href="/travel/kiwi-traveller/blogs/ask-an-expert/9201528/Advice-Koh-Samui-or-Phuket"><img class="right_image_thumb" src="http://static2.stuff.co.nz/1371589718/977/8813977.jpg" alt="Thailand island" height="60" width="90"/></a>
+
+                <h3 class="right_headline"><a href="/travel/kiwi-traveller/blogs/ask-an-expert/9201528/Advice-Koh-Samui-or-Phuket">Koh Samui or Phuket?</a></h3>
+
+                <p>Can't decide between Koh Samui and Phuket? If you have a question, email us at travel@stuff.co.nz.</p>
+            </div>
+
+            <div class="hbox_right_item">
+
+                    <a href="/travel/kiwi-traveller/9184415/Kiwi-travel-Why-work-with-donkeys"><img class="right_image_thumb" src="http://static2.stuff.co.nz/1379541670/424/9184424.jpg" alt="Donkey" height="60" width="90"/></a>
+
+                <h3 class="right_headline"><a href="/travel/kiwi-traveller/9184415/Kiwi-travel-Why-work-with-donkeys">Why work with donkeys?</a></h3>
+
+                <p>Work was completed without the single combustion of a tractor engine.</p>
+            </div>
+
+            <div class="hbox_right_item">
+
+                    <a href="/travel/destinations/europe/france/9175893/Expat-tales-France"><img class="right_image_thumb" src="http://static2.stuff.co.nz/1379470125/751/9180751.jpg" alt="France " height="60" width="90"/></a>
+
+                <h3 class="right_headline"><a href="/travel/destinations/europe/france/9175893/Expat-tales-France">French connection</a></h3>
+
+                <p>French life is like a dream for Claire Bancks and family. </p>
+            </div>
+
+            <div class="hbox_right_item">
+
+                    <a href="/stuff-nation/assignments/share-your-news-and-views/9185766/Kiwi-travel-Family-holiday-in-Laos"><img class="right_image_thumb" src="http://static2.stuff.co.nz/1379557761/873/9185873.jpg" alt="Elephants in Laos" height="60" width="90"/></a>
+
+                <h3 class="right_headline"><a href="/stuff-nation/assignments/share-your-news-and-views/9185766/Kiwi-travel-Family-holiday-in-Laos">Family holiday in Laos</a></h3>
+
+                <p>We decided to push the bounds of sanity even further by venturing to Laos with our four kids in tow.</p>
+            </div>
+
+    </div>
+</div>
+<!--start of components/ad/strap_ad-->
+
+<!--start of components/ad/standard-->
+
+  <!-- No ad set up for position STRAPSPONSOR -->
+
+<!--end of components/ad/standard-->
+
+<!--end of components/ad/strap_ad-->
+
+<!--end of components/split_right_col_strap-->
+
+<!--start of components/split_right_col_strap-->
+
+<div class="hbox_right_cpl">
+    <div class="hbox_top_blue">
+        <div class="hbox_top_blue_left"></div>
+        <span class="hbox_top_title"><a href="/oddstuff/">Oddstuff</a></span>
+        <div class="hbox_top_blue_right"></div>
+
+            <!--start of components/strap-subsections -->
+
+<!--end of components/strap-subsections -->
+
+    </div>
+    <div class="hbox_body">
+
+            <div class="hbox_right_item">
+
+                    <a href="/oddstuff/9217296/Haunted-House-puts-underwear-on-naked-event"><img class="right_image_thumb" src="http://static2.stuff.co.nz/1380232624/348/9217348.jpg" alt="Shocktoberfest Strap" height="60" width="90"/></a>
+
+                <h3 class="right_headline"><a href="/oddstuff/9217296/Haunted-House-puts-underwear-on-naked-event">Keep your underwear on</a></h3>
+
+                <p>Naked and scared has turned into semi-clothed and kind of spooked.</p>
+            </div>
+
+            <div class="hbox_right_item">
+
+                    <a href="/travel/destinations/usa/9213391/High-Roller-biggest-of-them-all"><img class="right_image_thumb" src="http://static2.stuff.co.nz/1380160080/399/9213399.jpg" alt="High Roller Ferris wheel" height="60" width="90"/></a>
+
+                <h3 class="right_headline"><a href="/travel/destinations/usa/9213391/High-Roller-biggest-of-them-all">High Roller biggest of them all</a></h3>
+
+                <p>Las Vegas is getting the world's largest Ferris wheel at 152m tall - that's 55 storeys up.</p>
+            </div>
+
+            <div class="hbox_right_item">
+
+                    <a href="/oddstuff/9207854/So-a-bear-walked-into-a-bar"><img class="right_image_thumb" src="http://static2.stuff.co.nz/1380070303/860/9207860.jpg" alt="A black bear." height="60" width="90"/></a>
+
+                <h3 class="right_headline"><a href="/oddstuff/9207854/So-a-bear-walked-into-a-bar">So a bear walked into a bar ...</a></h3>
+
+                <p>It sounds like a really bad joke involving a bear, a bar and a "freaked out" bartender.</p>
+            </div>
+
+            <div class="hbox_right_item">
+
+                    <a href="/oddstuff/9203931/Voicemail-ads-to-pay-off-debt"><img class="right_image_thumb" src="http://static2.stuff.co.nz/1380005048/953/9203953.jpg" alt="Paul Lawrence and Gary Pointon" height="60" width="90"/></a>
+
+                <h3 class="right_headline"><a href="/oddstuff/9203931/Voicemail-ads-to-pay-off-debt">Your message here</a></h3>
+
+                <p>Some sell ad space on billboards, others on buses; two Otago lads are selling it on their voicemail.</p>
+            </div>
+
+    </div>
+</div>
+<!--start of components/ad/strap_ad-->
+
+<!--start of components/ad/standard-->
+
+  <!-- No ad set up for position STRAPSPONSOR -->
+
+<!--end of components/ad/standard-->
+
+<!--end of components/ad/strap_ad-->
+
+<!--end of components/split_right_col_strap-->
+
+<!--start of components/split_right_col_strap-->
+
+<div class="hbox_right_cpl">
+    <div class="hbox_top_lyellow">
+        <div class="hbox_top_lyellow_left"></div>
+        <span class="hbox_top_title"><a href="/blogs/">Blogs</a></span>
+        <div class="hbox_top_lyellow_right"></div>
+
+            <!--start of components/strap-subsections -->
+
+<!--end of components/strap-subsections -->
+
+    </div>
+    <div class="hbox_body">
+
+            <div class="hbox_right_item">
+
+                    <a href="/entertainment/blogs/on-the-box/9216802/An-Almighty-farewell"><img class="right_image_thumb" src="http://static2.stuff.co.nz/1380235508/516/9217516.jpg" alt="Chris" height="60" width="90"/></a>
+
+                <h3 class="right_headline"><a href="/entertainment/blogs/on-the-box/9216802/An-Almighty-farewell">An Almighty farewell</a></h3>
+
+                <p>This season, every part of The Almighty Johnsons was more vivid than before.</p>
+            </div>
+
+            <div class="hbox_right_item">
+
+                    <a href="/travel/blogs/voyages-in-america/9212628/The-San-Francisco-heartbreak"><img class="right_image_thumb" src="http://static2.stuff.co.nz/1380233030/372/9217372.jpg" alt="James" height="60" width="90"/></a>
+
+                <h3 class="right_headline"><a href="/travel/blogs/voyages-in-america/9212628/The-San-Francisco-heartbreak">It's no fairytale</a></h3>
+
+                <p>This America's Cup was won by brute force of cash and persistence.</p>
+            </div>
+
+            <div class="hbox_right_item">
+
+                    <a href="/life-style/blogs/the-omnivore/9215559/The-un-virtuous-meal-with-wine-matches"><img class="right_image_thumb" src="http://static2.stuff.co.nz/1380237796/706/9217706.jpg" alt="Jeremy" height="60" width="90"/></a>
+
+                <h3 class="right_headline"><a href="/life-style/blogs/the-omnivore/9215559/The-un-virtuous-meal-with-wine-matches">Steak matching</a></h3>
+
+                <p>A five-course dinner with wine matches. How could I refuse?</p>
+            </div>
+
+            <div class="hbox_right_item">
+
+                    <a href="/entertainment/blogs/blog-on-the-tracks/9215502/Simon-Says-Dance-to-the-80s"><img class="right_image_thumb" src="http://static2.stuff.co.nz/1380231254/258/9217258.jpg" alt="Simon" height="60" width="90"/></a>
+
+                <h3 class="right_headline"><a href="/entertainment/blogs/blog-on-the-tracks/9215502/Simon-Says-Dance-to-the-80s">Dance to the 80s</a></h3>
+
+                <p>What's the one song that would be essential to a 1980s DJ evening?</p>
+            </div>
+
+    </div>
+</div>
+<!--start of components/ad/strap_ad-->
+
+<!--start of components/ad/standard-->
+
+  <!-- No ad set up for position STRAPSPONSOR -->
+
+<!--end of components/ad/standard-->
+
+<!--end of components/ad/strap_ad-->
+
+<!--end of components/split_right_col_strap-->
+
+<!--start of components/right_col_trademe-->
+<!-- trademe starts-->
+<div id="trademe-slider" class="trademe-accordion-outer-div">
+    <div class="hbox_narrow">
+        <div class="hbox_top_grey">
+            <div class="hbox_top_grey_left"></div>
+
+            <span class="hbox_top_title">Auctions, classifieds &amp; more</span>
+            <div class="hbox_top_grey_right"></div>
+        </div>
+        <br clear="all">
+
+        <div>
+            <script type="text/javascript" src="http://www.trademe.co.nz/iframe/check-online"></script>
+            <ul id="trademe" class="ui-accordion-container" style="width:300px;">
+
+                <li>
+                    <a href='#'><span class="ui-accordion-name">New &amp; Used Goods</span></a>
+                    <div class="ui-accordion-panel">
+                        <!-- General Auctions-->
+                        <div class="trademe-accordion-inner-box">
+                            <iframe id="tmiframe_new-used-goods" class="trademe-iframe trademe-buysell" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
+                        </div>
+                    </div><!--ui-accordion-panel-->
+                </li>
+
+                <li>
+                    <a href='#'><span class="ui-accordion-name">Jobs</span></a>
+                    <div class="ui-accordion-panel">
+                        <!-- Jobs -->
+                        <div class="trademe-accordion-inner-box">
+                            <iframe id="tmiframe_jobs" class="trademe-iframe trademe-buysell" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
+                        </div>
+                    </div><!--ui-accordion-panel-->
+                </li>
+
+                <li>
+                    <a href='#'><span class="ui-accordion-name">Property</span></a>
+                    <div class="ui-accordion-panel">
+                        <!-- Property-->
+                        <div class="trademe-accordion-inner-box">
+                            <iframe id="tmiframe_property" class="trademe-iframe trademe-buysell" frameborder="0" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
+                        </div>
+                    </div><!--ui-accordion-panel-->
+                </li>
+
+                <li>
+                    <a href='#'><span class="ui-accordion-name">Motors</span></a>
+                    <div class="ui-accordion-panel">
+                        <!-- Motors-->
+                        <div class="trademe-accordion-inner-box">
+                            <iframe id="tmiframe_motors" class="trademe-iframe trademe-buysell" frameborder="0" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
+                        </div>
+                    </div><!--ui-accordion-panel-->
+                </li>
+
+            </ul>
+        </div><!-- no id -->
+
+    </div><!--hbox_narrow-->
+
+</div><!--trademe-slider-->
+<!-- trademe ends -->
+<!--end of components/right_col_trademe-->
+
+<!--end of components/homepage_lower_right_col-->
+
+</div>
+
+</div><!--end right col-->
+
+<!--start of components/network_footer-->
+
+<div id="footer-newspapers">
+    <div class="hdividier"></div>
+    <div id="Network-Footer-Title">Our Network's Top Stories</div>
+
+        <div class="Network-Footer-Row">
+
+              <!--start of components/network_footer_item-->
+<div class="Network-Footer-Item">
+    <div class="Network-Footer-Item-Logo">
+
+        <a href="/dominion-post"><img src="http://static2.stuff.co.nz/1285819224/587/4184587.gif" /></a>
+    </div>
+    <div class="Network-Footer-Divider"></div>
+    <div class="Network-Footer-Headlines">
+
+            <a href="/dominion-post/news/9215538/Notorious-fugitive-on-the-loose">Fugitive on the loose</a>
+
+            <a href="/dominion-post/sport/9217578/Sevens-demand-crashes-system">Sevens demand crashes system</a>
+
+            <a href="/dominion-post/news/9215418/Wasteland-concern-if-flyover-built">Wasteland concern if flyover built</a>
+
+            <a href="/dominion-post/news/9215414/Slowly-voters-start-to-have-their-say-in-polls">Slowly, voters start to have their say</a>
+
+            <a href="/dominion-post/news/9215415/Suicide-review-after-134-vulnerable-people-die">Suicide review after 134 die</a>
+
+    </div>
+</div>
+<!--end of components/network_footer_item-->
+
+              <!--start of components/network_footer_item-->
+<div class="Network-Footer-Item">
+    <div class="Network-Footer-Item-Logo">
+
+        <a href="/the-press"><img src="http://static2.stuff.co.nz/1285819191/585/4184585.gif" /></a>
+    </div>
+    <div class="Network-Footer-Divider"></div>
+    <div class="Network-Footer-Headlines">
+
+            <a href="/the-press/news/9217768/Womans-arrest-humiliating-judge-says">Club arrest 'humiliating'</a>
+
+            <a href="/the-press/business/the-rebuild/9215590/Valuation-firms-poor-work-haunts-city-facilities">'Poor work' haunts city</a>
+
+            <a href="/the-press/news/local-elections-2013/9217105/Candidate-quits-after-explicit-images-leaked">Candidate quits over explicit images</a>
+
+            <a href="/the-press/business/your-property/9217521/Apartments-for-Manchester-St">Apartments for Manchester St</a>
+
+            <a href="/the-press/news/local-elections-2013/9215619/Christchurch-mayoral-rivals-in-funding-feud">Mayoral rivals in funding feud</a>
+
+    </div>
+</div>
+<!--end of components/network_footer_item-->
+
+              <!--start of components/network_footer_item-->
+<div class="Network-Footer-Item">
+    <div class="Network-Footer-Item-Logo">
+
+        <a href="/waikato-times"><img src="http://static2.stuff.co.nz/1285817881/514/4184514.gif" /></a>
+    </div>
+    <div class="Network-Footer-Divider"></div>
+    <div class="Network-Footer-Headlines">
+
+            <a href="/waikato-times/news/9215574/Public-speaks-out-on-fluoride">Fluoride: Put it back</a>
+
+            <a href="/waikato-times/news/election-2013/9215577/Lawyers-called-in-as-election-race-gets-ugly">Election race gets ugly</a>
+
+            <a href="/waikato-times/news/9215576/Council-to-re-roof-its-leaky-HQ">Council to re-roof its leaky HQ</a>
+
+            <a href="/waikato-times/news/9216717/Large-truck-hits-cow-near-Huntly">Large truck hits cow near Huntly</a>
+
+            <a href="/waikato-times/news/9217531/Storm-puts-Cooks-Beach-seawall-to-the-test">Storm batters beachside seawall</a>
+
+    </div>
+</div>
+<!--end of components/network_footer_item-->
+
+              <!--start of components/network_footer_item-->
+<div class="Network-Footer-Item">
+    <div class="Network-Footer-Item-Logo">
+
+        <a href="/auckland"><img src="http://static2.stuff.co.nz/1311236650/230/5323230.jpg" /></a>
+    </div>
+    <div class="Network-Footer-Divider"></div>
+    <div class="Network-Footer-Headlines">
+
+            <a href="/national/9216547/Crash-shuts-major-Auckland-road">Airport traffic piled up</a>
+
+            <a href="/auckland/local-news/manukau-courier/9213307/Prostitutes-accosting-teens">Prostitutes target teens</a>
+
+            <a href="/auckland/local-news/central-leader/9212468/Bill-targeting-loan-sharks-clears-first-hurdle">Loan shark bill clears first hurdle</a>
+
+            <a href="/auckland/local-news/local-blogs/willie-jackson/9213308/Americas-Cup-all-about-money">America's Cup all about the money</a>
+
+            <a href="/auckland/local-news/auckland-city-harbour-news/9213187/Phone-app-will-aid-teens">Rainbow Youth app will help teens</a>
+
+    </div>
+</div>
+<!--end of components/network_footer_item-->
+
+              <!--start of components/network_footer_item-->
+<div class="Network-Footer-Item">
+    <div class="Network-Footer-Item-Logo">
+
+        <a href="/southland-times"><img src="http://static2.stuff.co.nz/1286835925/008/4223008.gif" /></a>
+    </div>
+    <div class="Network-Footer-Divider"></div>
+    <div class="Network-Footer-Headlines">
+
+            <a href="/southland-times/news/9217523/Reward-offered-in-hunt-for-missing-man">Reward offered</a>
+
+            <a href="/southland-times/culture/9213192/Paintings-reveal-prize-farms">Paintings reveal prize farms</a>
+
+            <a href="/southland-times/news/9215536/South-third-highest-patient-events-in-NZ">Events 'very sad'</a>
+
+            <a href="/southland-times/business/9215630/AgResearch-confirms-job-cuts-at-Invermay">AgResearch confirms job cuts</a>
+
+            <a href="/southland-times/news/9215624/Electric-vehicle-joins-Venture-fleet">Electric vehicle joins Venture fleet</a>
+
+    </div>
+</div>
+<!--end of components/network_footer_item-->
+
+        </div>
+
+            <div class="Network-Footer-Divider" style="float:left"></div>
+
+        <div class="Network-Footer-Row">
+
+              <!--start of components/network_footer_item-->
+<div class="Network-Footer-Item">
+    <div class="Network-Footer-Item-Logo">
+
+        <a href="/taranaki-daily-news"><img src="http://static2.stuff.co.nz/1285819614/599/4184599.gif" /></a>
+    </div>
+    <div class="Network-Footer-Divider"></div>
+    <div class="Network-Footer-Headlines">
+
+            <a href="/taranaki-daily-news/news/9215673/Old-hospital-faces-demolition">Hospital demolition </a>
+
+            <a href="/taranaki-daily-news/news/9217241/Ciggies-sold-to-minors">Ciggies sold to minors</a>
+
+            <a href="/taranaki-daily-news/entertainment/9216359/Unreported">Unreported</a>
+
+            <a href="/taranaki-daily-news/news/9215699/Keen-sportsman-loved-telling-stories">Keen sportsman loved telling stories</a>
+
+            <a href="/taranaki-daily-news/news/9215698/Cafe-wipes-out-on-council-wave">Cafe wipes out</a>
+
+    </div>
+</div>
+<!--end of components/network_footer_item-->
+
+              <!--start of components/network_footer_item-->
+<div class="Network-Footer-Item">
+    <div class="Network-Footer-Item-Logo">
+
+        <a href="/manawatu-standard"><img src="http://static2.stuff.co.nz/1285819544/596/4184596.gif" /></a>
+    </div>
+    <div class="Network-Footer-Divider"></div>
+    <div class="Network-Footer-Headlines">
+
+            <a href="/manawatu-standard/news/9216845/Mayoral-candidates-divided-on-debt">Candidates divided on debt</a>
+
+            <a href="/manawatu-standard/news/9216683/Councillor-told-to-leave-after-apology-refused">Councillor ejected </a>
+
+            <a href="/manawatu-standard/news/9216660/Dog-death-mystery-deepens">Dog-death mystery deepens</a>
+
+            <a href="/manawatu-standard/news/9216684/Tributes-paid-to-pair">Tributes paid to pair</a>
+
+            <a href="/manawatu-standard/news/9216700/Communitys-medical-centre-finally-under-way">Medical centre finally under way</a>
+
+    </div>
+</div>
+<!--end of components/network_footer_item-->
+
+              <!--start of components/network_footer_item-->
+<div class="Network-Footer-Item">
+    <div class="Network-Footer-Item-Logo">
+
+        <a href="/nelson-mail"><img src="http://static2.stuff.co.nz/1297742470/669/4660669.gif" /></a>
+    </div>
+    <div class="Network-Footer-Divider"></div>
+    <div class="Network-Footer-Headlines">
+
+            <a href="/nelson-mail/news/9212361/Tahunanui-traffic-plan-overhauled">Traffic plan overhauled</a>
+
+            <a href="/nelson-mail/news/9217486/Dog-killed-after-mauling-58-sheep">Dog killed after mauling 58 sheep</a>
+
+            <a href="/nelson-mail/news/9212319/Daile-you-will-be-missed">Nelson mum, child farewelled</a>
+
+            <a href="/nelson-mail/9215505/Tasman-take-it-to-the-Banks-to-beat-Northland">Makos take it to the Banks</a>
+
+            <a href="/nelson-mail/news/9211453/Stanton-settles-outside-court">Stanton settles outside court</a>
+
+    </div>
+</div>
+<!--end of components/network_footer_item-->
+
+              <!--start of components/network_footer_item-->
+<div class="Network-Footer-Item">
+    <div class="Network-Footer-Item-Logo">
+
+        <a href="/marlborough-express"><img src="http://static2.stuff.co.nz/1285819243/588/4184588.gif" /></a>
+    </div>
+    <div class="Network-Footer-Divider"></div>
+    <div class="Network-Footer-Headlines">
+
+            <a href="/marlborough-express/news/9213249/House-fire-in-Blenheim">Young family flee blaze</a>
+
+            <a href="/marlborough-express/news/9213718/Seal-basher-found-guilty">Guilty on two charges</a>
+
+            <a href="/marlborough-express/news/9216687/College-debt-to-be-paid-9-years-early">MBC getting back in the black</a>
+
+            <a href="/marlborough-express/news/9216749/Most-think-alcohol-a-problem">Most think alcohol a problem</a>
+
+            <a href="/marlborough-express/news/9211589/Roundabout-set-to-cut-crash-risk">Roundabout coming about</a>
+
+    </div>
+</div>
+<!--end of components/network_footer_item-->
+
+              <!--start of components/network_footer_item-->
+<div class="Network-Footer-Item">
+    <div class="Network-Footer-Item-Logo">
+
+        <a href="/timaru-herald"><img src="http://static2.stuff.co.nz/1285819647/602/4184602.gif" /></a>
+    </div>
+    <div class="Network-Footer-Divider"></div>
+    <div class="Network-Footer-Headlines">
+
+            <a href="/timaru-herald/news/9215691/Profit-buoys-Timaru-port-mood">Profit buoys port</a>
+
+            <a href="/timaru-herald/news/9215717/Patients-deaths-prompt-suicide-review">Patients' deaths prompt review</a>
+
+            <a href="/timaru-herald/news/9215690/Qantas-rights-to-alpine-airspace-upsets-fans">Qantas' airspace rights upsets</a>
+
+            <a href="/timaru-herald/news/9215713/Thousands-vote-early-in-council-elections">Thousands vote early in elections</a>
+
+            <a href="/timaru-herald/news/9215715/Case-trips-up-for-want-of-evidence">Case trips up over evidence</a>
+
+    </div>
+</div>
+<!--end of components/network_footer_item-->
+
+        </div>
+
+    <div class="Network-Footer-Others">Other Newspapers:
+
+            <a href="/sunday-news">Sunday News</a>
+
+             | 
+            <a href="/sunday-star-times">Sunday Star Times</a>
+
+    </div><!--end other newspapers-->
+</div>
+
+<!--end of components/network_footer-->
+
+<!--start of components/sitemap_footer-->
+
+    <div id="footer-sitemap" style="float:left;" >
+    <span>Stuff.co.nz sections</span>
+    <div id="wrap-sitemap-box">
+        <div class="hdividier"></div>
+        <table cellspacing="10" cellpadding="10" border="0" width="935" id="sitemap-box">
+			<tbody><tr>
+			<td><a href="/national/"><span>National</span></a>
+				<ul>
+					<li><a href="/national/crime/">Crime</a></li>
+					<li><a href="/national/politics/">Politics</a></li>
+					<li><a href="/science/">Science</a></li>
+					<li><a href="/national/education/">Education</a></li>
+					<li><a href="/national/health/">Health</a></li>
+					<li><a href="/national/weather/">Weather</a></li>
+					<li><a href="/national/videos/">Videos</a></li>
+					<li><a href="/national/stuff-quizzes/">Stuff Quizzes</a></li>
+					<li><a href="/national/photos/">Photos</a></li>
+					<li><a href="/national/blogs/">Blogs</a></li>
+					<li><a href="/national/christchurch-earthquake/">Christchurch earthquake</a></li>
+					<li><a href="/environment/">Environment</a></li>
+					<li><a href="/oddstuff/">Oddstuff</a></li>
+
+					<br><a href="/blogs/"><span>Blogs</span></a>
+					<li><a href="/blogs/opinion">Opinion</a></li>
+					<li><a href="/blogs/opinion/columnists/">Columnists</a></li>
+					<li><a href="/blogs/opinion/cartoons/">Cartoons</a></li>
+				</ul>
+			</td>
+
+			<td><a href="/world/"><span>World</span></a>
+				<ul>
+					<li><a href="/world/australia/">Australia</a></li>
+					<li><a href="/world/americas/">Americas</a></li>
+					<li><a href="/world/europe/">Europe</a></li>
+					<li><a href="/world/middle-east/">Middle East</a></li>
+					<li><a href="/world/asia/">Asia</a></li>
+					<li><a href="/world/africa/">Africa</a></li>
+					<li><a href="/world/south-pacific/">South Pacific</a></li>
+					<li><a href="/world/photos/">Photos</a></li>
+					<li><a href="/world/videos/">Videos</a></li>
+				</ul>
+			</td>
+
+			<td><a href="/business/"><span>Business</span></a>
+				<ul>
+					<li><a href="/business/industries/">Industries</a></li>
+					<li><a href="/business/small-business/">Small Business</a></li>
+					<li><a href="/business/money/">Money</a></li>
+					<li><a href="/business/farming/">Farming</a></li>
+					<li><a href="/business/world/">World</a></li>
+					<li><a href="/business/better-business/">Better Business</a></li>
+					<li><a href="/business/market-data/">Market Data</a></li>
+					<li><a href="/business/opinion-analysis/">Opinion & Analysis</a></li>
+					<li><a href="/business/business-tools/">Business Tools</a></li>
+					<li><a href="/business/unlimited/">Unlimited</a></li>
+				</ul>
+			</td>
+
+			<td><a href="/technology/"><span>Technology</span></a>
+				<ul>
+					<li><a href="/technology/digital-living/">Digital Living</a></li>
+					<li><a href="/technology/gadgets/">Gadgets</a></li>
+					<li><a href="/technology/games/">Games</a></li>
+					<li><a href="/technology/blogs/">Blogs</a></li>
+				</ul>
+			</td>
+
+			<td><a href="/sport/"><span>Sport</span></a>
+				<ul>
+					<li><a href="/sport/opinion/">Opinion</a></li>
+					<li><a href="/sport/scoreboard/">Scoreboard</a></li>
+					<li><a href="/sport/rugby/">Rugby</a></li>
+					<li><a href="/sport/cricket/">Cricket</a></li>
+					<li><a href="/sport/league/">League</a></li>
+					<li><a href="/sport/football/">Football</a></li>
+					<li><a href="/sport/basketball/">Basketball</a></li>
+					<li><a href="/sport/golf/">Golf</a></li>
+					<li><a href="/sport/netball/">Netball</a></li>
+					<li><a href="/sport/tennis/">Tennis</a></li>
+					<li><a href="/sport/motorsport/">Motorsport</a></li>
+					<li><a href="/sport/other-sports/">Other Sports</a></li>
+					<li><a href="/sport/racing/">Racing</a></li>
+					<li><a href="/sport/boating/">Boating</a></li>
+				</ul>
+			</td>
+
+			<td><a href="/entertainment/"><span>Entertainment</span></a>
+				<ul>
+					<li><a href="/entertainment/celebrities/">Celebrities</a></li>
+					<li><a href="/entertainment/film/">Film</a></li>
+					<li><a href="/entertainment/music/">Music</a></li>
+					<li><a href="/entertainment/tv/">TV</a></li>
+					<li><a href="/entertainment/books/">Books</a></li>
+					<li><a href="/entertainment/arts/">Arts</a></li>
+					<li><a href="/entertainment/videos/">Videos</a></li>
+					<li><a href="/entertainment/blogs/">Blogs</a></li>
+					<li><a href="http://events.stuff.co.nz/">Events</a></li>
+					<li><a href="/entertainment/photos/">Photos</a></li>
+				</ul>
+			</td>
+
+			<td><a href="/life-style/"><span>Life & Style</span></a>
+				<ul>
+					<li><a href="/life-style/love-sex/">Love & Sex</a></li>
+					<li><a href="/life-style/life/">Life</a></li>
+					<li><a href="/life-style/food-wine/">Food & Wine</a></li>
+					<li><a href="/life-style/wellbeing/">Wellbeing</a></li>
+					<li><a href="/life-style/beauty/">Beauty</a></li>
+					<li><a href="/life-style/home-living/">Home Living</a></li>
+					<li><a href="/life-style/fashion/">Fashion</a></li>
+					<li><a href="/life-style/weddings/">Weddings</a></li>
+					<li><a href="/life-style/cutestuff/">Cutestuff</a></li>
+					<li><a href="/life-style/crosswords-sudoku/">Puzzles</a></li>
+					<li><a href="/life-style/horoscopes/">Horoscopes</a></li>
+				</ul>
+			</td>
+
+			<td><a href="/travel/"><span>Travel</span></a>
+				<ul>
+					<li><a href="/travel/new-zealand/">New Zealand</a></li>
+					<li><a href="/travel/australia/">Australia</a></li>
+					<li><a href="/travel/pacific-islands/">Pacific Islands</a></li>
+					<li><a href="/travel/uk-europe/">UK & Europe</a></li>
+					<li><a href="/travel/americas/">Americas</a></li>
+					<li><a href="/travel/asia/">Asia</a></li>
+					<li><a href="/travel/africa/">Africa</a></li>
+					<li><a href="/travel/travel-troubles/">Travel Troubles</a></li>
+					<li><a href="/travel/cruising/">Cruising</a></li>
+					<li><a href="/travel/snow/">Snow</a></li>
+					<li><a href="/travel/blogs/">Blogs</a></li>
+					<li><a href="/travel/videos/">Videos</a></li>
+				</ul>
+			</td>
+
+			<td><a href="/motoring/"><span>Motoring</span></a>
+				<ul>
+					<li><a href="/motoring/lifestyle-vehicles/">Lifestyle Vehicles</a></li>
+					<li><a href="/motoring/road-tests/">Road Tests</a></li>
+					<li><a href="/motoring/customs-classics/">Customs & Classics</a></li>
+					<li><a href="/motoring/bikes/">Bikes</a></li>
+					<li><a href="/motoring/motorsport/">Motorsport</a></li>
+					<li><a href="/motoring/videos/">Videos</a></li>
+					<li><a href="/motoring/photos/">Photos</a></li>
+					<li><a href="/motoring/great-nz-roads/">Great NZ Roads</a></li>
+				</ul>
+			</td>
+			</tr></tbody>
+		</table>
+	</div>
+</div>
+
+<!--end of components/sitemap_footer-->
+
+<div class="clearer"></div>
+
+<!--end of homepage-->
+
+<!--start of components/footer-->
+
+<div id="footer" class="mbluenav">
+    <div id="footer_top">
+
+            <ul>
+
+                        <li><a href="/national/">National</a></li>
+
+                        <li><a href="/world/">World</a></li>
+
+                        <li><a href="/business/">Business</a></li>
+
+                        <li><a href="/technology/">Technology</a></li>
+
+                        <li><a href="/sport/">Sport</a></li>
+
+                        <li><a href="/entertainment/">Entertainment</a></li>
+
+                        <li><a href="/life-style/">Life & Style</a></li>
+
+                        <li><a href="/travel/">Travel</a></li>
+
+                        <li><a href="/motoring/">Motoring</a></li>
+
+            </ul>
+
+  </div><!--end footer top-->
+  <div id="footer-bottom">
+    <div id="footer-bottom-left">
+
+<!-- TESTING DYNAMIC FOOTER -->
+    <div id="footer-bottom-left">
+    <div class="footer-bottom-left-row">
+        <div class="footer-bottom-left-title">Stuff.co.nz</div>
+        <div class="footer-bottom-left-list">
+            <ul>
+                <li><a href="http://www.stuff.co.nz/about-stuff/22245/Background">About Us</a></li>
+                <li>|</li>
+                <li><a href="http://www.stuff.co.nz/about-stuff/33785/Contact-Us">Contact Us</a></li>
+                <li>|</li>
+                <li><a href="http://www.stuff.co.nz/about-stuff/2715191/Mobile">Mobile</a></li>
+ <li>|</li>
+                <li><a class="view_smartphone_site"  href="http://i.stuff.co.nz/">View Smartphone Site</a></li>
+ <li>|</li>
+                <li><a class="view_lite_site" href="http://m.stuff.co.nz/">View Mobile Light Site</a></li>
+            </ul>
+        </div>
+        <div class="clearer"></div>
+    </div>
+      <div class="footer-bottom-left-row">
+        <div class="footer-bottom-left-title">Subscribe</div>
+        <div class="footer-bottom-left-list">
+          <ul>
+            <!--<li><a href="#">Email</a></li>
+            <li>|</li>-->
+            <li><a href="http://www.stuff.co.nz/about-stuff/4060273/Get-Stuff-TXT-Alerts">Text</a></li>
+            <!--<li>|</li>
+            <li><a href="#">RSS Feeds</a></li>-->
+            <li>|</li>
+            <li><a href="http://www.stuff.co.nz/about-stuff/2708777/Follow-us-on-Facebook-and-Twitter">Follow 
+
+us on Facebook and Twitter</a></li>
+            <li>|</li>
+            <!--<li><a href="#">Digital Editions</a></li>
+            <li>|</li>-->
+            <li><a href="http://fairfaxmedia.co.nz/subscriptions/newspaper-subscriptions.dot">Newspapers</a></li>
+            <li>|</li>
+            <li><a href="http://www.mags4gifts.co.nz/">Magazine subscriptions</a></li>
+            <li>|</li>
+            <li><a href="http://www.stuff.co.nz/rss">RSS - Top Stories</a></li>
+          </ul>
+        </div><!--end footer bottom left list-->
+        <div class="clearer"></div>
+      </div><!--end footer bottom left row-->
+      <div class="footer-bottom-left-row">
+        <div class="footer-bottom-left-title">Services</div>
+        <div class="footer-bottom-left-list">
+          <ul>
+            <!--<li><a href="#">Competitions</a></li>
+            <li>|</li>-->
+            <li><a href="http://www.fairfaxnie.co.nz/">Newspapers in Education</a></li>
+            <li>|</li>
+            <li><a href="http://www.azdirect.co.nz/">A-Z Directories</a></li>
+            <li>|</li>
+            <li><a href="/about-stuff/33001/Advertise-Online">Online Advertising</a></li>
+            <li>|</li>
+            <li><a href="http://www.fairfaxmedia.co.nz/ad-centre/advertise-in-newspapers.dot">Print 
+
+Advertising</a></li><li>|</li>
+	    <li><a href="http://www.fairfaxmedia.co.nz/careers">Careers</a></li>
+          </ul>
+        </div><!--end footer bottom left list-->
+        <div class="clearer"></div>
+      </div><!--end footer bottom left row-->
+      <div class="footer-bottom-left-row">
+        <div class="footer-bottom-left-title">Classifieds</div>
+        <div class="footer-bottom-left-list">
+          <ul>
+	    <li><a href="http://deaths.stuff.co.nz/obituaries/stuff-nz/">Death Notices</a></li>
+            <li>|</li>
+	    <li><a href="http://celebrations.stuff.co.nz/celebration/stuff-nz/">Celebrations</a></li>
+            <li>|</li>
+            <li><a href="http://www.trademe.co.nz/">Trade Me</a></li>
+            <li>|</li>
+            <li><a href="http://www.trademe.co.nz/jobs">Jobs</a></li>
+            <li>|</li>
+            <li><a href="http://www.trademe.co.nz/property">Property</a></li>
+            <li>|</li>
+            <li><a href="http://www.trademe.co.nz/Trade-me-motors/index.htm">Motors</a></li>
+            <li>|</li>
+            <li><a href="http://www.travelbug.co.nz/">Accommodation</a></li>
+            <li>|</li>
+            <li><a href="http://www.findsomeone.co.nz/">Personals</a></li>
+            <li>|</li>
+            <li><a href="http://www.adstuff.co.nz/">Newspaper Classifieds</a></li>
+          </ul>
+        </div><!--end footer bottom left list-->
+        <div class="clearer"></div>
+      </div><!--end footer bottom left row-->
+      <div class="footer-bottom-left-row">
+        <div class="footer-bottom-left-title">Newspapers</div>
+        <div class="footer-bottom-left-list">
+           <ul>
+            <li><a href="/dominion-post/">Dominion Post </a></li>
+            <li>|</li>
+            <li><a href="/the-press/">The Press</a></li>
+            <li>|</li>
+            <li><a href="/waikato-times/">Waikato Times</a></li>
+            <li>|</li>
+            <li><a href="/auckland/">Auckland Now</a></li>
+            <li>|</li>
+            <li><a href="/sunday-news/">Sunday News</a></li>
+            <li>|</li>
+            <li><a href="/sunday-star-times/">Sunday Star-Times</a></li>
+          </ul>
+        </div><!--end footer bottom left list-->
+        <div class="clearer"></div>
+        <div class="footer-bottom-left-row">
+        </div><!--end footer bottom left row-->
+        <div class="footer-bottom-left-title"> </div>
+        <div class="footer-bottom-left-list">
+           <ul>
+            <li><a href="/marlborough-express/">Marlborough Express</a></li>
+            <li>|</li>
+            <li><a href="/manawatu-standard/">Manawatu Standard</a></li>
+            <li>|</li>
+            <li><a href="/nelson-mail/">Nelson Mail</a></li>
+            <li>|</li>
+            <li><a href="/southland-times/">Southland Times</a></li>
+            <li>|</li>
+            <li><a href="/taranaki-daily-news/">Taranaki Daily News</a></li>
+            <li>|</li>
+            <li><a href="/timaru-herald/">Timaru Herald</a></li>
+          </ul>
+        </div><!--end footer bottom left list-->
+        <div class="clearer"></div>
+      </div><!--end footer bottom left row-->
+      <div class="footer-bottom-left-row">
+        <div class="footer-bottom-left-title">Other Sites</div>
+        <div class="footer-bottom-left-list">
+          <ul>
+<li><a href="http://www.essentialmums.co.nz/">Essential Mums</a></li>
+<li>|</li>
+            <li><a href="http://www.cuisine.co.nz/">Cuisine</a></li>
+            <li>|</li>
+            <li><a href="http://www.nzhouseandgarden.co.nz/">NZ House & Garden</a></li>
+            <li>|</li>
+            <li><a href="http://www.nzfishingnews.co.nz/">NZ Fishing News</a></li>
+            <li>|</li>
+            <li><a href="http://www.nzlifeandleisure.co.nz/">NZ Life & Leisure</a></li>
+            <li>|</li>
+            <li><a href="http://www.nzgardener.co.nz/">NZ Gardener</a></li>
+            <li>|</li>
+            <li><a href="http://www.stuff.co.nz/about-stuff/archives/2385092/Fairfax-New-Zealand-Limited-s-
+
+online-news-archive-service">Fairfax 
+
+Archives</a></li>
+            <!-- <li>|</li>
+            <li><a href="#">Network Sitemap</a></li> -->
+          </ul>
+        </div><!--end footer bottom left list-->
+        <div class="clearer"></div>
+      </div><!--end footer bottom left row-->
+    </div>
+    </div><!--end footer bottom left-->
+
+    <div id="footer-bottom-right">
+
+      <p class="footer-right-title">Breaking news?</p>
+      <p class="descrip">Send us your photos, videos and tip-offs:</p>
+      <p class="grey"><span class="float-left">Email</span><span><a href="mailto:newstips@stuff.co.nz">newstips@stuff.co.nz</a></span></p>
+      <div class="clearer"></div>
+      <p class="grey"><span class="float-left">Phone</span><span>0800 697 8833</span></p>
+      <div class="clearer"></div>
+
+    </div><!--end footer bottom right-->
+    <div class="clearer"></div>
+  </div><!--end footer bottom-->
+  <div id="ffxcredit">
+    <div id="ffxlogo"></div><br/>
+      &copy 2013 <a href="http://www.fairfaxmedia.co.nz">Fairfax New Zealand Limited</a><br/>
+      <a href="/about-stuff/legal/25044/privacy-policy">Privacy</a><!--  |
+      <a href="#">Conditions</a>-->
+  </div><!--end fairfax credit-->
+  </div><!--end footer-->
+</div><!--end content div -->
+<!--end of components/footer-->
+
+</div><!--end container-->
+
+<!--start of components/pointer/wallpaper-sponsor-->
+
+<!--end of components/pointer/wallpaper-sponsor-->
+
+<!--start of components/ad/footer_js-->
+
+    <!--start of components/livescoring_footer-->
+
+<!--end of components/livescoring_footer-->
+
+<!-- 9216607 -->
+<script language="javascript">
+hideCboxLinks();
+<!--
+
+load_slider_most_pop();
+
+/* Calls Jquery slider cyclers. Placed here to load before ads, */
+/* used on section_story_tabbed (<-tabbed_section_landing [section layout tabbed-picture]) */
+if(typeof call_cyclers == 'function') {
+  call_cyclers();
+}
+
+function syncRoadBlock(id, content, type, clickthrough, width, height) {
+if (type == 'StaticResource') {
+document.getElementById(id).innerHTML = "<a target='_blank' href='" + clickthrough + "'><img src='" + content + "' width='" + width + "' height='" + height + "'></a>";
+$("#"+id).show();
+} else if (type == "HTMLResource") {
+document.getElementById(id).innerHTML = content;
+$("#"+id).show();
+} else if (type == "IFrameResource"){
+document.getElementById(id).innerHTML = "<iframe scrolling='no' frameborder='0' style='border:none;overflow:hidden;' width='"+width+"' height='"+height+"' src='"+content+"'></iframe>";
+$("#"+id).show();
+}
+}
+
+jwplayer("story_top_asset").setup({
+    autostart: false,
+    skin: "http://static2.stuff.co.nz/1378959298/static/jwplayer/skin/Modieus.zip",
+
+    controlbar: "over",
+    "controlbar.idlehide": true,
+        title: "A closer look at Pakistan\'s earthquake island",
+    levels: [
+        {file: "http://file2.stuff.co.nz/1380222923/608/9216608.mp4"}
+        // {file: ""}
+        ],
+
+    image: "http://file2.stuff.co.nz/1380222923/609/9216609.jpg",
+
+    flashplayer: "http://static2.stuff.co.nz/1378959298/static/jwplayer/player.swf",
+    volume: 80,
+    width: 380,
+    height: 214,
+    plugins: {
+
+    'googima': {
+        'ad': {
+            'preroll' : {
+                'tag': "http://ad-apac.doubleclick.net/adx/"+dartSite+dartZone+";sz=1x2;pos=videoad;suitableflash="+suitableFlash+";dcmt=text/xml;ord="+Math.random()+"?",
+                'type': "graphical_full_slot",
+                'position': "pre"            }
+        },
+                'allowadskip':'true',
+        'allowadskippastseconds':'15'
+    },
+
+        'sharing-3': {
+        link: 'http://www.stuff.co.nz/world/asia/9217290/A-closer-look-at-Pakistans-new-quake-island'
+        },
+    'http://static2.stuff.co.nz/1378959298/static/jwplayer/plugins/omnitureplugin.swf': {}
+    }
+});
+
+//-->
+</script>
+
+<div class="hidden_ad" id="adShD0"><script type="text/javascript">
+if ( 0 < document.dcdAdsI.length ) {
+    document.write('<script type="text\/javascript" id="' + document.dcdAdsI[ 0 ] + '" src="' + document.dcdAdsU[ 0 ] + '"><\/script>');
+}
+</script></div>
+
+<div class="hidden_ad" id="adShD1"><script type="text/javascript">
+if ( 1 < document.dcdAdsI.length ) {
+    document.write('<script type="text\/javascript" id="' + document.dcdAdsI[ 1 ] + '" src="' + document.dcdAdsU[ 1 ] + '"><\/script>');
+}
+</script></div>
+
+<div class="hidden_ad" id="adShD2"><script type="text/javascript">
+if ( 2 < document.dcdAdsI.length ) {
+    document.write('<script type="text\/javascript" id="' + document.dcdAdsI[ 2 ] + '" src="' + document.dcdAdsU[ 2 ] + '"><\/script>');
+}
+</script></div>
+
+<div class="hidden_ad" id="adShD3"><script type="text/javascript">
+if ( 3 < document.dcdAdsI.length ) {
+    document.write('<script type="text\/javascript" id="' + document.dcdAdsI[ 3 ] + '" src="' + document.dcdAdsU[ 3 ] + '"><\/script>');
+}
+</script></div>
+
+<div class="hidden_ad" id="adShD4"><script type="text/javascript">
+if ( 4 < document.dcdAdsI.length ) {
+    document.write('<script type="text\/javascript" id="' + document.dcdAdsI[ 4 ] + '" src="' + document.dcdAdsU[ 4 ] + '"><\/script>');
+}
+</script></div>
+
+<div class="hidden_ad" id="adShD5"><script type="text/javascript">
+if ( 5 < document.dcdAdsI.length ) {
+    document.write('<script type="text\/javascript" id="' + document.dcdAdsI[ 5 ] + '" src="' + document.dcdAdsU[ 5 ] + '"><\/script>');
+}
+</script></div>
+
+<div class="hidden_ad" id="adShD6"><script type="text/javascript">
+if ( 6 < document.dcdAdsI.length ) {
+    document.write('<script type="text\/javascript" id="' + document.dcdAdsI[ 6 ] + '" src="' + document.dcdAdsU[ 6 ] + '"><\/script>');
+}
+</script></div>
+
+<div class="hidden_ad" id="adShD7"><script type="text/javascript">
+if ( 7 < document.dcdAdsI.length ) {
+    document.write('<script type="text\/javascript" id="' + document.dcdAdsI[ 7 ] + '" src="' + document.dcdAdsU[ 7 ] + '"><\/script>');
+}
+</script></div>
+
+<div class="hidden_ad" id="adShD8"><script type="text/javascript">
+if ( 8 < document.dcdAdsI.length ) {
+    document.write('<script type="text\/javascript" id="' + document.dcdAdsI[ 8 ] + '" src="' + document.dcdAdsU[ 8 ] + '"><\/script>');
+}
+</script></div>
+
+<div class="hidden_ad" id="adShD9"><script type="text/javascript">
+if ( 9 < document.dcdAdsI.length ) {
+    document.write('<script type="text\/javascript" id="' + document.dcdAdsI[ 9 ] + '" src="' + document.dcdAdsU[ 9 ] + '"><\/script>');
+}
+</script></div>
+
+<div class="hidden_ad" id="adShD10"><script type="text/javascript">
+if ( 10 < document.dcdAdsI.length ) {
+    document.write('<script type="text\/javascript" id="' + document.dcdAdsI[ 10 ] + '" src="' + document.dcdAdsU[ 10 ] + '"><\/script>');
+}
+</script></div>
+
+<div class="hidden_ad" id="adShD11"><script type="text/javascript">
+if ( 11 < document.dcdAdsI.length ) {
+    document.write('<script type="text\/javascript" id="' + document.dcdAdsI[ 11 ] + '" src="' + document.dcdAdsU[ 11 ] + '"><\/script>');
+}
+</script></div>
+
+<div class="hidden_ad" id="adShD12"><script type="text/javascript">
+if ( 12 < document.dcdAdsI.length ) {
+    document.write('<script type="text\/javascript" id="' + document.dcdAdsI[ 12 ] + '" src="' + document.dcdAdsU[ 12 ] + '"><\/script>');
+}
+</script></div>
+
+<div class="hidden_ad" id="adShD13"><script type="text/javascript">
+if ( 13 < document.dcdAdsI.length ) {
+    document.write('<script type="text\/javascript" id="' + document.dcdAdsI[ 13 ] + '" src="' + document.dcdAdsU[ 13 ] + '"><\/script>');
+}
+</script></div>
+
+<div class="hidden_ad" id="adShD14"><script type="text/javascript">
+if ( 14 < document.dcdAdsI.length ) {
+    document.write('<script type="text\/javascript" id="' + document.dcdAdsI[ 14 ] + '" src="' + document.dcdAdsU[ 14 ] + '"><\/script>');
+}
+</script></div>
+
+<div class="hidden_ad" id="adShD15"><script type="text/javascript">
+if ( 15 < document.dcdAdsI.length ) {
+    document.write('<script type="text\/javascript" id="' + document.dcdAdsI[ 15 ] + '" src="' + document.dcdAdsU[ 15 ] + '"><\/script>');
+}
+</script></div>
+
+<div class="hidden_ad" id="adShD16"><script type="text/javascript">
+if ( 16 < document.dcdAdsI.length ) {
+    document.write('<script type="text\/javascript" id="' + document.dcdAdsI[ 16 ] + '" src="' + document.dcdAdsU[ 16 ] + '"><\/script>');
+}
+</script></div>
+
+<div class="hidden_ad" id="adShD17"><script type="text/javascript">
+if ( 17 < document.dcdAdsI.length ) {
+    document.write('<script type="text\/javascript" id="' + document.dcdAdsI[ 17 ] + '" src="' + document.dcdAdsU[ 17 ] + '"><\/script>');
+}
+</script></div>
+
+<div class="hidden_ad" id="adShD18"><script type="text/javascript">
+if ( 18 < document.dcdAdsI.length ) {
+    document.write('<script type="text\/javascript" id="' + document.dcdAdsI[ 18 ] + '" src="' + document.dcdAdsU[ 18 ] + '"><\/script>');
+}
+</script></div>
+
+<div class="hidden_ad" id="adShD19"><script type="text/javascript">
+if ( 19 < document.dcdAdsI.length ) {
+    document.write('<script type="text\/javascript" id="' + document.dcdAdsI[ 19 ] + '" src="' + document.dcdAdsU[ 19 ] + '"><\/script>');
+}
+</script></div>
+
+<div class="hidden_ad" id="adShD20"><script type="text/javascript">
+if ( 20 < document.dcdAdsI.length ) {
+    document.write('<script type="text\/javascript" id="' + document.dcdAdsI[ 20 ] + '" src="' + document.dcdAdsU[ 20 ] + '"><\/script>');
+}
+</script></div>
+
+<div class="hidden_ad" id="adShD21"><script type="text/javascript">
+if ( 21 < document.dcdAdsI.length ) {
+    document.write('<script type="text\/javascript" id="' + document.dcdAdsI[ 21 ] + '" src="' + document.dcdAdsU[ 21 ] + '"><\/script>');
+}
+</script></div>
+
+<div class="hidden_ad" id="adShD22"><script type="text/javascript">
+if ( 22 < document.dcdAdsI.length ) {
+    document.write('<script type="text\/javascript" id="' + document.dcdAdsI[ 22 ] + '" src="' + document.dcdAdsU[ 22 ] + '"><\/script>');
+}
+</script></div>
+
+<div class="hidden_ad" id="adShD23"><script type="text/javascript">
+if ( 23 < document.dcdAdsI.length ) {
+    document.write('<script type="text\/javascript" id="' + document.dcdAdsI[ 23 ] + '" src="' + document.dcdAdsU[ 23 ] + '"><\/script>');
+}
+</script></div>
+
+<div class="hidden_ad" id="adShD24"><script type="text/javascript">
+if ( 24 < document.dcdAdsI.length ) {
+    document.write('<script type="text\/javascript" id="' + document.dcdAdsI[ 24 ] + '" src="' + document.dcdAdsU[ 24 ] + '"><\/script>');
+}
+</script></div>
+
+<div class="hidden_ad" id="adShD25"><script type="text/javascript">
+if ( 25 < document.dcdAdsI.length ) {
+    document.write('<script type="text\/javascript" id="' + document.dcdAdsI[ 25 ] + '" src="' + document.dcdAdsU[ 25 ] + '"><\/script>');
+}
+</script></div>
+
+<script language="javascript">
+<!--
+for (var i=0;i< document.dcdAdsI.length; i++) {
+    var shadowHolder = document.getElementById("adShD" + i);
+    if (shadowHolder) {
+        shadowHolder.removeChild(document.getElementById(document.dcdAdsI[i]));
+        while (shadowHolder.childNodes.length > 0) {
+            var child = shadowHolder.childNodes[0];
+            if (child.nodeName != "SCRIPT"){
+                shadowHolder.removeChild(child);
+                document.getElementById(document.dcdAdsH[i]).appendChild(child);
+            } else {
+                shadowHolder.removeChild(child);
+            }
+        }
+    }
+}
+for (var i= document.dcdAdsI.length; i<= 25; i++) {
+    var shadowHolder = document.getElementById("adShD" + i);
+    if (shadowHolder) {
+        while (shadowHolder.childNodes.length > 0) {
+            var child = shadowHolder.childNodes[0];
+            shadowHolder.removeChild(child);
+        }
+    }
+}
+
+$(function () {
+    RenderDartIframeAds();
+});
+//-->
+</script>
+
+<!--end of components/ad/footer_js-->
+
+  <!--start of components/analytics-->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ?
+"https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost +
+"google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-1056754-1");
+pageTracker._trackPageview();
+</script>
+<!--end of components/analytics-->
+
+  <!--start of components/netratings-->
+
+<!--start of components/netratings_code_gen-->
+
+<!--end of components/netratings_code_gen-->
+
+<!-- START Nielsen Online SiteCensus V6.0 -->
+<!-- COPYRIGHT 2012 Nielsen Online -->
+<script type="text/javascript" src="//secure-nz.imrworldwide.com/v60.js">
+</script>
+<script type="text/javascript">
+ var pvar = { cid: "nz-stuff", content: "0", server: "secure-nz" };
+ var feat = { surveys_enabled: 1, sample_rate: 0.1 };
+ var trac = nol_t(pvar, feat);
+ trac.record().post().do_sample();
+</script>
+<noscript>
+ <div>
+ <img src="//secure-nz.imrworldwide.com/cgi-bin/m?ci=nz-stuff&amp;cg=0&amp;cc=1&amp;ts=noscript"
+ width="1" height="1" alt="" />
+ </div>
+</noscript>
+<!-- END Nielsen Online SiteCensus V6.0 -->
+
+<!--end of components/netratings-->
+
+  <!--start of components/omniture-->
+<!-- SiteCatalyst code version: H.21.
+Copyright 1996-2010 Adobe, Inc. All Rights Reserved
+More info available at http://www.omniture.com -->
+<script language="JavaScript" type="text/javascript" src="http://static2.stuff.co.nz/1378959298/static/js/omniture.min.js"></script>
+<script language="JavaScript" type="text/javascript"><!--
+/* You may give each page an identifying name, server, and channel on
+the next lines. */
+
+s.events="";
+
+s.prop1="fairfaxnz-stuff-prd";
+
+s.prop5="home page";
+
+s.prop6="";
+
+s.prop7="";
+
+// get omniture vals from cookie and send them
+if (typeof $ !== 'undefined' && typeof $.cookie !== 'undefined') {
+    var account_cookie_vals = jQuery.parseJSON($.cookie('account'));
+    if (account_cookie_vals) {
+        s.prop14 = s.eVar14 = account_cookie_vals.uid;
+        s.prop50 = s.eVar50 = account_cookie_vals.gender;
+        s.prop51 = s.eVar51 = account_cookie_vals.yob;
+        s.prop52 = s.eVar52 = account_cookie_vals.region_id;
+        if (account_cookie_vals.industry_id !== null) {
+            s.prop53 = s.eVar53 = account_cookie_vals.industry_id;
+        }
+    }
+}
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+<!-- End SiteCatalyst code version: H.21. -->
+<!--end of components/omniture-->
+
+  <script src="http://static2.stuff.co.nz/clientdev/production/refresh/js/common.min.js" type="text/javascript"></script>
+<script src="http://static2.stuff.co.nz/clientdev/production/refresh/js/homepage.min.js" type="text/javascript"></script>
+<script type="text/javascript" src="//amch.questionmarket.com/adsc/d1080635/2/1081178/randm.js"></script>
+
+<!--BEGIN QUALTRICS SITE INTERCEPT-->
+<script type='text/javascript'>
+(function(){var g=function(e,h,f,g){
+this.get=function(a){for(var a=a+"=",c=document.cookie.split(";"),b=0,e=c.length;b<e;b++){for(var d=c[b];" "==d.charAt(0);)d=d.substring(1,d.length);if(0==d.indexOf(a))return d.substring(a.length,d.length)}return null};
+this.set=function(a,c){var b="",b=new Date;b.setTime(b.getTime()+6048E5);b="; expires="+b.toGMTString();document.cookie=a+"="+c+b+"; path=/; "};
+this.check=function(){var a=this.get(f);if(a)a=a.split(":");else if(100!=e)"v"==h&&(e=Math.random()>=e/100?0:100),a=[h,e,0],this.set(f,a.join(":"));else return!0;var c=a[1];if(100==c)return!0;switch(a[0]){case "v":return!1;case "r":return c=a[2]%Math.floor(100/c),a[2]++,this.set(f,a.join(":")),!c}return!0};
+this.go=function(){if(this.check()){var a=document.createElement("script");a.type="text/javascript";a.src=g+ "&t=" + (new Date()).getTime();document.body&&document.body.appendChild(a)}};
+this.start=function(){var a=this;window.addEventListener?window.addEventListener("load",function(){a.go()},!1):window.attachEvent&&window.attachEvent("onload",function(){a.go()})}};
+try{(new g(10,"v","QSI_S_ZN_6PQyEXACiHeKpBX","//zn_6pqyexacihekpbx-fairfaxmedia.siteintercept.qualtrics.com/SIE/?Q_ZID=ZN_6PQyEXACiHeKpBX&Q_LOC="+encodeURIComponent(window.location.href))).start()}catch(i){}})();
+</script><div id='ZN_6PQyEXACiHeKpBX'><!--DO NOT REMOVE-CONTENTS PLACED HERE--></div>
+<!--END SITE INTERCEPT-->
+</body>
+<!--end of main-->
+</html>
+
